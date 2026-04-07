@@ -5,7 +5,7 @@ topic: cancelclaimcoveragepaymentdetailclaimid-coverageid-paymentdetailid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.842Z
+lastCollected: 2026-04-07T09:04:00.395Z
 estimatedTokens: 362
 keywords: [CancelClaimCoveragePaymentDetail, claimId, coverageId, paymentDetailId, Cancel, payment, claim, coverage, detail, record, API, Version, Requires, Chatter]
 ---

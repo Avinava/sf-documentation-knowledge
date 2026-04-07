@@ -5,7 +5,7 @@ topic: quotelinerelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:11.241Z
+lastCollected: 2026-04-07T09:06:03.468Z
 estimatedTokens: 516
 keywords: [QuoteLineRelationship, relationship, quote, line, items, bundle, it’s, immutable, can’t, edited, removed, API, version, 58.0, later]
 ---

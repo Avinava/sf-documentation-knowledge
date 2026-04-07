@@ -5,7 +5,7 @@ topic: customize-invocable-action-input-order-in-flow-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.198Z
+lastCollected: 2026-04-07T09:02:32.468Z
 estimatedTokens: 1352
 keywords: [Customize, Invocable, Action, Input, Order, Flow, Builder, Control, display, grouping, Apex, actions, InvocableActionExtension, metadata, file]
 ---

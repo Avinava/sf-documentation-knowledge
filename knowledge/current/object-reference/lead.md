@@ -5,7 +5,7 @@ topic: lead
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.579Z
+lastCollected: 2026-04-07T09:04:42.929Z
 estimatedTokens: 6152
 keywords: [Lead, prospect, Calls, Converted, Leads, Unread, Status, Picklist, Usage, Java, Sample, Associated, Objects]
 ---

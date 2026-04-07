@@ -5,7 +5,7 @@ topic: deploy-the-canvas-external-client-app-to-an-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.563Z
+lastCollected: 2026-04-07T09:05:04.707Z
 estimatedTokens: 686
 keywords: [Deploy, Canvas, External, Client, App, Org, retrieve, integration, Metadata, API, plugin, own, settings, files, policies]
 ---

@@ -5,7 +5,7 @@ topic: handleupserterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:28.060Z
+lastCollected: 2026-04-07T09:03:46.649Z
 estimatedTokens: 173
 keywords: [HandleUpsertError, Helper, constructs, error, upsert, partyIncome, partyExpense, record, Examples]
 ---

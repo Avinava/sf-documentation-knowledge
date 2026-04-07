@@ -5,7 +5,7 @@ topic: conversationcontextentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.576Z
+lastCollected: 2026-04-07T09:05:41.386Z
 estimatedTokens: 361
 keywords: [ConversationContextEntry, context, message, event, chat, history, agent, messaging, user, API, version, 47.0, later]
 ---

@@ -5,7 +5,7 @@ topic: does-appexchange-checkout-support-multiple-currencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.320Z
+lastCollected: 2026-04-07T09:04:53.990Z
 estimatedTokens: 193
 keywords: [AppExchange, Checkout, support, multiple, currencies, Yes, offer, another, currency, listing, Partner, Console, add, plan, customer]
 ---

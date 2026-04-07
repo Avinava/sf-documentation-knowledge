@@ -5,7 +5,7 @@ topic: promotionqualifier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.603Z
+lastCollected: 2026-04-07T09:04:47.641Z
 estimatedTokens: 1951
 keywords: [PromotionQualifier, product, category, order, want, target, promotion, qualifier, B2B, D2C, store, API, version, 52.0, later]
 ---

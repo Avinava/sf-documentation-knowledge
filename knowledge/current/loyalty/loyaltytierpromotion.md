@@ -5,7 +5,7 @@ topic: loyaltytierpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.353Z
+lastCollected: 2026-04-07T09:04:20.237Z
 estimatedTokens: 318
 keywords: [LoyaltyTierPromotion, junction, member, tier, loyalty, promotion, API, version, 63.0, later, Calls]
 ---

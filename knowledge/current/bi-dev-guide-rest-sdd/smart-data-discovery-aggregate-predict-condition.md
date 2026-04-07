@@ -5,7 +5,7 @@ topic: smart-data-discovery-aggregate-predict-condition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.694Z
+lastCollected: 2026-04-07T09:03:12.953Z
 estimatedTokens: 91
 keywords: [Smart, Data, Discovery, Aggregate, Predict, Condition, collection, Einstein, Discover, predictions]
 ---

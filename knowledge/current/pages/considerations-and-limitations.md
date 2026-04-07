@@ -5,7 +5,7 @@ topic: considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:21.798Z
+lastCollected: 2026-04-07T09:04:56.545Z
 estimatedTokens: 421
 keywords: [Considerations, Limitations, Keep, mind, working, Lightning, message, service, Visualforce]
 ---

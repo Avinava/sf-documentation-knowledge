@@ -5,7 +5,7 @@ topic: openinterface-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:22.023Z
+lastCollected: 2026-04-07T09:03:37.533Z
 estimatedTokens: 417
 keywords: [OpenInterface, Invokes, use-case, invokeMethod, var1, var2, var3, Implementation]
 ---

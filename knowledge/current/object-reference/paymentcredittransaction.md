@@ -5,7 +5,7 @@ topic: paymentcredittransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.443Z
+lastCollected: 2026-04-07T09:04:46.308Z
 estimatedTokens: 731
 keywords: [PaymentCreditTransaction, payment, credit, transaction, API, version, 65.0, later, Calls, Special, Access, Rules]
 ---

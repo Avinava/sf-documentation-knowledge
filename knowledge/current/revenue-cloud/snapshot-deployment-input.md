@@ -5,7 +5,7 @@ topic: snapshot-deployment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:18.023Z
+lastCollected: 2026-04-07T09:01:58.960Z
 estimatedTokens: 183
 keywords: [Snapshot, Deployment, Input, representation, deploy, run-time, catalog]
 ---

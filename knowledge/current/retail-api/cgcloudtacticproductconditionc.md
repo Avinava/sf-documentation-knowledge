@@ -5,7 +5,7 @@ topic: cgcloudtacticproductconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.107Z
+lastCollected: 2026-04-07T09:05:21.726Z
 estimatedTokens: 1905
 keywords: [cgcloud__Tactic_Product_Condition__c, store, internal, conditions, generated, promotions, API, version, 54.0, later, cgcloud, _Tactic, _Product, _Condition, Calls]
 ---

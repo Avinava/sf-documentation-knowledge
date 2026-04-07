@@ -5,7 +5,7 @@ topic: deployresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.883Z
+lastCollected: 2026-04-07T09:02:15.053Z
 estimatedTokens: 3710
 namespace: Metadata
 keywords: [DeployResult, results, metadata, deployment, Usage, canceledBy, canceledByName, checkOnly, completedDate, createdBy, createdByName, createdDate, errorMessage, errorStatusCode, ignoreWarnings]

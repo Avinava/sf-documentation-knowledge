@@ -5,7 +5,7 @@ topic: context
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.501Z
+lastCollected: 2026-04-07T09:05:04.606Z
 estimatedTokens: 739
 keywords: [Context, Salesforce, exclude, portions, data, don’t, control, amount, that’s, excluded, implement, own, Canvas.CanvasLifecycleHandler, Apex, provide]
 ---

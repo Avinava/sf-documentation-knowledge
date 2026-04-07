@@ -5,7 +5,7 @@ topic: cdpmachinelearning-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:35.950Z
+lastCollected: 2026-04-07T09:02:10.559Z
 estimatedTokens: 362
 namespace: ConnectApi
 keywords: [CdpMachineLearning, machine-learning, prediction, Data, predict, API, Version, Requires, Chatter]

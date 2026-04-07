@@ -5,8 +5,8 @@ topic: commerce-webstore-product-children
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.487Z
-estimatedTokens: 806
+lastCollected: 2026-04-07T09:03:25.693Z
+estimatedTokens: 787
 keywords: [Commerce, Webstore, Product, Children, collection, child, products, parent]
 ---
 
@@ -25,7 +25,7 @@ This resource respects buyer View Product entitlements, allowing access only to 
 
 #### Note
 
-Dynamic bundles are supported only in Commerce B2B stores. The Commerce Webstore Product Children API doesn't support them in D2C stores.
+Dynamic bundles are supported only in Commerce B2B stores.
 
 Resource
 

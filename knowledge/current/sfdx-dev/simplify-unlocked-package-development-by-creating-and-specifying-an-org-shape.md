@@ -5,7 +5,7 @@ topic: simplify-unlocked-package-development-by-creating-and-specifying-an-org-s
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.819Z
+lastCollected: 2026-04-07T09:06:13.885Z
 estimatedTokens: 301
 keywords: [Simplify, Unlocked, Package, Development, Creating, Specifying, Org, Shape, package’s, metadata, depends, complex, features, settings, licenses]
 ---

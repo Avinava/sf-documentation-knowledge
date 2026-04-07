@@ -6,7 +6,7 @@ topic: daysbetweendate1-date2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.564Z
+lastCollected: 2026-04-07T09:03:14.337Z
 estimatedTokens: 110
 keywords: [daysBetween, date1, date2, number, days, two, dates]
 ---

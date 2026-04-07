@@ -5,7 +5,7 @@ topic: distributorauthorizationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.300Z
+lastCollected: 2026-04-07T09:05:43.440Z
 estimatedTokens: 275
 keywords: [DistributorAuthorizationHistory, History, tracked, DistributorAuthorization]
 ---

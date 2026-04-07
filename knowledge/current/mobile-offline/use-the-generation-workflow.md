@@ -5,7 +5,7 @@ topic: use-the-generation-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.534Z
+lastCollected: 2026-04-07T09:04:24.653Z
 estimatedTokens: 531
 keywords: [Generation, Workflow, divided, three, phases, Plan, Template, Selection, Setup, Design, Iterate]
 ---

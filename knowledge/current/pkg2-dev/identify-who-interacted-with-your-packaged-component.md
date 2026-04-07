@@ -5,7 +5,7 @@ topic: identify-who-interacted-with-your-packaged-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.013Z
+lastCollected: 2026-04-07T09:05:02.554Z
 estimatedTokens: 383
 keywords: [Identify, Interacted, Packaged, Component, subscriber, org, user, triggered, interaction]
 ---

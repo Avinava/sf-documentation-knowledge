@@ -5,7 +5,7 @@ topic: transactions-payment-updates-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.949Z
+lastCollected: 2026-04-07T09:03:42.296Z
 estimatedTokens: 354
 keywords: [Transactions, Payment, Updates, POST, gateway, processor, metadata, gift, API, supports, updating, reuest, include, any, standard]
 ---
@@ -76,7 +76,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/fundraising/transactions/payment-updates
+https://yourInstance.salesforce.com/services/data/v/connect/fundraising/transactions/payment-updates
 ```
 
 ```

@@ -5,7 +5,7 @@ topic: recordalertdatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.781Z
+lastCollected: 2026-04-07T09:06:04.333Z
 estimatedTokens: 315
 namespace: NamespacePrefix
 keywords: [RecordAlertDataSource, internal, external, source, record, alert, data, API, version, 54.0, later]

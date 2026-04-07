@@ -5,7 +5,7 @@ topic: iserviceprocessconnectfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.426Z
+lastCollected: 2026-04-07T09:05:07.114Z
 estimatedTokens: 899
 namespace: ConnectApi
 keywords: [IServiceProcessConnectFamily, retrieve, service, process, createCaseServiceProcess, serviceProcessRequestData, API, Version, Requires, Chatter, getCaseServiceProcess, svcCatalogRequestId, updateCaseServiceProcesses]

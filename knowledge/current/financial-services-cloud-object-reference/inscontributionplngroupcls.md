@@ -5,7 +5,7 @@ topic: inscontributionplngroupcls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.513Z
+lastCollected: 2026-04-07T09:03:49.790Z
 estimatedTokens: 1105
 keywords: [InsContributionPlnGroupCls, junction, employee, group, their, contribution, towards, insurance, API, version, later, Calls, Associated, Objects]
 ---

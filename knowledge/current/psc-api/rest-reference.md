@@ -5,7 +5,7 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.356Z
+lastCollected: 2026-04-07T09:05:10.119Z
 estimatedTokens: 222
 keywords: [REST, access, Decision, Explainer, APIs, endpoints, follow, similar, conventions, Connect, Group, Membership, Households, Intelligent, Document, Reader, Interest, Tags, Omnistudio, Sector]
 ---

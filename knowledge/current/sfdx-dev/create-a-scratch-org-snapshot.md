@@ -5,7 +5,7 @@ topic: create-a-scratch-org-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.615Z
+lastCollected: 2026-04-07T09:06:13.557Z
 estimatedTokens: 559
 keywords: [Scratch, Org, Snapshot, source, wasn’t, created]
 ---

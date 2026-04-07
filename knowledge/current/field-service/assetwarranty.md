@@ -5,7 +5,7 @@ topic: assetwarranty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.926Z
+lastCollected: 2026-04-07T09:03:01.452Z
 estimatedTokens: 854
 keywords: [AssetWarranty, warranty, terms, applicable, asset, along, any, exclusions, extensions, API, version, 50.0, later, Calls, Associated]
 ---

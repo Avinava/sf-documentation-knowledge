@@ -5,7 +5,7 @@ topic: datadetplcydatasrchexps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.002Z
+lastCollected: 2026-04-07T09:04:38.789Z
 estimatedTokens: 418
 keywords: [DataDetPlcyDataSrchExps, data, search, expressions, scanning, DataDetect, scan, policies, Java, regex, API, version, 64.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: how-to-use-salesforce-lambda-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.647Z
+lastCollected: 2026-04-07T09:06:17.923Z
 estimatedTokens: 601
 keywords: [How, Salesforce, Lambda, Functions, several, Service, Cloud, Voice, contact, flows, sample, own]
 ---

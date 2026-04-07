@@ -5,7 +5,7 @@ topic: vpls360csr-transformpersonaldetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.305Z
+lastCollected: 2026-04-07T09:04:21.484Z
 estimatedTokens: 82
 keywords: [vpls360csr-TransformPersonalDetails, Omnistudio, Data, Mapper, transforms, personal, account, Sample, Input, Output]
 ---

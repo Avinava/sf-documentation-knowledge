@@ -5,7 +5,7 @@ topic: create-a-package-version-based-on-a-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.640Z
+lastCollected: 2026-04-07T09:06:13.598Z
 estimatedTokens: 705
 keywords: [Package, Version, Snapshot, you’re, partner, ISV, builds, second-generation, managed, packages, depend, base, versions, significantly, faster]
 ---

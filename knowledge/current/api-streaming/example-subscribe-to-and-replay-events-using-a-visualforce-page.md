@@ -6,7 +6,7 @@ topic: example-subscribe-to-and-replay-events-using-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.209Z
+lastCollected: 2026-04-07T09:03:04.921Z
 estimatedTokens: 463
 keywords: [Subscribe, Replay, Events, Visualforce, sample, app, how, durable, streaming, PushTopic, generic, two, interactive, pages, generate]
 ---

@@ -5,7 +5,7 @@ topic: wkfslshiftmanagementmetricc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.574Z
+lastCollected: 2026-04-07T09:06:19.342Z
 estimatedTokens: 678
 keywords: [wkfsl__Shift_Management_Metric__c, Stores, metrics, summarize, shift, data, employees, planned, occupancy, record, calculated, associated, location, scoped, current]
 ---

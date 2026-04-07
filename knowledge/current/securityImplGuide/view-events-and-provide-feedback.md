@@ -5,7 +5,7 @@ topic: view-events-and-provide-feedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.901Z
+lastCollected: 2026-04-07T09:05:28.687Z
 estimatedTokens: 766
 keywords: [View, Events, Provide, Feedback, recent, Threat, Detection, app, Salesforce, stored, their, corresponding, storage, objects, ReportAnomalyEventStore]
 ---

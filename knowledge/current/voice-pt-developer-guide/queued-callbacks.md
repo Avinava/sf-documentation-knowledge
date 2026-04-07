@@ -5,7 +5,7 @@ topic: queued-callbacks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.925Z
+lastCollected: 2026-04-07T09:06:18.348Z
 estimatedTokens: 973
 keywords: [Queued, Callbacks, customer, inbound, call, telephony, system, creates, voice, routes, rep, requests, callback, publish, QUEUED_CALLBACK_STARTED]
 ---

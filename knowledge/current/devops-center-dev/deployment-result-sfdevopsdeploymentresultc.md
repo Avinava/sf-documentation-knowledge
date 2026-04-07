@@ -5,7 +5,7 @@ topic: deployment-result-sfdevopsdeploymentresultc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.469Z
+lastCollected: 2026-04-07T09:03:41.553Z
 estimatedTokens: 1305
 keywords: [Deployment, Result, sf_devops__Deployment_Result__c, DevOps, Center, Heroku, application, how, execute, metadata, environment, Apex, tests, test, level]
 ---

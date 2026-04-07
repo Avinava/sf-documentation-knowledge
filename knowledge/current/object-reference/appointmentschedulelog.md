@@ -5,7 +5,7 @@ topic: appointmentschedulelog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.703Z
+lastCollected: 2026-04-07T09:04:34.817Z
 estimatedTokens: 1208
 keywords: [AppointmentScheduleLog, Stores, service, appointments, Resource, calculate, utilization, AppointmentScheduleAggr, API, version, 52.0, later, Calls, Associated, Objects]
 ---

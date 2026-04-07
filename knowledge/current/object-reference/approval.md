@@ -5,7 +5,7 @@ topic: approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.731Z
+lastCollected: 2026-04-07T09:04:34.852Z
 estimatedTokens: 1108
 keywords: [Approval, Contract, Calls, Special, Access, Rules, Usage]
 ---

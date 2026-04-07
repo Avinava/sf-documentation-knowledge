@@ -5,7 +5,7 @@ topic: connectapipostauthorizationresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:28.466Z
+lastCollected: 2026-04-07T09:02:25.590Z
 estimatedTokens: 325
 keywords: [ConnectApi.PostAuthorizationResponse, Gateway, post, authorization]
 ---

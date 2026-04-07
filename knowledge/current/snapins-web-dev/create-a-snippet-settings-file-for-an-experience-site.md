@@ -5,7 +5,7 @@ topic: create-a-snippet-settings-file-for-an-experience-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.487Z
+lastCollected: 2026-04-07T09:06:14.796Z
 estimatedTokens: 1330
 keywords: [Snippet, Settings, File, Experience, Site, Take, snippet-only, extra, pre-chat, configuration, direct-to-button, routing, JavaScript, upload, resource]
 ---

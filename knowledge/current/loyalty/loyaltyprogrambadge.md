@@ -5,7 +5,7 @@ topic: loyaltyprogrambadge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.212Z
+lastCollected: 2026-04-07T09:04:20.048Z
 estimatedTokens: 926
 keywords: [LoyaltyProgramBadge, badge, that's, associated, loyalty, program, API, version, 56.0, later, Calls, Objects]
 ---

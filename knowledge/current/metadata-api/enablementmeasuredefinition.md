@@ -5,7 +5,7 @@ topic: enablementmeasuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:06.156Z
+lastCollected: 2026-04-07T09:02:39.922Z
 estimatedTokens: 2176
 keywords: [EnablementMeasureDefinition, Enablement, measure, job-related, activity, user, performs, milestone, outcome, program, identifies, source, objects, filters, filter]
 ---

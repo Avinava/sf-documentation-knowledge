@@ -5,7 +5,7 @@ topic: use-css-outside-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.145Z
+lastCollected: 2026-04-07T09:04:55.421Z
 estimatedTokens: 223
 keywords: [CSS, Outside, Components, Salesforce, Platform, tries, ensure, isolated, sandbox, isolation, can’t, always, guaranteed, breach, occurs]
 ---

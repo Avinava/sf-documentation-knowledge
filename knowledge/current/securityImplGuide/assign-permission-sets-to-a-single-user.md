@@ -5,7 +5,7 @@ topic: assign-permission-sets-to-a-single-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.815Z
+lastCollected: 2026-04-07T09:05:28.545Z
 estimatedTokens: 135
 keywords: [Assign, Permission, User, remove, assignments, detail]
 ---

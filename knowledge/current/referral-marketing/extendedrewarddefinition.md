@@ -5,7 +5,7 @@ topic: extendedrewarddefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.129Z
+lastCollected: 2026-04-07T09:05:16.587Z
 estimatedTokens: 815
 keywords: [ExtendedRewardDefinition, definition, extended, reward, associated, loyalty, program, API, version, 64.0, later, Calls, Objects]
 ---

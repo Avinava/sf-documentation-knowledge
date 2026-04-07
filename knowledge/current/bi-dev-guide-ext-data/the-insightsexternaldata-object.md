@@ -5,7 +5,7 @@ topic: the-insightsexternaldata-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.165Z
+lastCollected: 2026-04-07T09:03:07.550Z
 estimatedTokens: 2476
 keywords: [InsightsExternalData, configure, control, external, data, uploads, provide, metadata, trigger, start, upload, process, check, status, cancellation]
 ---

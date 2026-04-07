@@ -5,7 +5,7 @@ topic: healthcloudext-namespace-for-intelligent-content-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.706Z
+lastCollected: 2026-04-07T09:03:52.411Z
 estimatedTokens: 129
 namespace: HealthCloudExt
 keywords: [HealthCloudExt, Intelligent, Content, Management, classes, Health, Cloud, manage]

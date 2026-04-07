@@ -5,7 +5,7 @@ topic: careprogramgoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.410Z
+lastCollected: 2026-04-07T09:04:09.873Z
 estimatedTokens: 1251
 keywords: [CareProgramGoal, business, clinical, goal, care, program, Calls, Associated, Objects]
 ---
@@ -31,7 +31,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionA detailed description of the care program goal. |
 | DueDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe due date for a care program goal. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescriptionName of the care program goal. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | Priority | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe priority of the care program goal. |

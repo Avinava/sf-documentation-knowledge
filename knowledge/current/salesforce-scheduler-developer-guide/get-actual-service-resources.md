@@ -5,7 +5,7 @@ topic: get-actual-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.984Z
+lastCollected: 2026-04-07T09:05:27.356Z
 estimatedTokens: 507
 keywords: [Actual, Service, Resources, Retrieve, resources—an, employee, company, loan, officer, investment, advisor, doctor, nurse, practitioner, retail]
 ---

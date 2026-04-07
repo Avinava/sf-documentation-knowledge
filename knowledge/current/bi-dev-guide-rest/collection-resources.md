@@ -5,7 +5,7 @@ topic: collection-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.159Z
+lastCollected: 2026-04-07T09:03:09.056Z
 estimatedTokens: 560
 keywords: [Collection, Resources, Analytics, collections, let, users, manage, their, own, groups, items, personalize, Studio, home]
 ---

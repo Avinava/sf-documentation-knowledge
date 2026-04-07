@@ -5,7 +5,7 @@ topic: emissionsforecastfact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.934Z
+lastCollected: 2026-04-07T09:05:44.379Z
 estimatedTokens: 1078
 keywords: [EmissionsForecastFact, time, periods, measures, dimensions, forecast, emissions, company, generated, business, revenue, employee, count, actual, data]
 ---

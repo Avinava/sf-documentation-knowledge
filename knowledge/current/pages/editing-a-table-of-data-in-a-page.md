@@ -5,7 +5,7 @@ topic: editing-a-table-of-data-in-a-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.010Z
+lastCollected: 2026-04-07T09:04:59.776Z
 estimatedTokens: 452
 keywords: [Editing, Data, tutorial, built, <apex, inputField>, columns, editable, commandButton>, save, change, Any, message, Saving, automatically]
 ---

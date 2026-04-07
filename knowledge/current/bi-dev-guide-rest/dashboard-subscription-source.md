@@ -5,7 +5,7 @@ topic: dashboard-subscription-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.172Z
+lastCollected: 2026-04-07T09:03:10.488Z
 estimatedTokens: 187
 keywords: [Dashboard, Subscription, Source]
 ---

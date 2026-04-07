@@ -5,7 +5,7 @@ topic: work-with-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.677Z
+lastCollected: 2026-04-07T09:06:13.658Z
 estimatedTokens: 1162
 keywords: [Work, Data, Development, environments, scratch, orgs, developer, sandboxes, stock, testing]
 ---

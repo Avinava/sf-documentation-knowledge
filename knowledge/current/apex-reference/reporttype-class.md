@@ -5,7 +5,7 @@ topic: reporttype-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.571Z
+lastCollected: 2026-04-07T09:02:18.065Z
 estimatedTokens: 334
 namespace: Reports
 keywords: [ReportType, unique, API, display, report, getLabel, getType]

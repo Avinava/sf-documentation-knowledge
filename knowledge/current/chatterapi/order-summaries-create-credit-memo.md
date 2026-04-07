@@ -5,7 +5,7 @@ topic: order-summaries-create-credit-memo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.521Z
+lastCollected: 2026-04-07T09:03:28.600Z
 estimatedTokens: 420
 keywords: [Order, Summaries, Credit, Memo, represent, refund, change, orders, associated, OrderSummary]
 ---

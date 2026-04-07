@@ -5,7 +5,7 @@ topic: lightningexitbypagemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.290Z
+lastCollected: 2026-04-07T09:05:51.653Z
 estimatedTokens: 259
 keywords: [LightningExitByPageMetrics, frequency, metrics, standard, pages, users, switched, Lightning, Experience, Salesforce, Classic, API, version, 44.0, later]
 ---

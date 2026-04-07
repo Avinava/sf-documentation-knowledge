@@ -5,7 +5,7 @@ topic: account-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.224Z
+lastCollected: 2026-04-07T09:05:18.136Z
 estimatedTokens: 196
 keywords: [Account, Dimension, integration, export, configured, sales, org, CSV, exports, executed, meta, JSON]
 ---

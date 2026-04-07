@@ -5,7 +5,7 @@ topic: find-another-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.887Z
+lastCollected: 2026-04-07T09:05:24.012Z
 estimatedTokens: 257
 keywords: [Another, Action, Sometimes, customer, interaction, requires, step, doesn’t, appear, Actions, Recommendations, component, agent, clicks, Add]
 ---

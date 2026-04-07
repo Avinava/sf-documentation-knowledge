@@ -5,7 +5,7 @@ topic: carebnftvrfyrqststschgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.237Z
+lastCollected: 2026-04-07T09:04:09.665Z
 estimatedTokens: 209
 keywords: [CareBnftVrfyRqstStsChgEvent, Notifies, subscribers, changes, status, care, benefit, verify, API, version, 65.0, later, Calls, Special, Access]
 ---

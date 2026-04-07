@@ -5,7 +5,7 @@ topic: procedureoutputresolution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.899Z
+lastCollected: 2026-04-07T09:06:00.445Z
 estimatedTokens: 348
 namespace: NamespacePrefix
 keywords: [ProcedureOutputResolution, pricing, resolution, element, determined, strategy, formula, API, version, 63.0, later]

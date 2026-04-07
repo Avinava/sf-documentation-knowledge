@@ -5,7 +5,7 @@ topic: revsignaling-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:31.641Z
+lastCollected: 2026-04-07T09:02:29.771Z
 estimatedTokens: 341
 namespace: RevSignaling
 keywords: [RevSignaling, classes, extend, standard, procedure, plan, implementation, custom, logic, helps, procedures, configure, execution, settings, relate]

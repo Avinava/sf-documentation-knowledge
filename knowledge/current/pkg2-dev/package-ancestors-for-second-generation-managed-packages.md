@@ -5,7 +5,7 @@ topic: package-ancestors-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.106Z
+lastCollected: 2026-04-07T09:05:03.911Z
 estimatedTokens: 1162
 keywords: [Package, Ancestors, Second-Generation, Managed, Packages, packaging, 2GP, offers, flexible, versioning, model, lets, break, linear, abandon]
 ---

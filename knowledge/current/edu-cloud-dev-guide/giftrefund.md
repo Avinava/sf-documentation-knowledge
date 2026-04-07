@@ -5,7 +5,7 @@ topic: giftrefund
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.560Z
+lastCollected: 2026-04-07T09:03:43.196Z
 estimatedTokens: 1149
 keywords: [GiftRefund, refund, gift, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

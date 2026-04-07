@@ -5,7 +5,7 @@ topic: apptbundlepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.793Z
+lastCollected: 2026-04-07T09:03:01.312Z
 estimatedTokens: 994
 keywords: [ApptBundlePolicy, Policy, how, bundling, service, appointments, handled, API, version, 54.0, later, Calls, Special, Access, Rules]
 ---

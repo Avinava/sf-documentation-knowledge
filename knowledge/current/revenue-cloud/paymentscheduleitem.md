@@ -5,7 +5,7 @@ topic: paymentscheduleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:26.501Z
+lastCollected: 2026-04-07T09:02:04.724Z
 estimatedTokens: 2180
 keywords: [PaymentScheduleItem, payment, processed, schedule, item, different, configuration, dates, accounts, scheduler, launches, run, evaluates, active, items]
 ---

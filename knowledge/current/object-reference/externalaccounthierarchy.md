@@ -5,7 +5,7 @@ topic: externalaccounthierarchy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.886Z
+lastCollected: 2026-04-07T09:04:41.052Z
 estimatedTokens: 620
 keywords: [ExternalAccountHierarchy, external, account, hierarchy, works, role-based, allow, partner, customer, users, share, data, accounts, their, hierarchy.This]
 ---

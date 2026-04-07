@@ -5,8 +5,8 @@ topic: how-devops-center-uses-asynchronous-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.363Z
-estimatedTokens: 937
+lastCollected: 2026-04-07T09:03:41.397Z
+estimatedTokens: 929
 keywords: [How, DevOps, Center, Uses, Asynchronous, Operations, custom, objects, model, live, org, installed, managed, package, performs]
 ---
 
@@ -30,13 +30,13 @@ For example, when DevOps Center deploys metadata to a staging environment, it pa
 
 DevOps Center manages these asynchronous operations by creating a record in the Async Operation Result custom object each time it interacts with the Heroku application. The request payload that DevOps Center sends to Heroku includes the ID of this new record; Heroku uses the ID to update the Messages field of the Async Operation Result record with its progress. DevOps Center posts these progress messages to the UI, such as this message about deploying metadata during a promotion:
 
-![DevOps Center showing a message about deploying metadata during a promotion to the UAT pipeline stage.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_aor_promote.png&folder=devops_center_dev)
+![DevOps Center showing a message about deploying metadata during a promotion to the UAT pipeline stage.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_aor_promote.png&folder=devops_center_dev)
 
 When Heroku finishes the operation, it changes the Status field of Async Operation Result to either Completed or Error.
 
 While Heroku is performing these operations, DevOps Center watches the Async Operation Result record for the change in status. When it happens, an Apex trigger updates other objects in the model to reflect the final state. For example, when the async operations associated with a promotion complete successfully, DevOps Center updates the Completion Date field of the Deployment Result. This update in turn lets the rest of the objects know that the promotion succeeded. Here’s a diagram to show the flow.
 
-![Diagram of the process flow between DevOps Center and the Herokup application.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_aor_overview.png&folder=devops_center_dev)
+![Diagram of the process flow between DevOps Center and the Herokup application.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_aor_overview.png&folder=devops_center_dev)
 
 When DevOps Center performs a remote operation, all objects that are part of the operation are associated with the Async Operation Result. This design serves two purposes:
 

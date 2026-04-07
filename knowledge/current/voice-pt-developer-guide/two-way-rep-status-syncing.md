@@ -5,7 +5,7 @@ topic: two-way-rep-status-syncing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.953Z
+lastCollected: 2026-04-07T09:06:18.396Z
 estimatedTokens: 549
 keywords: [Two-Way, Rep, Status, Syncing, presence, changed, Omni-Channel, widget, partner, connector, added, ability, change, passes, back]
 ---

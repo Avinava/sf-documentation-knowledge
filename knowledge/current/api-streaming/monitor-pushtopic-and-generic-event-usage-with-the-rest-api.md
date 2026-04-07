@@ -5,7 +5,7 @@ topic: monitor-pushtopic-and-generic-event-usage-with-the-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.525Z
+lastCollected: 2026-04-07T09:03:05.330Z
 estimatedTokens: 440
 keywords: [Monitor, PushTopic, Generic, Event, Usage, REST, API, limits, resource, obtain, Streaming, version, 36.0, earlier, Durable]
 ---

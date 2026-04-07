@@ -5,7 +5,7 @@ topic: predict-values-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:42.392Z
+lastCollected: 2026-04-07T09:05:24.846Z
 estimatedTokens: 103
 keywords: [Predict, Setup, Input, node]
 ---

@@ -5,7 +5,7 @@ topic: soql-and-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.969Z
+lastCollected: 2026-04-07T09:05:24.149Z
 estimatedTokens: 725
 keywords: [SOQL, SOSL, filters, specific, terms, queries]
 ---
@@ -28,6 +28,5 @@ keywords: [SOQL, SOSL, filters, specific, terms, queries]
 
 ## Related Topics
 
-- Standard and Custom Indexed
-        Fields (atlas.en-us.salesforce_large_data_volumes_bp.meta/salesforce_large_data_volumes_bp/ldv_deployments_infrastructure_indexes.htm)
+- Standard and Custom Indexed Fields (atlas.en-us.salesforce_large_data_volumes_bp.meta/salesforce_large_data_volumes_bp/ldv_deployments_infrastructure_indexes.htm)
 - Using SOQL and SOSL (atlas.en-us.salesforce_large_data_volumes_bp.meta/salesforce_large_data_volumes_bp/ldv_deployments_techniques_using_soql_and_sosl.htm)

@@ -6,7 +6,7 @@ topic: verify-the-wsdl-environment-wsdl-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.271Z
+lastCollected: 2026-04-07T09:05:23.077Z
 estimatedTokens: 777
 keywords: [Verify, WSDL, Environment, WSDL-Based, APIs, developer, simple, test, application, Visual, Studio]
 ---

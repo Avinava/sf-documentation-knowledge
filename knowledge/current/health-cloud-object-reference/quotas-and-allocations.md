@@ -5,7 +5,7 @@ topic: quotas-and-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.325Z
+lastCollected: 2026-04-07T09:03:53.278Z
 estimatedTokens: 405
 keywords: [Quotas, Allocations, slots, manage, therapies, Work, Procedures, various, stages, across, multiple, treatment, centers]
 ---

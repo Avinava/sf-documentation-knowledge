@@ -5,7 +5,7 @@ topic: create-dynamic-picklists-for-your-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.101Z
+lastCollected: 2026-04-07T09:04:12.873Z
 estimatedTokens: 1149
 keywords: [Dynamic, Picklists, Custom, Components, expose, component, picklist, configured, Lightning, App, Builder, picklist’s, provided, Apex, Add]
 ---

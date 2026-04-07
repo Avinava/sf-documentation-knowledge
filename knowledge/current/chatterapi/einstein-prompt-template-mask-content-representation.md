@@ -5,7 +5,7 @@ topic: einstein-prompt-template-mask-content-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.375Z
+lastCollected: 2026-04-07T09:03:31.476Z
 estimatedTokens: 172
 keywords: [Einstein, Prompt, Template, Mask, Content, Representation, Generated, resolved, masked, data, masking]
 ---

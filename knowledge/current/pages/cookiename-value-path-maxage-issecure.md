@@ -5,7 +5,7 @@ topic: cookiename-value-path-maxage-issecure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.638Z
+lastCollected: 2026-04-07T09:04:56.255Z
 estimatedTokens: 191
 keywords: [Cookie, path, maxAge, isSecure, Creates, new, instance, age, secure, setting]
 ---

@@ -5,7 +5,7 @@ topic: serviceresourcepreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.923Z
+lastCollected: 2026-04-07T09:04:49.313Z
 estimatedTokens: 546
 keywords: [ServiceResourcePreference, service, resource, scheduling, preferences, considered, business, objective, logic, engine, API, version, 52.0, later, Calls]
 ---

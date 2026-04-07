@@ -5,7 +5,7 @@ topic: review-approval-work-item-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.150Z
+lastCollected: 2026-04-07T09:01:55.281Z
 estimatedTokens: 497
 keywords: [Review, Approval, Work, Item, Action, status, assignee, reviewer's, decision, any, comments, reviewer, added, REST, HTTP]
 ---

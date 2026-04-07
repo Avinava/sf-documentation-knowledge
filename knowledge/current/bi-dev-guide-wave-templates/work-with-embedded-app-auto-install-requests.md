@@ -5,7 +5,7 @@ topic: work-with-embedded-app-auto-install-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.440Z
+lastCollected: 2026-04-07T09:03:15.689Z
 estimatedTokens: 2666
 keywords: [Work, Embedded, App, Auto-Install, Requests, templates, apps, any, custom, code, add, customizations, lifecycle, Apex, classes]
 ---

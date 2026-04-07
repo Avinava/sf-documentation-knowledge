@@ -5,8 +5,8 @@ topic: fhir-subscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:34.091Z
-estimatedTokens: 843
+lastCollected: 2026-04-07T09:03:54.442Z
+estimatedTokens: 819
 keywords: [FHIR, Subscription, Publishers, Fast, Healthcare, Interoperability, Resources, data, model, store, topics, subscriber, filters, applied, event]
 ---
 
@@ -22,10 +22,6 @@ keywords: [FHIR, Subscription, Publishers, Fast, Healthcare, Interoperability, R
 # FHIR Subscription
 
 Publishers can use the Fast Healthcare Interoperability Resources (FHIR) Subscription data model to store subscription topics, subscriber details, the filters and parameters applied to a subscription, and other subscription details. When an event change occurs in the subscribed resource, it triggers a notification and a platform event is created as an Interoperability Topic Subscription Event record. Then, Mulesoft sends the notification to the subscriber’s endpoint in real time.
-
-| Available in: Lightning ExperienceAvailable in: Enterprise and Unlimited Editions |
-| --- |
-
 
 The FHIR Subscription data model is available to users with the Health Cloud Foundation and the FHIR Subscription permission sets.
 

@@ -5,7 +5,7 @@ topic: leadcleaninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.611Z
+lastCollected: 2026-04-07T09:04:42.964Z
 estimatedTokens: 3647
 keywords: [LeadCleanInfo, Stores, metadata, Data.com, Clean, uses, determine, lead, record’s, status, Helps, automate, cleaning, processing, records]
 ---

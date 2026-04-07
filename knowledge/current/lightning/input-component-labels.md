@@ -5,7 +5,7 @@ topic: input-component-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.216Z
+lastCollected: 2026-04-07T09:04:14.475Z
 estimatedTokens: 219
 keywords: [Input, Component, Labels, label, purpose, attribute, $Label]
 ---

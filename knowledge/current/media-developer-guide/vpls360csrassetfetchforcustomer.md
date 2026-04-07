@@ -5,7 +5,7 @@ topic: vpls360csrassetfetchforcustomer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.271Z
+lastCollected: 2026-04-07T09:04:21.386Z
 estimatedTokens: 112
 keywords: [vpls360csr_AssetFetchForCustomer, Integration, Procedure, agent, console, fetch, assets, order, items, total, subscription, amount, account, vpls360csr, _AssetFetchForCustomer]
 ---

@@ -5,7 +5,7 @@ topic: apeximage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.512Z
+lastCollected: 2026-04-07T09:04:57.571Z
 estimatedTokens: 1305
 keywords: [apex, image, graphic, rendered, HTML, <img>, tag, Resource, Zip, IMAGEPROXYURL, Attributes]
 ---

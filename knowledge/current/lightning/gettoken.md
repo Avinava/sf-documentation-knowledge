@@ -5,7 +5,7 @@ topic: gettoken
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.743Z
+lastCollected: 2026-04-07T09:04:15.313Z
 estimatedTokens: 90
 keywords: [getToken, application, configuration, token, referenced, tokens, file, configured, attribute, <aura, application>, tag]
 ---

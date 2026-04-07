@@ -5,7 +5,7 @@ topic: components-available-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:25.332Z
+lastCollected: 2026-04-07T09:05:01.452Z
 estimatedTokens: 151544
 keywords: [Components, First-Generation, Managed, Packages, metadata, component, include, package, certain, rules, determine, behavior, subscriber, org, Manageability]
 ---
@@ -225,7 +225,7 @@ Certain properties on metadata components are editable after the managed package
     Represents a text-based code structure of your organization’s workspaces, organized by workspace type, and each workspace’s content items.
 -   **[Digital Experience Bundle](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#mdc_digital_experience_bundle)**
     Represents a text-based code structure of your organization’s workspaces, organized by workspace type, and each workspace’s content items.
--   **[Decision Table](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#unique_1313445165)**
+-   **[Decision Table](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#unique_1580052350)**
     Represents the information about a decision table.
 -   **[Disclosure Definition](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#mdc_nzc_disclosure_definition)**
     Represents information that defines a disclosure type, such as details of the publisher or vendor who created or implemented the report.
@@ -503,7 +503,7 @@ Certain properties on metadata components are editable after the managed package
     Represents the setup object that contains the mapping between the Vehicle Asset Emissions Source record type and internal enums. You can primarily use this object for calculations across different record types.
 -   **[View Definition (Beta)](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#mdc_viewdefinitions)**
     Represents a view definition on a Slack app.
--   **[Virtual Visit Config](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#unique_2087135927)**
+-   **[Virtual Visit Config](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#unique_595459286)**
     Represents an external video provider configuration, which relays events from Salesforce to the provider.
 -   **[Visualforce Component](atlas.en-us.pkg1_dev.meta/pkg1_dev/first_gen_packageable_components.htm#mdc_vf_component)**
     Represents a Visualforce component.

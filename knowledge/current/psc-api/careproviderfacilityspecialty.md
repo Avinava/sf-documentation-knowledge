@@ -5,7 +5,7 @@ topic: careproviderfacilityspecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.752Z
+lastCollected: 2026-04-07T09:05:14.808Z
 estimatedTokens: 1330
 keywords: [CareProviderFacilitySpecialty, specialties, practitioner, location, physician, board-certified, spine, neuro, may, provide, services, another, Calls, Special, Access]
 ---

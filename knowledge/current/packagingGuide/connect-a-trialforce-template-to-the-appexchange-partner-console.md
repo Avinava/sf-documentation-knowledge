@@ -5,7 +5,7 @@ topic: connect-a-trialforce-template-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.961Z
+lastCollected: 2026-04-07T09:04:55.023Z
 estimatedTokens: 196
 keywords: [Connect, Trialforce, Template, AppExchange, Partner, Console, it’s, add, listing]
 ---

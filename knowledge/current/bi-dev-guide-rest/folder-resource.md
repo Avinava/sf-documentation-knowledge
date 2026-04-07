@@ -5,7 +5,7 @@ topic: folder-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.746Z
+lastCollected: 2026-04-07T09:03:09.736Z
 estimatedTokens: 885
 keywords: [Folder, Resource, deletes, updates, replaces, Analytics, app, URL, Formats, Version, Postman, Components, HTTP, PUT, PATCH]
 ---

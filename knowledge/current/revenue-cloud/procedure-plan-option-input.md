@@ -5,7 +5,7 @@ topic: procedure-plan-option-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.690Z
+lastCollected: 2026-04-07T09:01:58.727Z
 estimatedTokens: 429
 keywords: [Procedure, Plan, Option, Input, representation]
 ---

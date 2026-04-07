@@ -5,7 +5,7 @@ topic: enhanced-transaction-security-apex-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.669Z
+lastCollected: 2026-04-07T09:05:28.325Z
 estimatedTokens: 1417
 keywords: [Enhanced, Transaction, Security, Apex, Testing, Writing, robust, tests, engineering, best, practice, ensure, code, expect, errors]
 ---

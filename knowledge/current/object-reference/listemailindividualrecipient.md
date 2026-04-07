@@ -5,7 +5,7 @@ topic: listemailindividualrecipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.257Z
+lastCollected: 2026-04-07T09:04:43.688Z
 estimatedTokens: 513
 keywords: [ListEmailIndividualRecipient, email, Salesforce, recipient, record, link, Recipients, contacts, leads, campaign, members, one-to-many, relationship, ListEmail, API]
 ---

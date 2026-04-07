@@ -5,7 +5,7 @@ topic: soql-injection-due-to-insecure-database-query-construction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.177Z
+lastCollected: 2026-04-07T09:04:55.493Z
 estimatedTokens: 882
 keywords: [SOQL, Injection, Due, Insecure, Database, Query, Construction, prevent, Salesforce, Language, bind, variables, input, sanitation, Examples]
 ---

@@ -5,7 +5,7 @@ topic: extdatasharehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.728Z
+lastCollected: 2026-04-07T09:05:45.499Z
 estimatedTokens: 258
 keywords: [ExtDataShareHistory, History, tracked, ExtDataShare]
 ---

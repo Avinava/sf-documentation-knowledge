@@ -5,7 +5,7 @@ topic: add-query-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.314Z
+lastCollected: 2026-04-07T09:04:13.199Z
 estimatedTokens: 394
 keywords: [Add, Query, URL, PageReference, state, key-value, pairs, serialized, describe, form, specific, user, save, bookmark]
 ---

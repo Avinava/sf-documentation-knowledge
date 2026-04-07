@@ -5,7 +5,7 @@ topic: loyalty-engine-run-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.930Z
+lastCollected: 2026-04-07T09:04:17.068Z
 estimatedTokens: 132
 keywords: [Loyalty, Engine, Run, Settings, Input, representation, simulation, transaction, journals]
 ---

@@ -5,7 +5,7 @@ topic: getting-started-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:43.349Z
+lastCollected: 2026-04-07T09:02:32.608Z
 estimatedTokens: 253
 keywords: [Getting, Started, Apex, development, lifecycle, Follow, step-by-step, tutorial, trigger, deploy, production, organization]
 ---

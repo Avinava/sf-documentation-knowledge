@@ -5,7 +5,7 @@ topic: create-custom-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.118Z
+lastCollected: 2026-04-07T09:02:32.391Z
 estimatedTokens: 1262
 keywords: [Custom, Exceptions, enable, specify, detailed, error, messages, handling, catch, blocks, Rethrowing, Inner, Exception]
 ---

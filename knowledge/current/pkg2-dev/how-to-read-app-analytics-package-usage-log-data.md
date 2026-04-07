@@ -5,7 +5,7 @@ topic: how-to-read-app-analytics-package-usage-log-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.990Z
+lastCollected: 2026-04-07T09:05:02.525Z
 estimatedTokens: 1104
 keywords: [How, App, Analytics, Package, Usage, Log, Data, logs, contain, subscribers, interact, managed, packaged, components, line]
 ---

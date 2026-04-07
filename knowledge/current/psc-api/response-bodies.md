@@ -5,7 +5,7 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.335Z
+lastCollected: 2026-04-07T09:05:10.079Z
 estimatedTokens: 745
 keywords: [Bodies, Here’s, Decision, Explainer, API, includes, Expression, Group, Membership, Households, APIs, Intelligent, Document, Reader, Interest, Tags, Lookup, known, Calculation, Procedure]
 ---

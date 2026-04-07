@@ -5,7 +5,7 @@ topic: use-the-calendarservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.919Z
+lastCollected: 2026-04-07T09:04:25.216Z
 estimatedTokens: 1491
 keywords: [CalendarService, API, develop, Lightning, web, component, calendar-based, features, accessing, device’s, native, calendar, functionality, Add, Test]
 ---

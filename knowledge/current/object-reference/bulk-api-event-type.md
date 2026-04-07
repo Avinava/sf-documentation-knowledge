@@ -5,7 +5,7 @@ topic: bulk-api-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.977Z
+lastCollected: 2026-04-07T09:04:40.014Z
 estimatedTokens: 1233
 keywords: [Bulk, API, Event, events, contain, requests]
 ---

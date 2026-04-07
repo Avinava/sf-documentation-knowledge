@@ -5,7 +5,7 @@ topic: handling-bubbled-or-captured-component-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.850Z
+lastCollected: 2026-04-07T09:04:13.958Z
 estimatedTokens: 1805
 keywords: [Handling, Bubbled, Captured, Component, Events, Event, propagation, rules, determine, components, containment, hierarchy, handle, bubble, capture]
 ---

@@ -5,7 +5,7 @@ topic: update-personalized-navigation-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.317Z
+lastCollected: 2026-04-07T09:06:15.928Z
 estimatedTokens: 284
 keywords: [Personalized, Navigation, Items, Updates, order, user’s, tabs, adds, item]
 ---

@@ -5,7 +5,7 @@ topic: trigger-text-extraction-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.757Z
+lastCollected: 2026-04-07T09:05:10.870Z
 estimatedTokens: 137
 keywords: [Trigger, Text, Extraction, Output, representation, recent, version, document]
 ---

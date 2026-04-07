@@ -5,7 +5,7 @@ topic: personalorginfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.842Z
+lastCollected: 2026-04-07T09:04:46.713Z
 estimatedTokens: 1076
 keywords: [PersonalOrgInfo, Tableau, personal, org, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: upload-and-submit-a-receipt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.339Z
+lastCollected: 2026-04-07T09:04:18.936Z
 estimatedTokens: 584
 keywords: [Upload, Submit, Receipt, Members, receipts, their, third-party, store, purchases, less, loyalty, points, eligible, line, items]
 ---

@@ -5,7 +5,7 @@ topic: gtwyprovpaymentmethodtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:59.989Z
+lastCollected: 2026-04-07T09:05:48.689Z
 estimatedTokens: 472
 namespace: NamespacePrefix
 keywords: [GtwyProvPaymentMethodType, gateway, provider, payment, integrators, providers, choose, active, receive, order's, data, rather, allowing, Salesforce, Order]

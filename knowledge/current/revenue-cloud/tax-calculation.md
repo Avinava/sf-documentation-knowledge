@@ -5,7 +5,7 @@ topic: tax-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:20.031Z
+lastCollected: 2026-04-07T09:02:00.359Z
 estimatedTokens: 654
 keywords: [Tax, Calculation, Output, representation, calculated]
 ---

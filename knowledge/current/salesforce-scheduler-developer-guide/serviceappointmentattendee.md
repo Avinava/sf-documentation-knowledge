@@ -5,7 +5,7 @@ topic: serviceappointmentattendee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.763Z
+lastCollected: 2026-04-07T09:05:27.052Z
 estimatedTokens: 997
 keywords: [ServiceAppointmentAttendee, Lead, Contact, Person, Account, associated, Service, Appointment, Group, API, version, 60.0, later, Calls, Special]
 ---

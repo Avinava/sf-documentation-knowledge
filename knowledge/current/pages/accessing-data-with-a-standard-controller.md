@@ -5,7 +5,7 @@ topic: accessing-data-with-a-standard-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.396Z
+lastCollected: 2026-04-07T09:04:58.844Z
 estimatedTokens: 422
 keywords: [Accessing, Data, Standard, Controller, Every, includes, getter, record, query, URL, associated, markup, context]
 ---

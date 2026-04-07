@@ -5,7 +5,7 @@ topic: paymentcreationevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.049Z
+lastCollected: 2026-04-07T09:05:06.657Z
 estimatedTokens: 748
 keywords: [PaymentCreationEvent, Notifies, subscribers, process, started, actions, standard, paymentSale, API, version, 55.0, later, Calls, Subscription, Channel]
 ---

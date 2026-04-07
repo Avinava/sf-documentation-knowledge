@@ -5,7 +5,7 @@ topic: manage-favorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:20.036Z
+lastCollected: 2026-04-07T09:06:15.528Z
 estimatedTokens: 550
 keywords: [Manage, Favorites, let, users, access, frequently, pages, Salesforce, User, API, resources]
 ---

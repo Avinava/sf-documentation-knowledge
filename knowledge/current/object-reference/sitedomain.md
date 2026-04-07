@@ -5,7 +5,7 @@ topic: sitedomain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:17.214Z
+lastCollected: 2026-04-07T09:04:49.698Z
 estimatedTokens: 485
 keywords: [SiteDomain, read-only, one-to-many, replacement, Site.TopLevelDomain, API, version, 21.0, deprecated, 26.0, later, Domain, DomainSite, objects, instead]
 ---

@@ -5,7 +5,7 @@ topic: transaction-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.198Z
+lastCollected: 2026-04-07T09:04:17.434Z
 estimatedTokens: 396
 keywords: [Transaction, History, journals, loyalty, member, belonging, program, Obtain, either, accrual, redemption, journal, records, Retrieve, member’s, asynchronously, requesting, data, API, Resource]
 ---

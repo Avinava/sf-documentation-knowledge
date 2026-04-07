@@ -5,7 +5,7 @@ topic: topic-and-article-assignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.724Z
+lastCollected: 2026-04-07T09:03:28.915Z
 estimatedTokens: 226
 keywords: [Topic, Article, Assignments, Assign, topics, articles, unassign, data, category]
 ---

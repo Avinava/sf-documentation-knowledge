@@ -5,7 +5,7 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.673Z
+lastCollected: 2026-04-07T09:03:05.569Z
 estimatedTokens: 328
 keywords: [Bodies, Here’s, Automotive, Cloud, Business, API]
 ---

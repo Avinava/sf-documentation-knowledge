@@ -5,7 +5,7 @@ topic: act-on-security-review-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.193Z
+lastCollected: 2026-04-07T09:04:55.516Z
 estimatedTokens: 350
 keywords: [Act, Security, Review, Results, Approximately, 4–6, weeks, submit, solution, initial, Check, AppExchange, Partner, Console, passed]
 ---

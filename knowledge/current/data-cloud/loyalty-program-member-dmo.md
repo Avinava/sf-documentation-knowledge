@@ -5,7 +5,7 @@ topic: loyalty-program-member-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:33.225Z
+lastCollected: 2026-04-07T09:02:08.973Z
 estimatedTokens: 1272
 keywords: [Loyalty, Program, Member, DMO, Data, Cloud, model, person, joined, API, Category, Primary, Subject, Area, Key]
 ---

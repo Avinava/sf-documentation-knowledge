@@ -5,7 +5,7 @@ topic: apis-for-enterprise-sales-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:26.876Z
+lastCollected: 2026-04-07T09:03:44.857Z
 estimatedTokens: 4516
 keywords: [APIs, Enterprise, Sales, Management, manage, quotes, calling, corresponding, Integration, Procedures, Posting, Data, Procedure, API, Descriptions]
 ---

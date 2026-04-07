@@ -5,7 +5,7 @@ topic: list-info-share-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.861Z
+lastCollected: 2026-04-07T09:06:16.724Z
 estimatedTokens: 145
 keywords: [Info, Share, Category]
 ---

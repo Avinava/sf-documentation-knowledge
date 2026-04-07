@@ -5,7 +5,7 @@ topic: external-record-alert-actions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.913Z
+lastCollected: 2026-04-07T09:02:52.553Z
 estimatedTokens: 279
 keywords: [External, Record, Alert, Actions, POST, Snooze, alerts, source, system, time, period, dismiss]
 ---

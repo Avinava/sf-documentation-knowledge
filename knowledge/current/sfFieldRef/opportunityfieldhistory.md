@@ -5,7 +5,7 @@ topic: opportunityfieldhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.519Z
+lastCollected: 2026-04-07T09:05:56.123Z
 estimatedTokens: 282
 keywords: [OpportunityFieldHistory, history, changes, opportunity, versions, 13.0, later]
 ---

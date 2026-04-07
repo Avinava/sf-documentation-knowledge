@@ -5,7 +5,7 @@ topic: briefcaseassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.628Z
+lastCollected: 2026-04-07T09:04:35.846Z
 estimatedTokens: 447
 keywords: [BriefcaseAssignment, assignment, briefcase, definition, selected, users, user, groups, API, version, 50.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: experience-cloud-site-direct-message-moderation-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.143Z
+lastCollected: 2026-04-07T09:03:23.986Z
 estimatedTokens: 1014
 keywords: [Experience, Cloud, Site, Direct, Message, Moderation, Feed, Resources, containing, messages, flagged, users, Moderate, Experiences, Chatter]
 ---

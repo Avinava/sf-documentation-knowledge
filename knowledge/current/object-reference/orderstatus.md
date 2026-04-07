@@ -5,7 +5,7 @@ topic: orderstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.026Z
+lastCollected: 2026-04-07T09:04:45.844Z
 estimatedTokens: 473
 keywords: [OrderStatus, status, order, entity, API, version, 48.0, later, Calls, Usage]
 ---

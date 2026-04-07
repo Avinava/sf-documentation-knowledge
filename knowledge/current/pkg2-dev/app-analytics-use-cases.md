@@ -5,7 +5,7 @@ topic: app-analytics-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.062Z
+lastCollected: 2026-04-07T09:05:02.614Z
 estimatedTokens: 1853
 keywords: [App, Analytics, Cases, achieve, business, objectives, across, teams, understand, common, how, map, data, sample, product]
 ---

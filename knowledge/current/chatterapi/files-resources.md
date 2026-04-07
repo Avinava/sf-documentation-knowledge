@@ -5,7 +5,7 @@ topic: files-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:15.338Z
+lastCollected: 2026-04-07T09:03:26.924Z
 estimatedTokens: 550
 keywords: [Files, Resources, file, upload, config, including, content, rendered, version, sharing, asset, rendition]
 ---

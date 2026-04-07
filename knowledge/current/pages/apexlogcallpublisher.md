@@ -5,7 +5,7 @@ topic: apexlogcallpublisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.736Z
+lastCollected: 2026-04-07T09:04:57.887Z
 estimatedTokens: 606
 keywords: [apex, logCallPublisher, Log, Call, publisher, lets, support, agents, Case, Feed, logs, customer, calls, component, organizations]
 ---

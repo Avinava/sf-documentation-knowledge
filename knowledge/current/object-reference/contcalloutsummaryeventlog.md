@@ -5,7 +5,7 @@ topic: contcalloutsummaryeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.002Z
+lastCollected: 2026-04-07T09:04:37.538Z
 estimatedTokens: 754
 keywords: [ContCalloutSummaryEventLog, Continuation, Callout, Summary, events, contain, asynchronous, callouts, performed, transaction, their, status, codes, execution, times]
 ---

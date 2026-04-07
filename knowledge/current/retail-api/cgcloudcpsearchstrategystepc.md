@@ -5,7 +5,7 @@ topic: cgcloudcpsearchstrategystepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.535Z
+lastCollected: 2026-04-07T09:05:19.966Z
 estimatedTokens: 1710
 keywords: [cgcloud__CP_Search_Strategy_Step__c, stores, relationship, search, strategy, key, complex, pricing, steps, API, version, 54.0, later, cgcloud, _CP]
 ---

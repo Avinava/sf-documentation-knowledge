@@ -5,7 +5,7 @@ topic: how-api-version-and-source-api-version-work-in-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.097Z
+lastCollected: 2026-04-07T09:06:14.260Z
 estimatedTokens: 2433
 keywords: [How, API, Version, Source, Work, Salesforce, CLI, uses, deploying, retrieving, metadata, org, they, sound, often]
 ---

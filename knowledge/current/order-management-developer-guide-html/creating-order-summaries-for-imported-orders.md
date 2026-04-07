@@ -5,7 +5,7 @@ topic: creating-order-summaries-for-imported-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.086Z
+lastCollected: 2026-04-07T09:04:53.540Z
 estimatedTokens: 518
 keywords: [Creating, Order, Summaries, Imported, Orders, few, ways]
 ---

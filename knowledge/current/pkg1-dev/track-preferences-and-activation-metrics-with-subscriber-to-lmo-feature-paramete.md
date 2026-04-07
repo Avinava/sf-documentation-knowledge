@@ -5,7 +5,7 @@ topic: track-preferences-and-activation-metrics-with-subscriber-to-lmo-feature-p
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.364Z
+lastCollected: 2026-04-07T09:05:01.518Z
 estimatedTokens: 400
 keywords: [Track, Preferences, Activation, Metrics, Subscriber-to-LMO, Feature, subscriber’s, org, assigned, end, sent, LMO, collect, Apex, code]
 ---

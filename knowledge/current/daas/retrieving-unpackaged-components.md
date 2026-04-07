@@ -5,7 +5,7 @@ topic: retrieving-unpackaged-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.133Z
+lastCollected: 2026-04-07T09:03:41.048Z
 estimatedTokens: 265
 keywords: [Retrieving, Unpackaged, Components, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t]
 ---

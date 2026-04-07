@@ -5,7 +5,7 @@ topic: analytics-rest-api-appendix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.111Z
+lastCollected: 2026-04-07T09:03:08.978Z
 estimatedTokens: 6021
 keywords: [Analytics, REST, API, Appendix, references, shared, representations, enums, across, resources, representation, endpoints, their, own, describe]
 ---

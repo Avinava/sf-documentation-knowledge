@@ -5,7 +5,7 @@ topic: careplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.351Z
+lastCollected: 2026-04-07T09:03:57.347Z
 estimatedTokens: 684
 keywords: [CarePlanTemplate, Stores, care, plan, template, that’s, define, to-do, patients, medication, therapy, reviews, API, version, 56.0, instantiate, later, Calls, Associated, Objects]
 ---

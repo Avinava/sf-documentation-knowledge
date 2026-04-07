@@ -5,7 +5,7 @@ topic: access-and-manage-contacts-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.924Z
+lastCollected: 2026-04-07T09:04:25.225Z
 estimatedTokens: 748
 keywords: [Access, Manage, Contacts, Mobile, Device, Lightning, web, component, device’s, features, select, device's, address, book, save]
 ---

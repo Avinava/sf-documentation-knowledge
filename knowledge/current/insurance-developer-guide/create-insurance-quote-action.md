@@ -5,8 +5,8 @@ topic: create-insurance-quote-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.569Z
-estimatedTokens: 636
+lastCollected: 2026-04-07T09:04:00.011Z
+estimatedTokens: 635
 keywords: [Insurance, Quote, Action, context, user, inputs, represent, REST, HTTP, Outputs]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 63.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/createInsuranceQuote
+/services/data/v/actions/standard/createInsuranceQuote
 
 Formats
 

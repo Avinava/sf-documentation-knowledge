@@ -5,7 +5,7 @@ topic: adverseeventparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.032Z
+lastCollected: 2026-04-07T09:04:09.456Z
 estimatedTokens: 853
 keywords: [AdverseEventParty, participated, adverse, event, how, they, were, involved, API, version, 61.0, later, Calls, Associated, Objects]
 ---

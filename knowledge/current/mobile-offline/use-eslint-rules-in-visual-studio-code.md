@@ -5,7 +5,7 @@ topic: use-eslint-rules-in-visual-studio-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.470Z
+lastCollected: 2026-04-07T09:04:24.538Z
 estimatedTokens: 429
 keywords: [ESLint, Rules, Visual, Studio, Code, warnings, against, Lightning, web, components, violates, map, distortions, affect, popup]
 ---

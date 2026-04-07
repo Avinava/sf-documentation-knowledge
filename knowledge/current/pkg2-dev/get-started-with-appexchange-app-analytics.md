@@ -5,7 +5,7 @@ topic: get-started-with-appexchange-app-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.927Z
+lastCollected: 2026-04-07T09:05:02.436Z
 estimatedTokens: 1321
 keywords: [Started, AppExchange, App, Analytics, usage, data, how, subscribers, interact, managed, packages, packaged, components, identify, attrition]
 ---

@@ -5,7 +5,7 @@ topic: electronicmediause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.313Z
+lastCollected: 2026-04-07T09:04:39.228Z
 estimatedTokens: 264
 keywords: [ElectronicMediaUse, usage, media, API, version, 49.0, later, Calls, Special, Access, Rules]
 ---

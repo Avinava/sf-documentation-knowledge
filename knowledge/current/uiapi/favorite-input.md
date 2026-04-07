@@ -5,8 +5,8 @@ topic: favorite-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.185Z
-estimatedTokens: 274
+lastCollected: 2026-04-07T09:06:15.723Z
+estimatedTokens: 276
 keywords: [Favorite, Input]
 ---
 
@@ -28,8 +28,8 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| name | String | The name of the favorite. | You must specify either name or sortOrder. You may specify both. | 41.0 |
-| sortOrder | Integer | The sort order of the favorite, from 1 to N. | You must specify either name or sortOrder. You may specify both. | 41.0 |
+| name | String | The name of the favorite. | Required for PATCH if sortOrder isn't specified. You may specify both. | 41.0 |
+| sortOrder | Integer | The sort order of the favorite, from 1 to N. | Required for PATCH if name is unspecified. You may specify both. | 41.0 |
 | target | String | The record, API name, or content being favorited. | Required in a POST request. Do not specify in a PATCH request. | 41.0 |
 | targetType | String | The type of favorite. One of these values:ListView—A favorited list view.ObjectHome—A favorited object home.Record—A favorited record.Tab—A favorited tab. | Required in a POST request. Do not specify in a PATCH request. | 41.0 |
 

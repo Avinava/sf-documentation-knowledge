@@ -5,7 +5,7 @@ topic: getidealist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.488Z
+lastCollected: 2026-04-07T09:04:55.964Z
 estimatedTokens: 184
 keywords: [getIdeaList, read-only, ideas, current, Usage]
 ---

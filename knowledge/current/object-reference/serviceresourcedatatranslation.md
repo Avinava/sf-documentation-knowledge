@@ -5,7 +5,7 @@ topic: serviceresourcedatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:16.908Z
+lastCollected: 2026-04-07T09:04:49.297Z
 estimatedTokens: 574
 keywords: [ServiceResourceDataTranslation, translated, data, stored, ServiceResource, record’s, API, version, 54.0, later, Calls, Special, Access, Rules, Usage]
 ---

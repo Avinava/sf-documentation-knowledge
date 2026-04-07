@@ -5,7 +5,7 @@ topic: pcmtemssnfctrset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:07.493Z
+lastCollected: 2026-04-07T09:05:58.704Z
 estimatedTokens: 406
 keywords: [PcmtEmssnFctrSet, collection, emission, factors, convert, spent, amounts, procurement, data, carbon, emissions, tonnes, dioxide, equivalent, tCO₂e]
 ---

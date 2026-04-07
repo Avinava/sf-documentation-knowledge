@@ -5,7 +5,7 @@ topic: abstract-smart-data-discovery-ai-model-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.564Z
+lastCollected: 2026-04-07T09:03:12.738Z
 estimatedTokens: 373
 keywords: [Abstract, Smart, Data, Discovery, Model, Metrics, base, Einstein, metric]
 ---

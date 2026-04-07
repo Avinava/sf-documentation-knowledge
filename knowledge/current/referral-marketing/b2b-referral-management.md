@@ -5,7 +5,7 @@ topic: b2b-referral-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:35.748Z
+lastCollected: 2026-04-07T09:05:16.057Z
 estimatedTokens: 247
 keywords: [B2B, Referral, Management, helps, brand, run, programs, evergreen, time-bound, promotions, channel, partners, managers, design, launch]
 ---

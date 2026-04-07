@@ -5,7 +5,7 @@ topic: postinsuranceindividualenrollmentinsuranceindividualenrollmentinputparam-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.970Z
+lastCollected: 2026-04-07T09:04:00.578Z
 estimatedTokens: 321
 keywords: [postInsuranceIndividualEnrollment, insuranceIndividualEnrollmentInputParam, memberId, Enroll, group, census, member, insurance, plans, creating, necessary, policy, records, API, Version]
 ---

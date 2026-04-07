@@ -5,7 +5,7 @@ topic: write-aura-component-accessibility-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.903Z
+lastCollected: 2026-04-07T09:04:12.572Z
 estimatedTokens: 596
 keywords: [Write, Aura, Component, Accessibility, Tests, develop, components, Salesforce’s, test, tools, check, common, issues]
 ---

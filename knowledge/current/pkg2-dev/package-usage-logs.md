@@ -5,7 +5,7 @@ topic: package-usage-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.931Z
+lastCollected: 2026-04-07T09:05:02.441Z
 estimatedTokens: 461
 keywords: [Package, Usage, Logs, Analyze, adoption, user, behavior, informed, feature, development, decisions, data, AppExchange, App, Analytics]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-object-query-language-soql
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.500Z
+lastCollected: 2026-04-07T09:06:14.805Z
 estimatedTokens: 1097
 keywords: [Salesforce, Query, Language, SOQL, search, organization’s, data, specific, similar, SELECT, statement, widely, Structured, SQL, designed]
 ---

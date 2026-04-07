@@ -5,7 +5,7 @@ topic: networkaffinity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.809Z
+lastCollected: 2026-04-07T09:05:55.089Z
 estimatedTokens: 317
 keywords: [NetworkAffinity, junction, associates, user, profile, Network, Experience, Cloud, site, assign, API, version, 41.0, later]
 ---

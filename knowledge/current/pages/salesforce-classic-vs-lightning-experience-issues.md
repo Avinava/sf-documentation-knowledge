@@ -5,7 +5,7 @@ topic: salesforce-classic-vs-lightning-experience-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.536Z
+lastCollected: 2026-04-07T09:05:00.557Z
 estimatedTokens: 140
 keywords: [Salesforce, Classic, Lightning, Experience, Issues, caused, switching]
 ---

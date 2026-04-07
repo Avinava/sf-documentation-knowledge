@@ -5,7 +5,7 @@ topic: having-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.141Z
+lastCollected: 2026-04-07T09:03:15.187Z
 estimatedTokens: 945
 keywords: [HAVING, Clause, filter, grouped, results, columns, aggregate, functions, grouping, GROUP, ROLLUP]
 ---

@@ -5,8 +5,8 @@ topic: group-platform-events-into-one-stream-with-a-custom-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.123Z
-estimatedTokens: 1729
+lastCollected: 2026-04-07T09:05:05.539Z
+estimatedTokens: 1726
 keywords: [Group, Platform, Events, Stream, Custom, Channel, receive, event, messages, corresponding, Real-Time, Monitoring, you’ve, defined, orders]
 ---
 
@@ -50,7 +50,7 @@ PlatformEventChannelMember represents a member of a channel. It contains a platf
 
 This diagram shows the object relationships and definitions of the custom channel Order\_Channel\_\_chn and its members. The channel is set up to receive order events for North America, EMEA, and the APAC regions. A custom event is defined for each region: Order\_NorthAmer\_\_e, Order\_EMEA\_\_e, Order\_APAC\_\_e. Each of these platform events is added to the channel via PlatformEventChannelMember objects. An order management app can subscribe to the custom channel, Order\_Channel\_\_chn, and receive messages of the three platform events.
 
-![Custom order channel containing three platform events, one event per region](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fcustom_channel_order.png&folder=platform_events)
+![Custom order channel containing three platform events, one event per region](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fcustom_channel_order.png&folder=platform_events)
 
 ## Subscribing to a Custom Channel and Getting the Event API Name with Pub/Sub API
 

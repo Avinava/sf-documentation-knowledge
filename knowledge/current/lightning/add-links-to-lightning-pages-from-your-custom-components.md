@@ -5,7 +5,7 @@ topic: add-links-to-lightning-pages-from-your-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.323Z
+lastCollected: 2026-04-07T09:04:13.209Z
 estimatedTokens: 281
 keywords: [Add, Links, Lightning, Pages, Custom, Components, link, Experience, formattedUrl, component, displays, URL, hyperlink, Migrate, outputUrl]
 ---

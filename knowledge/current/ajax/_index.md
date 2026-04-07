@@ -2,7 +2,7 @@
 domain: ajax
 name: AJAX Toolkit Developer Guide
 documentCount: 0
-lastGenerated: 2026-04-05T00:23:55.420Z
+lastGenerated: 2026-04-07T09:06:35.596Z
 ---
 
 # AJAX Toolkit Developer Guide — Knowledge Index

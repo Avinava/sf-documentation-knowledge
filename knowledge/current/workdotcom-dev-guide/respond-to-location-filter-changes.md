@@ -5,7 +5,7 @@ topic: respond-to-location-filter-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.317Z
+lastCollected: 2026-04-07T09:06:18.942Z
 estimatedTokens: 303
 keywords: [Respond, Location, Filter, Changes, Custom, components, possible, provide, cohesive, Command, Center, user, experience]
 ---

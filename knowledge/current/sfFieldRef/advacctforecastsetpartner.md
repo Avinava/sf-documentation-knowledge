@@ -5,7 +5,7 @@ topic: advacctforecastsetpartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.602Z
+lastCollected: 2026-04-07T09:05:31.137Z
 estimatedTokens: 343
 keywords: [AdvAcctForecastSetPartner, junction, advanced, account, forecast, API, version, 53.0, later]
 ---

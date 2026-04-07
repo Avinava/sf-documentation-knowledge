@@ -5,7 +5,7 @@ topic: loanapplicantdeclaration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.650Z
+lastCollected: 2026-04-07T09:05:52.097Z
 estimatedTokens: 704
 keywords: [LoanApplicantDeclaration, financial, issues, foreclosure, lawsuits, defaults, applicant, co-applicant, API, version, 47.0, later]
 ---

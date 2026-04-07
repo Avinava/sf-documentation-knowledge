@@ -5,7 +5,7 @@ topic: filter-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.219Z
+lastCollected: 2026-04-07T09:03:24.077Z
 estimatedTokens: 965
 keywords: [Filter, Feed, Elements, context, user’s, news, whose, parent, key, prefix, groups, user, member]
 ---

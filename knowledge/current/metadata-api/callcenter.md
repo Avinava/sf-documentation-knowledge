@@ -5,7 +5,7 @@ topic: callcenter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:04.129Z
+lastCollected: 2026-04-07T09:02:37.916Z
 estimatedTokens: 1279
 keywords: [CallCenter, Call, Center, definition, integrate, Salesforce, third-party, computer-telephony, integration, CTI, system, partner, telephony, Contact, Service]
 ---

@@ -5,7 +5,7 @@ topic: recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.016Z
+lastCollected: 2026-04-07T09:05:02.559Z
 estimatedTokens: 497
 keywords: [Recommendations, query, strategy, varies, business, size, scope, adapt, grows, stay, current, follow, App, Analytics, small]
 ---

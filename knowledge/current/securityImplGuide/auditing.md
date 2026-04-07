@@ -5,7 +5,7 @@ topic: auditing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.102Z
+lastCollected: 2026-04-07T09:05:28.988Z
 estimatedTokens: 274
 keywords: [Auditing, system, critical, diagnosing, potential, real, security, issues, Salesforce, features, don't, secure, organization, themselves, someone]
 ---

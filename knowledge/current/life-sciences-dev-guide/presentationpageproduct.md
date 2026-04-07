@@ -5,7 +5,7 @@ topic: presentationpageproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.725Z
+lastCollected: 2026-04-07T09:04:11.295Z
 estimatedTokens: 876
 keywords: [PresentationPageProduct, link, presentation, product, may, include, connection, message, guidance, API, version, 65.0, later, Calls, Associated]
 ---

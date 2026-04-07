@@ -6,7 +6,7 @@ topic: managed-content-delivery-search-taxonomy-query-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.023Z
+lastCollected: 2026-04-07T09:03:22.148Z
 estimatedTokens: 153
 keywords: [Managed, Content, Delivery, Search, Taxonomy, Query, Input, filter]
 ---

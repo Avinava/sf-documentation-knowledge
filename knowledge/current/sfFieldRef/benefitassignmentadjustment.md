@@ -5,7 +5,7 @@ topic: benefitassignmentadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.594Z
+lastCollected: 2026-04-07T09:05:34.961Z
 estimatedTokens: 453
 keywords: [BenefitAssignmentAdjustment, monetary, non-monetary, benefit, adjustment, made, enrollee, disbursed, various, frequencies, API, version, 56.0, later]
 ---

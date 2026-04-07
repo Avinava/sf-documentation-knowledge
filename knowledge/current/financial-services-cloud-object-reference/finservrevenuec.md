@@ -5,7 +5,7 @@ topic: finservrevenuec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.615Z
+lastCollected: 2026-04-07T09:03:51.010Z
 estimatedTokens: 377
 keywords: [FinServ_Revenue__c, data, Financial, Services, Cloud, external, systems, aggregate, revenue, streams, advisor’s, book, business, FinServ, _Revenue]
 ---

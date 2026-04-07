@@ -5,7 +5,7 @@ topic: creating-basic-maps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.799Z
+lastCollected: 2026-04-07T09:04:59.461Z
 estimatedTokens: 456
 keywords: [Creating, Basic, Maps, map, markers, requires, <apex, map>, component, map’s, canvas, including, dimensions, location, initial]
 ---

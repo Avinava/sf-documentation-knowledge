@@ -5,7 +5,7 @@ topic: product-requirement-specification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.932Z
+lastCollected: 2026-04-07T09:04:22.320Z
 estimatedTokens: 230
 keywords: [Product, Requirement, Specification, Input, representation, data, process, PropertiesListWrapperInput]
 ---

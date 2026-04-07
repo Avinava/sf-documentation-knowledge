@@ -5,7 +5,7 @@ topic: ethoca-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.312Z
+lastCollected: 2026-04-07T09:03:47.075Z
 estimatedTokens: 93
 keywords: [Ethoca, Event, payload]
 ---

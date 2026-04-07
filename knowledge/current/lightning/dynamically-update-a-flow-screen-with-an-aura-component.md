@@ -5,7 +5,7 @@ topic: dynamically-update-a-flow-screen-with-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.209Z
+lastCollected: 2026-04-07T09:04:13.050Z
 estimatedTokens: 595
 keywords: [Dynamically, Flow, Screen, Aura, Component, conditionally, display, build, uses, check, parts, appear]
 ---

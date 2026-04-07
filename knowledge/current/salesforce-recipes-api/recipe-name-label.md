@@ -5,7 +5,7 @@ topic: recipe-name-label
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.941Z
+lastCollected: 2026-04-07T09:05:25.812Z
 estimatedTokens: 84
 keywords: [Recipe, Label, node]
 ---

@@ -5,7 +5,7 @@ topic: package-usage-summaries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.934Z
+lastCollected: 2026-04-07T09:05:02.446Z
 estimatedTokens: 386
 keywords: [Package, Usage, Summaries, provide, high-level, metrics, calendar, month, Discover, how, users, access, operations, they, perform]
 ---

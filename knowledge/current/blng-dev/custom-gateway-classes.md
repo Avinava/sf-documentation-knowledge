@@ -5,7 +5,7 @@ topic: custom-gateway-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.923Z
+lastCollected: 2026-04-07T09:03:16.497Z
 estimatedTokens: 372
 keywords: [Custom, Gateway, Classes, Salesforce, Billing, three, users, customize, integrate, their, chosen, payment]
 ---

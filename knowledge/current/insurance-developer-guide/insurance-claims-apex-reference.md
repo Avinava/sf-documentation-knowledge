@@ -5,7 +5,7 @@ topic: insurance-claims-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.874Z
+lastCollected: 2026-04-07T09:04:03.775Z
 estimatedTokens: 169
 namespace: ConnectApi
 keywords: [Insurance, Claims, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce]

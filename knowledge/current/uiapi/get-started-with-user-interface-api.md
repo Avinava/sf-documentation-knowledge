@@ -5,7 +5,7 @@ topic: get-started-with-user-interface-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:20.078Z
+lastCollected: 2026-04-07T09:06:15.588Z
 estimatedTokens: 817
 keywords: [Started, User, API, Build, Salesforce, native, mobile, apps, custom, web, uses, Lightning, Experience, Android, iOS]
 ---

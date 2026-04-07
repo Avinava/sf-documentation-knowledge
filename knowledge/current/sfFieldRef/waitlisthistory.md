@@ -5,7 +5,7 @@ topic: waitlisthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.958Z
+lastCollected: 2026-04-07T09:06:11.399Z
 estimatedTokens: 254
 keywords: [WaitlistHistory, History, tracked, Waitlist]
 ---

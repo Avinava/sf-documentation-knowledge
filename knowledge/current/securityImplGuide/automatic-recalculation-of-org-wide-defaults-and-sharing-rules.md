@@ -5,7 +5,7 @@ topic: automatic-recalculation-of-org-wide-defaults-and-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.176Z
+lastCollected: 2026-04-07T09:05:29.087Z
 estimatedTokens: 554
 keywords: [Automatic, Recalculation, Org-Wide, Defaults, Sharing, Rules, organization-wide, processed, asynchronously, parallel, General, Monitoring, Share, Locks]
 ---

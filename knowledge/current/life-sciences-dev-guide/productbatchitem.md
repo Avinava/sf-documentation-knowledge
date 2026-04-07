@@ -5,7 +5,7 @@ topic: productbatchitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.751Z
+lastCollected: 2026-04-07T09:04:11.323Z
 estimatedTokens: 854
 keywords: [ProductBatchItem, product, items, batch, API, version, 65.0, later, Calls]
 ---

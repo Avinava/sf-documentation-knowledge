@@ -5,7 +5,7 @@ topic: examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.572Z
+lastCollected: 2026-04-07T09:02:34.827Z
 estimatedTokens: 1184
 keywords: [Examples, REST, API, resources, variety, different, tasks, including, working, objects, organization, queries]
 ---

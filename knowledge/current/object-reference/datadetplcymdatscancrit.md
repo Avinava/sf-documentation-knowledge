@@ -5,7 +5,7 @@ topic: datadetplcymdatscancrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.007Z
+lastCollected: 2026-04-07T09:04:38.801Z
 estimatedTokens: 444
 keywords: [DataDetPlcyMdatScanCrit, inclusion, exclusion, criteria, filter, DataDetect, scan, policy, scanned, metadata, tags, API, version, 64.0, later]
 ---

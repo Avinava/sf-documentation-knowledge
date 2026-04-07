@@ -5,7 +5,7 @@ topic: removeeventhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.705Z
+lastCollected: 2026-04-07T09:04:15.252Z
 estimatedTokens: 179
 keywords: [removeEventHandler, Dynamically, removes, component, event, handler]
 ---

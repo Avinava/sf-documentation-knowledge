@@ -5,8 +5,8 @@ topic: publish-event-messages-with-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.078Z
-estimatedTokens: 651
+lastCollected: 2026-04-07T09:05:05.461Z
+estimatedTokens: 648
 keywords: [Publish, Event, Messages, Processes, Process, Builder, Salesforce, app, part, automated]
 ---
 
@@ -42,7 +42,7 @@ For example, here’s how to configure a Create a Record action that publishes a
     | Serial Number | String | 12345 |
     | Ink Percentage | Number | 0.2 |
 
-    ![Process Builder create a record action](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fpb_event_publish_low_ink.png&folder=platform_events)
+    ![Process Builder create a record action](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fpb_event_publish_low_ink.png&folder=platform_events)
 
 3.  Save the action and activate the process.
 

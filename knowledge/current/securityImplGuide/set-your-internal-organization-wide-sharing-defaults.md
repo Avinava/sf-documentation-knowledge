@@ -5,7 +5,7 @@ topic: set-your-internal-organization-wide-sharing-defaults
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.593Z
+lastCollected: 2026-04-07T09:05:28.214Z
 estimatedTokens: 1198
 keywords: [Internal, Organization-Wide, Sharing, Defaults, baseline, access, users, records, separately, different, objects]
 ---

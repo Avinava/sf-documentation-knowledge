@@ -5,7 +5,7 @@ topic: unsubscribing-from-events-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.341Z
+lastCollected: 2026-04-07T09:05:04.317Z
 estimatedTokens: 189
 keywords: [Unsubscribing, Events, Visualforce, code, how, call, unsubscribe, two]
 ---

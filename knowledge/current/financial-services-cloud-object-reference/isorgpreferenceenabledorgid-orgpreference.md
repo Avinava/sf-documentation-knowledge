@@ -5,7 +5,7 @@ topic: isorgpreferenceenabledorgid-orgpreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:28.108Z
+lastCollected: 2026-04-07T09:03:46.735Z
 estimatedTokens: 131
 keywords: [isOrgPreferenceEnabled, orgId, orgPreference, accepts, Org, Preference, permission, enabled, API, Version]
 ---

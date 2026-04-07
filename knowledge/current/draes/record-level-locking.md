@@ -5,7 +5,7 @@ topic: record-level-locking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.643Z
+lastCollected: 2026-04-07T09:03:41.779Z
 estimatedTokens: 421
 keywords: [Record-Level, Locking, customers, regularly, upload, large, amounts, data, service, maintain, integrations, systems, their, scheduled, batches]
 ---

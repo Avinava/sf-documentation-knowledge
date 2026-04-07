@@ -5,7 +5,7 @@ topic: asyncoperationlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.119Z
+lastCollected: 2026-04-07T09:04:35.306Z
 estimatedTokens: 620
 keywords: [AsyncOperationLog, async, operations, log, containing, progress, status, external, synchronizations, Omnichannel, Inventory, service, API, version, 51.0]
 ---

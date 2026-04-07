@@ -5,7 +5,7 @@ topic: giftsoftcredit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.569Z
+lastCollected: 2026-04-07T09:03:43.206Z
 estimatedTokens: 1115
 keywords: [GiftSoftCredit, soft, credit, attributed, person, organization, gift, transaction, API, version, 59.0, later, Calls, Special, Access]
 ---

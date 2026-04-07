@@ -5,8 +5,8 @@ topic: createoutboundreferral-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.576Z
-estimatedTokens: 1653
+lastCollected: 2026-04-07T09:05:07.340Z
+estimatedTokens: 1650
 namespace: PublicSectrSltn
 keywords: [CreateOutboundReferral, outbound, referral, record, Special, Access, Rules, Usage]
 ---
@@ -37,7 +37,7 @@ Specify the implemented CreateOutboundReferral class name in the CreateReferrals
 
 This screenshot shows how the Apex class name and its method are specified in Omniscript Remote Action:
 
-![A representation of CreateReferrals Remote Actions in Create Outbound Referral OmniScript in your Salesforce org.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fpsc_api%2Fimages%2Fcreate_referral_remote_action.png&folder=psc_api)
+![A representation of CreateReferrals Remote Actions in Create Outbound Referral OmniScript in your Salesforce org.](/docs/resources/img/en-us/260.0?doc_id=psc_api%2Fimages%2Fcreate_referral_remote_action.png&folder=psc_api)
 
 ## Example
 

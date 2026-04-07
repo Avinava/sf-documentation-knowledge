@@ -5,7 +5,7 @@ topic: configurationitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:35.327Z
+lastCollected: 2026-04-07T09:02:10.187Z
 estimatedTokens: 369
 keywords: [ConfigurationItem, record, core, Salesforce, system, refers, configuration, item, stored, external, API, version, 65.0, later, Calls]
 ---

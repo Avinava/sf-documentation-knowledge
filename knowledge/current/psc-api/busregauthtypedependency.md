@@ -5,7 +5,7 @@ topic: busregauthtypedependency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.326Z
+lastCollected: 2026-04-07T09:05:13.080Z
 estimatedTokens: 737
 keywords: [BusRegAuthTypeDependency, association, permit, dependency, business, context, API, version, 50.0, later, Calls, Associated, Objects]
 ---

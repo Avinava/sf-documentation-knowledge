@@ -7,7 +7,7 @@ topic: use-a-cms-with-your-experience-builder-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.256Z
+lastCollected: 2026-04-07T09:03:39.667Z
 estimatedTokens: 182
 keywords: [CMS, Experience, Builder, Site, Content, management, systems, give, power, reuse, rather, having, duplicate, feed, multiple]
 ---

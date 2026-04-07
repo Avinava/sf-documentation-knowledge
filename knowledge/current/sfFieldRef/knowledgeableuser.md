@@ -5,7 +5,7 @@ topic: knowledgeableuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.134Z
+lastCollected: 2026-04-07T09:05:51.468Z
 estimatedTokens: 232
 keywords: [KnowledgeableUser, user, identified, knowledgeable, specific, topic, ranks, relative, users, API, version, 31.0, later]
 ---

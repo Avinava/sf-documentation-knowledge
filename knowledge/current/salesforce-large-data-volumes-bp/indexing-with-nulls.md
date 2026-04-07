@@ -5,7 +5,7 @@ topic: indexing-with-nulls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.982Z
+lastCollected: 2026-04-07T09:05:24.176Z
 estimatedTokens: 391
 keywords: [Indexing, Nulls, customer, needed, allow, able, query, against, Because, single-column, indexes, picklists, foreign, key, exclude]
 ---

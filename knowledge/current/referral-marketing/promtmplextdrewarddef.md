@@ -5,8 +5,8 @@ topic: promtmplextdrewarddef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.293Z
-estimatedTokens: 656
+lastCollected: 2026-04-07T09:05:16.782Z
+estimatedTokens: 594
 keywords: [PromTmplExtdRewardDef, junction, promotion, template, extended, reward, definition, API, version, 64.0, later, Calls, Associated, Objects]
 ---
 
@@ -38,10 +38,10 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 This object has the following associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
 
-[PromTmplExtdRewardDefChangeEvent](atlas.en-us.referral_marketing.meta/referral_marketing/referral_associated_objects_change_event.htm "A ChangeEvent object is available for each object that supports Change Data Capture. You can subscribe to a stream of change events using Change Data Capture to receive data tied to record changes in Salesforce. Changes include record creation, updates to an existing record, deletion of a record, and undeletion of a record. A change event isn’t a Salesforce object—it doesn’t support CRUD operations or queries. It’s included in the object reference so you can discover which Salesforce objects support change events.")
+[PromTmplExtdRewardDefChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.referral_marketing.meta/referral_marketing/referral_associated_objects_change_event.htm)
 
 Change events are available for the object.
 
-## Related Topics
+[PromTmplExtdRewardDefHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.referral_marketing.meta/referral_marketing/sforce_api_associated_objects_history.htm)
 
-- PromTmplExtdRewardDefChangeEvent (atlas.en-us.referral_marketing.meta/referral_marketing/referral_associated_objects_change_event.htm)
+History is available for tracked fields of the object.

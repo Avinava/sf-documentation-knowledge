@@ -5,7 +5,7 @@ topic: cartitempriceadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.211Z
+lastCollected: 2026-04-07T09:04:36.523Z
 estimatedTokens: 1315
 keywords: [CartItemPriceAdjustment, Price, adjustment, cart, item, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

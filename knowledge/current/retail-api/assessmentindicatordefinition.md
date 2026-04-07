@@ -5,7 +5,7 @@ topic: assessmentindicatordefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.525Z
+lastCollected: 2026-04-07T09:05:18.681Z
 estimatedTokens: 687
 keywords: [AssessmentIndicatorDefinition, Define, act, markers, compliance, retail, tasks, compare, target, actual, API, version, 47.0, later, Calls]
 ---

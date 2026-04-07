@@ -5,7 +5,7 @@ topic: contenttaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.184Z
+lastCollected: 2026-04-07T09:05:40.923Z
 estimatedTokens: 353
 keywords: [ContentTaxonomy, content, taxonomy, classify, organize, Salesforce, CMS, hierarchy, terms, addition, ContentTaxonomyTerm, ContentTaxonomyRelatedTerm, ContentTaxonomyTermRelatedTerm, objects, API]
 ---

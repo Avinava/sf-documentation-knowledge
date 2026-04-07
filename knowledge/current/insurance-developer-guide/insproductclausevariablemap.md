@@ -5,7 +5,7 @@ topic: insproductclausevariablemap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.121Z
+lastCollected: 2026-04-07T09:04:04.149Z
 estimatedTokens: 513
 keywords: [InsProductClauseVariableMap, mapping, token, defined, insurance, clause, product, attributes, populate, runtime, Free, Look, customer, cancel, policy]
 ---

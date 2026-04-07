@@ -5,7 +5,7 @@ topic: blngpaymentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.441Z
+lastCollected: 2026-04-07T09:03:17.203Z
 estimatedTokens: 3703
 keywords: [blng__Payment__c, event, shopper, payment, credit, cards, capture, sale, doesn't, appear, shopper's, card, statement, blng, _Payment]
 ---

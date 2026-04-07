@@ -5,7 +5,7 @@ topic: appointed-representative
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.386Z
+lastCollected: 2026-04-07T09:03:53.360Z
 estimatedTokens: 108
 keywords: [Appointed, Representative, Person, member]
 ---

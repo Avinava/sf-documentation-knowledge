@@ -5,7 +5,7 @@ topic: script-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.901Z
+lastCollected: 2026-04-07T09:02:17.293Z
 estimatedTokens: 1325
 namespace: DataWeave
 keywords: [Script, createScript, load, DataWeave, scripts, execute, obtain, output, DataWeave.Result, scriptName, toString]

@@ -5,7 +5,7 @@ topic: omnisupervisorconfiggroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.370Z
+lastCollected: 2026-04-07T09:05:55.917Z
 estimatedTokens: 284
 keywords: [OmniSupervisorConfigGroup, group, agents, visible, supervisors, Omni-Channel, supervisor, configuration, appears, tab, Omni, API, version, 41.0, later]
 ---

@@ -5,7 +5,7 @@ topic: uiagentinteractioneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.344Z
+lastCollected: 2026-04-07T09:04:51.231Z
 estimatedTokens: 1649
 keywords: [UiAgentInteractionEventLog, log, tracks, client, side, interactions, events, Agentforce, panel, limited, Salesforce, Lightning, Experience, Mobile, Conversation]
 ---

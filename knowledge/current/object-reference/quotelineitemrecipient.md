@@ -5,7 +5,7 @@ topic: quotelineitemrecipient
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.954Z
+lastCollected: 2026-04-07T09:04:48.064Z
 estimatedTokens: 1322
 keywords: [QuoteLineItemRecipient, site, employee, entity, services, quoted, include, recipient's, contact, associated, location, any, specific, requirements, preferences]
 ---

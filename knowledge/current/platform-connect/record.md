@@ -5,7 +5,7 @@ topic: record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.627Z
+lastCollected: 2026-04-07T09:05:04.815Z
 estimatedTokens: 632
 keywords: [Record, JSON-formatted, canvas, app, appears, standard, Account, custom, Warehouse__c, doesn’t, appear, pub]
 ---

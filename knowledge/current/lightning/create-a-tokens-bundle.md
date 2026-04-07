@@ -5,7 +5,7 @@ topic: create-a-tokens-bundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.899Z
+lastCollected: 2026-04-07T09:04:15.564Z
 estimatedTokens: 457
 keywords: [Tokens, Bundle, org, Developer, Console]
 ---

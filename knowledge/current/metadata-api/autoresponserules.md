@@ -5,7 +5,7 @@ topic: autoresponserules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:03.747Z
+lastCollected: 2026-04-07T09:02:37.541Z
 estimatedTokens: 891
 keywords: [AutoResponseRules, auto-response, rule, conditions, sending, automatic, email, responses, lead, case, submissions, attributes, submitted, record, access]
 ---

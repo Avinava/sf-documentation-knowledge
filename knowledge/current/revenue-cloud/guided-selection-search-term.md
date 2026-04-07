@@ -5,7 +5,7 @@ topic: guided-selection-search-term
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:20.725Z
+lastCollected: 2026-04-07T09:02:00.867Z
 estimatedTokens: 105
 keywords: [Guided, Selection, Search, Term, Output, representation]
 ---

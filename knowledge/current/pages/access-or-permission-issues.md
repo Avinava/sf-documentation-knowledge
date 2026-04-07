@@ -5,7 +5,7 @@ topic: access-or-permission-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.526Z
+lastCollected: 2026-04-07T09:05:00.539Z
 estimatedTokens: 286
 keywords: [Access, Permission, Issues, affect, pages, records, users, Salesforce, app]
 ---

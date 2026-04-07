@@ -5,7 +5,7 @@ topic: enhance-the-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.889Z
+lastCollected: 2026-04-07T09:05:24.016Z
 estimatedTokens: 784
 keywords: [Enhance, User, Experience, Actions, Recommendations, component, gives, agents, clear, steps, follow, Help, productive, fine-tuning, how]
 ---

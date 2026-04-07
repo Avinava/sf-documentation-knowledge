@@ -5,7 +5,7 @@ topic: implementing-the-example-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.881Z
+lastCollected: 2026-04-07T09:05:24.002Z
 estimatedTokens: 1771
 keywords: [Implementing, Case, configure, Actions, Recommendations, component, several, ways, Creating, deployment, Setup, easy, way, RecordActions, appear]
 ---

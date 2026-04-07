@@ -5,7 +5,7 @@ topic: networkselfregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:04.883Z
+lastCollected: 2026-04-07T09:05:55.183Z
 estimatedTokens: 557
 keywords: [NetworkSelfRegistration, account, self-registering, Experience, Cloud, users, associated, site, admin, specify, setting, self-registration, isn’t, Salesforce, creates]
 ---

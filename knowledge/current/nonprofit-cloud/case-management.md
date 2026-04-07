@@ -5,7 +5,7 @@ topic: case-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:01.365Z
+lastCollected: 2026-04-07T09:04:30.646Z
 estimatedTokens: 218
 keywords: [Case, Management, objects, API, Nonprofits, Built, platform, helps, managers, assist, participants, achieving, their, goals, individualized]
 ---

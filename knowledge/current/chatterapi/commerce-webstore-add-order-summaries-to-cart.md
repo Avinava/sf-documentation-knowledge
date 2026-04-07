@@ -5,7 +5,7 @@ topic: commerce-webstore-add-order-summaries-to-cart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.410Z
+lastCollected: 2026-04-07T09:03:25.597Z
 estimatedTokens: 937
 keywords: [Commerce, Webstore, Add, Order, Summaries, Cart, summary, active, current, API, includes, products, quantity, configuration, product]
 ---

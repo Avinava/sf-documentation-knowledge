@@ -5,7 +5,7 @@ topic: fieldpermissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.155Z
+lastCollected: 2026-04-07T09:04:41.379Z
 estimatedTokens: 2291
 keywords: [FieldPermissions, enabled, permissions, parent, PermissionSet, API, version, 24.0, later, Calls, Special, Access, Rules, Usage, Working]
 ---

@@ -5,7 +5,7 @@ topic: learningcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.677Z
+lastCollected: 2026-04-07T09:04:43.040Z
 estimatedTokens: 835
 keywords: [LearningContent, Trailhead, enablement, site, myTrailhead, module, assigned, user, Workforce, Engagement, Learning, Paths, video, program, exercise]
 ---

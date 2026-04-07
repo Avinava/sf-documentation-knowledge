@@ -5,7 +5,7 @@ topic: platform-cache-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:43.686Z
+lastCollected: 2026-04-07T09:02:32.928Z
 estimatedTokens: 1152
 namespace: Session
 keywords: [Platform, Cache, Features, API, lets, store, retrieve, data, that’s, tied, Salesforce, sessions, shared, across, org]

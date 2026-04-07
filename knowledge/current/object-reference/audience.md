@@ -5,7 +5,7 @@ topic: audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:05.259Z
+lastCollected: 2026-04-07T09:04:35.475Z
 estimatedTokens: 662
 keywords: [Audience, defined, criteria, assigned, targeting, Experience, Cloud, site, API, version, 44.0, later, Calls]
 ---

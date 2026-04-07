@@ -5,7 +5,7 @@ topic: connectapimembercontactoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.743Z
+lastCollected: 2026-04-07T09:04:16.796Z
 estimatedTokens: 125
 keywords: [ConnectApi.MemberContactOutput, Output, representation, loyalty, program, member's, associated, contact, record]
 ---

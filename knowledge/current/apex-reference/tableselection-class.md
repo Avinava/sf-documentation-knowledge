@@ -5,7 +5,7 @@ topic: tableselection-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.584Z
+lastCollected: 2026-04-07T09:02:14.687Z
 estimatedTokens: 858
 namespace: DataSource
 keywords: [TableSelection, breakdown, SOQL, SOSL, query, represent, ORDER, SELECT, clauses, columnsSelected, filter, tableSelected]

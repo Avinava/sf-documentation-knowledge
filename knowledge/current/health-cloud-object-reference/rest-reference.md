@@ -5,7 +5,7 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.951Z
+lastCollected: 2026-04-07T09:03:54.239Z
 estimatedTokens: 482
 keywords: [REST, access, Health, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
 ---

@@ -5,7 +5,7 @@ topic: smart-data-discovery-regression-prediction-property-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.297Z
+lastCollected: 2026-04-07T09:03:12.368Z
 estimatedTokens: 186
 keywords: [Smart, Data, Discovery, Regression, Prediction, Input, identify]
 ---

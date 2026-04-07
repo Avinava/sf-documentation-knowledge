@@ -5,7 +5,7 @@ topic: cgcloudboapientityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.209Z
+lastCollected: 2026-04-07T09:05:19.573Z
 estimatedTokens: 997
 keywords: [cgcloud__BO_API_Entity__c, stores, entity, definitions, Business, APIs, API, version, 54.0, later, cgcloud, _BO, _API, _Entity, Calls]
 ---

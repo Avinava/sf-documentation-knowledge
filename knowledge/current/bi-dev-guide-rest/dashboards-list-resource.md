@@ -5,7 +5,7 @@ topic: dashboards-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.575Z
+lastCollected: 2026-04-07T09:03:09.469Z
 estimatedTokens: 931
 keywords: [Dashboards, Resource, Analytics, dashboard, creates, URL, Formats, Version, Postman, Components, HTTP, POST]
 ---

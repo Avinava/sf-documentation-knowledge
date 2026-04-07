@@ -5,7 +5,7 @@ topic: transactionrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.786Z
+lastCollected: 2026-04-07T09:01:55.642Z
 estimatedTokens: 921
 namespace: RevSignaling
 keywords: [TransactionRequest, transaction, signaling, Apex, processor, procedurePlanInstance, ctxInstanceId]

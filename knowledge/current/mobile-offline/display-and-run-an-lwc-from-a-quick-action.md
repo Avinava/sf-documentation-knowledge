@@ -5,7 +5,7 @@ topic: display-and-run-an-lwc-from-a-quick-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.505Z
+lastCollected: 2026-04-07T09:04:24.603Z
 estimatedTokens: 310
 keywords: [Display, Run, LWC, Quick, Action, active, development, actions, Test, Harness, app, launch, Lightning, web, components]
 ---

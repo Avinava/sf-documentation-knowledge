@@ -5,7 +5,7 @@ topic: standard-design-tokens-forcebase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.958Z
+lastCollected: 2026-04-07T09:04:15.626Z
 estimatedTokens: 2775
 keywords: [Standard, Design, Tokens—, force, base, tokens, subset, offered, Salesforce, Lightning, System, SLDS, extending]
 ---

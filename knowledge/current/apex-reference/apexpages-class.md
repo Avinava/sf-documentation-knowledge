@@ -5,7 +5,7 @@ topic: apexpages-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.227Z
+lastCollected: 2026-04-07T09:02:28.257Z
 estimatedTokens: 1186
 namespace: ApexPages
 keywords: [ApexPages, add, check, messages, associated, current, well, Usage, addMessage, message, addMessages, exceptionThrown, currentPage, getMessages, hasMessages]

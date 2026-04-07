@@ -5,7 +5,7 @@ topic: jenkinsfile-walkthrough
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.142Z
+lastCollected: 2026-04-07T09:06:12.960Z
 estimatedTokens: 3012
 keywords: [Jenkinsfile, Walkthrough, sample, how, integrate, Dev, Hub, scratch, orgs, Jenkins, job, uses, Multibranch, Pipelines, Every]
 ---

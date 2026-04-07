@@ -5,7 +5,7 @@ topic: validate-components-during-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.624Z
+lastCollected: 2026-04-07T09:04:24.792Z
 estimatedTokens: 331
 keywords: [Validate, Components, Development, ensure, offline, environments, watch, act, recommendations, analyzer]
 ---

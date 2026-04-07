@@ -5,7 +5,7 @@ topic: forecasting-manager-ancestors-specific-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.450Z
+lastCollected: 2026-04-07T09:03:27.085Z
 estimatedTokens: 313
 keywords: [Forecasting, Manager, Ancestors, Specific, User, managers, context]
 ---

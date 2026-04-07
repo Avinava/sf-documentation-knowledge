@@ -5,7 +5,7 @@ topic: connect-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.711Z
+lastCollected: 2026-04-07T09:03:26.004Z
 estimatedTokens: 387
 keywords: [Connect, Resources, context, user’s, org, settings, Experience, Cloud, sites, user, member, Organization]
 ---

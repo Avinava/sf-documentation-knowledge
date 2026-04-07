@@ -5,7 +5,7 @@ topic: partycertifiedcapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.108Z
+lastCollected: 2026-04-07T09:03:50.470Z
 estimatedTokens: 1756
 keywords: [PartyCertifiedCapacity, captured, certificate, capacity, party's, work, timeline, recovery, API, version, 56.0, later, Calls, Associated, Objects]
 ---

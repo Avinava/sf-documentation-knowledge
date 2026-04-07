@@ -5,7 +5,7 @@ topic: apex-class-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.772Z
+lastCollected: 2026-04-07T09:02:31.190Z
 estimatedTokens: 1534
 keywords: [Apex, Definition, Avoid, standard, Doing, causes, unexpected, results, objects, Salesforce, Versioned, Behavior, Changes]
 ---

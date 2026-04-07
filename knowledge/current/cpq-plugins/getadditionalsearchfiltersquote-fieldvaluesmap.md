@@ -5,7 +5,7 @@ topic: getadditionalsearchfiltersquote-fieldvaluesmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.884Z
+lastCollected: 2026-04-07T09:03:40.639Z
 estimatedTokens: 222
 keywords: [getAdditionalSearchFilters, quote, fieldValuesMap, Appends, clause, SOQL, query, product, search, further, refine, user's, input, Salesforce, CPQ]
 ---

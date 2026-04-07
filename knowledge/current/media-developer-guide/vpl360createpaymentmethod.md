@@ -5,7 +5,7 @@ topic: vpl360createpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.135Z
+lastCollected: 2026-04-07T09:04:21.179Z
 estimatedTokens: 154
 keywords: [VPL360_CreatePaymentmethod, Integration, Procedure, self, care, portal, payment, card, VPL360, _CreatePaymentmethod, Sample, Input, Output, Calls]
 ---

@@ -5,7 +5,7 @@ topic: flexipage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:45.046Z
+lastCollected: 2026-04-07T09:02:47.557Z
 estimatedTokens: 2494
 keywords: [FlexiPage, Lightning, customizable, composed, regions, containing, components, SOAP, Calls, REST, HTTP, Sample, Code]
 ---

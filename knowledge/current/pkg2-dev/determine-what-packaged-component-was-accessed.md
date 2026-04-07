@@ -5,7 +5,7 @@ topic: determine-what-packaged-component-was-accessed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.009Z
+lastCollected: 2026-04-07T09:05:02.548Z
 estimatedTokens: 180
 keywords: [Determine, Packaged, Component, Accessed, analyze, package, usage, log, record, always, start]
 ---

@@ -5,7 +5,7 @@ topic: record-alerts-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.869Z
+lastCollected: 2026-04-07T09:03:05.854Z
 estimatedTokens: 100
 keywords: [Record, Alerts, Automotive, Cloud, objects, APIs, configure, records, outside, org]
 ---

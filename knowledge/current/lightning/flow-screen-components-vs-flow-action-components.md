@@ -5,7 +5,7 @@ topic: flow-screen-components-vs-flow-action-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.230Z
+lastCollected: 2026-04-07T09:04:13.079Z
 estimatedTokens: 288
 keywords: [Flow, Screen, Components, Action, Aura, component, screens, choosing, interfaces, consider, purpose, serves]
 ---

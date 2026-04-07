@@ -5,7 +5,7 @@ topic: vpls360csr-updateaccountname
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.308Z
+lastCollected: 2026-04-07T09:04:21.491Z
 estimatedTokens: 147
 keywords: [vpls360csr-UpdateAccountName, Omnistudio, Data, Mapper, loads, updates, user, IDs, updated, records, Sample, Input, Output]
 ---

@@ -5,7 +5,7 @@ topic: adverseevententry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.020Z
+lastCollected: 2026-04-07T09:04:09.436Z
 estimatedTokens: 1906
 keywords: [AdverseEventEntry, event, unintended, anticipated, effects, research, participants, API, version, 61.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: big-objects-queueable-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.850Z
+lastCollected: 2026-04-07T09:03:16.370Z
 estimatedTokens: 399
 keywords: [Big, Objects, Queueable, write, trigger, process, flow, sObject, asynchronous, Apex, uses, isolate, DML, operations, different]
 ---

@@ -5,7 +5,7 @@ topic: interest-tags-for-records-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.525Z
+lastCollected: 2026-04-07T09:05:08.782Z
 estimatedTokens: 275
 keywords: [Interest, Tags, Records, Retrieve, assigned, Salesforce, record]
 ---

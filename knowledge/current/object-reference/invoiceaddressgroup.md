@@ -5,7 +5,7 @@ topic: invoiceaddressgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.313Z
+lastCollected: 2026-04-07T09:04:42.638Z
 estimatedTokens: 716
 keywords: [InvoiceAddressGroup, Stores, buyer's, address, API, version, 50.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

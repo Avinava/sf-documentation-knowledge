@@ -5,7 +5,7 @@ topic: callcoachconfigmodifyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.120Z
+lastCollected: 2026-04-07T09:05:37.015Z
 estimatedTokens: 217
 keywords: [CallCoachConfigModifyEvent, Notifies, subscribers, Conversation, Insights, configuration, change, API, version, 49.0, later]
 ---

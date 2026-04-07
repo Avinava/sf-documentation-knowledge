@@ -5,7 +5,7 @@ topic: where-canvas-apps-appear
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.403Z
+lastCollected: 2026-04-07T09:05:04.428Z
 estimatedTokens: 1099
 keywords: [Canvas, Apps, Appear, various, places, depending, app, settings]
 ---

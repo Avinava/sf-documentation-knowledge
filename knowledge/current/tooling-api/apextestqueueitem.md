@@ -5,7 +5,7 @@ topic: apextestqueueitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.838Z
+lastCollected: 2026-04-07T09:02:46.376Z
 estimatedTokens: 968
 keywords: [ApexTestQueueItem, Apex, job, queue, API, version, 30.0, later, SOAP, Calls, REST, HTTP, Usage]
 ---

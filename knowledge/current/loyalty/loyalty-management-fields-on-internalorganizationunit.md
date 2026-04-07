@@ -5,7 +5,7 @@ topic: loyalty-management-fields-on-internalorganizationunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.026Z
+lastCollected: 2026-04-07T09:04:19.766Z
 estimatedTokens: 332
 keywords: [Loyalty, Management, InternalOrganizationUnit, Standard, extend, represent, Promotion, Management’s, connection, Marketing, Cloud, business, unit, API, version]
 ---

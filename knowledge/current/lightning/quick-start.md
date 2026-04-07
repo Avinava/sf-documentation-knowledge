@@ -5,7 +5,7 @@ topic: quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.383Z
+lastCollected: 2026-04-07T09:04:14.747Z
 estimatedTokens: 98
 keywords: [Quick, Start, Trailhead, resources, core, Aura, components, concepts, short, tutorial, builds, component, manage, selected, contacts]
 ---

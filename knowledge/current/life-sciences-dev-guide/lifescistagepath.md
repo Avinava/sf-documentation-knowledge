@@ -5,7 +5,7 @@ topic: lifescistagepath
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:46.536Z
+lastCollected: 2026-04-07T09:04:11.056Z
 estimatedTokens: 571
 keywords: [LifeSciStagePath, steps, associated, workflow, path, step, API, version, 65.0, later, Calls]
 ---

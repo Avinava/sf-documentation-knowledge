@@ -5,7 +5,7 @@ topic: healthcareservicedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:00.451Z
+lastCollected: 2026-04-07T09:05:49.289Z
 estimatedTokens: 347
 keywords: [HealthcareServiceDetail, junction, CareService, CodeSetBundle, links, healthcare, service, physical, therapy, codes, API, version, 59.0, later]
 ---

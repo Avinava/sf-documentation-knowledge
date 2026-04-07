@@ -5,8 +5,8 @@ topic: issue-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.014Z
-estimatedTokens: 818
+lastCollected: 2026-04-07T09:04:04.016Z
+estimatedTokens: 822
 keywords: [Issue, Policy, issuance, process, begins, policyholder, accepts, quote, provided, insurance, company, new, quoting, managed, outside, Salesforce, third-party, system, results, creation]
 ---
 
@@ -24,7 +24,7 @@ Use the Rating API to generate a price-adjusted context. This price-adjusted con
 
 This diagram outlines the sequence of issuing a policy without using Salesforce quote, rather by using the Rating API to generate a price-adjusted context that's used to issue a policy.
 
-![A flow diagram representing the user journey for issuing a policy by using the Rating API.](/docs/resources/img/en-us/260.0?doc_id=insurance%2Fimages%2Fissue_policy_without_quote.png&folder=insurance_developer_guide)
+![A flow diagram representing the user journey for issuing a policy by using the Rating API.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Finsurance%2Fimages%2Fissue_policy_without_quote.png&folder=insurance_developer_guide)
 
 1.  **(Optional)Run Qualification Rules**—If customers want to determine the policyholder’s eligibility for a product, run the qualification rules either by:
 

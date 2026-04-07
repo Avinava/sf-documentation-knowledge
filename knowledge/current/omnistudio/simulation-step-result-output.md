@@ -5,7 +5,7 @@ topic: simulation-step-result-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.153Z
+lastCollected: 2026-04-07T09:02:54.825Z
 estimatedTokens: 227
 keywords: [Simulation, Step, Result, Output, representation, results]
 ---

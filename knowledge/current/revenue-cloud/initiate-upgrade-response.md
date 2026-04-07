@@ -5,7 +5,7 @@ topic: initiate-upgrade-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:20.792Z
+lastCollected: 2026-04-07T09:02:00.938Z
 estimatedTokens: 117
 keywords: [Initiate, Upgrade, Output, representation, action, includes, sales, transaction, creates]
 ---

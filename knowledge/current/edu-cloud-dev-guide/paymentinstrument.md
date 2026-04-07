@@ -5,7 +5,7 @@ topic: paymentinstrument
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:25.664Z
+lastCollected: 2026-04-07T09:03:43.315Z
 estimatedTokens: 1254
 keywords: [PaymentInstrument, Payment, Instrument, transaction, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

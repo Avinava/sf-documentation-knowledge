@@ -5,7 +5,7 @@ topic: api-anomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.904Z
+lastCollected: 2026-04-07T09:05:28.693Z
 estimatedTokens: 555
 keywords: [API, Anomaly, any, user, activity, sufficiently, different, historical, metadata, Salesforce, Core, application, logs, generation, surrounding]
 ---

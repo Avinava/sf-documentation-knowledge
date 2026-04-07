@@ -5,7 +5,7 @@ topic: entity-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.424Z
+lastCollected: 2026-04-07T09:04:24.472Z
 estimatedTokens: 449
 keywords: [Entity, Support, LWC, Offline, uses, UI-API, access, data, supports, long, standard, entities, custom]
 ---

@@ -5,7 +5,7 @@ topic: integrate-open-cti-with-lightning-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.870Z
+lastCollected: 2026-04-07T09:05:23.985Z
 estimatedTokens: 1313
 keywords: [Integrate, Open, CTI, Lightning, Flow, Service, APIs, third-party, telephony, services, Salesforce, advantage, three, getSoftphoneLayout, screenPop]
 ---

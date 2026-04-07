@@ -5,7 +5,7 @@ topic: using-soql-and-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.042Z
+lastCollected: 2026-04-07T09:05:24.280Z
 estimatedTokens: 947
 keywords: [SOQL, SOSL, query, equivalent, SELECT, SQL, statement, programmatic, way, performing, text-based, search]
 ---

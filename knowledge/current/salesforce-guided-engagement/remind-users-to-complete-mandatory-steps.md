@@ -5,7 +5,7 @@ topic: remind-users-to-complete-mandatory-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.893Z
+lastCollected: 2026-04-07T09:05:24.021Z
 estimatedTokens: 539
 keywords: [Remind, Users, Mandatory, Steps, Highlight, configuring, actions, agents, try, close, flow, that’s, they, reminder, step]
 ---

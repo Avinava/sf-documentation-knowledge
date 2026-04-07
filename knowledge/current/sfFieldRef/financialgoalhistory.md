@@ -5,7 +5,7 @@ topic: financialgoalhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.163Z
+lastCollected: 2026-04-07T09:05:46.092Z
 estimatedTokens: 259
 keywords: [FinancialGoalHistory, History, tracked, FinancialGoal]
 ---

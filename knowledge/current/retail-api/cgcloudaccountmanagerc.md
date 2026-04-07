@@ -5,7 +5,7 @@ topic: cgcloudaccountmanagerc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.958Z
+lastCollected: 2026-04-07T09:05:19.245Z
 estimatedTokens: 1272
 keywords: [cgcloud__Account_Manager__c, stores, users, manage, specific, accounts, particular, function, ManagementType, API, version, 54.0, later, cgcloud, _Account]
 ---

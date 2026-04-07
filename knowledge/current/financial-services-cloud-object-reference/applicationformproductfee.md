@@ -5,7 +5,7 @@ topic: applicationformproductfee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.450Z
+lastCollected: 2026-04-07T09:03:48.540Z
 estimatedTokens: 1040
 keywords: [ApplicationFormProductFee, fees, associated, application, form, API, version, 61.0, later, Digital, Lending, permission, Calls, Objects]
 ---

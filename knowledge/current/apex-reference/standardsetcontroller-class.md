@@ -5,7 +5,7 @@ topic: standardsetcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:53.376Z
+lastCollected: 2026-04-07T09:02:30.148Z
 estimatedTokens: 5196
 namespace: ApexPages
 keywords: [StandardSetController, objects, allow, controllers, similar, extensions, pre-built, Visualforce, provided, Salesforce, Usage, Instantiation, queryLocator, controllerSObjects, cancel]

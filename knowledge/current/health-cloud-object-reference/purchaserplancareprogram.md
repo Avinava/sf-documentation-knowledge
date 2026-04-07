@@ -5,7 +5,7 @@ topic: purchaserplancareprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.940Z
+lastCollected: 2026-04-07T09:03:59.214Z
 estimatedTokens: 787
 keywords: [PurchaserPlanCareProgram, junction, puchaser, plans, care, programs, under, purchaser, plan, employer-sponsored, managing, chronic, conditions, API, version]
 ---

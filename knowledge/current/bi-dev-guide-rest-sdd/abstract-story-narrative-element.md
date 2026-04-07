@@ -5,7 +5,7 @@ topic: abstract-story-narrative-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.617Z
+lastCollected: 2026-04-07T09:03:12.824Z
 estimatedTokens: 169
 keywords: [Abstract, Story, Narrative, Element, base]
 ---

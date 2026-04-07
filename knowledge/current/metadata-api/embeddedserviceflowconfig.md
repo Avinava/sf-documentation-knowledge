@@ -5,7 +5,7 @@ topic: embeddedserviceflowconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:06.105Z
+lastCollected: 2026-04-07T09:02:39.868Z
 estimatedTokens: 184
 keywords: [EmbeddedServiceFlowConfig, setup, node, creating, embedded, flow, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---

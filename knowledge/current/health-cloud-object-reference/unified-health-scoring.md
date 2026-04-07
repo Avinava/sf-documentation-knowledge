@@ -5,7 +5,7 @@ topic: unified-health-scoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:35.019Z
+lastCollected: 2026-04-07T09:03:55.616Z
 estimatedTokens: 287
 keywords: [Unified, Health, Scoring, Synchronize, calculated, score, Customer, Data, Platform, category, Resources, data, model, three, objects, tooling, APIs, metadata, two, subtypes]
 ---

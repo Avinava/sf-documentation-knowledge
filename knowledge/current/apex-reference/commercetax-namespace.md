@@ -5,7 +5,7 @@ topic: commercetax-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:53.189Z
+lastCollected: 2026-04-07T09:02:29.877Z
 estimatedTokens: 1892
 namespace: CommerceTax
 keywords: [CommerceTax, Manage, communication, Salesforce, external, tax, engine]

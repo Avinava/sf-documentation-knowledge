@@ -5,7 +5,7 @@ topic: environment-hub-sso-user-mapping-generator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.990Z
+lastCollected: 2026-04-07T09:03:26.440Z
 estimatedTokens: 384
 keywords: [Environment, Hub, SSO, User, Mapping, Generator, Creates, member, org, lets, log, mapped, having, re-authenticate]
 ---

@@ -5,7 +5,7 @@ topic: specimen
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:34.766Z
+lastCollected: 2026-04-07T09:03:55.273Z
 estimatedTokens: 2237
 keywords: [Specimen, sample, analysis, API, version, 64.0, later, Calls, Associated, Objects]
 ---

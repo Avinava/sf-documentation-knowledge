@@ -5,7 +5,7 @@ topic: adavailabletargetsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.371Z
+lastCollected: 2026-04-07T09:04:21.593Z
 estimatedTokens: 873
 keywords: [AdAvailableTargetSegment, junction, product, target, category, media, API, version, 63.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: scope-records-using-multiple-string-or-id-values-in-record-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.312Z
+lastCollected: 2026-04-07T09:05:27.845Z
 estimatedTokens: 211
 keywords: [Scope, Records, Multiple, Record, Criteria, scoping, rule, active, users, they, whose, Name__c, matches, rule’s, strings]
 ---

@@ -5,7 +5,7 @@ topic: rebateprogrammemberpayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.715Z
+lastCollected: 2026-04-07T09:03:20.115Z
 estimatedTokens: 398
 keywords: [RebateProgramMemberPayout, payout, calculated, member, period, $1000, Jan'21, ABC, enterprises, API, version, 51.0, later, Calls]
 ---

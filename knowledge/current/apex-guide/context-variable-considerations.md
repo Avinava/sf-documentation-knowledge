@@ -5,7 +5,7 @@ topic: context-variable-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:44.337Z
+lastCollected: 2026-04-07T09:02:33.510Z
 estimatedTokens: 640
 keywords: [Context, Variable, Considerations, certain, actions, different, trigger, events]
 ---

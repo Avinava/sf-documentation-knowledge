@@ -5,8 +5,8 @@ topic: cancel-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.645Z
-estimatedTokens: 597
+lastCollected: 2026-04-07T09:04:01.788Z
+estimatedTokens: 600
 keywords: [Cancel, Policy, cancellation, process, addresses, termination, insurance, scheduled, expiration, date, Common, reasons, canceling, include, paying, Output, representation]
 ---
 
@@ -27,7 +27,7 @@ Make sure you have these details.
 
 This diagram outlines a sequence of operations involved in canceling a policy.
 
-![A flow diagram representing the cancel policy user journey.](/docs/resources/img/en-us/260.0?doc_id=insurance%2Fimages%2Fcancel_policy.png&folder=insurance_developer_guide)
+![A flow diagram representing the cancel policy user journey.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Finsurance%2Fimages%2Fcancel_policy.png&folder=insurance_developer_guide)
 
 1.  Use the policy ID to cancel the policy either by:
 

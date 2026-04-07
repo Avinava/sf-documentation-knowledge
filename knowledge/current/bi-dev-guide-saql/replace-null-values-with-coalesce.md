@@ -5,7 +5,7 @@ topic: replace-null-values-with-coalesce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:06.279Z
+lastCollected: 2026-04-07T09:03:13.827Z
 estimatedTokens: 420
 keywords: [Replace, coalesce, left, outer, full, cogroup, unmatched, data, comes, choice]
 ---

@@ -5,8 +5,8 @@ topic: productfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.553Z
-estimatedTokens: 1751
+lastCollected: 2026-04-07T09:05:17.152Z
+estimatedTokens: 1750
 keywords: [ProductFilter, APEX, programmatic, access, TPM, Promotion, Product, Filter, Products, included, _ProductFilter, toJSON, API, Version, List<ManualProduct>]
 ---
 
@@ -37,19 +37,19 @@ The following are methods for TPM\_ProductFilter.
     Serializes the product filter information into a String used for storage.
 -   **[global List<ManualProduct> getManualProducts](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#globallist)**
     Returns a list of all the Manual Products included in the Product filter.
--   **[global List<String> getCriteriaValues](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_1286909883)**
+-   **[global List<String> getCriteriaValues](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_1069168801)**
     Returns the selected criteria values for the given criteria field. The Criteria field must be a Product2 SObject field. If the criteria field is not part of the Product Filter Criteria, an empty array is returned.
 -   **[global ManualProduct addManualProduct](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#addManualProduct)**
     Adds a Manual Product to the Product Filter. The parameters are the product id to manually included and a flag to include or exclude it.
 -   **[global Object toGenericObject](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#global_TPM_ProductFilter)**
     Serializes the product filter information into a generic object. Useful for usage on remote calls.
--   **[global Set<SObjectField> getCriteriaFields](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_645897140)**
+-   **[global Set<SObjectField> getCriteriaFields](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_56987871)**
     Returns all Product2 SObject fields used in the Product Filter criteria.
--   **[global TPM\_ProductFilter](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_1012479825)**
+-   **[global TPM\_ProductFilter](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_643586994)**
     Creates an empty product filter.
--   **[global TPM\_ProductFilter load](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_1174207366)**
+-   **[global TPM\_ProductFilter load](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_427294517)**
     Loads the Product Filter information from the parameter generic object. The current instance will be cleared and the product filter represented by the payload will be loaded.
--   **[global TPM\_ProductFilter load](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_664310660)**
+-   **[global TPM\_ProductFilter load](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#unique_414801626)**
     Loads the serialized Product Filter information into the current instance. The current instance will be cleared and the product filter represented by the payload will be loaded.
 -   **[global void clear](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.htm#global_TPM_ProductFilter_void_clear)**
     Removes all information from the Product Filter and makes it empty.

@@ -5,7 +5,7 @@ topic: describevaluetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:05.624Z
+lastCollected: 2026-04-07T09:02:39.393Z
 estimatedTokens: 541
 namespace: DescribeValueTypeResult
 keywords: [describeValueType, Retrieves, metadata, describing, Arguments, Permissions, Sample, Code—Java]

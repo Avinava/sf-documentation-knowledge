@@ -5,7 +5,7 @@ topic: locationtrustmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.500Z
+lastCollected: 2026-04-07T09:04:43.990Z
 estimatedTokens: 574
 keywords: [LocationTrustMeasure, COVID, safety, protocols, business, follows, enforcement, masks, social, distancing, cleanliness, capacity, limits, API, version]
 ---

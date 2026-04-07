@@ -5,7 +5,7 @@ topic: connectapimatchinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.969Z
+lastCollected: 2026-04-07T09:02:24.798Z
 estimatedTokens: 140
 keywords: [ConnectApi.MatchInfo, Search, result]
 ---

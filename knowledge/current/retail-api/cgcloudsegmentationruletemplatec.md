@@ -5,7 +5,7 @@ topic: cgcloudsegmentationruletemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.934Z
+lastCollected: 2026-04-07T09:05:21.528Z
 estimatedTokens: 1046
 keywords: [cgcloud__Segmentation_Rule_Template__c, configures, behavior, associated, segmentation, rules, API, version, 54.0, later, cgcloud, _Segmentation, _Rule, _Template, Calls]
 ---

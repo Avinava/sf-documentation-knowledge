@@ -5,7 +5,7 @@ topic: drfetchorderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.010Z
+lastCollected: 2026-04-07T09:04:21.006Z
 estimatedTokens: 144
 keywords: [DRFetchOrderItem, Omnistudio, Data, Mapper, fetches, item, order, Asset, workflow, Sample, Input, Output]
 ---

@@ -5,7 +5,7 @@ topic: considerations-for-custom-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:25.881Z
+lastCollected: 2026-04-07T09:05:02.365Z
 estimatedTokens: 1508
 namespace: Custom
 keywords: [Considerations, Custom, Interactions, Easily, log, managed, package, Apex, subscribers, interact, code, executed, defined, logged, Retrieve]

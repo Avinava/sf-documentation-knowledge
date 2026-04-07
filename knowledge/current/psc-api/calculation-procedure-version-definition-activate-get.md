@@ -5,7 +5,7 @@ topic: calculation-procedure-version-definition-activate-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.477Z
+lastCollected: 2026-04-07T09:05:08.713Z
 estimatedTokens: 296
 keywords: [Calculation, Procedure, Version, Definition, Activate, Retrieve, expression, known, record]
 ---

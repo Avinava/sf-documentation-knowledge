@@ -5,7 +5,7 @@ topic: structuring-and-organizing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.640Z
+lastCollected: 2026-04-07T09:03:16.043Z
 estimatedTokens: 387
 keywords: [Structuring, Organizing, Rules, template-to-app-rules.json, followed, template]
 ---

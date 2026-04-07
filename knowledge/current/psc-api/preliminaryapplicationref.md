@@ -5,7 +5,7 @@ topic: preliminaryapplicationref
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.236Z
+lastCollected: 2026-04-07T09:05:14.185Z
 estimatedTokens: 888
 keywords: [PreliminaryApplicationRef, saved, applications, pre-screening, forms, API, version, 49.0, later, Calls, Associated, Objects]
 ---

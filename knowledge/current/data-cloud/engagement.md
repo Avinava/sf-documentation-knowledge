@@ -5,7 +5,7 @@ topic: engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:29.345Z
+lastCollected: 2026-04-07T09:02:06.537Z
 estimatedTokens: 488
 keywords: [Engagement, Descriptions, how, Data, Cloud, Module, Mobile, SDK, events, map, event, definition, recommended, schema]
 ---

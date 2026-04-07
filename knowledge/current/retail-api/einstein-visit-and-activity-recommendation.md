@@ -5,7 +5,7 @@ topic: einstein-visit-and-activity-recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.697Z
+lastCollected: 2026-04-07T09:05:17.357Z
 estimatedTokens: 470
 keywords: [Einstein, Visit, Activity, Recommendation, objects]
 ---

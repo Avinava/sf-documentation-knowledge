@@ -5,7 +5,7 @@ topic: create-logout-event-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.080Z
+lastCollected: 2026-04-07T09:05:28.954Z
 estimatedTokens: 322
 keywords: [Logout, Event, Triggers, LogoutEventStream, org, Apex, respond, security, events, org’s]
 ---

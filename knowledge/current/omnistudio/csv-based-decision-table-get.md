@@ -5,7 +5,7 @@ topic: csv-based-decision-table-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.800Z
+lastCollected: 2026-04-07T09:02:52.437Z
 estimatedTokens: 446
 keywords: [CSV, Decision, Fetch, paginated, data, resource, responsible, managing, rows]
 ---

@@ -5,7 +5,7 @@ topic: retrieve-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:29.610Z
+lastCollected: 2026-04-07T09:02:06.689Z
 estimatedTokens: 423
 keywords: [Retrieve, Metadata, Data, Cloud, API, includes, entities, including, Calculated, Insights, Engagement, Profile, their, relationships, objects]
 ---

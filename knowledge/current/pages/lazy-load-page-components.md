@@ -5,7 +5,7 @@ topic: lazy-load-page-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.899Z
+lastCollected: 2026-04-07T09:04:56.704Z
 estimatedTokens: 500
 keywords: [Lazy, Load, Components, reduce, delay, expensive, calculations, loading, loads, essential, delays, features, until, user, performs]
 ---

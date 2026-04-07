@@ -5,7 +5,7 @@ topic: how-does-apex-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:43.353Z
+lastCollected: 2026-04-07T09:02:32.617Z
 estimatedTokens: 326
 keywords: [How, Apex, Work, runs, entirely, on-demand, Lightning, Platform, Developers, write, save, code, end, users, trigger]
 ---

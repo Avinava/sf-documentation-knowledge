@@ -5,7 +5,7 @@ topic: sales-marketing-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.226Z
+lastCollected: 2026-04-07T09:05:23.001Z
 estimatedTokens: 54
 keywords: [Sales, Marketing, Dashboards, easy, people, various, roles, gauge, state, campaigns, leads, opportunities, their, organization, teams]
 ---

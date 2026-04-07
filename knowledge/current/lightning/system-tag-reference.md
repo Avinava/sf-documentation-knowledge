@@ -5,7 +5,7 @@ topic: system-tag-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.842Z
+lastCollected: 2026-04-07T09:04:15.491Z
 estimatedTokens: 384
 keywords: [System, Tag, tags, represent, framework, definitions, Component, Library]
 ---

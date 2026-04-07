@@ -5,7 +5,7 @@ topic: cartitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.199Z
+lastCollected: 2026-04-07T09:04:36.511Z
 estimatedTokens: 1246
 keywords: [CartItemAttribute, attributes, associated, cart, item, stored, key-value, pairs, derived, product, carried, forward, order, checkout, API]
 ---

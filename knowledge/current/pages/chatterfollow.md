@@ -5,7 +5,7 @@ topic: chatterfollow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.225Z
+lastCollected: 2026-04-07T09:04:57.182Z
 estimatedTokens: 330
 keywords: [chatter, follow, Renders, button, user, unfollow, record, components, unavailable, Visualforce, pages, Force.com, sites, Ext, versions]
 ---

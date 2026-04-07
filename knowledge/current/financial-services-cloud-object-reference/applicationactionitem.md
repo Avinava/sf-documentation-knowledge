@@ -5,7 +5,7 @@ topic: applicationactionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.398Z
+lastCollected: 2026-04-07T09:03:48.477Z
 estimatedTokens: 1261
 keywords: [ApplicationActionItem, Stores, action, items, assigned, user, application, API, version, 61.0, later, Digital, Lending, permission, Calls]
 ---

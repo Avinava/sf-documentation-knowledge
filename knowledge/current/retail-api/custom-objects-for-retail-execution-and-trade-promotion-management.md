@@ -5,7 +5,7 @@ topic: custom-objects-for-retail-execution-and-trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.462Z
+lastCollected: 2026-04-07T09:05:18.599Z
 estimatedTokens: 2916
 keywords: [Custom, Objects, Retail, Execution, Trade, Promotion, Management, consumer, goods, data, model, supports, TPM]
 ---

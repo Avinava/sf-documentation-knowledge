@@ -5,7 +5,7 @@ topic: improve-performance-with-the-composite-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.863Z
+lastCollected: 2026-04-07T09:02:49.521Z
 estimatedTokens: 813
 keywords: [Improve, Performance, Composite, Resource, development, tool, app, built, Tooling, API, executes, series, requests, call, minimizing]
 ---

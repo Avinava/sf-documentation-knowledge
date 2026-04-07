@@ -5,7 +5,7 @@ topic: memberpointbalanceinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.628Z
+lastCollected: 2026-04-07T09:04:16.658Z
 estimatedTokens: 1007
 namespace: LoyaltyManagement
 keywords: [MemberPointBalanceInputBuilder, build, instance, setLoyaltyProgramMemberId, loyaltyProgramMemberId, setProgramCurrencyName, programCurrencyName, setProgramName, programName]

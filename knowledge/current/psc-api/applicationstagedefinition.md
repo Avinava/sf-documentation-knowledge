@@ -5,7 +5,7 @@ topic: applicationstagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:32.929Z
+lastCollected: 2026-04-07T09:05:12.592Z
 estimatedTokens: 824
 keywords: [ApplicationStageDefinition, stage, application, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

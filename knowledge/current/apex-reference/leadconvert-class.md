@@ -5,7 +5,7 @@ topic: leadconvert-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.413Z
+lastCollected: 2026-04-07T09:02:27.068Z
 estimatedTokens: 5217
 namespace: Database
 keywords: [LeadConvert, opportunity, lead, merged, updating, Usage, getAccountId, getAccountRecord, getBypassAccountDedupeCheck, getBypassContactDedupeCheck, getContactId, getContactRecord, getConvertedStatus, getLeadID, getOpportunityId]
@@ -95,7 +95,7 @@ The following are methods for LeadConvert. All are instance methods.
     Gets the ID of the person to own any newly created account, contact, and opportunity.
 -   **[getRelatedPersonAccountId()](atlas.en-us.apexref.meta/apexref/apex_dml_convertLead.htm#apex_Database_LeadConvert_getRelatedPersonAccountId)**
     Gets the ID of the existing person account into which the lead will be converted.
--   **[getRelatedPersonAccountRecord()](atlas.en-us.apexref.meta/apexref/apex_dml_convertLead.htm#unique_823084293)**
+-   **[getRelatedPersonAccountRecord()](atlas.en-us.apexref.meta/apexref/apex_dml_convertLead.htm#unique_1120594978)**
     Gets the entity record of the new person account into which the lead will be converted.
 -   **[isDoNotCreateOpportunity()](atlas.en-us.apexref.meta/apexref/apex_dml_convertLead.htm#apex_Database_LeadConvert_isDoNotCreateOpportunity)**
     Indicates whether an Opportunity is created during lead conversion (false, the default) or not (true).

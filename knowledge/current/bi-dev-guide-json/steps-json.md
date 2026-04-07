@@ -5,7 +5,7 @@ topic: steps-json
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:02.282Z
+lastCollected: 2026-04-07T09:03:07.725Z
 estimatedTokens: 1047
 keywords: [steps, JSON, key, CRM, Analytics, dashboard, separate, node, step, define, query, control, behavior, whether, facet]
 ---

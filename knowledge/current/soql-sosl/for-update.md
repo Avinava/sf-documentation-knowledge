@@ -5,7 +5,7 @@ topic: for-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.710Z
+lastCollected: 2026-04-07T09:06:15.073Z
 estimatedTokens: 315
 keywords: [Apex, lock, sObject, records, they’re, updated, order, prevent, race, conditions, thread, safety, problems]
 ---

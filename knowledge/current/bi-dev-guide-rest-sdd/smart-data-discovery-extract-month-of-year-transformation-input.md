@@ -5,7 +5,7 @@ topic: smart-data-discovery-extract-month-of-year-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.183Z
+lastCollected: 2026-04-07T09:03:12.165Z
 estimatedTokens: 108
 keywords: [Smart, Data, Discovery, Extract, Month, Year, Transformation, Input]
 ---

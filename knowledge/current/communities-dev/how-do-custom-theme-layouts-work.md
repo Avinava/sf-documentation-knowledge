@@ -5,7 +5,7 @@ topic: how-do-custom-theme-layouts-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.288Z
+lastCollected: 2026-04-07T09:03:39.715Z
 estimatedTokens: 1021
 keywords: [How, Custom, Theme, Layouts, Work, understand, layout, works, let’s, look, things, Experience, Builder, perspective, combine]
 ---

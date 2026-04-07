@@ -5,7 +5,7 @@ topic: associate-partner-telephony-users-and-groups-with-queues
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:22.221Z
+lastCollected: 2026-04-07T09:06:18.802Z
 estimatedTokens: 3668
 keywords: [Associate, Partner, Telephony, Users, Groups, Queues, queue, management, Service, Cloud, Voice, Implement, Apex]
 ---

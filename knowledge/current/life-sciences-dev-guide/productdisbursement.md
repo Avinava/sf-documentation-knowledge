@@ -5,7 +5,7 @@ topic: productdisbursement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.769Z
+lastCollected: 2026-04-07T09:04:11.344Z
 estimatedTokens: 1832
 keywords: [ProductDisbursement, product, disbursed, API, version, 65.0, later, Calls, Associated, Objects]
 ---

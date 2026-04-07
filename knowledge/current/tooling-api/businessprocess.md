@@ -5,7 +5,7 @@ topic: businessprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.991Z
+lastCollected: 2026-04-07T09:02:46.511Z
 estimatedTokens: 346
 keywords: [BusinessProcess, business, process, SOAP, Calls, REST, HTTP, Special, Access, Rules]
 ---

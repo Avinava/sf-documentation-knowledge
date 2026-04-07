@@ -5,8 +5,8 @@ topic: attachmentretrievaloption-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.509Z
-estimatedTokens: 389
+lastCollected: 2026-04-07T09:02:27.234Z
+estimatedTokens: 518
 namespace: Messaging
 keywords: [AttachmentRetrievalOption, options, including, attachment, metadata, content, excluding, attachments, Usage]
 ---
@@ -24,9 +24,15 @@ Provides options for including attachment metadata only, attachment metadata and
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## Usage
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexref)
+
+#### Important
+
+Sending an email by using Apex requires domain-level and user-level email verification. System-generated emails also require verification of the From email address. Email delivery fails if any of these verifications is incomplete. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 Use these enum values with the [renderStoredEmailTemplate(templateId, whoId, whatId, attachmentRetrievalOption)](atlas.en-us.apexref.meta/apexref/apex_classes_email_outbound_messaging.htm#apex_System_messaging_renderStoredEmailTemplate_2 "Renders a text, custom, HTML, or Visualforce email template that exists in the database into an instance of Messaging.SingleEmailMessage. Provides options for including attachment metadata only, attachment metadata and content, or excluding attachments.") method.
 

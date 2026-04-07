@@ -5,7 +5,7 @@ topic: permanently-delete-datasets-and-alignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.766Z
+lastCollected: 2026-04-07T09:04:20.655Z
 estimatedTokens: 654
 keywords: [Permanently, Datasets, Alignments, DoCleanup, Apex, removes, cleans, user, already, deleted, Territory, Planning, Data, reduce, size]
 ---

@@ -5,7 +5,7 @@ topic: paymentcredit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.424Z
+lastCollected: 2026-04-07T09:04:46.288Z
 estimatedTokens: 1118
 keywords: [PaymentCredit, Tracks, amount, money, customer, store, credit, gift, card, another, It's, linked, original, payment, record]
 ---

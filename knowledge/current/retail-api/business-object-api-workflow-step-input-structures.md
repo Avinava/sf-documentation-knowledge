@@ -5,7 +5,7 @@ topic: business-object-api-workflow-step-input-structures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.775Z
+lastCollected: 2026-04-07T09:05:17.458Z
 estimatedTokens: 5609
 keywords: [Business, API, Workflow, Step, Input, Structures, technical]
 ---

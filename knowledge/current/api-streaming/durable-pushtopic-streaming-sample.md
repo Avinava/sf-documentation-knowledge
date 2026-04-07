@@ -5,8 +5,8 @@ topic: durable-pushtopic-streaming-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.199Z
-estimatedTokens: 909
+lastCollected: 2026-04-07T09:03:04.904Z
+estimatedTokens: 900
 keywords: [Durable, PushTopic, Streaming, Sample, Visualforce, how, replay, options, subscribe, receive, event, notifications, Generate, Events]
 ---
 
@@ -49,7 +49,7 @@ This Visualforce sample is part of the Durable Streaming Demo app.
 
     The Notifications section is updated and shows only the last event with replay ID 3.
 
-    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_vfsample_replay_pushtopic_messages.png&folder=api_streaming)
+    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_vfsample_replay_pushtopic_messages.png&folder=api_streaming)
 
 6.  To receive only the events that are sent after you subscribe, enter \-1 in the **Replay From ID** field. Then click **Update Subscription**.
 
@@ -59,10 +59,10 @@ This Visualforce sample is part of the Durable Streaming Demo app.
 
     The Notifications section is updated with the new events and doesn’t show the old events.
 
-    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_vfsample_replay_pushtopic_messages_new.png&folder=api_streaming)
+    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_vfsample_replay_pushtopic_messages_new.png&folder=api_streaming)
 
 8.  Switch the replay option back to -2.
 
     The page displays all events, including events that were sent earlier.
 
-    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_vfsample_replay_pushtopic_messages_all.png&folder=api_streaming)
+    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_vfsample_replay_pushtopic_messages_all.png&folder=api_streaming)

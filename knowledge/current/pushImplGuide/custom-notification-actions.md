@@ -5,7 +5,7 @@ topic: custom-notification-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:35.544Z
+lastCollected: 2026-04-07T09:05:15.721Z
 estimatedTokens: 838
 keywords: [Custom, Notification, Actions, Send, notifications, recipients, via, desktop, mobile, channels, REST, HTTP, Inputs, Usage]
 ---

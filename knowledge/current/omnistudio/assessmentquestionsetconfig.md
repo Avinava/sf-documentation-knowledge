@@ -5,7 +5,7 @@ topic: assessmentquestionsetconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:57.159Z
+lastCollected: 2026-04-07T09:02:59.738Z
 estimatedTokens: 532
 keywords: [AssessmentQuestionSetConfig, Reqpresents, assessment, question, record, metadata, configuration, API, version, 56.0, later, SOAP, Calls, REST, Special]
 ---

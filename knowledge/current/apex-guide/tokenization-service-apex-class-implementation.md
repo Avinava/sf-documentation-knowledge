@@ -5,7 +5,7 @@ topic: tokenization-service-apex-class-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:42.274Z
+lastCollected: 2026-04-07T09:02:31.636Z
 estimatedTokens: 1068
 keywords: [Tokenization, Service, Apex, Implementation, hide, sensitive, customer, payment, data, uses, PaymentMethodTokenizationRequest, PaymentMethodTokenizationResponse, CardPaymentMethodRequest, Implement, classes]
 ---

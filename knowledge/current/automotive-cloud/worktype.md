@@ -5,7 +5,7 @@ topic: worktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:01.752Z
+lastCollected: 2026-04-07T09:03:07.065Z
 estimatedTokens: 1377
 keywords: [WorkType, work, performed, dealer, location, templates, associate, group, service, territory, API, version, 58.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: onboardingdataobjectgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:08.648Z
+lastCollected: 2026-04-07T09:02:42.612Z
 estimatedTokens: 1620
 keywords: [OnboardingDataObjectGroup, configuration, groups, objects, specific, business, purpose, Customer, Contact, onboarding, data, group, includes, Email, Phone]
 ---

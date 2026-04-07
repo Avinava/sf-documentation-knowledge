@@ -5,7 +5,7 @@ topic: custom-controllers-and-controller-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.250Z
+lastCollected: 2026-04-07T09:04:58.628Z
 estimatedTokens: 644
 keywords: [Custom, Controllers, Controller, Extensions, Standard, provide, functionality, Visualforce, because, they, include, logic, Accounts, clicking, Save]
 ---

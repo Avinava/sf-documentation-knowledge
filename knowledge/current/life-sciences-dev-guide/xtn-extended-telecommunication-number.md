@@ -5,7 +5,7 @@ topic: xtn---extended-telecommunication-number
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.674Z
+lastCollected: 2026-04-07T09:04:09.040Z
 estimatedTokens: 320
 keywords: [XTN, Extended, Telecommunication, Number, HL7, segment, maps, ContactPointPhone, Salesforce, V2.3, Clinical, Data, Model, Mapping]
 ---

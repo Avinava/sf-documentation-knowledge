@@ -5,7 +5,7 @@ topic: accountplanobjectivecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.966Z
+lastCollected: 2026-04-07T09:03:47.973Z
 estimatedTokens: 1028
 keywords: [AccountPlanObjectiveCategory, objective, category, that's, group, account, plan, objectives, streamline, tracking, analysis, management, API, version, 62.0]
 ---

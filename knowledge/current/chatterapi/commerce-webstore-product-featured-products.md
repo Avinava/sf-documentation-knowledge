@@ -5,7 +5,7 @@ topic: commerce-webstore-product-featured-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.520Z
+lastCollected: 2026-04-07T09:03:25.733Z
 estimatedTokens: 669
 keywords: [Commerce, Webstore, Product, Featured, Products, Retrieve, collection, feature, specific]
 ---

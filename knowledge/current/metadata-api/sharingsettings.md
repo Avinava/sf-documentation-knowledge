@@ -5,7 +5,7 @@ topic: sharingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:10.172Z
+lastCollected: 2026-04-07T09:02:44.316Z
 estimatedTokens: 1960
 keywords: [SharingSettings, organization’s, sharing, visibility, data, access, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---

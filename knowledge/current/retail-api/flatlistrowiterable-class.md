@@ -5,7 +5,7 @@ topic: flatlistrowiterable-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.637Z
+lastCollected: 2026-04-07T09:05:17.261Z
 estimatedTokens: 494
 namespace: CGCloud
 keywords: [FlatListRowIterable, Real, Time, Reporting, RTR, report, Flatlist, component, rows, implements, Iterable, batch, processes, hasNext]

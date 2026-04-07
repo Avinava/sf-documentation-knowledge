@@ -5,7 +5,7 @@ topic: actionplantemplateitemvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.840Z
+lastCollected: 2026-04-07T09:05:12.482Z
 estimatedTokens: 2093
 keywords: [ActionPlanTemplateItemValue, associated, action, plan, template, item, API, version, 44.0, later, Calls, Objects]
 ---

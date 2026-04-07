@@ -5,7 +5,7 @@ topic: render-lightning-runtime-for-flows-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.626Z
+lastCollected: 2026-04-07T09:04:59.182Z
 estimatedTokens: 1046
 keywords: [Render, Lightning, Runtime, Flows, Visualforce, embed, flow, renders, Classic, suggests, looks, feels, regular, pages, Salesforce]
 ---

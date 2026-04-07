@@ -5,8 +5,8 @@ topic: generate-insurance-clauses-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.601Z
-estimatedTokens: 423
+lastCollected: 2026-04-07T09:04:00.057Z
+estimatedTokens: 422
 keywords: [Generate, Insurance, Clauses, Action, quote, context, specify, either, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -26,7 +26,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/generateInsuranceClauses
+/services/data/v/actions/standard/generateInsuranceClauses
 
 Formats
 

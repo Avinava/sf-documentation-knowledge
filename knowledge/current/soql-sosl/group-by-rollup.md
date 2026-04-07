@@ -5,7 +5,7 @@ topic: group-by-rollup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.760Z
+lastCollected: 2026-04-07T09:06:15.141Z
 estimatedTokens: 1338
 keywords: [GROUP, ROLLUP, clause, SOQL, query, add, subtotals, aggregated, data, results, action, calculate, don’t, maintain, logic]
 ---

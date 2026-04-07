@@ -5,7 +5,7 @@ topic: using-dynamic-references-with-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.533Z
+lastCollected: 2026-04-07T09:04:59.044Z
 estimatedTokens: 2940
 keywords: [Dynamic, References, Standard, Objects, Visualforce, bindings, construct, simple, reusable, pages, known, want, access, approach, advantage]
 ---

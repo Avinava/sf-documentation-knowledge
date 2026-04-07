@@ -5,7 +5,7 @@ topic: base-components-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.420Z
+lastCollected: 2026-04-07T09:04:24.467Z
 estimatedTokens: 1259
 keywords: [Base, Components, Support, described, Lightning, Web, reviewed, correct, behavior, LWC, Offline-enabled, mobile, apps, Additional, Component]
 ---

@@ -5,7 +5,7 @@ topic: personcompetency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.174Z
+lastCollected: 2026-04-07T09:05:14.117Z
 estimatedTokens: 1106
 keywords: [PersonCompetency, competency, person, API, version, 64.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

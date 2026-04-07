@@ -5,7 +5,7 @@ topic: track-user-interactions-to-send-to-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.627Z
+lastCollected: 2026-04-07T09:03:45.944Z
 estimatedTokens: 729
 keywords: [Track, User, Interactions, Send, Data, Cloud, integration, comes, interaction, events, turned, mapped, Website, Engagement, DMO]
 ---

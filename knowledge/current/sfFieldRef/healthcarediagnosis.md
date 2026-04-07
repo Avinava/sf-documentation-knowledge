@@ -5,7 +5,7 @@ topic: healthcarediagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:00.029Z
+lastCollected: 2026-04-07T09:05:48.740Z
 estimatedTokens: 625
 keywords: [HealthCareDiagnosis, industry-standard, healthcare, diagnosis, codes, Spring, ’21, release, Procedure, objects, stored, specifically, procedures, diagnoses, were]
 ---

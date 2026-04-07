@@ -5,7 +5,7 @@ topic: billingtreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.568Z
+lastCollected: 2026-04-07T09:04:35.771Z
 estimatedTokens: 890
 keywords: [BillingTreatment, how, Subscription, Management, bills, order, item, Exclude, Billing, whether, invoiced, Child, treatment, items, control]
 ---

@@ -5,7 +5,7 @@ topic: report-orders-to-salesforce-with-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.673Z
+lastCollected: 2026-04-07T09:04:54.576Z
 estimatedTokens: 313
 keywords: [Report, Orders, Salesforce, Channel, Order, App, manage, submit, COA, you’re, OEM, partner, provision, licenses, revenue]
 ---

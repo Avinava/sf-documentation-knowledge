@@ -5,7 +5,7 @@ topic: sample-management-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.952Z
+lastCollected: 2026-04-07T09:04:22.348Z
 estimatedTokens: 148
 keywords: [Sample, Management, Input, creating, updating, versioning, Product, Requirement, Specification]
 ---

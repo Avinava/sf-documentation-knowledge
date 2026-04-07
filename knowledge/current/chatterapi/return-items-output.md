@@ -5,7 +5,7 @@ topic: return-items-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.996Z
+lastCollected: 2026-04-07T09:03:35.745Z
 estimatedTokens: 364
 keywords: [Items, Output, Includes, generated, change, order, delivery, charges, well, any, charged, fees, ReturnOrderLineItems, were, created]
 ---

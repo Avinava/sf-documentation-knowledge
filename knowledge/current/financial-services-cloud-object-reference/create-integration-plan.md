@@ -5,7 +5,7 @@ topic: create-integration-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:28.728Z
+lastCollected: 2026-04-07T09:03:47.687Z
 estimatedTokens: 443
 keywords: [Integration, Plan, Creates, record, Expression, decisions, Dynamic, Fulfillment, Orchestration, records, REST, HTTP, Inputs, Outputs]
 ---

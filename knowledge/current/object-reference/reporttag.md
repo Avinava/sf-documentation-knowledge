@@ -5,7 +5,7 @@ topic: reporttag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.243Z
+lastCollected: 2026-04-07T09:04:48.412Z
 estimatedTokens: 439
 keywords: [ReportTag, Associates, word, short, phrase, Report, API, version, 20.0, later, Calls, Usage]
 ---

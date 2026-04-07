@@ -5,7 +5,7 @@ topic: creating-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.784Z
+lastCollected: 2026-04-07T09:04:13.864Z
 estimatedTokens: 461
 keywords: [Creating, Examples, interactive, help, others, component, event]
 ---

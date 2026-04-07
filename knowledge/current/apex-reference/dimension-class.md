@@ -5,7 +5,7 @@ topic: dimension-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.428Z
+lastCollected: 2026-04-07T09:02:17.895Z
 estimatedTokens: 279
 namespace: Reports
 keywords: [Dimension, row, column, grouping, getGroupings]

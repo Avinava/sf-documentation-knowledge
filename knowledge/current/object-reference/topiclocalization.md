@@ -5,7 +5,7 @@ topic: topiclocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.259Z
+lastCollected: 2026-04-07T09:04:51.119Z
 estimatedTokens: 1358
 keywords: [TopicLocalization, translated, version, topic, localization, navigational, featured, topics, Experience, Cloud, sites, API, 33.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: install-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.605Z
+lastCollected: 2026-04-07T09:04:54.458Z
 estimatedTokens: 581
 keywords: [Install, Checkout, Management, App, CMA, Salesforce, org, manage, licenses, usually, Partner, Business, License, LMA, sure]
 ---

@@ -5,7 +5,7 @@ topic: scope3pcmtitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.070Z
+lastCollected: 2026-04-07T09:06:06.177Z
 estimatedTokens: 267
 keywords: [Scope3PcmtItemHistory, History, tracked, Scope3PcmtItem]
 ---

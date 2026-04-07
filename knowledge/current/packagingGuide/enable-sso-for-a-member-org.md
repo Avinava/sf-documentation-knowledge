@@ -5,7 +5,7 @@ topic: enable-sso-for-a-member-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.890Z
+lastCollected: 2026-04-07T09:04:54.928Z
 estimatedTokens: 125
 keywords: [Enable, SSO, Member, Org, sign-on, let, Environment, Hub, user, log, reauthenticating]
 ---

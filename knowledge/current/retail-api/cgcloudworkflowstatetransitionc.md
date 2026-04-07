@@ -5,7 +5,7 @@ topic: cgcloudworkflowstatetransitionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.525Z
+lastCollected: 2026-04-07T09:05:22.189Z
 estimatedTokens: 1059
 keywords: [cgcloud__Workflow_State_Transition__c, Stores, workflow, state, transition, API, version, 54.0, later, cgcloud, _Workflow, _State, _Transition, Calls, Associated]
 ---

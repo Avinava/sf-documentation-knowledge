@@ -5,8 +5,8 @@ topic: renew-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.107Z
-estimatedTokens: 1055
+lastCollected: 2026-04-07T09:04:04.125Z
+estimatedTokens: 1059
 keywords: [Renew, Policy, renewal, process, extending, insurance, coverage, additional, term, typically, current, approaches, effective-to, date, key, extends, creating, new, record, journey]
 ---
 
@@ -29,7 +29,7 @@ If the policyholder changes their information, it affects the terms or prices of
 
 This diagram outlines the sequence of renewing an existing policy.
 
-![A flow diagram representing the sequence of renewing a policy.](/docs/resources/img/en-us/260.0?doc_id=insurance%2Fimages%2Frenew_policy_with_quote.png&folder=insurance_developer_guide)
+![A flow diagram representing the sequence of renewing a policy.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Finsurance%2Fimages%2Frenew_policy_with_quote.png&folder=insurance_developer_guide)
 
 1.  **Get Policy Context**—Use the policy ID to get the context either by:
     -   Making a GET request on the [Insurance Policy Details](https://developer.salesforce.com/docs/atlas.en-us.260.0.insurance_developer_guide.meta/insurance_developer_guide/connect_resources_get_policy.htm "HTML (New Window)") Connect API, or

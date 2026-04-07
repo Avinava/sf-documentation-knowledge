@@ -5,7 +5,7 @@ topic: customhttpheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.694Z
+lastCollected: 2026-04-07T09:04:38.422Z
 estimatedTokens: 438
 keywords: [CustomHttpHeader, custom, HTTP, context, Salesforce, region, org, role, person, viewing, external, API, version, 43.0, later]
 ---

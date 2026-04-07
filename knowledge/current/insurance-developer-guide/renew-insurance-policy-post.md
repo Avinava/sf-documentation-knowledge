@@ -5,7 +5,7 @@ topic: renew-insurance-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.336Z
+lastCollected: 2026-04-07T09:04:02.863Z
 estimatedTokens: 387
 keywords: [Renew, Insurance, Policy, POST, context, Modify, renewal, date, add, additional, input, JSON]
 ---
@@ -67,7 +67,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/policies/0YTxx00000000WHGAY/renew
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/policies/0YTxx00000000WHGAY/renew
 ```
 
 ```

@@ -5,7 +5,7 @@ topic: adding-visualforce-to-a-salesforce-appexchange-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.895Z
+lastCollected: 2026-04-07T09:04:59.589Z
 estimatedTokens: 1003
 keywords: [Adding, Visualforce, Salesforce, AppExchange, App, include, pages, components, custom, controllers, creating]
 ---

@@ -5,7 +5,7 @@ topic: fixing-performance-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.372Z
+lastCollected: 2026-04-07T09:04:14.723Z
 estimatedTokens: 273
 keywords: [Fixing, Performance, Warnings, few, common, anti-patterns, code, prompt, framework, log, messages, browser, console, Fix, speed]
 ---

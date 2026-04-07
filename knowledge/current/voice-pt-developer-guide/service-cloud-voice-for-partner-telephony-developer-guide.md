@@ -5,7 +5,7 @@ topic: service-cloud-voice-for-partner-telephony-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.022Z
+lastCollected: 2026-04-07T09:06:18.505Z
 estimatedTokens: 748
 keywords: [Service, Cloud, Voice, Partner, Telephony, Developer, Connect, system, creating, unified, intuitive, rep, experience, give, customers]
 ---

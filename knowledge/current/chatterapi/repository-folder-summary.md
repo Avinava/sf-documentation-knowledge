@@ -5,7 +5,7 @@ topic: repository-folder-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.971Z
+lastCollected: 2026-04-07T09:03:35.707Z
 estimatedTokens: 399
 keywords: [Repository, Folder, Summary]
 ---

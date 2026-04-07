@@ -5,7 +5,7 @@ topic: care-plan-benefit-session-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.736Z
+lastCollected: 2026-04-07T09:05:09.109Z
 estimatedTokens: 136
 keywords: [Care, Plan, Benefit, Session, Output, representation, benefits, their, associated, sessions, JSON]
 ---

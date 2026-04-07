@@ -5,7 +5,7 @@ topic: connectapigroupinformation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:51.908Z
+lastCollected: 2026-04-07T09:02:24.139Z
 estimatedTokens: 133
 keywords: [ConnectApi.GroupInformation, group, visible, members]
 ---

@@ -5,7 +5,7 @@ topic: contentsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.669Z
+lastCollected: 2026-04-07T09:04:27.475Z
 estimatedTokens: 933
 keywords: [ContentSource, data, source, that's, referenced, API, version, 62.0, later, Calls, Associated, Objects]
 ---

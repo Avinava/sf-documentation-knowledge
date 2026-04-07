@@ -5,7 +5,7 @@ topic: set-up-call-transcription-with-amazon-transcribe
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.433Z
+lastCollected: 2026-04-07T09:06:17.579Z
 estimatedTokens: 547
 keywords: [Call, Transcription, Amazon, Transcribe, real-time, configure, Connect, contact, flow, invoke, kvsConsumerTrigger, Lambda, function, verify, AWS]
 ---

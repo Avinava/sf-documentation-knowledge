@@ -5,7 +5,7 @@ topic: accessing-private-test-class-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.198Z
+lastCollected: 2026-04-07T09:02:33.382Z
 estimatedTokens: 396
 keywords: [Accessing, Test, Members, defined, separate, they, present, problem, having, access, member, variable, calling, Because, aren’t]
 ---

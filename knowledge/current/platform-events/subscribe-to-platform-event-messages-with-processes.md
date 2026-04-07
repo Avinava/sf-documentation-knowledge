@@ -5,8 +5,8 @@ topic: subscribe-to-platform-event-messages-with-processes
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:28.140Z
-estimatedTokens: 959
+lastCollected: 2026-04-07T09:05:05.568Z
+estimatedTokens: 956
 keywords: [Subscribe, Platform, Event, Messages, Processes, built, Process, Builder, events, receive, published, Apex, APIs, flows, provide]
 ---
 
@@ -24,7 +24,7 @@ To subscribe a process to a platform event, build the process to start when it r
 
 ## Example
 
-This process starts when it receives a Printer Status event message. When it starts, the process looks for an Asset record whose serial number matches the serial number in the event message. ![Sample process trigger](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fpb_event_subscribe_printer_status.png&folder=platform_events)
+This process starts when it receives a Printer Status event message. When it starts, the process looks for an Asset record whose serial number matches the serial number in the event message. ![Sample process trigger](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fpb_event_subscribe_printer_status.png&folder=platform_events)
 
 ## Process and Platform Event Considerations
 

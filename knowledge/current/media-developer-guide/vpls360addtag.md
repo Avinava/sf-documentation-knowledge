@@ -5,7 +5,7 @@ topic: vpls360addtag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.229Z
+lastCollected: 2026-04-07T09:04:21.333Z
 estimatedTokens: 111
 keywords: [VPLS360_addTag, Integration, Procedure, adds, HTML, tags, order, confirmation, mail, sent, subscriber, proper, padding, spacing, VPLS360]
 ---

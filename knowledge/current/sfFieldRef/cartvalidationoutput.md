@@ -5,7 +5,7 @@ topic: cartvalidationoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.600Z
+lastCollected: 2026-04-07T09:05:38.883Z
 estimatedTokens: 418
 keywords: [CartValidationOutput, Associate, errors, cart, entities, line, items, delivery, groups, store, built, B2B, Commerce, D2C, error]
 ---

@@ -5,7 +5,7 @@ topic: save-recommendation-decision-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.956Z
+lastCollected: 2026-04-07T09:05:17.737Z
 estimatedTokens: 173
 keywords: [Save, Recommendation, Decision, Status, Output, representation]
 ---

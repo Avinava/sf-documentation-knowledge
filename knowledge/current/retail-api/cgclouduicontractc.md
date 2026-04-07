@@ -5,7 +5,7 @@ topic: cgclouduicontractc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.290Z
+lastCollected: 2026-04-07T09:05:21.924Z
 estimatedTokens: 1224
 keywords: [cgcloud__UI_Contract__c, contract, templates, smart, API, version, 54.0, later, cgcloud, _UI, _Contract, Calls, Associated, Objects]
 ---

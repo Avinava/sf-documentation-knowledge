@@ -5,7 +5,7 @@ topic: flowrecordrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.391Z
+lastCollected: 2026-04-07T09:05:46.396Z
 estimatedTokens: 346
 keywords: [FlowRecordRelation, relationship, record, flow, interview, paused, Salesforce, uses, $Flow.CurrentRecord, variable, associate, API, version, 42.0, later]
 ---

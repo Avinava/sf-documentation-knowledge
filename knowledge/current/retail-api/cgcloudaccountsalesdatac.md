@@ -5,7 +5,7 @@ topic: cgcloudaccountsalesdatac
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.029Z
+lastCollected: 2026-04-07T09:05:19.341Z
 estimatedTokens: 1025
 keywords: [cgcloud__Account_Sales_Data__c, sales, customer, two, consecutive, years, Access, provided, System, Admin, API, version, 54.0, later, cgcloud]
 ---

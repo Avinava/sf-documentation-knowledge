@@ -5,7 +5,7 @@ topic: wavexmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:11.288Z
+lastCollected: 2026-04-07T09:02:45.507Z
 estimatedTokens: 3133
 keywords: [WaveXmd, Analytics, application, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, WaveXmdDate, WaveXmdDimension, WaveXmdFormattingProperty]
 ---

@@ -5,7 +5,7 @@ topic: insurance-product-clause-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.227Z
+lastCollected: 2026-04-07T09:04:02.710Z
 estimatedTokens: 297
 keywords: [Insurance, Product, Clause, PATCH, root]
 ---
@@ -71,7 +71,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/product-clauses/0j4xx0000000001AAA
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/product-clauses/0j4xx0000000001AAA
 ```
 
 ```

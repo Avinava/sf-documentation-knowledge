@@ -5,7 +5,7 @@ topic: collections-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.139Z
+lastCollected: 2026-04-07T09:03:09.023Z
 estimatedTokens: 497
 keywords: [Collections, Resource, creates, collection, Analytics, items, URL, Formats, Version, HTTP, POST]
 ---

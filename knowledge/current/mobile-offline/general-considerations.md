@@ -5,7 +5,7 @@ topic: general-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.428Z
+lastCollected: 2026-04-07T09:04:24.477Z
 estimatedTokens: 1173
 keywords: [General, Considerations, Consider, planning, Lightning, web, components, development, efforts]
 ---

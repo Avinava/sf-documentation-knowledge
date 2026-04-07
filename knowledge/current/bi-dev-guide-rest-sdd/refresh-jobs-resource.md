@@ -5,7 +5,7 @@ topic: refresh-jobs-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:05.481Z
+lastCollected: 2026-04-07T09:03:12.623Z
 estimatedTokens: 105
 keywords: [Refresh, Jobs, Resource, collection, Einstein, Discovery]
 ---

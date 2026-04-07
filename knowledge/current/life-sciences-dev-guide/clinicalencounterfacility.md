@@ -5,7 +5,7 @@ topic: clinicalencounterfacility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.132Z
+lastCollected: 2026-04-07T09:04:07.036Z
 estimatedTokens: 1075
 keywords: [ClinicalEncounterFacility, different, facilities, involved, encounter, time, spent, facilies, relevant, child, ClinicalEncounter, API, version, 51.0, later]
 ---

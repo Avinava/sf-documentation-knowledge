@@ -5,7 +5,7 @@ topic: timeperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.486Z
+lastCollected: 2026-04-07T09:05:11.927Z
 estimatedTokens: 686
 keywords: [TimePeriod, time, period, that's, calculate, indicator, performance, result, API, version, 59.0, later, Calls, Special, Access]
 ---

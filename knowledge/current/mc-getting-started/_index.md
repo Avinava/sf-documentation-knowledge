@@ -1,8 +1,8 @@
 ---
 domain: mc-getting-started
 name: Get Started, Marketing Cloud Developers
-documentCount: 0
-lastGenerated: 2026-04-05T00:23:55.543Z
+documentCount: 3
+lastGenerated: 2026-04-07T09:06:39.458Z
 ---
 
 # Get Started, Marketing Cloud Developers — Knowledge Index
@@ -13,6 +13,9 @@ lastGenerated: 2026-04-05T00:23:55.543Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
+| [introduction.md](./introduction.md) | Introduction | developer-guide | Using the Marketing Cloud platform, you can call the public Marketing Cloud API, |
+| [set-up-your-development-environment-for-enhanced-packages.md](./set-up-your-development-environment-for-enhanced-packages.md) | Set Up Your Development Environment for Enhanced Packages | developer-guide | Development, Environment, Enhanced |
+| [set-up-your-development-environment-for-legacy-packages.md](./set-up-your-development-environment-for-legacy-packages.md) | Set Up Your Development Environment for Legacy Packages | developer-guide | Development, Environment, Legacy |
 
 ## How to Use
 

@@ -5,7 +5,7 @@ topic: credit-memo-apply-application-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.995Z
+lastCollected: 2026-04-07T09:01:58.226Z
 estimatedTokens: 172
 keywords: [Credit, Memo, Apply, Application, Input, representation, specify, applications, representing, invoice]
 ---

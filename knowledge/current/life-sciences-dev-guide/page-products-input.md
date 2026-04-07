@@ -5,7 +5,7 @@ topic: page-products-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.386Z
+lastCollected: 2026-04-07T09:04:05.882Z
 estimatedTokens: 94
 keywords: [Products, Input, representation, product, guidance, IDs, associated, presentation]
 ---

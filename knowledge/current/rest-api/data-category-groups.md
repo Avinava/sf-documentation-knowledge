@@ -5,7 +5,7 @@ topic: data-category-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.385Z
+lastCollected: 2026-04-07T09:02:35.512Z
 estimatedTokens: 813
 keywords: [Data, Category, Groups, visible, current, user, resource, REST, API, version, 38.0, later]
 ---

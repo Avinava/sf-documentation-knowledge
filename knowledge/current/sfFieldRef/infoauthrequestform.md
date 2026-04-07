@@ -5,7 +5,7 @@ topic: infoauthrequestform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.103Z
+lastCollected: 2026-04-07T09:05:50.187Z
 estimatedTokens: 413
 keywords: [InfoAuthRequestForm, Tracks, individual, Authorization, Form, Texts, belong, consent, GDPR, privacy, policy, document, mortgage, loan, rate]
 ---

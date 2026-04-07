@@ -5,7 +5,7 @@ topic: scorecardassociation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.661Z
+lastCollected: 2026-04-07T09:04:48.993Z
 estimatedTokens: 397
 keywords: [ScorecardAssociation, connection, specific, scorecard, associated, account, channel, program, level, API, version, 41.0, later, Calls]
 ---

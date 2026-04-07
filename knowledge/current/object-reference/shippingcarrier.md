@@ -5,7 +5,7 @@ topic: shippingcarrier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.140Z
+lastCollected: 2026-04-07T09:04:49.602Z
 estimatedTokens: 1388
 keywords: [ShippingCarrier, Shipping, company, carrier, responsible, transporting, goods, packages, Examples, include, UPS, FedEx, USPS, API, version]
 ---

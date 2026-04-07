@@ -5,7 +5,7 @@ topic: worktype-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.216Z
+lastCollected: 2026-04-07T09:05:26.249Z
 estimatedTokens: 121
 namespace: LxScheduler
 keywords: [WorkType, work, performed, Usage]

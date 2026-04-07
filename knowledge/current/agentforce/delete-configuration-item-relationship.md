@@ -5,7 +5,7 @@ topic: delete-configuration-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.845Z
+lastCollected: 2026-04-07T09:02:09.912Z
 estimatedTokens: 240
 keywords: [Configuration, Item, Relationship, Submit, operation, relationships, items, CIs, synchronous, Special, Access, Rules]
 ---

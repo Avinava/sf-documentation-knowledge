@@ -5,7 +5,7 @@ topic: saql-null-measures-and-dimensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.641Z
+lastCollected: 2026-04-07T09:03:14.456Z
 estimatedTokens: 428
 keywords: [SAQL, Measures, Dimensions, CRM, Analytics, measure, handling, add, numeric, columns, datasets, grouped, queries]
 ---

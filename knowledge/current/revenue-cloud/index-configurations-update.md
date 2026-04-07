@@ -5,7 +5,7 @@ topic: index-configurations-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:20.751Z
+lastCollected: 2026-04-07T09:02:00.889Z
 estimatedTokens: 189
 keywords: [Index, Configurations, Output, representation, updated, configuration]
 ---

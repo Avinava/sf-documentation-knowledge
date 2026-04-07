@@ -5,7 +5,7 @@ topic: industriesreferralmarketingsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.848Z
+lastCollected: 2026-04-07T09:05:16.212Z
 estimatedTokens: 544
 keywords: [IndustriesReferralMarketingSettings, settings, enable, capabilities, Referral, Marketing, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---

@@ -5,7 +5,7 @@ topic: set-up-an-external-configurator-to-launch-from-a-custom-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.953Z
+lastCollected: 2026-04-07T09:03:40.755Z
 estimatedTokens: 272
 keywords: [External, Configurator, Launch, Custom, Action, launches, non-Salesforce, CPQ]
 ---

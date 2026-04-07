@@ -5,7 +5,7 @@ topic: headlessselfregistrationhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:52.760Z
+lastCollected: 2026-04-07T09:02:27.798Z
 estimatedTokens: 1224
 namespace: Auth
 keywords: [HeadlessSelfRegistrationHandler, Creates, customer, partner, users, Headless, Registration, Flow, Usage, createUser, profileId, data, customUserDataMap, experienceId, password]

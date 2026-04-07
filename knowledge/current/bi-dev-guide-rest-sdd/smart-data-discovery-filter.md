@@ -5,7 +5,7 @@ topic: smart-data-discovery-filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.787Z
+lastCollected: 2026-04-07T09:03:13.097Z
 estimatedTokens: 219
 keywords: [Smart, Data, Discovery, Filter, Einstein, select, model]
 ---

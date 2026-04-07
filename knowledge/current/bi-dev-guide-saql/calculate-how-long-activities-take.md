@@ -5,7 +5,7 @@ topic: calculate-how-long-activities-take
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.288Z
+lastCollected: 2026-04-07T09:03:13.847Z
 estimatedTokens: 382
 keywords: [Calculate, How, Long, Activities, Take, daysBetween, date_diff, difference, two, dates, times, Display, Number, Days, Since]
 ---

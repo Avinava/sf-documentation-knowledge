@@ -5,7 +5,7 @@ topic: videocallrecording
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.138Z
+lastCollected: 2026-04-07T09:04:52.253Z
 estimatedTokens: 1122
 keywords: [VideoCallRecording, recording, video, call, voice, transcript, recordings, aren’t, saved, Salesforce, API, version, 51.0, later, Calls]
 ---

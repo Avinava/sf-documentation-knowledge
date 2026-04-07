@@ -5,7 +5,7 @@ topic: add-a-limited-access-user-to-your-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.979Z
+lastCollected: 2026-04-07T09:06:14.057Z
 estimatedTokens: 379
 keywords: [Add, Limited, Access, User, Dev, Hub, Org, users, require, Salesforce, Free, license, good, approach, provisioned]
 ---

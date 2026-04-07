@@ -5,10 +5,10 @@ topic: sendemailresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.873Z
-estimatedTokens: 504
+lastCollected: 2026-04-07T09:02:18.429Z
+estimatedTokens: 635
 namespace: Messaging
-keywords: [SendEmailResult, result, sending, email, message, getErrors, isSuccess]
+keywords: [SendEmailResult, result, sending, email, message, Usage, getErrors, isSuccess]
 ---
 
 # SendEmailResult Class
@@ -23,7 +23,15 @@ Contains the result of sending an email message.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
+
+## Usage
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexref)
+
+#### Important
+
+Sending an email by using Apex requires domain-level and user-level email verification. System-generated emails also require verification of the From email address. Email delivery fails if any of these verifications is incomplete. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 ## SendEmailResult Methods
 

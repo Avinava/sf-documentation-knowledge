@@ -5,7 +5,7 @@ topic: color---dxp-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:27.561Z
+lastCollected: 2026-04-07T09:03:45.848Z
 estimatedTokens: 1345
 keywords: [Color, --dxp, Styling, Hooks, Experience, Builder, Colors, tab, divided, families, specific, case, along, scale, possible]
 ---

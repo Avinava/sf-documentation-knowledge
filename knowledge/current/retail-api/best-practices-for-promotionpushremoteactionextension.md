@@ -5,7 +5,7 @@ topic: best-practices-for-promotionpushremoteactionextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:41.040Z
+lastCollected: 2026-04-07T09:05:22.754Z
 estimatedTokens: 781
 keywords: [Best, Practices, PromotionPushRemoteActionExtension, topic, focuses, different, Apex, implementations, push, multiple, parent, promotions, Legacy, Mode, New]
 ---

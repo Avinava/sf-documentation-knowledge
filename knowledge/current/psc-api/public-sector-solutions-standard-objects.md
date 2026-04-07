@@ -5,7 +5,7 @@ topic: public-sector-solutions-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.762Z
+lastCollected: 2026-04-07T09:05:07.624Z
 estimatedTokens: 14151
 keywords: [Sector, Solutions, Standard, Objects, data, models, provide, support, licensing, permitting, inspections, assessments, case, program, management]
 ---

@@ -5,7 +5,7 @@ topic: picklist-values-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.030Z
+lastCollected: 2026-04-07T09:06:17.001Z
 estimatedTokens: 321
 keywords: [Picklist, Collection, picklists, record]
 ---

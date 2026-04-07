@@ -5,7 +5,7 @@ topic: apex-trigger-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.765Z
+lastCollected: 2026-04-07T09:03:18.877Z
 estimatedTokens: 427
 keywords: [Apex, Trigger, sample, demonstrates, common, change, event, triggers, complex, quick, start, Predict, Account, Status]
 ---

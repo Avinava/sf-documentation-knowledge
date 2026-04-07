@@ -5,7 +5,7 @@ topic: wkccsurveyschedulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.428Z
+lastCollected: 2026-04-07T09:06:19.093Z
 estimatedTokens: 1360
 keywords: [wkcc__SurveySchedule__c, survey, schedule, org, including, selected, email, template, filter, criteria, API, version, 49.0, later, wkcc]
 ---

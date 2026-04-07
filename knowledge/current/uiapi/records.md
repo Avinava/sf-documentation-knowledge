@@ -5,7 +5,7 @@ topic: records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.539Z
+lastCollected: 2026-04-07T09:06:16.252Z
 estimatedTokens: 1640
 keywords: [Records, resources, metadata, data, objects, easy, build, Salesforce]
 ---

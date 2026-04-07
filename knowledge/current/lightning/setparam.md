@@ -5,7 +5,7 @@ topic: setparam
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.630Z
+lastCollected: 2026-04-07T09:04:15.129Z
 estimatedTokens: 158
 keywords: [setParam, action, pass, data, Apex, event, doesn’t, modify, already, fired]
 ---

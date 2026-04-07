@@ -6,7 +6,7 @@ topic: gridlayouts-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.222Z
+lastCollected: 2026-04-07T09:03:07.631Z
 estimatedTokens: 636
 keywords: [gridLayouts, key, layouts, dashboard, separate, node, layout, provide, devices, placement, widget, cell, spacing, grid, dashboard’s]
 ---

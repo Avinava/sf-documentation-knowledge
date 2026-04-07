@@ -5,7 +5,7 @@ topic: revenue-recognition-service-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.876Z
+lastCollected: 2026-04-07T09:03:16.416Z
 estimatedTokens: 264
 keywords: [Revenue, Recognition, Service, Developer, Salesforce, Billing, API, lets, run, any, triggers, process, builders, REST, calls]
 ---

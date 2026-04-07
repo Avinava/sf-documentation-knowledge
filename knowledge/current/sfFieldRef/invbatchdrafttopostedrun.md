@@ -5,7 +5,7 @@ topic: invbatchdrafttopostedrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.771Z
+lastCollected: 2026-04-07T09:05:51.022Z
 estimatedTokens: 478
 keywords: [InvBatchDraftToPostedRun, batch, job, posts, invoices, status, Draft, generated, invoice, run, associated, billing, schedule, API, version]
 ---

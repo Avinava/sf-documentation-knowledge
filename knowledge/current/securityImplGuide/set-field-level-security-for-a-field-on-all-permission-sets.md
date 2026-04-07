@@ -5,7 +5,7 @@ topic: set-field-level-security-for-a-field-on-all-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.247Z
+lastCollected: 2026-04-07T09:05:29.194Z
 estimatedTokens: 440
 keywords: [Field-Level, Security, Permission, option, alternative, setting, profiles]
 ---

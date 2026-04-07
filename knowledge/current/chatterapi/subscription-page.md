@@ -5,7 +5,7 @@ topic: subscription-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:21.252Z
+lastCollected: 2026-04-07T09:03:36.147Z
 estimatedTokens: 214
 keywords: [Subscription, Chatter, subscriptions]
 ---

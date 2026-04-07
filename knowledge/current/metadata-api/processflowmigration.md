@@ -5,7 +5,7 @@ topic: processflowmigration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.053Z
+lastCollected: 2026-04-07T09:02:43.059Z
 estimatedTokens: 559
 keywords: [ProcessFlowMigration, process's, migrated, criteria, resulting, flow, Parent, Version, Special, Access, Rules, Declarative, Metadata, Sample, Definition]
 ---

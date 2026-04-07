@@ -5,7 +5,7 @@ topic: omnistudio-data-mapper-for-subscriber-lifecycle-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.996Z
+lastCollected: 2026-04-07T09:04:20.982Z
 estimatedTokens: 2389
 keywords: [Omnistudio, Data, Mapper, Subscriber, Lifecycle, Management, Mappers, org, implement, functionality, customer, journeys, Here's, along, sample]
 ---

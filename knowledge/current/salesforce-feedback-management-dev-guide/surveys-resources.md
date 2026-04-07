@@ -5,7 +5,7 @@ topic: surveys-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.485Z
+lastCollected: 2026-04-07T09:05:23.401Z
 estimatedTokens: 903
 keywords: [Surveys, Resources, Understand, customer, feedback, evolves, over, time, engaging, customers, users, relevant, personalized, Incorporate, survey]
 ---

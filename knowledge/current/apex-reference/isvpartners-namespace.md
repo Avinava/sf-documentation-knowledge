@@ -5,7 +5,7 @@ topic: isvpartners-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.612Z
+lastCollected: 2026-04-07T09:02:29.725Z
 estimatedTokens: 138
 namespace: IsvPartners
 keywords: [IsvPartners, associated, Salesforce, ISV, partner, cases, optimizing, code, providing, great, customer, trial, experiences, driving, feature]

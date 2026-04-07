@@ -5,7 +5,7 @@ topic: output-data-cloud-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.861Z
+lastCollected: 2026-04-07T09:05:25.670Z
 estimatedTokens: 473
 keywords: [Output, Data, Cloud, node, recipe]
 ---

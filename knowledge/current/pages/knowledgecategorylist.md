@@ -5,7 +5,7 @@ topic: knowledgecategorylist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.656Z
+lastCollected: 2026-04-07T09:04:57.763Z
 estimatedTokens: 439
 keywords: [knowledge, categoryList, loop, subset, category, hierarchy, total, number, categories, can't, exceed, descendents, phone, product, group]
 ---

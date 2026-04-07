@@ -5,7 +5,7 @@ topic: renamemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.584Z
+lastCollected: 2026-04-07T09:02:43.642Z
 estimatedTokens: 715
 keywords: [renameMetadata, Renames, metadata, component, organization, synchronously, Usage, Version, Permissions, Basic, Steps, Renaming, Components, Sample, Code—Java]
 ---

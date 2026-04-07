@@ -5,7 +5,7 @@ topic: putting-it-all-together
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.109Z
+lastCollected: 2026-04-07T09:05:26.110Z
 estimatedTokens: 1532
 keywords: [Putting, Together, paper’s, scenarios, seen, how, access, rights, users, recorded, Sharing, Group, Maintenance, tables, Salesforce]
 ---

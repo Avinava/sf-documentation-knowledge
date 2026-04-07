@@ -5,7 +5,7 @@ topic: reportexporteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.238Z
+lastCollected: 2026-04-07T09:04:48.405Z
 estimatedTokens: 664
 keywords: [ReportExportEventLog, Report, Export, events, contain, reports, user, exported, event, captures, exports, output, doesn’t, capture, users]
 ---

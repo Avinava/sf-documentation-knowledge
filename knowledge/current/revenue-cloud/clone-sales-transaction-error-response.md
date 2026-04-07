@@ -5,7 +5,7 @@ topic: clone-sales-transaction-error-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:20.083Z
+lastCollected: 2026-04-07T09:02:00.402Z
 estimatedTokens: 113
 keywords: [Clone, Sales, Transaction, Error, Output, representation, errors, occur, operation]
 ---

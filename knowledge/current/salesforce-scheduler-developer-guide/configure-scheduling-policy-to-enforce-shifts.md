@@ -5,7 +5,7 @@ topic: configure-scheduling-policy-to-enforce-shifts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.961Z
+lastCollected: 2026-04-07T09:05:27.313Z
 estimatedTokens: 270
 keywords: [Configure, Scheduling, Policy, Enforce, Shifts, rules, best, service, resources, appointments, Apply, process, ensure, appointment, meets]
 ---

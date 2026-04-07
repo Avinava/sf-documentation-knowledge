@@ -5,7 +5,7 @@ topic: customhelpmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:07.682Z
+lastCollected: 2026-04-07T09:04:38.405Z
 estimatedTokens: 360
 keywords: [CustomHelpMenuItem, items, Lightning, Experience, help, menu, admin, added, display, custom, org-specific, resources, API, version, 44.0]
 ---

@@ -5,8 +5,8 @@ topic: promotion-reward-application
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.615Z
-estimatedTokens: 112
+lastCollected: 2026-04-07T09:04:17.951Z
+estimatedTokens: 113
 keywords: [Promotion, Reward, Application, Output, representation, transaction, journals, created, processed]
 ---
 
@@ -29,7 +29,7 @@ This example shows a sample response.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| transactionJournalList | Transaction Journal Details[] | List of the transaction journals that are processed and created. | Big, 65.0 | 65.0 |
+| transaction​JournalList | Transaction Journal Details[] | List of the transaction journals that are processed and created. | Big, 65.0 | 65.0 |
 
 ## Code Examples
 

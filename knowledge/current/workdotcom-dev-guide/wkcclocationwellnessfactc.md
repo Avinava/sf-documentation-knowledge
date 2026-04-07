@@ -5,7 +5,7 @@ topic: wkcclocationwellnessfactc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.400Z
+lastCollected: 2026-04-07T09:06:19.053Z
 estimatedTokens: 804
 keywords: [wkcc__LocationWellnessFact__c, Aggregates, wellness, counts, location, status, rolls, hierarchy, aggregating, employees, directly, linked, any, record, location’s]
 ---

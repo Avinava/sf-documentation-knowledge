@@ -5,7 +5,7 @@ topic: experience-cloud-site-trending-articles-for-a-topic
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.700Z
+lastCollected: 2026-04-07T09:03:25.988Z
 estimatedTokens: 166
 keywords: [Experience, Cloud, Site, Trending, Articles, Topic]
 ---

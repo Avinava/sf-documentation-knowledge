@@ -5,7 +5,7 @@ topic: decision-explainer-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.528Z
+lastCollected: 2026-04-07T09:02:55.163Z
 estimatedTokens: 169
 keywords: [Decision, Explainer, Metadata, API, access, feature, settings, customize, user]
 ---

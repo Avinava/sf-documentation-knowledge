@@ -5,8 +5,8 @@ topic: pay-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.671Z
-estimatedTokens: 248
+lastCollected: 2026-04-07T09:04:00.152Z
+estimatedTokens: 247
 keywords: [Pay, Claim, Coverage, Payment, Detail, Action, Initiate, record, track, policy, limit, consumption, payout, status, Paid]
 ---
 
@@ -26,7 +26,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/payClaimCvrPaymentDetail
+/services/data/v/actions/standard/payClaimCvrPaymentDetail
 
 Formats
 

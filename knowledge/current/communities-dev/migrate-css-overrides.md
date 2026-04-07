@@ -5,7 +5,7 @@ topic: migrate-css-overrides
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.330Z
+lastCollected: 2026-04-07T09:03:39.782Z
 estimatedTokens: 1053
 keywords: [Migrate, CSS, Overrides, Spring, ’17, Winter, ’19, selectors, several, Experience, Builder, components, were, updated, haven’t]
 ---

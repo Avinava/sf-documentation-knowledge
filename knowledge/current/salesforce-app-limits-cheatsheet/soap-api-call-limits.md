@@ -5,7 +5,7 @@ topic: soap-api-call-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.195Z
+lastCollected: 2026-04-07T09:05:22.955Z
 estimatedTokens: 544
 keywords: [SOAP, API, Call, Limits, SOQL, statement, selects, two, custom, long, text, batch, size, can’t, greater]
 ---

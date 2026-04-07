@@ -5,7 +5,7 @@ topic: contactprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.856Z
+lastCollected: 2026-04-07T09:05:14.915Z
 estimatedTokens: 1075
 keywords: [ContactProfile, individual, their, ethnicity, citizenship, birth, place, race, Calls, Associated, Objects]
 ---

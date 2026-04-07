@@ -5,7 +5,7 @@ topic: push-a-package-upgrade-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:18.842Z
+lastCollected: 2026-04-07T09:06:13.919Z
 estimatedTokens: 395
 keywords: [Push, Package, Upgrade, Unlocked, Packages, upgrades, enable, installed, orgs, asking, org, admins, install, themselves, choose]
 ---

@@ -5,7 +5,7 @@ topic: paymentauthadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.394Z
+lastCollected: 2026-04-07T09:04:46.255Z
 estimatedTokens: 1894
 keywords: [PaymentAuthAdjustment, adjustment, made, authorized, transaction, API, version, 51.0, later, Calls, Special, Access, Rules]
 ---

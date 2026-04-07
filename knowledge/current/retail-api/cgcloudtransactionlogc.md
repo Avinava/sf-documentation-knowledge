@@ -5,7 +5,7 @@ topic: cgcloudtransactionlogc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.258Z
+lastCollected: 2026-04-07T09:05:21.884Z
 estimatedTokens: 1173
 keywords: [cgcloud__Transaction_Log__c, transaction, log, messages, API, version, 54.0, later, cgcloud, _Transaction, _Log, Calls, Associated, Objects]
 ---

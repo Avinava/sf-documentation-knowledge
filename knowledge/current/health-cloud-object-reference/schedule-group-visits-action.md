@@ -5,7 +5,7 @@ topic: schedule-group-visits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.182Z
+lastCollected: 2026-04-07T09:03:51.667Z
 estimatedTokens: 766
 keywords: [Schedule, Group, Visits, Action, visiting, records, patient, home, bundling, scheduling, either, start-of-care, visit, series, recurring]
 ---

@@ -5,7 +5,7 @@ topic: bulk-api-and-bulk-api-20-limits-and-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.206Z
+lastCollected: 2026-04-07T09:05:22.971Z
 estimatedTokens: 1625
 keywords: [Bulk, API, 2.0, Limits, Allocations, Any, data, operation, includes, records, good, candidate, successfully, prepare, execute]
 ---

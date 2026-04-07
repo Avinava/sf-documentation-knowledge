@@ -5,7 +5,7 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.245Z
+lastCollected: 2026-04-07T09:05:16.721Z
 estimatedTokens: 2907
 keywords: [Promotion, referral, API, version, 59.0, later, Calls, Associated, Objects]
 ---

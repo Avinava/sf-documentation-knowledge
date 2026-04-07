@@ -5,7 +5,7 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:15.520Z
+lastCollected: 2026-04-07T09:04:47.537Z
 estimatedTokens: 1922
 keywords: [Profile, permissions, perform, different, operations, include, creating, custom, querying, adding, updating, deleting, Calls, Special, Access]
 ---

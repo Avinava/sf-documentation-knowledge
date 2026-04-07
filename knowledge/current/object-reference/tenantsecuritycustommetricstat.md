@@ -5,7 +5,7 @@ topic: tenantsecuritycustommetricstat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.902Z
+lastCollected: 2026-04-07T09:04:50.609Z
 estimatedTokens: 371
 keywords: [TenantSecurityCustomMetricStat, custom, metric, data, Security, Center, API, version, 61.0, later, Calls, Special, Access, Rules]
 ---

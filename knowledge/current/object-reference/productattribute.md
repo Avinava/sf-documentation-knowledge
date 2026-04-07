@@ -5,7 +5,7 @@ topic: productattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.279Z
+lastCollected: 2026-04-07T09:04:47.236Z
 estimatedTokens: 554
 keywords: [ProductAttribute, attributes, associated, product, API, version, 50.0, later, Calls, Special, Access, Rules, Objects]
 ---

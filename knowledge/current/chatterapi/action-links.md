@@ -5,7 +5,7 @@ topic: action-links
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.690Z
+lastCollected: 2026-04-07T09:03:36.817Z
 estimatedTokens: 1256
 keywords: [Action, Links, link, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke, API]
 ---

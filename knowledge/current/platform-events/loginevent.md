@@ -5,7 +5,7 @@ topic: loginevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.909Z
+lastCollected: 2026-04-07T09:05:06.506Z
 estimatedTokens: 5104
 keywords: [LoginEvent, tracks, login, activity, users, log, Salesforce, transaction, security, policy, big, stores, event, data, LoginEventStream]
 ---
@@ -59,7 +59,7 @@ LoginEvent doesn't track login activity after login rates exceed the limit. This
 | HttpReferer | TypestringPropertiesNillableDescriptionThe referring URI of the page that’s receiving the request. |
 | LoginGeoId | TypereferencePropertiesNillableDescriptionThe Salesforce ID of the LoginGeo object associated with the login user’s IP address. For example, 04FB000001TvhiPMAR. |
 | LoginHistoryId | TypereferencePropertiesNillableDescriptionTracks a user session so you can correlate user activity with a particular login instance. This field is also available on the LoginHistory, AuthSession, and other objects, making it easier to trace events back to a user’s original authentication. For example, 0YaB000002knVQLKA2. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. This field is available in API version 46.0 and later. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. This field is available in API version 46.0 and later. For example, lUqjLPQTWRdvRG4. |
 | LoginLatitude | TypedoublePropertiesNillableDescriptionThe latitude where the user’s IP address is physically located.This field is available in API version 47.0 and later.NoteDue to the nature of geolocation technology, the accuracy of this field can vary. |
 | LoginLongitude | TypedoublePropertiesNillableDescriptionThe longitude where the user’s IP address is physically located.This field is available in API version 47.0 and later.NoteDue to the nature of geolocation technology, the accuracy of this field can vary. |
 | LoginSubType | TypepicklistPropertiesNillable, Restricted picklist,DescriptionThe type of login flow used. See the LoginSubType field of LoginHistory in the Object Reference guide for the list of possible values.Label is Login Subtype. |

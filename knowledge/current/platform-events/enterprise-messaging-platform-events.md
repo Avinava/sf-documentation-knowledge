@@ -5,7 +5,7 @@ topic: enterprise-messaging-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.858Z
+lastCollected: 2026-04-07T09:05:05.206Z
 estimatedTokens: 2584
 keywords: [Enterprise, Messaging, Platform, Events, Salesforce, offers, benefits, event-driven, software, architectures, event, messages, notifications, apps, send]
 ---

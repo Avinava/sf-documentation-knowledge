@@ -5,7 +5,7 @@ topic: protect-your-application-from-sharing-violations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.386Z
+lastCollected: 2026-04-07T09:05:27.959Z
 estimatedTokens: 1095
 keywords: [Protect, Application, Sharing, Violations, Enforce, rules, prevent, inadvertent, exposure, sensitive, data, General, Considerations, Enforcing]
 ---

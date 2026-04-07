@@ -5,7 +5,7 @@ topic: aurainterface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.439Z
+lastCollected: 2026-04-07T09:04:14.828Z
 estimatedTokens: 301
 keywords: [aura, Interfaces, determine, component's, shape, defining, attributes, Implement, allow, component, different, contexts, record, Lightning, App]
 ---

@@ -5,7 +5,7 @@ topic: userdefinedlabelassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.047Z
+lastCollected: 2026-04-07T09:06:10.255Z
 estimatedTokens: 343
 keywords: [UserDefinedLabelAssignment, relationship, record, label, item, user, assigned, API, version, 61.0, later]
 ---

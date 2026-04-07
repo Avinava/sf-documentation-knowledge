@@ -5,7 +5,7 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.774Z
+lastCollected: 2026-04-07T09:04:05.042Z
 estimatedTokens: 241
 keywords: [Track, keywords, Salesforce, Knowledge, article, searches, TRACKING, clause, Determine, how, hits, had, VIEWSTAT, Article’s, Keyword]
 ---

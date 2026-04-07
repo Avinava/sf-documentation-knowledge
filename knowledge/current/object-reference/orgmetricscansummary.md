@@ -5,7 +5,7 @@ topic: orgmetricscansummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.171Z
+lastCollected: 2026-04-07T09:04:45.994Z
 estimatedTokens: 760
 keywords: [OrgMetricScanSummary, results, summary, specific, feature, Salesforce, Optimizer, evaluation, API, version, 47.0, later, Calls, Special, Access]
 ---

@@ -5,7 +5,7 @@ topic: promstagecommchanneltmpl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.287Z
+lastCollected: 2026-04-07T09:05:16.775Z
 estimatedTokens: 493
 keywords: [PromStageCommChannelTmpl, junction, promotion, stage, communication, channel, template, API, version, 63.0, later, B2C, referral, programs, Calls]
 ---

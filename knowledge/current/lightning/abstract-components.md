@@ -5,7 +5,7 @@ topic: abstract-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.332Z
+lastCollected: 2026-04-07T09:04:14.656Z
 estimatedTokens: 271
 keywords: [Abstract, Components, Object-oriented, languages, Java, support, concept, partial, implementation, leaves, remaining, concrete, sub-classes, can't, instantiated]
 ---

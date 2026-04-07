@@ -5,7 +5,7 @@ topic: authorization-reversal-apex-class-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:42.242Z
+lastCollected: 2026-04-07T09:02:31.603Z
 estimatedTokens: 495
 keywords: [Authorization, Reversal, Apex, Implementation, Service, uses, AuthorizationReversalRequest, AuthorizationReversalResponse, classes, manage, creation, storage, Implement, payment, gateway]
 ---

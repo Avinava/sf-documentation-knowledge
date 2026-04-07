@@ -5,7 +5,7 @@ topic: mulesoft-direct-integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.111Z
+lastCollected: 2026-04-07T09:03:54.480Z
 estimatedTokens: 110
 keywords: [MuleSoft, Direct, Integrations, Salesforce, integration, apps, out-of-the-box, templates, pre-built, transformations, integrate, Health, Cloud, external, systems]
 ---

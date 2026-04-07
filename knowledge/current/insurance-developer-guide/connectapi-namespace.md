@@ -5,7 +5,7 @@ topic: connectapi-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.824Z
+lastCollected: 2026-04-07T09:04:03.689Z
 estimatedTokens: 278
 namespace: ConnectApi
 keywords: [ConnectApi, Connect, Apex, Insurance, Brokerage, classes, accessing, data, Business, APIs, Claim, Policy, Administration, Group, Benefits]

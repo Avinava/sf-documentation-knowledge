@@ -5,7 +5,7 @@ topic: fulfillmentlinerel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:58.737Z
+lastCollected: 2026-04-07T09:05:46.918Z
 estimatedTokens: 407
 keywords: [FulfillmentLineRel, relationship, two, fulfillment, order, lines, API, version, 61.0, later]
 ---

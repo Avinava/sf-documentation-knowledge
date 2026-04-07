@@ -5,7 +5,7 @@ topic: create-the-restriction-rule-using-the-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:36.410Z
+lastCollected: 2026-04-07T09:05:16.943Z
 estimatedTokens: 504
 keywords: [Restriction, Rule, Metadata, API, tasks, members, Sales, Team, access, RestrictionRule]
 ---

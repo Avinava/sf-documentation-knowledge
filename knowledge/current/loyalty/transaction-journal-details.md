@@ -5,7 +5,7 @@ topic: transaction-journal-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.692Z
+lastCollected: 2026-04-07T09:04:18.061Z
 estimatedTokens: 171
 keywords: [Transaction, Journal, that's, created]
 ---
@@ -28,10 +28,10 @@ This example shows a sample response.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| discountsAppliedList | Discount Details[] | List of discounts applied to the cart for customers. | Big, 65.0 | 65.0 |
-| gamesAssignedList | Game Details[] | List of games assigned to the customers. | Big, 65.0 | 65.0 |
+| discounts​AppliedList | Discount Details[] | List of discounts applied to the cart for customers. | Big, 65.0 | 65.0 |
+| games​AssignedList | Game Details[] | List of games assigned to the customers. | Big, 65.0 | 65.0 |
 | id | String | The ID of the transaction journal that is created. | Big, 65.0 | 65.0 |
-| voucherIssuedList | Voucher Details[] | List of vouchers issued to the customers. | Big, 65.0 | 65.0 |
+| voucher​IssuedList | Voucher Details[] | List of vouchers issued to the customers. | Big, 65.0 | 65.0 |
 
 ## Code Examples
 

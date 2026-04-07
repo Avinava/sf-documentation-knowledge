@@ -5,7 +5,7 @@ topic: news-feed-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.328Z
+lastCollected: 2026-04-07T09:03:24.213Z
 estimatedTokens: 4779
 keywords: [News, Feed, Items, groups, context, user, either, owns, member, well, files, records, users, follows, Post]
 ---

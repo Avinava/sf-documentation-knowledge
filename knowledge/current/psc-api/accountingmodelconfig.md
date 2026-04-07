@@ -5,7 +5,7 @@ topic: accountingmodelconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.986Z
+lastCollected: 2026-04-07T09:05:11.223Z
 estimatedTokens: 1070
 keywords: [AccountingModelConfig, mapping, financial, data, model, logical, configuration, generation, Transaction, Journal, records, Parent, File, Suffix, Directory, settings, accounting, models, Subledger, include]
 ---

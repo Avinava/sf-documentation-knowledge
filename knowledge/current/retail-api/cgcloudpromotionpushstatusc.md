@@ -5,7 +5,7 @@ topic: cgcloudpromotionpushstatusc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.612Z
+lastCollected: 2026-04-07T09:05:21.159Z
 estimatedTokens: 1458
 keywords: [cgcloud__Promotion_Push_Status__c, push, process, entry, status, statistics, API, version, 54.0, later, cgcloud, _Promotion, _Push, _Status, Calls]
 ---
@@ -38,7 +38,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | cgcloud__Nr_Of_Child_Promotions__c | TypedoublePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionNumber of child promotions that are considered in this push process. |
 | cgcloud__Parent_Calculation_End_Time__c | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionTime at which the Parent Calculation Job ended for this parent promotion. |
 | cgcloud__Parent_Promotion__c | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionReference to Promotion.This is a relationship field.Relationship Namecgcloud__Parent_Promotion__rRelationship TypeLookupRefers Tocgcloud__Promotion__c |
-| cgcloud__Status__c | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionStatus of the promotion push process.Possible values are:Initial: Scheduled to run.Syncing: Syncing field values from the parent promotion to child promotions.Calculating: Queued for calculation.InProgress: Calculation is in progress.Done: Completed successfully.Error: Completed with errors. |
+| cgcloud__Status__c | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionStatus of the promotion push process.Possible values are:Initial: Scheduled to run.Syncing: Syncing field values from the parent promotion to child promotions.Calculating: Scheduled for calculation.InProgress: Calculation is in progress.Done: Completed successfully.Error: Completed with errors. |
 | cgcloud__Sync_End_Time__c | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionTime at which the Synchronisation from parent to child promotions ended. |
 | cgcloud__Transaction_Id__c | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionTransaction ID under which the push was run. |
 | cgcloud__Upload_Kpis_End_Time__c | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionTime at which the Upload KPI Job is ended for this parent promotion. |

@@ -5,7 +5,7 @@ topic: sample-management-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.018Z
+lastCollected: 2026-04-07T09:04:22.450Z
 estimatedTokens: 202
 keywords: [Sample, Management, Output, representation, Product, Requirement, Specification, operation]
 ---

@@ -5,7 +5,7 @@ topic: tenantsecurityfeature
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.922Z
+lastCollected: 2026-04-07T09:04:50.643Z
 estimatedTokens: 993
 keywords: [TenantSecurityFeature, Stores, org, features, across, tenants, Security, Center, API, version, 57.0, later, Calls, Special, Access]
 ---

@@ -5,7 +5,7 @@ topic: billschdcreatedeventdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:24.774Z
+lastCollected: 2026-04-07T09:02:03.731Z
 estimatedTokens: 417
 keywords: [BillSchdCreatedEventDetail, order, item, commerce, invoicing, billing-schedules, actions, any, errors, occurred, processing, included, BillingScheduleCreatedEvent, message, can't]
 ---

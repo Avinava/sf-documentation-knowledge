@@ -5,7 +5,7 @@ topic: usagecmtassetrelatedobj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:28.176Z
+lastCollected: 2026-04-07T09:02:05.782Z
 estimatedTokens: 722
 keywords: [UsageCmtAssetRelatedObj, relation, asset, commitment-based, usage, product, account, contract, custom, API, version, 64.0, later, Calls, Associated]
 ---

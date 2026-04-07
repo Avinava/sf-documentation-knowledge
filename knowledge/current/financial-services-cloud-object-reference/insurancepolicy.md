@@ -5,8 +5,8 @@ topic: insurancepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:30.688Z
-estimatedTokens: 4913
+lastCollected: 2026-04-07T09:03:50.005Z
+estimatedTokens: 5112
 keywords: [InsurancePolicy, insurance, policy, auto, home, life, annuity, Calls, Associated, Objects]
 ---
 
@@ -30,7 +30,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | ActualRenewalDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe actual renewal date of the policy. |
 | AuditTerm | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe frequency of the audit. For example, monthly, semi-monthly, quarterly, semi-annually, or annually. |
 | BillingCarrierAccountId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the Billing Carrier Account associated with the Insurance Policy. When the company that sells the policy also writes the policy, then the billing carrier is the same as the writing carrier.This field is a relationship field.Relationship NameBillingCarrierAccountRelationship TypeLookupRefers ToAccount |
-| BillingType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies the type of biling for the policy.Possible values are: |
+| BillingType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies the type of biling for the policy.Possible values are:Agency BillingDirect Billing |
 | CancellationDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date the insurance policy was canceled. |
 | CancellationReason | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe reason for canceling the insurance policy. |
 | CancellationReasonType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe category that the cancellation reason belongs to. |
@@ -45,9 +45,9 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | EffectiveDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date the policy is in effect. |
 | EffectiveFromDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date when the policy becomes effective. |
 | EffectiveToDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date until when the policy remains effective. |
-| ExpectedRevenueAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe revenue amount that the brokerage firm is expected to earn from the policy. |
 | EmployeeContribution | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe employee's contribution towards the insurance premium value. |
 | EmployerContribution | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe employer's contribution towards the insurance premium value. |
+| ExpectedRevenueAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe revenue amount that the brokerage firm is expected to earn from the policy. |
 | ExpirationDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date the policy expires. |
 | FinalRenewalDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe final date on which the policyholder can renew the insurance policy. |
 | FundingType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies how the policy is being funded.Possible values are:Fully InsuredLevel FundedSelf Funded |
@@ -77,9 +77,11 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | PlannedRenewalDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe expected renewal date of the policy. |
 | PlanTier | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe class that the insurance policy belongs to. For example, silver, gold, or platinum. |
 | PlanType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of the insurance policy plan. For example, single life, joint last-to-die, or joint first-to-die (primarily applicable for term insurance). |
+| PlannedRenewalDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe expected renewal date of the policy. |
 | PolicyCode | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe code that's unique for the policy across all versions. |
 | PolicyDescription | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe description of the insurance policy. |
 | PolicyName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the insurance policy. |
+| PolicyStage | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionRepresents the lifecycle action associated with the draft version of the policy.Possible values are:Cancelled—CanceledDraft - EndorseDraft - NewDraft - RenewEndorsedIssued |
 | PolicyTerm | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe time period for which the policy provides coverage. This field is available from API version 51.0 and later.NoteSalesforce services support only annual policy terms. However, you can use the other policy term values in custom implementations. For more information, see Considerations and Limitations for Insurance Policies. |
 | PolicyType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of the insurance policy. For example, home, auto, annuity, or life. |
 | PremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe premium paid by the policy owner for the current billing period. |
@@ -101,12 +103,14 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | SourceOpportunityId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the opportunity from which the policy was created. |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the source system this record was obtained from. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionThe ID of this record in the source system. |
+| StandardCommissionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total commission expected for the policy across the full policy term. |
 | StandardFeeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected fee for the policy over the policy period. This field is available from API version 51.0 and later. |
 | StandardPremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected premium for the policy over the policy period. This field is available from API version 51.0 and later. |
 | StandardTaxAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected tax on the policy over the policy period. This field is available from API version 51.0 and later. |
 | Status | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionThe status of the insurance policy. |
 | Substatus | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionThe carrier system's substatus code for the insurance policy. |
 | TaxesSurcharges | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe taxes and surcharges levied on the premium for the insurance policy. |
+| TermCommissionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe commission amount for the policy, prorated based on the policy effective dates. |
 | TermFeeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected fee for the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |
 | TermPremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected premium for the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |
 | TermTaxAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected tax on the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |

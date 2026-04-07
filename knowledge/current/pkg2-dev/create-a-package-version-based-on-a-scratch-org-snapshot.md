@@ -5,7 +5,7 @@ topic: create-a-package-version-based-on-a-scratch-org-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.109Z
+lastCollected: 2026-04-07T09:05:02.676Z
 estimatedTokens: 698
 keywords: [Package, Version, Scratch, Org, Snapshot, dependent, base, requires, stable, reduce, end-to-end, creation, time, creating]
 ---

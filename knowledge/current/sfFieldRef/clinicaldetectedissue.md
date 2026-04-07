@@ -5,7 +5,7 @@ topic: clinicaldetectedissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.210Z
+lastCollected: 2026-04-07T09:05:39.659Z
 estimatedTokens: 303
 keywords: [ClinicalDetectedIssue, detected, issue, resulting, clinical, activity, API, version, 55.0, later]
 ---

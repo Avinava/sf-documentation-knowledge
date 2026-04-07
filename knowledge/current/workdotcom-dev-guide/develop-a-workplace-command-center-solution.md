@@ -5,7 +5,7 @@ topic: develop-a-workplace-command-center-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.311Z
+lastCollected: 2026-04-07T09:06:18.926Z
 estimatedTokens: 440
 keywords: [Develop, Workplace, Command, Center, Solution, best, user, experience, integrates]
 ---

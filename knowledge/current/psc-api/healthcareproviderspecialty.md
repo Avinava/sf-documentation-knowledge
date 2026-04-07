@@ -5,8 +5,8 @@ topic: healthcareproviderspecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.932Z
-estimatedTokens: 1370
+lastCollected: 2026-04-07T09:05:15.000Z
+estimatedTokens: 1368
 keywords: [HealthcareProviderSpecialty, specialties, practitioner, provider, service, organization, multiple, anesthesiology, cardiovascular, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
@@ -43,7 +43,7 @@ This object is available if Provider Management is enabled in your org. To acces
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSystem from which the record was sourced. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionID of an external record on its source system. |
-| SpecialtyId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionCare specialty record associated with the provider.This is a relationship field.Relationship NameSpecialtyRelationship TypeLookupRefers ToCareSpecialty |
+| SpecialtyId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort,DescriptionCare specialty record associated with the provider.This is a relationship field.Relationship NameSpecialtyRelationship TypeLookupRefers ToCareSpecialty |
 | SpecialtyRole | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionRole of the specialty for the provider or practitioner. |
 
 ## Associated Objects

@@ -5,7 +5,7 @@ topic: creating-your-first-custom-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.940Z
+lastCollected: 2026-04-07T09:04:59.662Z
 estimatedTokens: 373
 keywords: [Creating, Custom, Controller, point, examples, tutorial, standard, Account, define, underlying, logic, Visualforce, however, add, own]
 ---

@@ -5,7 +5,7 @@ topic: appexchange-security-review-for-your-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.543Z
+lastCollected: 2026-04-07T09:04:54.353Z
 estimatedTokens: 277
 keywords: [AppExchange, Security, Review, Solution, tests, posture, subject, pass, publicly, distribute]
 ---

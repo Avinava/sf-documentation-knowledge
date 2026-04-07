@@ -5,7 +5,7 @@ topic: weblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:17.139Z
+lastCollected: 2026-04-07T09:06:11.633Z
 estimatedTokens: 526
 namespace: NamespacePrefix
 keywords: [WebLink, custom, link, URL, Scontrol]

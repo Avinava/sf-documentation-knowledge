@@ -5,7 +5,7 @@ topic: groupcensusmembershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.927Z
+lastCollected: 2026-04-07T09:05:48.602Z
 estimatedTokens: 251
 keywords: [GroupCensusMemberShare, Sharing, GroupCensusMember]
 ---

@@ -5,7 +5,7 @@ topic: product-return-rate-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.560Z
+lastCollected: 2026-04-07T09:03:35.031Z
 estimatedTokens: 75
 keywords: [Product, Rate, Output, representation, products, rates]
 ---

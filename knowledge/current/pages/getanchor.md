@@ -5,7 +5,7 @@ topic: getanchor
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.664Z
+lastCollected: 2026-04-07T09:04:56.316Z
 estimatedTokens: 117
 keywords: [getAnchor, anchor, referenced, page’s, URL, part, hashtag]
 ---

@@ -5,7 +5,7 @@ topic: debug-in-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:51.138Z
+lastCollected: 2026-04-07T09:03:02.638Z
 estimatedTokens: 413
 keywords: [Debug, Android, Connect, Chrome, DevTools, desktop, WebView, Service, mobile, app, LWC, running]
 ---

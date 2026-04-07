@@ -5,7 +5,7 @@ topic: businesslicensecodeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.303Z
+lastCollected: 2026-04-07T09:05:13.051Z
 estimatedTokens: 600
 keywords: [BusinessLicenseCodeSet, junction, business, license, code, API, version, 66.0, later, Calls, Associated, Objects]
 ---

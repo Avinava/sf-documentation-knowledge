@@ -5,7 +5,7 @@ topic: custom-minimized-component-code-samples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.373Z
+lastCollected: 2026-04-07T09:06:14.634Z
 estimatedTokens: 337
 keywords: [Custom, Minimized, Component, Code, Samples, sample, examples, controller, helper, embedded, Aura, CSS]
 ---

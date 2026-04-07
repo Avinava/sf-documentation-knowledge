@@ -5,7 +5,7 @@ topic: bucket-measure-setup-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:42.163Z
+lastCollected: 2026-04-07T09:05:24.477Z
 estimatedTokens: 152
 keywords: [Bucket, Measure, Setup, Input, node, recipe]
 ---

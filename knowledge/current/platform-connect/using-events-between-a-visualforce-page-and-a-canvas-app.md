@@ -6,7 +6,7 @@ topic: using-events-between-a-visualforce-page-and-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.493Z
+lastCollected: 2026-04-07T09:05:04.594Z
 estimatedTokens: 1107
 keywords: [Events, Visualforce, Canvas, App, Lightning, Platform, smoothly, integrate, navigation, Salesforce, mobile, reside, JavaScript, library, framework]
 ---

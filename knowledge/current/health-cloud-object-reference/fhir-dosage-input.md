@@ -5,7 +5,7 @@ topic: fhir-dosage-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.992Z
+lastCollected: 2026-04-07T09:03:52.779Z
 estimatedTokens: 565
 keywords: [FHIR, Dosage, Input, representation, patient’s, medication]
 ---

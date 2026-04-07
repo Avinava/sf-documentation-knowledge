@@ -5,7 +5,7 @@ topic: careprogramcampaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.353Z
+lastCollected: 2026-04-07T09:04:09.806Z
 estimatedTokens: 824
 keywords: [CareProgramCampaign, relationship, Care, Program, Campaign, junction, admins, associate, campaigns, Calls, Associated, Objects]
 ---
@@ -30,7 +30,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(),  getUpd
 | CampaignId | TypeLookup(Campaign)PropertiesCreate, Filter, Group, SortDescriptionThe campaign associated to the care program. |
 | CareProgram | TypeMaster-Detail(Care Program)PropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionName of the care program. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescriptionA short name for the care program campaign. |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSystem from which the care program campaign was sourced. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionID of the system from which the record was sourced. |

@@ -5,7 +5,7 @@ topic: metadata-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.104Z
+lastCollected: 2026-04-07T09:05:17.949Z
 estimatedTokens: 5206
 keywords: [Metadata, Components, topic, metadata-driven, wizards, Text, Number, Label, Empty, Date, Duration, Checkbox, Picklist, ListController]
 ---

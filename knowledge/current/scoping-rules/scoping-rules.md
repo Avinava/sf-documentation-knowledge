@@ -5,7 +5,7 @@ topic: scoping-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.265Z
+lastCollected: 2026-04-07T09:05:27.809Z
 estimatedTokens: 1171
 keywords: [Scoping, Rules, let, control, records, users, criteria, select, different, Salesforce, org, they, focus, matter, custom]
 ---

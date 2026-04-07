@@ -5,7 +5,7 @@ topic: annualemssnrdctntarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:47.121Z
+lastCollected: 2026-04-07T09:05:31.813Z
 estimatedTokens: 487
 keywords: [AnnualEmssnRdctnTarget, emissions, reduction, target, company, particular, year]
 ---

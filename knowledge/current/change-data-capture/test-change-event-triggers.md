@@ -5,7 +5,7 @@ topic: test-change-event-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.778Z
+lastCollected: 2026-04-07T09:03:18.896Z
 estimatedTokens: 1191
 keywords: [Test, Change, Event, Triggers, package, deploy, Apex, production, provide, tests, sufficient, code, coverage, Enable, Data]
 ---

@@ -5,7 +5,7 @@ topic: configuring-salesforce-billing-to-access-your-paymentgatewayapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.899Z
+lastCollected: 2026-04-07T09:03:16.455Z
 estimatedTokens: 236
 keywords: [Configuring, Salesforce, Billing, Access, PaymentGatewayAPI, integrate, payment, gateway, package, know, process, convert, results, data, custom]
 ---

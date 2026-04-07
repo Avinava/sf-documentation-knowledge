@@ -5,7 +5,7 @@ topic: prerequisite-define-a-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.817Z
+lastCollected: 2026-04-07T09:05:05.137Z
 estimatedTokens: 249
 keywords: [Prerequisite, Define, Platform, Event, examples, depend, predefined, custom, Order_Event__e, Salesforce, steps]
 ---

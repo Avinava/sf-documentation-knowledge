@@ -5,7 +5,7 @@ topic: enblprogramtaskprogress
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.636Z
+lastCollected: 2026-04-07T09:04:39.619Z
 estimatedTokens: 1009
 keywords: [EnblProgramTaskProgress, user’s, progress, towards, completing, outcome, milestone, exercise, Enablement, program, API, version, 60.0, later, Calls]
 ---

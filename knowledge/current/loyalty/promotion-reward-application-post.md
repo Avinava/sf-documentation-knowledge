@@ -5,8 +5,8 @@ topic: promotion-reward-application-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.168Z
-estimatedTokens: 293
+lastCollected: 2026-04-07T09:04:17.394Z
+estimatedTokens: 294
 keywords: [Promotion, Reward, Application, POST, process, transaction, journals, customer, orders, apply, relevant, promotions]
 ---
 
@@ -51,8 +51,8 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| journalCreationMode | String | Specifies whether to create a transaction journal record and, if so, where to store the data. | Optional | 66.0 |
-| shouldCheck​CouponUsageLimit | Boolean | Indicates whether the API must execute the Coupon Usage Increase API to verify the coupon usage count and increase the redemption usage count of the specified coupon code (true) or not (false). | Optional | 65.0 |
+| journal​CreationMode | String | Specifies whether to create a transaction journal record and, if so, where to store the data. | Optional | 66.0 |
+| shouldCheck​CouponUsage​Limit | Boolean | Indicates whether the API must execute the Coupon Usage Increase API to verify the coupon usage count and increase the redemption usage count of the specified coupon code (true) or not (false). | Optional | 65.0 |
 | transaction​JournalList | List<Map<String, Object>> | The list of transaction journals to create. | Required | 65.0 |
 
 Response body for POST

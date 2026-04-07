@@ -5,7 +5,7 @@ topic: cgcloudsignatureattributec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.958Z
+lastCollected: 2026-04-07T09:05:21.559Z
 estimatedTokens: 943
 keywords: [cgcloud__Signature_Attribute__c, Entity, stores, attributes, signatures, API, version, 54.0, later, cgcloud, _Signature, _Attribute, Calls, Associated, Objects]
 ---

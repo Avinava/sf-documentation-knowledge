@@ -5,7 +5,7 @@ topic: prompterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:15.674Z
+lastCollected: 2026-04-07T09:04:47.735Z
 estimatedTokens: 859
 keywords: [PromptError, error, associated, PromptAction, API, version, 52.0, later, Calls, Special, Access, Rules, Objects]
 ---

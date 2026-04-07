@@ -5,8 +5,8 @@ topic: salesforce-security-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.069Z
-estimatedTokens: 669
+lastCollected: 2026-04-07T09:05:28.935Z
+estimatedTokens: 714
 keywords: [Salesforce, Security, built, protect, data, applications, implement, own, scheme, reflect, structure, needs, organization, Protecting, joint]
 ---
 
@@ -35,6 +35,8 @@ Salesforce is built with security to protect your data and applications. You can
     Real-Time Event Monitoring helps you monitor and detect standard events in Salesforce in near real-time. You can store the event data for auditing or reporting purposes. You can create transaction security policies using Condition Builder—a point-and-click tool—or Apex code.
 -   **[Security Guidelines for Apex and Visualforce Development](atlas.en-us.securityImplGuide.meta/securityImplGuide/review_and_certification.htm)**
     Understand and guard against vulnerabilities in your code as you develop custom applications.
+-   **[API End-of-Life Policy](atlas.en-us.securityImplGuide.meta/securityImplGuide/api_rest_eol.htm)**
+    See which REST API versions are supported, unsupported, or unavailable.
 
 ## Related Topics
 
@@ -45,3 +47,4 @@ Salesforce is built with security to protect your data and applications. You can
 - Audit and Monitor Your Organization’s Security (atlas.en-us.securityImplGuide.meta/securityImplGuide/security_monitoring.htm)
 - Real-Time Event Monitoring (atlas.en-us.securityImplGuide.meta/securityImplGuide/real_time_event_monitoring_overview.htm)
 - Security Guidelines for Apex and Visualforce Development (atlas.en-us.securityImplGuide.meta/securityImplGuide/review_and_certification.htm)
+- API End-of-Life Policy (atlas.en-us.securityImplGuide.meta/securityImplGuide/api_rest_eol.htm)

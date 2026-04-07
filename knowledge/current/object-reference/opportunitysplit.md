@@ -5,7 +5,7 @@ topic: opportunitysplit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.611Z
+lastCollected: 2026-04-07T09:04:45.387Z
 estimatedTokens: 1182
 keywords: [OpportunitySplit, credits, opportunity, team, members, portion, amount, API, version, 16.0, later, pilot, customers, 28.0, others]
 ---

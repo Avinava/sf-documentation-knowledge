@@ -5,7 +5,7 @@ topic: tag-category-with-parent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.279Z
+lastCollected: 2026-04-07T09:05:09.982Z
 estimatedTokens: 171
 keywords: [Tag, Category, Parent, Output, representation]
 ---

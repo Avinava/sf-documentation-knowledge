@@ -5,7 +5,7 @@ topic: use-mobile-validation-with-salesforce-lightning-design-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:57.199Z
+lastCollected: 2026-04-07T09:04:25.556Z
 estimatedTokens: 1440
 keywords: [Mobile, Validation, Salesforce, Lightning, Design, System, SLDS, Linter, Validator, check, code, guidelines, adherence, they, potential]
 ---

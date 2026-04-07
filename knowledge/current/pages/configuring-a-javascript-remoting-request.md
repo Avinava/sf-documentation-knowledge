@@ -5,7 +5,7 @@ topic: configuring-a-javascript-remoting-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.746Z
+lastCollected: 2026-04-07T09:04:59.368Z
 estimatedTokens: 363
 keywords: [Configuring, JavaScript, Remoting, Configure, providing, configuration, settings, declare]
 ---

@@ -5,7 +5,7 @@ topic: service-cloud-voice-toolkit-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.739Z
+lastCollected: 2026-04-07T09:06:18.060Z
 estimatedTokens: 566
 keywords: [Service, Cloud, Voice, Toolkit, API, collection, front-end, event, listeners, interacting, product, Lightning, components, built, Web]
 ---

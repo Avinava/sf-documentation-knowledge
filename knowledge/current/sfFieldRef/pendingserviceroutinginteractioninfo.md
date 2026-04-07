@@ -5,7 +5,7 @@ topic: pendingserviceroutinginteractioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:07.559Z
+lastCollected: 2026-04-07T09:05:58.784Z
 estimatedTokens: 435
 keywords: [PendingServiceRoutingInteractionInfo, PendingServiceRouting, interaction, that’s, work, routed, agent, screen, pop, records, open, specific, channel, read-only, API]
 ---

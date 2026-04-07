@@ -5,7 +5,7 @@ topic: quip-content-document-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.746Z
+lastCollected: 2026-04-07T09:03:35.331Z
 estimatedTokens: 139
 keywords: [Quip, Content, Document, Link]
 ---

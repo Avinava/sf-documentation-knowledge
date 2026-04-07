@@ -5,7 +5,7 @@ topic: calendarview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.942Z
+lastCollected: 2026-04-07T09:04:36.223Z
 estimatedTokens: 1385
 keywords: [CalendarView, calendars, created, assigned, users, creator, include, shared, resource, user, represent, calendar, Salesforce, either, standard]
 ---

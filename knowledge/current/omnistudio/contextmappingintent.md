@@ -5,7 +5,7 @@ topic: contextmappingintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:57.322Z
+lastCollected: 2026-04-07T09:02:59.890Z
 estimatedTokens: 231
 keywords: [ContextMappingIntent, purpose, associated, context, mapping, API, version, 61.0, later, Calls, REST]
 ---

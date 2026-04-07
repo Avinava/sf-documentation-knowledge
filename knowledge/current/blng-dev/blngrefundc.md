@@ -5,7 +5,7 @@ topic: blngrefundc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.592Z
+lastCollected: 2026-04-07T09:03:17.383Z
 estimatedTokens: 1772
 keywords: [blng__Refund__c, refund, made, against, payment, blng, _Refund, Calls]
 ---

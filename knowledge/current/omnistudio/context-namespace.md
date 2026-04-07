@@ -5,7 +5,7 @@ topic: context-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:48.030Z
+lastCollected: 2026-04-07T09:02:50.573Z
 estimatedTokens: 144
 namespace: Context
 keywords: [Context, classes, manage, sharing, consumption, business, application, data, Service]

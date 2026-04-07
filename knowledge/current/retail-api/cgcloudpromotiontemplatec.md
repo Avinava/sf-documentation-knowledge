@@ -5,7 +5,7 @@ topic: cgcloudpromotiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.710Z
+lastCollected: 2026-04-07T09:05:21.265Z
 estimatedTokens: 5950
 keywords: [cgcloud__Promotion_Template__c, Template, promotions, API, version, 54.0, later, cgcloud, _Promotion, _Template, Calls, Associated, Objects]
 ---

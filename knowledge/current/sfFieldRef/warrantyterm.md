@@ -5,7 +5,7 @@ topic: warrantyterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.024Z
+lastCollected: 2026-04-07T09:06:11.486Z
 estimatedTokens: 696
 keywords: [WarrantyTerm, warranty, terms, defining, labor, parts, expenses, covered, along, any, exchange, options, provided, rectify, issues]
 ---

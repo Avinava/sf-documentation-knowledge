@@ -5,7 +5,7 @@ topic: guestuseranomalyeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.667Z
+lastCollected: 2026-04-07T09:05:06.238Z
 estimatedTokens: 1238
 keywords: [GuestUserAnomalyEventStore, Tracks, data, access, anomalies, caused, guest, user, permission, misconfiguration, stores, event, GuestUserAnomalyEvent, API, version]
 ---
@@ -45,7 +45,7 @@ The Machine Learning (ML) models that power Threat Detection analyze data to ens
 | GuestUserAnomalyEventNumber | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionThe unique number automatically assigned to the event when it's created. You can't change the format or value for this field. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date the event was last referenced. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date the event was last viewed. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | PolicyId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe ID of the transaction policy associated with this event. For example, 0NIB000000000KOOAY.Relationship NamePolicyRelationship TypeLookupRefers ToTransactionSecurityPolicy |
 | PolicyOutcome | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe result of the transaction policy. Possible values include:Error—The policy caused an undefined error when it was executed.ExemptNoAction—The user is exempt from transaction security policies, so the policy didn’t trigger.MeteringBlock—The policy took longer than 3 seconds to process, so the user was blocked from performing the operation.MeteringNoAction—The policy took longer than 3 seconds to process, but the user isn't blocked from performing the operation.NoAction—The policy didn't trigger.Notified—A notification was sent to the recipient. |
 | RequestedEntities | TypetextareaPropertiesNillableDescriptionObjects queried by the guest user. For example:[" Topic "]. |

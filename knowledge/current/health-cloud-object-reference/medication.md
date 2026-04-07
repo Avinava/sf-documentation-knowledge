@@ -5,7 +5,7 @@ topic: medication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.455Z
+lastCollected: 2026-04-07T09:03:54.865Z
 estimatedTokens: 1415
 keywords: [Medication, detailed, different, medications, API, version, 51.0, later, Calls, Additional, Objects, Associated, ​Medication, medication, FHIR, resource, maps, Salesforce​, V4​.0, Clinical]
 ---

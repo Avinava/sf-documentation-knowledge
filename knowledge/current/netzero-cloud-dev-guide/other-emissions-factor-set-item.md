@@ -5,7 +5,7 @@ topic: other-emissions-factor-set-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.763Z
+lastCollected: 2026-04-07T09:04:26.310Z
 estimatedTokens: 1270
 keywords: [Emissions, Factor, Item, individual, entries, conversion, factors, various, data, sources, neither, electricity, grid, nor, scope]
 ---

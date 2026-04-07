@@ -5,7 +5,7 @@ topic: timesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.402Z
+lastCollected: 2026-04-07T09:03:45.627Z
 estimatedTokens: 560
 keywords: [TimeSheet, schedule, service, resource’s, time, Workforce, Engagement, API, version, 62.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: the-source-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.580Z
+lastCollected: 2026-04-07T09:03:15.938Z
 estimatedTokens: 421
 keywords: [Source, App, purposes, CRM, Analytics, Templates, Studio, It’s, collection, assets—datasets, dataflows, recipes, lenses, dashboards—, stored]
 ---

@@ -5,7 +5,7 @@ topic: tenantsecurityconnectedapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.874Z
+lastCollected: 2026-04-07T09:04:50.568Z
 estimatedTokens: 1273
 keywords: [TenantSecurityConnectedApp, Stores, connected, app, added, removed, Security, Center, tenant, subscribers, API, version, 53.0, later, Calls]
 ---

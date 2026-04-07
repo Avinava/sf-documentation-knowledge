@@ -5,7 +5,7 @@ topic: getmemberactivesegmentsinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.527Z
+lastCollected: 2026-04-07T09:04:16.553Z
 estimatedTokens: 112
 namespace: LoyaltyManagement
 keywords: [GetMemberActiveSegmentsInput, retrieve, active, Data, Cloud, market, segments, loyalty, program, member, part, receives, input, Member's, action]

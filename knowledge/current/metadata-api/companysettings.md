@@ -5,7 +5,7 @@ topic: companysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:04.590Z
+lastCollected: 2026-04-07T09:02:38.358Z
 estimatedTokens: 843
 keywords: [CompanySettings, settings, affect, multiple, features, organization, extends, Metadata, inherits, fullName, Declarative, File, Suffix, Directory, Location]
 ---

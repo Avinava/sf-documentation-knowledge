@@ -5,7 +5,7 @@ topic: asyncreportruneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.157Z
+lastCollected: 2026-04-07T09:04:35.355Z
 estimatedTokens: 1803
 keywords: [AsyncReportRunEventLog, Async, Report, Run, Event, Log, reporting, scheduled, requests, category, includes, dashboard, refreshes, asynchronous, reports]
 ---

@@ -5,7 +5,7 @@ topic: botversionactivation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:35.818Z
+lastCollected: 2026-04-07T09:02:10.478Z
 estimatedTokens: 850
 namespace: ConnectApi
 keywords: [BotVersionActivation, active, inactive, status, bot, version, getVersionActivationInfo, botVersionId, API, Requires, Chatter, Usage, updateVersionStatus, postBody]

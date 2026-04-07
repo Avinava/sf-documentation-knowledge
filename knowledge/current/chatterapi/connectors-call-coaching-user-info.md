@@ -5,7 +5,7 @@ topic: connectors-call-coaching-user-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.949Z
+lastCollected: 2026-04-07T09:03:30.779Z
 estimatedTokens: 136
 keywords: [Connectors, Call, Coaching, User, Info, Einstein, Conversation, Insights, partners]
 ---

@@ -5,7 +5,7 @@ topic: scope3pcmtitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.881Z
+lastCollected: 2026-04-07T09:04:28.761Z
 estimatedTokens: 2354
 keywords: [Scope3PcmtItem, procurement, corporate, spending, entry, records, considered, amount, organization, spends, goods, services, API, version, 54.0]
 ---

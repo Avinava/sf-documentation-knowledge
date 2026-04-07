@@ -5,7 +5,7 @@ topic: range-refinement-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.650Z
+lastCollected: 2026-04-07T09:03:23.217Z
 estimatedTokens: 191
 keywords: [Range, Refinement, Input, Attribute-based, minimum, maximum, numeric, product, search]
 ---

@@ -5,7 +5,7 @@ topic: surveyversionaddlinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.721Z
+lastCollected: 2026-04-07T09:05:23.747Z
 estimatedTokens: 979
 keywords: [SurveyVersionAddlInfo, additional, survey, version, settings, API, 49.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: cgclouduserdocumentactivityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.337Z
+lastCollected: 2026-04-07T09:05:21.976Z
 estimatedTokens: 1055
 keywords: [cgcloud__User_Document_Activity__c, Stores, relationship, daily, report, user, activity, API, version, 54.0, later, cgcloud, _User, _Document, _Activity]
 ---

@@ -5,7 +5,7 @@ topic: get-feed-elements-from-another-users-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.621Z
+lastCollected: 2026-04-07T09:02:33.766Z
 estimatedTokens: 249
 keywords: [Feed, Elements, Another, User’s, Call]
 ---

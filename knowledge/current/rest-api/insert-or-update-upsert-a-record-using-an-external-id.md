@@ -5,7 +5,7 @@ topic: insert-or-update-upsert-a-record-using-an-external-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.557Z
+lastCollected: 2026-04-07T09:02:34.816Z
 estimatedTokens: 1755
 keywords: [Insert, Upsert, Record, External, sObject, Rows, resource, records, Upserting, New, Inserting, Associating]
 ---

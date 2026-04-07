@@ -5,7 +5,7 @@ topic: source-member-reference-sfdevopssourcememberreferencec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.538Z
+lastCollected: 2026-04-07T09:03:41.647Z
 estimatedTokens: 770
 keywords: [Source, Member, sf_devops__Source_Member_Reference__c, copy, relevant, SourceMember, Tooling, API, record, development, environment, DevOps, Center, copies, data]
 ---

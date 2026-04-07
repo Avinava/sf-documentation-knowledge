@@ -5,7 +5,7 @@ topic: publish-on-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.809Z
+lastCollected: 2026-04-07T09:04:56.565Z
 estimatedTokens: 360
 keywords: [Publish, Message, Channel, Visualforce, include, $MessageChannel, variable, page's, JavaScript, code, write, calls, sforce.one.publish]
 ---

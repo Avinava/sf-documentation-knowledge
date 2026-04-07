@@ -5,7 +5,7 @@ topic: real-time-event-monitoring-data-storage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.045Z
+lastCollected: 2026-04-07T09:05:28.904Z
 estimatedTokens: 1754
 keywords: [Real-Time, Event, Monitoring, Data, Storage, store, query, Salesforce, objects, events, big, ideal, storing, large, volumes]
 ---

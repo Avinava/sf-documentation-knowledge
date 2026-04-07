@@ -5,7 +5,7 @@ topic: develop-and-test-changes-locally
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.096Z
+lastCollected: 2026-04-07T09:06:12.892Z
 estimatedTokens: 594
 keywords: [Develop, Test, Changes, Locally, source, deploying, retrieving, Developer, sandbox]
 ---

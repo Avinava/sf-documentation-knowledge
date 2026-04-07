@@ -5,7 +5,7 @@ topic: knowledgearticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.061Z
+lastCollected: 2026-04-07T09:05:51.376Z
 estimatedTokens: 472
 keywords: [KnowledgeArticle, read-only, access, article, ability, primary, API, version, 19.0, later]
 ---

@@ -5,7 +5,7 @@ topic: datastreamtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:05.389Z
+lastCollected: 2026-04-07T09:02:39.157Z
 estimatedTokens: 1029
 keywords: [DataStreamTemplate, data, stream, user, adds, kit, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---

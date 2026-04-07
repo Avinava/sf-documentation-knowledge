@@ -5,7 +5,7 @@ topic: measure-listing-sponsorship-promotion-impact
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.054Z
+lastCollected: 2026-04-07T09:04:55.186Z
 estimatedTokens: 1291
 keywords: [Measure, Listing, Sponsorship, Promotion, Impact, Partner, Co-Marketing, formula, provided, Salesforce, data, AppExchange, Marketplace, Analytics, compares]
 ---

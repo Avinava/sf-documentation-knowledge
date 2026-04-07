@@ -5,7 +5,7 @@ topic: clm-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:39.148Z
+lastCollected: 2026-04-07T09:02:12.025Z
 estimatedTokens: 552
 namespace: ConnectApi
 keywords: [Clm, contracts, createContract, contractInputPayload, API, Version, Requires, Chatter, updateContract]

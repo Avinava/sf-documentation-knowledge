@@ -5,7 +5,7 @@ topic: cgcsyncsyncmobileappthemec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.861Z
+lastCollected: 2026-04-07T09:05:19.117Z
 estimatedTokens: 597
 keywords: [cgc_sync__Sync_Mobile_App_Theme__c, themes, mobile, app, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Theme, Calls]
 ---

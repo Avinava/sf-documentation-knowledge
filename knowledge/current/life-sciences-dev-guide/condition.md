@@ -5,7 +5,7 @@ topic: condition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.246Z
+lastCollected: 2026-04-07T09:04:08.518Z
 estimatedTokens: 1271
 keywords: [Condition, FHIR, resource, maps, Health​Condition, Salesforce, V4.0, Clinical, Data, Model, Mapping]
 ---

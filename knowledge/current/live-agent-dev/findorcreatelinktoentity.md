@@ -5,7 +5,7 @@ topic: findorcreatelinktoentity
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.070Z
+lastCollected: 2026-04-07T09:04:15.804Z
 estimatedTokens: 579
 keywords: [findOrCreate.linkToEntity, link, record, found, created, another, Usage]
 ---

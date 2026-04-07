@@ -5,7 +5,7 @@ topic: cryptoprodcatgwalletgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.597Z
+lastCollected: 2026-04-07T09:04:38.280Z
 estimatedTokens: 534
 keywords: [CryptoProdCatgWalletGroup, CryptoWalletGroup, allowlist, airdrop, ProductCategory, custom, adding, API, version, 58.0, later, Calls, Special, Access, Rules]
 ---

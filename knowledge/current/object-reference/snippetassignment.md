@@ -5,7 +5,7 @@ topic: snippetassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.298Z
+lastCollected: 2026-04-07T09:04:49.812Z
 estimatedTokens: 205
 keywords: [SnippetAssignment, relationship, snippet, campaign, Assignments, content, Account, Engagement, emails, email, templates, assigned, API, version, 47.0]
 ---

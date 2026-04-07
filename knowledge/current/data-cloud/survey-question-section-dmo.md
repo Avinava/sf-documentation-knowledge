@@ -5,7 +5,7 @@ topic: survey-question-section-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.430Z
+lastCollected: 2026-04-07T09:02:09.651Z
 estimatedTokens: 541
 keywords: [Survey, Question, DMO, Data, Cloud, model, title, API, Category, Primary, Subject, Area, Key, Relationships]
 ---

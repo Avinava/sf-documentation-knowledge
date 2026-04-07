@@ -5,7 +5,7 @@ topic: loyaltypgmmbrlinkedptnr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.153Z
+lastCollected: 2026-04-07T09:04:19.963Z
 estimatedTokens: 981
 keywords: [LoyaltyPgmMbrLinkedPtnr, association, loyalty, program, member, their, membership, partner, acts, facilitates, points, accrual, data, exchange, joint]
 ---

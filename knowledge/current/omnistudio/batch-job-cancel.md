@@ -5,7 +5,7 @@ topic: batch-job-cancel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.459Z
+lastCollected: 2026-04-07T09:02:52.061Z
 estimatedTokens: 260
 keywords: [Batch, Job, Cancel, data, processing, engine, calc, management, status, Submitted, Progress, canceled]
 ---

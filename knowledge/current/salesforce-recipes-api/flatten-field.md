@@ -5,7 +5,7 @@ topic: flatten-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.775Z
+lastCollected: 2026-04-07T09:05:25.494Z
 estimatedTokens: 108
 keywords: [Flatten, node, recipe]
 ---

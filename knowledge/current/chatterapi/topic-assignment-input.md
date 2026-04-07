@@ -5,7 +5,7 @@ topic: topic-assignment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.964Z
+lastCollected: 2026-04-07T09:03:23.728Z
 estimatedTokens: 172
 keywords: [Topic, Assignment, Input, assign, feed, item, record, Administrators, enable, topics, objects, users, add, records]
 ---

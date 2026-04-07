@@ -5,7 +5,7 @@ topic: split-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.998Z
+lastCollected: 2026-04-07T09:05:25.911Z
 estimatedTokens: 110
 keywords: [Split, Node, recipe]
 ---

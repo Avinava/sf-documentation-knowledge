@@ -5,7 +5,7 @@ topic: savedpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:16.580Z
+lastCollected: 2026-04-07T09:04:48.888Z
 estimatedTokens: 2945
 keywords: [SavedPaymentMethod, payment, saved, authenticated, customer, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

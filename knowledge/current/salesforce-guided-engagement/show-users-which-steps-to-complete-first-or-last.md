@@ -5,7 +5,7 @@ topic: show-users-which-steps-to-complete-first-or-last
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.900Z
+lastCollected: 2026-04-07T09:05:24.039Z
 estimatedTokens: 324
 keywords: [Show, Users, Steps, Pin, actions, top, bottom, Recommendations, component, know]
 ---

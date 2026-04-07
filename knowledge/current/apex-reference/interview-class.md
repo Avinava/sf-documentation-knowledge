@@ -5,7 +5,7 @@ topic: interview-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.111Z
+lastCollected: 2026-04-07T09:02:30.494Z
 estimatedTokens: 1990
 namespace: Flow
 keywords: [Interview, Creates, namespaced, flow, Usage, Examples, Starting, Interviews, Getting, Variable, createInterview, flowName, inputVariables, getVariableValue, variableName]

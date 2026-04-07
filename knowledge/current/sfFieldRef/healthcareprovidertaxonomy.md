@@ -5,7 +5,7 @@ topic: healthcareprovidertaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:00.427Z
+lastCollected: 2026-04-07T09:05:49.256Z
 estimatedTokens: 454
 keywords: [HealthcareProviderTaxonomy, taxonomy, subspecialty, codes, provider, facility, multiple, taxonomies, API, version, 64.0, later]
 ---

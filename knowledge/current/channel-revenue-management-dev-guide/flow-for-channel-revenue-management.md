@@ -5,7 +5,7 @@ topic: flow-for-channel-revenue-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.866Z
+lastCollected: 2026-04-07T09:03:19.045Z
 estimatedTokens: 292
 keywords: [Flow, Channel, Revenue, Management, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
 ---

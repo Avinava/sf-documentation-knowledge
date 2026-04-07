@@ -5,7 +5,7 @@ topic: assignment-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:44.967Z
+lastCollected: 2026-04-07T09:02:34.092Z
 estimatedTokens: 302
 keywords: [Assignment, Statements, statement, any, places, variable]
 ---

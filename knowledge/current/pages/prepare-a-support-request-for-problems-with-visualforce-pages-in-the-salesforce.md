@@ -6,7 +6,7 @@ topic: prepare-a-support-request-for-problems-with-visualforce-pages-in-the-sale
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.609Z
+lastCollected: 2026-04-07T09:05:00.689Z
 estimatedTokens: 768
 keywords: [Prepare, Support, Problems, Visualforce, Pages, Salesforce, App, resources, help, developers, answers, their, questions, resolve, suggest]
 ---

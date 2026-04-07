@@ -5,8 +5,8 @@ topic: connectapi-enums
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.091Z
-estimatedTokens: 16277
+lastCollected: 2026-04-07T09:02:30.469Z
+estimatedTokens: 16393
 namespace: ConnectApi
 keywords: [ConnectApi, Enums, specific]
 ---
@@ -30,7 +30,11 @@ Enums are not versioned. Enum values are returned in all API versions. Clients m
 | --- | --- |
 | ConnectApi.​ActionLink​ExecutionsAllowed | Number of times an action link can be executed.Once—An action link can be executed only one time across all users.OncePerUser—An action link can be executed only one time for each user.Unlimited—An action link can be executed an unlimited number of times by each user. If the action link’s actionType is Api or ApiAsync, you can’t use this value. |
 | ConnectApi.​ActionLinkType | Type of action link.Api—The action link calls a synchronous API at the action URL. Salesforce sets the status to SuccessfulStatus or FailedStatus based on the HTTP status code returned by your server.ApiAsync—The action link calls an asynchronous API at the action URL. The action remains in a PendingStatus state until a third party makes a request to /connect/action-links/actionLinkId to set the status to SuccessfulStatus or FailedStatus when the asynchronous operation is complete.Download—The action link downloads a file from the action URL.Ui—The action link takes the user to a web page at the action URL. |
+| ConnectApi.ActivationPlatformCreationType | Creation type of the external platform.JsonManual |
 | ConnectApi.​ActivationPlatformCustomerFileSource | Customer file source of the activation platform.First_And_Third_PartyFirst_PartyThird_Party |
+| ConnectApi.ActivationPlatformPrivacyType | Privacy type of the external platform.NotApplicableServiceProviderThirdPartyUpdateFailed |
+| ConnectApi.ActivationPlatformStatus | Status of the external platform.ActiveErrorInactiveProcessing |
+| ConnectApi.ActivationPlatformType | Platform type of the external platform.AdvertisingAnalyticsMarketingPublishingTechnology |
 | ConnectApi.ActivationStatus | Status of the activation.ActiveProcessingErrorInactive |
 | ConnectApi.ActivationTargetStatusEnum | Status of the activation target.ActiveProcessingErrorInactive |
 | ConnectApi.​ActivitySharingType | Type of sharing operation.Everyone—The activity is shared with everyone.MyGroups—The activity is shared only with a selection of the context user’s groups.OnlyMe—The activity is private. |

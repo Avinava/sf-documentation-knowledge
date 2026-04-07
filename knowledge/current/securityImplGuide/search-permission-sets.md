@@ -5,7 +5,7 @@ topic: search-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.854Z
+lastCollected: 2026-04-07T09:05:28.604Z
 estimatedTokens: 662
 keywords: [Search, Permission, quickly, navigate, pages, enter, terms, any, detail]
 ---

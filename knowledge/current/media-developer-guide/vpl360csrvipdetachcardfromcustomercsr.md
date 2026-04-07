@@ -5,7 +5,7 @@ topic: vpl360csrvipdetachcardfromcustomercsr
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.188Z
+lastCollected: 2026-04-07T09:04:21.264Z
 estimatedTokens: 148
 keywords: [VPL360CSR_VIP_DetachcardFromCustomerCSR, Integration, Procedure, detaches, payment, card, customer's, account, enabling, customer, VPL360CSR, _VIP, _DetachcardFromCustomerCSR, Sample, Input]
 ---

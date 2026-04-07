@@ -5,7 +5,7 @@ topic: operatinghours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.708Z
+lastCollected: 2026-04-07T09:05:26.992Z
 estimatedTokens: 620
 keywords: [OperatingHours, hours, service, territory, resource, account, work, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special]
 ---

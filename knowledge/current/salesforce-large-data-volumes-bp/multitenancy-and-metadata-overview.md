@@ -5,8 +5,8 @@ topic: multitenancy-and-metadata-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:41.991Z
-estimatedTokens: 633
+lastCollected: 2026-04-07T09:05:24.194Z
+estimatedTokens: 627
 keywords: [Multitenancy, Metadata, means, providing, application, multiple, organizations, different, companies, departments, company, hardware-software, stack, Instead, hardware]
 ---
 
@@ -26,7 +26,7 @@ Multitenancy requires that applications behave reliably, even when architects ar
 
 When organizations create custom objects, the platform tracks metadata about the objects and their fields, relationships, and other object definition characteristics. Salesforce stores the application data for all virtual tables in a few large database tables, which are partitioned by tenant and serve as heap storage. The platform’s engine then materializes virtual table data at runtime by considering the corresponding metadata.
 
-![Database structures](/docs/resources/img/en-us/260.0?doc_id=cce%2Fldv_deployments%2Fimages%2Fldv_deployments_database_tables.png&folder=salesforce_large_data_volumes_bp)
+![Database structures](/docs/resources/img/en-us/260.0?doc_id=images%2Fldv_deployments_database_tables.png&folder=salesforce_large_data_volumes_bp)
 
 Instead of attempting to manage a vast, ever-changing set of actual database structures for each application and tenant, the platform storage model manages virtual database structures using a set of metadata, data, and pivot tables. Thus, if you apply traditional performance-tuning techniques based on the data and schema of your organization, you might not see the effect you expect on the actual, underlying data structures.
 

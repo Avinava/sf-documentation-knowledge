@@ -5,7 +5,7 @@ topic: interactionrelatedaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.001Z
+lastCollected: 2026-04-07T09:05:15.071Z
 estimatedTokens: 671
 keywords: [InteractionRelatedAccount, junction, interaction, account, that's, Calls, Associated, Objects]
 ---

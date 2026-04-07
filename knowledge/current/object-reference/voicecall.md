@@ -5,8 +5,8 @@ topic: voicecall
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.196Z
-estimatedTokens: 5085
+lastCollected: 2026-04-07T09:04:52.318Z
+estimatedTokens: 4944
 keywords: [VoiceCall, call, Service, Cloud, Voice, Sales, Dialer, connectors, phone, over, Internet, Protocol, VoIP, API, version]
 ---
 
@@ -26,12 +26,6 @@ To manage VoiceCall records when using Service Cloud Voice, see the [Telephony I
 The fields in the VoiceCall object apply to the Sales Dialer and Service Cloud Voice features unless otherwise stated in the field description.
 
 In addition to the standard fields listed in this page, you can define up to 300 custom fields for the VoiceCall object.
-
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=object_reference)
-
-#### Note
-
-The VoiceCall object supports implicit sharing. When a VoiceCall record is associated with a parent record via the RelatedRecordId field, users with access to the parent record inherit access to the VoiceCall. The parent record can be a supported standard object such as an Account, Case, Contact, Lead, Collection Plan, Contact Request, or Opportunity, or a custom object. This applies even if the Organization-Wide Defaults for VoiceCall is set to Private.
 
 ## Supported Calls
 

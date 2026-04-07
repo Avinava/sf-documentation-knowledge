@@ -5,8 +5,8 @@ topic: deploying-and-retrieving-metadata-with-the-zip-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.871Z
-estimatedTokens: 1294
+lastCollected: 2026-04-07T09:03:16.406Z
+estimatedTokens: 1293
 keywords: [Deploying, Retrieving, Metadata, Zip, File, deploy, retrieve, calls, project, manifest, package.xml, XML, components, organized, folders]
 ---
 
@@ -73,7 +73,7 @@ The following elements can be defined in package.xml.
     You specify Security in the <members\> element and Settings in the name element when retrieving the SecuritySettings component type.
 
 -   <name\> contains the metadata type, for example CustomObject or Profile. There is one name defined for each metadata type in the directory. Any metadata type that extends Metadata is a valid value. The name that’s entered must match a metadata type that’s defined in the Metadata API WSDL. See Metadata Types for a list.
--   <version\> is the API version number that’s used when the .zip file is deployed or retrieved. Currently the valid value is 66.0.
+-   <version\> is the API version number that’s used when the .zip file is deployed or retrieved. Currently the valid value is .
 
 For more sample package.xml manifest files that show you how to work with different subsets of metadata, see Sample package.xml Manifest Files.
 
@@ -96,6 +96,6 @@ To delete components, see Deleting Components from an Organization.
         <members>Standard</members>
         <name>Profile</name>
     </types>
-    <version>66.0</version>
+    <version></version>
 </Package>
 ```

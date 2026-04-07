@@ -5,7 +5,7 @@ topic: additional-developer-resources-for-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:28.949Z
+lastCollected: 2026-04-07T09:02:06.279Z
 estimatedTokens: 230
 keywords: [Additional, Developer, Resources, Data, Cloud, addition, documented, there, Salesforce, REST, API, metadata, work, Calls]
 ---

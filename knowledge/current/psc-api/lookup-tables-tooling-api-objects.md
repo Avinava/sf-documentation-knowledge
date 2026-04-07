@@ -5,7 +5,7 @@ topic: lookup-tables-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.967Z
+lastCollected: 2026-04-07T09:05:11.194Z
 estimatedTokens: 275
 keywords: [Lookup, Tables, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---

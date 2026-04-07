@@ -5,7 +5,7 @@ topic: banner-capability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.339Z
+lastCollected: 2026-04-07T09:03:29.838Z
 estimatedTokens: 190
 keywords: [Banner, Capability, feed, element, motif, style]
 ---

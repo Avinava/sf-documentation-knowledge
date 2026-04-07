@@ -5,7 +5,7 @@ topic: emergency-response-management-standard-and-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.820Z
+lastCollected: 2026-04-07T09:03:54.024Z
 estimatedTokens: 415
 keywords: [Emergency, Management, Standard, Custom, Objects, Salesforce, rich, store, access]
 ---

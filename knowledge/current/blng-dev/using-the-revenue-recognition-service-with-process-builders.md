@@ -5,7 +5,7 @@ topic: using-the-revenue-recognition-service-with-process-builders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.068Z
+lastCollected: 2026-04-07T09:03:16.717Z
 estimatedTokens: 1461
 keywords: [Revenue, Recognition, Service, Process, Builders, provide, convenient, way, call, you’ve, defined, builder, passing, key, want]
 ---

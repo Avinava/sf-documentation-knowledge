@@ -5,7 +5,7 @@ topic: assessmentenvelopeitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.166Z
+lastCollected: 2026-04-07T09:05:33.174Z
 estimatedTokens: 380
 keywords: [AssessmentEnvelopeItem, item, envelope, assessments, user, assessment, depression, anxiety, API, version, 58.0, later]
 ---

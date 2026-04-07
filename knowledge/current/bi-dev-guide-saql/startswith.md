@@ -5,7 +5,7 @@ topic: startswith
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:06.516Z
+lastCollected: 2026-04-07T09:03:14.254Z
 estimatedTokens: 201
 keywords: [starts_with, starts, characters, _with, Usage]
 ---

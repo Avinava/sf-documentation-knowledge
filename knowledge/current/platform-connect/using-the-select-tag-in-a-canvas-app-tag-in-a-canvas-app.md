@@ -6,7 +6,7 @@ topic: using-the-select-tag-in-a-canvas-app-tag-in-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.282Z
+lastCollected: 2026-04-07T09:05:04.218Z
 estimatedTokens: 81
 keywords: [<select>, Tag, Canvas, App, HTML, tags, web, application, intend, Salesforce, mobile, keep, mind, behavior, unpredictable]
 ---

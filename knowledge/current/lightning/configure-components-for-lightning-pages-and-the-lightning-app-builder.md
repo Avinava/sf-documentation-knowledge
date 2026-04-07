@@ -5,7 +5,7 @@ topic: configure-components-for-lightning-pages-and-the-lightning-app-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.083Z
+lastCollected: 2026-04-07T09:04:12.848Z
 estimatedTokens: 1218
 keywords: [Configure, Components, Lightning, Pages, App, Builder, There, few, steps, take, custom, Aura, either, Add, New]
 ---

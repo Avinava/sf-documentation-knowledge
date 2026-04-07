@@ -5,7 +5,7 @@ topic: contact-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.060Z
+lastCollected: 2026-04-07T09:03:54.404Z
 estimatedTokens: 326
 keywords: [Contact, Custom, extend, standard, Emergency, Management]
 ---

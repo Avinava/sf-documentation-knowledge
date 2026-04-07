@@ -5,8 +5,8 @@ topic: user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.665Z
-estimatedTokens: 16576
+lastCollected: 2026-04-07T09:04:51.650Z
+estimatedTokens: 16575
 keywords: [User, organization, Calls, Special, Access, Rules, Usage, Deactivate, Users, Passwords, Associated, Objects]
 ---
 
@@ -216,7 +216,7 @@ create(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), quer
 | UserPreferencesUserDebugModePref | TypebooleanPropertiesCreate, Filter, UpdateDescriptionWhen true, the Lightning Component framework executes in debug mode for the user. Corresponds to the Debug Mode checkbox on the Advanced User Details page of personal settings in the user interface. |
 | UserRoleId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionID of the user’s UserRole. Label is Role ID.This is a relationship field.Relationship NameUserRoleRelationship TypeLookupRefers ToUserRole |
 | UserType | TypepicklistPropertiesFilter, Group, Nillable, Sort, Restricted picklistDescriptionThe category of user license. Each UserType is associated with one or more UserLicense records. Each UserLicense is associated with one or more profiles. In API version 10.0 and later, valid values include:Standard: user license. This user type also includes Salesforce Platform and Salesforce Platform One user licenses. Label is Standard.PowerPartner: User whose access is limited because they’re a partner and typically access the application through a partner portal or Experience Cloud site. Label is Partner.CspLitePortal: user whose access is limited because they’re an org's customer and access the application through a Customer Portal or Experience Cloud site. Label is High Volume Portal.CustomerSuccess: user whose access is limited because they’re an org's customer and access the application through a Customer Portal. Label is Customer Portal User.PowerCustomerSuccess: user whose access is limited because they’re an org's customer and access the application through a Customer Portal. Label is Customer Portal Manager.Users with this license type can view and edit data they directly own or data owned by or shared with users below them in the Customer Portal role hierarchy.CsnOnly: user whose access to the application is limited to Chatter. This user type includes Chatter Free and Chatter moderator users. Label is Chatter Free.Guest: user whose access is limited because they’re an unauthenticated user without login credentials. Label is Guest. |
-| WirelessEmail | TypeemailPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionWireless email address associated with this user. For use with Salesforce Wireless Edition. This field is available only if the Wireless and Email permissions are enabled for your organization.NoteAs of November 2005, Salesforce Wireless Edition is no longer available for purchase. You can continue to use Wireless Edition through the end of your existing contract term if you are:A Professional Edition customer and purchased Wireless Edition before November 7, 2005.An Enterprise Edition customer who signed or renewed their Salesforce contract before November 7, 2005. |
+| WirelessEmail | TypeemailPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionWireless email address associated with this user. For use with Salesforce Wireless Edition. This field is available only if the Wireless and Email permissions are enabled for your organization.As of November 2005, Salesforce Wireless Edition is no longer available for purchase. You can continue to use Wireless Edition through the end of your existing contract term if you are:A Professional Edition customer and purchased Wireless Edition before November 7, 2005.An Enterprise Edition customer who signed or renewed their Salesforce contract before November 7, 2005. |
 
 ## Usage
 

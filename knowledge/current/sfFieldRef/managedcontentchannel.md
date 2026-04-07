@@ -5,7 +5,7 @@ topic: managedcontentchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.654Z
+lastCollected: 2026-04-07T09:05:53.576Z
 estimatedTokens: 469
 keywords: [ManagedContentChannel, CMS, channel, channels, correspond, managed, content, publishing, endpoints, They, deliver, published, Salesforce, workspaces, audience]
 ---

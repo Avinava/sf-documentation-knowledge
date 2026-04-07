@@ -5,7 +5,7 @@ topic: number-of-days-in-the-month-quarter-or-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.471Z
+lastCollected: 2026-04-07T09:03:14.175Z
 estimatedTokens: 106
 keywords: [Number, Days, Month, Quarter, Year, date, _days]
 ---

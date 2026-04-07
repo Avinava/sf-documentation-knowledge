@@ -5,7 +5,7 @@ topic: patient-upsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.882Z
+lastCollected: 2026-04-07T09:04:06.702Z
 estimatedTokens: 239
 keywords: [Patient, Upsert, Output, representation, result, FHIR, resource, created]
 ---

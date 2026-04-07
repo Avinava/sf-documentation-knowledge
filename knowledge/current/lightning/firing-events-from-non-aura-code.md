@@ -5,7 +5,7 @@ topic: firing-events-from-non-aura-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.891Z
+lastCollected: 2026-04-07T09:04:14.023Z
 estimatedTokens: 304
 keywords: [Firing, Events, Non-Aura, Code, fire, Aura, JavaScript, outside, app, call, communicate, back, once, it's]
 ---

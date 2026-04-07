@@ -5,7 +5,7 @@ topic: base-notification-action-configuration-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.654Z
+lastCollected: 2026-04-07T09:03:08.246Z
 estimatedTokens: 148
 keywords: [Base, Notification, Action, Configuration, Input, Analytics]
 ---

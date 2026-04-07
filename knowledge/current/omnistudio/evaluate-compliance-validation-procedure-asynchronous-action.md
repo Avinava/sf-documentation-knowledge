@@ -5,7 +5,7 @@ topic: evaluate-compliance-validation-procedure-asynchronous-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:47.031Z
+lastCollected: 2026-04-07T09:02:49.678Z
 estimatedTokens: 343
 keywords: [Evaluate, Compliance, Validation, Procedure, Asynchronous, Action, Asynchronously, evaluation, job, Special, Access, Rules, REST, HTTP, Inputs]
 ---

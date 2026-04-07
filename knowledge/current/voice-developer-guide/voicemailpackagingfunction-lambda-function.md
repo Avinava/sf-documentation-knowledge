@@ -5,7 +5,7 @@ topic: voicemailpackagingfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.696Z
+lastCollected: 2026-04-07T09:06:18.002Z
 estimatedTokens: 601
 keywords: [VoiceMailPackagingFunction, Lambda, Function, creates, VoiceCall, record, attaches, voicemail, recording, transcription, files, routes, Omni-Channel, flow]
 ---

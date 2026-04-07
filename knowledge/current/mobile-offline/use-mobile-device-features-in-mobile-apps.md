@@ -5,7 +5,7 @@ topic: use-mobile-device-features-in-mobile-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.407Z
+lastCollected: 2026-04-07T09:04:24.443Z
 estimatedTokens: 1737
 keywords: [Mobile, Device, Features, Apps, capabilities, let, Lightning, web, component, Access, camera, location, detection, hardware, platform]
 ---

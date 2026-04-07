@@ -5,7 +5,7 @@ topic: authorization-integration-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.704Z
+lastCollected: 2026-04-07T09:02:09.827Z
 estimatedTokens: 377
 keywords: [Authorization, Integration, User, access, Agentforce, Service, Configuration, Management, Database, CMDB, GraphQL, API, authenticate, via, standard]
 ---

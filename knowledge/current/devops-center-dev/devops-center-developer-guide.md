@@ -5,7 +5,7 @@ topic: devops-center-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:24.376Z
+lastCollected: 2026-04-07T09:03:41.425Z
 estimatedTokens: 831
 keywords: [DevOps, Center, Developer, model, custom, objects]
 ---

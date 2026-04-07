@@ -5,7 +5,7 @@ topic: concurapexlimiteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.732Z
+lastCollected: 2026-04-07T09:04:37.221Z
 estimatedTokens: 642
 keywords: [ConcurApexLimitEventLog, Concurrent, Apex, Limit, event, logs, contain, long-running, requests, org, Salesforce, terminated, reaching, org’s, concurrency]
 ---

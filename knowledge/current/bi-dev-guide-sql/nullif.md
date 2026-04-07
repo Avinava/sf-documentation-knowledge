@@ -5,7 +5,7 @@ topic: nullif
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.224Z
+lastCollected: 2026-04-07T09:03:15.333Z
 estimatedTokens: 144
 keywords: [NULLIF, function, shorthand, searched, case, statement, two, equal, expressions]
 ---

@@ -5,7 +5,7 @@ topic: sample-lead-management-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.300Z
+lastCollected: 2026-04-07T09:06:17.374Z
 estimatedTokens: 655
 keywords: [Sample, Lead, Management, Formulas, manage, leads, Aging, open, Data, Completeness, Numbering, Round-Robin, Assignment, Cases]
 ---

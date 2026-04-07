@@ -5,7 +5,7 @@ topic: lightningusagebyflexipagemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.351Z
+lastCollected: 2026-04-07T09:05:51.725Z
 estimatedTokens: 522
 keywords: [LightningUsageByFlexiPageMetrics, custom, pages, users, viewed, frequently, Lightning, Experience, API, version, 43.0, later]
 ---

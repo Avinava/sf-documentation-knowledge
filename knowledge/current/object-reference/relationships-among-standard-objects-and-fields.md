@@ -5,7 +5,7 @@ topic: relationships-among-standard-objects-and-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:03.228Z
+lastCollected: 2026-04-07T09:04:33.085Z
 estimatedTokens: 1308
 keywords: [Relationships, Among, Standard, Objects, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any]
 ---

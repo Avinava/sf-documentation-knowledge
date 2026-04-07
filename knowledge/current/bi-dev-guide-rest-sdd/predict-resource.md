@@ -5,7 +5,7 @@ topic: predict-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:05.422Z
+lastCollected: 2026-04-07T09:03:12.528Z
 estimatedTokens: 283
 keywords: [Predict, Resource, Einstein, Discovery, prediction]
 ---

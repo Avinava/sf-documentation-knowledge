@@ -5,7 +5,7 @@ topic: grouprecordtypemapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.777Z
+lastCollected: 2026-04-07T09:03:47.754Z
 estimatedTokens: 225
 keywords: [GroupRecordTypeMapper, Maps, new, custom, Group, record, standard, Financial, Services, Cloud, Calls]
 ---

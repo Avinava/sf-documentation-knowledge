@@ -5,7 +5,7 @@ topic: smart-data-discovery-ai-model-discovery-source-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.146Z
+lastCollected: 2026-04-07T09:03:12.083Z
 estimatedTokens: 157
 keywords: [Smart, Data, Discovery, Model, Source, Input]
 ---

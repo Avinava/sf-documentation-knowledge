@@ -5,7 +5,7 @@ topic: procedureplanoption
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:28.610Z
+lastCollected: 2026-04-07T09:02:06.033Z
 estimatedTokens: 974
 keywords: [ProcedurePlanOption, selection, criteria, how, procedure, configured, selected, plan, record, API, version, 62.0, later, SOAP, Calls]
 ---

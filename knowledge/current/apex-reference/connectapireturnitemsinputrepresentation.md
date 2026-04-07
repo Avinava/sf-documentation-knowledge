@@ -5,7 +5,7 @@ topic: connectapireturnitemsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:47.875Z
+lastCollected: 2026-04-07T09:02:20.968Z
 estimatedTokens: 443
 keywords: [Data, products, delivery, charges, well, associated, fees]
 ---

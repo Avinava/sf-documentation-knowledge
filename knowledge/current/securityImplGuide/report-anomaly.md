@@ -5,7 +5,7 @@ topic: report-anomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.992Z
+lastCollected: 2026-04-07T09:05:28.830Z
 estimatedTokens: 548
 keywords: [Report, Anomaly, any, user, activity, sufficiently, different, historical, metadata, Salesforce, Core, application, logs, generation, surrounding]
 ---

@@ -5,7 +5,7 @@ topic: decision-table-lookup-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.304Z
+lastCollected: 2026-04-07T09:05:08.465Z
 estimatedTokens: 209
 keywords: [Decision, Lookup, POST, Performs]
 ---

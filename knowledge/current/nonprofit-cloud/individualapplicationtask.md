@@ -5,7 +5,7 @@ topic: individualapplicationtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.865Z
+lastCollected: 2026-04-07T09:04:31.198Z
 estimatedTokens: 1286
 keywords: [IndividualApplicationTask, task, application, Grantmaking, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

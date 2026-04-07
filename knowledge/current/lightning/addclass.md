@@ -5,7 +5,7 @@ topic: addclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.804Z
+lastCollected: 2026-04-07T09:04:15.427Z
 estimatedTokens: 65
 keywords: [addClass, Adds, CSS, component, Sample, Code]
 ---

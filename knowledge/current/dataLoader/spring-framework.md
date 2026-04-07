@@ -5,7 +5,7 @@ topic: spring-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.325Z
+lastCollected: 2026-04-07T09:03:41.330Z
 estimatedTokens: 348
 keywords: [Spring, Framework, XML, files, configure, beans, bean, instance, correspond, object's, setter]
 ---

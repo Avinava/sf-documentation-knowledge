@@ -5,7 +5,7 @@ topic: service-router
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.721Z
+lastCollected: 2026-04-07T09:03:40.383Z
 estimatedTokens: 405
 keywords: [Service, Router, SBQQ.ServiceRouter, Apex, serving, entry, point, API, calls, made, code, Visualforce, Remoting, REST, callouts]
 ---

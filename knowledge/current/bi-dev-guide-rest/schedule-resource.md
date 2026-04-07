@@ -5,7 +5,7 @@ topic: schedule-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.812Z
+lastCollected: 2026-04-07T09:03:09.842Z
 estimatedTokens: 734
 keywords: [Schedule, Resource, Retrieve, dataflow, recipe, connection, sync, URL, Formats, Version, Postman, Components, HTTP, PUT, Examples]
 ---

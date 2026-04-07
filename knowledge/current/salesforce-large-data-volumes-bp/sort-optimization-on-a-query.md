@@ -5,7 +5,7 @@ topic: sort-optimization-on-a-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.989Z
+lastCollected: 2026-04-07T09:05:24.190Z
 estimatedTokens: 258
 keywords: [Sort, Optimization, Query, looking, records, created, three, days, amount, data, exceeded, threshold, standard, indexes, 30%]
 ---

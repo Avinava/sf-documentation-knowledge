@@ -5,7 +5,7 @@ topic: profileskilluser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.542Z
+lastCollected: 2026-04-07T09:04:47.571Z
 estimatedTokens: 578
 keywords: [ProfileSkillUser, detail, relationship, User, connects, profile, skills, users, Calls, Usage, Associated, Objects]
 ---

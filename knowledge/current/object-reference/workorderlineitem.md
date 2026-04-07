@@ -5,7 +5,7 @@ topic: workorderlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.748Z
+lastCollected: 2026-04-07T09:04:53.022Z
 estimatedTokens: 4289
 keywords: [WorkOrderLineItem, subtask, work, order, service, API, version, 36.0, later, Calls, Special, Access, Rules, Usage, Associated]
 ---

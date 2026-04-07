@@ -5,7 +5,7 @@ topic: chatteranswersreputationlevel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:06.495Z
+lastCollected: 2026-04-07T09:04:36.925Z
 estimatedTokens: 315
 keywords: [ChatterAnswersReputationLevel, reputation, level, Chatter, Answers, zone, API, version, 26.0, later, Calls, Usage]
 ---

@@ -5,7 +5,7 @@ topic: dashboard-state-input-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.368Z
+lastCollected: 2026-04-07T09:03:09.253Z
 estimatedTokens: 21707
 namespace: String
 keywords: [Dashboard, State, Input, Representation, DashboardStateInputRepresentation, resource, representations, API, POST, PATCH, requests, REST, endpoints, their, own]

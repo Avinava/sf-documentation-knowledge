@@ -5,7 +5,7 @@ topic: develop-offline-ready-lwcs-with-the-lwc-offline-test-harness
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.473Z
+lastCollected: 2026-04-07T09:04:24.543Z
 estimatedTokens: 695
 keywords: [Develop, Offline-Ready, LWCs, LWC, Offline, Test, Harness, short, lightweight, testing, debugging, inspection, app, developers, debug]
 ---

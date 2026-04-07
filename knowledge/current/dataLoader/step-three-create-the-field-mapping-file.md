@@ -5,7 +5,7 @@ topic: step-three-create-the-field-mapping-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.167Z
+lastCollected: 2026-04-07T09:03:41.097Z
 estimatedTokens: 370
 keywords: [Step, Three, Mapping, File, sdl, extension, line, pair, data, source, destination]
 ---

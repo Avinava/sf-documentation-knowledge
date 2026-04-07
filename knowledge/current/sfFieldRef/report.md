@@ -5,7 +5,7 @@ topic: report
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:12.241Z
+lastCollected: 2026-04-07T09:06:05.060Z
 estimatedTokens: 413
 namespace: NamespacePrefix
 keywords: [Report, data, meets, certain, criteria, organized, way, Access, read-only, API, version, 20.0, later]

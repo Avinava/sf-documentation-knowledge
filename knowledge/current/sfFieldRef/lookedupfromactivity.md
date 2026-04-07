@@ -5,7 +5,7 @@ topic: lookedupfromactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.076Z
+lastCollected: 2026-04-07T09:05:52.723Z
 estimatedTokens: 669
 keywords: [LookedUpFromActivity, read-only, activity, record, event, task, records, custom, lookup, relationships, another, queryable]
 ---

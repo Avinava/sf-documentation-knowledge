@@ -5,7 +5,7 @@ topic: assignedresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.686Z
+lastCollected: 2026-04-07T09:05:26.963Z
 estimatedTokens: 722
 keywords: [AssignedResource, service, resource, assigned, appointment, Salesforce, Scheduler, resources, appear, appointments, API, version, 38.0, later, Calls]
 ---

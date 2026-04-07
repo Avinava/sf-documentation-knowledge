@@ -5,7 +5,7 @@ topic: wastefootprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.392Z
+lastCollected: 2026-04-07T09:04:29.345Z
 estimatedTokens: 1943
 keywords: [WasteFootprint, volume, aggregated, waste, carbon, emissions, generated, either, part, operations, end-, of-, life, product, API]
 ---

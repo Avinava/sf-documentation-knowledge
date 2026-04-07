@@ -5,7 +5,7 @@ topic: use---dxp-styling-hooks-in-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.547Z
+lastCollected: 2026-04-07T09:03:45.828Z
 estimatedTokens: 680
 keywords: [--dxp, Styling, Hooks, Custom, Components, build, Lightning, web, component, site, uses, design, system, appropriate]
 ---

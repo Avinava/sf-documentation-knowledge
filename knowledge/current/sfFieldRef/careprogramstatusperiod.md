@@ -5,7 +5,7 @@ topic: careprogramstatusperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.070Z
+lastCollected: 2026-04-07T09:05:38.242Z
 estimatedTokens: 341
 keywords: [CareProgramStatusPeriod, historical, changes, status, care, program, API, version, 61.0, later]
 ---

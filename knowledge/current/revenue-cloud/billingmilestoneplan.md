@@ -5,7 +5,7 @@ topic: billingmilestoneplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:24.542Z
+lastCollected: 2026-04-07T09:02:03.587Z
 estimatedTokens: 634
 keywords: [BillingMilestonePlan, structured, approach, invoicing, invoices, scheduled, predefined, milestones, API, version, 63.0, later, Calls, Special, Access]
 ---

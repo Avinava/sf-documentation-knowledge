@@ -6,7 +6,7 @@ topic: grantmaking-object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:02.402Z
+lastCollected: 2026-04-07T09:04:31.954Z
 estimatedTokens: 1979
 keywords: [Grantmaking, data, model, objects, calculate, manage, grants, organization, **Grantmaking, Reference**]
 ---

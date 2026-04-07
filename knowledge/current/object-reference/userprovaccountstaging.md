@@ -5,7 +5,7 @@ topic: userprovaccountstaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.938Z
+lastCollected: 2026-04-07T09:04:52.007Z
 estimatedTokens: 1074
 keywords: [UserProvAccountStaging, Temporarily, stores, user, account, completes, Provisioning, Wizard, stored, UserProvAccount, click, button, collect, analyze, accounts]
 ---

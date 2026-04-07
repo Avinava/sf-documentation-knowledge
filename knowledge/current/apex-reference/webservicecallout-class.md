@@ -5,7 +5,7 @@ topic: webservicecallout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:21.844Z
+lastCollected: 2026-04-07T09:02:16.126Z
 estimatedTokens: 986
 namespace: System
 keywords: [WebServiceCallout, making, callouts, SOAP, operations, external, Web, service, Apex, stub, auto-generated, WSDL, invoke, infoArray]

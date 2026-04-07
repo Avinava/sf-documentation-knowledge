@@ -5,7 +5,7 @@ topic: conditional-expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.940Z
+lastCollected: 2026-04-07T09:04:14.090Z
 estimatedTokens: 282
 keywords: [Conditional, Expressions, examples, ternary, operator, <aura, if>, tag, Markup]
 ---

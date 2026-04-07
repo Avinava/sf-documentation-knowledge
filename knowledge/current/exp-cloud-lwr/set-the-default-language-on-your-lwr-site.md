@@ -5,7 +5,7 @@ topic: set-the-default-language-on-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.779Z
+lastCollected: 2026-04-07T09:03:46.188Z
 estimatedTokens: 931
 keywords: [Language, LWR, Site, English, want, change, different, soon, possible, avoid, losing, content]
 ---

@@ -5,7 +5,7 @@ topic: cart-item-price-adjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.556Z
+lastCollected: 2026-04-07T09:03:30.182Z
 estimatedTokens: 335
 keywords: [Cart, Item, Price, Adjustment]
 ---

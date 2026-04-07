@@ -5,7 +5,7 @@ topic: pendingordersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.702Z
+lastCollected: 2026-04-07T09:04:46.561Z
 estimatedTokens: 1813
 keywords: [PendingOrderSummary, representing, B2C, Commerce, order, ingested, via, High, Scale, Orders, OrderSummary, created, Optimized, online, transaction]
 ---

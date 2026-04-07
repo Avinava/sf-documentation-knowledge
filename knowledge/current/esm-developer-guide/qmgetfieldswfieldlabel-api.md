@@ -5,7 +5,7 @@ topic: qmgetfieldswfieldlabel-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.974Z
+lastCollected: 2026-04-07T09:03:45.042Z
 estimatedTokens: 100
 keywords: [QMgetFields_WFieldLabel, API, labels, quote, members, QMgetFields, _WFieldLabel, URI, HTTP]
 ---

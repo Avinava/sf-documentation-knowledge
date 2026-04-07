@@ -5,7 +5,7 @@ topic: batch-invoice-scheduler-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.280Z
+lastCollected: 2026-04-07T09:01:57.791Z
 estimatedTokens: 789
 keywords: [Batch, Invoice, Scheduler, Input, representation]
 ---

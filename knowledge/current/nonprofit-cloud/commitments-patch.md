@@ -5,7 +5,7 @@ topic: commitments-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.827Z
+lastCollected: 2026-04-07T09:04:29.957Z
 estimatedTokens: 809
 keywords: [Commitments, PATCH, Modify, data, schedule, campaign, outreach, source, code, donor, payment, instrument, active, gift, commitment]
 ---

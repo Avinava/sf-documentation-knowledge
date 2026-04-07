@@ -5,7 +5,7 @@ topic: service-cloud-voice-best-practices-for-error-handling
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:21.774Z
+lastCollected: 2026-04-07T09:06:18.110Z
 estimatedTokens: 246
 keywords: [Service, Cloud, Voice, Best, Practices, Error, Handling, ensure, availability, optimal, customer, experience, follow, managing, throughput]
 ---

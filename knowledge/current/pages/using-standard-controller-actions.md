@@ -5,7 +5,7 @@ topic: using-standard-controller-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.403Z
+lastCollected: 2026-04-07T09:04:58.858Z
 estimatedTokens: 1124
 keywords: [Standard, Controller, Actions, Action, perform, logic, navigation, event, occurs, user, clicks, button, hovers, over, area]
 ---

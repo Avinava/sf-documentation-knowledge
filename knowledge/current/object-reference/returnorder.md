@@ -5,7 +5,7 @@ topic: returnorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.320Z
+lastCollected: 2026-04-07T09:04:48.535Z
 estimatedTokens: 5433
 keywords: [ReturnOrder, repair, inventory, products, Service, order, Management, API, version, 42.0, later, Calls, Special, Access, Rules]
 ---

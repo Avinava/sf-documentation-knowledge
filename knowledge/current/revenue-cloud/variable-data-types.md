@@ -5,7 +5,7 @@ topic: variable-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.173Z
+lastCollected: 2026-04-07T09:01:57.721Z
 estimatedTokens: 501
 keywords: [Variable, Data, Variables, support, multiple, including, date, decimal, domain, definition, may, remain, unbound, leading, errors]
 ---

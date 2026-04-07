@@ -5,8 +5,8 @@ topic: health-cloud-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:35.925Z
-estimatedTokens: 4147
+lastCollected: 2026-04-07T09:03:56.873Z
+estimatedTokens: 4198
 keywords: [Health, Cloud, Data, Model, Salesforce, rich, objects, store, access, specialized]
 ---
 
@@ -89,6 +89,8 @@ To verify the complete list of fields for an object, you can use a describe call
     The Unified Health Scoring data model provides three objects, three tooling APIs, and a metadata type with two subtypes. Use these objects to implement the feature in your Health Cloud org.
 -   **[Utilization Management](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_utilization_management_data_model.htm)**
     Utilization Management (UM) is a health insurance plan's process of interfacing with plan members and contracted medical providers to interpret, administer, and explain the medical policies of the health plan. Health Cloud provides objects you can use to review and evaluate medical care services, communicate about clinical policies, and help health plan members ensure they receive the right care in the right setting at the right time.
+-   **[ProductRequest](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_productrequest.htm)**
+    Represents a device request made as part of a care program.
 
 #### See Also
 

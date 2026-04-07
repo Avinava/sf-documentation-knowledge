@@ -5,7 +5,7 @@ topic: emaildomainkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.790Z
+lastCollected: 2026-04-07T09:05:44.178Z
 estimatedTokens: 525
 keywords: [EmailDomainKey, domain, key, organization’s, authenticate, outbound, email, Salesforce, behalf, API, version, 28.0, later]
 ---

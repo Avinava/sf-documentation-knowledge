@@ -5,7 +5,7 @@ topic: engagementrecorddetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:47.467Z
+lastCollected: 2026-04-07T09:02:50.027Z
 estimatedTokens: 723
 namespace: DataRetrieval
 keywords: [EngagementRecordDetails, Stores, conversation, customer, agent, including, engagement, record, start, time, end, identifier, recordId, conversationIdentifier, startDateTime]

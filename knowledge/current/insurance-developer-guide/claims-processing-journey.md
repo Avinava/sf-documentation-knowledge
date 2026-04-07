@@ -5,8 +5,8 @@ topic: claims-processing-journey
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:39.653Z
-estimatedTokens: 2824
+lastCollected: 2026-04-07T09:04:01.798Z
+estimatedTokens: 2827
 keywords: [Claims, Processing, Journey, claim, formal, submitted, policyholder, receive, benefits, compensation, covered, loss, under, active, insurance]
 ---
 
@@ -25,7 +25,7 @@ A valid claim requires an active insurance policy, a reported loss date, and an 
 
 This diagram outlines the sequence of operations that are involved in the claim process.
 
-![A flow diagram representing the user journey for managing claims.](/docs/resources/img/en-us/260.0?doc_id=insurance%2Fimages%2Finsurance_claims_workflow.png&folder=insurance_developer_guide)
+![A flow diagram representing the user journey for managing claims.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Finsurance%2Fimages%2Finsurance_claims_workflow.png&folder=insurance_developer_guide)
 
 1.  **Create Policy Limits**—Generate a record of the trackable policy or coverage attributes, such as deductibles and limits, and store the record details in a separate entity. You can create policy limits by either:
 

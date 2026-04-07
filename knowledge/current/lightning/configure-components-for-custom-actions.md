@@ -5,7 +5,7 @@ topic: configure-components-for-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.466Z
+lastCollected: 2026-04-07T09:04:13.387Z
 estimatedTokens: 914
 keywords: [Configure, Components, Custom, Actions, Add, force, lightningQuickAction, lightningQuickActionWithoutHeader, Aura, component, enable, action, Lightning, Experience, Salesforce]
 ---

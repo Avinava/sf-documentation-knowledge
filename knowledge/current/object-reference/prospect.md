@@ -5,7 +5,7 @@ topic: prospect
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.732Z
+lastCollected: 2026-04-07T09:04:47.800Z
 estimatedTokens: 1588
 keywords: [Prospect, individual, shared, contact, isn't, yet, qualified, API, version, 63.0, later, Calls]
 ---

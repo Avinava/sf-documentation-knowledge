@@ -5,7 +5,7 @@ topic: search-click-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.597Z
+lastCollected: 2026-04-07T09:04:40.694Z
 estimatedTokens: 773
 keywords: [Search, Click, Event, events, contain, user’s, interaction, results, Interactions, instant, result, dialog, recorded, searches, app]
 ---

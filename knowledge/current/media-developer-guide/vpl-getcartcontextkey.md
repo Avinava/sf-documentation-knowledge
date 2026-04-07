@@ -5,7 +5,7 @@ topic: vpl-getcartcontextkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.214Z
+lastCollected: 2026-04-07T09:04:21.307Z
 estimatedTokens: 135
 keywords: [VPL-GetCartContextKey, Omnistudio, Data, Mapper, latest, cart, context, key, user, Sample, Input, Output]
 ---

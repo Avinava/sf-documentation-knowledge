@@ -5,7 +5,7 @@ topic: lightningscheduler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.128Z
+lastCollected: 2026-04-07T09:05:26.134Z
 estimatedTokens: 1189
 namespace: ConnectApi
 keywords: [LightningScheduler, service, appointments, createServiceAppointment, createServiceAppointmentInput, API, Version, Requires, Chatter, Usage, updateServiceAppointment, updateServiceAppointmentInput]

@@ -5,7 +5,7 @@ topic: vpl360createsetupintent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:54.139Z
+lastCollected: 2026-04-07T09:04:21.184Z
 estimatedTokens: 118
 keywords: [VPL360_CreateSetupIntent, Integration, Procedure, creates, setup, intent, payment, confirmation, received, VPL360, _CreateSetupIntent, Sample, Input, Output, Calls]
 ---

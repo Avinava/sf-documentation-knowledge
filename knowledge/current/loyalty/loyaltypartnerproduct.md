@@ -5,7 +5,7 @@ topic: loyaltypartnerproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.109Z
+lastCollected: 2026-04-07T09:04:19.890Z
 estimatedTokens: 896
 keywords: [LoyaltyPartnerProduct, products, product, categories, offered, loyalty, partners, API, version, 51.0, later, Calls, Associated, Objects]
 ---

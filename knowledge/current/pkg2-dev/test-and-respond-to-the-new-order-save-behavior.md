@@ -5,7 +5,7 @@ topic: test-and-respond-to-the-new-order-save-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.101Z
+lastCollected: 2026-04-07T09:05:03.905Z
 estimatedTokens: 1010
 keywords: [Test, Respond, New, Order, Save, Behavior, sure, custom, application, logic, works, accurately, records, associated, turn]
 ---

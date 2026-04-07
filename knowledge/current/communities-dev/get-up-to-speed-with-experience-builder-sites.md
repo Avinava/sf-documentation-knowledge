@@ -5,7 +5,7 @@ topic: get-up-to-speed-with-experience-builder-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:23.307Z
+lastCollected: 2026-04-07T09:03:39.748Z
 estimatedTokens: 970
 keywords: [Speed, Experience, Builder, Sites, templates, let, branded, employees, customers, partners, connect, Built, Lightning, Component, framework]
 ---

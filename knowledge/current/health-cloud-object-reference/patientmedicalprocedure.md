@@ -5,7 +5,7 @@ topic: patientmedicalprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.724Z
+lastCollected: 2026-04-07T09:03:55.217Z
 estimatedTokens: 2441
 keywords: [PatientMedicalProcedure, detailed, healthcare, procedure, patient, undergone, undergoing, undergo, API, version, 51.0, later, Calls, Additional, Objects]
 ---

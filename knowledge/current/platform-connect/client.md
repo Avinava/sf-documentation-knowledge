@@ -5,7 +5,7 @@ topic: client
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.496Z
+lastCollected: 2026-04-07T09:05:04.600Z
 estimatedTokens: 313
 keywords: [Client, JSON-formatted, signed, CanvasRequest, context, app]
 ---

@@ -5,7 +5,7 @@ topic: livechatvisitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.591Z
+lastCollected: 2026-04-07T09:05:52.031Z
 estimatedTokens: 343
 keywords: [LiveChatVisitor, website, visitor, started, tried, start, chat, session, API, version, 24.0, later]
 ---

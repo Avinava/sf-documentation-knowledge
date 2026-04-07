@@ -6,7 +6,7 @@ topic: billing-fields-on-finance-balance-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.958Z
+lastCollected: 2026-04-07T09:03:17.780Z
 estimatedTokens: 504
 keywords: [Billing, Finance, Balance, Snapshot, Standard, custom, extend, represent, snapshots]
 ---

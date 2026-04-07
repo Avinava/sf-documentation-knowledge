@@ -5,7 +5,7 @@ topic: metricdatalink
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:12.905Z
+lastCollected: 2026-04-07T09:04:44.473Z
 estimatedTokens: 528
 keywords: [MetricDataLink, link, metric, data, source, report, Calls, Associated, Objects]
 ---
@@ -23,7 +23,7 @@ The link between the metric and the data source, such as a report.
 
 #### Note
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 ## Supported Calls
 
@@ -47,7 +47,7 @@ This object has the following associated objects. Unless noted, they are availab
 
 History is available for tracked fields of the object.
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 ## Related Topics
 

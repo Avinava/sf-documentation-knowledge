@@ -5,7 +5,7 @@ topic: shiftengagementchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.831Z
+lastCollected: 2026-04-07T09:05:27.138Z
 estimatedTokens: 605
 keywords: [ShiftEngagementChannel, relationship, Shift, Engagement, Channel, Salesforce, Scheduler, API, version, 56.0, later, Calls, Special, Access, Rules]
 ---

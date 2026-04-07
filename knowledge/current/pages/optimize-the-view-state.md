@@ -5,7 +5,7 @@ topic: optimize-the-view-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.907Z
+lastCollected: 2026-04-07T09:04:56.718Z
 estimatedTokens: 619
 keywords: [Optimize, View, State, maintain, Visualforce, page’s, Lightning, Platform, stores, components, controller, encrypted, hidden, form, element]
 ---

@@ -5,7 +5,7 @@ topic: ptnrinvrecon
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.625Z
+lastCollected: 2026-04-07T09:03:20.001Z
 estimatedTokens: 509
 keywords: [PtnrInvRecon, reconciliation, partner's, reported, inventory, calculated, unsold, specific, date, API, version, 64.0, later, Calls]
 ---

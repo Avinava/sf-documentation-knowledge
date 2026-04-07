@@ -5,7 +5,7 @@ topic: resourcedetails-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.522Z
+lastCollected: 2026-04-07T09:03:52.092Z
 estimatedTokens: 334
 keywords: [ResourceDetails, home, visit, manual, scheduling, appointments, Once, scheduler, selected, recommended, resources, along, time, slot, schedule]
 ---

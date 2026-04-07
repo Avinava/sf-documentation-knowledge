@@ -5,7 +5,7 @@ topic: problemgoaldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.470Z
+lastCollected: 2026-04-07T09:03:58.610Z
 estimatedTokens: 795
 keywords: [ProblemGoalDefinition, junction, associated, goal, definition, parent, problem, records, assist, establishing, problem-goal, hierarchy, care, plans, instantiated]
 ---

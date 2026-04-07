@@ -5,7 +5,7 @@ topic: get-started-with-the-publisher-and-quick-action-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.342Z
+lastCollected: 2026-04-07T09:03:18.178Z
 estimatedTokens: 970
 keywords: [Started, Publisher, Quick, Action, APIs, custom, components, interact, actions, pages, Salesforce, Classic, Lightning, Experience, apps]
 ---

@@ -5,7 +5,7 @@ topic: calculation-procedure-variable-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.714Z
+lastCollected: 2026-04-07T09:05:09.078Z
 estimatedTokens: 189
 keywords: [Calculation, Procedure, Variable, Output, variables, expression]
 ---

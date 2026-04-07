@@ -5,7 +5,7 @@ topic: referencing-untrusted-third-party-content-with-iframes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.146Z
+lastCollected: 2026-04-07T09:04:59.977Z
 estimatedTokens: 449
 keywords: [Referencing, Untrusted, Third-Party, Content, iframes, It’s, good, idea, isolate, resources, downloaded, source, iframe, separate, Visualforce]
 ---

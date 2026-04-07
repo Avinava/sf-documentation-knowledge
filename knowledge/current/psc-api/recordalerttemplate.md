@@ -5,7 +5,7 @@ topic: recordalerttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.359Z
+lastCollected: 2026-04-07T09:05:14.324Z
 estimatedTokens: 429
 keywords: [RecordAlertTemplate, template, shown, Alerts, FlexCard, expression, requirements, met, API, version, 55.0, later, Calls]
 ---

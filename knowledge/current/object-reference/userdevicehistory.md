@@ -5,7 +5,7 @@ topic: userdevicehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.783Z
+lastCollected: 2026-04-07T09:04:51.810Z
 estimatedTokens: 527
 namespace: Namespace
 keywords: [UserDeviceHistory, tracking, UserDevice, sObject, API, version, 50.0, later, Calls]

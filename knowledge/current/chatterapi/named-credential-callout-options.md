@@ -5,7 +5,7 @@ topic: named-credential-callout-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.848Z
+lastCollected: 2026-04-07T09:03:33.781Z
 estimatedTokens: 199
 keywords: [Named, Credential, Callout, Options]
 ---

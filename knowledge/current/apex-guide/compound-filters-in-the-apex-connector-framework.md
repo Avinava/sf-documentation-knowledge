@@ -5,7 +5,7 @@ topic: compound-filters-in-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:42.516Z
+lastCollected: 2026-04-07T09:02:31.905Z
 estimatedTokens: 199
 keywords: [Compound, Filters, Apex, Connector, Framework, child, stored, subfilters]
 ---

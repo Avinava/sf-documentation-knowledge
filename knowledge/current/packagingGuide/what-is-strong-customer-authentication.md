@@ -5,7 +5,7 @@ topic: what-is-strong-customer-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.379Z
+lastCollected: 2026-04-07T09:04:54.089Z
 estimatedTokens: 305
 keywords: [Strong, Customer, Authentication, SCA, enhances, security, online, payments, identity, verification, step, European, Economic, Area, including]
 ---

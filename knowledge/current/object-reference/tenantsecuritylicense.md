@@ -5,7 +5,7 @@ topic: tenantsecuritylicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.963Z
+lastCollected: 2026-04-07T09:04:50.703Z
 estimatedTokens: 1097
 keywords: [TenantSecurityLicense, Stores, license, usage, Security, Center, API, version, 59.0, later, Calls, Special, Access, Rules, Associated]
 ---

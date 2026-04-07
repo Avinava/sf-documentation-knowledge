@@ -5,7 +5,7 @@ topic: lightning-flow-for-service-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:41.858Z
+lastCollected: 2026-04-07T09:05:23.964Z
 estimatedTokens: 773
 keywords: [Lightning, Flow, Service, Considerations, how, packaging, change, sharing, model, impact, implementation]
 ---

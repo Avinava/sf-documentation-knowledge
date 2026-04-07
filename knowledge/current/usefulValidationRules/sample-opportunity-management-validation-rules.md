@@ -5,7 +5,7 @@ topic: sample-opportunity-management-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.404Z
+lastCollected: 2026-04-07T09:06:17.502Z
 estimatedTokens: 1673
 keywords: [Sample, Opportunity, Management, Validation, Rules, Examples, how, validate, custom, opportunities, Conditionally-Required, Stage, Close, Date, Cannot]
 ---

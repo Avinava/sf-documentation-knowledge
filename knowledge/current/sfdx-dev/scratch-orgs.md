@@ -5,7 +5,7 @@ topic: scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.368Z
+lastCollected: 2026-04-07T09:06:13.260Z
 estimatedTokens: 2560
 keywords: [Scratch, Orgs, org, source-driven, disposable, deployment, Salesforce, code, metadata, fully, configurable, allowing, developers, emulate, different]
 ---

@@ -5,7 +5,7 @@ topic: visualforce-pdf-rendering-considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:23.850Z
+lastCollected: 2026-04-07T09:04:59.542Z
 estimatedTokens: 1291
 keywords: [Visualforce, PDF, Rendering, Considerations, Limitations, Review, designing, pages, intended, rendered, Always, verify, formatting, appearance, version]
 ---

@@ -5,7 +5,7 @@ topic: billingbatchscheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.896Z
+lastCollected: 2026-04-07T09:05:35.353Z
 estimatedTokens: 610
 keywords: [BillingBatchScheduler, scheduled, processing, job, triggers, recurring, invoice, batch, runs, payment, Subscription, Management, API, version, 55.0]
 ---

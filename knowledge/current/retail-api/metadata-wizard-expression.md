@@ -5,7 +5,7 @@ topic: metadata-wizard-expression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.117Z
+lastCollected: 2026-04-07T09:05:17.970Z
 estimatedTokens: 694
 keywords: [Metadata, Wizard, Expression, Expressions, provide, dynamic, Components, accept, their, access, instance, dynamically, attributes, conditions, Component]
 ---

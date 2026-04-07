@@ -5,7 +5,7 @@ topic: productlistrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.526Z
+lastCollected: 2026-04-07T09:03:50.911Z
 estimatedTokens: 959
 keywords: [ProductListRate, rate, product, API, version, 61.0, later, Digital, Lending, permission, Calls, Associated, Objects]
 ---

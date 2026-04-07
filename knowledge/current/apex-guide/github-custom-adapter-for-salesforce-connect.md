@@ -5,7 +5,7 @@ topic: github-custom-adapter-for-salesforce-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:42.392Z
+lastCollected: 2026-04-07T09:02:31.785Z
 estimatedTokens: 177
 keywords: [GitHub, Custom, Adapter, Salesforce, Connect, illustrates, how, support, indirect, lookup, relationships, relationship, links, child, external]
 ---

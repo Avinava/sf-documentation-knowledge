@@ -5,7 +5,7 @@ topic: set-up-salesforce-org-with-loyalty-management-receipt-scanner-kit-unlocke
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.332Z
+lastCollected: 2026-04-07T09:04:18.931Z
 estimatedTokens: 971
 keywords: [Salesforce, Org, Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, ensure, members, submit, their, receipts, mobile]
 ---

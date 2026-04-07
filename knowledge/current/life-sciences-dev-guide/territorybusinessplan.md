@@ -5,7 +5,7 @@ topic: territorybusinessplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.488Z
+lastCollected: 2026-04-07T09:04:12.057Z
 estimatedTokens: 1179
 keywords: [TerritoryBusinessPlan, detailed, strategic, outline, vital, customer, effectively, manage, expand, relationships, specific, territory, API, version, 65.0]
 ---

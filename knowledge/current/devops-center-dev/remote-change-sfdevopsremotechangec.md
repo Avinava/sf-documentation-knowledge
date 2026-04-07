@@ -5,7 +5,7 @@ topic: remote-change-sfdevopsremotechangec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.526Z
+lastCollected: 2026-04-07T09:03:41.632Z
 estimatedTokens: 1043
 keywords: [Remote, Change, sf_devops__Remote_Change__c, environment, that’s, connected, DevOps, Center, particular, record, accumulation, operations, piece, metadata, presents]
 ---

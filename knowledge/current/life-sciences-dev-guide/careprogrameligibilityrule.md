@@ -5,7 +5,7 @@ topic: careprogrameligibilityrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.369Z
+lastCollected: 2026-04-07T09:04:09.830Z
 estimatedTokens: 1321
 keywords: [CareProgramEligibilityRule, rule, defining, criteria, patient, care, program, enrollment, eligibility, entity, creates, association, Calls, Associated, Objects]
 ---
@@ -33,7 +33,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | IsInclusionRule | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the rule is included or excluded when determining care program eligibility. This field is available in API version 62.0 and later.The default value is false. |
 | IsRequired | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the care program eligibility rule is required. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescriptionName for the care program eligibility rule. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSystem from which the record was sourced. |

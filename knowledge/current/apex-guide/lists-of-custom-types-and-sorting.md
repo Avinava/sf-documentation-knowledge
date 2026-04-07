@@ -5,7 +5,7 @@ topic: lists-of-custom-types-and-sorting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.925Z
+lastCollected: 2026-04-07T09:02:31.328Z
 estimatedTokens: 374
 keywords: [Custom, Sorting, hold, objects, user-defined, Apex, classes, sorted]
 ---

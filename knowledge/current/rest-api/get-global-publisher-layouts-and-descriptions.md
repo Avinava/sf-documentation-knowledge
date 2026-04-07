@@ -5,7 +5,7 @@ topic: get-global-publisher-layouts-and-descriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:41.095Z
+lastCollected: 2026-04-07T09:02:36.061Z
 estimatedTokens: 132
 keywords: [Publisher, Layouts, Descriptions, Retrieves, their, customize, actions, pages, Home, Lightning, Experience, populate, menu]
 ---

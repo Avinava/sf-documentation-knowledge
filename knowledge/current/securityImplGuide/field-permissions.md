@@ -5,7 +5,7 @@ topic: field-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.284Z
+lastCollected: 2026-04-07T09:05:29.250Z
 estimatedTokens: 1028
 keywords: [Permissions, field-level, security, lets, specify, whether, users, view, edit]
 ---

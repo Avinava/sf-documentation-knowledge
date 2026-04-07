@@ -5,7 +5,7 @@ topic: use-the-core-salesforce-dx-mcp-tools-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.332Z
+lastCollected: 2026-04-07T09:06:13.213Z
 estimatedTokens: 1796
 keywords: [Core, Salesforce, MCP, Tools, Beta, run, classic, tasks, work, orgs, retrieve, deploy, metadata, Apex, tests]
 ---

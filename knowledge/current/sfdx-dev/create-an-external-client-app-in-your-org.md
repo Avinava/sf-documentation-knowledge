@@ -5,7 +5,7 @@ topic: create-an-external-client-app-in-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.038Z
+lastCollected: 2026-04-07T09:06:12.817Z
 estimatedTokens: 1703
 keywords: [External, Client, App, Org, Salesforce, CLI, requires, you're, authorizing, packageable, framework, third-party, application, integrate, APIs]
 ---

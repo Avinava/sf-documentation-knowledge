@@ -5,16 +5,16 @@ topic: goaldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.377Z
+lastCollected: 2026-04-07T09:04:31.926Z
 estimatedTokens: 796
 keywords: [GoalDefinition, goal, business, objective, that’s, instantiated, records, GoalAssignment, serve, goals, care, plans, Calls, Associated, Objects]
 ---
 
 # GoalDefinition
 
-> Represents a goal or a business objective that’s used as a reference.
-         When instantiated, GoalDefinition records create GoalAssignment records that serve as goals
-         in care plans.
+> Represents a goal or a business objective that’s used as a reference. When
+      instantiated, GoalDefinition records create GoalAssignment records that serve as goals in care
+      plans.
 
 # GoalDefinition
 

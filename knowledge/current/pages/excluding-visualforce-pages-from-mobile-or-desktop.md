@@ -5,7 +5,7 @@ topic: excluding-visualforce-pages-from-mobile-or-desktop
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.524Z
+lastCollected: 2026-04-07T09:05:00.534Z
 estimatedTokens: 150
 keywords: [Excluding, Visualforce, Pages, Mobile, Desktop, add, either, Salesforce, app, full, site, tab, navigation, settings]
 ---

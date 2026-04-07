@@ -6,7 +6,7 @@ topic: search-for-records-suggested-by-autocomplete-and-instant-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.722Z
+lastCollected: 2026-04-07T09:04:04.964Z
 estimatedTokens: 2142
 keywords: [Search, Records, Suggested, Autocomplete, Instant, Results, whose, match, user’s, suggestions, resource, users, navigate, directly, likely]
 ---

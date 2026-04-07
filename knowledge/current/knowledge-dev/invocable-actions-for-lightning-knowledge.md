@@ -5,7 +5,7 @@ topic: invocable-actions-for-lightning-knowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.517Z
+lastCollected: 2026-04-07T09:04:04.685Z
 estimatedTokens: 132
 keywords: [Invocable, Actions, Lightning, Knowledge, invoked, REST, endpoint, manage, articles, article, versions]
 ---

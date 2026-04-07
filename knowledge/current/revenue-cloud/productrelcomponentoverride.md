@@ -5,7 +5,7 @@ topic: productrelcomponentoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:27.299Z
+lastCollected: 2026-04-07T09:02:05.217Z
 estimatedTokens: 1291
 keywords: [ProductRelComponentOverride, cardinality, overrides, product, components, bundle, API, version, 60.0, later, Calls, Special, Access, Rules, Associated]
 ---

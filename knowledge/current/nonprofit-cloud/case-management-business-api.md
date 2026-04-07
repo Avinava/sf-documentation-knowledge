@@ -5,7 +5,7 @@ topic: case-management-business-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.621Z
+lastCollected: 2026-04-07T09:04:29.624Z
 estimatedTokens: 237
 keywords: [Case, Management, Business, API, APIs, RESTful, sometimes, Apex, classes]
 ---

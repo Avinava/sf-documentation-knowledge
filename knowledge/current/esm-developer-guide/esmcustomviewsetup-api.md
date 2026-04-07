@@ -5,7 +5,7 @@ topic: esmcustomviewsetup-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.932Z
+lastCollected: 2026-04-07T09:03:44.969Z
 estimatedTokens: 205
 keywords: [ESM_CustomViewSetup, API, Store, custom, views, created, Summary, ESM, _CustomViewSetup, URI, HTTP]
 ---

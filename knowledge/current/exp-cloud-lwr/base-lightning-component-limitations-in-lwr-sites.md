@@ -5,7 +5,7 @@ topic: base-lightning-component-limitations-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.685Z
+lastCollected: 2026-04-07T09:03:46.033Z
 estimatedTokens: 316
 keywords: [Base, Lightning, Component, Limitations, LWR, Sites, Experience, Cloud, components, Library, there]
 ---

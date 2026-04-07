@@ -5,7 +5,7 @@ topic: data-source-promotion-and-tactic-measures-with-bom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.298Z
+lastCollected: 2026-04-07T09:05:18.326Z
 estimatedTokens: 191
 keywords: [Data, Source, Promotion, Tactic, Measures, BOM, Components, export, Bill, Material, component, product, part, level, RTR]
 ---

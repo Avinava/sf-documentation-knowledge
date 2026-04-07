@@ -5,7 +5,7 @@ topic: credentialstuffingevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.474Z
+lastCollected: 2026-04-07T09:05:06.021Z
 estimatedTokens: 1392
 keywords: [CredentialStuffingEvent, Tracks, user, successfully, logs, Salesforce, identified, credential, stuffing, attack, refers, large-scale, automated, login, requests]
 ---
@@ -62,7 +62,7 @@ No
 | EventDate | TypedateTimePropertiesNillableDescriptionThe time when the hijacking event was reported. For example, 2020-01-20T19:12:26.965Z. Milliseconds are the most granular setting. |
 | EventIdentifier | TypestringPropertiesNillableDescriptionThe unique ID of the event, which is shared with the corresponding storage object. For example, 0a4779b0-0da1-4619-a373-0a36991dff90. Use this field to correlate the event with its storage object. |
 | EventUuid | TypestringPropertiesNillableDescriptionA universally unique identifier (UUID) that identifies a platform event message. This field is available in API version 52.0 and later. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | LoginType | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe type of login used to access the session. See the LoginType field of LoginHistory in the Object Reference guide for the list of possible values. |
 | LoginUrl | TypestringPropertiesNillableDescriptionThe URL of the login page. For example, MyDomainName.my.salesforce.com. |
 | PolicyId | TypereferencePropertiesNillableDescriptionThe ID of the transaction policy associated with this event. For example, 0NIB000000000KOOAY. This field isn’t populated until all transaction security policies are processed for the real-time event. |

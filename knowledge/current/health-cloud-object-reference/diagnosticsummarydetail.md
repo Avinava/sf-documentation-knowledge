@@ -5,7 +5,7 @@ topic: diagnosticsummarydetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.623Z
+lastCollected: 2026-04-07T09:03:55.064Z
 estimatedTokens: 1126
 keywords: [DiagnosticSummaryDetail, additional, associated, document, reference-type, DiagnosticSummary, records, may, documents, authors, encounters, API, version, 52.0, later]
 ---

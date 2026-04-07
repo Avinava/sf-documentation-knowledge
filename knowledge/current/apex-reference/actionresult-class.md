@@ -5,10 +5,10 @@ topic: actionresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.726Z
+lastCollected: 2026-04-07T09:02:14.858Z
 estimatedTokens: 1284
 namespace: Invocable
-keywords: [Action.Result, retrieve, results, invocable, actions, Apex, code, clone, getAction, getErrors, getInvocationParameters, getOutputParameters, isSuccess]
+keywords: [Action.Result, retrieve, results, invocable, actions, Apex, code, clone, getAction, getErrors, getInvocationParameters, getOutputParameters, isSuccess, ActionResult, execution, actionable, notification, Usage, getErrorCode, getMessage]
 ---
 
 # Action.Result Class
@@ -119,6 +119,25 @@ public Boolean isSuccess()
 Type: [Boolean](atlas.en-us.apexref.meta/apexref/apex_methods_system_boolean.htm#apex_methods_system_boolean "Contains methods for the Boolean primitive data type.")
 
 This method returns true if the invocable action ran successfully.
+
+## Code Examples
+
+```
+Messaging.ActionResult result = 
+new Messaging.ActionResult.Builder()
+.withSuccess(true)
+.withMessage('Action is executed successfully')
+.build();
+```
+
+```
+Messaging.ActionResult result = 
+new Messaging.ActionResult.Builder()
+.withSuccess(false) 
+.withMessage('Error updating case')
+.withErrorCode(Messaging.ActionError.INTERNAL_ERROR)
+.build();
+```
 
 ## Related Topics
 

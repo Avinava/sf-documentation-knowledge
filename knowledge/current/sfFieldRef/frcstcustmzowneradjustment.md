@@ -5,7 +5,7 @@ topic: frcstcustmzowneradjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.658Z
+lastCollected: 2026-04-07T09:05:46.797Z
 estimatedTokens: 472
 keywords: [FrcstCustmzOwnerAdjustment, individual, forecast, user’s, adjustment, their, own, consumption, API, version, 63.0, later, different, ForecastingOwnerAdjustment, users’]
 ---

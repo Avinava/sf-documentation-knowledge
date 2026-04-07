@@ -5,7 +5,7 @@ topic: isafter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.559Z
+lastCollected: 2026-04-07T09:04:15.017Z
 estimatedTokens: 162
 keywords: [isAfter, Checks, date1, date2, Sample, Code]
 ---

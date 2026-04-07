@@ -5,7 +5,7 @@ topic: cross-domain-xhr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.349Z
+lastCollected: 2026-04-07T09:05:04.330Z
 estimatedTokens: 548
 keywords: [Cross-Domain, XHR, Canvas, apps, loaded, Salesforce, iFrame, app, own, domain, can't, XML, HTTP, calls, back]
 ---

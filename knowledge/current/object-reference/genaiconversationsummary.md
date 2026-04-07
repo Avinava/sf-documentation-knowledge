@@ -5,7 +5,7 @@ topic: genaiconversationsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.901Z
+lastCollected: 2026-04-07T09:04:42.216Z
 estimatedTokens: 1056
 keywords: [GenAIConversationSummary, generated, summary, voice, video, call, API, version, 60.0, later, Calls, Special, Access, Rules, Associated]
 ---

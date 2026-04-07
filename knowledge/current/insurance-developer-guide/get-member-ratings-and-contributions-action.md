@@ -5,8 +5,8 @@ topic: get-member-ratings-and-contributions-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.648Z
-estimatedTokens: 524
+lastCollected: 2026-04-07T09:04:00.120Z
+estimatedTokens: 523
 keywords: [Member, Ratings, Contributions, Action, standard, prorated, insurance, rates, group, census, members, their, selected, plan, coverages]
 ---
 
@@ -27,7 +27,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/getMbrsRatingAndContribution
+/services/data/v/actions/standard/getMbrsRatingAndContribution
 
 Formats
 

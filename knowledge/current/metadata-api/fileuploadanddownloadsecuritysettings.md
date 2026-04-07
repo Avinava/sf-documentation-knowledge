@@ -5,7 +5,7 @@ topic: fileuploadanddownloadsecuritysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:06.829Z
+lastCollected: 2026-04-07T09:02:40.638Z
 estimatedTokens: 718
 keywords: [FileUploadAndDownloadSecuritySettings, security, settings, uploading, downloading, files, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---

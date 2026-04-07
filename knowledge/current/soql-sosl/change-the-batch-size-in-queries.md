@@ -5,7 +5,7 @@ topic: change-the-batch-size-in-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.505Z
+lastCollected: 2026-04-07T09:06:14.814Z
 estimatedTokens: 452
 keywords: [Change, Batch, Size, Queries, query, determines, number, rows, results, that’s, made, REST, API, SOAP, WSC]
 ---

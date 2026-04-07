@@ -5,7 +5,7 @@ topic: distribute-energy-attribute-certificate-credits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.227Z
+lastCollected: 2026-04-07T09:04:25.593Z
 estimatedTokens: 761
 keywords: [Distribute, Energy, Attribute, Certificate, Credits, Action, Claim, renewable, electricity, usage, stationary, asset, records, assists, sustainability]
 ---

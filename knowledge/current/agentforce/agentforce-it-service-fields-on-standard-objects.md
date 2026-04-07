@@ -5,7 +5,7 @@ topic: agentforce-it-service-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.898Z
+lastCollected: 2026-04-07T09:02:09.945Z
 estimatedTokens: 319
 keywords: [Agentforce, Service, Standard, Objects, adds, Salesforce, represent, specific, issues, requests, orgs, enabled]
 ---

@@ -5,8 +5,8 @@ topic: insurancepolicytransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.763Z
-estimatedTokens: 1554
+lastCollected: 2026-04-07T09:03:50.107Z
+estimatedTokens: 1723
 keywords: [InsurancePolicyTransaction, transaction, change, affects, premium, insurance, policy, endorsement, renewal, cancellation, API, version, 51.0, later, Calls]
 ---
 
@@ -28,7 +28,9 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 | Field | Details |
 | --- | --- |
+| BillingStatus | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe status of the billing transaction.Possible values are:BillingError—Billing ErrorSentToBilling—Sent To BillingUnbilled |
 | Category | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the transaction category for the insurance policy.Possible values are:CancellationEndorsementIssuanceReinstatementRenewal |
+| CommissionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe commission amount associated with this policy transaction. |
 | EffectiveFromDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date from when the transaction becomes effective. |
 | InsurancePolicyId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe insurance policy this transaction is related to. |
 | InsurancePolicyVersionId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe current version of the insurance policy. |
@@ -37,6 +39,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the transaction. |
 | ParentTransactionId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe transaction this insurance policy transaction is related to. For example, a charge transaction is the parent transaction for a payment made against that charge. |
 | PostedDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date when the customer was charged for the insurance policy. |
+| PriorTransactionId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reference transaction to which the current transaction is linked.This field is a relationship field.Relationship NamePriorTransactionRefers ToInsurancePolicyTransaction |
 | Status | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe current status of a policy transaction.Possible values are:ApprovedPendingReversed |
 | TotalTransactionAmount | TypecurrencyPropertiesFilter, Nillable, SortDescriptionThe total amount of transaction, including transaction fee and tax.This is a calculated field. |
 | TransactionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe transaction amount. |

@@ -5,7 +5,7 @@ topic: cgcsyncsynchistorydetailc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.707Z
+lastCollected: 2026-04-07T09:05:18.880Z
 estimatedTokens: 545
 keywords: [cgc_sync__Sync_History_Detail__c, detailed, sync, history, records, API, version, 53.0, later, cgc, _sync, _History, _Detail, Calls]
 ---

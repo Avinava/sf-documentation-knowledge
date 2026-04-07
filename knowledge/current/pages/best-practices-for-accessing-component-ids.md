@@ -6,7 +6,7 @@ topic: best-practices-for-accessing-component-ids
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:21.860Z
+lastCollected: 2026-04-07T09:04:56.629Z
 estimatedTokens: 879
 keywords: [Best, Practices, Accessing, Component, IDs, refer, Visualforce, JavaScript, another, Web-enabled, language, specify, attribute, DOM, constructed]
 ---

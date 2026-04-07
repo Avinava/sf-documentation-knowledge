@@ -5,7 +5,7 @@ topic: fhir-contact-point-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.981Z
+lastCollected: 2026-04-07T09:03:52.761Z
 estimatedTokens: 356
 keywords: [FHIR, Contact, Point, Input, representation, ContactPoint]
 ---

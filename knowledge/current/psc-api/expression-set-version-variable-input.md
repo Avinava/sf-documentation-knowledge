@@ -5,7 +5,7 @@ topic: expression-set-version-variable-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.112Z
+lastCollected: 2026-04-07T09:05:08.162Z
 estimatedTokens: 476
 keywords: [Expression, Version, Variable, Input, representation]
 ---

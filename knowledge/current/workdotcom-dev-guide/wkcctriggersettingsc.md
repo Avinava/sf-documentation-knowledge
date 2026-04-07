@@ -5,7 +5,7 @@ topic: wkcctriggersettingsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.440Z
+lastCollected: 2026-04-07T09:06:19.108Z
 estimatedTokens: 707
 keywords: [wkcc__TriggerSettings__c, current, state, data, triggers, Employee, Location, Work.com, objects, orgs, installed, wkcc, _TriggerSettings, Calls]
 ---

@@ -5,7 +5,7 @@ topic: commitments-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.889Z
+lastCollected: 2026-04-07T09:03:42.152Z
 estimatedTokens: 812
 keywords: [Commitments, PATCH, Modify, data, schedule, campaign, outreach, source, code, donor, payment, instrument, active, gift, commitment]
 ---
@@ -87,7 +87,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect​/fundraising/commitments/6gc0000AbCdZF9q
+https://yourInstance.salesforce.com/services/data/v/connect​/fundraising/commitments/6gc0000AbCdZF9q
 ```
 
 ```

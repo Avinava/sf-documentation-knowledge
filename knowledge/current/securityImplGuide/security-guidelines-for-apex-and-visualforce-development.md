@@ -6,7 +6,7 @@ topic: security-guidelines-for-apex-and-visualforce-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:45.066Z
+lastCollected: 2026-04-07T09:05:28.926Z
 estimatedTokens: 3724
 keywords: [Security, Guidelines, Apex, Visualforce, Development, Understand, guard, against, vulnerabilities, code, develop, custom, applications, Understanding, Cross-Site]
 ---

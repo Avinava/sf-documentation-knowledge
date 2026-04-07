@@ -5,7 +5,7 @@ topic: promotion-cart-delivery-group-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:20.651Z
+lastCollected: 2026-04-07T09:03:35.176Z
 estimatedTokens: 215
 keywords: [Promotion, Cart, Delivery, Group]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudtactictemplatecondcreationdefc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:40.139Z
+lastCollected: 2026-04-07T09:05:21.761Z
 estimatedTokens: 1098
 keywords: [configuration, condition, creation, definitions, generated, tactic, API, version, 55.0, later, cgcloud, _Tactic, _Template, _Cond, _Creation]
 ---

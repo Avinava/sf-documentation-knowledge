@@ -5,7 +5,7 @@ topic: customer-engagement-metadata-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.667Z
+lastCollected: 2026-04-07T09:04:07.653Z
 estimatedTokens: 106
 keywords: [Customer, Engagement, Metadata, API, access, feature, settings, Life, Sciences, Cloud, customize, user]
 ---

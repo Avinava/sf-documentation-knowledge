@@ -5,7 +5,7 @@ topic: cgcloudvalidationrulessettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:40.393Z
+lastCollected: 2026-04-07T09:05:22.032Z
 estimatedTokens: 858
 keywords: [cgcloud__Validation_Rules_Setting__c, Custom, setting, manages, various, validation, rules, granting, bypass, access, API, version, 54.0, later, cgcloud]
 ---

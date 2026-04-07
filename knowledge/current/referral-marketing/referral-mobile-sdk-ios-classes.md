@@ -5,7 +5,7 @@ topic: referral-mobile-sdk-ios-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.019Z
+lastCollected: 2026-04-07T09:05:16.440Z
 estimatedTokens: 167
 keywords: [Referral, Mobile, SDK, iOS, Classes, organize, SDK’s, functionality, data, structures, developing, apps, provide, components, services]
 ---

@@ -5,7 +5,7 @@ topic: bucket-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.694Z
+lastCollected: 2026-04-07T09:05:25.329Z
 estimatedTokens: 104
 keywords: [Bucket, version, recipe]
 ---

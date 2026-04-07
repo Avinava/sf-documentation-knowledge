@@ -5,7 +5,7 @@ topic: knowledgearticlerenderertoolbar
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.648Z
+lastCollected: 2026-04-07T09:04:57.751Z
 estimatedTokens: 295
 keywords: [knowledge, articleRendererToolbar, Displays, toolbar, article, includes, voting, stars, Chatter, feed, language, picklist, panel, Ext, versions]
 ---

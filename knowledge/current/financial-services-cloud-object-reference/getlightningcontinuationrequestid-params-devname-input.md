@@ -6,7 +6,7 @@ topic: getlightningcontinuationrequestid-params-devname-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:27.955Z
+lastCollected: 2026-04-07T09:03:46.471Z
 estimatedTokens: 345
 keywords: [getLightningContinuation, requestId, params, devName, input, Continuation, provider, defined, Integration, Definition, record, referenced, Usage]
 ---

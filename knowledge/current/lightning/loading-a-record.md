@@ -5,7 +5,7 @@ topic: loading-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.735Z
+lastCollected: 2026-04-07T09:04:13.787Z
 estimatedTokens: 1682
 keywords: [Loading, Record, accomplished, entirely, markup, lightning, recordForm, custom, layout, recordViewForm, customization, form-based, components, allow, viewing]
 ---

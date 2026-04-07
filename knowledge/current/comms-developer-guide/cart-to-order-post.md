@@ -5,7 +5,7 @@ topic: cart-to-order-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.044Z
+lastCollected: 2026-04-07T09:03:39.209Z
 estimatedTokens: 213
 keywords: [Cart, Order, POST, creation, items, present, generated, entire, whole, rather, individual]
 ---
@@ -51,7 +51,7 @@ Request parameters for POST
 
 #### Note
 
-: Both cartId and contextId are supported. At least one of these inputs must be provided. If both are supplied, cartId will take precedence.
+Both cartId and contextId are supported. At least one of these inputs must be provided. If both are supplied, cartId will take precedence.
 
 Request body for POST
 

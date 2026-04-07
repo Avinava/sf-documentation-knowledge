@@ -5,7 +5,7 @@ topic: issecure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.652Z
+lastCollected: 2026-04-07T09:04:56.292Z
 estimatedTokens: 44
 keywords: [isSecure, cookie, accessed, HTTPS, otherwise]
 ---

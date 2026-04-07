@@ -5,7 +5,7 @@ topic: collabdocumentmetricrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.555Z
+lastCollected: 2026-04-07T09:04:36.987Z
 estimatedTokens: 292
 keywords: [CollabDocumentMetricRecord, association, CollabDocumentMetric, Salesforce, record.It, tracks, record, Account, Contact, linked, Quip, thread, metrics, were, gathered]
 ---

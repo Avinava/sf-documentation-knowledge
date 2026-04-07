@@ -5,7 +5,7 @@ topic: picklistsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:08.886Z
+lastCollected: 2026-04-07T09:02:42.879Z
 estimatedTokens: 651
 keywords: [PicklistSettings, org’s, picklist, settings, control, behavior, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---

@@ -5,7 +5,7 @@ topic: biometricsservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.873Z
+lastCollected: 2026-04-07T09:04:25.155Z
 estimatedTokens: 195
 keywords: [BiometricsService, Here’s, basic, Lightning, web, component, uses, device’s, biometrics, capabilities, verify, device, ownership]
 ---

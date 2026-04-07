@@ -5,7 +5,7 @@ topic: connectapiengagementinteractionfetchoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:47.819Z
+lastCollected: 2026-04-07T09:02:50.378Z
 estimatedTokens: 108
 keywords: [Output, representation, fetch, engagement, interaction, record, along, status]
 ---

@@ -5,7 +5,7 @@ topic: authenticate-with-a-connected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.031Z
+lastCollected: 2026-04-07T09:05:27.433Z
 estimatedTokens: 332
 keywords: [Authenticate, Connected, App, OAuth, access, token, authentication, secure, way, SOAP, REST, API, calls, Salesforce, Scheduler, step, API-based, integration, connect]
 ---

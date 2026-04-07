@@ -5,7 +5,7 @@ topic: insurance-eligible-product-clauses-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.195Z
+lastCollected: 2026-04-07T09:04:02.662Z
 estimatedTokens: 264
 keywords: [Insurance, Eligible, Product, Clauses, POST, quoteId, contextId]
 ---
@@ -67,7 +67,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/product-clauses/eligible-product-clauses
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/product-clauses/eligible-product-clauses
 ```
 
 ```

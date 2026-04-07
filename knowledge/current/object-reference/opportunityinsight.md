@@ -5,8 +5,8 @@ topic: opportunityinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.535Z
-estimatedTokens: 1035
+lastCollected: 2026-04-07T09:04:45.294Z
+estimatedTokens: 1028
 keywords: [OpportunityInsight, individual, insight, deal, prediction, follow-up, reminder, key, moment, opportunity, record, Calls, Special, Access, Rules]
 ---
 
@@ -40,8 +40,8 @@ To see an insight related to a specific opportunity, users need a Sales Cloud Ei
 | Division | TypepicklistPropertiesDefaulted on create, Filter, Group, Restricted picklist, SortDescriptionThe division of the related record. |
 | ExpectedHeardWithinDays | TypeintPropertiesFilter, Group, Nillable, SortDescriptionThe expected number of days it takes to hear back from a prospect for insights of type Prospect has not responded and No communication. |
 | LastHeard | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date when the related prospect was last heard from for insights of type Prospect has not responded. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OpportunityId | TypereferencePropertiesFilter, Group, SortDescriptionThe ID of the related opportunity record. |
 | Rationale | TypestringPropertiesFilter, Group, NillableDescriptionThe explanation for an insight, providing more background information and details that are specific to the org. |
 | Reason | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe reason why a specific insight type is appearing. Relevant to the following insights:Opportunity is unlikely to close in timeOpportunity slowingOpportunity boostingTime-consuming opportunity |

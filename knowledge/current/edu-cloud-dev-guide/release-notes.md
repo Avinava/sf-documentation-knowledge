@@ -5,7 +5,7 @@ topic: release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:25.166Z
+lastCollected: 2026-04-07T09:03:42.706Z
 estimatedTokens: 46
 keywords: [Release, Notes, View, latest, features, Education, Cloud]
 ---

@@ -5,8 +5,8 @@ topic: botdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.597Z
-estimatedTokens: 401
+lastCollected: 2026-04-07T09:04:35.804Z
+estimatedTokens: 407
 keywords: [BotDefinition, top, level, Einstein, Bots, Agentforce, Agents, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---
 
@@ -31,7 +31,7 @@ To access this object, Agents must be enabled in your org.
 
 | Field | Details |
 | --- | --- |
-| AgentTemplate | TypestringPropertiesFilter, Group, Nillable, SortDescriptionIf this BotDefinition represents an agent, this field represents the name of the agent template used to create it. |
+| AgentTemplate | TypestringPropertiesFilter, Group, Nillable, SortDescriptionIf this BotDefinition represents an agent, this field represents the name of the agent template or legacy agent template used to create it. |
 | AgentType | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe agent type. For example, Agentforce Service Agent (ASA) or Agentforce Employee Agent (AEA). |
 | BotUserId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe user ID associated with the bot definition.Relationship NameBotUserRefers ToUser |
 | Description | TypetextareaPropertiesFilter, Nillable, SortDescriptionA description for the bot or agent. |

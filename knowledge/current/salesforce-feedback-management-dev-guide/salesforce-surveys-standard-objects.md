@@ -5,7 +5,7 @@ topic: salesforce-surveys-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.592Z
+lastCollected: 2026-04-07T09:05:23.579Z
 estimatedTokens: 1055
 keywords: [Salesforce, Surveys, Standard, Objects, Feedback, Management, SFM, access, suite, Setup, tabs, work, core, features]
 ---

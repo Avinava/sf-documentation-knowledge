@@ -5,7 +5,7 @@ topic: endorse-multi-root-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.777Z
+lastCollected: 2026-04-07T09:04:03.613Z
 estimatedTokens: 1003
 keywords: [Endorse, Multi-Root, Policy, Modifies, active, insurance, creating, new, versions, parent, child, policies, regardless, changed, resulting, Perform, mid-term, adjustment, pricing, handled]
 ---

@@ -5,7 +5,7 @@ topic: secure-coding-websockets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.550Z
+lastCollected: 2026-04-07T09:05:28.151Z
 estimatedTokens: 694
 keywords: [Secure, Coding, WebSockets, WebSocket, full, duplex, communication, protocol, introduced, HTML5, allowing, real-time, data, exchange, web]
 ---

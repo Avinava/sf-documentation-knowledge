@@ -5,7 +5,7 @@ topic: filtering-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.024Z
+lastCollected: 2026-04-07T09:04:55.140Z
 estimatedTokens: 331
 keywords: [Filtering, AppExchange, Marketplace, Analytics, Apply, filters, focus, relevant, data, activity, summary, visualizations, Local, individual, visualization]
 ---

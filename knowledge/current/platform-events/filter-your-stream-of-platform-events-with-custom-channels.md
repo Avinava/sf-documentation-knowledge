@@ -5,7 +5,7 @@ topic: filter-your-stream-of-platform-events-with-custom-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.819Z
+lastCollected: 2026-04-07T09:05:05.143Z
 estimatedTokens: 895
 keywords: [Filter, Stream, Platform, Events, Custom, Channels, Receive, event, messages, match, predefined, channel, configure, expression, Subscribers]
 ---

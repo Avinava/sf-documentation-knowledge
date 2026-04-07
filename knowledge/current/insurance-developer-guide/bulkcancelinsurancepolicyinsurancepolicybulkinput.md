@@ -5,7 +5,7 @@ topic: bulkcancelinsurancepolicyinsurancepolicybulkinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.811Z
+lastCollected: 2026-04-07T09:04:00.353Z
 estimatedTokens: 386
 keywords: [bulkCancelInsurancePolicy, insurancePolicyBulkInput, Cancel, policies, bulk, Insurance, Policy, IDs, API, Version, Requires, Chatter, Usage]
 ---

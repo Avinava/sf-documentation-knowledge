@@ -5,7 +5,7 @@ topic: patientmedicalproceduredetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.532Z
+lastCollected: 2026-04-07T09:03:54.956Z
 estimatedTokens: 1172
 keywords: [PatientMedicalProcedureDetail, Associates, records, different, objects, patient, medical, procedure, record, add, multi-object, junction, API, version, 51.0]
 ---

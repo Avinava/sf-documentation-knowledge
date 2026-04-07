@@ -5,7 +5,7 @@ topic: lens-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.766Z
+lastCollected: 2026-04-07T09:03:09.772Z
 estimatedTokens: 425
 keywords: [Lens, Resource, deletes, updates, API, URL, Formats, Version, Postman, Components, HTTP, PATCH]
 ---

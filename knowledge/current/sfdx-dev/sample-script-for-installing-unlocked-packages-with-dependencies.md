@@ -5,7 +5,7 @@ topic: sample-script-for-installing-unlocked-packages-with-dependencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.789Z
+lastCollected: 2026-04-07T09:06:13.831Z
 estimatedTokens: 126
 keywords: [Sample, Script, Installing, Unlocked, Packages, Dependencies, basis, own, install, query, finds, dependent, installs, correct, dependency]
 ---

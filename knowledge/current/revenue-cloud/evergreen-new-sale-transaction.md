@@ -5,7 +5,7 @@ topic: evergreen-new-sale-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-05T00:23:16.446Z
+lastCollected: 2026-04-07T09:01:57.882Z
 estimatedTokens: 3593
 keywords: [Evergreen, New, Sale, Transaction, Understand, key, considerations, billing, schedule, selling, model]
 ---

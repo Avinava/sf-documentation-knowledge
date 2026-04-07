@@ -5,7 +5,7 @@ topic: external-document-creation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.495Z
+lastCollected: 2026-04-07T09:03:38.289Z
 estimatedTokens: 167
 keywords: [External, Document, Creation, Output, representation]
 ---

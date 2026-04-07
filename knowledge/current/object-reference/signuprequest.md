@@ -5,7 +5,7 @@ topic: signuprequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:17.185Z
+lastCollected: 2026-04-07T09:04:49.662Z
 estimatedTokens: 3123
 keywords: [SignupRequest, new, sign-up, isn’t, sandbox, instances, result, error, API, version, 27.0, later, Calls, Usage, Codes]
 ---

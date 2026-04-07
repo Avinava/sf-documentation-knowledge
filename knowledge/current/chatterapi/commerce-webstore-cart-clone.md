@@ -5,7 +5,7 @@ topic: commerce-webstore-cart-clone
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.192Z
+lastCollected: 2026-04-07T09:03:25.305Z
 estimatedTokens: 252
 keywords: [Commerce, Webstore, Cart, Clone, Clones, secondary, read-only, support, Pay, Now, functionality, guest, status, PendingDelete, B2B]
 ---

@@ -5,7 +5,7 @@ topic: invite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.230Z
+lastCollected: 2026-04-07T09:03:32.763Z
 estimatedTokens: 260
 keywords: [Invite, invitation]
 ---

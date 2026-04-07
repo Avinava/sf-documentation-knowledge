@@ -5,9 +5,9 @@ topic: actionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.929Z
+lastCollected: 2026-04-07T09:04:08.051Z
 estimatedTokens: 927
-keywords: [ActionPlan, Life, Sciences, Cloud, extend, standard, represent, instance, action, plan, Calls, Associated, Objects]
+keywords: [ActionPlan, Life, Sciences, Cloud, extend, standard, represent, instance, action, plan, Calls, Associated, Objects, Standard, custom, compliance, program, assigned, account]
 ---
 
 # ActionPlan

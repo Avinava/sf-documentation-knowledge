@@ -5,8 +5,8 @@ topic: list-view-supported-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.116Z
-estimatedTokens: 5553
+lastCollected: 2026-04-07T09:06:15.632Z
+estimatedTokens: 5549
 keywords: [View, Objects, views, support, subset, standard, User, API, supports]
 ---
 
@@ -283,7 +283,6 @@ As of Summer ’23, all new standard objects are auto-enabled for UI API usage. 
 -   ContactProfile
 -   ContactRequest
 -   ContentDocument
--   ContentNote
 -   ContentVersion
 -   Contract
 -   ContractDocumentVersion

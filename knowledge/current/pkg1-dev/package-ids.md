@@ -5,7 +5,7 @@ topic: package-ids
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.705Z
+lastCollected: 2026-04-07T09:05:02.051Z
 estimatedTokens: 152
 keywords: [Package, IDs, work, packages, CLI, refer, either, unique, version]
 ---

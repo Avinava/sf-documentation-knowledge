@@ -5,8 +5,8 @@ topic: oauthtoken
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.313Z
-estimatedTokens: 1017
+lastCollected: 2026-04-07T09:04:45.001Z
+estimatedTokens: 1144
 keywords: [OauthToken, OAuth, access, token, connected, app, authentication, user, management, API, version, 32.0, later, Calls, Special]
 ---
 
@@ -56,10 +56,16 @@ To avoid this error, execute DML operations and queries in separate, asynchronou
 
 To delete an AccessToken, send a request to the revoke OAuth token endpoint with the DeleteToken as the parameter. For example, the URL https://MyDomainName.my.salesforce.com/services/oauth2/revoke?token=(the Delete Token) causes the deletion of the token.
 
-In API version 34.0 and later, this object was enhanced to help manage high instance counts. A query() call returns up to 500 rows. A queryMore() call returns 500 more, up to 2500 total. No more records are returned after 2500. To make sure that you don’t miss any records, issue a COUNT() query in a SELECT clause for OauthToken. This query gives you the total number of records. If there are more than 2500 records, use these options to manage your results.
+In API version 34.0 and later, this object was enhanced to help manage high instance counts. A query() call returns up to 500 rows. A queryMore() call returns 500 more, up to 2,500 total. No more records are returned after 2,500. To make sure that you don’t miss any records, issue a COUNT() query in a SELECT clause for OauthToken. This query gives you the total number of records. If there are more than 2,500 records, use these options to manage your results.
 
--   Divide queries by filtering on fields like UserId to return subsets of less than 2500 records.
--   Use OFFSET to get batches of 2500 records. Start with an OFFSET of 0 and then increment by 2500. If you use this option, we recommend that you also use LIMIT to limit each query to 2500.
+-   Divide queries by filtering on fields like UserId to return subsets of less than 2,500 records.
+-   Use [OFFSET](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_offset.htm) to get batches of 2,000 records. Start with an OFFSET of 0 and then increment by 2,000. If you use this option, we recommend that you also use [LIMIT](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_limit.htm) to limit each query to 2,000.
+
+    ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=object_reference)
+
+    #### Note
+
+    The OFFSET clause is limited to 2,000 rows. Requesting an offset greater than 2,000 results in a NUMBER\_OUTSIDE\_VALID\_RANGE error.
 
     For example, use an initial query with this structure.
 
@@ -67,13 +73,13 @@ In API version 34.0 and later, this object was enhanced to help manage high inst
 
     ```
 
-    Then, run another query with an offset of 2500.
+    Then, run another query with an offset of 2,000.
 
     ```
 
     ```
 
-    Continue to increase the offset by 2500 until you have results for all records.
+    Continue to increase the offset by 2,000 until you have results for all records.
 
 ## Code Examples
 
@@ -83,9 +89,9 @@ Commit or roll back the work, and then try again.
 ```
 
 ```
-SELECT <desired fields> FROM OauthToken LIMIT 2500 OFFSET 0
+SELECT <desired fields> FROM OauthToken LIMIT 2000 OFFSET 0
 ```
 
 ```
-SELECT <desired fields> FROM OauthToken LIMIT 2500 OFFSET 2500
+SELECT <desired fields> FROM OauthToken LIMIT 2000 OFFSET 2000
 ```

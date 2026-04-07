@@ -5,7 +5,7 @@ topic: callable-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.980Z
+lastCollected: 2026-04-07T09:02:27.934Z
 estimatedTokens: 794
 namespace: System
 keywords: [Callable, developers, common, build, loosely, coupled, integrations, Apex, classes, triggers, code, separate, packages, Agreeing, upon]

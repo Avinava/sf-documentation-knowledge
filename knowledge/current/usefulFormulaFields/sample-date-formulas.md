@@ -5,7 +5,7 @@ topic: sample-date-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.232Z
+lastCollected: 2026-04-07T09:06:17.281Z
 estimatedTokens: 2369
 keywords: [Sample, Date, Formulas, topic, manipulate, perform, calculations, time, Day, Month, Year, Leap, Quarter, Week, Whether]
 ---

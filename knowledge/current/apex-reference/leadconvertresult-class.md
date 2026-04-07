@@ -5,8 +5,8 @@ topic: leadconvertresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:22.876Z
-estimatedTokens: 1234
+lastCollected: 2026-04-07T09:02:17.261Z
+estimatedTokens: 1235
 namespace: Database
 keywords: [LeadConvertResult, result, lead, conversion, Usage, getAccountId, getContactId, getErrors, getLeadId, getOpportunityId, getRelatedPersonAccountId, isSuccess]
 ---
@@ -43,7 +43,7 @@ The following are methods for LeadConvertResult. All are instance methods.
     The ID of the converted lead.
 -   **[getOpportunityId()](atlas.en-us.apexref.meta/apexref/apex_class_database_leadconvertresult.htm#apex_Database_LeadConvertResult_getOpportunityId)**
     The ID of the new opportunity, if one was created when convertLead was invoked.
--   **[getRelatedPersonAccountId()](atlas.en-us.apexref.meta/apexref/apex_class_database_leadconvertresult.htm#unique_577896156)**
+-   **[getRelatedPersonAccountId()](atlas.en-us.apexref.meta/apexref/apex_class_database_leadconvertresult.htm#unique_2035675455)**
     The ID of the new or existing person account specified when convertLead was invoked.
 -   **[isSuccess()](atlas.en-us.apexref.meta/apexref/apex_class_database_leadconvertresult.htm#apex_Database_LeadConvertResult_isSuccess)**
     A Boolean value that is set to true if the DML operation was successful for this object, false otherwise

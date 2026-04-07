@@ -5,7 +5,7 @@ topic: recordsetfltrcritmonitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.074Z
+lastCollected: 2026-04-07T09:04:48.208Z
 estimatedTokens: 1026
 keywords: [RecordsetFltrCritMonitor, Monitors, whether, asset, attribute, threshold, recordset, filter, criteria, RFC, monitor, RFCs, API, version, 57.0]
 ---

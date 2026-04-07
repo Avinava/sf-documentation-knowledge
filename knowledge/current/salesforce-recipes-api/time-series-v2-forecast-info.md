@@ -5,7 +5,7 @@ topic: time-series-v2-forecast-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.044Z
+lastCollected: 2026-04-07T09:05:25.993Z
 estimatedTokens: 136
 keywords: [Time, Series, Forecast, Info, version, node, recipe]
 ---

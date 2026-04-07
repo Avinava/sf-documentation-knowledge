@@ -5,7 +5,7 @@ topic: theme
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.167Z
+lastCollected: 2026-04-07T09:06:17.200Z
 estimatedTokens: 544
 keywords: [Theme, images, banners, display, across, top, higher, aspect, ratio]
 ---

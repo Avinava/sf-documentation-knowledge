@@ -5,7 +5,7 @@ topic: customize-the-android-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.175Z
+lastCollected: 2026-04-07T09:04:18.727Z
 estimatedTokens: 638
 keywords: [Customize, Android, SDK, build, Loyalty, Management, Mobile, colors, fonts, strings]
 ---

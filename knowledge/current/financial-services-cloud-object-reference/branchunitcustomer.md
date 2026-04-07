@@ -5,7 +5,7 @@ topic: branchunitcustomer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.619Z
+lastCollected: 2026-04-07T09:03:48.737Z
 estimatedTokens: 800
 keywords: [BranchUnitCustomer, customer, account, assigned, attributed, branch, unit, API, version, 5`.0, later, Calls, Associated, Objects]
 ---

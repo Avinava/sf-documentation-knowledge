@@ -5,7 +5,7 @@ topic: cgcloudrtrreportconfigurationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.816Z
+lastCollected: 2026-04-07T09:05:21.395Z
 estimatedTokens: 1130
 keywords: [cgcloud__RTR_Report_Configuration__c, Real, Time, Report, RTR, Configurations, record, data, that's, loaded, how, shown, declarative, manner, API]
 ---

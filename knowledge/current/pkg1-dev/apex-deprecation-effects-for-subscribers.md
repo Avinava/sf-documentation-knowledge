@@ -5,7 +5,7 @@ topic: apex-deprecation-effects-for-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.546Z
+lastCollected: 2026-04-07T09:05:01.815Z
 estimatedTokens: 373
 keywords: [Apex, Deprecation, Effects, Subscribers, Explore, how, impacts, install, managed, package]
 ---

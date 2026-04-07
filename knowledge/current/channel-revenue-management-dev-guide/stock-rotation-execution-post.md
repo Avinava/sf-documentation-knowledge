@@ -5,7 +5,7 @@ topic: stock-rotation-execution-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.896Z
+lastCollected: 2026-04-07T09:03:19.103Z
 estimatedTokens: 348
 keywords: [Stock, Rotation, Execution, POST, Performs, action, line, items, filters]
 ---

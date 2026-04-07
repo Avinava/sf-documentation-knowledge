@@ -5,8 +5,8 @@ topic: standardobjectnamefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.712Z
-estimatedTokens: 2097
+lastCollected: 2026-04-07T09:05:12.317Z
+estimatedTokens: 2091
 keywords: [StandardObjectNameFeed, model, feed, objects, associated, standard, represent, posts, feed-tracked, changes, Calls, Special, Access, Rules, Usage]
 ---
 
@@ -56,7 +56,7 @@ For more special access rules, if any, see the documentation for the standard ob
 | CommentCount | TypeintPropertiesFilter, Group, SortDescriptionThe number of comments associated with this feed item. |
 | ConnectionId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionWhen a PartnerNetworkConnection modifies a record that is tracked, the CreatedBy field contains the ID of the system administrator. The ConnectionId contains the ID of the PartnerNetworkConnection. Available if Salesforce to Salesforce is enabled for your organization. |
 | InsertedById | TypereferencePropertiesGroup, Nillable, SortDescriptionID of the user who added this item to the feed. For example, if an application migrates posts and comments from another application into a feed, the InsertedBy value is set to the ID of the context user. |
-| isRichText | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the feed item Body contains rich text. If you post a rich text feed comment using SOAP API, set IsRichText to true and escape HTML entities from the body. Otherwise, the post is rendered as plain text.Rich text supports the following HTML tags:<p>TipThough the <br> tag isn’t supported, you can use <p>&nbsp;</p> to create lines.<a><b><code><i><u><s><ul><ol><li><img>The <img> tag is accessible only through the API and must reference files in Salesforce similar to this example: <img src="sfdc://069B0000000omjh"></img>NoteIn API version 35.0 and later, the system replaces special characters in rich text with escaped HTML. In API version 34.0 and prior, all rich text appears as a plain-text representation. |
+| isRichText | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the feed item Body contains rich text. If you post a rich text feed comment using SOAP API, set IsRichText to true and escape HTML entities from the body. Otherwise, the post is rendered as plain text.Rich text supports the following HTML tags:<p>Though the <br> tag isn’t supported, you can use <p>&nbsp;</p><a><b><code><i><u><s><ul><ol><li><img>The <img> tag is accessible only through the API and must reference files in Salesforce similar to this example: <img src="sfdc://069B0000000omjh"></img>In API version 35.0 and later, the system replaces special characters in rich text with escaped HTML. In API version 34.0 and prior, all rich text appears as a plain-text representation. |
 | LikeCount | TypeintPropertiesFilter, Group, SortDescriptionThe number of likes associated with this feed item. |
 | LinkUrl | TypeurlPropertiesNillable, SortDescriptionThe URL of a LinkPost. |
 | NetworkScope | TypepicklistPropertiesGroup, Nillable, Restricted picklist, SortDescriptionSpecifies whether this feed item is available in the default Experience Cloud site, a specific Experience Cloud site, or all sites. This field is available in API version 26.0 and later, if digital experiences is enabled for your org.NetworkScope can have the following values:NetworkId—The ID of the Experience Cloud site in which the FeedItem is available. If left empty, the feed item is only available in the default Experience Cloud site.AllNetworks—The feed item is available in all Experience Cloud sites.Note the following exceptions for NetworkScope:Only feed items with a Group or User parent can set a NetworkId or a null value for NetworkScope.For feed items with a record parent, users can set NetworkScope only to AllNetworks.You can’t filter a feed item on the NetworkScope field. |

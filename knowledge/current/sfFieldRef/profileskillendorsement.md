@@ -5,7 +5,7 @@ topic: profileskillendorsement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.218Z
+lastCollected: 2026-04-07T09:06:02.115Z
 estimatedTokens: 326
 keywords: [ProfileSkillEndorsement, detail, relationship, ProfileSkillUser, endorsement, profile, skill, approval, support, another, user’s, publicly, declared]
 ---

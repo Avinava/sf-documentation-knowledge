@@ -5,7 +5,7 @@ topic: for-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:45.312Z
+lastCollected: 2026-04-07T09:02:34.401Z
 estimatedTokens: 278
 keywords: [Loops, Curly, braces, around, code_block, block, statement]
 ---

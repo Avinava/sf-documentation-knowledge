@@ -5,7 +5,7 @@ topic: attributeadjustmentconditionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.912Z
+lastCollected: 2026-04-07T09:05:34.112Z
 estimatedTokens: 280
 keywords: [AttributeAdjustmentConditionHistory, History, tracked, AttributeAdjustmentCondition]
 ---

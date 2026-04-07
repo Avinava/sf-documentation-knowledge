@@ -5,7 +5,7 @@ topic: enblpgmtaskmeasureprogress
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.608Z
+lastCollected: 2026-04-07T09:04:39.577Z
 estimatedTokens: 795
 keywords: [EnblPgmTaskMeasureProgress, user’s, progress, requirements, Enablement, measure, outcome, milestone, program, API, version, 61.0, later, Calls, Special]
 ---

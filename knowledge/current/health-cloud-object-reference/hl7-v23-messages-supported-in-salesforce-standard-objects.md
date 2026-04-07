@@ -5,7 +5,7 @@ topic: hl7-v23-messages-supported-in-salesforce-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.708Z
+lastCollected: 2026-04-07T09:03:56.518Z
 estimatedTokens: 2141
 keywords: [HL7, v2.3, Messages, Salesforce, Standard, Objects, support, ADT, ORM, ORU, MDM, VXU, RDE, systems]
 ---

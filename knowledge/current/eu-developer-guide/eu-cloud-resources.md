@@ -5,7 +5,7 @@ topic: eu-cloud-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.009Z
+lastCollected: 2026-04-07T09:03:45.109Z
 estimatedTokens: 74
 keywords: [E&U, Cloud, Resources, Business, APIs, RESTful]
 ---

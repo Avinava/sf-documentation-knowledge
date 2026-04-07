@@ -5,7 +5,7 @@ topic: metadata-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.357Z
+lastCollected: 2026-04-07T09:05:27.917Z
 estimatedTokens: 181
 keywords: [Metadata, API, RestrictionRule, scoping, rules]
 ---

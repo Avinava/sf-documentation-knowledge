@@ -5,7 +5,7 @@ topic: configurator-updated-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.833Z
+lastCollected: 2026-04-07T09:01:58.118Z
 estimatedTokens: 151
 keywords: [Configurator, Updated, Node, Input, representation, nodes, product, configuration]
 ---

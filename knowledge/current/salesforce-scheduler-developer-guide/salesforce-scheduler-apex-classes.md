@@ -5,7 +5,7 @@ topic: salesforce-scheduler-apex-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.539Z
+lastCollected: 2026-04-07T09:05:26.748Z
 estimatedTokens: 550
 namespace: ConnectApi
 keywords: [Salesforce, Scheduler, Apex, Classes, ConnectApi, Connect, LxScheduler, accessing, data, Business, APIs]

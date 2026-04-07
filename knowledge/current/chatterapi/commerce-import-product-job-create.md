@@ -5,7 +5,7 @@ topic: commerce-import-product-job-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.047Z
+lastCollected: 2026-04-07T09:03:25.106Z
 estimatedTokens: 344
 keywords: [Commerce, Import, Product, Job, asynchronously, data, csv, file]
 ---

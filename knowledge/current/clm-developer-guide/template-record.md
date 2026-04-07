@@ -5,7 +5,7 @@ topic: template-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.563Z
+lastCollected: 2026-04-07T09:03:38.409Z
 estimatedTokens: 119
 keywords: [Template, Record]
 ---

@@ -5,7 +5,7 @@ topic: delete-components-from-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.752Z
+lastCollected: 2026-04-07T09:05:02.116Z
 estimatedTokens: 874
 keywords: [Components, First-Generation, Managed, Packages, you've, uploaded, Released, package, may, component, needs, deleted, packaging, org]
 ---

@@ -5,7 +5,7 @@ topic: create-components-for-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.704Z
+lastCollected: 2026-04-07T09:03:46.075Z
 estimatedTokens: 1164
 keywords: [Components, LWR, Sites, Lightning, web, component, folder, include, configuration, file, named, <component>.js-meta.xml, metadata, including, design]
 ---

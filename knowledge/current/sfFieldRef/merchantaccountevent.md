@@ -5,7 +5,7 @@ topic: merchantaccountevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.151Z
+lastCollected: 2026-04-07T09:05:54.272Z
 estimatedTokens: 290
 keywords: [MerchantAccountEvent, merchant, account, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered, API]
 ---

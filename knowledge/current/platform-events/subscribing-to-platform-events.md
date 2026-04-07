@@ -5,7 +5,7 @@ topic: subscribing-to-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.088Z
+lastCollected: 2026-04-07T09:05:05.485Z
 estimatedTokens: 1445
 keywords: [Subscribing, Platform, Events, Receive, processes, flows, Apex, triggers, Pub, Sub, API, CometD, clients]
 ---

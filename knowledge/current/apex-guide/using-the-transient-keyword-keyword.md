@@ -5,7 +5,7 @@ topic: using-the-transient-keyword-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.920Z
+lastCollected: 2026-04-07T09:02:31.323Z
 estimatedTokens: 608
 keywords: [transient, Keyword, Apex, classes, serializable, namely, controllers, controller, extensions, implement, Batchable, Schedulable, addition, define]
 ---

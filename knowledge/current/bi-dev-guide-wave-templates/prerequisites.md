@@ -5,7 +5,7 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.599Z
+lastCollected: 2026-04-07T09:03:15.968Z
 estimatedTokens: 1255
 namespace: Set
 keywords: [Prerequisites, Take, care, tasks, creating, CRM, Analytics, templates]

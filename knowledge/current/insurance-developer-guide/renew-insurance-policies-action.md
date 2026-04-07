@@ -5,8 +5,8 @@ topic: renew-insurance-policies-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.701Z
-estimatedTokens: 216
+lastCollected: 2026-04-07T09:04:00.204Z
+estimatedTokens: 215
 keywords: [Renew, Insurance, Policies, Action, Process, renewal, bulk, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -24,7 +24,7 @@ This action is available in API version 64.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/renewInsurancePolicies
+/services/data/v/actions/standard/renewInsurancePolicies
 
 Formats
 

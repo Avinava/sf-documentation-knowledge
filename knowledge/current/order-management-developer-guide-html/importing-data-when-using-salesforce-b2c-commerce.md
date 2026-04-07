@@ -5,7 +5,7 @@ topic: importing-data-when-using-salesforce-b2c-commerce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.140Z
+lastCollected: 2026-04-07T09:04:53.628Z
 estimatedTokens: 629
 keywords: [Importing, Data, Salesforce, B2C, Commerce, import, that’s, integration, product, shopper, keep, synchronized, Otherwise, can’t, recognize]
 ---

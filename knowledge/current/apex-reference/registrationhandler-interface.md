@@ -5,7 +5,7 @@ topic: registrationhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:42.429Z
+lastCollected: 2026-04-07T09:02:13.967Z
 estimatedTokens: 3484
 namespace: Auth
 keywords: [RegistrationHandler, Salesforce, ability, authentication, provider, Facebook©, Janrain©, sign-on, Usage, createUser, portalId, userData, updateUser, userId, Storing]

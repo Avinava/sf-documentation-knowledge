@@ -5,7 +5,7 @@ topic: surveyresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.577Z
+lastCollected: 2026-04-07T09:04:50.148Z
 estimatedTokens: 1710
 keywords: [SurveyResponse, participant’s, survey, status, location, completed, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: preface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.104Z
+lastCollected: 2026-04-07T09:05:26.103Z
 estimatedTokens: 295
 keywords: [Preface, you’re, Salesforce, architect, already, know, overarching, goal, data, security, Understand, company’s, enterprise, model, build]
 ---

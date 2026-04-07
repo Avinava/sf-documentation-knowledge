@@ -5,7 +5,7 @@ topic: feed-directory-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.660Z
+lastCollected: 2026-04-07T09:03:31.906Z
 estimatedTokens: 1058
 keywords: [Feed, Directory, Item, definition]
 ---

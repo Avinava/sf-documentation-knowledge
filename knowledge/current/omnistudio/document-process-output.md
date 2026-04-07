@@ -5,7 +5,7 @@ topic: document-process-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.127Z
+lastCollected: 2026-04-07T09:02:53.691Z
 estimatedTokens: 290
 keywords: [Document, Process, Output, representation, creation]
 ---

@@ -5,7 +5,7 @@ topic: add-a-trace-flag-entry-for-the-overridden-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.131Z
+lastCollected: 2026-04-07T09:05:05.552Z
 estimatedTokens: 221
 keywords: [Add, Trace, Flag, Entry, Overridden, User, collect, logs, Apex, trigger, whose, running, Setup]
 ---

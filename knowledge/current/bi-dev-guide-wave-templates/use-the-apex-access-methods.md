@@ -6,7 +6,7 @@ topic: use-the-apex-access-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.378Z
+lastCollected: 2026-04-07T09:03:15.549Z
 estimatedTokens: 406
 keywords: [Apex, Access, utility, check, Integration, User, sObjects, sObjectFields, WaveTemplateConfigurationModifier, implementation]
 ---

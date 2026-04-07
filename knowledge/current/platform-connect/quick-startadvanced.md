@@ -5,7 +5,7 @@ topic: quick-startadvanced
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.570Z
+lastCollected: 2026-04-07T09:05:04.718Z
 estimatedTokens: 1173
 keywords: [Quick, Start—Advanced, advanced, start, how, started, Canvas, features, step-by-step, process, creating, packaging, uploading, installing, running]
 ---

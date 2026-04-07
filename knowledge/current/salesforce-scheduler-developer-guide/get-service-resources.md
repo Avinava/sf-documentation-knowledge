@@ -5,7 +5,7 @@ topic: get-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.018Z
+lastCollected: 2026-04-07T09:05:27.413Z
 estimatedTokens: 453
 keywords: [Service, Resources, resource, employee, organization, loan, officer, investment, advisor, doctor, nurse, practitioner, retail, store, specialist, Retrieve, selected, work, group, territory]
 ---

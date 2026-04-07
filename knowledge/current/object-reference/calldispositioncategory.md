@@ -5,7 +5,7 @@ topic: calldispositioncategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:05.981Z
+lastCollected: 2026-04-07T09:04:36.274Z
 estimatedTokens: 424
 keywords: [CallDispositionCategory, call, outcome, phone, reports, branching, criteria, cadences, API, version, 47.0, later, Calls, Special, Access]
 ---

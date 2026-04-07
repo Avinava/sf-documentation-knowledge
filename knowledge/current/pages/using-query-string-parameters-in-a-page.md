@@ -5,7 +5,7 @@ topic: using-query-string-parameters-in-a-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.021Z
+lastCollected: 2026-04-07T09:04:59.795Z
 estimatedTokens: 178
 keywords: [Query, shown, earlier, examples, context—that, record, source, data, page—is, controlled, named, URL, Visualforce, markup]
 ---

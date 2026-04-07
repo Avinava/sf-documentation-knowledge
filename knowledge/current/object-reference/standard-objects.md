@@ -5,8 +5,8 @@ topic: standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:12.223Z
-estimatedTokens: 123604
+lastCollected: 2026-04-07T09:04:43.646Z
+estimatedTokens: 123845
 namespace: NamespaceRegistry
 keywords: [Standard, Objects, their, subset, appear, Manager]
 ---
@@ -337,7 +337,7 @@ To verify the complete list of fields for an object, use a describe call from th
 -   **[AsyncOperationLog](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_asyncoperationlog.htm)**
     Represents an async operations log containing progress and status information about external synchronizations to the Omnichannel Inventory service. This object is available in API version 51.0 and later.
 -   **[AsyncOperationTracker](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_asyncoperationtracker.htm)**
-    Represents the status of an asynchronous request initiated from the Quote, Order, and CreditMemo entities. This object is available in API version 61.0 and later.
+    Represents the status of an asynchronous request initiated from the Quote, Order, and CreditMemo objects. This object is available in API version 61.0 and later.
 -   **[AsyncOpSyndicationFeedFile](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_asyncopsyndicationfeedfile.htm)**
     Represents the sync status of file-related information shared with external channels such as Facebook and Instagram. This object is available in API version 64.0 and later.
 -   **[AttachedContentDocument](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_attachedcontentdocument.htm)**
@@ -1207,7 +1207,7 @@ To verify the complete list of fields for an object, use a describe call from th
 -   **[FeedAttachment](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_feedattachment.htm)**
     Represents an attachment to a feed item, such as a file attachment or a link. Use FeedAttachment to add various attachments to one feed item. This object is available in API version 36.0 and later.
 -   **[FeedComment](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_feedcomment.htm)**
-    Represents a comment added to a feed by a user.This object is available in API version 18.0 and later.
+    Represents a comment added to a feed by a user. This object is available in API version 18.0 and later.
 -   **[FeedItem](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_feeditem.htm)**
     FeedItem represents an entry in the feed, such as changes in a record feed, including text posts, link posts, and content posts. This object is available in API version 21.0 and later. This object replaces FeedPost.
 -   **[FeedLike](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_feedlike.htm)**
@@ -1382,6 +1382,8 @@ To verify the complete list of fields for an object, use a describe call from th
     Represents a relationship between the agent planner service and agent actions. This object is available in API version 60.0 and later.
 -   **[GenAiPluginDefinition](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_genaiplugindefinition.htm)**
     Represents an agent topic, which is a category of actions related to a particular job to be done by AI agents. This object is available in API version 62.0 and later.
+-   **[GenOpPlanRequest](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_genopplanrequest.htm)**
+    Represents a request to generate a service plan. This object is available in API version 67.0 and later.
 -   **[GeoCountry](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_geocountry.htm)**
     Represents a country. This object is available in API version 56.0 and later.
 -   **[GeolocationBasedAction](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_geolocationbasedaction.htm)**
@@ -1451,7 +1453,7 @@ To verify the complete list of fields for an object, use a describe call from th
 -   **[InventoryReservation](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_inventoryreservation.htm)**
     Stores information about the status of cart inventory reservations in B2B and D2C Commerce. This object is available in API version 60.0 and later.
 -   **[InvocableActionEventLog](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_invocableactioneventlog.htm)**
-    Invocable Action events capture the calls to Salesforce Invocable Actions.This is particularly useful to monitor actions invoked during Agentforce flows. This object is available in API version 64.0 and later.
+    Invocable Action events capture the calls to Salesforce Invocable Actions. This is particularly useful to monitor actions invoked during Agentforce flows. This object is available in API version 64.0 and later.
 -   **[Invoice](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_invoice.htm)**
     Represents a financial document describing the total amount a buyer must pay for goods or services provided. This object is available in API version 48.0 and later.
 -   **[InvoiceAddressGroup](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_invoiceaddressgroup.htm)**
@@ -2163,7 +2165,7 @@ To verify the complete list of fields for an object, use a describe call from th
 -   **[Pricebook2](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_pricebook2.htm)**
     Represents a price book that contains the list of products that your org sells.
 -   **[Pricebook2History](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_pricebook2history.htm)**
-    Represents historical information about changes that have been made to the standard fields of the associated Pricebook2, or to any custom fields with history tracking enabled. This object is available in API version 66.0 and later.
+    Represents historical information about changes that have been made to the standard fields of the associated Pricebook2, or to any custom fields with history tracking enabled. This object is available in API version and later.
 -   **[PricebookEntry](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_pricebookentry.htm)**
     Represents a product entry (an association between a Pricebook2 and Product2) in a price book.
 -   **[PricebookEntryAdjustment](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_pricebookentryadjustment.htm)**
@@ -2336,6 +2338,8 @@ To verify the complete list of fields for an object, use a describe call from th
     Represents a rule that restricts the quantity of a product that can be purchased. The rule can be an increment, minimum, or maximum rule. This object is available in API version 52.0 and later.
 -   **[PushTopic](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_pushtopic.htm)**
     Represents a query that is the basis for notifying Streaming API clients of changes to records in an org. This object is available in API version 21.0 and later.
+-   **[PushUpgradeCustomization](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_pushupgradecustomization.htm)**
+    Customized push upgrades allow a package subscriber to block push upgrades to their org. Package developers control which subscribers can opt into customized push upgrades. Each push upgrade customization maps to a specific package and to a specific subscriber org. This object is available in API version 60.0 and later.
 -   **[QueuedExecutionEventLog](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_queuedexecutioneventlog.htm)**
     Queued Execution events contain details about queued executions—for example, batch Apex. This object is available in API version 65.0 and later.
 -   **[QueueRoutingConfig](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_queueroutingconfig.htm)**
@@ -2446,6 +2450,8 @@ To verify the complete list of fields for an object, use a describe call from th
     Represents an account’s preference for a specified service resource on field service work.
 -   **[RestApiEventLog](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_restapieventlog.htm)**
     REST API event logs contain details about REST-specific requests. This object is available in API version 61.0 and later.
+-   **[RetentionStoreUsage](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_retentionstoreusage.htm)**
+    Represents the total usage of the org's retention store measured at specific points in time. This object is available in API version 66.0 and later.
 -   **[ReturnOrder](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_returnorder.htm)**
     Represents the return or repair of inventory or products in Field Service, or the return of order products in Order Management. This object is available in API version 42.0 and later.
 -   **[ReturnOrderItemAdjustment](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_returnorderitemadjustment.htm)**

@@ -5,7 +5,7 @@ topic: monthdaysdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.573Z
+lastCollected: 2026-04-07T09:03:14.356Z
 estimatedTokens: 23
 keywords: [month_days, date, number, days, month, specific, _days]
 ---

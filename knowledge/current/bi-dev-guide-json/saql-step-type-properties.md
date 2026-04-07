@@ -6,7 +6,7 @@ topic: saql-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.322Z
+lastCollected: 2026-04-07T09:03:07.776Z
 estimatedTokens: 1082
 keywords: [saql, Step, special, cases, querying, Analytics, dataset, write, custom, query, derived, specify, dimensions, groupings, bind]
 ---

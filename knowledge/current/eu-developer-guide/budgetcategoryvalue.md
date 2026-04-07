@@ -5,7 +5,7 @@ topic: budgetcategoryvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.171Z
+lastCollected: 2026-04-07T09:03:45.341Z
 estimatedTokens: 882
 keywords: [BudgetCategoryValue, Captures, budget, category, time, period, API, version, 57.0, later, Calls, Special, Access, Rules, Associated]
 ---

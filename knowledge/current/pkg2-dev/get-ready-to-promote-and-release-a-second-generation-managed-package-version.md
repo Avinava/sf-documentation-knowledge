@@ -5,7 +5,7 @@ topic: get-ready-to-promote-and-release-a-second-generation-managed-package-vers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.060Z
+lastCollected: 2026-04-07T09:05:03.840Z
 estimatedTokens: 774
 keywords: [Ready, Promote, Release, Second-Generation, Managed, Package, Version, now, it’s, likely, you’ve, already, created, different, versions]
 ---

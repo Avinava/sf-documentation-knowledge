@@ -5,7 +5,7 @@ topic: financial-services-cloud-custom-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:28.757Z
+lastCollected: 2026-04-07T09:03:47.724Z
 estimatedTokens: 3815
 namespace: FinServ
 keywords: [Financial, Services, Cloud, Custom, Triggers, ensure, data, flows, correctly, objects, Trigger, Behavior, sObjects, Relation, Rollup]

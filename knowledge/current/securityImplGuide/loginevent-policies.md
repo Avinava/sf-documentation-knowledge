@@ -5,7 +5,7 @@ topic: loginevent-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.748Z
+lastCollected: 2026-04-07T09:05:28.433Z
 estimatedTokens: 551
 keywords: [LoginEvent, Policies, Login, event, track, activity, enforce, requirements, Policy, Glance, How, Compare, Log, Lines, History]
 ---

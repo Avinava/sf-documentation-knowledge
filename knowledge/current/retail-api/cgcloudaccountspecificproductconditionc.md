@@ -5,7 +5,7 @@ topic: cgcloudaccountspecificproductconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.061Z
+lastCollected: 2026-04-07T09:05:19.385Z
 estimatedTokens: 1302
 keywords: [Holds, relation, customer, condition, template, API, version, 54.0, later, cgcloud, _Account, _Specific, _Product, _Condition, Calls]
 ---

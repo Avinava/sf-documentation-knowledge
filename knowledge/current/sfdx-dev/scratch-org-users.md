@@ -5,7 +5,7 @@ topic: scratch-org-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:18.569Z
+lastCollected: 2026-04-07T09:06:13.485Z
 estimatedTokens: 1347
 keywords: [Scratch, Org, Users, includes, administrator, user, admin, typically, adequate, testing, needs, sometimes, test, different, profiles]
 ---

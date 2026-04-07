@@ -5,7 +5,7 @@ topic: model-data-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:33.636Z
+lastCollected: 2026-04-07T09:02:09.218Z
 estimatedTokens: 883
 keywords: [Model, Data, Cloud, key, terms, concepts, ingestion, modeling, material, standard, objects, DMOs, including, descriptions, relationships]
 ---

@@ -5,7 +5,7 @@ topic: creating-app-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.021Z
+lastCollected: 2026-04-07T09:04:12.755Z
 estimatedTokens: 257
 keywords: [Creating, App, Templates, template, bootstraps, loading, framework, Customize, app’s, component, extends, aura]
 ---

@@ -5,7 +5,7 @@ topic: --dxp-styling-hooks-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.554Z
+lastCollected: 2026-04-07T09:03:45.840Z
 estimatedTokens: 887
 keywords: [--dxp, Styling, Hooks, LWR, Sites, hook, affects, base, custom, Lightning, web, components, throughout, site, Experience]
 ---

@@ -5,7 +5,7 @@ topic: select-objects-for-change-notifications-with-metadata-api-and-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.636Z
+lastCollected: 2026-04-07T09:03:18.630Z
 estimatedTokens: 878
 keywords: [Select, Objects, Change, Notifications, Metadata, API, Tooling, PlatformEventChannelMember, retrieve, event, selections, standard, channel, custom, ChangeEvents]
 ---

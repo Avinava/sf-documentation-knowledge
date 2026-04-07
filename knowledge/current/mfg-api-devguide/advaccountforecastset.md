@@ -5,7 +5,7 @@ topic: advaccountforecastset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:55.104Z
+lastCollected: 2026-04-07T09:04:22.566Z
 estimatedTokens: 2559
 keywords: [AdvAccountForecastSet, forecast, define, configurations, business, unit, different, groups, accounts, separate, account, level, focus, account-specific, data, collection, advanced, API, version, 53.0]
 ---
@@ -119,6 +119,6 @@ create(), delete(), describeSObjects(), query(), retrieve(), update(), upsert()
        <members>*</members>
        <name>AdvAccountForecastSet</name>
     </types>
-   <version>66.0</version>
+   <version></version>
 </Package>
 ```

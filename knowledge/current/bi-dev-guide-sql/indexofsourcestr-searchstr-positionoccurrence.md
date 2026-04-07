@@ -7,7 +7,7 @@ topic: indexofsourcestr-searchstr-positionoccurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.264Z
+lastCollected: 2026-04-07T09:03:15.398Z
 estimatedTokens: 225
 keywords: [index_of, source_str, search_str, position, occurrence, indicating, whether, ends, search, index, _of, source, _str]
 ---

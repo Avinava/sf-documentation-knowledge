@@ -5,7 +5,7 @@ topic: mass-updating-records-with-a-custom-list-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.016Z
+lastCollected: 2026-04-07T09:04:59.785Z
 estimatedTokens: 830
 keywords: [Mass, Updating, Records, Custom, Controller, pages, perform, updates, prototype, contained, StandardSetController]
 ---

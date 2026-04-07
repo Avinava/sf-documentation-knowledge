@@ -5,7 +5,7 @@ topic: xmd-date-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.858Z
+lastCollected: 2026-04-07T09:03:11.621Z
 estimatedTokens: 496
 keywords: [Xmd, Date, extended, metadata, formatting]
 ---

@@ -5,7 +5,7 @@ topic: ispromotionandusersamesalesorg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.969Z
+lastCollected: 2026-04-07T09:05:17.760Z
 estimatedTokens: 75
 keywords: [isPromotionAndUserSameSalesOrg, validates, promotion, belongs, Salesorg, user, exists, Input, Sample]
 ---

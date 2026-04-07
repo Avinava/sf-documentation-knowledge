@@ -5,7 +5,7 @@ topic: opensubtabbyprimarytabname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.568Z
+lastCollected: 2026-04-07T09:03:04.422Z
 estimatedTokens: 595
 keywords: [openSubtabByPrimaryTabName, Opens, new, subtab, primary, tab, displays, content, URL, relative, absolute, override, open, via, tab's]
 ---

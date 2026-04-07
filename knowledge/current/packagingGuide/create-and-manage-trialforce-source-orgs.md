@@ -5,7 +5,7 @@ topic: create-and-manage-trialforce-source-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.398Z
+lastCollected: 2026-04-07T09:04:55.828Z
 estimatedTokens: 446
 keywords: [Manage, Trialforce, Source, Orgs, Organization, TSO, templates, basis, customer, trial, Environment, Hub, Management, Org, TMO]
 ---

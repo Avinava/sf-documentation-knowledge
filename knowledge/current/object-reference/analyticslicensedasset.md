@@ -5,7 +5,7 @@ topic: analyticslicensedasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.299Z
+lastCollected: 2026-04-07T09:04:34.335Z
 estimatedTokens: 234
 namespace: Type
 keywords: [AnalyticsLicensedAsset, licensed, Analytics, asset, context, CRM, Sonic, Mulesoft, Data, Path, API, version, 52.0, later, Calls]

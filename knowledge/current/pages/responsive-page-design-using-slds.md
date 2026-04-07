@@ -5,7 +5,7 @@ topic: responsive-page-design-using-slds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.606Z
+lastCollected: 2026-04-07T09:05:00.680Z
 estimatedTokens: 571
 keywords: [Responsive, Design, SLDS, web, aimed, creating, online, user, interfaces, provide, best, viewing, experience, including, easy]
 ---

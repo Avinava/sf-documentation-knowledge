@@ -5,7 +5,7 @@ topic: acadrgstreligcritrunevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.184Z
+lastCollected: 2026-04-07T09:05:05.632Z
 estimatedTokens: 351
 keywords: [AcadRgstrEligCritRunEvent, resources, run, eligibility, criteria, expression, calculation, academic, term, enrollment, registration, timeline, API, version, 65.0]
 ---

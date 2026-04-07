@@ -5,7 +5,7 @@ topic: create-routes-from-visit-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.836Z
+lastCollected: 2026-04-07T09:04:20.750Z
 estimatedTokens: 789
 keywords: [Routes, Visit, Plan, StartAdvancedOptimizationForVisitPlan, Apex, creates, users, assigned, Salesforce, Maps, Advanced, leverage, planning, custom, workflow]
 ---

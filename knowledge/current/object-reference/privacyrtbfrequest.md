@@ -5,7 +5,7 @@ topic: privacyrtbfrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.120Z
+lastCollected: 2026-04-07T09:04:47.047Z
 estimatedTokens: 870
 keywords: [PrivacyRTBFRequest, Right, Forgotten, made, Privacy, Center, API, version, 59.0, later, Calls, Special, Access, Rules, Associated]
 ---

@@ -5,7 +5,7 @@ topic: accountplanstkhldrproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.914Z
+lastCollected: 2026-04-07T09:04:09.300Z
 estimatedTokens: 985
 keywords: [AccountPlanStkhldrProduct, junction, account, plan, stakeholder, product, Stores, products, associated, API, version, 65.0, later, Calls, Objects]
 ---

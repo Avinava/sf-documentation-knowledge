@@ -5,7 +5,7 @@ topic: embedded-chat-custom-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.334Z
+lastCollected: 2026-04-07T09:06:14.581Z
 estimatedTokens: 674
 keywords: [Embedded, Chat, Custom, Events, There, three, APIs, let, Service, code, snippet, version, 5.0, later, _svc.liveagentAPI.sendCustomEvent]
 ---

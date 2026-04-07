@@ -5,7 +5,7 @@ topic: permissionsetlicenseassign
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.797Z
+lastCollected: 2026-04-07T09:04:46.659Z
 estimatedTokens: 850
 keywords: [PermissionSetLicenseAssign, association, User, PermissionSetLicense, API, version, 29.0, later, Calls, Special, Access, Rules, Usage]
 ---

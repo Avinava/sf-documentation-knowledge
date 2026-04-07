@@ -5,7 +5,7 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.528Z
+lastCollected: 2026-04-07T09:05:26.732Z
 estimatedTokens: 175
 keywords: [Bodies, Successful, execution, Salesforce, Scheduler, resource, either, JSON, XML, appointment, time, slots, selection, work, group]
 ---

@@ -5,7 +5,7 @@ topic: commerce-einstein-webstore-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.143Z
+lastCollected: 2026-04-07T09:03:25.236Z
 estimatedTokens: 1029
 keywords: [Commerce, Einstein, Webstore, Recommendations, product]
 ---

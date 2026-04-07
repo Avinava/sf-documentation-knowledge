@@ -5,7 +5,7 @@ topic: priceprotectionterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:10.516Z
+lastCollected: 2026-04-07T09:03:19.875Z
 estimatedTokens: 791
 keywords: [PriceProtectionTerm, configuration, record, rules, eligible, conditions, price, protection, API, version, 63.0, later, Calls]
 ---

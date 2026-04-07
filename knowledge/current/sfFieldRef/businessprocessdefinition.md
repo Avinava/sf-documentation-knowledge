@@ -5,7 +5,7 @@ topic: businessprocessdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:50.750Z
+lastCollected: 2026-04-07T09:05:36.526Z
 estimatedTokens: 300
 keywords: [BusinessProcessDefinition, Setup, stores, stages, customer, lifecycle, map, associated, surveys, questions, created, Salesforce]
 ---

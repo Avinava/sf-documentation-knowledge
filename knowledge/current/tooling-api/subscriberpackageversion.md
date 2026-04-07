@@ -5,7 +5,7 @@ topic: subscriberpackageversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T07:53:46.500Z
+lastCollected: 2026-04-07T09:02:49.149Z
 estimatedTokens: 2896
 namespace: NamespaceCollision
 keywords: [SubscriberPackageVersion, package, version, first-, second-generation, across, Salesforce, instances, API, 41.0, later, SOAP, Calls, REST, HTTP]

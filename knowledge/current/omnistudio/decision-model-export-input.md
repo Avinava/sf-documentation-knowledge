@@ -5,7 +5,7 @@ topic: decision-model-export-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:48.644Z
+lastCollected: 2026-04-07T09:02:51.220Z
 estimatedTokens: 90
 keywords: [Decision, Model, Export, Input, representation, matrix, data]
 ---

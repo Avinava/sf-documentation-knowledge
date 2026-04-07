@@ -5,7 +5,7 @@ topic: productfeaturedproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.354Z
+lastCollected: 2026-04-07T09:04:47.337Z
 estimatedTokens: 696
 keywords: [ProductFeaturedProduct, user-defined, collection, featured, products, meant, cross-sell, upsell, product, API, version, 64.0, later, Calls, Special]
 ---

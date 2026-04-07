@@ -5,7 +5,7 @@ topic: secure-coding-secure-communications
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.523Z
+lastCollected: 2026-04-07T09:05:28.121Z
 estimatedTokens: 2929
 keywords: [Secure, Coding, Communications, how, ensure, application, security, outside, Salesforce, Mandate, HTTPS, setting, flag, cookies, store]
 ---

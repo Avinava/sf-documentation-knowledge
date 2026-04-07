@@ -6,7 +6,7 @@ topic: associated-objects-feed-history-ownersharingrule-share-and-changeevent-ob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.273Z
+lastCollected: 2026-04-07T09:04:33.143Z
 estimatedTokens: 703
 keywords: [Associated, Objects, Feed, History, OwnerSharingRule, Share, ChangeEvent, standard, their]
 ---

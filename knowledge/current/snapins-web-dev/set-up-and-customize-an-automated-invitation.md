@@ -5,7 +5,7 @@ topic: set-up-and-customize-an-automated-invitation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.346Z
+lastCollected: 2026-04-07T09:06:14.595Z
 estimatedTokens: 1056
 keywords: [Customize, Automated, Invitation, Connect, chat, Embedded, Service, deployment, proactively, invite, customers, start, agent, slide, fade]
 ---

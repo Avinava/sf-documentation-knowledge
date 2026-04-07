@@ -5,7 +5,7 @@ topic: paymenttermitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:07.487Z
+lastCollected: 2026-04-07T09:05:58.691Z
 estimatedTokens: 399
 keywords: [PaymentTermItem, attributes, payment, term, company, uses, determine, due, date, invoices, API, version, 55.0, later]
 ---

@@ -5,7 +5,7 @@ topic: determine-which-license-to-assign-to-dev-hub-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.000Z
+lastCollected: 2026-04-07T09:06:12.774Z
 estimatedTokens: 1023
 keywords: [Determine, License, Assign, Dev, Hub, Users, developer, depends, how, much, access, they, require, org, full]
 ---

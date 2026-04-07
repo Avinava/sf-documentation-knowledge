@@ -5,7 +5,7 @@ topic: rxr---pharmacy-route-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:44.667Z
+lastCollected: 2026-04-07T09:04:09.022Z
 estimatedTokens: 226
 keywords: [RXR, Pharmacy, Route, Segment, HL7, maps, primarily, PatientImmunization, PatientMedicationDosage, objects, Salesforce, V2.3, Clinical, Data, Model]
 ---

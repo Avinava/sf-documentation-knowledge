@@ -5,7 +5,7 @@ topic: member-benefit-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:33.596Z
+lastCollected: 2026-04-07T09:02:09.177Z
 estimatedTokens: 637
 keywords: [Member, Benefit, DMO, Data, Cloud, model, loyalty, program, qualified, elected, receive, API, Category, Primary, Subject]
 ---

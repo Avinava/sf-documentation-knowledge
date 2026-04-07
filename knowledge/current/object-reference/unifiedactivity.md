@@ -5,7 +5,7 @@ topic: unifiedactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.423Z
+lastCollected: 2026-04-07T09:04:51.328Z
 estimatedTokens: 705
 keywords: [UnifiedActivity, activity, automatically, captured, Einstein, Capture, EAC, data, calls, manually, logged, tasks, emails, consists, common]
 ---

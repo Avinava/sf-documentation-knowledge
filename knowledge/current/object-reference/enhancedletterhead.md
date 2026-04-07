@@ -5,7 +5,7 @@ topic: enhancedletterhead
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.681Z
+lastCollected: 2026-04-07T09:04:39.665Z
 estimatedTokens: 441
 keywords: [EnhancedLetterhead, enhanced, letterhead, associated, Lightning, email, template, doesn’t, Salesforce, Merge, Language, SML, API, version, 46.0]
 ---

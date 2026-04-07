@@ -5,7 +5,7 @@ topic: rtrreportresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.623Z
+lastCollected: 2026-04-07T09:05:17.239Z
 estimatedTokens: 1260
 namespace: CGCloud
 keywords: [RTRReportResult, execute, Trade, Promotion, Management, Real, Time, Reporting, RTR, report, access, data, salesOrg, Map<String, Object>]

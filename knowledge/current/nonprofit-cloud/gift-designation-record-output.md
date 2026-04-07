@@ -5,7 +5,7 @@ topic: gift-designation-record-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.030Z
+lastCollected: 2026-04-07T09:04:30.241Z
 estimatedTokens: 114
 keywords: [Gift, Designation, Record, Output, representation]
 ---

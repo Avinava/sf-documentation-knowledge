@@ -5,8 +5,8 @@ topic: inboundemailheader-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.784Z
-estimatedTokens: 509
+lastCollected: 2026-04-07T09:02:18.332Z
+estimatedTokens: 508
 namespace: Messaging
 keywords: [InboundEmail.Header, InboundEmail, stores, RFC, email]
 ---
@@ -24,7 +24,7 @@ An InboundEmail object stores RFC 2822 email header information in an InboundEma
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## InboundEmail.Header Properties
 

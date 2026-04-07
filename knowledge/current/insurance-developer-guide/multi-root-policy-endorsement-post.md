@@ -5,7 +5,7 @@ topic: multi-root-policy-endorsement-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.211Z
+lastCollected: 2026-04-07T09:04:02.688Z
 estimatedTokens: 463
 keywords: [Multi-Root, Policy, Endorsement, POST, Asynchronously, endorse, insurance, along, child, policies]
 ---
@@ -74,7 +74,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/policies/0YTxx00000000WHGAY/multi-root/endorse
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/policies/0YTxx00000000WHGAY/multi-root/endorse
 ```
 
 ```

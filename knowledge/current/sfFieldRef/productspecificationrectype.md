@@ -5,7 +5,7 @@ topic: productspecificationrectype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:09.878Z
+lastCollected: 2026-04-07T09:06:01.742Z
 estimatedTokens: 337
 namespace: NamespacePrefix
 keywords: [ProductSpecificationRecType, relationship, industry-specific, product, specifications, record, API, version, 60.0, later]

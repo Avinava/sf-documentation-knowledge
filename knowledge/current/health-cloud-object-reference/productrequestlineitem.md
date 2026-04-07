@@ -5,7 +5,7 @@ topic: productrequestlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.993Z
+lastCollected: 2026-04-07T09:03:59.126Z
 estimatedTokens: 362
 keywords: [ProductRequestLineItem, junction, ProductRequest, ProductTransfer, API, version, 50.0, later, Calls]
 ---

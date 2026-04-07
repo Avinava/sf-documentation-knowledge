@@ -5,7 +5,7 @@ topic: custom-component-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:22.031Z
+lastCollected: 2026-04-07T09:04:56.903Z
 estimatedTokens: 709
 keywords: [Custom, Component, Attributes, Apart, standard, Visualforce, markup, <apex, component>, tag, specify, passed, it’s, directly]
 ---

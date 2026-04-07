@@ -5,7 +5,7 @@ topic: formula-evaluation-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.264Z
+lastCollected: 2026-04-07T09:02:32.530Z
 estimatedTokens: 653
 keywords: [Formula, Evaluation, Apex, helps, avoid, unnecessary, DML, statements, recalculate, evaluate, dynamic, expressions, formulas, support, SObjects]
 ---

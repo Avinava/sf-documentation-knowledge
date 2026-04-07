@@ -5,7 +5,7 @@ topic: engagementsignalmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.676Z
+lastCollected: 2026-04-07T09:04:39.659Z
 estimatedTokens: 521
 keywords: [EngagementSignalMetric, measurable, quantity, that’s, derived, engagement, signal, sum, revenue, count, clicks, track, user, tests, machine]
 ---

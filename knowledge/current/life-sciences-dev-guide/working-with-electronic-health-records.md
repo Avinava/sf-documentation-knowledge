@@ -5,7 +5,7 @@ topic: working-with-electronic-health-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.579Z
+lastCollected: 2026-04-07T09:04:07.554Z
 estimatedTokens: 541
 keywords: [Working, Electronic, Health, Records, HL7, Level, Seven, standard, exchanging, EHR, parse, data, transmitted, via, messages]
 ---

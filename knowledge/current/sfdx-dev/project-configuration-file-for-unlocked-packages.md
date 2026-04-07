@@ -5,7 +5,7 @@ topic: project-configuration-file-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:18.751Z
+lastCollected: 2026-04-07T09:06:13.760Z
 estimatedTokens: 2142
 keywords: [Project, Configuration, File, Unlocked, Packages, blueprint, settings, outline, package, determine, attributes, contents, Don’t, Want, Salesforce]
 ---

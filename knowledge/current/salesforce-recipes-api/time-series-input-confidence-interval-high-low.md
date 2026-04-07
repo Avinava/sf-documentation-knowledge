@@ -5,7 +5,7 @@ topic: time-series-input-confidence-interval-high-low
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.515Z
+lastCollected: 2026-04-07T09:05:25.041Z
 estimatedTokens: 100
 keywords: [Time, Series, Input, Confidence, Interval, High, Low, recipe, node]
 ---

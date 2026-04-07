@@ -5,7 +5,7 @@ topic: productattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:09.123Z
+lastCollected: 2026-04-07T09:06:00.724Z
 estimatedTokens: 333
 namespace: NamespacePrefix
 keywords: [ProductAttributeSet, group, attributes, associated, product, API, version, 50.0, later]

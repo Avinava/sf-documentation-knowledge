@@ -5,7 +5,7 @@ topic: platformeventchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:08.927Z
+lastCollected: 2026-04-07T09:02:42.922Z
 estimatedTokens: 1890
 keywords: [PlatformEventChannel, channel, subscribe, order, receive, stream, events, API, version, 46.0, earlier, standard, change, data, capture]
 ---

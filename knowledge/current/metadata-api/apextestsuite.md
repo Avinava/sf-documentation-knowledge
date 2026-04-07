@@ -5,7 +5,7 @@ topic: apextestsuite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:03.491Z
+lastCollected: 2026-04-07T09:02:37.285Z
 estimatedTokens: 364
 keywords: [ApexTestSuite, suite, Apex, test, classes, include, run, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---

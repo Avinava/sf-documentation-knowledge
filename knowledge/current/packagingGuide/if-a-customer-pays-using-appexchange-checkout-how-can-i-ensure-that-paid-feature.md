@@ -6,7 +6,7 @@ topic: if-a-customer-pays-using-appexchange-checkout-how-can-i-ensure-that-paid-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.314Z
+lastCollected: 2026-04-07T09:04:53.979Z
 estimatedTokens: 235
 keywords: [customer, pays, AppExchange, Checkout, how, ensure, paid, features, immediately, accessible, purchase, license, records, Management, App]
 ---

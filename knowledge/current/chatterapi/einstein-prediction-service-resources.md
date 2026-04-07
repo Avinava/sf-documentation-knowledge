@@ -5,7 +5,7 @@ topic: einstein-prediction-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:14.939Z
+lastCollected: 2026-04-07T09:03:26.370Z
 estimatedTokens: 119
 keywords: [Einstein, Prediction, Service, Resources, enable, programmatically, predictions, deployed, models, work, definitions, manage, model, refresh, bulk]
 ---

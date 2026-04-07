@@ -5,7 +5,7 @@ topic: workplace-strategy-planner-data-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.610Z
+lastCollected: 2026-04-07T09:06:19.396Z
 estimatedTokens: 510
 keywords: [Workplace, Strategy, Planner, Data, Triggers, managed, package, installed, org, Crisis, Location, Assessment, added, Trigger, Enable]
 ---

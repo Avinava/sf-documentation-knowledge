@@ -5,7 +5,7 @@ topic: troubleshoot-org-shape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.599Z
+lastCollected: 2026-04-07T09:06:13.531Z
 estimatedTokens: 1031
 keywords: [Troubleshoot, Org, Shape, issues, encounter, Scratch, Orgs, Features, Captured, Service, Aren't, Enabled, DevOps, Center, Isn’t]
 ---

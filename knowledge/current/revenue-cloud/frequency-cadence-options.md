@@ -5,7 +5,7 @@ topic: frequency-cadence-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.166Z
+lastCollected: 2026-04-07T09:01:58.342Z
 estimatedTokens: 617
 keywords: [Frequency, Cadence, Options, Input, representation, invoice, scheduler]
 ---

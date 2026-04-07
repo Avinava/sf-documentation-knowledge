@@ -5,7 +5,7 @@ topic: groupclasscontribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.948Z
+lastCollected: 2026-04-07T09:05:48.632Z
 estimatedTokens: 456
 keywords: [GroupClassContribution, employer, group, contributions, GroupClass, members, their, dependents, per, product, category, medical, dental, vision, Child]
 ---

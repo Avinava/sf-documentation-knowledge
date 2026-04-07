@@ -5,7 +5,7 @@ topic: what-are-beta-versions-of-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.517Z
+lastCollected: 2026-04-07T09:05:01.770Z
 estimatedTokens: 422
 keywords: [Beta, Versions, Managed, Packages, package, early, version, purpose, allow, developer, test, their, application, different, Salesforce]
 ---

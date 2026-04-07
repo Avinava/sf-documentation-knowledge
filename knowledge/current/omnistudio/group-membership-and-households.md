@@ -5,7 +5,7 @@ topic: group-membership-and-households
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:52.980Z
+lastCollected: 2026-04-07T09:02:55.630Z
 estimatedTokens: 338
 keywords: [Group, Membership, Households, define, groups, individuals, Connect, organizations, track, their, relationships]
 ---

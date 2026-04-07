@@ -5,7 +5,7 @@ topic: security-coverage-dataset-version-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.814Z
+lastCollected: 2026-04-07T09:03:09.847Z
 estimatedTokens: 353
 keywords: [Security, Coverage, Dataset, Version, Resource, sharing, inheritance, particular, source, objects, listed, local, org, there, orgs]
 ---

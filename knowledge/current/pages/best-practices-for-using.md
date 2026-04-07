@@ -5,7 +5,7 @@ topic: best-practices-for-using
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:24.068Z
+lastCollected: 2026-04-07T09:04:59.864Z
 estimatedTokens: 1494
 keywords: [Best, Practices, Visualforce, Remote, Objects, effective, tool, quickly, adding, simple, data, operations, pages, easy, lightweight]
 ---

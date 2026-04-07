@@ -5,7 +5,7 @@ topic: assetaccountparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.878Z
+lastCollected: 2026-04-07T09:03:01.397Z
 estimatedTokens: 956
 keywords: [AssetAccountParticipant, junction, Asset, Account, objects, describing, association, participating, API, version, 56.0, later, Calls, Associated]
 ---

@@ -5,7 +5,7 @@ topic: action-states
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.600Z
+lastCollected: 2026-04-07T09:04:13.578Z
 estimatedTokens: 322
 keywords: [Action, States, Call, server-side, controller, client-side, different, processing]
 ---

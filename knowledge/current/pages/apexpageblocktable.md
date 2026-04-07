@@ -5,7 +5,7 @@ topic: apexpageblocktable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.942Z
+lastCollected: 2026-04-07T09:04:58.148Z
 estimatedTokens: 3022
 keywords: [apex, pageBlockTable, data, either, <apex, pageBlock>, pageBlockSection>, component, similar, view, standard, Salesforce, dataTable>, pageBlockTable>, defined]
 ---

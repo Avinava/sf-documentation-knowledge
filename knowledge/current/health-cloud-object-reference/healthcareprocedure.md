@@ -5,7 +5,7 @@ topic: healthcareprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.237Z
+lastCollected: 2026-04-07T09:03:58.285Z
 estimatedTokens: 1148
 keywords: [HealthCareProcedure, industry-standard, healthcare, procedure, codes, Spring, ’21, release, Diagnosis, objects, stored, specifically, procedures, diagnoses, were]
 ---

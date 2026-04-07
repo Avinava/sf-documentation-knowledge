@@ -5,7 +5,7 @@ topic: reportmetadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.560Z
+lastCollected: 2026-04-07T09:02:18.051Z
 estimatedTokens: 9466
 namespace: Reports
 keywords: [ReportMetadata, bucket, report, Usage, getAggregates, getBuckets, getCrossFilters, getCurrencyCode, getCustomSummaryFormula, getDescription, getDetailColumns, getDeveloperName, getDivision, getGroupingsAcross, getGroupingsDown]

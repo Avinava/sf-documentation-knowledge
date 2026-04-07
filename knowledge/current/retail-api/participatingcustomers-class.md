@@ -5,7 +5,7 @@ topic: participatingcustomers-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.539Z
+lastCollected: 2026-04-07T09:05:17.131Z
 estimatedTokens: 1387
 keywords: [ParticipatingCustomers, APEX, programmatic, access, TPM, Promotion, Participating, Customers, Push, process, _ParticipatingCustomers, toGenericObject, API, Version, ParticipatingCustomer]
 ---

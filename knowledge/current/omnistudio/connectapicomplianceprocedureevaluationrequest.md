@@ -5,7 +5,7 @@ topic: connectapicomplianceprocedureevaluationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:47.659Z
+lastCollected: 2026-04-07T09:02:50.219Z
 estimatedTokens: 195
 keywords: [Input, representation, compliance, evaluation]
 ---

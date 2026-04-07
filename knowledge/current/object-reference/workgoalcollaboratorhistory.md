@@ -5,7 +5,7 @@ topic: workgoalcollaboratorhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.652Z
+lastCollected: 2026-04-07T09:04:52.911Z
 estimatedTokens: 398
 keywords: [WorkGoalCollaboratorHistory, history, changes, WorkGoalCollaborator, Access, read-only, Calls]
 ---

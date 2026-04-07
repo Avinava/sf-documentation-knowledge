@@ -5,7 +5,7 @@ topic: mapping-gateway-responses-to-payment-transactions-with-transactionresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.002Z
+lastCollected: 2026-04-07T09:03:16.625Z
 estimatedTokens: 400
 keywords: [Mapping, Gateway, Responses, Payment, Transactions, TransactionResult, transaction, charge, package, evaluates, maps, record, Salesforce, Billing]
 ---

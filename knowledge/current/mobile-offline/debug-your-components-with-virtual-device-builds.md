@@ -5,7 +5,7 @@ topic: debug-your-components-with-virtual-device-builds
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.463Z
+lastCollected: 2026-04-07T09:04:24.527Z
 estimatedTokens: 1101
 keywords: [Debug, Components, Virtual, Device, Builds, connect, desktop, browsers, Salesforce, mobile, app, running, devices, Safari, iOS]
 ---

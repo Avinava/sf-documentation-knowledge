@@ -5,8 +5,8 @@ topic: verify-policy-coverage-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.767Z
-estimatedTokens: 274
+lastCollected: 2026-04-07T09:04:00.293Z
+estimatedTokens: 273
 keywords: [Verify, Policy, Coverage, Action, whether, applicable, loss, date, under, insurance, eligible, coverages, processed, claims, REST]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/verifyPolicyCoverage
+/services/data/v/actions/standard/verifyPolicyCoverage
 
 Formats
 

@@ -5,7 +5,7 @@ topic: dynamically-creating-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.063Z
+lastCollected: 2026-04-07T09:04:14.250Z
 estimatedTokens: 1696
 keywords: [Dynamically, Creating, Components, component, client-side, JavaScript, code, $A.createComponent, multiple, $A.createComponents, Versus, Server-Side, Creation, Nested, Destroying]
 ---

@@ -5,7 +5,7 @@ topic: saml-single-sign-on-for-canvas-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.280Z
+lastCollected: 2026-04-07T09:05:04.214Z
 estimatedTokens: 538
 keywords: [SAML, Sign-On, Canvas, Apps, Whether, signed, OAuth, authorization, SAML-based, SSO, provide, users, seamless, authentication, flow]
 ---

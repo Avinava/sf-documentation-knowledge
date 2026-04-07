@@ -5,7 +5,7 @@ topic: troubleshoot-an-expired-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.377Z
+lastCollected: 2026-04-07T09:04:55.789Z
 estimatedTokens: 333
 keywords: [Troubleshoot, Expired, Security, Review, common, reasons, AppExchange, expires, missed, re-review, overdue, fees, unpaid, revenue, sharing]
 ---

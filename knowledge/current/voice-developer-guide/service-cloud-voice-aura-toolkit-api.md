@@ -5,7 +5,7 @@ topic: service-cloud-voice-aura-toolkit-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.701Z
+lastCollected: 2026-04-07T09:06:18.011Z
 estimatedTokens: 483
 keywords: [Service, Cloud, Voice, Aura, Toolkit, API, build, components, access, features]
 ---

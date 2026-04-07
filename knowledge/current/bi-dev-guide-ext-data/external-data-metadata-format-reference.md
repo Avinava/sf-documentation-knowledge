@@ -5,7 +5,7 @@ topic: external-data-metadata-format-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.204Z
+lastCollected: 2026-04-07T09:03:07.602Z
 estimatedTokens: 3518
 keywords: [External, Data, Metadata, structure, files, file, JSON, consists, main, sections, Include, record, leave, Objects, Restrictions]
 ---

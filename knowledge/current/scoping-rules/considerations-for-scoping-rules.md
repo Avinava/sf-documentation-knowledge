@@ -5,7 +5,7 @@ topic: considerations-for-scoping-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.278Z
+lastCollected: 2026-04-07T09:05:27.823Z
 estimatedTokens: 2036
 keywords: [Considerations, Scoping, Rules, Familiarize, yourself, Creating, SOQL, Modifying, Accounts, Contacts, Person, Performance]
 ---

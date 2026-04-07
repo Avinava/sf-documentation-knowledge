@@ -5,7 +5,7 @@ topic: promotion-reward-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:21.505Z
+lastCollected: 2026-04-07T09:02:01.498Z
 estimatedTokens: 141
 keywords: [Promotion, Reward, Output, representation, rewards, eligible, rule]
 ---

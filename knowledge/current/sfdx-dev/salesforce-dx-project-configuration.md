@@ -5,7 +5,7 @@ topic: salesforce-dx-project-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.932Z
+lastCollected: 2026-04-07T09:06:13.994Z
 estimatedTokens: 2943
 keywords: [Salesforce, Project, Configuration, file, sfdx-project.json, directory, facilitates, authorization, orgs, creation, second-generation, packages, tells, CLI, put]
 ---

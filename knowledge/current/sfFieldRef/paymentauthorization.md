@@ -5,7 +5,7 @@ topic: paymentauthorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:07.189Z
+lastCollected: 2026-04-07T09:05:58.318Z
 estimatedTokens: 741
 keywords: [PaymentAuthorization, payment, authorization, event, users, capture, reverse, against, reserve, funds, API, version, 48.0, later]
 ---

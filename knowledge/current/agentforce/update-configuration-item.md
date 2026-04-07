@@ -5,7 +5,7 @@ topic: update-configuration-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.862Z
+lastCollected: 2026-04-07T09:02:09.924Z
 estimatedTokens: 599
 keywords: [Configuration, Item, Updates, attributes, unique, identifier, subset, Special, Access, Rules, UpdatedAttributes]
 ---

@@ -5,8 +5,8 @@ topic: connect-rest-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.079Z
-estimatedTokens: 5643
+lastCollected: 2026-04-07T09:03:27.992Z
+estimatedTokens: 5689
 keywords: [Connect, REST, API, Resources, sometimes, endpoints]
 ---
 
@@ -18,7 +18,7 @@ keywords: [Connect, REST, API, Resources, sometimes, endpoints]
 
 Connect REST API resources are sometimes called endpoints.
 
-For Chatter REST API resources, see [Chatter REST API Resources](atlas.en-us.chatterapi.meta/chatterapi/connect_chatter_resources_overview.htm "These REST API resources require Chatter and can have different rate limit allocations.").
+For Chatter REST API resources, see [Chatter REST API Resources](atlas.en-us.chatterapi.meta/chatterapi/connect_chatter_resources_overview.htm "These REST API resources require Chatter and have a per user, per application, per hour rate limit. This rate limit is different from other Connect REST API resources. When you exceed the rate limit, Chatter REST API resources return a 503 Service Unavailable error code.").
 
 -   **[Action Links Resources](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_action_links.htm)**
     An action link is a button on a feed element. Clicking an action link can take a user to a Web page, initiate a file download, or invoke an API call to Salesforce or to an external server. An action link includes a URL and an HTTP method, and can include a request body and header information, such as an OAuth token for authentication. Use action links to integrate Salesforce and third-party services into the feed so that users can drive productivity and accelerate innovation.

@@ -5,7 +5,7 @@ topic: strong-customer-authentication-best-practices-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:20.358Z
+lastCollected: 2026-04-07T09:04:54.066Z
 estimatedTokens: 537
 keywords: [Strong, Customer, Authentication, Best, Practices, AppExchange, Checkout, sell, solution, region, requires, SCA, follow]
 ---

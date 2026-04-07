@@ -5,7 +5,7 @@ topic: coaserviceordersubmitoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.269Z
+lastCollected: 2026-04-07T09:04:53.893Z
 estimatedTokens: 161
 keywords: [COA_ServiceOrderSubmitOutput, Wrapper, output, submit, operation, COA, _ServiceOrderSubmitOutput]
 ---

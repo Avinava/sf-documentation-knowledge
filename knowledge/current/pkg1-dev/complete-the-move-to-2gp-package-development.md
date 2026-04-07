@@ -5,7 +5,7 @@ topic: complete-the-move-to-2gp-package-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.471Z
+lastCollected: 2026-04-07T09:05:01.694Z
 estimatedTokens: 592
 keywords: [Move, 2GP, Package, Development, fully, transition, retrieve, source, files, package’s, latest, converted, version, confirm, Setup]
 ---

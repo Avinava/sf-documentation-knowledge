@@ -5,7 +5,7 @@ topic: data-binding-between-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.955Z
+lastCollected: 2026-04-07T09:04:14.112Z
 estimatedTokens: 1947
 keywords: [Data, Binding, Components, add, component, markup, expression, initialize, attribute, container, There, two, forms, exhibit, different]
 ---

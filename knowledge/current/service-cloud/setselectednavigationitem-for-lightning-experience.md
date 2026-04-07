@@ -5,7 +5,7 @@ topic: setselectednavigationitem-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.053Z
+lastCollected: 2026-04-07T09:03:03.926Z
 estimatedTokens: 136
 keywords: [setSelectedNavigationItem, Lightning, Experience, selected, navigation, item, specific, works, console, apps, Arguments, Sample, Code]
 ---

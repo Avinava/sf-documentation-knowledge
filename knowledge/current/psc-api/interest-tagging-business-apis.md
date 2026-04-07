@@ -5,8 +5,8 @@ topic: interest-tagging-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.922Z
-estimatedTokens: 645
+lastCollected: 2026-04-07T09:05:11.116Z
+estimatedTokens: 632
 keywords: [Interest, Tagging, Business, APIs, give, users, seamless, API, experience, Tags]
 ---
 
@@ -30,7 +30,7 @@ Use the Interest Tagging Business APIs to give users a seamless API experience f
 
 Interest Tag API is only for use with Interest Tags, not with Topics Tags or Communities Tags.
 
-Here are some examples on how the Salesforce UI interacts with the Interest Tags resources:![A representation of create Interest Tags on the Lightning Component screen.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fimages%2Finterest_tags_UI_1.png&folder=psc_api)![A representation of modify and delete Interest Tags on the Lightning Component screen.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fimages%2Finterest_tags_UI_2.png&folder=psc_api)![A representation of Interest Tags by tag category.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fimages%2Finterest_tags_UI_3.png&folder=psc_api)![A representation of the Interest Tags assigned to a Salesforce object record.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fimages%2Finterest_tags_UI_4.png&folder=psc_api)
+Here are some examples on how the Salesforce UI interacts with the Interest Tags resources:![A representation of create Interest Tags on the Lightning Component screen.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fimages%2Finterest_tags_UI_1.png&folder=psc_api)![A representation of modify and delete Interest Tags on the Lightning Component screen.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fimages%2Finterest_tags_UI_2.png&folder=psc_api)![A representation of Interest Tags by tag category.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fimages%2Finterest_tags_UI_3.png&folder=psc_api)![A representation of the Interest Tags assigned to a Salesforce object record.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fimages%2Finterest_tags_UI_4.png&folder=psc_api)
 
 Following are the available Interest Tags resources as numbered in the Salesforce UI:
 

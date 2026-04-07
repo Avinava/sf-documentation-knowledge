@@ -5,7 +5,7 @@ topic: offline-considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.411Z
+lastCollected: 2026-04-07T09:04:24.452Z
 estimatedTokens: 596
 keywords: [Offline, Considerations, Limitations, LWC, designed, let, build, great, apps, function, network, connection, it’s, full, Salesforce]
 ---

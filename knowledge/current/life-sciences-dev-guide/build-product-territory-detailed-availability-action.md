@@ -5,7 +5,7 @@ topic: build-product-territory-detailed-availability-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:43.812Z
+lastCollected: 2026-04-07T09:04:07.912Z
 estimatedTokens: 289
 keywords: [Build, Product, Territory, Detailed, Availability, Action, records, REST, HTTP, Inputs, Outputs]
 ---

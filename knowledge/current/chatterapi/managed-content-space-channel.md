@@ -5,7 +5,7 @@ topic: managed-content-space-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.572Z
+lastCollected: 2026-04-07T09:03:33.330Z
 estimatedTokens: 266
 keywords: [Managed, Content, Space, Channel]
 ---

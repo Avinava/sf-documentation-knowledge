@@ -5,7 +5,7 @@ topic: how-is-visualforce-architected
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.695Z
+lastCollected: 2026-04-07T09:04:59.287Z
 estimatedTokens: 482
 keywords: [How, Visualforce, Architected, pages, run, entirely, Lightning, platform, developer, creates, end, user, requests, shown, architecture]
 ---

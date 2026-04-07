@@ -5,7 +5,7 @@ topic: barcodescanner-exampleself-service-kiosk-legacy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.820Z
+lastCollected: 2026-04-07T09:04:25.074Z
 estimatedTokens: 1042
 keywords: [BarcodeScanner, Example—Self-Service, Kiosk, Legacy, Here’s, Lightning, web, component, serve, self-service]
 ---

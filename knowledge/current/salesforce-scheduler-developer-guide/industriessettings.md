@@ -4,9 +4,9 @@ domain: salesforce-scheduler-developer-guide
 topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-12T09:35:43.487Z
-estimatedTokens: 1539
+docType: developer-guide
+lastCollected: 2026-04-07T09:05:26.669Z
+estimatedTokens: 1479
 keywords: [IndustriesSettings, settings, Salesforce, Scheduler, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
 ---
 
@@ -66,10 +66,6 @@ The following is an example package.xml that references the previous definition.
 ```
 
 ```
-
-#### See Also
-
--   [Salesforce Help: Multiple Topics for Shifts](https://help.salesforce.com/s/articleView?id=platform.ls_multiple_topics_for_shifts.htm&type=5&language=en_US "Salesforce Help: Multiple Topics for Shifts - HTML (New Window)")
 
 ## Code Examples
 

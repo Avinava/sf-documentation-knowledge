@@ -5,7 +5,7 @@ topic: visualforce-performance-case-study
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.867Z
+lastCollected: 2026-04-07T09:04:56.642Z
 estimatedTokens: 301
 keywords: [Visualforce, Performance, Case, Study, understand, how, optimizations, work, together, examine, ways, reduce, load, time, large]
 ---

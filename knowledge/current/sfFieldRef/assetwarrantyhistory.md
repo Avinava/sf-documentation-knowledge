@@ -5,7 +5,7 @@ topic: assetwarrantyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.792Z
+lastCollected: 2026-04-07T09:05:33.947Z
 estimatedTokens: 261
 keywords: [AssetWarrantyHistory, History, tracked, AssetWarranty]
 ---

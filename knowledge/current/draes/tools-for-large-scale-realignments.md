@@ -5,7 +5,7 @@ topic: tools-for-large-scale-realignments
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.648Z
+lastCollected: 2026-04-07T09:03:41.788Z
 estimatedTokens: 385
 keywords: [Tools, Large-Scale, Realignments, demanding, maintenance, activity, customers, perform, realignment, sales, teams, territories, account, assignments, Whether]
 ---

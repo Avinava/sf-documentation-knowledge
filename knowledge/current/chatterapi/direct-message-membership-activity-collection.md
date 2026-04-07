@@ -5,7 +5,7 @@ topic: direct-message-membership-activity-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.284Z
+lastCollected: 2026-04-07T09:03:31.315Z
 estimatedTokens: 247
 keywords: [Direct, Message, Membership, Activity, Collection, member, activities]
 ---

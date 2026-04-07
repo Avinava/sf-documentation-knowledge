@@ -5,7 +5,7 @@ topic: api-detection-event-is-an-anomaly-but-isnt-clearly-malicious
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.961Z
+lastCollected: 2026-04-07T09:05:28.781Z
 estimatedTokens: 748
 keywords: [API, Detection, Event, Anomaly, Isn’t, Clearly, Malicious, Alice, sales, rep, Louis, She’s, often, road, meet]
 ---

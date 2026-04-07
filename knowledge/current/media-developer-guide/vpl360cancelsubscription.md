@@ -5,7 +5,7 @@ topic: vpl360cancelsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.124Z
+lastCollected: 2026-04-07T09:04:21.162Z
 estimatedTokens: 188
 keywords: [VPL360_CancelSubscription, Integration, Procedure, cancels, customer's, subscription, cancellation, base, package, initiated, VPL360, _CancelSubscription, Sample, Input, Output]
 ---

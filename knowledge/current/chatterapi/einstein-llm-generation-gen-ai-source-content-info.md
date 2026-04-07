@@ -5,7 +5,7 @@ topic: einstein-llm-generation-gen-ai-source-content-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.339Z
+lastCollected: 2026-04-07T09:03:31.402Z
 estimatedTokens: 152
 keywords: [Einstein, LLM, Generation, Gen, Source, Content, Info, cited, generated]
 ---

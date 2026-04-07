@@ -5,7 +5,7 @@ topic: prevent-record-duplication-with-idempotent-record-writes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.075Z
+lastCollected: 2026-04-07T09:06:15.582Z
 estimatedTokens: 1420
 keywords: [Prevent, Record, Duplication, Idempotent, Writes, avoid, records, server, operations, occur, app, client, encounters, network, connection]
 ---
@@ -74,13 +74,13 @@ You can receive one of the following errors.
 -   Idempotency not supported—Remove the Idempotency-Key header and retry the operation.
 -   Idempotency-Key is not in valid format—Generate a new Idempotency-Key header value and retry the operation.
 
-422
-
-The Idempotency-Key header value is already used by the same user for a different request. Generate a new Idempotency-Key value and retry the operation.
-
 409
 
 Either a different user has issued the same request earlier or this duplicate request is issued within a short time because an earlier request terminated abruptly. If you include a Retry-After header, a follow-up request is sent.
+
+422
+
+The Idempotency-Key header value is already used by the same user for a different request. Generate a new Idempotency-Key value and retry the operation.
 
 5XX
 

@@ -5,7 +5,7 @@ topic: expressionfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.843Z
+lastCollected: 2026-04-07T09:04:41.000Z
 estimatedTokens: 636
 keywords: [ExpressionFilter, logical, expression, that’s, control, execution, macro, instructions, API, version, 46.0, later, Calls, Usage]
 ---

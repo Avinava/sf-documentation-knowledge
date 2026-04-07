@@ -5,7 +5,7 @@ topic: crm-analytics-aura-events---asset-loaded-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.930Z
+lastCollected: 2026-04-07T09:03:14.860Z
 estimatedTokens: 827
 keywords: [CRM, Analytics, Aura, Events, Asset, Loaded, Event, React, rendering, completion, Reacting, Dashboard, Resources]
 ---

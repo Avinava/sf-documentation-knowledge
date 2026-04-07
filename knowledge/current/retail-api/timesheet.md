@@ -5,7 +5,7 @@ topic: timesheet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.639Z
+lastCollected: 2026-04-07T09:05:18.798Z
 estimatedTokens: 1227
 keywords: [TimeSheet, schedule, assignee's, time, Consumer, Goods, Cloud, API, v65.0, later, sheets, composed, sheet, entries, typically]
 ---

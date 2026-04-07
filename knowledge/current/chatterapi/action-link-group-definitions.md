@@ -5,7 +5,7 @@ topic: action-link-group-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.529Z
+lastCollected: 2026-04-07T09:03:24.458Z
 estimatedTokens: 973
 keywords: [Action, Link, Group, Definitions, definition, associate, feed, element, post, associated, actions, capability]
 ---

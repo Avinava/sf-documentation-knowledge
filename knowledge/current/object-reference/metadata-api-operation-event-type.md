@@ -5,7 +5,7 @@ topic: metadata-api-operation-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.446Z
+lastCollected: 2026-04-07T09:04:40.522Z
 estimatedTokens: 1055
 keywords: [Metadata, API, Operation, Event, events, contain, retrieval, deployment, requests]
 ---

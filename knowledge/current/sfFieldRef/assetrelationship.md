@@ -5,7 +5,7 @@ topic: assetrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.736Z
+lastCollected: 2026-04-07T09:05:33.861Z
 estimatedTokens: 484
 keywords: [AssetRelationship, non-hierarchical, relationship, assets, due, asset, modification, replacement, upgrade, circumstance, Revenue, Lifecycle, Management, grouped, bundle]
 ---

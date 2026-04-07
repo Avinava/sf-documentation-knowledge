@@ -5,7 +5,7 @@ topic: subscriptiontopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.626Z
+lastCollected: 2026-04-07T09:03:56.397Z
 estimatedTokens: 1242
 keywords: [SubscriptionTopic, FHIR, resource, maps, InteropTopic, InteropTopicDetail, InteropTopicTriggerCriteria, InteropTopicFilterand, InteropTopicNtfcnResourceobjects, Salesforce, V4.0, Subscription, Data, Model, Mapping]
 ---

@@ -5,7 +5,7 @@ topic: using-external-css
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.972Z
+lastCollected: 2026-04-07T09:04:12.680Z
 estimatedTokens: 941
 keywords: [External, CSS, resource, upload, <ltng, require>, tag, cmp, app, markup, Styling, Components, Lightning, Experience, Salesforce]
 ---

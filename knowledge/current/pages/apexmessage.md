@@ -5,7 +5,7 @@ topic: apexmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.764Z
+lastCollected: 2026-04-07T09:04:57.929Z
 estimatedTokens: 424
 keywords: [apex, message, specific, component, error, <apex, message>, messages>, included, messages, shown, debug, log, Attributes]
 ---

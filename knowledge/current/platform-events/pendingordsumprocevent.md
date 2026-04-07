@@ -5,7 +5,7 @@ topic: pendingordsumprocevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.055Z
+lastCollected: 2026-04-07T09:05:06.664Z
 estimatedTokens: 538
 keywords: [PendingOrdSumProcEvent, Notifies, subscribers, PendingOrderSummary, record, processed, process, succeeded, OrderSummary, created, deleted, event, trigger, flows, order]
 ---

@@ -5,7 +5,7 @@ topic: personalization-recommender-sort-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.337Z
+lastCollected: 2026-04-07T09:03:34.662Z
 estimatedTokens: 121
 keywords: [Personalization, Recommender, Sort, Criteria]
 ---

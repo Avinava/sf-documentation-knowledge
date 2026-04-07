@@ -5,7 +5,7 @@ topic: work-with-small-datasets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.196Z
+lastCollected: 2026-04-07T09:06:13.036Z
 estimatedTokens: 1976
 keywords: [Work, Small, Datasets, data, export, import, tree, commands, move, orgs, fewer, records, JSON, files, describe]
 ---

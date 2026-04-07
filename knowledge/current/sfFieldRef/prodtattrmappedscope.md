@@ -5,7 +5,7 @@ topic: prodtattrmappedscope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.969Z
+lastCollected: 2026-04-07T09:06:00.545Z
 estimatedTokens: 336
 keywords: [ProdtAttrMappedScope, junction, product, attribute, scope, classification, API, version, 65.0, later]
 ---

@@ -5,7 +5,7 @@ topic: location-graph-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.020Z
+lastCollected: 2026-04-07T09:03:27.921Z
 estimatedTokens: 319
 keywords: [Location, Graph, Upload, Asynchonously, inventory, group, data, Omnichannel, check, status, jobs]
 ---

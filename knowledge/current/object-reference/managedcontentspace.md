@@ -5,7 +5,7 @@ topic: managedcontentspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.714Z
+lastCollected: 2026-04-07T09:04:44.239Z
 estimatedTokens: 494
 keywords: [ManagedContentSpace, instance, Salesforce, CMS, workspace, stores, managed, content, Users, groups, designated, permissions, access, manage, API]
 ---

@@ -5,7 +5,7 @@ topic: get-transcript-from-conversation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.129Z
+lastCollected: 2026-04-07T09:03:51.631Z
 estimatedTokens: 283
 keywords: [Transcript, Conversation, Action, record, voice, call, messaging, session, chat, Special, Access, Rules, REST, HTTP, Inputs]
 ---

@@ -5,7 +5,7 @@ topic: request-a-salesforce-partner-business-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.495Z
+lastCollected: 2026-04-07T09:04:54.275Z
 estimatedTokens: 286
 keywords: [Salesforce, Partner, Business, Org, didn’t, receive, PBO, joined, Community, log, case, created, separate, username, skip]
 ---

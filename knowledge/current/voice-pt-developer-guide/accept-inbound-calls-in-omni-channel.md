@@ -5,7 +5,7 @@ topic: accept-inbound-calls-in-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.893Z
+lastCollected: 2026-04-07T09:06:18.294Z
 estimatedTokens: 253
 keywords: [Accept, Inbound, Calls, Omni-Channel, Now, you’ve, added, support, open, Voice, Call, Simulator, click, New]
 ---

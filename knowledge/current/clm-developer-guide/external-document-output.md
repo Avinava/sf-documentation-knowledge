@@ -5,7 +5,7 @@ topic: external-document-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.500Z
+lastCollected: 2026-04-07T09:03:38.295Z
 estimatedTokens: 187
 keywords: [External, Document, Output, representation]
 ---

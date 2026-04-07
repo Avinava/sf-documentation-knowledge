@@ -5,7 +5,7 @@ topic: wkdwonboardingtemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.488Z
+lastCollected: 2026-04-07T09:06:19.181Z
 estimatedTokens: 565
 keywords: [wkdw__OnboardingTemplate__c, custom, reusable, task, definition, assigned, employee, transition, plan, template, wkdw, _OnboardingTemplate, Calls]
 ---

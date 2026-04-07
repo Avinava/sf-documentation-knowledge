@@ -5,7 +5,7 @@ topic: when-to-use-scratch-org-snapshots-in-package-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.111Z
+lastCollected: 2026-04-07T09:05:02.681Z
 estimatedTokens: 788
 keywords: [Scratch, Org, Snapshots, Package, Development, managed, 2GP, unlocked, you’re, building, depends, large, packages, take, long]
 ---

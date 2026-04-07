@@ -5,7 +5,7 @@ topic: orderstatuschangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.028Z
+lastCollected: 2026-04-07T09:05:06.628Z
 estimatedTokens: 891
 keywords: [OrderStatusChangedEvent, Notifies, subscribers, changes, status, order, record, event, trigger, flows, processes, workflow, API, version, 51.0]
 ---

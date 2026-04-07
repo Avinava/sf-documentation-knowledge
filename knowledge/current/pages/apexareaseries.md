@@ -5,7 +5,7 @@ topic: apexareaseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.150Z
+lastCollected: 2026-04-07T09:04:57.069Z
 estimatedTokens: 1075
 keywords: [apex, areaSeries, data, series, rendered, shaded, areas, Visualforce, chart, It's, similar, line, fill, attribute, except]
 ---

@@ -5,7 +5,7 @@ topic: geterror
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.604Z
+lastCollected: 2026-04-07T09:04:15.088Z
 estimatedTokens: 95
 keywords: [getError, array, error, objects, server-side, actions, message, any, mode, except, PROD, stack, describing, execution, occurred]
 ---

@@ -5,8 +5,8 @@ topic: product-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.502Z
-estimatedTokens: 501
+lastCollected: 2026-04-07T09:03:34.951Z
+estimatedTokens: 507
 keywords: [Product, Detail]
 ---
 
@@ -17,6 +17,12 @@ keywords: [Product, Detail]
 # Product Detail
 
 Details of a product.
+
+JSON example
+
+```
+
+```
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
@@ -35,6 +41,315 @@ Details of a product.
 | variationAttribute​Set | Product Attribute Set | Variation attribute set for the product. | Small, 50.0 | 50.0 |
 | variationInfo | Product Variation Info | Available and allowable values for variation attributes and a map to resolve variation product IDs from attribute value combinations. | Small, 50.0 | 50.0 |
 | variationParentId | String | ID of the variation parent. | Small, 50.0 | 50.0 |
+
+## Code Examples
+
+```
+{
+  "products": [
+    {
+      "defaultImage": {
+        "alternateText": "",
+        "contentVersionId": null,
+        "id": null,
+        "mediaType": "Image",
+        "sortOrder": 0,
+        "thumbnailUrl": null,
+        "title": "image",
+        "url": "/img/b2b/default-product-image.svg"
+      },
+      "error": {},
+      "fields": {
+        "ConfigureDuringSale": "NotAllowed",
+        "StockKeepingUnit": null,
+        "Name": "KeyBoard"
+      },
+      "id": "01tSG00000BpCgKYAV",
+      "isConfigurationAllowed": false,
+      "mediaGroups": [
+        {
+          "developerName": "productListImage",
+          "id": "2mgSG000001u6JwYAI",
+          "mediaItems": [
+            {
+              "alternateText": "",
+              "contentVersionId": null,
+              "id": null,
+              "mediaType": "Image",
+              "sortOrder": 0,
+              "thumbnailUrl": null,
+              "title": "image",
+              "url": "/img/b2b/default-product-image.svg"
+            }
+          ],
+          "name": "Product List Image",
+          "usageType": "Listing"
+        }
+      ],
+      "name": "KeyBoard",
+      "productClass": "Simple",
+      "productSellingModels": [
+        {
+          "id": "0jPSG000000B2he2AC",
+          "name": "One Time",
+          "pricingTerm": null,
+          "pricingTermUnit": null,
+          "sellingModelType": "OneTime"
+        },
+        {
+          "id": "0jPSG000000B2hd2AC",
+          "name": "Term Based - Monthly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Months",
+          "sellingModelType": "TermDefined",
+          "subscriptionTermRule": {
+            "increment": 1,
+            "maximum": null,
+            "minimum": 1
+          }
+        },
+        {
+          "id": "0jPSG000000B2hi2AC",
+          "name": "Evergreen - Monthly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Months",
+          "sellingModelType": "Evergreen"
+        }
+      ],
+      "success": true
+    },
+    {
+      "defaultImage": {
+        "alternateText": "",
+        "contentVersionId": null,
+        "id": null,
+        "mediaType": "Image",
+        "sortOrder": 0,
+        "thumbnailUrl": null,
+        "title": "image",
+        "url": "/img/b2b/default-product-image.svg"
+      },
+      "error": {},
+      "fields": {
+        "ConfigureDuringSale": "NotAllowed",
+        "StockKeepingUnit": "M-0002",
+        "Name": "Mac Bundle"
+      },
+      "id": "01tSG00000BpCgJYAV",
+      "isConfigurationAllowed": false,
+      "mediaGroups": [
+        {
+          "developerName": "productListImage",
+          "id": "2mgSG000001u6JwYAI",
+          "mediaItems": [
+            {
+              "alternateText": "",
+              "contentVersionId": null,
+              "id": null,
+              "mediaType": "Image",
+              "sortOrder": 0,
+              "thumbnailUrl": null,
+              "title": "image",
+              "url": "/img/b2b/default-product-image.svg"
+            }
+          ],
+          "name": "Product List Image",
+          "usageType": "Listing"
+        }
+      ],
+      "name": "Mac Bundle",
+      "productClass": "Bundle",
+      "productSellingModels": [
+        {
+          "id": "0jPSG000000B2he2AC",
+          "name": "One Time",
+          "pricingTerm": null,
+          "pricingTermUnit": null,
+          "sellingModelType": "OneTime"
+        },
+        {
+          "id": "0jPSG000000B2hd2AC",
+          "name": "Term Based - Monthly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Months",
+          "sellingModelType": "TermDefined"
+        },
+        {
+          "id": "0jPSG000000B2hi2AC",
+          "name": "Evergreen - Monthly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Months",
+          "sellingModelType": "Evergreen"
+        }
+      ],
+      "sku": "M-0002",
+      "success": true
+    },
+    {
+      "defaultImage": {
+        "alternateText": "",
+        "contentVersionId": null,
+        "id": null,
+        "mediaType": "Image",
+        "sortOrder": 0,
+        "thumbnailUrl": null,
+        "title": "image",
+        "url": "/img/b2b/default-product-image.svg"
+      },
+      "error": {},
+      "fields": {
+        "ConfigureDuringSale": null,
+        "StockKeepingUnit": null,
+        "Name": "subproduct"
+      },
+      "id": "01tSG00000BpCgFYAV",
+      "isConfigurationAllowed": false,
+      "mediaGroups": [
+        {
+          "developerName": "productListImage",
+          "id": "2mgSG000001u6JwYAI",
+          "mediaItems": [
+            {
+              "alternateText": "",
+              "contentVersionId": null,
+              "id": null,
+              "mediaType": "Image",
+              "sortOrder": 0,
+              "thumbnailUrl": null,
+              "title": "image",
+              "url": "/img/b2b/default-product-image.svg"
+            }
+          ],
+          "name": "Product List Image",
+          "usageType": "Listing"
+        }
+      ],
+      "name": "subproduct",
+      "productClass": "Simple",
+      "productSellingModels": [
+        {
+          "id": "0jPSG000000B2hd2AC",
+          "name": "Term Based - Monthly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Months",
+          "sellingModelType": "TermDefined"
+        },
+        {
+          "id": "0jPSG000000B2hh2AC",
+          "name": "Evergreen - Yearly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Annual",
+          "sellingModelType": "Evergreen"
+        }
+      ],
+      "success": true
+    },
+    {
+      "defaultImage": {
+        "alternateText": "",
+        "contentVersionId": null,
+        "id": null,
+        "mediaType": "Image",
+        "sortOrder": 0,
+        "thumbnailUrl": null,
+        "title": "image",
+        "url": "/img/b2b/default-product-image.svg"
+      },
+      "error": {},
+      "fields": {
+        "ConfigureDuringSale": null,
+        "StockKeepingUnit": null,
+        "Name": "testproduct1"
+      },
+      "id": "01tSG00000BpCgDYAV",
+      "isConfigurationAllowed": false,
+      "mediaGroups": [
+        {
+          "developerName": "productListImage",
+          "id": "2mgSG000001u6JwYAI",
+          "mediaItems": [
+            {
+              "alternateText": "",
+              "contentVersionId": null,
+              "id": null,
+              "mediaType": "Image",
+              "sortOrder": 0,
+              "thumbnailUrl": null,
+              "title": "image",
+              "url": "/img/b2b/default-product-image.svg"
+            }
+          ],
+          "name": "Product List Image",
+          "usageType": "Listing"
+        }
+      ],
+      "name": "testproduct1",
+      "productClass": "Simple",
+      "productSellingModels": [
+        {
+          "id": "0jPSG000000B2hd2AC",
+          "name": "Term Based - Monthly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Months",
+          "sellingModelType": "TermDefined"
+        },
+        {
+          "id": "0jPSG000000B2hf2AC",
+          "name": "Term Based - Yearly",
+          "pricingTerm": 1,
+          "pricingTermUnit": "Annual",
+          "sellingModelType": "TermDefined"
+        }
+      ],
+      "success": true
+    },
+    {
+      "defaultImage": {
+        "alternateText": "",
+        "contentVersionId": null,
+        "id": null,
+        "mediaType": "Image",
+        "sortOrder": 0,
+        "thumbnailUrl": null,
+        "title": "image",
+        "url": "/img/b2b/default-product-image.svg"
+      },
+      "error": {},
+      "fields": {
+        "ConfigureDuringSale": null,
+        "StockKeepingUnit": null,
+        "Name": "testproduct"
+      },
+      "id": "01tSG00000BpCgCYAV",
+      "isConfigurationAllowed": false,
+      "mediaGroups": [
+        {
+          "developerName": "productListImage",
+          "id": "2mgSG000001u6JwYAI",
+          "mediaItems": [
+            {
+              "alternateText": "",
+              "contentVersionId": null,
+              "id": null,
+              "mediaType": "Image",
+              "sortOrder": 0,
+              "thumbnailUrl": null,
+              "title": "image",
+              "url": "/img/b2b/default-product-image.svg"
+            }
+          ],
+          "name": "Product List Image",
+          "usageType": "Listing"
+        }
+      ],
+      "name": "testproduct",
+      "productClass": "Simple",
+      "success": true
+    }
+  ],
+  "total": 5
+}
+```
 
 ## Related Topics
 

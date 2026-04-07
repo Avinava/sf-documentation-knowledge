@@ -5,7 +5,7 @@ topic: recipe-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:03.793Z
+lastCollected: 2026-04-07T09:03:09.815Z
 estimatedTokens: 103
 keywords: [Recipe, Resources, Recipes, prepare, data, creating, dataset, transformations, manipulate]
 ---

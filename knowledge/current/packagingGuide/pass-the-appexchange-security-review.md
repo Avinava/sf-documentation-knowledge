@@ -5,7 +5,7 @@ topic: pass-the-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.253Z
+lastCollected: 2026-04-07T09:04:55.629Z
 estimatedTokens: 628
 keywords: [Pass, AppExchange, Security, Review, Effective, Date, August, Salesforce, nothing, trust, customers, requires, how, prepare]
 ---

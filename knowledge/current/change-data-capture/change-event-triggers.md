@@ -5,7 +5,7 @@ topic: change-event-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.769Z
+lastCollected: 2026-04-07T09:03:18.883Z
 estimatedTokens: 1031
 keywords: [Change, Event, Triggers, Because, events, platform, they, share, characteristics, subscription, Apex, messages, contain, record, additional]
 ---

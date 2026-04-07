@@ -5,7 +5,7 @@ topic: connectapicreateinvoicefromchangeordersinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:46.439Z
+lastCollected: 2026-04-07T09:02:19.767Z
 estimatedTokens: 283
 keywords: [OrderSummary, associated, change, orders, Invoices]
 ---

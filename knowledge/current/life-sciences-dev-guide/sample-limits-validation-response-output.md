@@ -5,7 +5,7 @@ topic: sample-limits-validation-response-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.902Z
+lastCollected: 2026-04-07T09:04:06.745Z
 estimatedTokens: 159
 keywords: [Sample, Limits, Validation, Output, representation]
 ---

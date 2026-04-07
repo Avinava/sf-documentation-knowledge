@@ -5,7 +5,7 @@ topic: digitalverificationsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:37.035Z
+lastCollected: 2026-04-07T09:03:58.063Z
 estimatedTokens: 952
 keywords: [DigitalVerificationSetup, Stores, digital, verification, setup, number, signatures, needed, record, action, that's, API, version, 60.0, later]
 ---

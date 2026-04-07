@@ -5,7 +5,7 @@ topic: transactionapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.111Z
+lastCollected: 2026-04-07T09:03:16.766Z
 estimatedTokens: 3119
 keywords: [TransactionAPI, includes, several, payment, features, generateToken, mapOfTransactionParameterById, authorizeTransaction, captureTransaction, captureInputParameters, chargeTransaction, getPaymentStatus, voidTransaction, refundTransaction, nonReferredRefund]
 ---

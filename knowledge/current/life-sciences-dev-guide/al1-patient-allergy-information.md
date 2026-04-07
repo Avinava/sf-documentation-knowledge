@@ -5,7 +5,7 @@ topic: al1---patient-allergy-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.603Z
+lastCollected: 2026-04-07T09:04:08.943Z
 estimatedTokens: 242
 keywords: [AL1, Patient, Allergy, HL7, segment, maps, AllergyIntolerance, Salesforce, V2.3, Clinical, Data, Model, Mapping]
 ---

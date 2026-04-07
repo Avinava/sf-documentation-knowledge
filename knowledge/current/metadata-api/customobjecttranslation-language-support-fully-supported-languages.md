@@ -5,7 +5,7 @@ topic: customobjecttranslation-language-support-fully-supported-languages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:02.751Z
+lastCollected: 2026-04-07T09:02:36.613Z
 estimatedTokens: 522
 keywords: [CustomObjectTranslation, Language, Support, Fully, Languages, every, supports, possible, appendix, determine, Chinese, Simplified, Traditional, Danish, Dutch]
 ---

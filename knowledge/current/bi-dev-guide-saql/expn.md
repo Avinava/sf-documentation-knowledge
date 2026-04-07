@@ -5,7 +5,7 @@ topic: expn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.443Z
+lastCollected: 2026-04-07T09:03:14.126Z
 estimatedTokens: 76
 keywords: [exp, Euler's, number, raised, power, 2.71828183…, smallest, doesn’t, result, 3e-324, any, real, numeric, range, -1e308]
 ---

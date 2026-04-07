@@ -5,7 +5,7 @@ topic: giftsoftcreditfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.582Z
+lastCollected: 2026-04-07T09:05:48.081Z
 estimatedTokens: 388
 keywords: [GiftSoftCreditFeed, Feed, tracking, GiftSoftCredit]
 ---

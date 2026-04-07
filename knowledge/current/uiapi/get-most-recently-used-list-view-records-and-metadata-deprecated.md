@@ -5,7 +5,7 @@ topic: get-most-recently-used-list-view-records-and-metadata-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.497Z
+lastCollected: 2026-04-07T09:06:16.189Z
 estimatedTokens: 685
 keywords: [Recently, View, Records, Metadata, Deprecated, record, data, object’s, MRU]
 ---

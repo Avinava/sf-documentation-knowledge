@@ -5,7 +5,7 @@ topic: modify-a-multi-resource-service-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.242Z
+lastCollected: 2026-04-07T09:05:27.777Z
 estimatedTokens: 1039
 keywords: [Modify, Multi-Resource, Service, Appointment, Salesforce, Scheduler, APIs, case, explains, how, change, secondary, resources, time, slot]
 ---

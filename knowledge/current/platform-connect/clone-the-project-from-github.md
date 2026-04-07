@@ -5,7 +5,7 @@ topic: clone-the-project-from-github
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.532Z
+lastCollected: 2026-04-07T09:05:04.658Z
 estimatedTokens: 375
 keywords: [Clone, Project, GitHub, “hello, world”, sample, part, Canvas, SDK, located, copy, local, machine]
 ---

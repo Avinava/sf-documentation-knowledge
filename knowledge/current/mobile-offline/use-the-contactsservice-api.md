@@ -5,7 +5,7 @@ topic: use-the-contactsservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.942Z
+lastCollected: 2026-04-07T09:04:25.249Z
 estimatedTokens: 836
 keywords: [ContactsService, API, develop, Lightning, web, component, contacts-based, features, selecting, contacts, device’s, address, book, Add, Test]
 ---

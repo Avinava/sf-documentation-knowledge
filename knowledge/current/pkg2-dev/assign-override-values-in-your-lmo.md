@@ -5,7 +5,7 @@ topic: assign-override-values-in-your-lmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.130Z
+lastCollected: 2026-04-07T09:05:02.712Z
 estimatedTokens: 120
 keywords: [Assign, Override, LMO, feature, subscriber’s, org, appropriate, junction, record]
 ---

@@ -5,7 +5,7 @@ topic: service-process-studio-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.200Z
+lastCollected: 2026-04-07T09:05:15.305Z
 estimatedTokens: 221
 keywords: [Service, Process, Studio, Metadata, case, Define, attributes, OmniScripts, flows, classes, Integration, Definition]
 ---

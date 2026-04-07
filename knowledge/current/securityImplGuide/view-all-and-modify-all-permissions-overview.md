@@ -5,7 +5,7 @@ topic: view-all-and-modify-all-permissions-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:45.308Z
+lastCollected: 2026-04-07T09:05:29.287Z
 estimatedTokens: 906
 keywords: [“View, All”, “Modify, Permissions, ignore, sharing, rules, settings, allowing, administrators, grant, access, records, associated, across]
 ---

@@ -5,7 +5,7 @@ topic: migrate-or-import-existing-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.287Z
+lastCollected: 2026-04-07T09:06:13.157Z
 estimatedTokens: 1173
 keywords: [Migrate, Import, Source, Metadata, API, retrieve, code, convert, Salesforce, project]
 ---

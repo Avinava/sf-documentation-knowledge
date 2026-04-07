@@ -5,7 +5,7 @@ topic: apexselectoptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.109Z
+lastCollected: 2026-04-07T09:04:58.425Z
 estimatedTokens: 624
 keywords: [apex, selectOptions, collection, possible, <apex, selectCheckBoxes>, selectRadio>, selectList>, component, selectOptions>, child, components, bound, selectOption, objects]
 ---

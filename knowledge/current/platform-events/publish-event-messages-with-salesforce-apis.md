@@ -5,7 +5,7 @@ topic: publish-event-messages-with-salesforce-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.022Z
+lastCollected: 2026-04-07T09:05:05.374Z
 estimatedTokens: 1010
 keywords: [Publish, Event, Messages, Salesforce, APIs, External, apps, API, platform, Status, Code, Asynchronous, Publishing, REST, Composite]
 ---

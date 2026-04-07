@@ -5,7 +5,7 @@ topic: promotion-business-object-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.801Z
+lastCollected: 2026-04-07T09:05:17.486Z
 estimatedTokens: 591
 keywords: [Promotion, Business, API, base, configuration, provided]
 ---

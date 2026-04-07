@@ -5,7 +5,7 @@ topic: productsvccampaigndef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.076Z
+lastCollected: 2026-04-07T09:04:24.001Z
 estimatedTokens: 1323
 keywords: [ProductSvcCampaignDef, product, part, impacted, service, campaign, Stores, granular, faults, facilitating, efficient, execution, API, version, 65.0]
 ---

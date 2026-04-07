@@ -5,7 +5,7 @@ topic: fiscalyearfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.049Z
+lastCollected: 2026-04-07T09:03:15.056Z
 estimatedTokens: 186
 keywords: [fiscal_year_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, fiscal, year, begins, February, _year, _first]
 ---

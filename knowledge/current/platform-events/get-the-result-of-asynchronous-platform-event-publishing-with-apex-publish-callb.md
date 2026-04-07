@@ -5,7 +5,7 @@ topic: get-the-result-of-asynchronous-platform-event-publishing-with-apex-publis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.067Z
+lastCollected: 2026-04-07T09:05:05.445Z
 estimatedTokens: 1334
 keywords: [Result, Asynchronous, Platform, Event, Publishing, Apex, Publish, Callbacks, final, EventBus.publish, call, callback, implement, intermediate, queueing]
 ---

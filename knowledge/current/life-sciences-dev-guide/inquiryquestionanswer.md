@@ -5,7 +5,7 @@ topic: inquiryquestionanswer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:46.155Z
+lastCollected: 2026-04-07T09:04:10.647Z
 estimatedTokens: 1169
 keywords: [InquiryQuestionAnswer, answer, provided, Medical, Science, Liaison, MSL, inquiry, question, API, version, 65.0, later, Calls, Associated]
 ---

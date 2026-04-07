@@ -5,7 +5,7 @@ topic: promotionpushremoteactionextension-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.024Z
+lastCollected: 2026-04-07T09:05:17.852Z
 estimatedTokens: 646
 keywords: [PromotionPushRemoteActionExtension, Apex, programmatic, access, TPM, Push, Promotion, Process, Remote, Actions, Sample, Code, Snippet, readLOExtChildPromotions, txId]
 ---

@@ -5,7 +5,7 @@ topic: order-summary-graph-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:20.150Z
+lastCollected: 2026-04-07T09:03:34.348Z
 estimatedTokens: 452
 keywords: [Order, Summary, Graph, Output, creating, pending]
 ---

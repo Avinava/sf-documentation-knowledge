@@ -6,7 +6,7 @@ topic: care-plan-generic-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.043Z
+lastCollected: 2026-04-07T09:05:09.602Z
 estimatedTokens: 158
 keywords: [Care, Plan, Generic, Output, representation, created, record, template]
 ---

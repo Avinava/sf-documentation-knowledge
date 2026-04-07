@@ -5,7 +5,7 @@ topic: delete-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.275Z
+lastCollected: 2026-04-07T09:02:34.596Z
 estimatedTokens: 153
 keywords: [Record, sObject, Rows, resource, records, Specify]
 ---

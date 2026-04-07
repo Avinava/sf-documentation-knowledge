@@ -5,7 +5,7 @@ topic: reinstate-insurance-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.223Z
+lastCollected: 2026-04-07T09:04:02.703Z
 estimatedTokens: 444
 keywords: [Reinstate, Insurance, Policy, POST, previously, canceled]
 ---
@@ -72,7 +72,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/policies/0YTxx0000004CdeFGH/reinstate
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/policies/0YTxx0000004CdeFGH/reinstate
 ```
 
 ```

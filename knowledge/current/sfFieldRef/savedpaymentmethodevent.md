@@ -5,7 +5,7 @@ topic: savedpaymentmethodevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:12.935Z
+lastCollected: 2026-04-07T09:06:05.992Z
 estimatedTokens: 296
 keywords: [SavedPaymentMethodEvent, saved, payment, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered, API]
 ---

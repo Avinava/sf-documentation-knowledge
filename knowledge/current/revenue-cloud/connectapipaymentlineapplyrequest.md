@@ -5,7 +5,7 @@ topic: connectapipaymentlineapplyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:14.482Z
+lastCollected: 2026-04-07T09:01:56.606Z
 estimatedTokens: 244
 keywords: [ConnectApi.PaymentLineApplyRequest, Input, representation, payment, line, covers, allocation, specific, invoice, additional, context, associated, account, effective, date]
 ---

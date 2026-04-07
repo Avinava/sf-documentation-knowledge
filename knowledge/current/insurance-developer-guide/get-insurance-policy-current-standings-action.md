@@ -5,8 +5,8 @@ topic: get-insurance-policy-current-standings-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.635Z
-estimatedTokens: 235
+lastCollected: 2026-04-07T09:04:00.105Z
+estimatedTokens: 234
 keywords: [Insurance, Policy, Current, Standings, Action, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -24,7 +24,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/getInsPolicyCurrentStandings
+/services/data/v/actions/standard/getInsPolicyCurrentStandings
 
 Formats
 

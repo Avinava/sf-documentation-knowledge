@@ -5,7 +5,7 @@ topic: rest-api-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.227Z
+lastCollected: 2026-04-07T09:05:18.141Z
 estimatedTokens: 405
 keywords: [REST, API, Endpoints, different]
 ---

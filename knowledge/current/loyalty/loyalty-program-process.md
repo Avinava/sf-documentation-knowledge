@@ -5,7 +5,7 @@ topic: loyalty-program-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.155Z
+lastCollected: 2026-04-07T09:04:17.376Z
 estimatedTokens: 1172
 keywords: [Loyalty, Program, Process, Run, created, template]
 ---

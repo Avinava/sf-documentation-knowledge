@@ -5,7 +5,7 @@ topic: casesubjectparticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:04.290Z
+lastCollected: 2026-04-07T09:02:38.069Z
 estimatedTokens: 432
 keywords: [CaseSubjectParticle, Social, Business, Rules, custom, Case, Subject, cases, created, inbound, posts, File, Suffix, Directory, Location]
 ---

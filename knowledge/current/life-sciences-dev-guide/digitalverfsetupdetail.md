@@ -5,7 +5,7 @@ topic: digitalverfsetupdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:45.798Z
+lastCollected: 2026-04-07T09:04:10.272Z
 estimatedTokens: 723
 keywords: [DigitalVerfSetupDetail, Stores, contextual, digital, verification, setup, user, messages, display, time, API, version, 60.0, later, Calls]
 ---

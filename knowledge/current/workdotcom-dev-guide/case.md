@@ -5,7 +5,7 @@ topic: case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.525Z
+lastCollected: 2026-04-07T09:06:19.271Z
 estimatedTokens: 381
 keywords: [Case, Employee, Concierge, uses, standard, store, manage, support, ticket, data, managed, package, installs, custom, Usage]
 ---

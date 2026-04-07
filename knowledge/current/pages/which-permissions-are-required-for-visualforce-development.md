@@ -5,7 +5,7 @@ topic: which-permissions-are-required-for-visualforce-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.698Z
+lastCollected: 2026-04-07T09:04:59.292Z
 estimatedTokens: 193
 keywords: [Permissions, Visualforce, Development, requires, various, depending, specific, activity]
 ---

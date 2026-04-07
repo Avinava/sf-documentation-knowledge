@@ -5,7 +5,7 @@ topic: aura-component-versioning-for-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.487Z
+lastCollected: 2026-04-07T09:04:13.419Z
 estimatedTokens: 806
 keywords: [Aura, Component, Versioning, Managed, Packages, declare, dependencies, against, specific, revisions, installed, package]
 ---

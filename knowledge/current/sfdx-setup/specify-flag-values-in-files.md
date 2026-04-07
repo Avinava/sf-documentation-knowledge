@@ -5,7 +5,7 @@ topic: specify-flag-values-in-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.118Z
+lastCollected: 2026-04-07T09:06:14.291Z
 estimatedTokens: 996
 keywords: [Specify, Flag, Files, run, Salesforce, CLI, command, optionally, store, command's, local, text, rather, line, feature]
 ---

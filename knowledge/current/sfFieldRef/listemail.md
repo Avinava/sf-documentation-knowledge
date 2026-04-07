@@ -5,7 +5,7 @@ topic: listemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.387Z
+lastCollected: 2026-04-07T09:05:51.770Z
 estimatedTokens: 576
 keywords: [ListEmail, email, sent, Salesforce, Account, Engagement, synced, recipients, generated, combining, ListEmailIndividualRecipients, ListEmailRecipientSource, Duplicate, invalid, removed]
 ---

@@ -5,7 +5,7 @@ topic: javascript-examples-for-headless-identity-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.902Z
+lastCollected: 2026-04-07T09:03:51.399Z
 estimatedTokens: 1037
 keywords: [JavaScript, Examples, Headless, Identity, APIs, Postman, great, testing, learning, how, flows, doesn’t, show, app, interact]
 ---

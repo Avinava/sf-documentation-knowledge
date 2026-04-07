@@ -5,7 +5,7 @@ topic: submit-your-solution-for-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.365Z
+lastCollected: 2026-04-07T09:04:55.774Z
 estimatedTokens: 491
 keywords: [Submit, Solution, AppExchange, Security, Review, Partner, Console, Share, materials, pay, applicable, fees]
 ---

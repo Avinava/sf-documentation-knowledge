@@ -6,7 +6,7 @@ topic: enhanced-transaction-security-metering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.695Z
+lastCollected: 2026-04-07T09:05:28.363Z
 estimatedTokens: 534
 keywords: [Enhanced, Transaction, Security, Metering, uses, resource, help, prevent, malicious, unintentional, monopolization, shared, multi-tenant, platform, resources]
 ---

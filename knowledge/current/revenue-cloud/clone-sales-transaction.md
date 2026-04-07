@@ -5,7 +5,7 @@ topic: clone-sales-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:20.091Z
+lastCollected: 2026-04-07T09:02:00.408Z
 estimatedTokens: 202
 keywords: [Clone, Sales, Transaction, Output, representation, result, cloning, records]
 ---

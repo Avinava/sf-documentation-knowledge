@@ -5,7 +5,7 @@ topic: commerce-import-category-job-manage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.044Z
+lastCollected: 2026-04-07T09:03:25.100Z
 estimatedTokens: 243
 keywords: [Commerce, Import, Category, Job, Manage, Cancel, status, asynchronously, data, csv, file]
 ---

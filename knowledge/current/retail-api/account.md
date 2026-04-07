@@ -5,7 +5,7 @@ topic: account
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.497Z
+lastCollected: 2026-04-07T09:05:18.641Z
 estimatedTokens: 4007
 keywords: [Account, Standard, custom, extend, Consumer, Goods, Cloud, represent, individual, company, person, involved, business, customers, competitors]
 ---

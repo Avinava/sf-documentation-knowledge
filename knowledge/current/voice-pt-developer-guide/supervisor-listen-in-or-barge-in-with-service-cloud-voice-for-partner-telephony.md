@@ -5,7 +5,7 @@ topic: supervisor-listen-in-or-barge-in-with-service-cloud-voice-for-partner-tel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.934Z
+lastCollected: 2026-04-07T09:06:18.361Z
 estimatedTokens: 1203
 keywords: [Supervisor, Listen, Barge, Service, Cloud, Voice, Partner, Telephony, rep, belongs, supervised, group, monitor, their, active]
 ---

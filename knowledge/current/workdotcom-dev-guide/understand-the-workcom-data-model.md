@@ -5,8 +5,8 @@ topic: understand-the-workcom-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.304Z
-estimatedTokens: 1256
+lastCollected: 2026-04-07T09:06:18.909Z
+estimatedTokens: 1253
 keywords: [Understand, Work.com, Data, Model, Workplace, Command, Center, uses, mix, standard, Salesforce, objects, custom, Metadata, represent]
 ---
 
@@ -37,7 +37,7 @@ Objects added specifically for Work.com are:
 
 The relationships between objects used for Workplace Command Center are described in the following diagram:
 
-![Workplace Command Center ERD](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fworkdotcom%2Fimages%2Fworkdotcom_cc_erd.png&folder=workdotcom_dev_guide)
+![Workplace Command Center ERD](/docs/resources/img/en-us/260.0?doc_id=workdotcom%2Fimages%2Fworkdotcom_cc_erd.png&folder=workdotcom_dev_guide)
 
 -   **[Work with Employee Data](atlas.en-us.workdotcom_dev_guide.meta/workdotcom_dev_guide/wdc_cc_work_with_employee_data.htm)**
     While Work.com uses Employee to track employee information, existing solutions may already have an alternate data model that tracks employees. To apply the full power of Work.com, solutions may need to correlate or synchronize their data with Employee data.

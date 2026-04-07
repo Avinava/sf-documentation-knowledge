@@ -5,7 +5,7 @@ topic: captureresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:43.974Z
+lastCollected: 2026-04-07T09:02:16.671Z
 estimatedTokens: 2029
 namespace: CommercePayments
 keywords: [CaptureResponse, payment, gateway, adapter, capture, extends, AbstractResponse, inherits, Usage, setAmount, amount, setAsync, async, setGatewayAvsCode, gatewayAvsCode]

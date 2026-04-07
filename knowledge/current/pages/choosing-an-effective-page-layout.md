@@ -5,7 +5,7 @@ topic: choosing-an-effective-page-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.563Z
+lastCollected: 2026-04-07T09:05:00.621Z
 estimatedTokens: 1165
 keywords: [Choosing, Effective, Layout, Design, Visualforce, pages, look, good, work, well, Salesforce, mobile, app, appropriate, context]
 ---

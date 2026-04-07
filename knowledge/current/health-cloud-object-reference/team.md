@@ -5,7 +5,7 @@ topic: team
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:38.151Z
+lastCollected: 2026-04-07T09:03:59.491Z
 estimatedTokens: 806
 keywords: [Team, members, associated, organization, API, version, 58.0, later, Calls, Objects]
 ---

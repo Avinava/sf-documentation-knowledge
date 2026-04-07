@@ -5,7 +5,7 @@ topic: activate-your-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.834Z
+lastCollected: 2026-04-07T09:03:51.285Z
 estimatedTokens: 156
 keywords: [Activate, Site, Experience, Cloud, setup, headless, identity, often, overlooked, step, expose, API, endpoints]
 ---

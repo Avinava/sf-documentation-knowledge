@@ -5,8 +5,8 @@ topic: territory-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.798Z
-estimatedTokens: 1276
+lastCollected: 2026-04-07T09:04:07.891Z
+estimatedTokens: 945
 keywords: [Territory, Management, supports, strategically, organizing, territories, aligning, healthcare, providers, HCPs, organizations, HCOs, optimize, resource, allocation]
 ---
 
@@ -48,15 +48,6 @@ Enable users to log and manage time away from their assigned territories. Track 
 
 For more details and a larger image, visit the [Data Model Gallery](https://developer.salesforce.com/docs/platform/data-models/guide/territory-mgmt-user-downtime.html "HTML (New Window)").
 
--   **[TerrProvAffilAssignRule](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_terrprovaffilassignrule.htm)**
-    Represents a rule for aligning the affiliated accounts to the existing set of aligned accounts, based on their role, specialty, and account type. This object is available in API version 65.0 and later.
--   **[TerrGeoAssignmentRule](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_terrgeoassignmentrule.htm)**
-    Represents alignment rules that assign accounts to specific territories based on geocodes. This object is available in API version 65.0 and later.
--   **[TerritoryContentTmplAsgnt](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_territorycontenttmplasgnt.htm)**
-    Stores a link between a territory and a template allowing for the assignment of relevant content to specific territories. This object is available in API version 65.0 and later.
--   **[TerritoryUserDowntime](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_territoryuserdowntime.htm)**
-    Defines the blocks of time during normal business hours for various types of reasons when sales representatives are out of their territories. This object is available in API version 65.0 and later.
-
 #### See Also
 
 -   [*Object Reference for the Salesforce Platform*: Territory2](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_territory2.htm)
@@ -65,9 +56,5 @@ For more details and a larger image, visit the [Data Model Gallery](https://deve
 
 ## Related Topics
 
-- TerrProvAffilAssignRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_terrprovaffilassignrule.htm)
-- TerrGeoAssignmentRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_terrgeoassignmentrule.htm)
-- TerritoryContentTmplAsgnt (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_territorycontenttmplasgnt.htm)
-- TerritoryUserDowntime (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_territoryuserdowntime.htm)
 - Object Reference for the Salesforce Platform:
        ProviderAcctTerritoryInfo (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_provideracctterritoryinfo.htm)

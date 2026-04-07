@@ -5,7 +5,7 @@ topic: use-the-app-install-history-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.421Z
+lastCollected: 2026-04-07T09:03:15.656Z
 estimatedTokens: 846
 keywords: [App, Install, History, monitor, installations, progress, track, assets, created, view, logs, troubleshoot, any, installation, issues]
 ---

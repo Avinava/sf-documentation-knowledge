@@ -5,7 +5,7 @@ topic: personalization-experimentation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:16.249Z
+lastCollected: 2026-04-07T09:03:28.198Z
 estimatedTokens: 145
 keywords: [Personalization, Experimentation, Resources, manage, retrieve, experiments]
 ---

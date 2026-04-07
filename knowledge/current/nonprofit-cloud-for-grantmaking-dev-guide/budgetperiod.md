@@ -5,7 +5,7 @@ topic: budgetperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.022Z
+lastCollected: 2026-04-07T09:04:32.804Z
 estimatedTokens: 634
 keywords: [BudgetPeriod, distinct, time, interval, estimate, API, version, 57.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

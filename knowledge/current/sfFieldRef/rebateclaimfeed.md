@@ -5,7 +5,7 @@ topic: rebateclaimfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.463Z
+lastCollected: 2026-04-07T09:06:03.854Z
 estimatedTokens: 296
 keywords: [RebateClaimFeed, Feed, tracking, RebateClaim]
 ---

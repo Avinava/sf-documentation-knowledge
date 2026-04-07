@@ -5,7 +5,7 @@ topic: connectapiflowapprovalprocesscollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:51.770Z
+lastCollected: 2026-04-07T09:02:23.987Z
 estimatedTokens: 196
 keywords: [results, requesting, flow, approval, status]
 ---

@@ -5,7 +5,7 @@ topic: create-a-single-resource-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.223Z
+lastCollected: 2026-04-07T09:05:27.741Z
 estimatedTokens: 832
 keywords: [Single-Resource, Appointment, case, explains, how, build, scheduling, website, allow, users, book, service, appointments, resource, Salesforce]
 ---

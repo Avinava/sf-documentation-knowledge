@@ -5,7 +5,7 @@ topic: matchingruleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:12.750Z
+lastCollected: 2026-04-07T09:04:44.281Z
 estimatedTokens: 748
 keywords: [MatchingRuleItem, criteria, matching, rule, identify, duplicate, records, API, version, 33.0, later, Calls, Special, Access, Rules]
 ---

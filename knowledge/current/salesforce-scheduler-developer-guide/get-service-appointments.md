@@ -5,7 +5,7 @@ topic: get-service-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.099Z
+lastCollected: 2026-04-07T09:05:27.543Z
 estimatedTokens: 267
 keywords: [Service, Appointments, appointment, booked, Salesforce, Scheduler, AssignedResource, resource, assigned, Retrieve, IDs, scheduled, associated, specific, resources, query, ServiceAppointment, retrieve]
 ---

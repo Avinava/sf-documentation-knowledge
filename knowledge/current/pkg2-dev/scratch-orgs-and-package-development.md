@@ -5,7 +5,7 @@ topic: scratch-orgs-and-package-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.120Z
+lastCollected: 2026-04-07T09:05:02.697Z
 estimatedTokens: 1076
 keywords: [Scratch, Orgs, Package, Development, temporary, Salesforce, intended, automation, They, enable, source-driven, deployments, code, metadata, org]
 ---

@@ -5,7 +5,7 @@ topic: use-null-in-where-in-where
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.543Z
+lastCollected: 2026-04-07T09:06:14.860Z
 estimatedTokens: 286
 keywords: [search, keyword, SOQL, queries]
 ---

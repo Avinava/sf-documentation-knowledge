@@ -5,7 +5,7 @@ topic: cgcloudsalesorganizationuserc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.900Z
+lastCollected: 2026-04-07T09:05:21.489Z
 estimatedTokens: 1667
 keywords: [cgcloud__Sales_Organization_User__c, stores, relationship, sales, organization, user, API, version, 54.0, later, cgcloud, _Sales, _Organization, _User, Calls]
 ---

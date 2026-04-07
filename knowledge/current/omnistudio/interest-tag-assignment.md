@@ -5,7 +5,7 @@ topic: interest-tag-assignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.521Z
+lastCollected: 2026-04-07T09:02:54.120Z
 estimatedTokens: 148
 keywords: [Interest, Tag, Assignment, Output, representation, record]
 ---

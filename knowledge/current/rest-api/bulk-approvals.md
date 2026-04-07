@@ -5,7 +5,7 @@ topic: bulk-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:39.390Z
+lastCollected: 2026-04-07T09:02:34.684Z
 estimatedTokens: 150
 keywords: [Bulk, Approvals, Process, resource, specify, collection, different, requests, executed]
 ---

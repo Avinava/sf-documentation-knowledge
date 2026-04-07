@@ -5,7 +5,7 @@ topic: workprocedurestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.633Z
+lastCollected: 2026-04-07T09:04:12.237Z
 estimatedTokens: 932
 keywords: [WorkProcedureStep, work, that's, part, procedure, Special, Access, Rules, Calls, Associated, Objects]
 ---
@@ -13,7 +13,7 @@ keywords: [WorkProcedureStep, work, that's, part, procedure, Special, Access, Ru
 # WorkProcedureStep
 
 > Represents information about the work type that's a part of a work
-         procedure.
+      procedure.
 
 # WorkProcedureStep
 

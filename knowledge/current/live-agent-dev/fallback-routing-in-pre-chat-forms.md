@@ -5,7 +5,7 @@ topic: fallback-routing-in-pre-chat-forms
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:50.181Z
+lastCollected: 2026-04-07T09:04:15.975Z
 estimatedTokens: 543
 keywords: [Fallback, Routing, Pre-Chat, Forms, rules, case, agent, direct-to-agent, isn’t, chat, received]
 ---

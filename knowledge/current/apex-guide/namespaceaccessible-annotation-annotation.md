@@ -5,7 +5,7 @@ topic: namespaceaccessible-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.625Z
+lastCollected: 2026-04-07T09:02:31.038Z
 estimatedTokens: 902
 keywords: [NamespaceAccessible, Annotation, @NamespaceAccessible, Apex, package, packages, classes, interfaces, abstract, defined, 2GP, aren’t, accessible, Versioned, Behavior]
 ---

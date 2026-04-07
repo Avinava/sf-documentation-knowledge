@@ -5,7 +5,7 @@ topic: getpromotiontemplates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.978Z
+lastCollected: 2026-04-07T09:05:17.778Z
 estimatedTokens: 113
 keywords: [getPromotionTemplates, possible, Promotion, Templates, derive, workflow, Input, Sample, promotion, templates, along, additional, search, Display_In_MetadataWizard__c, unless]
 ---

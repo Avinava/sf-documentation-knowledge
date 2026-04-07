@@ -5,7 +5,7 @@ topic: work-item-merged-change-request-sfdevopsworkitemmergedchangerequeste
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.593Z
+lastCollected: 2026-04-07T09:03:41.702Z
 estimatedTokens: 519
 keywords: [Work, Item, Merged, Change, Notifies, subscribers, item’s, metadata, pipeline, stage’s, branch, API, version, 62.0, later]
 ---

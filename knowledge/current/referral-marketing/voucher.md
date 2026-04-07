@@ -5,7 +5,7 @@ topic: voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.329Z
+lastCollected: 2026-04-07T09:05:16.825Z
 estimatedTokens: 1547
 keywords: [Voucher, that’s, issued, advocate, referred, friend, API, version, 59.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: clinical-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:33.973Z
+lastCollected: 2026-04-07T09:03:54.269Z
 estimatedTokens: 3827
 keywords: [Clinical, Data, Model, Patient, healthcare, records, industry, accurate, performing, managing, care, becomes, difficult, readily, seeks]
 ---

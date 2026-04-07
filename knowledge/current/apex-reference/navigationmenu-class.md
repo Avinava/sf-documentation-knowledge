@@ -5,7 +5,7 @@ topic: navigationmenu-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:41.263Z
+lastCollected: 2026-04-07T09:02:13.139Z
 estimatedTokens: 2374
 namespace: ConnectApi
 keywords: [NavigationMenu, navigation, menu, items, Experience, Cloud, site, getCommunityNavigationMenu, communityId, navigationLinkSetId, navigationLinkSetDeveloperName, publishStatus, includeImageUrl, addHomeMenuItem, menuItemTypesToSkip]

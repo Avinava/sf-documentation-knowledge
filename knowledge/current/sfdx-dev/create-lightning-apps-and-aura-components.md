@@ -5,7 +5,7 @@ topic: create-lightning-apps-and-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.230Z
+lastCollected: 2026-04-07T09:06:13.085Z
 estimatedTokens: 369
 keywords: [Lightning, Apps, Aura, Components, Salesforce, CLI, local, project, generated, files, live, directory, package]
 ---

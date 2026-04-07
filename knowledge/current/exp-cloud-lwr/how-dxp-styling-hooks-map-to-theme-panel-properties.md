@@ -5,7 +5,7 @@ topic: how---dxp-styling-hooks-map-to-theme-panel-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.585Z
+lastCollected: 2026-04-07T09:03:45.875Z
 estimatedTokens: 3440
 keywords: [How, --dxp, Styling, Hooks, Map, Theme, Panel, declarative, maps, programmatic, user, updates, system, automatically, any]
 ---

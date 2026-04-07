@@ -5,7 +5,7 @@ topic: run-config-rules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.176Z
+lastCollected: 2026-04-07T09:01:55.296Z
 estimatedTokens: 383
 keywords: [Run, Config, Rules, Action, specific, quote, order, context, transaction, process, steps, part, configuration, directly, Flow]
 ---

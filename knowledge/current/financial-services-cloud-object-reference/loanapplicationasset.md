@@ -5,7 +5,7 @@ topic: loanapplicationasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.000Z
+lastCollected: 2026-04-07T09:03:50.368Z
 estimatedTokens: 1788
 keywords: [LoanApplicationAsset, borrower's, co-borrower's, current, personal, real, API, version, 47.0, later, Calls, Associated, Objects]
 ---

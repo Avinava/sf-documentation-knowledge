@@ -5,7 +5,7 @@ topic: care-request-drug
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.676Z
+lastCollected: 2026-04-07T09:04:06.305Z
 estimatedTokens: 1757
 keywords: [Care, Drug, Requested, including, strength, frequency, instructions, administration, requests, associated]
 ---

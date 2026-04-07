@@ -5,7 +5,7 @@ topic: custom-component-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.035Z
+lastCollected: 2026-04-07T09:04:56.910Z
 estimatedTokens: 363
 keywords: [Custom, Component, Controllers, Similar, standard, Visualforce, pages, components, associated, controller, written, Apex, association, made, setting]
 ---

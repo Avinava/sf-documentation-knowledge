@@ -5,7 +5,7 @@ topic: serializedproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.261Z
+lastCollected: 2026-04-07T09:04:24.240Z
 estimatedTokens: 612
 keywords: [SerializedProduct, Records, serial, numbers, product, inventory, API, version, 60.0, later, Calls]
 ---

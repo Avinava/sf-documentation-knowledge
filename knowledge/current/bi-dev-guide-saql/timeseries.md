@@ -5,7 +5,7 @@ topic: timeseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:06.830Z
+lastCollected: 2026-04-07T09:03:14.714Z
 estimatedTokens: 2423
 keywords: [timeseries, Uses, data, predict, future, points, statement, follow, projection, query, Perform, any, filtering, pre-projection, Usage]
 ---

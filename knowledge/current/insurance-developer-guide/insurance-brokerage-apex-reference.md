@@ -5,7 +5,7 @@ topic: insurance-brokerage-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.808Z
+lastCollected: 2026-04-07T09:04:03.658Z
 estimatedTokens: 170
 namespace: ConnectApi
 keywords: [Insurance, Brokerage, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce]

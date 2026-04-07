@@ -5,7 +5,7 @@ topic: lightning-web-components-in-crm-analytics-and-lightning-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:02.463Z
+lastCollected: 2026-04-07T09:03:07.965Z
 estimatedTokens: 790
 keywords: [Lightning, Web, Components, CRM, Analytics, Dashboards, now, extend, dashboard, capabilitieswith, own, custom, widgets]
 ---

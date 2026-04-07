@@ -5,8 +5,8 @@ topic: end-to-end-example-printer-supply-automation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.789Z
-estimatedTokens: 2113
+lastCollected: 2026-04-07T09:05:05.056Z
+estimatedTokens: 2081
 keywords: [End-to-End, Printer, Supply, Automation, demonstrates, how, sure, office, printers, always, enough, paper, ink, two, platform]
 ---
 
@@ -58,29 +58,29 @@ When the platform event–triggered flow receives a Printer Status event, the fl
 
 The flow starts when it receives a Printer Status platform event message.
 
-![A platform event–triggered flow that evalutes Printer Status events](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_printer_status_flow.png&folder=platform_events)
+![A platform event–triggered flow that evalutes Printer Status events](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_printer_status_flow.png&folder=platform_events)
 
 The Get Records element finds the related asset record by matching the asset's serial number with that of the incoming event message. The Get Records element provides us with the asset record fields that we use later in the flow.
 
-![The Get Records element finds the asset](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_printer_status_get_records.png&folder=platform_events)
+![The Get Records element finds the asset](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_printer_status_get_records.png&folder=platform_events)
 
 ### Order Ink or Paper
 
 A Decision element evaluates whether the ink level is low. It checks whether the Ink\_Level\_\_c field value in the event message is equal to 'Low'.
 
-![Decision element that checks the ink level](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_printer_status_order_ink_decision.png&folder=platform_events)
+![Decision element that checks the ink level](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_printer_status_order_ink_decision.png&folder=platform_events)
 
 If the ink level is low, the flow calls an Apex action that orders ink. The Apex action calls an invocable method and passes information about the ink type and the printer serial number as invocable variables.
 
-![Apex action that orders ink](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_apex_action_order_ink.png&folder=platform_events)
+![Apex action that orders ink](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_apex_action_order_ink.png&folder=platform_events)
 
 After the ink level is evaluated, another Decision element evaluates the paper level.
 
-![Decision element that checks the paper level](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_printer_status_order_paper_decision.png&folder=platform_events)
+![Decision element that checks the paper level](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_printer_status_order_paper_decision.png&folder=platform_events)
 
 If the paper level is lower than 10%, the flow calls an Apex action to order paper. The Apex action calls an invocable method and passes the paper size and serial number as invocable variables.
 
-![Apex action that orders paper](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_apex_action_order_paper.png&folder=platform_events)
+![Apex action that orders paper](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_apex_action_order_paper.png&folder=platform_events)
 
 The implementation of Apex actions isn’t covered in this example. For more information about invocable Apex actions, see [InvocableMethod Annotation](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm "HTML (New Window)") and [InvocableVariable Annotation](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_classes_annotation_InvocableVariable.htm "HTML (New Window)") in the Apex Developer Guide. Typically, you call an external service to place an order. To do so from an Apex action, you use Apex callouts. For more information, see [Invoking Callouts Using Apex](https://developer.salesforce.com/docs/atlas.en-us.260.0.apexcode.meta/apexcode/apex_callouts.htm) in the Apex Developer Guide.
 
@@ -88,19 +88,19 @@ The implementation of Apex actions isn’t covered in this example. For more inf
 
 The Install Printer Supplies flow is a platform event–triggered flow that subscribes to the Vendor Response platform event. When the vendor ships the printer part, they publish the Vendor Response platform event to notify their customer. This flow starts when it receives the Vendor Response event message. It creates a task for the asset owner to install the new printer part.
 
-![Platform event–triggered flow that subscribes to the Vendor Response platform event](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_vendor_response_flow.png&folder=platform_events)
+![Platform event–triggered flow that subscribes to the Vendor Response platform event](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_vendor_response_flow.png&folder=platform_events)
 
 The Get Records element finds the related asset by matching the asset's serial number with that of the received event message. Next, the Create Records element creates the installation task for the part.
 
-![Create Records element that creates an installation task](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_vendor_response_task.png&folder=platform_events)
+![Create Records element that creates an installation task](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_vendor_response_task.png&folder=platform_events)
 
 In this example, some task fields reference flow resources that are created separately. The InstallationDate is a formula resource and is defined as follows.
 
-![Formula resource for the installation date](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_vendor_response_formula.png&folder=platform_events)
+![Formula resource for the installation date](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_vendor_response_formula.png&folder=platform_events)
 
 TaskDescription is a text template resource with the following body.
 
-![Resource for the task description](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_example_vendor_response_text_template.png&folder=platform_events)
+![Resource for the task description](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_example_vendor_response_text_template.png&folder=platform_events)
 
 ## Related Topics
 

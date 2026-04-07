@@ -5,7 +5,7 @@ topic: ocrtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.122Z
+lastCollected: 2026-04-07T09:05:55.553Z
 estimatedTokens: 305
 namespace: NamespacePrefix
 keywords: [OcrTemplate, mapping, document, Salesforce, Einstein, Form, Reader]

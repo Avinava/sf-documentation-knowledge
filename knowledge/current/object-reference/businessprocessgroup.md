@@ -5,7 +5,7 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:05.781Z
+lastCollected: 2026-04-07T09:04:36.043Z
 estimatedTokens: 375
 keywords: [BusinessProcessGroup, Setup, stores, customer, lifecycle, maps, track, scores, provided, customers, across, their, Salesforce, Surveys, reserved]
 ---

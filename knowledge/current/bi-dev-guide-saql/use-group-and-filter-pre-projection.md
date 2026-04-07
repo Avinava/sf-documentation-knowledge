@@ -5,7 +5,7 @@ topic: use-group-and-filter-pre-projection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.696Z
+lastCollected: 2026-04-07T09:03:14.534Z
 estimatedTokens: 501
 keywords: [Group, Filter, Pre-projection, Improve, query, performance, moving, operations, simple, foreach, statement, projected, as-is, doesn't, additional]
 ---

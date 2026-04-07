@@ -5,7 +5,7 @@ topic: manage-calendar-events-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.884Z
+lastCollected: 2026-04-07T09:04:25.170Z
 estimatedTokens: 679
 keywords: [Manage, Calendar, Events, Mobile, Device, Lightning, web, component, device’s, functionality, calendar-related, actions, occur, event, data]
 ---

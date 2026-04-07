@@ -5,7 +5,7 @@ topic: map-extracted-text-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.632Z
+lastCollected: 2026-04-07T09:05:10.634Z
 estimatedTokens: 221
 keywords: [Map, Extracted, Text, Input, representation, OCR, document, scan, result, template, mapping]
 ---

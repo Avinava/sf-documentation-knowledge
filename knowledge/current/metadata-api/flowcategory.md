@@ -5,7 +5,7 @@ topic: flowcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:06.898Z
+lastCollected: 2026-04-07T09:02:40.716Z
 estimatedTokens: 514
 keywords: [FlowCategory, flows, grouped, category, aren’t, added, directly, Lightning, Bolt, Solution, Instead, add, extends, Metadata, inherits]
 ---

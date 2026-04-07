@@ -5,7 +5,7 @@ topic: revenuesourcecategoryconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:31.783Z
+lastCollected: 2026-04-07T09:03:51.210Z
 estimatedTokens: 883
 keywords: [RevenueSourceCategoryConfig, Revenue, Data, Source-related, stage, metric, want, measure, track, API, version, 57.0, later, SOAP, Calls]
 ---

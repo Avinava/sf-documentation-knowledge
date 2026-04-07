@@ -5,9 +5,9 @@ topic: businesslicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.168Z
-estimatedTokens: 2343
-keywords: [BusinessLicense, licenses, party, role, healthcare, provider, producer, Calls, Associated, Objects]
+lastCollected: 2026-04-07T09:04:09.595Z
+estimatedTokens: 2369
+keywords: [BusinessLicense, licenses, party, role, healthcare, provider, producer, Special, Access, Rules, Calls, Associated, Objects]
 ---
 
 # BusinessLicense
@@ -18,6 +18,10 @@ keywords: [BusinessLicense, licenses, party, role, healthcare, provider, produce
 # BusinessLicense
 
 Represents the licenses of a party role like healthcare provider or producer.
+
+## Special Access Rules
+
+In Life Science Cloud, this object is available in API version 65.0 and later.
 
 ## Supported Calls
 

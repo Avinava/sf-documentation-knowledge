@@ -5,8 +5,8 @@ topic: renderemailtemplatebodyresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.770Z
-estimatedTokens: 573
+lastCollected: 2026-04-07T09:02:14.936Z
+estimatedTokens: 572
 namespace: Messaging
 keywords: [RenderEmailTemplateBodyResult, results, rendering, email, templates, getErrors, getMergedBody, getSuccess]
 ---
@@ -23,7 +23,7 @@ Contains the results for rendering email templates.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 -   **[RenderEmailTemplateBodyResult Methods](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_RenderEmailTemplateBodyResult.htm#apex_Messaging_RenderEmailTemplateBodyResult_methods)**
 

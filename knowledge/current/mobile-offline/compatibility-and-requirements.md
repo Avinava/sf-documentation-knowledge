@@ -5,7 +5,7 @@ topic: compatibility-and-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.763Z
+lastCollected: 2026-04-07T09:04:24.998Z
 estimatedTokens: 412
 keywords: [Compatibility, Requirements, AppReviewService, JavaScript, module, API, Lightning, web, components, mobile, hardware, platform, operating, system, features, BarcodeScanner, BiometricsService, CalendarService, ContactsService, DocumentScanner]
 ---

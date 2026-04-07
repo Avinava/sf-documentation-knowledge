@@ -5,7 +5,7 @@ topic: considerations-for-querying-currency-data-using-soql
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:19.508Z
+lastCollected: 2026-04-07T09:06:14.818Z
 estimatedTokens: 428
 keywords: [Considerations, Querying, Currency, Data, SOQL, apply, query, Cloud, objects, lake, DLOs, model, DMOs]
 ---

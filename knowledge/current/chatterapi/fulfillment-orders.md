@@ -5,7 +5,7 @@ topic: fulfillment-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.490Z
+lastCollected: 2026-04-07T09:03:28.550Z
 estimatedTokens: 880
 keywords: [Fulfillment, Orders, FulfillmentOrders, FulfillmentOrderLineItems, OrderDeliveryGroupSummary, delivery, recipient, OrderSummary, specify, OrderItemSummaries, allocate, fulfilled, different, locations, Specifying]
 ---

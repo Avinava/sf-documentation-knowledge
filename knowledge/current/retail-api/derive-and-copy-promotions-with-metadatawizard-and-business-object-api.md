@@ -5,7 +5,7 @@ topic: derive-and-copy-promotions-with-metadatawizard-and-business-object-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.798Z
+lastCollected: 2026-04-07T09:05:17.481Z
 estimatedTokens: 293
 keywords: [Derive, Copy, Promotions, MetadataWizard, Business, API, Promotion, features, Metadata, wizard, customization, Wizards, Apex, processes, leveraging]
 ---

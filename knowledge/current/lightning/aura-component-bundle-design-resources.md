@@ -5,7 +5,7 @@ topic: aura-component-bundle-design-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.096Z
+lastCollected: 2026-04-07T09:04:12.861Z
 estimatedTokens: 2402
 keywords: [Aura, Component, Bundle, Design, Resources, resource, control, attributes, exposed, builder, tools, Lightning, App, Experience, Flow]
 ---

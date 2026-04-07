@@ -5,7 +5,7 @@ topic: managing-version-settings-for-custom-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:22.046Z
+lastCollected: 2026-04-07T09:04:56.926Z
 estimatedTokens: 304
 keywords: [Managing, Version, Settings, Custom, Components, modify, component, tab, editing, Setup]
 ---

@@ -5,7 +5,7 @@ topic: secure-your-tableau-accelerator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.133Z
+lastCollected: 2026-04-07T09:04:55.382Z
 estimatedTokens: 385
 keywords: [Secure, Tableau, Accelerator, Accelerators, listed, AppExchange, adhere, requirements, Allowed, Functionality, Links, URL, Actions, Sample, Data]
 ---

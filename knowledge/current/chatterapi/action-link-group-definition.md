@@ -5,7 +5,7 @@ topic: action-link-group-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.525Z
+lastCollected: 2026-04-07T09:03:24.451Z
 estimatedTokens: 297
 keywords: [Action, Link, Group, Definition, Deleting, removes, references, feed, elements, client, app, created, user, either, View, links, belong, mutually, exclusive, share]
 ---

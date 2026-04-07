@@ -5,8 +5,8 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.609Z
-estimatedTokens: 135
+lastCollected: 2026-04-07T09:04:17.940Z
+estimatedTokens: 136
 keywords: [Promotion, Output, representation, rule, configuration, APIs, allow, eligibility, rules, limits, choose, template, specific, view, eligible, promotions, customer’s, cart, associated, loyalty]
 ---
 

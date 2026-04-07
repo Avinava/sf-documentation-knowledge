@@ -5,7 +5,7 @@ topic: change-the-embedded-chat-window-appearance-and-behavior
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.349Z
+lastCollected: 2026-04-07T09:06:14.600Z
 estimatedTokens: 799
 keywords: [Change, Embedded, Chat, Window, Appearance, Behavior, affect, specific, stages, Customize, pre-chat, image, background, logo, waiting]
 ---

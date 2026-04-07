@@ -5,7 +5,7 @@ topic: group-membership-operations-and-sharing-recalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.616Z
+lastCollected: 2026-04-07T09:03:41.737Z
 estimatedTokens: 1040
 keywords: [Group, Membership, Operations, Sharing, Recalculation, Salesforce, role, hierarchy, groups, territories, closely, connected, rules, security, features]
 ---

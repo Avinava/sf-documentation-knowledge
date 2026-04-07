@@ -5,7 +5,7 @@ topic: vcs-synch-state-sfdevopsvcssynchstatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.556Z
+lastCollected: 2026-04-07T09:03:41.668Z
 estimatedTokens: 348
 keywords: [VCS, Synch, State, sf_devops__Vcs_Synch_State__c, synchronization, DevOps, Center, source, version, control, system, uses, track, events, ensure]
 ---

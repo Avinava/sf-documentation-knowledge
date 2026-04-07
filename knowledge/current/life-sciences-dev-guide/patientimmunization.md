@@ -5,8 +5,8 @@ topic: patientimmunization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.375Z
-estimatedTokens: 2808
+lastCollected: 2026-04-07T09:04:07.328Z
+estimatedTokens: 2690
 keywords: [PatientImmunization, patient’s, immunizations, API, version, 51.0, later, Calls, Additional, Objects, Associated]
 ---
 
@@ -99,9 +99,6 @@ Sharing rules are available for the object.
 
 Sharing is available for the object.
 
--   **[PatientImmunizationProtocol](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_patientimmunizationprotocol.htm)**
-    Represents the protocol followed by a provider for a patient’s immunization and its related details. The protocol defines the set of recommendations that are followed while a vaccine is administered. This object is a child of the PatientImmunization object. This object is available in API version 56.0 and later.
-
 ## Related Topics
 
 - PatientImmunizationChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
@@ -109,4 +106,3 @@ Sharing is available for the object.
 - PatientImmunizationHistory (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_history.htm)
 - PatientImmunizationOwnerSharingRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_ownersharingrule.htm)
 - PatientImmunizationShare (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm)
-- PatientImmunizationProtocol (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_patientimmunizationprotocol.htm)

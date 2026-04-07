@@ -5,7 +5,7 @@ topic: timelineobjectdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.834Z
+lastCollected: 2026-04-07T09:03:56.667Z
 estimatedTokens: 673
 keywords: [TimelineObjectDefinition, container, stores, timeline, configuration, resource, Salesforce, objects, their, records, events, linear, time-sorted, view, Parent, Stores, configurations, API, version, 55.0]
 ---

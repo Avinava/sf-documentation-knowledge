@@ -5,7 +5,7 @@ topic: criteria-based-search-and-filter-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.852Z
+lastCollected: 2026-04-07T09:03:05.821Z
 estimatedTokens: 157
 keywords: [Criteria-Based, Search, Filter, Automotive, Cloud, Configure, searchable, combines, data, that’s, spread, across, multiple, objects]
 ---

@@ -5,7 +5,7 @@ topic: pattern-approach
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.211Z
+lastCollected: 2026-04-07T09:04:04.267Z
 estimatedTokens: 563
 keywords: [Pattern, Approach, integration, patterns, document, classified, three, categories]
 ---

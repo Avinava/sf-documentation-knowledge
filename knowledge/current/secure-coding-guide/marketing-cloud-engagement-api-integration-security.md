@@ -5,7 +5,7 @@ topic: marketing-cloud-engagement-api-integration-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.503Z
+lastCollected: 2026-04-07T09:05:28.092Z
 estimatedTokens: 1949
 keywords: [Marketing, Cloud, Engagement, API, Integration, Security, part, treat, any, integrate, Salesforce, apps, few, additional, things]
 ---

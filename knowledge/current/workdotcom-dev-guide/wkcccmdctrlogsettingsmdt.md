@@ -5,7 +5,7 @@ topic: wkcccmdctrlogsettingsmdt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.351Z
+lastCollected: 2026-04-07T09:06:18.989Z
 estimatedTokens: 466
 keywords: [wkcc__CmdCtrLogSettings__mdt, Custom, metadata, record, named, configuring, logging, Workplace, Command, Center, Wellness, Check, enable, disable, configure]
 ---

@@ -5,7 +5,7 @@ topic: apex-unexpected-exception-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.913Z
+lastCollected: 2026-04-07T09:04:39.931Z
 estimatedTokens: 1111
 keywords: [Apex, Unexpected, Exception, Event, captures, exceptions, code, execution, EventLogFile, API, version, 45.0, later, captured, @IsTest]
 ---

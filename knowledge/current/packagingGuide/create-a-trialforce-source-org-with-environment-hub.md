@@ -5,7 +5,7 @@ topic: create-a-trialforce-source-org-with-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.401Z
+lastCollected: 2026-04-07T09:04:55.833Z
 estimatedTokens: 457
 keywords: [Trialforce, Source, Org, Environment, Hub, Partner, Business, PBO, TSO, install, package, configure, want, customers, experience]
 ---

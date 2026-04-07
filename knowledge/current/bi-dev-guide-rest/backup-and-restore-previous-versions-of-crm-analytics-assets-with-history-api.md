@@ -6,7 +6,7 @@ topic: backup-and-restore-previous-versions-of-crm-analytics-assets-with-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.493Z
+lastCollected: 2026-04-07T09:03:08.011Z
 estimatedTokens: 1485
 keywords: [Backup, Restore, Previous, Versions, CRM, Analytics, Assets, History, API, edit, dashboards, lenses, recipes, dataflows, backs]
 ---

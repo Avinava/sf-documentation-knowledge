@@ -5,7 +5,7 @@ topic: platform-event-schema-by-event-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:41.069Z
+lastCollected: 2026-04-07T09:02:36.043Z
 estimatedTokens: 1107
 keywords: [Platform, Event, Schema, definition, JSON, Examples, API, Version, 43.0, Later, 42.0, Earlier, Apache, Avro]
 ---

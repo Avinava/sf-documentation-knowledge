@@ -5,7 +5,7 @@ topic: commerce-webstore-order-summaries-adjustment-aggregates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.419Z
+lastCollected: 2026-04-07T09:03:25.610Z
 estimatedTokens: 184
 keywords: [Commerce, Webstore, Order, Summaries, Adjustment, Aggregates, Submit, job, calculate, summary, IDs]
 ---

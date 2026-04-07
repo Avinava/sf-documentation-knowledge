@@ -5,7 +5,7 @@ topic: ordersummaryroutingschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.093Z
+lastCollected: 2026-04-07T09:04:45.911Z
 estimatedTokens: 867
 keywords: [OrderSummaryRoutingSchedule, attempt, route, order, summary, inventory, locations, fulfillment, schedule, future, attempts, record, completed, API, version]
 ---

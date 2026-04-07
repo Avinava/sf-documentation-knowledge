@@ -5,7 +5,7 @@ topic: getsecondsinduration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.549Z
+lastCollected: 2026-04-07T09:04:15.003Z
 estimatedTokens: 124
 keywords: [getSecondsInDuration, number, seconds, duration, Sample, Code]
 ---

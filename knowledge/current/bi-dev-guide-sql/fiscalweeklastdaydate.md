@@ -5,7 +5,7 @@ topic: fiscalweeklastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.046Z
+lastCollected: 2026-04-07T09:03:15.051Z
 estimatedTokens: 177
 keywords: [fiscal_week_last_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, Sunday, fiscal, week, _week, _last, _day]
 ---

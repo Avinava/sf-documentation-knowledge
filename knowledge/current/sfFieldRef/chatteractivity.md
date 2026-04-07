@@ -5,7 +5,7 @@ topic: chatteractivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.972Z
+lastCollected: 2026-04-07T09:05:39.361Z
 estimatedTokens: 292
 keywords: [ChatterActivity, number, posts, comments, made, user, likes, received, API, version, 23.0, later]
 ---

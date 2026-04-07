@@ -5,7 +5,7 @@ topic: cgcloudordertemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:39.208Z
+lastCollected: 2026-04-07T09:05:20.737Z
 estimatedTokens: 8000
 keywords: [cgcloud__Order_Template__c, Template, behavior, sales, document, API, version, 54.0, later, cgcloud, _Order, _Template, Calls, Associated, Objects]
 ---

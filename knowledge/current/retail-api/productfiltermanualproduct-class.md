@@ -5,7 +5,7 @@ topic: productfiltermanualproduct-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.543Z
+lastCollected: 2026-04-07T09:05:17.141Z
 estimatedTokens: 459
 keywords: [ProductFilter.ManualProduct, APEX, programmatic, access, Manual, Products, associated, instance, TPM_ProductFilter, TPM, _ProductFilter.ManualProduct, isIncluded, API, Version, getProductId]
 ---
@@ -34,11 +34,11 @@ The following are methods for TPM\_ProductFilter.ManualProduct.
 
 -   **[global Boolean isIncluded](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.ManualProduct.htm#global_manual_product)**
     Returns true if the manual product is included, false otherwise.
--   **[global Id getProductId](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.ManualProduct.htm#unique_203051162)**
+-   **[global Id getProductId](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.ManualProduct.htm#unique_87236066)**
     Returns the Product ID of the Manual Product.
--   **[global ManualProduct setIncluded](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.ManualProduct.htm#unique_1916824412)**
+-   **[global ManualProduct setIncluded](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.ManualProduct.htm#unique_386178154)**
     Sets the Manual Product as included or excluded.
--   **[global ManualProduct setProductId](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.ManualProduct.htm#unique_1351275329)**
+-   **[global ManualProduct setProductId](atlas.en-us.retail_api.meta/retail_api/TPM_ProductFilter.ManualProduct.htm#unique_1139523894)**
     Sets the Manual Product ID value.
 
 ### global Boolean isIncluded

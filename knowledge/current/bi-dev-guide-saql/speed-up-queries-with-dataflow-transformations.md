@@ -5,7 +5,7 @@ topic: speed-up-queries-with-dataflow-transformations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.692Z
+lastCollected: 2026-04-07T09:03:14.528Z
 estimatedTokens: 504
 keywords: [Speed, Queries, Dataflow, Transformations, reduce, number, network, round, trips, perform, data, ELT, process, instead, query]
 ---

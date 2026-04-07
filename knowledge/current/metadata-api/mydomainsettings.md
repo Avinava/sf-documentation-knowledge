@@ -5,7 +5,7 @@ topic: mydomainsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:08.377Z
+lastCollected: 2026-04-07T09:02:42.262Z
 estimatedTokens: 3709
 keywords: [MyDomainSettings, org’s, Domain, settings, include, company, URLs, https, yourcompanyname.my.salesforce.com, extends, Metadata, inherits, fullName, File, Suffix]
 ---

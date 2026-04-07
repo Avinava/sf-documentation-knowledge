@@ -5,7 +5,7 @@ topic: context-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:52.410Z
+lastCollected: 2026-04-07T09:02:55.049Z
 estimatedTokens: 425
 keywords: [Context, Definition, clone, extend, standard, file, persist, entire]
 ---

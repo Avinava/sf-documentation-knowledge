@@ -5,7 +5,7 @@ topic: ant-migration-tool
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:24.143Z
+lastCollected: 2026-04-07T09:03:41.059Z
 estimatedTokens: 1013
 keywords: [Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t, updated, new, functionality]
 ---

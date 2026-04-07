@@ -5,7 +5,7 @@ topic: tenantsecurityhealthcheckbaselinetrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.940Z
+lastCollected: 2026-04-07T09:04:50.667Z
 estimatedTokens: 1305
 keywords: [TenantSecurityHealthCheckBaselineTrend, Stores, metric, Health, Check, baseline, settings, detail, Security, Center, displays, scores, tenants, place, metrics]
 ---

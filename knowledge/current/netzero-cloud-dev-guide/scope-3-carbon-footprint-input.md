@@ -5,7 +5,7 @@ topic: scope-3-carbon-footprint-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.256Z
+lastCollected: 2026-04-07T09:04:25.629Z
 estimatedTokens: 148
 keywords: [Scope, Carbon, Footprint, Input, representation, source, calculate, covers, greenhouse, gas, emissions, sources, owned, controlled, entities]
 ---

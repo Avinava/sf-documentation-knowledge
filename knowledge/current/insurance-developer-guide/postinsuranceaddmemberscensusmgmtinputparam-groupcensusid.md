@@ -6,7 +6,7 @@ topic: postinsuranceaddmemberscensusmgmtinputparam-groupcensusid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.944Z
+lastCollected: 2026-04-07T09:04:00.537Z
 estimatedTokens: 250
 keywords: [postInsuranceAddMembers, censusMgmtInputParam, groupCensusId, Add, new, group, census, members, API, Version, Requires, Chatter]
 ---

@@ -5,7 +5,7 @@ topic: service-process-studio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.673Z
+lastCollected: 2026-04-07T09:05:12.262Z
 estimatedTokens: 359
 keywords: [Service, Process, Studio, Build, enhanced, customer, experiences, real-time, integration, core, banking, functions, transactional, data]
 ---

@@ -5,7 +5,7 @@ topic: waveautoinstallrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.338Z
+lastCollected: 2026-04-07T09:04:52.516Z
 estimatedTokens: 1272
 keywords: [WaveAutoInstallRequest, access, concrete, CRM, Analytics, auto-install, tracks, progress, applications, created, templates, automated, process, user, API]
 ---

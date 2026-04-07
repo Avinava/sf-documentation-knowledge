@@ -5,7 +5,7 @@ topic: adserver
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.713Z
+lastCollected: 2026-04-07T09:04:22.039Z
 estimatedTokens: 739
 keywords: [AdServer, external, server, serves, advertising, content, various, platforms, API, version, 54.0, later, Calls, Associated, Objects]
 ---

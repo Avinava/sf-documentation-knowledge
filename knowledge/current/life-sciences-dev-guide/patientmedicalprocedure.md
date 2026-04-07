@@ -5,8 +5,8 @@ topic: patientmedicalprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.507Z
-estimatedTokens: 2429
+lastCollected: 2026-04-07T09:04:07.489Z
+estimatedTokens: 2332
 keywords: [PatientMedicalProcedure, detailed, healthcare, procedure, patient, undergone, undergoing, undergo, API, version, 51.0, later, Calls, Additional, Objects]
 ---
 
@@ -83,12 +83,8 @@ Sharing rules are available for the object.
 
 Sharing is available for the object.
 
--   **[PatientMedicalProcedureDetail](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_PatientMedicalProcedureDetail.htm)**
-    Associates records from different objects to a patient medical procedure record to add more information to the procedure record. This is a multi-object junction object. This object is available in API version 51.0 and later.
-
 ## Related Topics
 
 - PatientMedicalProcedureChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
 - PatientMedicalProcedureOwnerSharingRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_ownersharingrule.htm)
 - PatientMedicalProcedureShare (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm)
-- PatientMedicalProcedureDetail (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_PatientMedicalProcedureDetail.htm)

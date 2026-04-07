@@ -5,7 +5,7 @@ topic: serviceappointmentevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.334Z
+lastCollected: 2026-04-07T09:06:06.530Z
 estimatedTokens: 253
 keywords: [ServiceAppointmentEvent, Notifies, subscribers, service, appointment, generated, event, platform, API, version, 59.0, later]
 ---

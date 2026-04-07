@@ -5,7 +5,7 @@ topic: guidelines-and-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:24.486Z
+lastCollected: 2026-04-07T09:05:00.478Z
 estimatedTokens: 1932
 keywords: [Guidelines, Best, Practices, Visualforce, pages, aren’t, automatically, mobile, friendly, Salesforce, app, standard, sidebar, disabled, favor]
 ---

@@ -5,7 +5,7 @@ topic: sobject-tree-request-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:39.895Z
+lastCollected: 2026-04-07T09:02:35.111Z
 estimatedTokens: 567
 keywords: [sObject, Tree, collection, trees, resource, Input]
 ---

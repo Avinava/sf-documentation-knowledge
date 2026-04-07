@@ -5,7 +5,7 @@ topic: fulfillment-step-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.431Z
+lastCollected: 2026-04-07T09:02:54.032Z
 estimatedTokens: 214
 keywords: [Fulfillment, Step, Output, representation, steps, associated, stage]
 ---

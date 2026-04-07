@@ -5,7 +5,7 @@ topic: embeddedservicecustomcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.549Z
+lastCollected: 2026-04-07T09:02:47.080Z
 estimatedTokens: 582
 keywords: [EmbeddedServiceCustomComponent, custom, component, created, Embedded, Service, feature, components, Aura, Lightning, Web, API, version, 44.0, later]
 ---

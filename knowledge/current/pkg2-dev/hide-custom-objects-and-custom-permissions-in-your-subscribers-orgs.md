@@ -6,7 +6,7 @@ topic: hide-custom-objects-and-custom-permissions-in-your-subscribers-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.141Z
+lastCollected: 2026-04-07T09:05:02.734Z
 estimatedTokens: 689
 keywords: [Hide, Custom, Objects, Permissions, Subscribers’, Orgs, Occasionally, want, include, package, show, subscribers, you're, piloting, feature]
 ---

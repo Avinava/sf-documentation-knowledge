@@ -5,7 +5,7 @@ topic: wave-download-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.759Z
+lastCollected: 2026-04-07T09:04:40.893Z
 estimatedTokens: 1036
 keywords: [Wave, Download, Event, events, represent, downloads, made, lens, explorations, dashboard, widgets, CRM, Analytics, user, captured]
 ---

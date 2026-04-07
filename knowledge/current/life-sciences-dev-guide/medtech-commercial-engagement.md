@@ -5,7 +5,7 @@ topic: medtech-commercial-engagement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:43.701Z
+lastCollected: 2026-04-07T09:04:07.703Z
 estimatedTokens: 89
 keywords: [MedTech, Commercial, Engagement, objects, Life, Sciences, Cloud]
 ---

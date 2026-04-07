@@ -5,7 +5,7 @@ topic: unifiedvideocall
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.486Z
+lastCollected: 2026-04-07T09:04:51.431Z
 estimatedTokens: 641
 keywords: [UnifiedVideoCall, video, call, captured, synced, VideoCall, Task, record, reports, dashboards, Winter, ’24, release, later, Calls]
 ---

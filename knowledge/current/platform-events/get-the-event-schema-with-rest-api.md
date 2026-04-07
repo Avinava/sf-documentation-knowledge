@@ -5,7 +5,7 @@ topic: get-the-event-schema-with-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.774Z
+lastCollected: 2026-04-07T09:05:05.037Z
 estimatedTokens: 320
 keywords: [Event, Schema, REST, API, eventschema, resource, retrieve]
 ---

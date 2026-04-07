@@ -5,8 +5,8 @@ topic: configure-parallel-subscriptions-for-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.965Z
-estimatedTokens: 1910
+lastCollected: 2026-04-07T09:05:05.343Z
+estimatedTokens: 1900
 keywords: [Configure, Parallel, Subscriptions, Apex, Trigger, Referencing, multiple-step, three, partitions, custom, partition, key, verify, Setup, Step]
 ---
 
@@ -34,7 +34,7 @@ Prerequisites:
 
 To define the Order\_Event\_\_e platform event, follow the steps in [Platform Event Fields](atlas.en-us.platform_events.meta/platform_events/platform_events_define_ui.htm "Platform events contain standard fields. Add custom fields for your custom data."). Use the label of Order Event, and add the Order Number field of type Text(18) with the **Required** option enabled.
 
-1.  Click the quick access menu (![Quick access menu](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Flex-setup-gear.png&folder=platform_events)).
+1.  Click the quick access menu (![Quick access menu](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Flex-setup-gear.png&folder=platform_events)).
 2.  Click **Developer Console**.
 3.  Click **File** | **New** | **Apex Trigger**.
 4.  For Name, enter MyOrderEventTrigger.
@@ -138,13 +138,13 @@ Verify that the Apex trigger is executing with parallel subscriptions.
 2.  On the Platform Events page, click the platform event name: **Order Event**.
 3.  On the platform event detail page, verify that the Apex trigger is listed in the Parallel Subscriptions related list.
 
-    ![Parallel subscriptions related list](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform_events_ps_related_list.png&folder=platform_events)
+    ![Parallel subscriptions related list](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform_events_ps_related_list.png&folder=platform_events)
 
 4.  You can verify the trigger's execution by checking the debug output in the debug logs.
 
     In this case, three debug log entries are created, one for each Apex trigger invocation, which corresponds to one partition.
 
-    ![Debug logs generated for the parallel subscriptions](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform_events_ps_debug_logs.png&folder=platform_events)
+    ![Debug logs generated for the parallel subscriptions](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform_events_ps_debug_logs.png&folder=platform_events)
 
 
 #### See Also

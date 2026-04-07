@@ -5,7 +5,7 @@ topic: lightning-action-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.715Z
+lastCollected: 2026-04-07T09:04:13.762Z
 estimatedTokens: 1347
 keywords: [Lightning, Action, Examples, base, components, Quick, Contact, panel, recordViewForm, recordEditForm, force, recordData, Usage, Differences]
 ---

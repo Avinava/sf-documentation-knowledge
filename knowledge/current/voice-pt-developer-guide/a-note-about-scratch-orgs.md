@@ -5,7 +5,7 @@ topic: a-note-about-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.134Z
+lastCollected: 2026-04-07T09:06:18.677Z
 estimatedTokens: 440
 keywords: [Scratch, Orgs, developing, managed, package, recommend, org, source-driven, disposable, deployment, Salesforce, code, metadata]
 ---

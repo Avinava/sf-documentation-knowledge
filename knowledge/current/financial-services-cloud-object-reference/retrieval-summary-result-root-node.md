@@ -5,7 +5,7 @@ topic: retrieval-summary-result-root-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.705Z
+lastCollected: 2026-04-07T09:03:47.647Z
 estimatedTokens: 135
 keywords: [Retrieval, Summary, Result, Root, Node, Output, representation, definition, call]
 ---

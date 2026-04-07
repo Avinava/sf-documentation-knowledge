@@ -5,7 +5,7 @@ topic: agent-supervisor-overview-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:41.242Z
+lastCollected: 2026-04-07T09:05:23.028Z
 estimatedTokens: 416
 keywords: [Agent, Supervisor, Dashboard, similar, Service, Executive, focuses, line, managers, kind, visibility, team, level, identifies, agent-level]
 ---

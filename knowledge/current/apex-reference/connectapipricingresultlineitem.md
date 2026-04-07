@@ -5,7 +5,7 @@ topic: connectapipricingresultlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.494Z
+lastCollected: 2026-04-07T09:02:25.641Z
 estimatedTokens: 229
 keywords: [ConnectApi.PricingResultLineItem, Pricing, result, line, item]
 ---

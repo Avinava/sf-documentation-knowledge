@@ -5,8 +5,8 @@ topic: create-insurance-rating-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.537Z
-estimatedTokens: 508
+lastCollected: 2026-04-07T09:03:59.966Z
+estimatedTokens: 507
 keywords: [Insurance, Rating, Action, runtime, context, quote, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 66.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/createInsuranceRating
+/services/data/v/actions/standard/createInsuranceRating
 
 Formats
 

@@ -5,7 +5,7 @@ topic: action-limits-and-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.590Z
+lastCollected: 2026-04-07T09:04:13.563Z
 estimatedTokens: 511
 keywords: [Action, Limits, Considerations, Keep, mind, server-side, actions, Client, Payload, Data, Limit, Boxcar, Component, Lifecycle]
 ---

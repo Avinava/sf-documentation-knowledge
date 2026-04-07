@@ -5,7 +5,7 @@ topic: usageimpactgroupfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.453Z
+lastCollected: 2026-04-07T09:03:45.691Z
 estimatedTokens: 794
 keywords: [UsageImpactGroupFactor, junction, Usage, Impact, Group, version, Factor, API, 58.0, later, Calls, Special, Access, Rules, Associated]
 ---

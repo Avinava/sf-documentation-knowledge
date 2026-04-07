@@ -5,7 +5,7 @@ topic: process-criteria-matching-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.976Z
+lastCollected: 2026-04-07T09:04:05.285Z
 estimatedTokens: 414
 keywords: [Process, Criteria, Matching, Parses, GPT-generated, JSON, evaluate, inclusion, exclusion, criterion, Research, Study, Candidate, determining, whether]
 ---

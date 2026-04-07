@@ -5,7 +5,7 @@ topic: salesforce-crm-member-benefit-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:32.210Z
+lastCollected: 2026-04-07T09:02:08.376Z
 estimatedTokens: 316
 keywords: [Salesforce, CRM, Member, Benefit, Mapping, data, mappings, Journal, DLO, found, Loyalty, Management, bundle, Connector, Cloud]
 ---

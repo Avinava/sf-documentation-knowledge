@@ -5,8 +5,8 @@ topic: calculate-adjustments-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.490Z
-estimatedTokens: 246
+lastCollected: 2026-04-07T09:03:59.910Z
+estimatedTokens: 245
 keywords: [Calculate, Adjustments, Action, adjusted, amount, loss, item, generate, data, insurance, policy, limit, tracking, claim, coverage]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/calculateAdjustments
+/services/data/v/actions/standard/calculateAdjustments
 
 Formats
 

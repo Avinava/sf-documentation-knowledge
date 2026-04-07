@@ -5,7 +5,7 @@ topic: processinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:15.196Z
+lastCollected: 2026-04-07T09:04:47.133Z
 estimatedTokens: 2324
 keywords: [ProcessInstance, instance, end-to-end, approval, process, node, step, workitem, objects, history, reports, Calls, Usage, Associated]
 ---

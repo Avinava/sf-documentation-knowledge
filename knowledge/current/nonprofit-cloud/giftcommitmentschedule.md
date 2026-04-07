@@ -5,7 +5,7 @@ topic: giftcommitmentschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:01.540Z
+lastCollected: 2026-04-07T09:04:30.827Z
 estimatedTokens: 2092
 keywords: [GiftCommitmentSchedule, schedule, fulfilling, commitment, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

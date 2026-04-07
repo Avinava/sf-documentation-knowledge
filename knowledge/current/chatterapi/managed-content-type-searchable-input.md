@@ -5,7 +5,7 @@ topic: managed-content-type-searchable-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.063Z
+lastCollected: 2026-04-07T09:03:22.218Z
 estimatedTokens: 157
 keywords: [Managed, Content, Searchable, Input, status]
 ---

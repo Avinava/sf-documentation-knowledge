@@ -5,7 +5,7 @@ topic: action-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.556Z
+lastCollected: 2026-04-07T09:01:57.347Z
 estimatedTokens: 305
 keywords: [Action, Rule, CML, defined, keyword, primary, purpose, execute, designated, literal, condition, met]
 ---

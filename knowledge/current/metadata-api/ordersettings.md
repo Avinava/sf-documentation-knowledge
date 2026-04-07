@@ -5,7 +5,7 @@ topic: ordersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:08.689Z
+lastCollected: 2026-04-07T09:02:42.663Z
 estimatedTokens: 1049
 keywords: [OrderSettings, order, settings, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

@@ -5,7 +5,7 @@ topic: orderdeliverygroupsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:13.769Z
+lastCollected: 2026-04-07T09:04:45.585Z
 estimatedTokens: 2951
 keywords: [OrderDeliveryGroupSummary, current, state, group, OrderItemSummaries, belonging, OrderSummary, fulfilled, delivery, delivered, address, shipment, include, isn’t, guaranteed]
 ---

@@ -5,7 +5,7 @@ topic: get-compound-fields-in-change-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.746Z
+lastCollected: 2026-04-07T09:03:18.840Z
 estimatedTokens: 1331
 keywords: [Compound, Change, Events, lead, contact, Address, Geolocation, represented, nested, structures, event, message, record, updates, changedFields]
 ---

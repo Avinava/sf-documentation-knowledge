@@ -5,7 +5,7 @@ topic: queryresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:46.102Z
+lastCollected: 2026-04-07T09:02:48.726Z
 estimatedTokens: 530
 keywords: [QueryResult, results, query, EntityDefinition, layouts, entity, array, objects, Tooling, API, version, 34.0, later, QueryLocator, Metadata]
 ---

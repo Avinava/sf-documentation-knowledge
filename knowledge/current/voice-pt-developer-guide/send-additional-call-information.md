@@ -5,7 +5,7 @@ topic: send-additional-call-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.895Z
+lastCollected: 2026-04-07T09:06:18.298Z
 estimatedTokens: 530
 keywords: [Send, Additional, Call, disable, certain, handling, options, end, dial, pad, phone, book, softphone]
 ---

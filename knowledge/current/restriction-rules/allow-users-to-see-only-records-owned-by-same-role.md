@@ -5,7 +5,7 @@ topic: allow-users-to-see-only-records-owned-by-same-role
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.391Z
+lastCollected: 2026-04-07T09:05:16.912Z
 estimatedTokens: 179
 keywords: [Allow, Users, Records, Owned, Role, restriction, rule, active, events, dot, notation, traverse, relationships, recordFilter, Tooling]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudpaymenttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.391Z
+lastCollected: 2026-04-07T09:05:20.909Z
 estimatedTokens: 2514
 keywords: [cgcloud__Payment_Template__c, Stores, payment, template, that's, payments, API, version, 54.0, later, cgcloud, _Payment, _Template, Calls, Associated]
 ---

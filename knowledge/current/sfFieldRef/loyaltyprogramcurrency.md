@@ -5,7 +5,7 @@ topic: loyaltyprogramcurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.279Z
+lastCollected: 2026-04-07T09:05:53.025Z
 estimatedTokens: 481
 keywords: [LoyaltyProgramCurrency, qualifying, non-qualifying, currencies, associated, program, currency, engagement, member, it’s, tier, group, represent, points, earns]
 ---

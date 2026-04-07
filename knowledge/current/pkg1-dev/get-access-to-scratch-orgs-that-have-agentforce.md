@@ -5,7 +5,7 @@ topic: get-access-to-scratch-orgs-that-have-agentforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.709Z
+lastCollected: 2026-04-07T09:05:00.840Z
 estimatedTokens: 1332
 keywords: [Access, Scratch, Orgs, Agentforce, tools, customize, agents, deeply, securely, integrated, customers, data, apps, brings, together]
 ---

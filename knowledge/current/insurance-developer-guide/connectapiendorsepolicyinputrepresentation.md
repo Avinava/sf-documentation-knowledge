@@ -5,7 +5,7 @@ topic: connectapiendorsepolicyinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.178Z
+lastCollected: 2026-04-07T09:04:00.910Z
 estimatedTokens: 343
 keywords: [Input, representation, endorse, policy, Context, quote, that’s, endorsement, date, endorsed, version, effective, passed]
 ---

@@ -5,7 +5,7 @@ topic: view-big-object-data-in-reports-and-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.861Z
+lastCollected: 2026-04-07T09:03:16.390Z
 estimatedTokens: 448
 keywords: [View, Big, Data, Reports, Dashboards, working, billions, records, it’s, practical, build, directly, Instead, Bulk, API]
 ---

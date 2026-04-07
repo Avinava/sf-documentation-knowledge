@@ -5,7 +5,7 @@ topic: ai-details-for-your-agentforce-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.282Z
+lastCollected: 2026-04-07T09:04:53.920Z
 estimatedTokens: 824
 keywords: [Agentforce, Solution, Help, customers, assess, solution's, capabilities, Write, summarizes, Let, know, how, agents, topics, actions]
 ---

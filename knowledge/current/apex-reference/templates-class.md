@@ -5,7 +5,7 @@ topic: templates-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:21.935Z
+lastCollected: 2026-04-07T09:02:16.237Z
 estimatedTokens: 1376
 namespace: Wave
 keywords: [Templates, retrieving, CRM, Analytics, template, collections, individual, configurations, Usage, Examples, getTemplate, templateIdOrApiName, getTemplateConfig, getTemplates, options]

@@ -5,8 +5,8 @@ topic: convert-your-managed-1gp-package-to-2gp
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.463Z
-estimatedTokens: 1810
+lastCollected: 2026-04-07T09:05:01.676Z
+estimatedTokens: 1830
 keywords: [Convert, Managed, 1GP, Package, 2GP, version, ensure, development, environment]
 ---
 
@@ -21,6 +21,12 @@ Before you convert your managed 1GP package version, ensure your development env
 
 You need the latest version of Salesforce CLI installed, and the [Dev Hub and second-generation managed packaging](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_pkg_enable_devhub.htm) enabled in your PBO (Partner Business Org).
 
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=pkg1_dev)
+
+#### Note
+
+After you convert a package, it’s associated with your Dev Hub org. You can’t transfer the converted package to another Dev Hub org, and the association between the Dev Hub org and your package can’t be changed. This means any subsequent conversions you initiate for this package must be associated with the Dev Hub org you specify the first time you convert a particular package.
+
 Package Conversion Steps
 
 1.  Run sf update to ensure you have the latest Salesforce CLI.
@@ -31,12 +37,8 @@ Package Conversion Steps
     sf org login web --set-default-dev-hub
 
 5.  Link the namespace of your managed 1GP to the Dev Hub in your Partner Business Org (PBO).
-
     1.  Log in to your Dev Hub org.
     2.  Follow the steps listed in [Link a Namespace to a Dev Hub Org](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_reg_namespace.htm).
-
-    After you convert a package, it's associated with your Dev Hub org. The association between the Dev Hub org and your package can’t be changed. And you can't associate the package with a second, separate Dev Hub org. This means any subsequent package conversions you initiate for this package must be associated with the Dev Hub org you specify the first time you convert a particular package.
-
 6.  If your package depends on standard value sets, create a seed metadata file. Then in step 7, when you run sf package convert, include the —-seed-metadata flag.
 
     For details on setting up a seed metadata file, see [Picklist Value Errors](https://developer.salesforce.com/docs/atlas.en-us.pkg1_dev.meta/pkg1_dev/migration_troubleshoot_errors.htm).

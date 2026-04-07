@@ -6,7 +6,7 @@ topic: visualforce-components-and-features-to-avoid-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.512Z
+lastCollected: 2026-04-07T09:05:00.516Z
 estimatedTokens: 483
 keywords: [Visualforce, Components, Features, Avoid, Salesforce, Mobile, App, core, apex, function, normally, Unfortunately, doesn’t, mean, they’re]
 ---

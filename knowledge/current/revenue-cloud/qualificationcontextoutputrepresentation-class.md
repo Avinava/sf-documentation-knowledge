@@ -5,7 +5,7 @@ topic: qualificationcontextoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:14.244Z
+lastCollected: 2026-04-07T09:01:56.446Z
 estimatedTokens: 582
 keywords: [context, product, qualification, including, account, opportunity, relevant, data, determining, eligibility, isQualified, reason]
 ---

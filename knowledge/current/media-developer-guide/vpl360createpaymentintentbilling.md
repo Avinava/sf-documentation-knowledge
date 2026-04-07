@@ -5,7 +5,7 @@ topic: vpl360createpaymentintentbilling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.132Z
+lastCollected: 2026-04-07T09:04:21.173Z
 estimatedTokens: 168
 keywords: [VPL360_CreatePaymentIntentBilling, Integration, Procedure, creates, payment, intent, Pay, Now, billing, Self, care, VPL360, _CreatePaymentIntentBilling, Sample, Input]
 ---

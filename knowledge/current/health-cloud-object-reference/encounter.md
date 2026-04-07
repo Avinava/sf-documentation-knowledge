@@ -5,7 +5,7 @@ topic: encounter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.261Z
+lastCollected: 2026-04-07T09:03:55.937Z
 estimatedTokens: 2950
 keywords: [Encounter, F​HI​R, resource, maps, ​​Clinical​Encounter​, ​​Clinical​Encounter​​Diagnosis, ​​Clinical​Encounter​​Facility, ​​Clinical​Encounter​Identifier, ​​Clinical​Encounter​​Provider, ​​Clinical​Encounter​​Reason, ​​Clinical​Encounter​Svc​Request, objects, Salesforce​, V4​.0, ​Clinical]
 ---

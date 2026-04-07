@@ -5,7 +5,7 @@ topic: business-centric-constraint-modeling-language-cml-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-05T00:23:15.808Z
+lastCollected: 2026-04-07T09:01:57.489Z
 estimatedTokens: 365
 keywords: [Business-Centric, Constraint, Modeling, Language, CML, Guidelines, accurately, calculate, total, sum, aggregate, specific, attributes, quantity, userCount]
 ---

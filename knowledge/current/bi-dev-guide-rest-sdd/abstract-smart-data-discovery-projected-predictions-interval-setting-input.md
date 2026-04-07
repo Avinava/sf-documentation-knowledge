@@ -5,7 +5,7 @@ topic: abstract-smart-data-discovery-projected-predictions-interval-setting-inpu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.116Z
+lastCollected: 2026-04-07T09:03:12.021Z
 estimatedTokens: 360
 keywords: [Abstract, Smart, Data, Discovery, Projected, Predictions, Interval, Setting, Input, base, Einstein, settings]
 ---

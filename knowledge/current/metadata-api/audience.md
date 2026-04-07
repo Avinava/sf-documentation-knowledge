@@ -5,7 +5,7 @@ topic: audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:03.696Z
+lastCollected: 2026-04-07T09:02:37.493Z
 estimatedTokens: 2860
 keywords: [Audience, Experience, Builder, site, consists, different, criteria, assigned, targeting, extends, Metadata, inherits, fullName, File, Suffix]
 ---

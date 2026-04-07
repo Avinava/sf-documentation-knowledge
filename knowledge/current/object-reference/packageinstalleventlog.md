@@ -5,7 +5,7 @@ topic: packageinstalleventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.228Z
+lastCollected: 2026-04-07T09:04:46.065Z
 estimatedTokens: 855
 keywords: [PackageInstallEventLog, stores, package, installation, organization, API, version, 62.0, later, Calls, Special, Access, Rules]
 ---

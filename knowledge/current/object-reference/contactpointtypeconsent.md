@@ -5,7 +5,7 @@ topic: contactpointtypeconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:06.954Z
+lastCollected: 2026-04-07T09:04:37.476Z
 estimatedTokens: 1674
 keywords: [ContactPointTypeConsent, consent, contact, point, email, phone, API, version, 45.0, later, Calls, Special, Access, Rules, Associated]
 ---

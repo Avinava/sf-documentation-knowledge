@@ -5,7 +5,7 @@ topic: workfeedbackrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:19.608Z
+lastCollected: 2026-04-07T09:04:52.855Z
 estimatedTokens: 1925
 keywords: [WorkFeedbackRequest, feedback, subject, topic, question, recipient, application, case, offered, performance, questions, subject—for, submit, Calls, Additional]
 ---
@@ -27,7 +27,7 @@ Represents a single feedback request on a subject or topic (question) to a singl
 
 #### Note
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 ## Supported Calls
 

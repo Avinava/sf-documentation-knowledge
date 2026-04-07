@@ -5,7 +5,7 @@ topic: opportunitypreferredseller
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.366Z
+lastCollected: 2026-04-07T09:03:06.537Z
 estimatedTokens: 700
 keywords: [OpportunityPreferredSeller, relationship, opportunity, dealer, account, provided, lead, created, API, version, 56.0, later, Calls, Associated, Objects]
 ---

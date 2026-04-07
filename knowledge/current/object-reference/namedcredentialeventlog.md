@@ -5,7 +5,7 @@ topic: namedcredentialeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.080Z
+lastCollected: 2026-04-07T09:04:44.735Z
 estimatedTokens: 749
 namespace: Type
 keywords: [NamedCredentialEventLog, Named, Credential, event, captures, Apex, callouts, credentials, their, endpoints, audit, installed, managed, packages, don’t]

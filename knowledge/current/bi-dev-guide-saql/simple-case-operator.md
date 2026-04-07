@@ -5,7 +5,7 @@ topic: simple-case-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.653Z
+lastCollected: 2026-04-07T09:03:14.476Z
 estimatedTokens: 707
 keywords: [Simple, case, Operator, foreach, statement, assign, different, situations, supports, two, forms, searched, explains, Usage, Handling]
 ---

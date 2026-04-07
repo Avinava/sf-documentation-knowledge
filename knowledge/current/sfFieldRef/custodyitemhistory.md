@@ -5,7 +5,7 @@ topic: custodyitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:55.221Z
+lastCollected: 2026-04-07T09:05:42.154Z
 estimatedTokens: 258
 keywords: [CustodyItemHistory, History, tracked, CustodyItem]
 ---

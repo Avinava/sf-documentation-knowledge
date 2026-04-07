@@ -5,7 +5,7 @@ topic: dashboard-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.113Z
+lastCollected: 2026-04-07T09:04:40.173Z
 estimatedTokens: 1195
 keywords: [Dashboard, Event, events, contain, report, requests, dashboards, triggered, refreshes, subscriptions, filter, changes]
 ---

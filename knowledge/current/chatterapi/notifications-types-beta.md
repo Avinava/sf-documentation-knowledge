@@ -5,7 +5,7 @@ topic: notifications-types-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.996Z
+lastCollected: 2026-04-07T09:03:27.878Z
 estimatedTokens: 187
 keywords: [Notifications, Beta, notification, actions]
 ---

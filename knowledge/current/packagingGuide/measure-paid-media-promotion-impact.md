@@ -5,7 +5,7 @@ topic: measure-paid-media-promotion-impact
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.047Z
+lastCollected: 2026-04-07T09:04:55.178Z
 estimatedTokens: 1168
 keywords: [Measure, Paid, Media, Promotion, Impact, co-marketing, formula, provided, Salesforce, data, AppExchange, Marketplace, Analytics, compares, listing]
 ---

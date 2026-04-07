@@ -5,7 +5,7 @@ topic: salesforce-data-cloud-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:03.302Z
+lastCollected: 2026-04-07T09:04:33.177Z
 estimatedTokens: 2281
 keywords: [Salesforce, Data, Cloud, Objects, high-scale, store, large, amounts, over, time, DMO, Creation, UDMO, Zero, Copy]
 ---

@@ -5,7 +5,7 @@ topic: carespecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.738Z
+lastCollected: 2026-04-07T09:03:57.782Z
 estimatedTokens: 886
 keywords: [CareSpecialty, listing, provider, specialty, codes, descriptions, Physician, General, Surgery, Calls, Associated, Objects]
 ---

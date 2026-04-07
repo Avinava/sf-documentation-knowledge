@@ -5,8 +5,8 @@ topic: commerce-webstore-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.512Z
-estimatedTokens: 675
+lastCollected: 2026-04-07T09:03:25.724Z
+estimatedTokens: 658
 keywords: [Commerce, Webstore, Products, images]
 ---
 
@@ -23,7 +23,7 @@ Get fields and default images for a list of products.
 
 #### Note
 
-Dynamic bundles are supported only in Commerce B2B stores. The Commerce Webstore Products API doesn't support them in D2C stores.
+Dynamic bundles are supported only in Commerce B2B stores.
 
 Resource
 

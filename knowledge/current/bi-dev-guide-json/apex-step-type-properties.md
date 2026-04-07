@@ -6,7 +6,7 @@ topic: apex-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:02.308Z
+lastCollected: 2026-04-07T09:03:07.758Z
 estimatedTokens: 1402
 keywords: [apex, Step, include, custom, functionality, dashboard, access, Salesforce, platform, features, aren’t, inherently, Analytics, pull, data]
 ---

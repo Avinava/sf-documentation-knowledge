@@ -5,7 +5,7 @@ topic: objectdataimport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.937Z
+lastCollected: 2026-04-07T09:05:55.256Z
 estimatedTokens: 372
 keywords: [ObjectDataImport, data, import, status, records, API, version, 57.0, later]
 ---

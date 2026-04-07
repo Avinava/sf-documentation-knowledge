@@ -5,7 +5,7 @@ topic: extdatashare
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.869Z
+lastCollected: 2026-04-07T09:04:41.032Z
 estimatedTokens: 1189
 keywords: [ExtDataShare, data, share, collection, Cloud, objects, shared, orgs, third-party, partners, API, version, 56.0, later, Calls]
 ---

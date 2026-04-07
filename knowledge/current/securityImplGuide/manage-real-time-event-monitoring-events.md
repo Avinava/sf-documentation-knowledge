@@ -5,7 +5,7 @@ topic: manage-real-time-event-monitoring-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.765Z
+lastCollected: 2026-04-07T09:05:28.460Z
 estimatedTokens: 365
 keywords: [Manage, Real-Time, Event, Monitoring, Events, streaming, storage, settings, declaratively, Manager, programmatically, Metadata, API, helps, monitor]
 ---

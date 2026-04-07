@@ -5,7 +5,7 @@ topic: carebarrier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.714Z
+lastCollected: 2026-04-07T09:05:14.765Z
 estimatedTokens: 1482
 keywords: [CareBarrier, obstacle, circumstance, prevents, constituent, getting, care, services, API, version, 61.0, later, Calls, Special, Access]
 ---

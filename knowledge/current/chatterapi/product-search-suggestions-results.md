@@ -5,7 +5,7 @@ topic: product-search-suggestions-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.587Z
+lastCollected: 2026-04-07T09:03:35.076Z
 estimatedTokens: 79
 keywords: [Product, Search, Suggestions, Results]
 ---

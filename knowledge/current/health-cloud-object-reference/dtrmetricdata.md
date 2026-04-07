@@ -5,7 +5,7 @@ topic: dtrmetricdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.487Z
+lastCollected: 2026-04-07T09:03:56.220Z
 estimatedTokens: 772
 keywords: [DTRMetricData, FHIR, resource, maps, ServiceInformationRequest, ServiceInfoRequestDetail, ServiceInfoRequestOperation, andServiceInfoResponseCoverageobjects, V4.0, Documentation, Templates, Rules, Data, Model, Mapping]
 ---

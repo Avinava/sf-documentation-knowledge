@@ -5,7 +5,7 @@ topic: how-should-i-plan-my-app-analytics-query-strategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.944Z
+lastCollected: 2026-04-07T09:05:02.461Z
 estimatedTokens: 1236
 keywords: [How, Plan, App, Analytics, Query, Strategy, detailed, depends, size, scope, business, data, you’re, querying, Compress]
 ---

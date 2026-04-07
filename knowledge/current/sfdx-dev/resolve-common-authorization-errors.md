@@ -5,7 +5,7 @@ topic: resolve-common-authorization-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.701Z
+lastCollected: 2026-04-07T09:06:13.685Z
 estimatedTokens: 5047
 keywords: [Resolve, Common, Authorization, Errors, sometimes, occur, run, either, org, login, web, jwt, log, authorize, they]
 ---

@@ -5,7 +5,7 @@ topic: division
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.185Z
+lastCollected: 2026-04-07T09:04:39.029Z
 estimatedTokens: 791
 keywords: [Division, logical, segment, organization's, data, company, organized, different, business, units, unit, “North, America, “Healthcare, “Consulting.”]
 ---

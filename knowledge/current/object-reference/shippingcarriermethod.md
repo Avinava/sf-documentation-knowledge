@@ -5,7 +5,7 @@ topic: shippingcarriermethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:17.148Z
+lastCollected: 2026-04-07T09:04:49.617Z
 estimatedTokens: 886
 keywords: [ShippingCarrierMethod, Shipping, service, provided, carrier, Examples, include, Ground, 2Day, NextDay, depends, range, transit, times, API]
 ---

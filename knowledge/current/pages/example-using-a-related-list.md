@@ -5,7 +5,7 @@ topic: example-using-a-related-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.464Z
+lastCollected: 2026-04-07T09:04:58.946Z
 estimatedTokens: 737
 keywords: [Dynamic, Visualforce, components, best, don’t, know, want, opposed, bindings, access]
 ---

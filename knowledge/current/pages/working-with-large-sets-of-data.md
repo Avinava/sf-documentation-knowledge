@@ -5,7 +5,7 @@ topic: working-with-large-sets-of-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.337Z
+lastCollected: 2026-04-07T09:04:58.748Z
 estimatedTokens: 418
 keywords: [Working, Large, Data, Visualforce, custom, controllers, controller, extensions, subject, Apex, governor, limits, Additionally, iteration, components]
 ---

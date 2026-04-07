@@ -5,7 +5,7 @@ topic: industrieseventorchsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.236Z
+lastCollected: 2026-04-07T09:04:22.746Z
 estimatedTokens: 409
 keywords: [IndustriesEventOrchSettings, settings, enabling, Manufacturing, cloud, feature, Event, Orchestration, Decision, Parent, Manifest, Access, File, Suffix, Directory]
 ---

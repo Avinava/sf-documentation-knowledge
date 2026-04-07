@@ -5,7 +5,7 @@ topic: fostatuschangedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.637Z
+lastCollected: 2026-04-07T09:05:06.202Z
 estimatedTokens: 711
 keywords: [FOStatusChangedEvent, Notifies, subscribers, changes, status, fulfillment, order, record, event, trigger, flows, processes, workflow, API, version]
 ---

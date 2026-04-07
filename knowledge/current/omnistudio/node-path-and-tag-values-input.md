@@ -5,7 +5,7 @@ topic: node-path-and-tag-values-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:49.056Z
+lastCollected: 2026-04-07T09:02:51.641Z
 estimatedTokens: 113
 keywords: [Node, Path, Tag, Input, representation, needs]
 ---

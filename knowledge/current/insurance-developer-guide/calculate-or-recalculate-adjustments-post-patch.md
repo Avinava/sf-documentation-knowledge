@@ -5,8 +5,8 @@ topic: calculate-or-recalculate-adjustments-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.032Z
-estimatedTokens: 707
+lastCollected: 2026-04-07T09:04:02.428Z
+estimatedTokens: 705
 keywords: [Calculate, Recalculate, Adjustments, POST, PATCH, new, loss, item, payment, detail, record, under, claim, coverage]
 ---
 
@@ -38,7 +38,7 @@ Resource example
 
 Available version
 
-POST, PATCH
+65.0
 
 PATCH is available in version 66.0 and later.
 
@@ -102,7 +102,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/calculate-adjustments
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/calculate-adjustments
 ```
 
 ```

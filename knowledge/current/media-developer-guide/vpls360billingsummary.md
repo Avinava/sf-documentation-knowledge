@@ -5,7 +5,7 @@ topic: vpls360billingsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.233Z
+lastCollected: 2026-04-07T09:04:21.338Z
 estimatedTokens: 134
 keywords: [VPLS360_BillingSummary, Integration, Procedure, fetches, stub, data, billing, summary, invoices, VPLS360, _BillingSummary, Sample, Input, Output, Calls]
 ---

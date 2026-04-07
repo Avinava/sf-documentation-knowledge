@@ -5,7 +5,7 @@ topic: configure-offline-mode-in-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:51.161Z
+lastCollected: 2026-04-07T09:03:02.664Z
 estimatedTokens: 670
 keywords: [Configure, Offline, Mode, Service, Mobile, App, expect, Automatic, turned, how, adjust, settings]
 ---

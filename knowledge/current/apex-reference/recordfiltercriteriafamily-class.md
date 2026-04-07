@@ -5,7 +5,7 @@ topic: recordfiltercriteriafamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:41.876Z
+lastCollected: 2026-04-07T09:02:13.469Z
 estimatedTokens: 441
 namespace: ConnectApi
 keywords: [RecordFilterCriteriaFamily, Filter, records, recordset, criteria, evaluateRecordsetFilterCriteria, recordsetFilterCriteriaInput, API, Version, Requires, Chatter, Usage]

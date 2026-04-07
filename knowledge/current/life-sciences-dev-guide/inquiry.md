@@ -5,8 +5,8 @@ topic: inquiry
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:46.135Z
-estimatedTokens: 1286
+lastCollected: 2026-04-07T09:04:10.628Z
+estimatedTokens: 1498
 keywords: [Inquiry, logged, sales, representative, user, API, version, 65.0, later, Calls, Associated, Objects]
 ---
 
@@ -27,6 +27,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 | Field | Details |
 | --- | --- |
+| AccountId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe account associated with the inquiry.This field is a relationship field.Relationship NameAccountRefers ToAccount |
 | CaseId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the case associated with the inquiry. Inquiry is an extension of the case. This is a unique field.This field is a relationship field.Relationship NameCaseRelationship TypeMaster-detailRefers ToCase (the master object) |
 | Comment | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe special handling instructions for Inquiry. |
 | DisclaimerText | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe disclaimer that was presented to the user for the Inquiry. |
@@ -36,9 +37,12 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionThe name of the inquiry. |
 | Priority | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe priority type of the inquiry.Possible values are:YesNo |
+| RecordTypeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe record type of the inquiry.This field is a relationship field.Relationship NameRecordTypeRefers ToRecordType |
+| ReferenceRecordId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reference record ID of the inquiry.This field is a polymorphic relationship field.Relationship NameReferenceRecordRefers ToVisit |
 | ResponseContactPointRecId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe contact method through which the account receives the information.This field is a polymorphic relationship field.Relationship NameResponseContactPointRecRefers ToContactPointAddress, ContactPointEmail, ContactPointPhone |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the record in the external system. |
 | SourceSystemName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the external system that generated the record. |
+| Status | TypepicklistPropertiesDefaulted on Create, Filter, Group, Nillable, SortDescriptionThe status of the inquiry.Possible values are:AssignedDraftRespondedSignedSubmittedThe default value is Draft. |
 | SubmittedDateTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time when the inquiry was submitted. |
 | Territory2Id | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe territory or organizational region associated with the inquiry.This field is a relationship field.Relationship NameTerritory2Refers ToTerritory2 |
 | TerritoryName | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionStores the name of the related territory when the territory is deleted. This field is only used for reporting purposes. |

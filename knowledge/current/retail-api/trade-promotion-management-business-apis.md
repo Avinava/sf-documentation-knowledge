@@ -5,7 +5,7 @@ topic: trade-promotion-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.180Z
+lastCollected: 2026-04-07T09:05:18.059Z
 estimatedTokens: 98
 keywords: [Trade, Promotion, Management, Business, APIs, RESTful, sometimes, Apex, classes]
 ---

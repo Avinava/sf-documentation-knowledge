@@ -5,7 +5,7 @@ topic: creating-server-side-logic-with-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.643Z
+lastCollected: 2026-04-07T09:04:13.670Z
 estimatedTokens: 1179
 keywords: [Creating, Server-Side, Logic, Controllers, framework, supports, client-side, JavaScript, Apex, event, always, wired, controller, action, turn]
 ---

@@ -5,7 +5,7 @@ topic: gauge-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.924Z
+lastCollected: 2026-04-07T09:04:56.744Z
 estimatedTokens: 335
 keywords: [Gauge, Charts, show, measurement, against, defined, axis, scale, Although, number, vary, chart, colors, communicate, means]
 ---

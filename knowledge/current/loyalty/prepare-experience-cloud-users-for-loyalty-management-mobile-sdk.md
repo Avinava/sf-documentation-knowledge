@@ -5,7 +5,7 @@ topic: prepare-experience-cloud-users-for-loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:52.731Z
+lastCollected: 2026-04-07T09:04:19.432Z
 estimatedTokens: 883
 keywords: [Prepare, Experience, Cloud, Users, Loyalty, Management, Mobile, SDK, user, install, register, log, sample, app, it’s]
 ---

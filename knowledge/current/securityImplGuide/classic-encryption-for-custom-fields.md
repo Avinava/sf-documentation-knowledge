@@ -5,7 +5,7 @@ topic: classic-encryption-for-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.778Z
+lastCollected: 2026-04-07T09:05:28.483Z
 estimatedTokens: 1167
 keywords: [Classic, Encryption, Custom, Restrict, Salesforce, users, seeing, text, want, keep, View, Encrypted, Data, permission, Implementation]
 ---

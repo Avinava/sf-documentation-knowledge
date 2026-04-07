@@ -5,7 +5,7 @@ topic: next-best-action-recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.890Z
+lastCollected: 2026-04-07T09:03:27.724Z
 estimatedTokens: 72
 keywords: [Best, Action, Recommendation, strategy]
 ---

@@ -6,7 +6,7 @@ topic: mvtostringmultivaluecolumnname-delimeter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.278Z
+lastCollected: 2026-04-07T09:03:15.416Z
 estimatedTokens: 693
 keywords: [mv_to_string, multivalue_column_name, delimeter, Converts, multivalue, _to, _string, _column, _name, Simple, Custom, Grouping]
 ---

@@ -5,8 +5,8 @@ topic: edit-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.578Z
-estimatedTokens: 250
+lastCollected: 2026-04-07T09:04:00.023Z
+estimatedTokens: 249
 keywords: [Edit, Claim, Coverage, Payment, Detail, Action, Modify, record, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -24,7 +24,7 @@ This action is available in API version 66.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/editClaimCvrPaymentDetail
+/services/data/v/actions/standard/editClaimCvrPaymentDetail
 
 Formats
 

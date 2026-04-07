@@ -5,7 +5,7 @@ topic: intelligent-document-reader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:53.233Z
+lastCollected: 2026-04-07T09:02:55.863Z
 estimatedTokens: 796
 keywords: [Intelligent, Document, Reader, optical, character, recognition, automatically, extract, data, external, documents]
 ---

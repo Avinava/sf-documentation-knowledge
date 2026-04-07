@@ -5,7 +5,7 @@ topic: vpl-updatebasketurloncartobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.222Z
+lastCollected: 2026-04-07T09:04:21.317Z
 estimatedTokens: 189
 keywords: [VPL-UpdateBasketUrlOnCartObject, Omnistudio, Data, Mapper, loads, updates, basket, key, cart, URL, objects, IDs, records, Sample, Input]
 ---

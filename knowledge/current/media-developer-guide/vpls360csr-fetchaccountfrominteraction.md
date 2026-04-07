@@ -5,7 +5,7 @@ topic: vpls360csr-fetchaccountfrominteraction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.281Z
+lastCollected: 2026-04-07T09:04:21.435Z
 estimatedTokens: 308
 keywords: [vpls360Csr-FetchAccountFromInteraction, Omnistudio, Data, Mapper, agent, console, fetch, account, customer, interaction, Sample, Input, Output]
 ---

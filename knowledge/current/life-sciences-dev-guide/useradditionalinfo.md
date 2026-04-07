@@ -5,7 +5,7 @@ topic: useradditionalinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.553Z
+lastCollected: 2026-04-07T09:04:12.135Z
 estimatedTokens: 1837
 keywords: [UserAdditionalInfo, user, additional, identifiers, preferences, address, API, version, 65.0, later, Calls, Associated, Objects]
 ---

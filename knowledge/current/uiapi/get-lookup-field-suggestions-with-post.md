@@ -5,8 +5,8 @@ topic: get-lookup-field-suggestions-with-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.477Z
-estimatedTokens: 1913
+lastCollected: 2026-04-07T09:06:16.162Z
+estimatedTokens: 1916
 keywords: [Lookup, Suggestions, POST, user, edits, resource, search, display, recently, matches, matching, any, match, searchable, specify]
 ---
 
@@ -115,7 +115,7 @@ Properties
 
 Response Body
 
-[Lookup Values](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_values.htm#ui_api_responses_lookup_values "Records in a lookup relationship, organized by object type.")
+[Lookup Values](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_values.htm#ui_api_responses_lookup_values "Records, organized by object type, and metadata in a lookup relationship.")
 
 #### See Also
 

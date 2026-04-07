@@ -5,7 +5,7 @@ topic: debugging-streaming-api-applications
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.164Z
+lastCollected: 2026-04-07T09:03:04.856Z
 estimatedTokens: 242
 keywords: [Debugging, Streaming, API, Applications, able, requests, responses, debug, Because, stateful, proxy, tool, application, report, contents]
 ---

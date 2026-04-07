@@ -5,7 +5,7 @@ topic: mktdatatranobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:08.235Z
+lastCollected: 2026-04-07T09:02:42.112Z
 estimatedTokens: 832
 keywords: [MktDataTranObject, entity, deliver, aka, transport, source, target, landing, schema, file, API, Event, means, transporting, data]
 ---

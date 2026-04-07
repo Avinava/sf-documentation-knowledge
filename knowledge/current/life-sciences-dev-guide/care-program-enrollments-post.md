@@ -5,7 +5,7 @@ topic: care-program-enrollments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:42.941Z
+lastCollected: 2026-04-07T09:04:06.814Z
 estimatedTokens: 248
 keywords: [Care, Program, Enrollments, POST, API, enroll, multiple, patients]
 ---

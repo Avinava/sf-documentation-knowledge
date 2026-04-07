@@ -5,7 +5,7 @@ topic: import-records-from-csv-file-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.923Z
+lastCollected: 2026-04-07T09:04:22.306Z
 estimatedTokens: 424
 keywords: [Import, Records, CSV, File, Action, convert, data, uploaded, target, Special, Access, Rules, REST, HTTP, Inputs]
 ---

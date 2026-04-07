@@ -5,7 +5,7 @@ topic: managing-navigation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.556Z
+lastCollected: 2026-04-07T09:05:00.608Z
 estimatedTokens: 1167
 keywords: [Managing, Navigation, Salesforce, mobile, app, manages, events, event, framework, made, JavaScript, number, utility, functions, creating]
 ---

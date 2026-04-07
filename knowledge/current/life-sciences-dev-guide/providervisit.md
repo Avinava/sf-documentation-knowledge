@@ -5,7 +5,7 @@ topic: providervisit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.031Z
+lastCollected: 2026-04-07T09:04:11.617Z
 estimatedTokens: 3137
 keywords: [ProviderVisit, user's, visit, health, care, provider, sales, representative, visiting, discuss, product, usage, efficacy, enhance, adoption]
 ---

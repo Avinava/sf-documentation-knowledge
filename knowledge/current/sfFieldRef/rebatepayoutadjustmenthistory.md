@@ -5,7 +5,7 @@ topic: rebatepayoutadjustmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.560Z
+lastCollected: 2026-04-07T09:06:04.006Z
 estimatedTokens: 181
 keywords: [RebatePayoutAdjustmentHistory, History, tracked, RebatePayoutAdjustment]
 ---

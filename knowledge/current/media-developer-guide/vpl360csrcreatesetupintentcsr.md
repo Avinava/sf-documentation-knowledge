@@ -5,7 +5,7 @@ topic: vpl360csrcreatesetupintentcsr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:54.177Z
+lastCollected: 2026-04-07T09:04:21.242Z
 estimatedTokens: 145
 keywords: [VPL360CSR_CreateSetupIntentCSR, Integration, Procedure, creates, setup, intent, confirming, payment, VPL360CSR, _CreateSetupIntentCSR, Sample, Input, Output, Calls]
 ---

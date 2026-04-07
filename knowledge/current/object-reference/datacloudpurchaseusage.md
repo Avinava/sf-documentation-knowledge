@@ -5,7 +5,7 @@ topic: datacloudpurchaseusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.954Z
+lastCollected: 2026-04-07T09:04:38.724Z
 estimatedTokens: 550
 keywords: [DatacloudPurchaseUsage, identify, track, Data.com, record, purchases, API, version, 30.0, later, Calls, Usage]
 ---

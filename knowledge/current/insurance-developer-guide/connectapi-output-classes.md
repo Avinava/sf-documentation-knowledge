@@ -5,7 +5,7 @@ topic: connectapi-output-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.806Z
+lastCollected: 2026-04-07T09:04:03.654Z
 estimatedTokens: 492
 keywords: [ConnectApi, Output, Classes, instances]
 ---

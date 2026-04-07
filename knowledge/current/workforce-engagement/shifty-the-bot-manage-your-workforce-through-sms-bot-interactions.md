@@ -5,7 +5,7 @@ topic: shifty-the-bot---manage-your-workforce-through-sms-bot-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.665Z
+lastCollected: 2026-04-07T09:06:19.472Z
 estimatedTokens: 637
 keywords: [Shifty, Bot, Manage, Workforce, SMS, Interactions, agents, aren't, work, they, don't, always, access, their, schedule]
 ---

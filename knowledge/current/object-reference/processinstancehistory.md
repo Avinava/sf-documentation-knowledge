@@ -5,7 +5,7 @@ topic: processinstancehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:15.205Z
+lastCollected: 2026-04-07T09:04:47.143Z
 estimatedTokens: 1894
 keywords: [ProcessInstanceHistory, read-only, steps, pending, approval, requests, associated, process, ProcessInstance, Calls, Usage]
 ---

@@ -5,7 +5,7 @@ topic: lightningonboardingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.788Z
+lastCollected: 2026-04-07T09:04:43.174Z
 estimatedTokens: 940
 keywords: [LightningOnboardingConfig, feedback, provided, users, switch, Lightning, Experience, Salesforce, Classic, Admins, customize, question, how, frequently, form]
 ---

@@ -5,7 +5,7 @@ topic: expense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.073Z
+lastCollected: 2026-04-07T09:04:08.312Z
 estimatedTokens: 560
 keywords: [Expense, Life, Sciences, Cloud, extend, standard, represent, expenses, visit, API, version, 65.0, later, Calls]
 ---

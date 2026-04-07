@@ -5,7 +5,7 @@ topic: datasetexportevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.539Z
+lastCollected: 2026-04-07T09:05:06.089Z
 estimatedTokens: 494
 keywords: [DatasetExportEvent, Notifies, subscribers, export, Analytics, dataset, API, version, 41.0, later, Calls, Subscription, Channel, Special, Access]
 ---

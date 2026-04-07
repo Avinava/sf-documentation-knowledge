@@ -5,7 +5,7 @@ topic: first-day-in-the-week-month-quarter-or-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.412Z
+lastCollected: 2026-04-07T09:03:14.066Z
 estimatedTokens: 610
 keywords: [Day, Week, Month, Quarter, Year, date, Usage, _first, _day, fiscal, _week, _month, _quarter, _year]
 ---

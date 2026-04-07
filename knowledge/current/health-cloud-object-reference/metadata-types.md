@@ -5,8 +5,8 @@ topic: metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.109Z
-estimatedTokens: 1067
+lastCollected: 2026-04-07T09:03:54.473Z
+estimatedTokens: 1139
 keywords: [Metadata]
 ---
 
@@ -38,6 +38,8 @@ keywords: [Metadata]
     Represents settings for Health Cloud.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ScoreCategory](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/meta_scorecategory.htm)**
     Represents the category and subcategories that form a unified health profile in the Unified Health Scoring feature.
+-   **[Translations](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/meta_translations.htm)**
+    Metadata type that enables work with translations for various supported languages. The ability to translate component labels is part of the Translation Workbench.
 -   **[TimelineObjectDefinition](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/meta_timelineobjectdefinition.htm)**
     Represents the container that stores the details of a timeline configuration. You can use this resource with Salesforce objects to see their records' related events in a linear time-sorted view.
 -   **[UIObjectRelationConfig](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/meta_uiobjectrelationconfig.htm)**

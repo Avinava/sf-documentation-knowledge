@@ -5,7 +5,7 @@ topic: networkuserhistoryrecent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.279Z
+lastCollected: 2026-04-07T09:04:44.955Z
 estimatedTokens: 552
 keywords: [NetworkUserHistoryRecent, Experience, Cloud, site, user’s, history, accessed, records, API, version, 42.0, later, Calls, Special, Access]
 ---

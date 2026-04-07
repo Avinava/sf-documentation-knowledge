@@ -5,7 +5,7 @@ topic: duplicaterule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.644Z
+lastCollected: 2026-04-07T09:05:43.977Z
 estimatedTokens: 354
 namespace: NamespacePrefix
 keywords: [DuplicateRule, duplicate, rule, detecting, records]

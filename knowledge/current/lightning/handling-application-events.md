@@ -5,7 +5,7 @@ topic: handling-application-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.826Z
+lastCollected: 2026-04-07T09:04:13.925Z
 estimatedTokens: 478
 keywords: [Handling, Application, Events, <aura, handler>, markup, handler, component, Event, Phases, Source]
 ---

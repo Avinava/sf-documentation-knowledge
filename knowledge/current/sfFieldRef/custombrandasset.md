@@ -5,7 +5,7 @@ topic: custombrandasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:55.260Z
+lastCollected: 2026-04-07T09:05:42.203Z
 estimatedTokens: 328
 keywords: [CustomBrandAsset, branding, element, custom, scheme, color, logo, image, footer, text, apply, Experience, Cloud, site, org]
 ---

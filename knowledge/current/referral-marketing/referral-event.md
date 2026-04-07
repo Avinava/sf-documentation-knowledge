@@ -5,7 +5,7 @@ topic: referral-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.826Z
+lastCollected: 2026-04-07T09:05:16.169Z
 estimatedTokens: 231
 keywords: [Referral, Event, Output, representation, record, event, records, advocate, refers, friend, referred, friends, sign, purchase, Resource, Input, Sample, REST, HTTP, Inputs]
 ---

@@ -5,7 +5,7 @@ topic: composite-promotion-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.700Z
+lastCollected: 2026-04-07T09:03:35.252Z
 estimatedTokens: 114
 keywords: [Composite, Promotion, Segment, Output, representation]
 ---

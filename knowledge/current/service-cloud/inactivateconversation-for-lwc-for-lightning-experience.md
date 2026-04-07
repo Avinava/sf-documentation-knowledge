@@ -5,7 +5,7 @@ topic: inactivateconversation-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.829Z
+lastCollected: 2026-04-07T09:03:03.708Z
 estimatedTokens: 95
 keywords: [inactivateConversation, LWC, Lightning, Experience, Suspends, conversation, works, console, apps, Arguments]
 ---

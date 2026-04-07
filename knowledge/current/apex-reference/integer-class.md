@@ -5,7 +5,7 @@ topic: integer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.799Z
+lastCollected: 2026-04-07T09:02:28.815Z
 estimatedTokens: 717
 namespace: System
 keywords: [primitive, data, Usage, valueOf, stringToInteger, Examples, fieldValue]

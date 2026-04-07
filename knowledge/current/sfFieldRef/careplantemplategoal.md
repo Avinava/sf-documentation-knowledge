@@ -5,7 +5,7 @@ topic: careplantemplategoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.721Z
+lastCollected: 2026-04-07T09:05:37.796Z
 estimatedTokens: 359
 keywords: [CarePlanTemplateGoal, junction, care, plan, template, goal, definition, stores, API, version, 55.0, later]
 ---

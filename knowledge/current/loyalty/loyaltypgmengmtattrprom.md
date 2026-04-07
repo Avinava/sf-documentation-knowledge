@@ -5,7 +5,7 @@ topic: loyaltypgmengmtattrprom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.129Z
+lastCollected: 2026-04-07T09:04:19.930Z
 estimatedTokens: 675
 keywords: [LoyaltyPgmEngmtAttrProm, junction, Loyalty, Program, Engagement, Attribute, Promotion, Associate, want, track, period, API, version, 55.0, later]
 ---

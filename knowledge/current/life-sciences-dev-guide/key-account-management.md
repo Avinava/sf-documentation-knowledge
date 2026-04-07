@@ -4,9 +4,9 @@ domain: life-sciences-dev-guide
 topic: key-account-management
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-12T09:34:43.693Z
-estimatedTokens: 2481
+docType: developer-guide
+lastCollected: 2026-04-07T09:04:07.687Z
+estimatedTokens: 1133
 keywords: [Key, Account, Management, Managers, KAM, strategically, manage, engage, their, customers, comprehensive, territory, plans, KAMs, clear]
 ---
 
@@ -41,41 +41,6 @@ Key account managers use Territory Plans to enhance the accuracy of customer tar
 
 For more details and a larger image, visit the [Data Model Gallery](https://developer.salesforce.com/docs/platform/data-models/guide/key-account-management-territory-plan.html "HTML (New Window)").
 
--   **[AccountPlanParticipant](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanparticipant.htm)**
-    Represents the team members participating in the account plan. This object is available in API version 65.0 and later.
--   **[AccountPlanProduct](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanproduct.htm)**
-    Represents all the products associated with an account plan or its objectives. This object is available in API version 65.0 and later.
--   **[AccountPlanRelaObjAnalysis](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanrelaobjanalysis.htm)**
-    Represents the strategic analysis done on objects related to the account plan. This object helps to identify internal and external factors that could potentially affect the plan, its objectives, or any related objects. This object is available in API version 65.0 and later.
--   **[AccountPlanRelationship](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanrelationship.htm)**
-    Represents the relationship between multiple account plans for key account management. This object is available in API version 65.0 and later.
--   **[AcctPlanPtcpStakeholder](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_acctplanptcpstakeholder.htm)**
-    Represents a junction between an account plan participant and an account plan stakeholder. Stores information about the account plan participant who collaborates with the account plan stakeholder for performing account plan tasks. This object is available in API version 65.0 and later.
--   **[AccountPlanStakeholder](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanstakeholder.htm)**
-    Represents the key individuals who can influence an account's actions or have a vested interest in its outcomes. This object is available in API version 65.0 and later.
--   **[AccountPlanStkhldrAction](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanstkhldraction.htm)**
-    Represents a junction between an account plan stakeholder and an action. Stores information about an action for an account plan that's associated with a stakeholder. This object is available in API version 65.0 and later.
--   **[AccountPlanStkhldrProduct](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanstkhldrproduct.htm)**
-    Represents a junction between an account plan stakeholder and a product. Stores information about the products associated with a stakeholder for an account plan. This object is available in API version 65.0 and later.
--   **[ActionPlanTemplate](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_actionplantemplate.htm)**
-    Represents the instance of an action plan template.
--   **[ActionPlanTemplateAssignment](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_actionplantemplateassignment.htm)**
-    Represents the association of an action plan template with its related care plan template, goal, or problem definition. When instantiated, the action plan generates the corresponding intervention tasks and links them to the appropriate record, such as a condition, goal, or care plan.
--   **[ActionPlanTemplateItem](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_actionplantemplateitem.htm)**
-    Represents the instance of an item on an action plan template version.
--   **[AssessmentTask](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_assessmenttask.htm)**
-    Perform activities such as patient registration or order authorization to capture information.
--   **[GoalAssignment](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_goalassignment.htm)**
-    Represents the goals that are part of a care plan.
--   **[GoalDefinition](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_goaldefinition.htm)**
-    Represents a goal or a business objective that’s used as a reference. When instantiated, GoalDefinition records create GoalAssignment records that serve as goals in care plans.
--   **[GoalDefinitionProduct](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_goaldefinitionproduct.htm)**
-    Represents a junction between a goal definition and a product. Stores information about the goal definition that defines the business objective for a product. This object is available in API version 65.0 and later.
--   **[Sprint](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_sprint.htm)**
-    Represents a specific timeframe within which account action plans are executed within key account management. This object is available in API version 65.0 and later.
--   **[TerritoryBusinessPlan](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_territorybusinessplan.htm)**
-    Represents the detailed, strategic outline of vital customer information. This object is used to effectively manage and expand customer relationships within a specific territory. This object is available in API version 65.0 and later.
-
 #### See Also
 
 -   [*Object Reference for the Salesforce Platform*: AssessmentTask](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_assessmenttask.htm "Perform activities such as patient registration or order authorization to capture information.")
@@ -94,13 +59,4 @@ For more details and a larger image, visit the [Data Model Gallery](https://deve
 
 ## Related Topics
 
-- AccountPlanParticipant (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanparticipant.htm)
-- AccountPlanProduct (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanproduct.htm)
-- AccountPlanRelaObjAnalysis (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanrelaobjanalysis.htm)
-- AccountPlanRelationship (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanrelationship.htm)
-- AcctPlanPtcpStakeholder (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_acctplanptcpstakeholder.htm)
-- AccountPlanStakeholder (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanstakeholder.htm)
-- AccountPlanStkhldrAction (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanstkhldraction.htm)
-- AccountPlanStkhldrProduct (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_accountplanstkhldrproduct.htm)
-- ActionPlanTemplate (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_actionplantemplate.htm)
-- ActionPlanTemplateAssignment (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_actionplantemplateassignment.htm)
+- Object Reference for the Salesforce Platform: AssessmentTask (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_assessmenttask.htm)

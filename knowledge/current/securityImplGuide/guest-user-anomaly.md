@@ -5,7 +5,7 @@ topic: guest-user-anomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.933Z
+lastCollected: 2026-04-07T09:05:28.737Z
 estimatedTokens: 307
 keywords: [Guest, User, Anomaly, any, activity, sufficiently, different, users, metadata, Salesforce, Core, application, logs, build, profiles]
 ---

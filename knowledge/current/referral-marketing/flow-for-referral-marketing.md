@@ -5,7 +5,7 @@ topic: flow-for-referral-marketing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.969Z
+lastCollected: 2026-04-07T09:05:16.355Z
 estimatedTokens: 258
 keywords: [Flow, Referral, Marketing, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---

@@ -5,7 +5,7 @@ topic: search-suggested-article-title-matches
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.730Z
+lastCollected: 2026-04-07T09:04:04.978Z
 estimatedTokens: 1294
 keywords: [Search, Suggested, Article, Title, Matches, Salesforce, Knowledge, titles, match, user’s, query, shortcut, navigate, directly, likely]
 ---

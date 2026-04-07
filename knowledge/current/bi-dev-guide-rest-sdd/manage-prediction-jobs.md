@@ -5,7 +5,7 @@ topic: manage-prediction-jobs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:05.044Z
+lastCollected: 2026-04-07T09:03:11.890Z
 estimatedTokens: 400
 keywords: [Manage, Prediction, Jobs, Einstein, Service, REST, API, endpoints, run, bulk, scoring, enable, score, predictions, multiple]
 ---

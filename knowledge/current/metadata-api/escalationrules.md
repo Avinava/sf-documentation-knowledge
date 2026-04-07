@@ -5,7 +5,7 @@ topic: escalationrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:06.270Z
+lastCollected: 2026-04-07T09:02:40.036Z
 estimatedTokens: 1162
 keywords: [EscalationRules, case, escalation, rules, escalate, cases, automatically, they, aren’t, resolved, certain, time, access, metadata, applicable]
 ---

@@ -5,7 +5,7 @@ topic: public-sector-solutions-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.592Z
+lastCollected: 2026-04-07T09:05:12.103Z
 estimatedTokens: 326
 keywords: [Sector, Solutions, APIs, Business, care, plan, templates, plans, Special, Access, Rules, Resources]
 ---

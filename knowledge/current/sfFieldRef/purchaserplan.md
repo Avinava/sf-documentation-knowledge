@@ -5,7 +5,7 @@ topic: purchaserplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.912Z
+lastCollected: 2026-04-07T09:06:03.050Z
 estimatedTokens: 483
 keywords: [PurchaserPlan, payer, plan, purchaser, members, members’, dependents]
 ---

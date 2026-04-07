@@ -5,7 +5,7 @@ topic: insurance-claims-developer-journey
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:40.797Z
+lastCollected: 2026-04-07T09:04:03.641Z
 estimatedTokens: 412
 keywords: [Insurance, Claims, Developer, Journey, how, effectively, Connect, APIs, along, associated, invocable, actions, automate, end-to-end, processing]
 ---

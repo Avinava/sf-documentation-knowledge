@@ -5,7 +5,7 @@ topic: chatteranswers-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:53.126Z
+lastCollected: 2026-04-07T09:02:29.672Z
 estimatedTokens: 105
 namespace: ChatterAnswers
 keywords: [ChatterAnswers, creating, Account, records]

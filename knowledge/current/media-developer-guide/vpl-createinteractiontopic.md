@@ -5,7 +5,7 @@ topic: vpl-createinteractiontopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.198Z
+lastCollected: 2026-04-07T09:04:21.282Z
 estimatedTokens: 98
 keywords: [VPL-CreateInteractionTopic, Omnistudio, Data, Mapper, agent, console, load, interaction, topic, account, Sample, Input, Output]
 ---

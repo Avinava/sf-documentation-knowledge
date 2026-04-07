@@ -5,7 +5,7 @@ topic: electricityemssnfctrsethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.736Z
+lastCollected: 2026-04-07T09:05:44.103Z
 estimatedTokens: 277
 keywords: [ElectricityEmssnFctrSetHistory, History, tracked, ElectricityEmssnFctrSet]
 ---

@@ -5,7 +5,7 @@ topic: triggering-the-csv-export-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.321Z
+lastCollected: 2026-04-07T09:05:18.380Z
 estimatedTokens: 542
 keywords: [Triggering, CSV, Export, Process, configured, integration, metadata, report, triggered, endpoints, provided, RTR, gateway, finished, file]
 ---

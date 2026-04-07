@@ -6,7 +6,7 @@ topic: datediffdatepart-startdate-enddate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.542Z
+lastCollected: 2026-04-07T09:03:14.297Z
 estimatedTokens: 288
 keywords: [date_diff, datepart, startdate, enddate, representing, interval, elapsed, two, dates, date, _diff]
 ---

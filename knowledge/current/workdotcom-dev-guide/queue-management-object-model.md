@@ -5,8 +5,8 @@ topic: queue-management-object-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.513Z
-estimatedTokens: 707
+lastCollected: 2026-04-07T09:06:19.247Z
+estimatedTokens: 704
 keywords: [Queue, Management, Model, uses, combination, Salesforce, objects]
 ---
 
@@ -20,7 +20,7 @@ Queue Management uses a combination of Salesforce objects.
 
 The following diagram highlights the key objects involved in the queue management process.
 
-![Queue management object model](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fworkdotcom%2Fimages%2Fqueue_management_erd.png&folder=workdotcom_dev_guide)
+![Queue management object model](/docs/resources/img/en-us/260.0?doc_id=workdotcom%2Fimages%2Fqueue_management_erd.png&folder=workdotcom_dev_guide)
 
 ## Queue Management Objects
 

@@ -5,7 +5,7 @@ topic: unified-object-search-config-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.247Z
+lastCollected: 2026-04-07T09:02:54.926Z
 estimatedTokens: 457
 keywords: [Unified, Search, Config, Metadata, Output, representation, configuration]
 ---

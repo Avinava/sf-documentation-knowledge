@@ -6,7 +6,7 @@ topic: create-a-visualforce-page-for-the-salesforce-mobile-app-using-slds
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.584Z
+lastCollected: 2026-04-07T09:05:00.652Z
 estimatedTokens: 587
 keywords: [Visualforce, Salesforce, Mobile, App, SLDS, Let’s, displays, recently, accessed, accounts, styled, Lightning, Design, System, add]
 ---

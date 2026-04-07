@@ -5,7 +5,7 @@ topic: add-a-filter-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.813Z
+lastCollected: 2026-04-07T09:05:05.123Z
 estimatedTokens: 847
 keywords: [Add, Filter, Metadata, API, recommend, part, application, lifecycle, management, process, develop, test, deploy, release, apps]
 ---

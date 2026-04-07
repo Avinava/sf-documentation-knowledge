@@ -5,7 +5,7 @@ topic: conversion-factors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.566Z
+lastCollected: 2026-04-07T09:04:26.077Z
 estimatedTokens: 1479
 keywords: [Conversion, Factors, convert, unit, measure, another, compatible, Energy, Weight, Conversions, Volume, Constants, Area, Waste, Generation]
 ---

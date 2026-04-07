@@ -5,7 +5,7 @@ topic: omnisupervisorconfigqueue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.379Z
+lastCollected: 2026-04-07T09:05:55.931Z
 estimatedTokens: 286
 keywords: [OmniSupervisorConfigQueue, queues, visible, supervisors, Omni-Channel, supervisor, configuration, queue, appears, Backlog, Assigned, Work, tabs, Omni, API]
 ---

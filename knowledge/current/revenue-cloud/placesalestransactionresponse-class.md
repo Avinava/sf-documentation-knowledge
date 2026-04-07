@@ -5,7 +5,7 @@ topic: placesalestransactionresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:12.730Z
+lastCollected: 2026-04-07T09:01:55.613Z
 estimatedTokens: 1096
 namespace: RevSalesTrxn
 keywords: [PlaceSalesTransactionResponse, hold, place, sales, transaction, contextDetails, errorResponse, isSuccess, salesTransactionId, statusUrl, trackerId]

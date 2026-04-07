@@ -5,7 +5,7 @@ topic: chatter-digests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.698Z
+lastCollected: 2026-04-07T09:03:24.638Z
 estimatedTokens: 417
 keywords: [Chatter, Digests, Control, daily, weekly, email, sent]
 ---

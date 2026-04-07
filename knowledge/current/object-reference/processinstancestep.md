@@ -5,7 +5,7 @@ topic: processinstancestep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.220Z
+lastCollected: 2026-04-07T09:04:47.165Z
 estimatedTokens: 1179
 keywords: [ProcessInstanceStep, work, item, approval, process, ProcessInstance, Calls, Usage, Associated, Objects]
 ---

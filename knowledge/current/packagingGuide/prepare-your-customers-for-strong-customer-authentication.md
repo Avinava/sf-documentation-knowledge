@@ -5,7 +5,7 @@ topic: prepare-your-customers-for-strong-customer-authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.374Z
+lastCollected: 2026-04-07T09:04:54.080Z
 estimatedTokens: 652
 keywords: [Prepare, Customers, Strong, Customer, Authentication, serve, European, Economic, Area, communicate, how, SCA, affects, online, payments]
 ---

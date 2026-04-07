@@ -5,7 +5,7 @@ topic: file-id-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.705Z
+lastCollected: 2026-04-07T09:03:21.603Z
 estimatedTokens: 241
 keywords: [File, Input, Attach, already, uploaded, remove, feed, element]
 ---

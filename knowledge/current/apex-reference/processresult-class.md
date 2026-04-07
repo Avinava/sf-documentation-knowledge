@@ -5,7 +5,7 @@ topic: processresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:42.368Z
+lastCollected: 2026-04-07T09:02:13.780Z
 estimatedTokens: 1005
 namespace: Approval
 keywords: [ProcessResult, submit, record, approval, process, results, Usage, getEntityId, getErrors, getInstanceId, getInstanceStatus, getNewWorkitemIds, isSuccess]

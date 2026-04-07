@@ -5,7 +5,7 @@ topic: configure-database-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.262Z
+lastCollected: 2026-04-07T09:03:41.233Z
 estimatedTokens: 568
 keywords: [Configure, Database, Access, run, Data, Loader, batch, mode, command, line, samples, conf, database-conf.xml, objects, extract]
 ---

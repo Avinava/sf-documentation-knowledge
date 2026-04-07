@@ -5,7 +5,7 @@ topic: searchorgwideobjectconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.929Z
+lastCollected: 2026-04-07T09:02:44.038Z
 estimatedTokens: 863
 keywords: [SearchOrgWideObjectConfig, search, index, org-wide, settings, created, Manager, includes, searchable, protected, field-level, security, Parent, File, Suffix]
 ---

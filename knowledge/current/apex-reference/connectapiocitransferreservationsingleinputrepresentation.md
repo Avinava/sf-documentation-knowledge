@@ -5,7 +5,7 @@ topic: connectapiocitransferreservationsingleinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:47.442Z
+lastCollected: 2026-04-07T09:02:20.608Z
 estimatedTokens: 430
 keywords: [inventory, reservation, transfer]
 ---

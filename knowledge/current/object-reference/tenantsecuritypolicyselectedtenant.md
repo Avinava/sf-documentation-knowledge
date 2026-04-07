@@ -5,7 +5,7 @@ topic: tenantsecuritypolicyselectedtenant
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.039Z
+lastCollected: 2026-04-07T09:04:50.814Z
 estimatedTokens: 850
 keywords: [TenantSecurityPolicySelectedTenant, Stores, tenants, selected, Security, Center, policy, Define, Deploy, Policies, subscribers, API, version, 54.0, later]
 ---

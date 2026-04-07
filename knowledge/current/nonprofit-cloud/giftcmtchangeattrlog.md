@@ -5,7 +5,7 @@ topic: giftcmtchangeattrlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.499Z
+lastCollected: 2026-04-07T09:04:30.785Z
 estimatedTokens: 1114
 keywords: [GiftCmtChangeAttrLog, history, changes, Gift, Commitment, over, time, attribution, source, campaign, code, attributed, change, API, version]
 ---

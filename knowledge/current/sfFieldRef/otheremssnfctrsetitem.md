@@ -5,7 +5,7 @@ topic: otheremssnfctrsetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.240Z
+lastCollected: 2026-04-07T09:05:57.059Z
 estimatedTokens: 596
 keywords: [OtherEmssnFctrSetItem, individual, entries, emissions, conversion, factors, various, data, sources, neither, electricity, grid, nor, scope]
 ---

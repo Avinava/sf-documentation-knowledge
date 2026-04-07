@@ -5,7 +5,7 @@ topic: documentcategorydocumenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.061Z
+lastCollected: 2026-04-07T09:03:49.319Z
 estimatedTokens: 691
 keywords: [DocumentCategoryDocumentType, junction, Document, Category, API, version, 59.0, later, Calls]
 ---

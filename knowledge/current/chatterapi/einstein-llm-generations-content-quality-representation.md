@@ -5,7 +5,7 @@ topic: einstein-llm-generations-content-quality-representation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.347Z
+lastCollected: 2026-04-07T09:03:31.416Z
 estimatedTokens: 94
 keywords: [Einstein, LLM, Generations, Content, Quality, Representation, generated]
 ---

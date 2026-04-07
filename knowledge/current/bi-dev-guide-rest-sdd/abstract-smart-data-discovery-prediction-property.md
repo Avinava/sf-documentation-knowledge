@@ -5,7 +5,7 @@ topic: abstract-smart-data-discovery-prediction-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.590Z
+lastCollected: 2026-04-07T09:03:12.781Z
 estimatedTokens: 306
 keywords: [Abstract, Smart, Data, Discovery, Prediction, base, Einstein, model]
 ---

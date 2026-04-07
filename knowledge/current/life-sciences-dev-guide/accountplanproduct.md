@@ -5,7 +5,7 @@ topic: accountplanproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.870Z
+lastCollected: 2026-04-07T09:04:09.252Z
 estimatedTokens: 735
 keywords: [AccountPlanProduct, products, associated, account, plan, objectives, API, version, 65.0, later, Calls, Objects]
 ---

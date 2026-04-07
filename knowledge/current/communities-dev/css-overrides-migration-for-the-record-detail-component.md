@@ -5,7 +5,7 @@ topic: css-overrides-migration-for-the-record-detail-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.385Z
+lastCollected: 2026-04-07T09:03:39.866Z
 estimatedTokens: 209
 keywords: [CSS, Overrides, Migration, Record, Detail, Component, plan, continue, custom, migrate, forward, template, Form, Element, Separator]
 ---

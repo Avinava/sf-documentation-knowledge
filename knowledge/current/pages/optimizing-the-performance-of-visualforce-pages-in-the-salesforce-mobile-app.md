@@ -6,7 +6,7 @@ topic: optimizing-the-performance-of-visualforce-pages-in-the-salesforce-mobile-
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:24.560Z
+lastCollected: 2026-04-07T09:05:00.613Z
 estimatedTokens: 590
 keywords: [Optimizing, Performance, Visualforce, Pages, Salesforce, Mobile, App, designed, provide, developers, ability, match, functionality, behavior, standard]
 ---

@@ -5,7 +5,7 @@ topic: notifyforfields-set-to-select
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.427Z
+lastCollected: 2026-04-07T09:03:05.168Z
 estimatedTokens: 443
 keywords: [NotifyForFields, Select, PushTopic.NotifyForFields, change, any, record, long, referenced, query, clause, causes, Streaming, API, matching, logic]
 ---

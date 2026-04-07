@@ -5,7 +5,7 @@ topic: facetable-attributes-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.616Z
+lastCollected: 2026-04-07T09:03:31.848Z
 estimatedTokens: 77
 keywords: [Facetable, Attributes, Collection]
 ---

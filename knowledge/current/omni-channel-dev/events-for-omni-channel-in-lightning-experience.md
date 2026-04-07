@@ -5,7 +5,7 @@ topic: events-for-omni-channel-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.992Z
+lastCollected: 2026-04-07T09:04:53.404Z
 estimatedTokens: 586
 keywords: [Events, Omni-Channel, Lightning, Experience, Console, JavaScript, API, executed, certain, occur, user, closes, tab, There, few]
 ---

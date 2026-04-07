@@ -5,7 +5,7 @@ topic: social-engagement-terms-of-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.672Z
+lastCollected: 2026-04-07T09:03:28.825Z
 estimatedTokens: 113
 keywords: [Social, Engagement, Terms, Service, accept, PUT, PATCH]
 ---

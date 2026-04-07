@@ -5,7 +5,7 @@ topic: conditional-formatting-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:04.071Z
+lastCollected: 2026-04-07T09:03:10.309Z
 estimatedTokens: 168
 keywords: [Conditional, Formatting, extended, metadata, Xmd, Analytics, dataset, dimension, measure]
 ---

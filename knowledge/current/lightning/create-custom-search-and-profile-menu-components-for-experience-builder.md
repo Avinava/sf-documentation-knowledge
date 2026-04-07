@@ -6,7 +6,7 @@ topic: create-custom-search-and-profile-menu-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.157Z
+lastCollected: 2026-04-07T09:04:12.954Z
 estimatedTokens: 424
 keywords: [Custom, Search, Profile, Menu, Components, Experience, Builder, replace, Customer, Service, template’s, standard, Post, Publisher, forceCommunity]
 ---

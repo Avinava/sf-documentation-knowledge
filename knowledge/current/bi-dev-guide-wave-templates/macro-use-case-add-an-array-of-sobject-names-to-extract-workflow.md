@@ -6,7 +6,7 @@ topic: macro-use-case-add-an-array-of-sobject-names-to-extract-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.633Z
+lastCollected: 2026-04-07T09:03:16.024Z
 estimatedTokens: 55
 keywords: [Macro, Case, Add, Array, SObject, Extract, Workflow, Here’s, adds]
 ---

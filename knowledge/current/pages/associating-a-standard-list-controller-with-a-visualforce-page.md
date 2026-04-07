@@ -6,7 +6,7 @@ topic: associating-a-standard-list-controller-with-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.367Z
+lastCollected: 2026-04-07T09:04:58.801Z
 estimatedTokens: 209
 keywords: [Associating, Standard, Controller, Visualforce, similar, standardController, attribute, <apex, page>, component, recordSetVar]
 ---

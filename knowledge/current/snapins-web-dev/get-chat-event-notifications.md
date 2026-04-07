@@ -5,7 +5,7 @@ topic: get-chat-event-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.317Z
+lastCollected: 2026-04-07T09:06:14.557Z
 estimatedTokens: 1422
 keywords: [Chat, Event, Notifications, certain, events, triggered, Subscribe, particular, calling, embedded_svc.addEventHandler, Embedded, code, snippet]
 ---

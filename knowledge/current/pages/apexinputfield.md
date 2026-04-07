@@ -5,7 +5,7 @@ topic: apexinputfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.575Z
+lastCollected: 2026-04-07T09:04:57.652Z
 estimatedTokens: 2278
 keywords: [apex, inputField, HTML, input, element, corresponds, Salesforce, <apex, inputField>, component, respects, attributes, associated, including, whether]
 ---

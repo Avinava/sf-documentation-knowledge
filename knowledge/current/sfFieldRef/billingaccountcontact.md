@@ -5,7 +5,7 @@ topic: billingaccountcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.834Z
+lastCollected: 2026-04-07T09:05:35.237Z
 estimatedTokens: 368
 keywords: [BillingAccountContact, junction, Billing, Account, objects, Contact, API, version, 62.0, later]
 ---

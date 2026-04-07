@@ -5,7 +5,7 @@ topic: barcodescanner-examplemodern-scanning-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.827Z
+lastCollected: 2026-04-07T09:04:25.081Z
 estimatedTokens: 211
 keywords: [BarcodeScanner, Example–Modern, Scanning, API, Here’s, Lightning, web, component, uses, scan, multiple, barcodes, simultaneously, process, batch]
 ---

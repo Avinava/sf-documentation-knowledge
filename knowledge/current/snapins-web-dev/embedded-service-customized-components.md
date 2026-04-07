@@ -5,7 +5,7 @@ topic: embedded-service-customized-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.273Z
+lastCollected: 2026-04-07T09:06:14.495Z
 estimatedTokens: 664
 keywords: [Embedded, Service, Customized, Components, Simplify, customization, process, HTML, modern, JavaScript, Lightning, Web, Aura, less, flexible]
 ---

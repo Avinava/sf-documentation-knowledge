@@ -5,7 +5,7 @@ topic: backgroundoperationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.484Z
+lastCollected: 2026-04-07T09:04:35.679Z
 estimatedTokens: 648
 keywords: [BackgroundOperationResult, Stores, error, messages, generated, importing, data, big, objects, Bulk, API, version, 37.0, later, Calls]
 ---

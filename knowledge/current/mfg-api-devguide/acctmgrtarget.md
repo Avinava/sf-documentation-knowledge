@@ -5,7 +5,7 @@ topic: acctmgrtarget
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:55.067Z
+lastCollected: 2026-04-07T09:04:22.522Z
 estimatedTokens: 1326
 keywords: [AcctMgrTarget, target, created, account, manager, stores, fiscal, year, measure, start, date, end, assignment, API, version]
 ---

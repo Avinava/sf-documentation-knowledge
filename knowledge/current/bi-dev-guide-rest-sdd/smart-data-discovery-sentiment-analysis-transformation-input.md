@@ -5,7 +5,7 @@ topic: smart-data-discovery-sentiment-analysis-transformation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.301Z
+lastCollected: 2026-04-07T09:03:12.381Z
 estimatedTokens: 106
 keywords: [Smart, Data, Discovery, Sentiment, Analysis, Transformation, Input]
 ---

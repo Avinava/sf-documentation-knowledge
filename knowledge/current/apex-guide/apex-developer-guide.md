@@ -5,7 +5,7 @@ topic: apex-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T07:38:42.908Z
+lastCollected: 2026-04-07T09:02:32.204Z
 estimatedTokens: 572
 keywords: [Apex, Developer, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform]
 ---

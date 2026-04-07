@@ -5,7 +5,7 @@ topic: plan-your-package-migration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.479Z
+lastCollected: 2026-04-07T09:05:01.707Z
 estimatedTokens: 1099
 keywords: [Plan, Package, Migration, ready, move, subscribers, 2GP, speed, ease, depend, few, key, factors, Supporting, Multiple]
 ---

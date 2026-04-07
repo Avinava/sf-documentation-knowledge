@@ -5,7 +5,7 @@ topic: fschousehold-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.222Z
+lastCollected: 2026-04-07T09:03:46.946Z
 estimatedTokens: 578
 namespace: The
 keywords: [fschousehold, classes, Financial, Goals, Plans, FlexCards]

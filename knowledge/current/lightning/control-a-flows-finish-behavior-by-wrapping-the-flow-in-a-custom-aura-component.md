@@ -6,7 +6,7 @@ topic: control-a-flows-finish-behavior-by-wrapping-the-flow-in-a-custom-aura-com
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.420Z
+lastCollected: 2026-04-07T09:04:13.320Z
 estimatedTokens: 438
 keywords: [Control, Flow’s, Finish, Behavior, Wrapping, Flow, Custom, Aura, Component, user, clicks, new, interview, starts, sees]
 ---

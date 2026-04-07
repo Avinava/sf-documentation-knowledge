@@ -5,7 +5,7 @@ topic: service-process-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.091Z
+lastCollected: 2026-04-07T09:02:54.760Z
 estimatedTokens: 108
 keywords: [Service, Process, Output, creating]
 ---

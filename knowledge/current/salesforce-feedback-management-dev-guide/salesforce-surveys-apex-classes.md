@@ -5,7 +5,7 @@ topic: salesforce-surveys-apex-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.725Z
+lastCollected: 2026-04-07T09:05:23.755Z
 estimatedTokens: 250
 namespace: ConnectApi
 keywords: [Salesforce, Surveys, Apex, Classes, ConnectApi, Connect, sfdc_surveys, creating, sending, survey, invitations]

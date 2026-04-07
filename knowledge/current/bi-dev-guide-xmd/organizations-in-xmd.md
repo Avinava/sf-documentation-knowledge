@@ -5,7 +5,7 @@ topic: organizations-in-xmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.807Z
+lastCollected: 2026-04-07T09:03:16.297Z
 estimatedTokens: 309
 keywords: [Organizations, XMD, datasets, combine, records, multiple, Salesforce, orgs, map, their, URLs, Analytics, uses, mappings, locate]
 ---

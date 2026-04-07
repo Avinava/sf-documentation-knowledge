@@ -5,7 +5,7 @@ topic: operatinghours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.584Z
+lastCollected: 2026-04-07T09:05:22.251Z
 estimatedTokens: 7684
 keywords: [Operatinghours, Standard, custom, extend, Operating, hours, Consumer, Goods, Cloud, represent, service, territory, resource, account, work]
 ---

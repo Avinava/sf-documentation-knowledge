@@ -5,7 +5,7 @@ topic: publisher-context-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.370Z
+lastCollected: 2026-04-07T09:05:04.374Z
 estimatedTokens: 577
 keywords: [Publisher, Context, Considerations, display, canvas, app, inside, receive, signed, getContext, call, specific]
 ---

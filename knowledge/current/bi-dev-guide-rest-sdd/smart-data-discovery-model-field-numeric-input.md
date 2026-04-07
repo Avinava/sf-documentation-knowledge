@@ -5,7 +5,7 @@ topic: smart-data-discovery-model-field-numeric-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.209Z
+lastCollected: 2026-04-07T09:03:12.211Z
 estimatedTokens: 155
 keywords: [Smart, Data, Discovery, Model, Numeric, Input, Einstein]
 ---

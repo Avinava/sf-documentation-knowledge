@@ -5,7 +5,7 @@ topic: forecasting-jump-to-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.440Z
+lastCollected: 2026-04-07T09:03:27.070Z
 estimatedTokens: 368
 keywords: [Forecasting, Jump-To-User, Salesforce, users, whose, forecasts, context, user, access, view, compares, search, users’, functionality, analogous]
 ---

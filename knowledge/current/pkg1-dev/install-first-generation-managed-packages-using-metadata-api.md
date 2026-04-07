@@ -5,7 +5,7 @@ topic: install-first-generation-managed-packages-using-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.523Z
+lastCollected: 2026-04-07T09:05:01.777Z
 estimatedTokens: 763
 namespace: MyNamespace
 keywords: [Install, First-Generation, Managed, Packages, Metadata, API, upgrade, uninstall, instead, user, Automating, repeated, tasks, help, work]

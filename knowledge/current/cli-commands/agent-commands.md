@@ -5,8 +5,8 @@ topic: agent-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:09.915Z
-estimatedTokens: 14110
+lastCollected: 2026-04-07T09:01:54.039Z
+estimatedTokens: 14212
 keywords: [agent, Commands, Activate, org, Examples, Flags, deactivate, generate, agent-spec, authoring-bundle, template, test-spec, preview, end, send]
 ---
 
@@ -1131,11 +1131,17 @@ This command outputs a session ID that you then use with the "agent preview send
 
 Identify the agent you want to start previewing with either the --authoring-bundle flag to specify a local authoring bundle's API name or --api-name to specify an activated published agent's API name. To find either API name, navigate to your package directory in your DX project. The API name of an authoring bundle is the same as its directory name under the "aiAuthoringBundles" metadata directory. Similarly, the published agent's API name is the same as its directory name under the "Bots" metadata directory.
 
-When starting a preview session using the authoring bundle, which contains the agent's Agent Script file, the preview uses mocked actions by default. Specify --use-live-actions for live mode, which uses the real Apex classes, flows, etc, in the org for the actions.
+When starting a preview session with --authoring-bundle, you must explicitly specify the execution mode using one of these flags:
+
+\- --use-live-actions: Executes real Apex classes, flows, and other actions in the org. This surfaces compile and validation errors during preview.
+
+\- --simulate-actions: Uses AI to simulate action execution without calling real implementations.
+
+Published agents (--api-name) always use live actions. The mode flags are optional and have no effect for published agents.
 
 ### Examples for agent preview start
 
-Start a programmatic agent preview session by specifying an authoring bundle; uses mocked actions by default. Use the org with alias "my-dev-org":
+Start a programmatic agent preview session by specifying an authoring bundle; use simulated actions. Use the org with alias "my-dev-org":
 
 ```
 
@@ -1147,7 +1153,7 @@ Similar to previous example but use live actions and the default org:
 
 ```
 
-Start a preview session with an activated published agent:
+Start a preview session with an activated published agent (always uses live actions):
 
 ```
 
@@ -1207,7 +1213,15 @@ Type: option
 
 Optional
 
-Use real actions in the org; if not specified, preview uses AI to simulate (mock) actions.
+Execute real actions in the org (Apex classes, flows, etc.). Required with --authoring-bundle.
+
+Type: boolean
+
+\--simulate-actions
+
+Optional
+
+Use AI to simulate action execution instead of calling real actions. Required with --authoring-bundle.
 
 Type: boolean
 

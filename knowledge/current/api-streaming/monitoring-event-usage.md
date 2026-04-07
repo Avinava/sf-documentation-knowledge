@@ -5,7 +5,7 @@ topic: monitoring-event-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.522Z
+lastCollected: 2026-04-07T09:03:05.324Z
 estimatedTokens: 254
 keywords: [Monitoring, Event, Usage, Obtain, basic, daily, PushTopic, events, full, generic, API]
 ---

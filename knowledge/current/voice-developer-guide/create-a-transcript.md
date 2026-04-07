@@ -5,7 +5,7 @@ topic: create-a-transcript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.857Z
+lastCollected: 2026-04-07T09:06:18.249Z
 estimatedTokens: 1729
 keywords: [Transcript, Creates, transcribed, version, voice, call, real, time, URI, HTTP]
 ---

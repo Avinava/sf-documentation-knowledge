@@ -5,7 +5,7 @@ topic: careprogramenrolleeproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.429Z
+lastCollected: 2026-04-07T09:03:57.441Z
 estimatedTokens: 1272
 keywords: [CareProgramEnrolleeProduct, affiliation, care, program, enrollee, product, provider, Calls, Associated, Objects]
 ---
@@ -31,7 +31,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CareProgramProductId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe care program product associated with this care program enrollee and care program provider. |
 | CareProgramProviderId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe care program provider associated with this care program enrollee and care program product. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the product the enrollee participates in. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | ProgramId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe program that offers financial assistance for this product.This field is a relationship field.This field is available in API version 62.0 and later with the Manage Financial Assistance Program permission set.Relationship NameProgramRefers ToProgram |

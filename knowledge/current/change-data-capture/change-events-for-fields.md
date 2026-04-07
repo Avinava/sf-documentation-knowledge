@@ -5,7 +5,7 @@ topic: change-events-for-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.786Z
+lastCollected: 2026-04-07T09:03:18.912Z
 estimatedTokens: 230
 keywords: [Change, Events, event, characteristics]
 ---

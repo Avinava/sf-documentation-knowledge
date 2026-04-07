@@ -5,7 +5,7 @@ topic: xmd-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.900Z
+lastCollected: 2026-04-07T09:03:09.986Z
 estimatedTokens: 358
 keywords: [Xmd, Resource, extended, metadata, version, dataset, updates, user, file, URL, Formats, Components, HTTP, PUT]
 ---

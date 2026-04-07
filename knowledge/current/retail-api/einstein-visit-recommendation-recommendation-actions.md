@@ -5,7 +5,7 @@ topic: einstein-visit-recommendation-recommendation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.984Z
+lastCollected: 2026-04-07T09:05:17.790Z
 estimatedTokens: 158
 keywords: [Einstein, Visit, Recommendation, Actions, Save, task, decisions]
 ---

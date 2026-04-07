@@ -5,7 +5,7 @@ topic: decision-matrix-lookup-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.478Z
+lastCollected: 2026-04-07T09:02:52.074Z
 estimatedTokens: 260
 keywords: [Decision, Matrix, Lookup, POST, Performs, rows, input, provided, row’s, output]
 ---

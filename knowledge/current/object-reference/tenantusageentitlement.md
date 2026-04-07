@@ -5,7 +5,7 @@ topic: tenantusageentitlement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.118Z
+lastCollected: 2026-04-07T09:04:50.918Z
 estimatedTokens: 1308
 keywords: [TenantUsageEntitlement, data, structure, features, functionalities, Salesforce, org, access, API, version, 28.0, later, Calls, Associated, Objects]
 ---

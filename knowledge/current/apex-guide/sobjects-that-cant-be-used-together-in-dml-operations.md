@@ -5,7 +5,7 @@ topic: sobjects-that-cant-be-used-together-in-dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:42.935Z
+lastCollected: 2026-04-07T09:02:32.228Z
 estimatedTokens: 1172
 keywords: [sObjects, Can’t, Together, DML, Operations, certain, sometimes, referred, setup, objects, mixed, non-setup, transaction, restriction, exists]
 ---

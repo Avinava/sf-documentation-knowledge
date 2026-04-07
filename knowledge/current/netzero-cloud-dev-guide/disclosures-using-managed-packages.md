@@ -5,7 +5,7 @@ topic: disclosures-using-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:58.180Z
+lastCollected: 2026-04-07T09:04:26.881Z
 estimatedTokens: 503
 keywords: [Disclosures, Managed, Packages, disclosure, reports, company, shares, external, shareholders, template, standards, implemented, Compliance, Hub, include]
 ---

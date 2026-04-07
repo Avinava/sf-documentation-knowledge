@@ -5,7 +5,7 @@ topic: careprogramcampaignhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.832Z
+lastCollected: 2026-04-07T09:05:37.943Z
 estimatedTokens: 269
 keywords: [CareProgramCampaignHistory, History, tracked, CareProgramCampaign]
 ---

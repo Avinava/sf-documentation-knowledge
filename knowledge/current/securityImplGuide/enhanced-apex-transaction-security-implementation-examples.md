@@ -5,7 +5,7 @@ topic: enhanced-apex-transaction-security-implementation-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.709Z
+lastCollected: 2026-04-07T09:05:28.379Z
 estimatedTokens: 1024
 keywords: [Enhanced, Apex, Transaction, Security, Implementation, Examples, implementing, Login, Different, Addresses, Logins, Specific, Address, Data, Export]
 ---

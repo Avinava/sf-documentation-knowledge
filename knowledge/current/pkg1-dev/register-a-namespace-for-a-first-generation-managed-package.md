@@ -5,7 +5,7 @@ topic: register-a-namespace-for-a-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.678Z
+lastCollected: 2026-04-07T09:05:02.002Z
 estimatedTokens: 708
 keywords: [Register, First-Generation, Managed, Package, 15-character, alphanumeric, identifier, distinguishes, contents, packages, developers, AppExchange, prefixes, case-insensitive, ABC]
 ---

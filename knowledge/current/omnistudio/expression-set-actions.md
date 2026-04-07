@@ -5,7 +5,7 @@ topic: expression-set-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:47.041Z
+lastCollected: 2026-04-07T09:02:49.687Z
 estimatedTokens: 945
 keywords: [Expression, Actions, Invoke, active, user-defined, rule, accepts, input, output, configured, function, REST, HTTP, Inputs, Outputs]
 ---

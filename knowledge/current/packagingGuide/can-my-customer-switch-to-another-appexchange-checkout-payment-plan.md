@@ -5,7 +5,7 @@ topic: can-my-customer-switch-to-another-appexchange-checkout-payment-plan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.311Z
+lastCollected: 2026-04-07T09:04:53.972Z
 estimatedTokens: 87
 keywords: [customer, switch, another, AppExchange, Checkout, payment, plan, Yes, Stripe, new, effect, start, billing, period, want]
 ---

@@ -5,7 +5,7 @@ topic: configurator-delete-nodes-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:18.657Z
+lastCollected: 2026-04-07T09:01:59.422Z
 estimatedTokens: 268
 keywords: [Configurator, Nodes, POST, product, configuration]
 ---

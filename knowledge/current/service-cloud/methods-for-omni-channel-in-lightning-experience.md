@@ -5,7 +5,7 @@ topic: methods-for-omni-channel-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.338Z
+lastCollected: 2026-04-07T09:03:04.190Z
 estimatedTokens: 756
 keywords: [Omni-Channel, Lightning, Experience, lets, call, center, route, any, incoming, work, item, qualified, agents]
 ---

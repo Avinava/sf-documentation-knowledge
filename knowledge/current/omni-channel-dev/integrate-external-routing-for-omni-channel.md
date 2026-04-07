@@ -5,7 +5,7 @@ topic: integrate-external-routing-for-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:19.967Z
+lastCollected: 2026-04-07T09:04:53.346Z
 estimatedTokens: 380
 keywords: [Integrate, External, Routing, Omni-Channel, steps, implementation]
 ---

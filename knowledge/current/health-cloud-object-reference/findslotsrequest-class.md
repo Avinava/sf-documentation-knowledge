@@ -5,7 +5,7 @@ topic: findslotsrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.339Z
+lastCollected: 2026-04-07T09:03:51.851Z
 estimatedTokens: 746
 keywords: [FindSlotsRequest, options, time, slots, providers, match, patient’s, needs, extends, AppointmentBase, inherits, slotRangeEnd, slotRangeStart, isNextAvailSlot, patientId]
 ---

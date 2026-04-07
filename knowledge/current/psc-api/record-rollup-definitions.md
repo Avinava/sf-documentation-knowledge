@@ -5,7 +5,7 @@ topic: record-rollup-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:32.645Z
+lastCollected: 2026-04-07T09:05:12.208Z
 estimatedTokens: 472
 keywords: [Record, Rollup, Definitions, streamline, aggregation, records, various, objects, groups, They, give, consolidated, view, data, business]
 ---

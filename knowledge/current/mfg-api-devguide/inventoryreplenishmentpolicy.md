@@ -5,7 +5,7 @@ topic: inventoryreplenishmentpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.798Z
+lastCollected: 2026-04-07T09:04:23.581Z
 estimatedTokens: 1018
 keywords: [InventoryReplenishmentPolicy, policy, replenishing, inventory, quantity, reaches, minimum, level, API, version, 63.0, later, Calls, Special, Access]
 ---

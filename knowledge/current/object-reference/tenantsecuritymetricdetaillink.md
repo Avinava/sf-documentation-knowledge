@@ -5,7 +5,7 @@ topic: tenantsecuritymetricdetaillink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.983Z
+lastCollected: 2026-04-07T09:04:50.729Z
 estimatedTokens: 251
 keywords: [TenantSecurityMetricDetailLink, link, metric, count, drill, down, API, version, 48.0, later, Calls, Special, Access, Rules]
 ---

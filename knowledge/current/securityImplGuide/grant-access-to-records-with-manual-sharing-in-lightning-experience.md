@@ -6,7 +6,7 @@ topic: grant-access-to-records-with-manual-sharing-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.790Z
+lastCollected: 2026-04-07T09:05:28.497Z
 estimatedTokens: 1320
 keywords: [Grant, Access, Records, Manual, Sharing, Lightning, Experience, Give, specific, users, individual, record]
 ---

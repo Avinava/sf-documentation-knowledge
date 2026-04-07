@@ -5,7 +5,7 @@ topic: applicationformproductproposal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:47.563Z
+lastCollected: 2026-04-07T09:05:32.397Z
 estimatedTokens: 547
 keywords: [ApplicationFormProductProposal, proposal, presented, financial, institution, applicant, interest, rate, monthly, payment, validity, dates, total, API, version]
 ---

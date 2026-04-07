@@ -5,7 +5,7 @@ topic: financial-goal-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.326Z
+lastCollected: 2026-04-07T09:03:47.095Z
 estimatedTokens: 177
 keywords: [Financial, Goal, Input, creating, members, funding]
 ---

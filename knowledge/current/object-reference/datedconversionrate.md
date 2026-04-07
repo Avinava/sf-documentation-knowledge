@@ -5,7 +5,7 @@ topic: datedconversionrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.109Z
+lastCollected: 2026-04-07T09:04:38.915Z
 estimatedTokens: 393
 keywords: [DatedConversionRate, dated, exchange, rates, organization, multicurrency, effective, currency, features, enabled, Calls, Special, Access, Rules, Usage]
 ---

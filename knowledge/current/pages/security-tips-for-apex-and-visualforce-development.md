@@ -5,7 +5,7 @@ topic: security-tips-for-apex-and-visualforce-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:24.161Z
+lastCollected: 2026-04-07T09:05:00.026Z
 estimatedTokens: 788
 keywords: [Security, Tips, Apex, Visualforce, Development, powerful, combination, pages, Lightning, Platform, developers, provide, custom, functionality, business]
 ---

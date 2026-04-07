@@ -6,7 +6,7 @@ topic: source-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.286Z
+lastCollected: 2026-04-07T09:03:07.732Z
 estimatedTokens: 338
 keywords: [source, Step, sources, add, columns, groups, filters, formulas, query, Grain, groupings, formula, column, referencing, multiple]
 ---

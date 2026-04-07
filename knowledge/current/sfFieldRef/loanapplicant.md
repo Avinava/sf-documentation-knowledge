@@ -5,7 +5,7 @@ topic: loanapplicant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.606Z
+lastCollected: 2026-04-07T09:05:52.043Z
 estimatedTokens: 745
 keywords: [LoanApplicant, borrower, co-borrower, loan, application, API, version, 47.0, later]
 ---

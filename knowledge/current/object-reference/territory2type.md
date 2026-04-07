@@ -5,7 +5,7 @@ topic: territory2type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.166Z
+lastCollected: 2026-04-07T09:04:50.992Z
 estimatedTokens: 580
 keywords: [Territory2Type, category, territories, Territory2, Every, Sales, enabled, organization, Calls, Special, Access, Rules]
 ---

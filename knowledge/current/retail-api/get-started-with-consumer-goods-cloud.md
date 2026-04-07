@@ -5,7 +5,7 @@ topic: get-started-with-consumer-goods-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.197Z
+lastCollected: 2026-04-07T09:05:18.090Z
 estimatedTokens: 2085
 keywords: [Started, Consumer, Goods, Cloud, Streamline, customer, relationships, grow, business, initiate, intelligent, sales, Salesforce, product, collaborate]
 ---

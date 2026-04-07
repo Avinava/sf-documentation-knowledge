@@ -5,7 +5,7 @@ topic: wkplancrisismetricc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.624Z
+lastCollected: 2026-04-07T09:06:19.415Z
 estimatedTokens: 1724
 keywords: [wkplan__CrisisMetric__c, Stores, quantitative, qualitative, data, measure, aspect, crisis, metrics, better, understand, severity, COVID-19, pandemic, help]
 ---

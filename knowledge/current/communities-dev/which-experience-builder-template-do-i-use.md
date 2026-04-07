@@ -5,7 +5,7 @@ topic: which-experience-builder-template-do-i-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.244Z
+lastCollected: 2026-04-07T09:03:39.645Z
 estimatedTokens: 782
 keywords: [Experience, Builder, Template, Depending, build, sites, two, programming, models, Lightning, Web, Components, model, original, Aura]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-crm-voucher-definition-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:32.300Z
+lastCollected: 2026-04-07T09:02:08.439Z
 estimatedTokens: 427
 keywords: [Salesforce, CRM, Voucher, Definition, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, template]
 ---

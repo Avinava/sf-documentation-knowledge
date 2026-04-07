@@ -5,7 +5,7 @@ topic: prodtsvccmpngrpdefcausalitm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.875Z
+lastCollected: 2026-04-07T09:04:23.727Z
 estimatedTokens: 1284
 keywords: [ProdtSvcCmpnGrpDefCausalItm, impacted, item, caused, service, campaign, initiated, airbag, needs, repaired, replaced, Stores, granular, causal, facilitating]
 ---

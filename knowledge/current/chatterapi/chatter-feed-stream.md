@@ -5,7 +5,7 @@ topic: chatter-feed-stream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.717Z
+lastCollected: 2026-04-07T09:03:24.662Z
 estimatedTokens: 675
 keywords: [Chatter, Feed, Stream]
 ---

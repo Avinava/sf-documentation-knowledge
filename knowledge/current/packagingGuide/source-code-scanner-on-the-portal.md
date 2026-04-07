@@ -5,7 +5,7 @@ topic: source-code-scanner-on-the-portal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.287Z
+lastCollected: 2026-04-07T09:04:55.683Z
 estimatedTokens: 859
 keywords: [Source, Code, Scanner, Portal, identify, security, vulnerabilities, require, run, scanning, tools, solution, external, endpoints, independently]
 ---

@@ -5,7 +5,7 @@ topic: trade-promotion-management-service-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:36.817Z
+lastCollected: 2026-04-07T09:05:17.509Z
 estimatedTokens: 463
 keywords: [Trade, Promotion, Management, Service, APIs, TPM, process, planning, budgeting, presenting, running, incentive, programs, consumer, goods]
 ---

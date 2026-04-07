@@ -5,7 +5,7 @@ topic: create-contract-document-generation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:46.995Z
+lastCollected: 2026-04-07T09:02:49.653Z
 estimatedTokens: 303
 keywords: [Contract, Document, Generation, Action, record, REST, HTTP, Inputs, Output, Usage]
 ---

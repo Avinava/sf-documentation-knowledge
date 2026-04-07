@@ -5,7 +5,7 @@ topic: careprogramcampaign
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.818Z
+lastCollected: 2026-04-07T09:05:37.929Z
 estimatedTokens: 320
 keywords: [CareProgramCampaign, relationship, Care, Program, Campaign, junction, admins, associate, campaigns]
 ---

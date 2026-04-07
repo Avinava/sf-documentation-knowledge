@@ -5,7 +5,7 @@ topic: wave-performance-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.781Z
+lastCollected: 2026-04-07T09:04:40.916Z
 estimatedTokens: 1268
 keywords: [Wave, Performance, Event, events, help, track, trends, Analytics]
 ---

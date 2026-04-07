@@ -5,7 +5,7 @@ topic: topicassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.955Z
+lastCollected: 2026-04-07T09:04:05.256Z
 estimatedTokens: 875
 keywords: [TopicAssignment, assignment, topic, specific, feed, item, record, file, API, version, 28.0, later, Calls, Usage]
 ---

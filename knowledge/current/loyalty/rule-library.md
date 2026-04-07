@@ -5,7 +5,7 @@ topic: rule-library
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.662Z
+lastCollected: 2026-04-07T09:04:18.019Z
 estimatedTokens: 174
 keywords: [Rule, Library, associated, promotion]
 ---
@@ -23,4 +23,4 @@ The details of the rule library associated with the promotion.
 | apiName | String | The API name of the rule library associated with the promotion. | Small, 61.0 | 61.0 |
 | description | String | The description of the rule library associated with the promotion. | Small, 61.0 | 61.0 |
 | name | String | The name of the rule library associated with the promotion. | Small, 61.0 | 61.0 |
-| relatedContextDefinitionDeveloperName | String | The developer name of the context definition that's associated with the promotion's rule library. | Small, 61.0 | 61.0 |
+| relatedContext​Definition​DeveloperName | String | The developer name of the context definition that's associated with the promotion's rule library. | Small, 61.0 | 61.0 |

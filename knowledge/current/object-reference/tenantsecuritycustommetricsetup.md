@@ -5,7 +5,7 @@ topic: tenantsecuritycustommetricsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:17.896Z
+lastCollected: 2026-04-07T09:04:50.601Z
 estimatedTokens: 498
 keywords: [TenantSecurityCustomMetricSetup, configuration, custom, metric, Security, Center, API, version, 61.0, later, Calls]
 ---

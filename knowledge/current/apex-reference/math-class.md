@@ -5,7 +5,7 @@ topic: math-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.959Z
+lastCollected: 2026-04-07T09:02:28.970Z
 estimatedTokens: 12683
 namespace: System
 keywords: [Math, mathematical, constant, base, natural, logarithms, abs, decimalValue, doubleValue, integerValue, longValue, acos, decimalAngle, doubleAngle, asin]

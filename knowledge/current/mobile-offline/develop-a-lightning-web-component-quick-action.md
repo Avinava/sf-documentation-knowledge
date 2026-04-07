@@ -5,7 +5,7 @@ topic: develop-a-lightning-web-component-quick-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.707Z
+lastCollected: 2026-04-07T09:04:24.921Z
 estimatedTokens: 636
 keywords: [Develop, Lightning, Web, Component, Quick, Action, Welcome, developing, actions, components, LWCs, Salesforce, Service, SFS, mobile]
 ---

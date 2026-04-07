@@ -5,7 +5,7 @@ topic: manage-gift-default-designations-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.669Z
+lastCollected: 2026-04-07T09:03:41.822Z
 estimatedTokens: 282
 keywords: [Manage, Gift, Designations, Action, Creates, manages, Designation, records, entry, associated, campaign, opportunity, commitment, REST, HTTP]
 ---

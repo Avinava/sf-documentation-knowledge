@@ -5,7 +5,7 @@ topic: define-data-loader-field-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.210Z
+lastCollected: 2026-04-07T09:03:41.156Z
 estimatedTokens: 285
 keywords: [Define, Data, Loader, Mappings, insert, files, Loader's, Mapping, Dialog, window, associate, Salesforce, columns, CSV, file]
 ---

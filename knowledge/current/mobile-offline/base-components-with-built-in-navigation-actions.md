@@ -5,7 +5,7 @@ topic: base-components-with-built-in-navigation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.671Z
+lastCollected: 2026-04-07T09:04:24.862Z
 estimatedTokens: 706
 keywords: [Base, Components, Built-In, Navigation, Actions, automatic]
 ---

@@ -5,7 +5,7 @@ topic: canvas-apps-in-a-page-layout-or-a-mobile-card
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.444Z
+lastCollected: 2026-04-07T09:05:04.512Z
 estimatedTokens: 662
 keywords: [Canvas, Apps, Layout, Mobile, Card, add, app, any, standard, custom, category, appear, palette, edit, location]
 ---

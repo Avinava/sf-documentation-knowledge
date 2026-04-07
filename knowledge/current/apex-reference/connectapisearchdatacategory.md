@@ -5,7 +5,7 @@ topic: connectapisearchdatacategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:46.535Z
+lastCollected: 2026-04-07T09:02:19.841Z
 estimatedTokens: 218
 keywords: [ConnectApi.SearchDataCategory, Data, category, input, search]
 ---

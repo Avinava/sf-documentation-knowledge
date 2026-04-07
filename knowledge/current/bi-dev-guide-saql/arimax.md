@@ -5,7 +5,7 @@ topic: arimax
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:06.742Z
+lastCollected: 2026-04-07T09:03:14.601Z
 estimatedTokens: 2674
 keywords: [arimax, Uses, data, predict, future, points, statement, follow, projection, query, Perform, any, filtering, pre-projection, Usage]
 ---

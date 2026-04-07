@@ -5,7 +5,7 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.250Z
+lastCollected: 2026-04-07T09:05:11.596Z
 estimatedTokens: 513
 keywords: [IndustriesSettings, settings, Sector, Solutions, Cloud, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
 ---

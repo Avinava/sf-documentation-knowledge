@@ -5,7 +5,7 @@ topic: commerce-webstore-composite-product-variations-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.998Z
+lastCollected: 2026-04-07T09:03:25.036Z
 estimatedTokens: 189
 keywords: [Commerce, Webstore, Composite, Product, Variations, variation, products, media, pricing, parent]
 ---

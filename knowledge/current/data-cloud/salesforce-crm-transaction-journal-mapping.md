@@ -5,7 +5,7 @@ topic: salesforce-crm-transaction-journal-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:32.271Z
+lastCollected: 2026-04-07T09:02:08.419Z
 estimatedTokens: 826
 keywords: [Salesforce, CRM, Transaction, Journal, Mapping, data, mappings, DLO, found, Loyalty, Management, bundle, Connector, Cloud, journals]
 ---

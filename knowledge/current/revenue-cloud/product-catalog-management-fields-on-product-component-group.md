@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-component-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:23.304Z
+lastCollected: 2026-04-07T09:02:02.754Z
 estimatedTokens: 196
 keywords: [Product, Catalog, Management, Component, Group, Standard, custom, extend]
 ---

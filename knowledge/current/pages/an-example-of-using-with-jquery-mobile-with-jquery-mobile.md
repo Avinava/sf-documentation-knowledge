@@ -5,7 +5,7 @@ topic: an-example-of-using-with-jquery-mobile-with-jquery-mobile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.079Z
+lastCollected: 2026-04-07T09:04:59.875Z
 estimatedTokens: 414
 keywords: [jQuery, Mobile, Visualforce, Remote, Objects, designed, “blend”, well, JavaScript, frameworks, extended, simple, how, view, contacts]
 ---

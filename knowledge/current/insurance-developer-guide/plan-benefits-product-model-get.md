@@ -5,7 +5,7 @@ topic: plan-benefits-product-model-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.301Z
+lastCollected: 2026-04-07T09:04:02.817Z
 estimatedTokens: 271
 keywords: [Plan, Benefits, Product, Model, along, child, components, their, attributes, insurance, policy, coverage]
 ---
@@ -62,7 +62,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/brokerage/coverages/coverageId/benefits/product
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/brokerage/coverages/coverageId/benefits/product
 ```
 
 ## Related Topics

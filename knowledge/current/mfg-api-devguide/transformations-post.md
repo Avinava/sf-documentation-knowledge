@@ -5,7 +5,7 @@ topic: transformations-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.975Z
+lastCollected: 2026-04-07T09:04:22.386Z
 estimatedTokens: 465
 keywords: [Transformations, POST, Perform, business, transformation, program, component, forecast, data, source, opportunities, target, scenarios, MfgProgramCpntFrcstFact, Opportunity]
 ---

@@ -5,7 +5,7 @@ topic: recommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.019Z
+lastCollected: 2026-04-07T09:04:48.145Z
 estimatedTokens: 907
 keywords: [Recommendation, recommendations, surfaced, offers, actions, Einstein, Best, Action, API, version, 45.0, later, Calls, Special, Access]
 ---

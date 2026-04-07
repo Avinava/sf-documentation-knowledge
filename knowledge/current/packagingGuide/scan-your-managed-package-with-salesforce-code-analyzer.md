@@ -5,7 +5,7 @@ topic: scan-your-managed-package-with-salesforce-code-analyzer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.206Z
+lastCollected: 2026-04-07T09:04:55.539Z
 estimatedTokens: 821
 keywords: [Scan, Managed, Package, Salesforce, Code, Analyzer, AppExchange, partner, submitting, security, review, provide, test, results, solution’s]
 ---

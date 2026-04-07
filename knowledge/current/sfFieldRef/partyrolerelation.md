@@ -5,7 +5,7 @@ topic: partyrolerelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:07.020Z
+lastCollected: 2026-04-07T09:05:58.094Z
 estimatedTokens: 431
 keywords: [PartyRoleRelation, relationship, participants, API, version, 58.0, later]
 ---

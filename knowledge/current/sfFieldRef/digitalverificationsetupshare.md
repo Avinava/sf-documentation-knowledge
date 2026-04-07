@@ -5,7 +5,7 @@ topic: digitalverificationsetupshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:56.200Z
+lastCollected: 2026-04-07T09:05:43.314Z
 estimatedTokens: 255
 keywords: [DigitalVerificationSetupShare, Sharing, DigitalVerificationSetup]
 ---

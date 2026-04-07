@@ -5,7 +5,7 @@ topic: learningitemprogress
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.700Z
+lastCollected: 2026-04-07T09:04:43.071Z
 estimatedTokens: 1114
 keywords: [LearningItemProgress, progress, user, made, towards, completing, assigned, learning, item, Paths, entry, Enablement, program, API, version]
 ---

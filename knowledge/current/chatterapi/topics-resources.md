@@ -5,7 +5,7 @@ topic: topics-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:16.717Z
+lastCollected: 2026-04-07T09:03:28.899Z
 estimatedTokens: 390
 keywords: [Topics, Resources, merge, Assign, unassign, articles, reassign, topic, article, assignment, rules, suggested, text, feed, item, endorsements, endorse, someone, groups, recently]
 ---

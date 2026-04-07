@@ -5,7 +5,7 @@ topic: custom-domain-expected-cdn-cname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.854Z
+lastCollected: 2026-04-07T09:03:26.230Z
 estimatedTokens: 117
 keywords: [Custom, Domain, Expected, CDN, CNAME, canonical, record, that’s, domains, Salesforce]
 ---

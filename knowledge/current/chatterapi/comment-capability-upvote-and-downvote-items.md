@@ -5,7 +5,7 @@ topic: comment-capability-upvote-and-downvote-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.896Z
+lastCollected: 2026-04-07T09:03:24.910Z
 estimatedTokens: 344
 keywords: [Comment, Capability, Upvote, Downvote, Items, users, upvoted, downvoted]
 ---

@@ -5,7 +5,7 @@ topic: sample-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.090Z
+lastCollected: 2026-04-07T09:05:26.074Z
 estimatedTokens: 864
 keywords: [Sample, Scenarios, show, data, that’s, essential, they, don’t, tables, Salesforce, uses, calculating, record, access, Scenario]
 ---

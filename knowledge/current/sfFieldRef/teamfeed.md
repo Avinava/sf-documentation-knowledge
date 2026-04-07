@@ -5,7 +5,7 @@ topic: teamfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.174Z
+lastCollected: 2026-04-07T09:06:09.092Z
 estimatedTokens: 383
 keywords: [TeamFeed, Feed, tracking, Team]
 ---

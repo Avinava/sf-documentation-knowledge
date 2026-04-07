@@ -5,7 +5,7 @@ topic: external-credential-principal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:11.646Z
+lastCollected: 2026-04-07T09:03:21.522Z
 estimatedTokens: 287
 keywords: [External, Credential, Principal, Input]
 ---

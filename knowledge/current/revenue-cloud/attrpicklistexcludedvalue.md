@@ -5,7 +5,7 @@ topic: attrpicklistexcludedvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:24.445Z
+lastCollected: 2026-04-07T09:02:03.515Z
 estimatedTokens: 828
 keywords: [AttrPicklistExcludedValue, excluded, picklist, product, classification, attribute, definition, API, version, 61.0, later, Calls, Special, Access, Rules]
 ---

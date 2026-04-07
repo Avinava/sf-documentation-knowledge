@@ -5,7 +5,7 @@ topic: contentnote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.140Z
+lastCollected: 2026-04-07T09:04:37.706Z
 estimatedTokens: 1556
 keywords: [ContentNote, created, enhanced, note-taking, tool, released, Winter, ’16, API, version, 32.0, later, Calls, Special, Access]
 ---

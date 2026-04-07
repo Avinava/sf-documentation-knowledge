@@ -5,7 +5,7 @@ topic: previous-assessment-responses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.116Z
+lastCollected: 2026-04-07T09:03:52.954Z
 estimatedTokens: 220
 keywords: [Previous, Assessment, Responses, Input, representation, fetch, past, Discovery, Framework, MCG, assessments]
 ---

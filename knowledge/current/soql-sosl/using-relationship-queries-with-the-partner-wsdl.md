@@ -5,7 +5,7 @@ topic: using-relationship-queries-with-the-partner-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.591Z
+lastCollected: 2026-04-07T09:06:14.930Z
 estimatedTokens: 209
 keywords: [Relationship, Queries, Partner, WSDL, doesn’t, contain, detailed, that’s, enterprise, SOQL, query, execute, describeSObjects, call, results]
 ---

@@ -5,7 +5,7 @@ topic: analyticsdashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:03.358Z
+lastCollected: 2026-04-07T09:02:37.161Z
 estimatedTokens: 3474
 keywords: [AnalyticsDashboard, Tableau, dashboard, Parent, File, Suffix, Directory, Location, Version, Limits, AnalyticsDashboardLayout, AnalyticsDashboardPage, AnalyticsDashPageWidget, AnalyticsDashboardWidget, AnalyticsAssetAction]
 ---

@@ -5,7 +5,7 @@ topic: feed-elements-post-and-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.104Z
+lastCollected: 2026-04-07T09:03:26.554Z
 estimatedTokens: 1386
 keywords: [Feed, Elements, Post, Search, organization]
 ---

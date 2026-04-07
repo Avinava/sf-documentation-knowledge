@@ -5,7 +5,7 @@ topic: territoryuserdowntime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.512Z
+lastCollected: 2026-04-07T09:04:12.094Z
 estimatedTokens: 706
 keywords: [TerritoryUserDowntime, blocks, time, normal, business, hours, various, reasons, sales, representatives, their, territories, API, version, 65.0]
 ---

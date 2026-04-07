@@ -5,7 +5,7 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.306Z
+lastCollected: 2026-04-07T09:02:43.361Z
 estimatedTokens: 629
 keywords: [Prerequisites, strongly, recommend, sandbox, exact, replica, production, organization, Enterprise, Unlimited, Performance, Editions, come, free, developer, start, developing, Metadata, API]
 ---

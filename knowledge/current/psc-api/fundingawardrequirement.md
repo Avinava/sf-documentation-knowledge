@@ -5,7 +5,7 @@ topic: fundingawardrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.731Z
+lastCollected: 2026-04-07T09:05:13.564Z
 estimatedTokens: 907
 keywords: [FundingAwardRequirement, deliverable, milestone, needed, award, either, approved, closed, API, version, 57.0, later, Calls, Special, Access]
 ---

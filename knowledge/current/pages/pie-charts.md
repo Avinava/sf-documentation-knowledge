@@ -5,7 +5,7 @@ topic: pie-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.943Z
+lastCollected: 2026-04-07T09:04:56.781Z
 estimatedTokens: 281
 keywords: [Pie, Charts, common, customizations, <apex, pieSeries>, colors, labels, colorSet, attribute, chartLabel>, component, were, demonstrated, previous]
 ---

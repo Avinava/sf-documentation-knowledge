@@ -5,7 +5,7 @@ topic: custompageweblink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:02.770Z
+lastCollected: 2026-04-07T09:02:36.627Z
 estimatedTokens: 1884
 keywords: [CustomPageWebLink, custom, link, defined, home, component, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition]
 ---

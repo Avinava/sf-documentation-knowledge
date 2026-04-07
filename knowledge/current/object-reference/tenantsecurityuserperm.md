@@ -5,7 +5,7 @@ topic: tenantsecurityuserperm
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:18.110Z
+lastCollected: 2026-04-07T09:04:50.908Z
 estimatedTokens: 1182
 keywords: [TenantSecurityUserPerm, Stores, permissions, assigned, user, tenants, Security, Center, subscribers, API, version, 53.0, later, Calls, Special]
 ---

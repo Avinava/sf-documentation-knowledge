@@ -5,7 +5,7 @@ topic: club-member-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.323Z
+lastCollected: 2026-04-07T09:04:17.586Z
 estimatedTokens: 242
 keywords: [Club, Member, Promotions, output]
 ---

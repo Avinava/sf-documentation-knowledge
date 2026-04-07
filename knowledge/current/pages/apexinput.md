@@ -5,7 +5,7 @@ topic: apexinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.545Z
+lastCollected: 2026-04-07T09:04:57.621Z
 estimatedTokens: 1585
 keywords: [apex, input, HTML5-friendly, general, purpose, component, adapts, data, expected, form, uses, HTML, attribute, allow, client]
 ---

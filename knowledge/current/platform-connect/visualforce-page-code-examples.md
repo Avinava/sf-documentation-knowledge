@@ -6,7 +6,7 @@ topic: visualforce-page-code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T09:35:27.317Z
+lastCollected: 2026-04-07T09:05:04.280Z
 estimatedTokens: 554
 keywords: [Visualforce, Code, Examples, display, canvas, app, number, ways, Detail, Standard, Border, Scrolling]
 ---

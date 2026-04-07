@@ -5,7 +5,7 @@ topic: base-components-with-minimum-api-version-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.491Z
+lastCollected: 2026-04-07T09:04:13.426Z
 estimatedTokens: 1312
 keywords: [Base, Components, Minimum, API, Version, Requirements, Lightning, require, custom, component’s, equal, later, latest, any, uses]
 ---

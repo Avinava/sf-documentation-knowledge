@@ -5,7 +5,7 @@ topic: apextriggereventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.594Z
+lastCollected: 2026-04-07T09:04:34.688Z
 estimatedTokens: 1641
 keywords: [ApexTriggerEventLog, Apex, Trigger, event, logs, contain, triggers, fire, organization, API, version, 55.0, later, Calls, Special]
 ---

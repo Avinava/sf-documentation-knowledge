@@ -5,7 +5,7 @@ topic: graph-record-for-invoice-ingestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:17.240Z
+lastCollected: 2026-04-07T09:01:58.383Z
 estimatedTokens: 3457
 keywords: [Graph, Record, Invoice, Ingestion, that’s, part, structure, representing, relationships, among, different, objects, contain, attributes, references]
 ---

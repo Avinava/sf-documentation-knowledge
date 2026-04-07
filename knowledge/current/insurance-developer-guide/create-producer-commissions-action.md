@@ -5,8 +5,8 @@ topic: create-producer-commissions-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.560Z
-estimatedTokens: 434
+lastCollected: 2026-04-07T09:04:00.001Z
+estimatedTokens: 433
 keywords: [Producer, Commissions, Action, records, producers, receive, insurance, policy, associated, commission, statement, line, item, record, status]
 ---
 
@@ -30,7 +30,7 @@ The Create Producer Commissions action is available in Enterprise, Unlimited, an
 
 URI
 
-/services/data/v66.0/actions/standard/createProducerCommissions
+/services/data/v/actions/standard/createProducerCommissions
 
 Formats
 

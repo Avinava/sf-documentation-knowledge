@@ -5,7 +5,7 @@ topic: quick-action-api-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:09.394Z
+lastCollected: 2026-04-07T09:03:18.244Z
 estimatedTokens: 671
 keywords: [Quick, Action, API, Considerations, working, Lightning, JavaScript, review, impact, implementation]
 ---

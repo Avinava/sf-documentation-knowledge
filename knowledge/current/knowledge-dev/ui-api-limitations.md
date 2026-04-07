@@ -5,7 +5,7 @@ topic: ui-api-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.542Z
+lastCollected: 2026-04-07T09:04:04.731Z
 estimatedTokens: 1034
 keywords: [API, Limitations, Lightning, Knowledge, RecordTypeId, Linked, Record, Shouldn’t, object-info, Error, Retrieving, KnowledgeArticleVersion.RecordTypeId, Fails, Data, Metadata]
 ---

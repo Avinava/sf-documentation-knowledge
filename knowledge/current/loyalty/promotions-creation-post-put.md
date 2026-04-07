@@ -5,7 +5,7 @@ topic: promotions-creation-post-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.225Z
+lastCollected: 2026-04-07T09:04:17.471Z
 estimatedTokens: 366
 keywords: [Promotions, Creation, POST, PUT, promotion, provided, limits, eligibility, conditions]
 ---

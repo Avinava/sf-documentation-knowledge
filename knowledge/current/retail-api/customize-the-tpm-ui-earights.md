@@ -5,7 +5,7 @@ topic: customize-the-tpm-ui-earights
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.127Z
+lastCollected: 2026-04-07T09:05:22.862Z
 estimatedTokens: 693
 keywords: [Customize, TPM, EARights, Enable, editability, visibility, promotion, tactic, modifying]
 ---

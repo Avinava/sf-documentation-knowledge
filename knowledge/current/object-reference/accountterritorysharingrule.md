@@ -5,7 +5,7 @@ topic: accountterritorysharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.747Z
+lastCollected: 2026-04-07T09:04:33.709Z
 estimatedTokens: 906
 keywords: [AccountTerritorySharingRule, rules, sharing, Account, territory, Calls, Special, Access, Usage]
 ---

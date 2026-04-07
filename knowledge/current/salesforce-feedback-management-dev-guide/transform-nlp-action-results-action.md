@@ -5,7 +5,7 @@ topic: transform-nlp-action-results-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.343Z
+lastCollected: 2026-04-07T09:05:23.185Z
 estimatedTokens: 381
 keywords: [Transform, NLP, Action, Results, Natural, Language, Processing, result, created, Einstein, Generative, Apex, record, REST, HTTP]
 ---

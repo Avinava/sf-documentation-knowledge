@@ -5,7 +5,7 @@ topic: working-with-field-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:23.473Z
+lastCollected: 2026-04-07T09:04:58.957Z
 estimatedTokens: 1324
 keywords: [Working, dynamic, bindings, display, Visualforce, pages, grouping, describing, user's, middle, business, title, Apex, Considerations]
 ---

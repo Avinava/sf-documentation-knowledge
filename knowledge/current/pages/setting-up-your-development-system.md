@@ -5,7 +5,7 @@ topic: setting-up-your-development-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.832Z
+lastCollected: 2026-04-07T09:04:59.511Z
 estimatedTokens: 607
 keywords: [Setting, Development, System, Salesforce, several, different, tools, ways, write, edit, view, code, Choosing, Editor, Viewing]
 ---

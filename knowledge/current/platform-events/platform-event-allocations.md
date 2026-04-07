@@ -5,8 +5,8 @@ topic: platform-event-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.698Z
-estimatedTokens: 8652
+lastCollected: 2026-04-07T09:05:04.911Z
+estimatedTokens: 8646
 keywords: [Platform, Event, Allocations, definitions, publishing, subscribing, events, delivery, Pub, Sub, API, clients, CometD, empApi, Lightning]
 ---
 
@@ -201,11 +201,11 @@ Check your event publishing and delivery usage and maximum allocation in Setup, 
 
 Check your event publishing and delivery usage in the user interface. From Setup, in the Quick Find box, enter Platform Events, and then select **Platform Events**. The usage is shown in the Event Allocations section.
 
-![Event allocations section](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform-events-event-allocations-ui.png&folder=platform_events)
+![Event allocations section](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform-events-event-allocations-ui.png&folder=platform_events)
 
 If your org purchased the add-on for platform events or change data capture, the grace allocation is displayed in addition to the allocation for daily event delivery. The daily event delivery usage corresponds to the DailyDeliveredPlatformEvents REST API limits value. The monthly event delivery usage is also displayed. It corresponds to the MonthlyPlatformEvents REST API limits value. To view the usage-based entitlement in Setup, check the Usage-based Entitlements related list in the Company Information page.
 
-![Event Allocations section shows the Grace Allocation column](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform_events_allocations_ui_grace.png&folder=platform_events)
+![Event Allocations section shows the Grace Allocation column](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform_events_allocations_ui_grace.png&folder=platform_events)
 
 Learn about other ways to check event usage with REST API, Apex, and in the Company Information page.
 

@@ -5,7 +5,7 @@ topic: create-service-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.976Z
+lastCollected: 2026-04-07T09:05:27.342Z
 estimatedTokens: 265
 keywords: [Service, Resources, resources—individual, users, attend, customer, appointments—so, assign, appointments, dummy, resource, DummyResource1, Agent1, Agent2, schedule]
 ---

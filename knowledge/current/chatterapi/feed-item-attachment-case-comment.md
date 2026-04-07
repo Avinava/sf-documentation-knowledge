@@ -5,7 +5,7 @@ topic: feed-item-attachment-case-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.743Z
+lastCollected: 2026-04-07T09:03:32.019Z
 estimatedTokens: 512
 keywords: [Feed, Item, Attachment, Case, Comment]
 ---

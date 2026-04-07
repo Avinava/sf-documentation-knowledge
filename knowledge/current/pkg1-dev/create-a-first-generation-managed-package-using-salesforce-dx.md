@@ -6,7 +6,7 @@ topic: create-a-first-generation-managed-package-using-salesforce-dx
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.709Z
+lastCollected: 2026-04-07T09:05:02.057Z
 estimatedTokens: 1203
 keywords: [First-Generation, Managed, Package, Salesforce, you’re, ISV, want, build, bundle, components, application, piece, functionality, great, way]
 ---

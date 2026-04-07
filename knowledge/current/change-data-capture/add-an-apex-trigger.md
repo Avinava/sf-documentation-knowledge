@@ -5,7 +5,7 @@ topic: add-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.476Z
+lastCollected: 2026-04-07T09:03:18.379Z
 estimatedTokens: 584
 keywords: [Add, Apex, Trigger, quick, start, adds, simple, change, event, how, access, record, message]
 ---

@@ -5,7 +5,7 @@ topic: scratchorginfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:16.686Z
+lastCollected: 2026-04-07T09:04:49.021Z
 estimatedTokens: 2829
 namespace: Type
 keywords: [ScratchOrgInfo, scratch, org, audit, log, keep, creation, deletion, API, version, 41.0, later, Calls, Associated, Objects]

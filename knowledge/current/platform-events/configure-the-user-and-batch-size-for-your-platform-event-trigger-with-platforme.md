@@ -6,8 +6,8 @@ topic: configure-the-user-and-batch-size-for-your-platform-event-trigger-with-pl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.167Z
-estimatedTokens: 1523
+lastCollected: 2026-04-07T09:05:05.609Z
+estimatedTokens: 1520
 keywords: [Configure, User, Batch, Size, Platform, Event, Trigger, PlatformEventSubscriberConfig, override, running, Apex, runs, Automated, Process, system]
 ---
 
@@ -39,7 +39,7 @@ In addition to setting a user, you can specify a custom batch size from 1 throug
 
 This image shows the Subscriptions related list in Setup for a platform event with a custom batch size and user.
 
-![The Subscriptions related list showing the trigger's custom batch size and user](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform_events_custom_batchsize_user.png&folder=platform_events)
+![The Subscriptions related list showing the trigger's custom batch size and user](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform_events_custom_batchsize_user.png&folder=platform_events)
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=platform_events)
 

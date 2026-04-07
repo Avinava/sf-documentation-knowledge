@@ -5,7 +5,7 @@ topic: careprovideradverseaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.478Z
+lastCollected: 2026-04-07T09:03:57.501Z
 estimatedTokens: 1773
 keywords: [CareProviderAdverseAction, Captures, adverse, actions, against, provider, malpractice, lawsuits, revoked, licences, API, version, 47.0, later, Calls]
 ---
@@ -44,7 +44,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | InsuranceProviderName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the insurance provider that issued the policy associated with an adverse action. |
 | Jurisdiction | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the court or goverment body that issued the legal determination. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the adverse action that is being taken. |
 | PenaltyAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe penalty amount imposed for an adverse action. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionTime stamp that indicates when the current user last viewed this record. |

@@ -5,7 +5,7 @@ topic: mixed-visualforce-and-html
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.495Z
+lastCollected: 2026-04-07T09:05:00.491Z
 estimatedTokens: 835
 keywords: [Mixed, Visualforce, HTML, Combine, tags, form, elements, output, text, structure, mobile-friendly, pages, closely, match, visual]
 ---

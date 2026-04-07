@@ -5,7 +5,7 @@ topic: register-guest-buyer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.457Z
+lastCollected: 2026-04-07T09:03:28.511Z
 estimatedTokens: 106
 keywords: [Register, Guest, Buyer, webstore, account, action, order, behalf, another, success, failure]
 ---

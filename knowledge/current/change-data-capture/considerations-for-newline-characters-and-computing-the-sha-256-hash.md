@@ -6,7 +6,7 @@ topic: considerations-for-newline-characters-and-computing-the-sha-256-hash
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:09.517Z
+lastCollected: 2026-04-07T09:03:18.438Z
 estimatedTokens: 305
 keywords: [Considerations, Newline, Characters, Computing, SHA-256, Hash, content, Salesforce, uses, generate, transformed, browser, browsers, transform, record]
 ---

@@ -5,7 +5,7 @@ topic: dashboard-snapshot-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:04.156Z
+lastCollected: 2026-04-07T09:03:10.461Z
 estimatedTokens: 291
 keywords: [Dashboard, Snapshot, Item, Analytics]
 ---

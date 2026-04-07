@@ -5,7 +5,7 @@ topic: metadataapiopeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.876Z
+lastCollected: 2026-04-07T09:04:44.435Z
 estimatedTokens: 629
 keywords: [MetadataApiOpEventLog, stores, Metadata, API, retrieval, deployment, requests, version, 62.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: smart-data-discovery-refresh-task-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.014Z
+lastCollected: 2026-04-07T09:03:13.444Z
 estimatedTokens: 135
 keywords: [Smart, Data, Discovery, Refresh, Task, Source, Einstein]
 ---

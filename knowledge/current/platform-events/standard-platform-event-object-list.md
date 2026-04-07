@@ -5,7 +5,7 @@ topic: standard-platform-event-object-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.905Z
+lastCollected: 2026-04-07T09:05:05.269Z
 estimatedTokens: 5434
 keywords: [Standard, Platform, Event, Salesforce, publishes, events, action, occurred, org, report, errors, LoginEventStream, monitors, user, login]
 ---

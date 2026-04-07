@@ -5,7 +5,7 @@ topic: create-a-repository-file-without-content-metadata-only
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.550Z
+lastCollected: 2026-04-07T09:02:33.702Z
 estimatedTokens: 292
 keywords: [Repository, File, Content, Metadata, Call, binary, Google, Drive, folder]
 ---

@@ -5,7 +5,7 @@ topic: apex-soap-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:08.890Z
+lastCollected: 2026-04-07T09:04:39.905Z
 estimatedTokens: 1774
 keywords: [Apex, SOAP, Event, events, contain, custom, web, service, calls]
 ---

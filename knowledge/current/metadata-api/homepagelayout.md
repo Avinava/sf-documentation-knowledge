@@ -5,7 +5,7 @@ topic: homepagelayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.340Z
+lastCollected: 2026-04-07T09:02:41.193Z
 estimatedTokens: 740
 keywords: [HomePageLayout, metadata, associated, home, layout, customize, layouts, assign, users, their, user, profile, File, Suffix, Directory]
 ---

@@ -5,7 +5,7 @@ topic: apexcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.728Z
+lastCollected: 2026-04-07T09:02:46.275Z
 estimatedTokens: 388
 keywords: [ApexComponent, saved, copy, Visualforce, component, uses, cached, version, unless, unavailable, API, 28.0, later, SOAP, Calls]
 ---

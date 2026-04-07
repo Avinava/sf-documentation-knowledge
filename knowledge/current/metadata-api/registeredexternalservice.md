@@ -5,7 +5,7 @@ topic: registeredexternalservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.548Z
+lastCollected: 2026-04-07T09:02:43.599Z
 estimatedTokens: 1074
 keywords: [RegisteredExternalService, registered, external, service, extension, integration, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---

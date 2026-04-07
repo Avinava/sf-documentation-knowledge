@@ -5,7 +5,7 @@ topic: extend-invoice-due-date-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:11.437Z
+lastCollected: 2026-04-07T09:01:54.845Z
 estimatedTokens: 348
 keywords: [Extend, Invoice, Due, Date, Action, accommodate, payment, extensions, resolve, billing, disputes, Special, Access, Rules, REST]
 ---

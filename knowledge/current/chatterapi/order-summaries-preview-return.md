@@ -5,7 +5,7 @@ topic: order-summaries-preview-return
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.559Z
+lastCollected: 2026-04-07T09:03:28.657Z
 estimatedTokens: 717
 keywords: [Order, Summaries, Preview, Retrieve, expected, change, simple, OrderItemSummaries, OrderSummary, actually, executing]
 ---

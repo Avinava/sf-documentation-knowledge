@@ -5,7 +5,7 @@ topic: getting-started-with-the-chat-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:50.376Z
+lastCollected: 2026-04-07T09:04:16.331Z
 estimatedTokens: 1296
 keywords: [Getting, Started, Chat, REST, API, how, start, confirm, end, session, Retrieve, Endpoint]
 ---

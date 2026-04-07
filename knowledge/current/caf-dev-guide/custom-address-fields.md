@@ -5,7 +5,7 @@ topic: custom-address-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.261Z
+lastCollected: 2026-04-07T09:03:18.073Z
 estimatedTokens: 529
 keywords: [Custom, Address, store, data, structured, compound, abstraction, simplify, application, code, handles, leading, concise, understandable, addresses]
 ---

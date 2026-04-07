@@ -5,7 +5,7 @@ topic: connectapiprocesspolicylimitsinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.332Z
+lastCollected: 2026-04-07T09:04:01.226Z
 estimatedTokens: 152
 keywords: [Input, representation, processing, policy, limits, claim, loss, item]
 ---

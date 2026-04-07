@@ -5,7 +5,7 @@ topic: resolve-apex-test-failures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.680Z
+lastCollected: 2026-04-07T09:05:02.006Z
 estimatedTokens: 219
 keywords: [Resolve, Apex, Test, Failures, Package, installs, upgrades, may, fail, passing, coverage, However, ignored, developer, write]
 ---

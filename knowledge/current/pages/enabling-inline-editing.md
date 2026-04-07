@@ -5,7 +5,7 @@ topic: enabling-inline-editing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.996Z
+lastCollected: 2026-04-07T09:04:59.743Z
 estimatedTokens: 1234
 keywords: [Enabling, Inline, Editing, Visualforce, pages, 21.0, above, support, lets, users, quickly, edit, right, record’s, detail]
 ---

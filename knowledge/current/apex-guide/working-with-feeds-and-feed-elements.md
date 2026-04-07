@@ -5,7 +5,7 @@ topic: working-with-feeds-and-feed-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.827Z
+lastCollected: 2026-04-07T09:02:33.967Z
 estimatedTokens: 5026
 keywords: [Working, Feeds, Feed, Elements, Chatter, container, abstract, ConnectApi.FeedElement, parent, ConnectApi.FeedItem, representing, posts, ConnectApi.GenericFeedElement, bundles, recommendations]
 ---

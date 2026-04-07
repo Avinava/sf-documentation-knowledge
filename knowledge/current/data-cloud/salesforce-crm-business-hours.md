@@ -5,7 +5,7 @@ topic: salesforce-crm-business-hours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:30.807Z
+lastCollected: 2026-04-07T09:02:07.473Z
 estimatedTokens: 554
 keywords: [Salesforce, CRM, Business, Hours, data, mappings, BusinessHours, DLO, found, Services, bundle, Connector, Cloud, Usage, DMO]
 ---

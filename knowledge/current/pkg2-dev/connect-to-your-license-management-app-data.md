@@ -5,7 +5,7 @@ topic: connect-to-your-license-management-app-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.857Z
+lastCollected: 2026-04-07T09:05:02.323Z
 estimatedTokens: 319
 keywords: [Connect, License, Management, App, Data, SFDC_Local, connection, LMA]
 ---

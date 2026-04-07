@@ -5,7 +5,7 @@ topic: process-policy-limits-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.305Z
+lastCollected: 2026-04-07T09:04:02.824Z
 estimatedTokens: 459
 keywords: [Process, Policy, Limits, POST, loss, item, claim, current, standings, insurance]
 ---
@@ -75,7 +75,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/process-limits
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/process-limits
 ```
 
 ```

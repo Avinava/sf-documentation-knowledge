@@ -5,7 +5,7 @@ topic: directmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.179Z
+lastCollected: 2026-04-07T09:04:39.013Z
 estimatedTokens: 248
 keywords: [DirectMessage, direct, message, conversation, multiple, users, Chatter, API, version, 38.0, later, Calls, Special, Access, Rules]
 ---

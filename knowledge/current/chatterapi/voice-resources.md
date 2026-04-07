@@ -5,7 +5,7 @@ topic: voice-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.007Z
+lastCollected: 2026-04-07T09:03:29.368Z
 estimatedTokens: 215
 keywords: [Voice, Resources, email, address, AWS, root, user, that's, associated, account, apply, Service, Cloud, Amazon, Connect]
 ---

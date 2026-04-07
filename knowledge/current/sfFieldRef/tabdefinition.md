@@ -5,7 +5,7 @@ topic: tabdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.033Z
+lastCollected: 2026-04-07T09:06:08.894Z
 estimatedTokens: 327
 keywords: [TabDefinition, custom, tab, tabs, current, user, access, API, version, 43.0, later]
 ---

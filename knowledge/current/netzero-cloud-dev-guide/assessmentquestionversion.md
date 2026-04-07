@@ -5,7 +5,7 @@ topic: assessmentquestionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.222Z
+lastCollected: 2026-04-07T09:04:26.931Z
 estimatedTokens: 185
 keywords: [AssessmentQuestionVersion, Stores, question, versions, assessment, questions, API, version, 55.0, later, Calls]
 ---

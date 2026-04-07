@@ -5,7 +5,7 @@ topic: create-a-custom-object-updates-per-day-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.808Z
+lastCollected: 2026-04-07T09:05:02.232Z
 estimatedTokens: 284
 keywords: [Custom, Updates, Per, Day, Recipe, produces, unique, count, how, times, created]
 ---

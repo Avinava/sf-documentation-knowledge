@@ -5,7 +5,7 @@ topic: customize-case-feed-actions-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:09.370Z
+lastCollected: 2026-04-07T09:03:18.209Z
 estimatedTokens: 1010
 keywords: [Customize, Case, Feed, Actions, Visualforce, Salesforce-provided, components, enable, customized, Salesforce, Classic, app, custom, console, interact]
 ---

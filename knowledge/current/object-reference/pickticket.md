@@ -5,7 +5,7 @@ topic: pickticket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.862Z
+lastCollected: 2026-04-07T09:04:46.737Z
 estimatedTokens: 1247
 keywords: [PickTicket, quantities, products, picked, fulfillment, location, include, belonging, orders, API, version, 57.0, later, Calls, Special]
 ---

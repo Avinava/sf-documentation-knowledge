@@ -5,7 +5,7 @@ topic: payexgratiaclaimcvrpaymentdetailclaimid-coverageid-paymentdetailid-payexg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.889Z
+lastCollected: 2026-04-07T09:04:00.457Z
 estimatedTokens: 420
 keywords: [PayExGratiaClaimCvrPaymentDetail, claimId, coverageId, paymentDetailId, PayExGratiaClaimCvrPaymentDetailInput, Process, gratia, payment, claim, coverage, detail, record, API, Version, Requires]
 ---

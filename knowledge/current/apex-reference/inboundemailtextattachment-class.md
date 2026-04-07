@@ -5,8 +5,8 @@ topic: inboundemailtextattachment-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.811Z
-estimatedTokens: 1278
+lastCollected: 2026-04-07T09:02:18.360Z
+estimatedTokens: 1277
 namespace: Messaging
 keywords: [InboundEmail.TextAttachment, InboundEmail, stores, text, attachments, Usage, bodyIsTruncated, charset, fileName, mimeTypeSubType]
 ---
@@ -24,7 +24,7 @@ An InboundEmail object stores text attachments in an InboundEmail.TextAttachment
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## Usage
 

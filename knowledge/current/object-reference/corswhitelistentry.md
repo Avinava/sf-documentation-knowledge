@@ -5,7 +5,7 @@ topic: corswhitelistentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.492Z
+lastCollected: 2026-04-07T09:04:38.131Z
 estimatedTokens: 1156
 keywords: [CorsWhitelistEntry, entry, cross-origin, resource, sharing, CORS, allowlist, Origins, included, REST, resources, Salesforce, org, Calls, Usage]
 ---

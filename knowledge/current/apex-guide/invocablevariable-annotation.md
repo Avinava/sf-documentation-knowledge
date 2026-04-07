@@ -5,7 +5,7 @@ topic: invocablevariable-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:41.611Z
+lastCollected: 2026-04-07T09:02:31.025Z
 estimatedTokens: 1276
 keywords: [InvocableVariable, Annotation, identify, variables, invocable, custom, classes, Modifiers, Considerations]
 ---

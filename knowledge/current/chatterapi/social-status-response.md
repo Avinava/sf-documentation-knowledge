@@ -5,7 +5,7 @@ topic: social-status-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:21.212Z
+lastCollected: 2026-04-07T09:03:36.083Z
 estimatedTokens: 109
 keywords: [Social, Status, Webstore, Meta, Config, entity, creation]
 ---

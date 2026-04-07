@@ -5,7 +5,7 @@ topic: container-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.808Z
+lastCollected: 2026-04-07T09:02:14.969Z
 estimatedTokens: 1443
 namespace: Metadata
 keywords: [Container, location, style, display, custom, console, component, sidebars, Usage, height, isContainerAutoSizeEnabled, region, sidebarComponents, unit, width]

@@ -5,7 +5,7 @@ topic: get-member-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.105Z
+lastCollected: 2026-04-07T09:04:17.309Z
 estimatedTokens: 375
 keywords: [Member, Promotions, View, eligible, loyalty, URL, Sample, JSON, Requests, Retrieve, asynchronously, requesting, data, program, process, API, Resource, Input, Output]
 ---

@@ -5,7 +5,7 @@ topic: promotion-copy-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.148Z
+lastCollected: 2026-04-07T09:05:18.013Z
 estimatedTokens: 174
 keywords: [Promotion, Copy, Workflow, step, rules, provided, core]
 ---

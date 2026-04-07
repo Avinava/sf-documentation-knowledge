@@ -5,7 +5,7 @@ topic: authenticate-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.213Z
+lastCollected: 2026-04-07T09:05:29.140Z
 estimatedTokens: 979
 keywords: [Authenticate, Users, Authentication, means, preventing, unauthorized, access, organization, data, making, sure, logged, user, they, say]
 ---

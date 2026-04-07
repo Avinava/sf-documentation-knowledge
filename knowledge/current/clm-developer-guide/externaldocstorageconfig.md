@@ -5,7 +5,7 @@ topic: externaldocstorageconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:22.627Z
+lastCollected: 2026-04-07T09:03:38.490Z
 estimatedTokens: 626
 keywords: [ExternalDocStorageConfig, configuration, admin, setup, specify, drive, path, named, credential, storing, documents, external, drives, Parent, File, collection, configure, document, storage, includes]
 ---

@@ -5,7 +5,7 @@ topic: batchcalcjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:54.062Z
+lastCollected: 2026-04-07T09:02:56.717Z
 estimatedTokens: 7576
 keywords: [BatchCalcJobDefinition, Data, Processing, Engine, definition, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, BatchCalcJob​​​Aggregate, DPE, API, version, 51.0, later]
 ---

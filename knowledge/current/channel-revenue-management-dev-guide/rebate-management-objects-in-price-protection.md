@@ -5,7 +5,7 @@ topic: rebate-management-objects-in-price-protection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.134Z
+lastCollected: 2026-04-07T09:03:19.427Z
 estimatedTokens: 464
 keywords: [Rebate, Management, Objects, Price, Protection, access, standard, manage, programs, payouts, transactions]
 ---

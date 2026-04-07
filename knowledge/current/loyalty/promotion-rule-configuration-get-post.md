@@ -5,7 +5,7 @@ topic: promotion-rule-configuration-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.174Z
+lastCollected: 2026-04-07T09:04:17.401Z
 estimatedTokens: 518
 keywords: [Promotion, Rule, Configuration, POST, fetch, configiration, API, how, works, combining, eligibility, criteria, customers, rewards, logic]
 ---

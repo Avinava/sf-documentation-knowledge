@@ -5,7 +5,7 @@ topic: article-type-datacategoryselection-datacategoryselection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.898Z
+lastCollected: 2026-04-07T09:04:35.048Z
 estimatedTokens: 795
 keywords: [Article, __DataCategorySelection, data, category, selection, classifies, API, version, 19.0, later, _DataCategorySelection, Calls, Special, Access, Rules]
 ---

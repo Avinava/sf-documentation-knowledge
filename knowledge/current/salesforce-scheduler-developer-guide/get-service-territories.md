@@ -5,7 +5,7 @@ topic: get-service-territories
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.995Z
+lastCollected: 2026-04-07T09:05:27.373Z
 estimatedTokens: 431
 keywords: [Service, Territories, territory, branch, office, location, resources, appointment, attendees, operate, meet, customers, Show, users, territorieson, website, service-territories, Connect, API, work]
 ---

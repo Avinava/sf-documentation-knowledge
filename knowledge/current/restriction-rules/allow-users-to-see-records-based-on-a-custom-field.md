@@ -5,7 +5,7 @@ topic: allow-users-to-see-records-based-on-a-custom-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.374Z
+lastCollected: 2026-04-07T09:05:16.883Z
 estimatedTokens: 198
 keywords: [Allow, Users, Records, Custom, restriction, rule, high-volume, contracts, user's, department, matches, contract's, uses, Department__c, appropriate]
 ---

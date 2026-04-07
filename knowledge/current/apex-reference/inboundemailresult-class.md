@@ -5,7 +5,7 @@ topic: inboundemailresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.804Z
+lastCollected: 2026-04-07T09:02:18.351Z
 estimatedTokens: 464
 namespace: Messaging
 keywords: [InboundEmailResult, result, email, service, assumed, successful, message, success, Usage]
@@ -25,7 +25,7 @@ The InboundEmailResult object is used to return the result of the email service.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## InboundEmailResult Properties
 

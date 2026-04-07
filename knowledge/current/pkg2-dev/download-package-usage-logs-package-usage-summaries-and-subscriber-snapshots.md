@@ -5,7 +5,7 @@ topic: download-package-usage-logs-package-usage-summaries-and-subscriber-snapsh
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.920Z
+lastCollected: 2026-04-07T09:05:02.423Z
 estimatedTokens: 779
 keywords: [Download, Package, Usage, Logs, Summaries, Subscriber, Snapshots, monthly, AppAnalyticsQueryRequest, downloadable, comma-separated, csv, files]
 ---

@@ -5,7 +5,7 @@ topic: autodestroy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.659Z
+lastCollected: 2026-04-07T09:04:15.172Z
 estimatedTokens: 127
 keywords: [autoDestroy, flag, tell, rendering, service, whether, destroy, component, removed, facet]
 ---

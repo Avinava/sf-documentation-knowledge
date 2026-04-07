@@ -5,7 +5,7 @@ topic: use-an-existing-access-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.043Z
+lastCollected: 2026-04-07T09:06:12.823Z
 estimatedTokens: 614
 keywords: [Access, Token, authorize, org, login, commands, Salesforce, CLI, care, generating, refreshing, tokens, sometimes, want, run]
 ---

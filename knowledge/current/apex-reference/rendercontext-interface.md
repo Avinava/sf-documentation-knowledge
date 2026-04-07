@@ -5,7 +5,7 @@ topic: rendercontext-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:52.901Z
+lastCollected: 2026-04-07T09:02:28.011Z
 estimatedTokens: 158
 namespace: Canvas
 keywords: [RenderContext, wrapper, retrieve, application, environment, context, Usage]

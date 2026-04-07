@@ -5,7 +5,7 @@ topic: post-draft-invoice-batch-run-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.064Z
+lastCollected: 2026-04-07T09:01:55.221Z
 estimatedTokens: 347
 keywords: [Post, Draft, Invoice, Batch, Run, Action, status, invoices, Posted, credit, memo, application, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: taxengineadapter-example-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-04-05T00:23:15.094Z
+lastCollected: 2026-04-07T09:01:57.066Z
 estimatedTokens: 554
 namespace: See
 keywords: [TaxEngineAdapter, Implementation, Refer, accept, tax, engine, evaluate, define, Usage, Considerations]

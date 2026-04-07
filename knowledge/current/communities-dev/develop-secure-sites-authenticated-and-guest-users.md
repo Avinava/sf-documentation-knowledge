@@ -5,7 +5,7 @@ topic: develop-secure-sites-authenticated-and-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.469Z
+lastCollected: 2026-04-07T09:03:39.977Z
 estimatedTokens: 582
 keywords: [Develop, Secure, Sites, Authenticated, Guest, Users, implementing, Experience, Cloud, site, accessible, external, unauthenticated, keep, security]
 ---

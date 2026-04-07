@@ -5,7 +5,7 @@ topic: activitytiming
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.580Z
+lastCollected: 2026-04-07T09:03:55.013Z
 estimatedTokens: 2188
 keywords: [ActivityTiming, detailed, activity, that’s, repeated, regular, intervals, over, period, time, API, version, 52.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:50.288Z
+lastCollected: 2026-04-07T09:03:01.827Z
 estimatedTokens: 4627
 keywords: [Product2, product, company, sells, Calls, Special, Access, Rules, Schedule, Enabled, Flags, Usage, Associated, Objects]
 ---

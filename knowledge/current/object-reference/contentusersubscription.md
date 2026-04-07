@@ -5,7 +5,7 @@ topic: contentusersubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.183Z
+lastCollected: 2026-04-07T09:04:37.767Z
 estimatedTokens: 199
 keywords: [ContentUserSubscription, subscription, user, another, API, version, 42.0, later, Calls, Special, Access, Rules]
 ---

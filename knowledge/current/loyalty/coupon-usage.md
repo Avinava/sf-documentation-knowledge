@@ -5,7 +5,7 @@ topic: coupon-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.333Z
+lastCollected: 2026-04-07T09:04:17.609Z
 estimatedTokens: 89
 keywords: [Coupon, Usage, coupons, increased, decreased]
 ---
@@ -20,7 +20,7 @@ The details of the coupons for which usage has been increased or decreased.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| couponUsageResultList | Coupon Usage Result[] | The details of the coupons for which usage is increased or decreased. | Small, 63.0 | 63.0 |
+| coupon​UsageResult​List | Coupon Usage Result[] | The details of the coupons for which usage is increased or decreased. | Small, 63.0 | 63.0 |
 
 ## Related Topics
 

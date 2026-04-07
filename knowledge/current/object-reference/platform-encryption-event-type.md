@@ -5,7 +5,7 @@ topic: platform-encryption-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:09.516Z
+lastCollected: 2026-04-07T09:04:40.602Z
 estimatedTokens: 1521
 keywords: [Platform, Encryption, Event, tenant, secret, derived, key, usage, API, versions, 41.0, later]
 ---

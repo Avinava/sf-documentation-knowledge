@@ -5,7 +5,7 @@ topic: feedlayoutfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.907Z
+lastCollected: 2026-04-07T09:02:15.078Z
 estimatedTokens: 818
 namespace: Metadata
 keywords: [FeedLayoutFilter, feed, filter, option, view, feed-based, layout, standardFilter, feedItemType, Usage, feedFilterName, feedFilterType, clone]

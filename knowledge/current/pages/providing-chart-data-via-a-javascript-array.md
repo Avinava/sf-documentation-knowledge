@@ -5,7 +5,7 @@ topic: providing-chart-data-via-a-javascript-array
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.978Z
+lastCollected: 2026-04-07T09:04:56.833Z
 estimatedTokens: 230
 keywords: [Providing, Chart, Data, via, JavaScript, Array, Visualforce, charting, non-Salesforce, sources, building, own, code, <apex, chart>]
 ---

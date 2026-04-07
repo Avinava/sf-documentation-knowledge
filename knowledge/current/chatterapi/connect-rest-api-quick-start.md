@@ -5,7 +5,7 @@ topic: connect-rest-api-quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.941Z
+lastCollected: 2026-04-07T09:03:37.402Z
 estimatedTokens: 365
 keywords: [Connect, REST, API, Quick, Start, Salesforce, authenticate, look]
 ---

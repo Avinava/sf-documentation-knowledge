@@ -5,7 +5,7 @@ topic: count-and-countfieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.661Z
+lastCollected: 2026-04-07T09:06:15.015Z
 estimatedTokens: 480
 keywords: [COUNT, fieldName, discover, number, rows, query, aggregate, function, SELECT, statement, SOQL]
 ---

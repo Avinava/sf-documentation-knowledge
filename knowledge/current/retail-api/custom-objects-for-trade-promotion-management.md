@@ -5,7 +5,7 @@ topic: custom-objects-for-trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.442Z
+lastCollected: 2026-04-07T09:05:18.573Z
 estimatedTokens: 3790
 keywords: [Custom, Objects, Trade, Promotion, Management, Consumer, Goods, Cloud, data, model, support, TPM]
 ---

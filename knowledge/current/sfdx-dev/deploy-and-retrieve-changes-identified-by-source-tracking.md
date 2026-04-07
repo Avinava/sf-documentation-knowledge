@@ -5,7 +5,7 @@ topic: deploy-and-retrieve-changes-identified-by-source-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.657Z
+lastCollected: 2026-04-07T09:06:13.623Z
 estimatedTokens: 616
 keywords: [Deploy, Retrieve, Changes, Identified, Source, Tracking, Salesforce, app, typically, low-code, pro-code, techniques, creating, custom, directly]
 ---

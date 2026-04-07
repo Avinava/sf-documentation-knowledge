@@ -6,7 +6,7 @@ topic: how-sforceone-handles-api-versions-handles-api-versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.481Z
+lastCollected: 2026-04-07T09:05:00.471Z
 estimatedTokens: 1311
 keywords: [How, sforce.one, Handles, API, Versions, frequently, improved, new, releases, maintain, backward, compatibility, version-specific, behavior, specific]
 ---

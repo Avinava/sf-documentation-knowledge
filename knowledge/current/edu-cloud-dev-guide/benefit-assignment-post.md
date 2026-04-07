@@ -5,7 +5,7 @@ topic: benefit-assignment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.939Z
+lastCollected: 2026-04-07T09:03:42.279Z
 estimatedTokens: 347
 keywords: [Benefit, Assignment, POST, Add, provider’s, contact, record, Party-Role, Relationship, PRR, CCR, records, aren’t, already, present]
 ---

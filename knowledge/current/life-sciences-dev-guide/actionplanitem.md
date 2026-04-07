@@ -5,9 +5,9 @@ topic: actionplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.933Z
-estimatedTokens: 552
-keywords: [ActionPlanItem, Life, Sciences, Cloud, extend, standard, represent, instance, action, plan, item, Calls, Associated, Objects]
+lastCollected: 2026-04-07T09:04:08.069Z
+estimatedTokens: 410
+keywords: [ActionPlanItem, Standard, custom, extend, represent, junction, Action, Plan, Provider, Engagement, Compliance, Cycle, Calls, Life, Sciences, Cloud, standard, instance, action, plan]
 ---
 
 # ActionPlanItem
@@ -46,4 +46,5 @@ Change events are available for the object.
 
 ## Related Topics
 
+- Key Account Management: ActionPlanItem (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_actionplanitem_kam.htm)
 - ActionPlanItemChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)

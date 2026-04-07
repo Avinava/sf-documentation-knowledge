@@ -5,7 +5,7 @@ topic: map-telephony-error-codes-to-salesforce-outbound-call-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.092Z
+lastCollected: 2026-04-07T09:06:18.619Z
 estimatedTokens: 708
 keywords: [Map, Telephony, Error, Codes, Salesforce, Outbound, Call, Errors, fails, intercept, connector, implementation, specific, constant, populating]
 ---

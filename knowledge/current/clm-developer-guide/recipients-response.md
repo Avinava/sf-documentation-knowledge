@@ -5,7 +5,7 @@ topic: recipients-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.548Z
+lastCollected: 2026-04-07T09:03:38.382Z
 estimatedTokens: 185
 keywords: [Recipients, Output, representation, recipient’s, personal, status, contract, document’s, signing, process]
 ---

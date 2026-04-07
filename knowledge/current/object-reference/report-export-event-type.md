@@ -5,7 +5,7 @@ topic: report-export-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.564Z
+lastCollected: 2026-04-07T09:04:40.656Z
 estimatedTokens: 1062
 keywords: [Report, Export, Event, events, contain, reports, user, exported, captures, exports, output, doesn’t, capture, users, Formatted]
 ---

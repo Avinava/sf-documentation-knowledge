@@ -5,7 +5,7 @@ topic: set-product-selling-model-in-a-constraint
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:16.064Z
+lastCollected: 2026-04-07T09:01:57.644Z
 estimatedTokens: 302
 keywords: [Product, Selling, Model, Constraint, productSellingModel, tagname, write, PSM, define, time, time-deferred, subscription, end, date, evergreen]
 ---

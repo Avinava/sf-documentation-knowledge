@@ -5,7 +5,7 @@ topic: cgcsyncsyncmobileappplconfigc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.828Z
+lastCollected: 2026-04-07T09:05:19.068Z
 estimatedTokens: 200
 keywords: [cgc_sync__Sync_Mobile_App_PL_Config__c, mapping, picklists, dropdown, boxes, mobile, app, API, version, 53.0, later, cgc, _sync, _Mobile, _App]
 ---

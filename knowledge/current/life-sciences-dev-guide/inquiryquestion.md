@@ -5,7 +5,7 @@ topic: inquiryquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.146Z
+lastCollected: 2026-04-07T09:04:10.638Z
 estimatedTokens: 1187
 keywords: [InquiryQuestion, question, asked, healthcare, professional, HCP, inquiry, API, version, 65.0, later, Calls, Associated, Objects]
 ---

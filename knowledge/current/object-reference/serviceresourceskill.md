@@ -5,7 +5,7 @@ topic: serviceresourceskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.930Z
+lastCollected: 2026-04-07T09:04:49.321Z
 estimatedTokens: 1035
 keywords: [ServiceResourceSkill, skill, service, resource, possesses, Lightning, Scheduler, API, version, 38.0, later, Calls, Special, Access, Rules]
 ---

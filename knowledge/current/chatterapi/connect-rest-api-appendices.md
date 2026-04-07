@@ -5,7 +5,7 @@ topic: connect-rest-api-appendices
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.848Z
+lastCollected: 2026-04-07T09:03:20.311Z
 estimatedTokens: 211
 keywords: [Connect, REST, API, Appendices, working, action, link, buttons, personalization, audience, criteria, targets, retired, resources, bodies]
 ---

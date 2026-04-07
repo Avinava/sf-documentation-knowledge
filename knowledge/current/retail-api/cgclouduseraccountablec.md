@@ -5,7 +5,7 @@ topic: cgclouduseraccountablec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.317Z
+lastCollected: 2026-04-07T09:05:21.951Z
 estimatedTokens: 378
 keywords: [cgcloud__User_Accountable__c, Sales, Rep, Supervisor, Retail, Execution, user, accountable, business, process, API, version, 55.0, later, cgcloud]
 ---

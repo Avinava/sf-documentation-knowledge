@@ -5,7 +5,7 @@ topic: batchapexerrorevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.485Z
+lastCollected: 2026-04-07T09:04:35.682Z
 estimatedTokens: 68
 keywords: [BatchApexErrorEvent, documentation, moved, Platform, Events, Developer]
 ---

@@ -5,7 +5,7 @@ topic: knowledgedatacategoryselection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.826Z
+lastCollected: 2026-04-07T09:04:05.112Z
 estimatedTokens: 473
 keywords: [Knowledge__DataCategorySelection, data, category, classifies, article, API, version, 39.0, later, Knowledge, _DataCategorySelection, Calls, Special, Access, Rules]
 ---

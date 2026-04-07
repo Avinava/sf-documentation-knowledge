@@ -5,7 +5,7 @@ topic: recordsetfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.057Z
+lastCollected: 2026-04-07T09:04:48.190Z
 estimatedTokens: 1262
 keywords: [RecordsetFilterCriteria, filters, match, service, appointments, assets, criteria, recordset, filter, satisfy, matched, filtered, shifts, likewise, maintenance]
 ---

@@ -5,7 +5,7 @@ topic: phone-contact-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.102Z
+lastCollected: 2026-04-07T09:06:18.633Z
 estimatedTokens: 582
 keywords: [Phone, Contact, Search, rep, adds, participant, call, Salesforce, transfer, destinations, Pagination, Pseudo]
 ---

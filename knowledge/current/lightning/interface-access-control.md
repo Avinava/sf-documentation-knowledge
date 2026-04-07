@@ -5,7 +5,7 @@ topic: interface-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.857Z
+lastCollected: 2026-04-07T09:04:12.497Z
 estimatedTokens: 112
 keywords: [Access, Control, attribute, aura, tag, whether, outside, interface’s]
 ---

@@ -5,7 +5,7 @@ topic: sample-financial-calculations-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.288Z
+lastCollected: 2026-04-07T09:06:17.357Z
 estimatedTokens: 482
 keywords: [Sample, Financial, Calculations, Formulas, Compound, Interest, Continuous, Consultant, Cost, Gross, Margin, Percent, Payment, Due, Indicator]
 ---

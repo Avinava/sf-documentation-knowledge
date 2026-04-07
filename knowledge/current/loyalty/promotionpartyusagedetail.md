@@ -5,7 +5,7 @@ topic: promotionpartyusagedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.502Z
+lastCollected: 2026-04-07T09:04:20.361Z
 estimatedTokens: 823
 keywords: [PromotionPartyUsageDetail, amount, that's, discounted, promotion, transaction, journal, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---

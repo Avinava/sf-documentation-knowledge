@@ -5,7 +5,7 @@ topic: matchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.724Z
+lastCollected: 2026-04-07T09:05:53.672Z
 estimatedTokens: 402
 namespace: NamespacePrefix
 keywords: [MatchingRule, matching, rule, identify, duplicate, records, API, version, 33.0, later]

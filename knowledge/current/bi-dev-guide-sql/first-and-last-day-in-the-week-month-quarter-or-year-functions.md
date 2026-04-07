@@ -5,7 +5,7 @@ topic: first-and-last-day-in-the-week-month-quarter-or-year-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.025Z
+lastCollected: 2026-04-07T09:03:15.015Z
 estimatedTokens: 1453
 keywords: [Day, Week, Month, Quarter, Year, Functions, standard, fiscal, calendars, accept, DateTime, DateOnly, legacy, input, They]
 ---

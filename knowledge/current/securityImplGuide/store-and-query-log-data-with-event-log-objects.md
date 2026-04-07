@@ -5,7 +5,7 @@ topic: store-and-query-log-data-with-event-log-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.889Z
+lastCollected: 2026-04-07T09:05:28.656Z
 estimatedTokens: 3104
 keywords: [Store, Query, Log, Data, Event, Objects, framework, surfaces, stored, standard, They, critical, via, Salesforce, Platform]
 ---

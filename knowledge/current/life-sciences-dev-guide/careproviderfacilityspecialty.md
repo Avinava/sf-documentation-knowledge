@@ -5,7 +5,7 @@ topic: careproviderfacilityspecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.500Z
+lastCollected: 2026-04-07T09:04:09.963Z
 estimatedTokens: 1541
 keywords: [CareProviderFacilitySpecialty, specialties, practitioner, location, physician, board-certified, spine, neuro, may, provide, services, another, Calls, Associated, Objects]
 ---
@@ -37,7 +37,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the record is active. |
 | IsPrimarySpecialty | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether this specialty is the practitioner's primary specialty at this facility, or the facility's primary specialty. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the specialty provided at this provider facility. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | PractitionerFacilityId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionPractitioner facility associated with this provider facility specialty record. |

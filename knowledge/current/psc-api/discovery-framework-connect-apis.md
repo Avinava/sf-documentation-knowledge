@@ -5,7 +5,7 @@ topic: discovery-framework-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.411Z
+lastCollected: 2026-04-07T09:05:10.275Z
 estimatedTokens: 199
 keywords: [Discovery, Framework, Connect, APIs, Document, Decision, invoke, accept, key-value, pairs, match, keys, either, Categories]
 ---

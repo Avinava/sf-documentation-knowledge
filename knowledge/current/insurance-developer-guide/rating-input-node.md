@@ -5,7 +5,7 @@ topic: rating-input-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.988Z
+lastCollected: 2026-04-07T09:04:02.348Z
 estimatedTokens: 209
 keywords: [Rating, Input, Node, representation, context]
 ---

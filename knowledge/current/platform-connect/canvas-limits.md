@@ -5,7 +5,7 @@ topic: canvas-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.432Z
+lastCollected: 2026-04-07T09:05:04.488Z
 estimatedTokens: 537
 keywords: [Canvas, Limits, Because, runs, multitenant, environment, enforced, ensure, protection, shared, resources]
 ---

@@ -5,7 +5,7 @@ topic: serviceinforequestdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:38.027Z
+lastCollected: 2026-04-07T09:03:59.333Z
 estimatedTokens: 943
 keywords: [ServiceInfoRequestDetail, additional, service, detail, code, API, version, 63.0, later, Calls, Associated, Objects]
 ---

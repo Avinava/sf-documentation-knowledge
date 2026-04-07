@@ -5,7 +5,7 @@ topic: retrieve-and-update-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.406Z
+lastCollected: 2026-04-07T09:05:16.937Z
 estimatedTokens: 244
 keywords: [Retrieve, deploy, calls, move, metadata, XML, files, Salesforce, organization, local, file, system, PATCH, restriction, rules]
 ---

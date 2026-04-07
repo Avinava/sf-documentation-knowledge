@@ -5,7 +5,7 @@ topic: adspacecapacityallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.773Z
+lastCollected: 2026-04-07T09:04:22.122Z
 estimatedTokens: 1341
 keywords: [AdSpaceCapacityAllocation, row, junction, space, transaction, allocated, space's, allocation, period, quantity, API, version, 65.0, later, Calls]
 ---

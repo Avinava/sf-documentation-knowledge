@@ -5,7 +5,7 @@ topic: problem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.138Z
+lastCollected: 2026-04-07T09:04:47.067Z
 estimatedTokens: 1134
 keywords: [Problem, Problems, represent, root, cause, data, incidents, documenting, history, detection, closure, API, version, 53.0, later]
 ---

@@ -5,8 +5,8 @@ topic: get-global-account-product-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.829Z
-estimatedTokens: 202
+lastCollected: 2026-04-07T09:05:17.527Z
+estimatedTokens: 158
 keywords: [Account, Product, Retrieves, products, volumes, measures, customer]
 ---
 
@@ -23,8 +23,6 @@ A product is included in a global list if one of these criteria is met.
 
 -   Volume or condition record exists for the product.
 -   The product is included in a promotion that's created for the customer.
-
-See [Understand Account Product List](https://help.salesforce.com/s/articleView?id=ind.tpm_admin_concept_account_product_list.htm&type=5&language=en_US "HTML (New Window)").
 
 Resource
 

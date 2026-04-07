@@ -5,7 +5,7 @@ topic: profileskillhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.240Z
+lastCollected: 2026-04-07T09:06:02.143Z
 estimatedTokens: 256
 keywords: [ProfileSkillHistory, History, tracked, ProfileSkill]
 ---

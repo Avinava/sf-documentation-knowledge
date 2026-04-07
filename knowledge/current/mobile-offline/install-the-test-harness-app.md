@@ -5,7 +5,7 @@ topic: install-the-test-harness-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.489Z
+lastCollected: 2026-04-07T09:04:24.571Z
 estimatedTokens: 385
 keywords: [Install, Test, Harness, App, distributed, installable, package, via, Apple, Store, Google, Play, developer, tool, it’s]
 ---

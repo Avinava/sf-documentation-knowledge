@@ -5,7 +5,7 @@ topic: emissions-forecasts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.610Z
+lastCollected: 2026-04-07T09:04:26.132Z
 estimatedTokens: 4754
 keywords: [Emissions, Forecasts, forecast, past, present, predict, how, business, grow, future, Generate, carbon, footprint, commitment, targets]
 ---

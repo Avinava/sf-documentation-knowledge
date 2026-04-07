@@ -5,7 +5,7 @@ topic: bankpaymentmethodresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:43.845Z
+lastCollected: 2026-04-07T09:02:16.592Z
 estimatedTokens: 2533
 namespace: CommercePayments
 keywords: [BankPaymentMethodResponse, any, additional, gateway, payment, token, setAccountHolderType, accountHolderType, setAccountId, accountId, setAccountType, accountType, setBankCode, bankCode, setBankName]

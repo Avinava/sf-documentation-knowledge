@@ -5,7 +5,7 @@ topic: blngrevenueadjustmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.625Z
+lastCollected: 2026-04-07T09:03:17.421Z
 estimatedTokens: 1170
 keywords: [blng__RevenueAdjustment__c, adjustment, increase, decrease, transfer, balance, revenue, schedules, actual, differs, initial, schedule, blng, _RevenueAdjustment, Calls]
 ---

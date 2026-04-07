@@ -5,8 +5,8 @@ topic: calculate-projected-rebate-amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.796Z
-estimatedTokens: 1115
+lastCollected: 2026-04-07T09:03:18.930Z
+estimatedTokens: 1112
 keywords: [Calculate, Projected, Rebate, Amount, associated, transaction, REST, HTTP, Inputs, Outputs, Usage]
 ---
 
@@ -89,7 +89,7 @@ The fields aggregateId, benefitQualifierValue, benefitTier, measureFieldValue, q
 
 ## Usage
 
-You must configure the output parameter for the Calculate Projected Rebate Amount Flow Action in Flow Builder. The following screen illustrates how to use the output parameter in the Flow Builder.![A representation of the Calculated Projected Rebate Amount screen.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Frebates_api%2Fimages%2Fcalc_projected_rebate_amount.png&folder=channel_revenue_management_dev_guide)
+You must configure the output parameter for the Calculate Projected Rebate Amount Flow Action in Flow Builder. The following screen illustrates how to use the output parameter in the Flow Builder.![A representation of the Calculated Projected Rebate Amount screen.](/docs/resources/img/en-us/260.0?doc_id=rebates_api%2Fimages%2Fcalc_projected_rebate_amount.png&folder=channel_revenue_management_dev_guide)
 
 ## Code Examples
 

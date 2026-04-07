@@ -5,7 +5,7 @@ topic: externalevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.932Z
+lastCollected: 2026-04-07T09:04:41.105Z
 estimatedTokens: 587
 keywords: [ExternalEvent, Holds, native, iOS, Android, calendar, event, Salesforce, Today, feature, mobile, app, API, version, 35.0]
 ---

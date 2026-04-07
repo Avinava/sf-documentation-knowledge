@@ -5,7 +5,7 @@ topic: actionplanbasetemplateasgn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.785Z
+lastCollected: 2026-04-07T09:05:12.416Z
 estimatedTokens: 782
 keywords: [ActionPlanBaseTemplateAsgn, junction, action, plan, template, record, assigned, job, position, recruitment, requisition, API, version, 62.0, Calls]
 ---

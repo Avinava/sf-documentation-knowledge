@@ -5,7 +5,7 @@ topic: time-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.478Z
+lastCollected: 2026-04-07T09:02:29.549Z
 estimatedTokens: 1630
 namespace: System
 keywords: [Time, primitive, data, Usage, addHours, additionalHours, addMilliseconds, additionalMilliseconds, addMinutes, additionalMinutes, addSeconds, additionalSeconds, hour, millisecond, minute]

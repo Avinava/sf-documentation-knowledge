@@ -5,7 +5,7 @@ topic: invoiceprocessedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:26.194Z
+lastCollected: 2026-04-07T09:02:04.549Z
 estimatedTokens: 890
 keywords: [InvoiceProcessedEvent, notification, customers, process, started, commerce, billing, invoices, groups, schedules, grouping, keys, creates, invoice, per]
 ---

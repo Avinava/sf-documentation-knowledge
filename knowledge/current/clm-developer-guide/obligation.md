@@ -5,7 +5,7 @@ topic: obligation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.885Z
+lastCollected: 2026-04-07T09:03:38.841Z
 estimatedTokens: 1018
 keywords: [Obligation, parties, fulfill, agreed, conditions, contractual, commitments, commitment, assists, strategy, achieve, desired, outcome, timeframe, reduce]
 ---

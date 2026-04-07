@@ -5,7 +5,7 @@ topic: changesetoperationeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.440Z
+lastCollected: 2026-04-07T09:04:36.854Z
 estimatedTokens: 613
 keywords: [ChangeSetOperationEventLog, Change, Operation, events, contain, migrations, API, version, 65.0, later, Calls, Special, Access, Rules]
 ---

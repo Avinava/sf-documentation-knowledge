@@ -5,7 +5,7 @@ topic: generate-or-change-a-password-for-a-scratch-org-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.560Z
+lastCollected: 2026-04-07T09:06:13.474Z
 estimatedTokens: 668
 keywords: [Generate, Change, Password, Scratch, Org, User, new, orgs, contain, administrator, CLI, command, admin, it's, can’t]
 ---

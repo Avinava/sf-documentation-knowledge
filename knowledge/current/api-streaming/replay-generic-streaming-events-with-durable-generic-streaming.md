@@ -5,7 +5,7 @@ topic: replay-generic-streaming-events-with-durable-generic-streaming
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.376Z
+lastCollected: 2026-04-07T09:03:05.103Z
 estimatedTokens: 433
 keywords: [Replay, Generic, Streaming, Events, Durable, client, receive, subscribes, channel, long, Salesforce, session, active, sent, subscribed]
 ---

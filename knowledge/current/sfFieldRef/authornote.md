@@ -5,7 +5,7 @@ topic: authornote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.232Z
+lastCollected: 2026-04-07T09:05:34.522Z
 estimatedTokens: 452
 keywords: [AuthorNote, Stores, notes, associated, different, records, along, author, time, authored, isn’t, necessarily, person, created, record]
 ---

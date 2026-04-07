@@ -5,7 +5,7 @@ topic: recordalertcategorylocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:56.757Z
+lastCollected: 2026-04-07T09:02:59.336Z
 estimatedTokens: 313
 keywords: [RecordAlertCategoryLocalization, translated, label, RecordAlertCategory, metadata, API, version, 54.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: integrationproviderdcsnrqmt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.692Z
+lastCollected: 2026-04-07T09:05:50.922Z
 estimatedTokens: 337
 keywords: [IntegrationProviderDcsnRqmt, decision, requirement, integration, provider, records, API, version, 61.0, later]
 ---

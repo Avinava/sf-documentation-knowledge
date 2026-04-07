@@ -5,7 +5,7 @@ topic: cgcloudtacticc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:40.058Z
+lastCollected: 2026-04-07T09:05:21.672Z
 estimatedTokens: 3412
 keywords: [cgcloud__Tactic__c, Configures, relation, Promotion, Tactic, API, version, 54.0, later, cgcloud, _Tactic, Calls, Associated, Objects]
 ---

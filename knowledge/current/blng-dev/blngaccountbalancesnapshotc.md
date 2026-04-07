@@ -5,7 +5,7 @@ topic: blngaccountbalancesnapshotc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.216Z
+lastCollected: 2026-04-07T09:03:16.890Z
 estimatedTokens: 1895
 keywords: [blng__AccountBalanceSnapshot__c, outstanding, invoice, debt, account, grouped, number, days, past, due, date, balance, snapshot, includes, amounts]
 ---

@@ -5,7 +5,7 @@ topic: getting-a-quick-start-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.902Z
+lastCollected: 2026-04-07T09:04:59.602Z
 estimatedTokens: 1140
 keywords: [Getting, Quick, Start, Visualforce, showcase, essential, elements, chapter, includes, examples, demonstrate, features, language, every, detail]
 ---

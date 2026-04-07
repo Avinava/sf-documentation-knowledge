@@ -5,7 +5,7 @@ topic: account-manual-alignment-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:42.754Z
+lastCollected: 2026-04-07T09:04:06.464Z
 estimatedTokens: 169
 keywords: [Account, Manual, Alignment, Output, align, customer, manually]
 ---

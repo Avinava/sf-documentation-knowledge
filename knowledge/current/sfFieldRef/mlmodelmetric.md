@@ -5,7 +5,7 @@ topic: mlmodelmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.493Z
+lastCollected: 2026-04-07T09:05:53.353Z
 estimatedTokens: 431
 keywords: [MLModelMetric, metric, statistic, model, accuracy, precision, RSquared, model’s, metrics, performance, compare, models, API, version, 53.0]
 ---

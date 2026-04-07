@@ -5,7 +5,7 @@ topic: batch-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.833Z
+lastCollected: 2026-04-07T09:03:18.995Z
 estimatedTokens: 500
 keywords: [Batch, Management, Automate, processing, records, scheduled, flows, process, high, volume, standard, custom, consists, three, Tooling]
 ---

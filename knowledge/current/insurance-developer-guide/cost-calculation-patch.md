@@ -5,7 +5,7 @@ topic: cost-calculation-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.064Z
+lastCollected: 2026-04-07T09:04:02.471Z
 estimatedTokens: 505
 keywords: [Cost, Calculation, PATCH, Calculate, premium, fee, premium-equivalent, amount, InsuranceRatePlanLineItem, underlying, rate, plan, fees, equivalent, rolled]
 ---
@@ -81,7 +81,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/brokerage/policies/0YTSG0000000o9h4AA/expected-rates?businessSObjectType=InsuranceRatePlan&recordId=1CcSG00000000fx0AA
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/brokerage/policies/0YTSG0000000o9h4AA/expected-rates?businessSObjectType=InsuranceRatePlan&recordId=1CcSG00000000fx0AA
 ```
 
 ```

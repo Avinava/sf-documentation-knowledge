@@ -5,7 +5,7 @@ topic: prvdactvtyplanadjprodt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.171Z
+lastCollected: 2026-04-07T09:04:11.722Z
 estimatedTokens: 706
 keywords: [PrvdActvtyPlanAdjProdt, products, associated, provider, activity, plan, adjustment, API, version, 65.0, later, Calls, Objects]
 ---

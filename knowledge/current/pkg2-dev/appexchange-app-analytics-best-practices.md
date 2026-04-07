@@ -5,7 +5,7 @@ topic: appexchange-app-analytics-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:25.785Z
+lastCollected: 2026-04-07T09:05:02.180Z
 estimatedTokens: 506
 keywords: [AppExchange, App, Analytics, Best, Practices, plan, maximize, query, strategy, follow, file, compression, reduce, data, results]
 ---

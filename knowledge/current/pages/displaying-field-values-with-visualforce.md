@@ -5,7 +5,7 @@ topic: displaying-field-values-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.976Z
+lastCollected: 2026-04-07T09:04:59.719Z
 estimatedTokens: 1067
 keywords: [Displaying, Visualforce, pages, expression, language, formulas—that, anything, inside, evaluated, access, records, currently, context, display]
 ---

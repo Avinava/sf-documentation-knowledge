@@ -5,7 +5,7 @@ topic: set-a-domain
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.462Z
+lastCollected: 2026-04-07T09:06:14.765Z
 estimatedTokens: 435
 keywords: [Domain, included, code, comment, generated, snippet, versions, 2.0, visitors, navigate, subdomains, chat, session, losing, their]
 ---

@@ -5,7 +5,7 @@ topic: authorizationformtext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.304Z
+lastCollected: 2026-04-07T09:05:34.633Z
 estimatedTokens: 471
 keywords: [AuthorizationFormText, authorization, form’s, text, language, settings, API, version, 46.0, later]
 ---

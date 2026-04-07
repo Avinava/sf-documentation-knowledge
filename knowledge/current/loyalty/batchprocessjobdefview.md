@@ -5,7 +5,7 @@ topic: batchprocessjobdefview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.873Z
+lastCollected: 2026-04-07T09:04:19.599Z
 estimatedTokens: 701
 keywords: [BatchProcessJobDefView, Batch, Job, definition, file-based, definitions, Salesforce, org, API, version, 51.0, later, Calls]
 ---

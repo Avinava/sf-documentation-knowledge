@@ -5,7 +5,7 @@ topic: appointmentcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:47.777Z
+lastCollected: 2026-04-07T09:05:32.684Z
 estimatedTokens: 289
 keywords: [AppointmentCategory, category, work, shifts, API, version, 58.0, later]
 ---

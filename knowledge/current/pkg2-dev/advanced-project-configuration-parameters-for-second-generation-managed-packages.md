@@ -5,7 +5,7 @@ topic: advanced-project-configuration-parameters-for-second-generation-managed-p
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:26.942Z
+lastCollected: 2026-04-07T09:05:03.627Z
 estimatedTokens: 1435
 keywords: [Advanced, Project, Configuration, Second-Generation, Managed, Packages, 2GP, package, development, becomes, complex, consider, including, sfdx-project.json, file]
 ---

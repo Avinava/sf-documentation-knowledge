@@ -5,7 +5,7 @@ topic: partyprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:34.092Z
+lastCollected: 2026-04-07T09:05:14.018Z
 estimatedTokens: 3905
 keywords: [PartyProfile, profile, party, account, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: day-in-the-week-month-quarter-or-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.407Z
+lastCollected: 2026-04-07T09:03:14.060Z
 estimatedTokens: 300
 keywords: [Day, Week, Month, Quarter, Year, time, period, date, functions, answer, questions, close, deals, beginning, end]
 ---

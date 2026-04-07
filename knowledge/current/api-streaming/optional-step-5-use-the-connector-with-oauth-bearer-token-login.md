@@ -6,7 +6,7 @@ topic: optional-step-5-use-the-connector-with-oauth-bearer-token-login
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.259Z
+lastCollected: 2026-04-07T09:03:04.994Z
 estimatedTokens: 750
 keywords: [Step, Connector, OAuth, Bearer, Token, Login, authentication, alternative, username, password, requires]
 ---

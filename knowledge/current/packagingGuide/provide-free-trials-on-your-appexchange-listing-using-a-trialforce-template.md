@@ -5,7 +5,7 @@ topic: provide-free-trials-on-your-appexchange-listing-using-a-trialforce-templa
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.899Z
+lastCollected: 2026-04-07T09:04:54.944Z
 estimatedTokens: 229
 keywords: [Provide, Free, Trials, AppExchange, Listing, Trialforce, Template, enable, add, templates, connected, Partner, Console, Optionally, lead]
 ---

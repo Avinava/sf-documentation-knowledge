@@ -5,7 +5,7 @@ topic: set-up-a-platform-cache-partition-with-provider-free-capacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.069Z
+lastCollected: 2026-04-07T09:05:02.620Z
 estimatedTokens: 680
 keywords: [Platform, Cache, Partition, Provider, Free, Capacity, Salesforce, security-reviewed, managed, packages, made, automatically, enabled, Developer, edition]
 ---

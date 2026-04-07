@@ -5,7 +5,7 @@ topic: now
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.394Z
+lastCollected: 2026-04-07T09:03:14.036Z
 estimatedTokens: 214
 keywords: [now, current, datetime, UTC, function, foreach, statement, Usage, time, zone]
 ---

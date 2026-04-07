@@ -5,7 +5,7 @@ topic: standardobjectname-history-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:03.270Z
+lastCollected: 2026-04-07T09:04:33.138Z
 estimatedTokens: 424
 keywords: [StandardObjectName, History, StandardObjectNameHistory, model, objects, associated, standard, represent, changes, Calls, Special, Access, Rules]
 ---

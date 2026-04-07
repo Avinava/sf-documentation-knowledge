@@ -5,7 +5,7 @@ topic: calculationprocedurevariable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.062Z
+lastCollected: 2026-04-07T09:05:36.940Z
 estimatedTokens: 444
 namespace: Namespace
 keywords: [CalculationProcedureVariable, variable, Expression, label, API, version, 53.0, later]

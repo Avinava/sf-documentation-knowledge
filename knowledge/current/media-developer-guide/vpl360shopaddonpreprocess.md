@@ -5,7 +5,7 @@ topic: vpl360shopaddonpreprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.916Z
+lastCollected: 2026-04-07T09:04:20.860Z
 estimatedTokens: 138
 keywords: [VPL360_ShopAddOnPreProcess, Integration, Procedure, fetches, assets, promotions, associated, account, VPL360, _ShopAddOnPreProcess, Sample, Input, Output, Calls]
 ---

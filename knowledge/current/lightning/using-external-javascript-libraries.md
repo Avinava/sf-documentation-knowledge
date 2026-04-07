@@ -5,7 +5,7 @@ topic: using-external-javascript-libraries
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.170Z
+lastCollected: 2026-04-07T09:04:14.401Z
 estimatedTokens: 1687
 keywords: [External, JavaScript, Libraries, library, upload, resource, <ltng, require>, tag, cmp, app, markup, Client-Side, Controller, Troubleshooting]
 ---

@@ -5,7 +5,7 @@ topic: recordaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.724Z
+lastCollected: 2026-04-07T09:06:04.248Z
 estimatedTokens: 440
 keywords: [RecordAction, relationship, record, action, flow, every, want, associate, particular, API, version, 42.0, later]
 ---

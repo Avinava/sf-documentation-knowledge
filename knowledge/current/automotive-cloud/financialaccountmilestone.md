@@ -5,7 +5,7 @@ topic: financialaccountmilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.233Z
+lastCollected: 2026-04-07T09:03:06.356Z
 estimatedTokens: 1309
 keywords: [FinancialAccountMilestone, events, lifecycle, financial, account, API, version, 60.0, later, Calls, Associated, Objects]
 ---

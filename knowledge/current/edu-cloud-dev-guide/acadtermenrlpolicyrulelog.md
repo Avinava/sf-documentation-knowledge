@@ -5,7 +5,7 @@ topic: acadtermenrlpolicyrulelog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.818Z
+lastCollected: 2026-04-07T09:03:43.522Z
 estimatedTokens: 1049
 keywords: [AcadTermEnrlPolicyRuleLog, log, policy, rule, calculation, runs, academic, term, enrollment, API, version, 64.0, later, Calls, Associated]
 ---

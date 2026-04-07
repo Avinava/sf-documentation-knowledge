@@ -5,7 +5,7 @@ topic: scratch-org-snapshots
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.631Z
+lastCollected: 2026-04-07T09:06:13.579Z
 estimatedTokens: 1216
 keywords: [Scratch, Org, Snapshots, Capture, state, org’s, configuration, replicas, snapshot, point-in-time, copy, includes, installed, packages, features]
 ---

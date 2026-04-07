@@ -5,7 +5,7 @@ topic: salesforce-omnichannel-inventory-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.049Z
+lastCollected: 2026-04-07T09:03:27.964Z
 estimatedTokens: 1356
 keywords: [Salesforce, Omnichannel, Inventory, Resources, Manage, across, locations]
 ---

@@ -5,7 +5,7 @@ topic: channel-menu-reordering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.267Z
+lastCollected: 2026-04-07T09:06:14.485Z
 estimatedTokens: 1026
 keywords: [Channel, Menu, Reordering, Show, hide, reorder, selections, customers, browse, website, dynamic, experience, Change, floating, action]
 ---

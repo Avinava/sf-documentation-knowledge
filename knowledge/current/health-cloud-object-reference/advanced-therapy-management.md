@@ -5,7 +5,7 @@ topic: advanced-therapy-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.843Z
+lastCollected: 2026-04-07T09:03:54.061Z
 estimatedTokens: 1786
 keywords: [Advanced, Therapy, Management, helps, streamline, complex, procedures, involve, multiple, appointments, across, different, locations, Management’s, Multi-Step]
 ---

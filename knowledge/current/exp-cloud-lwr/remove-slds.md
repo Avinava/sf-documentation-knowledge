@@ -5,7 +5,7 @@ topic: remove-slds
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.600Z
+lastCollected: 2026-04-07T09:03:45.901Z
 estimatedTokens: 138
 keywords: [Remove, SLDS, necessary, Salesforce, Lightning, Design, System, site]
 ---

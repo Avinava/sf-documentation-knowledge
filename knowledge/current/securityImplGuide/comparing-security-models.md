@@ -5,7 +5,7 @@ topic: comparing-security-models
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.314Z
+lastCollected: 2026-04-07T09:05:29.294Z
 estimatedTokens: 751
 keywords: [Comparing, Security, Models, manage, users’, access, data, configure, sharing, settings, permissions, features]
 ---

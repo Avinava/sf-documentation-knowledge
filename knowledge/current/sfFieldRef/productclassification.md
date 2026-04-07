@@ -5,7 +5,7 @@ topic: productclassification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:09.270Z
+lastCollected: 2026-04-07T09:06:00.910Z
 estimatedTokens: 349
 keywords: [ProductClassification, template, holds, collection, dynamic, attributes, Product, classification, quickly, define, multiple, products, similar, yet, different]
 ---

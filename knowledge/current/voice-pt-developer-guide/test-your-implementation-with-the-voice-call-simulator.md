@@ -5,7 +5,7 @@ topic: test-your-implementation-with-the-voice-call-simulator
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.188Z
+lastCollected: 2026-04-07T09:06:18.748Z
 estimatedTokens: 1195
 keywords: [Test, Implementation, Voice, Call, Simulator, component, helps, comfortable, Service, Cloud, walk, variety, scenarios]
 ---

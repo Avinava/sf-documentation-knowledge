@@ -5,7 +5,7 @@ topic: complaintparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.487Z
+lastCollected: 2026-04-07T09:05:13.284Z
 estimatedTokens: 1134
 keywords: [ComplaintParticipant, junction, complaint, account, contact, stores, participant, registers, authorities, applicant, co-applicant, household, business, API, version]
 ---

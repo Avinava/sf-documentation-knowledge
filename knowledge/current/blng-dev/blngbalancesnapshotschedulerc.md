@@ -5,7 +5,7 @@ topic: blngbalancesnapshotschedulerc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.241Z
+lastCollected: 2026-04-07T09:03:16.951Z
 estimatedTokens: 639
 keywords: [blng__BalanceSnapShotScheduler__c, Balance, Snapshot, Scheduler, creates, Run, regularly, analyze, account's, invoices, past-due, balances, blng, _BalanceSnapShotScheduler, Calls]
 ---

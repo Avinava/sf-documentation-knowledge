@@ -5,7 +5,7 @@ topic: skilluser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.171Z
+lastCollected: 2026-04-07T09:06:07.726Z
 estimatedTokens: 267
 keywords: [SkillUser, join, Skill, User, API, version, 24.0, later]
 ---

@@ -5,7 +5,7 @@ topic: feedback-about-your-completed-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.237Z
+lastCollected: 2026-04-07T09:04:55.602Z
 estimatedTokens: 1038
 keywords: [Feedback, Completed, Review, There, two, possible, AppExchange, security, outcomes, Either, solution, passed, didn’t, case, tips]
 ---

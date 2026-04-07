@@ -5,7 +5,7 @@ topic: merge-customer-account-with-status-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.557Z
+lastCollected: 2026-04-07T09:04:06.138Z
 estimatedTokens: 465
 keywords: [Merge, Customer, Account, Status, POST, Merges, accounts, API, processes, requests, fail, entire, operation, invalid]
 ---

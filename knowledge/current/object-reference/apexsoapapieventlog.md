@@ -5,7 +5,7 @@ topic: apexsoapapieventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:04.522Z
+lastCollected: 2026-04-07T09:04:34.602Z
 estimatedTokens: 1587
 keywords: [ApexSoapApiEventLog, Apex, SOAP, event, logs, contain, custom, web, service, calls, API, version, 55.0, later, Special]
 ---

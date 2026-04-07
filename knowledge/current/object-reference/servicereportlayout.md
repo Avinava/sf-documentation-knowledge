@@ -5,7 +5,7 @@ topic: servicereportlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:16.859Z
+lastCollected: 2026-04-07T09:04:49.246Z
 estimatedTokens: 569
 keywords: [ServiceReportLayout, service, report, template, Calls, Special, Access, Rules, Associated, Objects]
 ---

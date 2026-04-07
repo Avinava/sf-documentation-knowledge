@@ -5,7 +5,7 @@ topic: payment-method-tokenization-gateway-response-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:20.244Z
+lastCollected: 2026-04-07T09:03:34.507Z
 estimatedTokens: 267
 keywords: [Payment, Tokenization, Gateway, Output, representation]
 ---

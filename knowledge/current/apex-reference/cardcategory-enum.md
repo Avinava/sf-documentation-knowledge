@@ -5,7 +5,7 @@ topic: cardcategory-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:52.574Z
+lastCollected: 2026-04-07T09:02:27.454Z
 estimatedTokens: 146
 namespace: CommercePayments
 keywords: [CardCategory, whether, payment, credit, card, debit]

@@ -5,7 +5,7 @@ topic: sharingrecordcollectionmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.019Z
+lastCollected: 2026-04-07T09:04:49.441Z
 estimatedTokens: 197
 keywords: [SharingRecordCollectionMember, user, access, collection, records, API, version, 51.0, later, Calls]
 ---

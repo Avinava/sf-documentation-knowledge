@@ -5,7 +5,7 @@ topic: configuration-of-integration-meta-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.248Z
+lastCollected: 2026-04-07T09:05:18.185Z
 estimatedTokens: 1611
 keywords: [Configuration, Integration, Meta, Data, dimensions, export, columns, filters, conditions, CSV, exports, Examples, sources]
 ---

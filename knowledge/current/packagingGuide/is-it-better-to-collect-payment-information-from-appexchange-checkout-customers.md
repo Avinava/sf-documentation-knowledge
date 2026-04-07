@@ -6,7 +6,7 @@ topic: is-it-better-to-collect-payment-information-from-appexchange-checkout-cus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.326Z
+lastCollected: 2026-04-07T09:04:54.003Z
 estimatedTokens: 495
 keywords: [better, collect, payment, AppExchange, Checkout, customers, installation, approaches, advantages, recommend, thinking, target, business, processes, deciding]
 ---

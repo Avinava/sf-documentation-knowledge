@@ -5,7 +5,7 @@ topic: rentalcaremssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.789Z
+lastCollected: 2026-04-07T09:04:28.668Z
 estimatedTokens: 1153
 keywords: [RentalCarEmssnFctr, emissions, factors, scope, rental, car, usage, API, version, 54.0, later, Calls, Associated, Objects]
 ---

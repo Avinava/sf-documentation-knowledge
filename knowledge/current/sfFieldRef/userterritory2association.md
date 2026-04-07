@@ -5,7 +5,7 @@ topic: userterritory2association
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.468Z
+lastCollected: 2026-04-07T09:06:10.753Z
 estimatedTokens: 283
 keywords: [UserTerritory2Association, association, assignment, territory, user, record, Sales, Territories, enabled]
 ---

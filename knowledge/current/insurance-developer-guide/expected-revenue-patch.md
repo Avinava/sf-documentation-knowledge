@@ -5,7 +5,7 @@ topic: expected-revenue-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.115Z
+lastCollected: 2026-04-07T09:04:02.541Z
 estimatedTokens: 487
 keywords: [Expected, Revenue, PATCH, Calculate, derived, Insurance, Rate, Plan, Commission, flat, fee, percentage, premium, equivalent, amount]
 ---
@@ -80,7 +80,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/brokerage/policies/0YTSG0000000o9h4AA/expected-revenue?businessSObjectType=InsuranceRatePlan&recordId=1CcSG00000000fx0AA
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/brokerage/policies/0YTSG0000000o9h4AA/expected-revenue?businessSObjectType=InsuranceRatePlan&recordId=1CcSG00000000fx0AA
 ```
 
 ```

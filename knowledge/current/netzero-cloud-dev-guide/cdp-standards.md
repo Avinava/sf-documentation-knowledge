@@ -5,7 +5,7 @@ topic: cdp-standards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.865Z
+lastCollected: 2026-04-07T09:04:26.449Z
 estimatedTokens: 12511
 keywords: [CDP, Standards, help, investors, companies, cities, states, regions, manage, their, environmental, impacts]
 ---

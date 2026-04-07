@@ -5,7 +5,7 @@ topic: tpm-promotion-header-slot-lwcs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.114Z
+lastCollected: 2026-04-07T09:05:22.843Z
 estimatedTokens: 1468
 keywords: [TPM, Promotion, Slot, LWCs, slot-specific, provide, access, various, sections, LWC, layer]
 ---

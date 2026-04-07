@@ -5,7 +5,7 @@ topic: apex-email-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:41.808Z
+lastCollected: 2026-04-07T09:02:31.222Z
 estimatedTokens: 714
 keywords: [Apex, Email, Service, services, process, contents, attachments, inbound, automatically, creates, contact, records, messages]
 ---

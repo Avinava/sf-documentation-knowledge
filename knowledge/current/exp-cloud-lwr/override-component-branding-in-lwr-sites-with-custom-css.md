@@ -5,7 +5,7 @@ topic: override-component-branding-in-lwr-sites-with-custom-css
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.610Z
+lastCollected: 2026-04-07T09:03:45.920Z
 estimatedTokens: 584
 keywords: [Override, Component, Branding, LWR, Sites, Custom, CSS, Occasionally, styling, hooks, insufficient, style, way, want, situation]
 ---

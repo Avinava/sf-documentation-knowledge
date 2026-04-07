@@ -5,7 +5,7 @@ topic: sessionheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:43.553Z
+lastCollected: 2026-04-07T09:02:46.120Z
 estimatedTokens: 151
 keywords: [SessionHeader, session, login, server, successful, subsequent, calls, API, Sample, Code]
 ---

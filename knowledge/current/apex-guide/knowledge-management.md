@@ -5,7 +5,7 @@ topic: knowledge-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.225Z
+lastCollected: 2026-04-07T09:02:32.493Z
 estimatedTokens: 303
 keywords: [Knowledge, Management, Users, write, publish, archive, manage, articles, Apex, addition, Salesforce, user]
 ---

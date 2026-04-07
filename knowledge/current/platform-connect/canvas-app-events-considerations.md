@@ -5,7 +5,7 @@ topic: canvas-app-events-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.243Z
+lastCollected: 2026-04-07T09:05:04.149Z
 estimatedTokens: 393
 keywords: [Canvas, App, Events, Considerations, Streaming, API]
 ---

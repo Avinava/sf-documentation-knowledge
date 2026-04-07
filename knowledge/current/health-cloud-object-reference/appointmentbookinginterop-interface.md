@@ -5,7 +5,7 @@ topic: appointmentbookinginterop-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.663Z
+lastCollected: 2026-04-07T09:03:52.347Z
 estimatedTokens: 2278
 keywords: [AppointmentBookingInterop, Apex, implementation, healthcare, appointment, availability, booking, Usage, bookAppointment, var1, cancelAppointment, findSlots, getSlotStatus]
 ---

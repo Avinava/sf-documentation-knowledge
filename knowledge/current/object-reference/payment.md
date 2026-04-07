@@ -5,7 +5,7 @@ topic: payment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.379Z
+lastCollected: 2026-04-07T09:04:46.241Z
 estimatedTokens: 3363
 keywords: [Payment, event, shopper, credit, cards, capture, sale, doesn't, appear, shopper's, card, statement, API, version, 48.0]
 ---

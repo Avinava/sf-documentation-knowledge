@@ -5,7 +5,7 @@ topic: pivot-v2-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.380Z
+lastCollected: 2026-04-07T09:05:24.825Z
 estimatedTokens: 129
 keywords: [Pivot, Input, version, aggregate, data, node, recipe]
 ---

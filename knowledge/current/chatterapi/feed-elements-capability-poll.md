@@ -5,7 +5,7 @@ topic: feed-elements-capability-poll
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.226Z
+lastCollected: 2026-04-07T09:03:26.764Z
 estimatedTokens: 468
 keywords: [Feed, Elements, Capability, Poll, Access, element, vote]
 ---

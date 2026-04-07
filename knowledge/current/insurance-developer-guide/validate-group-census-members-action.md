@@ -5,8 +5,8 @@ topic: validate-group-census-members-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.755Z
-estimatedTokens: 358
+lastCollected: 2026-04-07T09:04:00.275Z
+estimatedTokens: 357
 keywords: [Validate, Group, Census, Members, Action, member, records, assign, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/validateGroupCensusMembers
+/services/data/v/actions/standard/validateGroupCensusMembers
 
 Formats
 

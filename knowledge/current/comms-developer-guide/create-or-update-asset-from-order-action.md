@@ -5,8 +5,8 @@ topic: create-or-update-asset-from-order-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.015Z
-estimatedTokens: 275
+lastCollected: 2026-04-07T09:03:38.974Z
+estimatedTokens: 321
 keywords: [Asset, Order, Action, item, New, assets, created, Modify, change, requests, renewal, cancellation, Special, Access, Rules]
 ---
 
@@ -23,6 +23,12 @@ Create an asset for each order item in the specified order. New assets are creat
 When the custom product name for an order line item has a value, the asset name is set to custom product name.
 
 This action is available in API version 60.0 and later.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=comms_developer_guide)
+
+#### Note
+
+This is applicable for Consumer Sales for business-to-consumer (B2C).
 
 ## Special Access Rules
 

@@ -5,7 +5,7 @@ topic: salerequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:44.367Z
+lastCollected: 2026-04-07T09:02:16.900Z
 estimatedTokens: 1986
 namespace: CommercePayments
 keywords: [SaleRequest, Stores, sales, Usage, amount, accountId, comments, currencyIsoCode, paymentMethod, paymentMethodData, submittedByMerchant, equals, obj, hashCode, toString]

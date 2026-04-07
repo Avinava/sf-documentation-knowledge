@@ -5,7 +5,7 @@ topic: upserting-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:45.150Z
+lastCollected: 2026-04-07T09:02:34.257Z
 estimatedTokens: 767
 keywords: [Upserting, Records, Custom, matching, case-insensitive, Unique, Treat, ABC, duplicate, case, insensitive, attributes, selected, part, definition]
 ---

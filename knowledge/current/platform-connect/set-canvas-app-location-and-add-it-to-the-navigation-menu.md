@@ -5,7 +5,7 @@ topic: set-canvas-app-location-and-add-it-to-the-navigation-menu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.400Z
+lastCollected: 2026-04-07T09:05:04.422Z
 estimatedTokens: 210
 keywords: [Canvas, App, Location, Add, Navigation, Menu, appear, Salesforce, mobile]
 ---

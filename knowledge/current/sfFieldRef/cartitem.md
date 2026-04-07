@@ -5,7 +5,7 @@ topic: cartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:52.578Z
+lastCollected: 2026-04-07T09:05:38.854Z
 estimatedTokens: 1101
 keywords: [CartItem, item, WebCart, that’s, active, store, built, B2B, D2C, Commerce, Cart, Product, Charge, API, version]
 ---

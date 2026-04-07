@@ -5,7 +5,7 @@ topic: salesforce-payments-objects-in-billing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:15.267Z
+lastCollected: 2026-04-07T09:01:57.183Z
 estimatedTokens: 397
 keywords: [Salesforce, Payments, Objects, Billing, access, standard, authorize, connect, external, payment, gateway, group, transactions, processed, particular]
 ---

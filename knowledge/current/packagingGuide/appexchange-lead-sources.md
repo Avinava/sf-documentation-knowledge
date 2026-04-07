@@ -5,7 +5,7 @@ topic: appexchange-lead-sources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.448Z
+lastCollected: 2026-04-07T09:04:54.196Z
 estimatedTokens: 2219
 keywords: [AppExchange, Lead, Sources, leads, include, help, understand, source—that, how, originated, source, code, identifies, action, customer]
 ---

@@ -5,7 +5,7 @@ topic: validate-user-controlled-data-added-to-a-prompt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.107Z
+lastCollected: 2026-04-07T09:04:55.330Z
 estimatedTokens: 173
 keywords: [Validate, User-Controlled, Data, Added, Prompt, including, Ensure, meets, criteria, acceptable, input, case, isn't, met, don’t]
 ---

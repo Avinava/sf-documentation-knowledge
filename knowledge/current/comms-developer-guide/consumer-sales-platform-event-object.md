@@ -5,7 +5,7 @@ topic: consumer-sales-platform-event-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.120Z
+lastCollected: 2026-04-07T09:03:39.418Z
 estimatedTokens: 198
 keywords: [Consumer, Sales, Platform, Event, Communications, Cloud, publishes, standard, events, action, occurred, org, report, errors, subscribe]
 ---

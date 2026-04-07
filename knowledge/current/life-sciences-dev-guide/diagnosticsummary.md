@@ -5,8 +5,8 @@ topic: diagnosticsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.230Z
-estimatedTokens: 2757
+lastCollected: 2026-04-07T09:04:07.152Z
+estimatedTokens: 2659
 keywords: [DiagnosticSummary, findings, interpretations, summaries, tests, performed, patients, API, version, 51.0, later, Calls, Usage, Additional, Objects]
 ---
 
@@ -102,9 +102,6 @@ Sharing rules are available for the object.
 
 Sharing is available for the object.
 
--   **[DiagnosticSummaryDetail](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_diagnosticsummarydetail.htm)**
-    Represents additional information associated with document reference-type DiagnosticSummary records. This additional information may be related documents, authors, or related encounters. This object is available in API version 52.0 and later.
-
 ## Related Topics
 
 - DiagnosticSummaryChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
@@ -112,4 +109,3 @@ Sharing is available for the object.
 - DiagnosticSummaryHistory (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_history.htm)
 - DiagnosticSummaryOwnerSharingRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_ownersharingrule.htm)
 - DiagnosticSummaryShare (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm)
-- DiagnosticSummaryDetail (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_diagnosticsummarydetail.htm)

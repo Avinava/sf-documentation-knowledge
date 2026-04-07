@@ -5,7 +5,7 @@ topic: stationary-asset-water-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.284Z
+lastCollected: 2026-04-07T09:04:27.011Z
 estimatedTokens: 2462
 keywords: [Stationary, Asset, Water, Footprint, Activity, water-related, activities, withdrawal, consumption, discharge, assets]
 ---

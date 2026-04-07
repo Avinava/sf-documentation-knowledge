@@ -5,7 +5,7 @@ topic: customize-the-colors-in-help-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.123Z
+lastCollected: 2026-04-07T09:06:14.298Z
 estimatedTokens: 680
 keywords: [Customize, Colors, Help, Output, run, command, --help, flag, uses, highlight, certain, parts, descriptions, executable, don’t]
 ---

@@ -5,7 +5,7 @@ topic: measure-the-impact-of-partner-co-marketing-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.056Z
+lastCollected: 2026-04-07T09:04:55.191Z
 estimatedTokens: 419
 keywords: [Measure, Impact, Partner, Co-Marketing, Promotions, AppExchange, Marketplace, Analytics, data, simple, formulas, provided, Salesforce, Calculate, scores]
 ---

@@ -5,7 +5,7 @@ topic: with-highlight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.957Z
+lastCollected: 2026-04-07T09:06:15.425Z
 estimatedTokens: 454
 keywords: [HIGHLIGHT, clause, added, SOSL, query, business, account, campaign, contact, custom, lead, opportunity, quote, user, searches]
 ---

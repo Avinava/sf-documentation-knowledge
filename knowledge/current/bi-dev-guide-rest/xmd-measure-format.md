@@ -5,7 +5,7 @@ topic: xmd-measure-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.895Z
+lastCollected: 2026-04-07T09:03:11.659Z
 estimatedTokens: 398
 keywords: [Xmd, Measure, extended, metadata, Analytics, dataset]
 ---

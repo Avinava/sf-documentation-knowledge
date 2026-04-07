@@ -5,7 +5,7 @@ topic: topicuserevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.264Z
+lastCollected: 2026-04-07T09:04:51.126Z
 estimatedTokens: 300
 keywords: [TopicUserEvent, action, comment, post, share, made, user, topic, API, version, 42.0, later, Calls, Special, Access]
 ---

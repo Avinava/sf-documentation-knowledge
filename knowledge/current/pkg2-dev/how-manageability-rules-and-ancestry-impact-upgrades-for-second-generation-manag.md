@@ -6,7 +6,7 @@ topic: how-manageability-rules-and-ancestry-impact-upgrades-for-second-generatio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.971Z
+lastCollected: 2026-04-07T09:05:03.669Z
 estimatedTokens: 980
 keywords: [How, Manageability, Rules, Ancestry, Impact, Upgrades, Second-Generation, Managed, Packages, dive, package, 2GP, it’s, understand, concepts]
 ---

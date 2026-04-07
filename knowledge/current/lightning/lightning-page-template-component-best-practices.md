@@ -5,7 +5,7 @@ topic: lightning-page-template-component-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.134Z
+lastCollected: 2026-04-07T09:04:12.915Z
 estimatedTokens: 458
 keywords: [Lightning, Template, Component, Best, Practices, Keep, limitations, mind, creating, components]
 ---

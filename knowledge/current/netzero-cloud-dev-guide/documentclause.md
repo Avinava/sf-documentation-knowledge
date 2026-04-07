@@ -5,7 +5,7 @@ topic: documentclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.228Z
+lastCollected: 2026-04-07T09:04:26.940Z
 estimatedTokens: 409
 keywords: [DocumentClause, clause, associated, multiple, documents, Calls]
 ---

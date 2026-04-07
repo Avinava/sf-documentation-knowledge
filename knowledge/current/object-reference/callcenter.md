@@ -5,7 +5,7 @@ topic: callcenter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.948Z
+lastCollected: 2026-04-07T09:04:36.230Z
 estimatedTokens: 428
 keywords: [CallCenter, call, center, logical, representation, computer-telephony, integration, CTI, system, instance, organization, Calls, Special, Access, Rules]
 ---

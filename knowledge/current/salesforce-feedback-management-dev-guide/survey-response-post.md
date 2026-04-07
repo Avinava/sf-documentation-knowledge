@@ -5,7 +5,7 @@ topic: survey-response-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.842Z
+lastCollected: 2026-04-07T09:05:23.939Z
 estimatedTokens: 507
 keywords: [survey-response, POST, Listed, error, codes, code, messages, associated, Salesforce, Feedback, Management, SFM, unAuth, APIs, resource]
 ---

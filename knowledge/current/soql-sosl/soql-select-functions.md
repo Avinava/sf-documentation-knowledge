@@ -5,7 +5,7 @@ topic: soql-select-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.719Z
+lastCollected: 2026-04-07T09:06:15.092Z
 estimatedTokens: 272
 keywords: [SOQL, SELECT, Functions, queries, generate, reports, analysis, apply, localized, formatting, standard, custom, group, filter, data]
 ---

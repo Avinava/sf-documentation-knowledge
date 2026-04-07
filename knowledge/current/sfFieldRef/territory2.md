@@ -5,7 +5,7 @@ topic: territory2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.244Z
+lastCollected: 2026-04-07T09:06:09.180Z
 estimatedTokens: 380
 keywords: [Territory2, sales, territory, Territories, enabled]
 ---

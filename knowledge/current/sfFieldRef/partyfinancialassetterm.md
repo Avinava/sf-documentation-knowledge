@@ -5,7 +5,7 @@ topic: partyfinancialassetterm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.711Z
+lastCollected: 2026-04-07T09:05:57.710Z
 estimatedTokens: 433
 keywords: [PartyFinancialAssetTerm, term, condition, associated, financial, asset, Aids, identifying, tracking, terms, lender, legal, regulatory, around, asset's]
 ---

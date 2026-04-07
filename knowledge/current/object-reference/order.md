@@ -5,8 +5,8 @@ topic: order
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.688Z
-estimatedTokens: 6409
+lastCollected: 2026-04-07T09:04:45.480Z
+estimatedTokens: 6402
 keywords: [Order, associated, contract, account, Calls, Usage, Orders, Price, Books, Objects]
 ---
 
@@ -56,7 +56,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | ExternalCustomerReference | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe external customer ID from an ecommerce channel or any other external channel. Label is External Customer ID Reference.This field is available in API version 66.0 and later. |
 | GrandTotalAmount | TypecurrencyPropertiesFilter, Nillable, SortDescriptionSum of TotalAmount and TotalTaxAmount.This field is available with Salesforce Order Management, Revenue Cloud, or B2B Commerce license.This field is available in API v48.0 and later. |
 | IsReductionOrder | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, SortDescriptionRead only. Determines whether an order is a reduction order. Label is Reduction Order. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | Name | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionName for this order. |
 | OpportunityId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionID for the opportunity that’s associated with this order. |

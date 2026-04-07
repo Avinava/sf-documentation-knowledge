@@ -5,7 +5,7 @@ topic: get-configuration-item-relationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.952Z
+lastCollected: 2026-04-07T09:02:09.962Z
 estimatedTokens: 348
 keywords: [Configuration, Item, Relationship, Retrieves, detailed, relationships, unique, identifier, record, Special, Access, Rules]
 ---

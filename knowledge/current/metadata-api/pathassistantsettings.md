@@ -5,7 +5,7 @@ topic: pathassistantsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:08.795Z
+lastCollected: 2026-04-07T09:02:42.781Z
 estimatedTokens: 693
 keywords: [PathAssistantSettings, Path, preference, setting, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---

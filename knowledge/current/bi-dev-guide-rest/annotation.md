@@ -5,7 +5,7 @@ topic: annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:03.954Z
+lastCollected: 2026-04-07T09:03:10.071Z
 estimatedTokens: 252
 keywords: [Annotation, Analytics]
 ---

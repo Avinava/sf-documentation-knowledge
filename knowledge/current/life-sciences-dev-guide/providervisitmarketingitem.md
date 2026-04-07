@@ -5,7 +5,7 @@ topic: providervisitmarketingitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.085Z
+lastCollected: 2026-04-07T09:04:11.643Z
 estimatedTokens: 993
 keywords: [ProviderVisitMarketingItem, marketing, items, provided, health, care, provider, part, visit, API, version, 65.0, later, Calls, Associated]
 ---

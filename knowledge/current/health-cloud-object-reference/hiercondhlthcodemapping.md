@@ -5,7 +5,7 @@ topic: hiercondhlthcodemapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.327Z
+lastCollected: 2026-04-07T09:03:58.389Z
 estimatedTokens: 962
 keywords: [HierCondHlthCodeMapping, how, Hierarchical, Condition, Category, HCC, codes, map, specific, year, API, version, 61.0, later, Calls]
 ---

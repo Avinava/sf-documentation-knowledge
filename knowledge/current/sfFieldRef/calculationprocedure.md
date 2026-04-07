@@ -5,7 +5,7 @@ topic: calculationprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.014Z
+lastCollected: 2026-04-07T09:05:36.880Z
 estimatedTokens: 432
 namespace: Namespace
 keywords: [CalculationProcedure, Performs, series, calculations, matrix, lookups, user-defined, variables, constants, label, Expression, API, version, 53.0, later]

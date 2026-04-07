@@ -5,7 +5,7 @@ topic: learning-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.827Z
+lastCollected: 2026-04-07T09:03:42.049Z
 estimatedTokens: 851
 keywords: [Learning, Input, representation, define, instructional, made, course, program, on-site, experience, contact]
 ---

@@ -5,7 +5,7 @@ topic: change-events-for-custom-field-type-conversions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.565Z
+lastCollected: 2026-04-07T09:03:18.513Z
 estimatedTokens: 507
 keywords: [Change, Events, Custom, Conversions, event, gap, generated, data, changes, preserve, truncate, don't, generate]
 ---

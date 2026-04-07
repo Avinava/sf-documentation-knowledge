@@ -5,7 +5,7 @@ topic: commerce-extension-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.008Z
+lastCollected: 2026-04-07T09:03:26.463Z
 estimatedTokens: 401
 keywords: [Commerce, Extension, Mapping, modify, provider, Apex, implements, webstore]
 ---

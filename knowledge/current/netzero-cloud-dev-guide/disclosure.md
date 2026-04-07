@@ -5,7 +5,7 @@ topic: disclosure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.761Z
+lastCollected: 2026-04-07T09:04:27.584Z
 estimatedTokens: 1733
 keywords: [Disclosure, company, shares, included, user, their, document, API, version, 57.0, later, Calls, Associated, Objects]
 ---

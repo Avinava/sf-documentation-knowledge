@@ -5,7 +5,7 @@ topic: apexpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:04.487Z
+lastCollected: 2026-04-07T09:04:34.557Z
 estimatedTokens: 1253
 keywords: [ApexPage, Visualforce, Calls, Usage]
 ---

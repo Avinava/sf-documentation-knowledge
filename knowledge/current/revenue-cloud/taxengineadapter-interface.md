@@ -5,7 +5,7 @@ topic: taxengineadapter-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:14.961Z
+lastCollected: 2026-04-07T09:01:56.970Z
 estimatedTokens: 3211
 namespace: CommerceTax
 keywords: [TaxEngineAdapter, processRequest, instance, TaxEngineContext, calculated, tax, TaxDetailsResponse, error, ErrorResponse, requestType, Implementation, Usage, Mappings, Quotes, Orders, Retrieves, evaluates, engine, define]

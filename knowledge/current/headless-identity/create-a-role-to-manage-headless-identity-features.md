@@ -5,7 +5,7 @@ topic: create-a-role-to-manage-headless-identity-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.877Z
+lastCollected: 2026-04-07T09:03:51.360Z
 estimatedTokens: 244
 keywords: [Role, Manage, Headless, Identity, Features, access, management, it’s, define, ensure, right, level]
 ---

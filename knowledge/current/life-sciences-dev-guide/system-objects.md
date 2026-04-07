@@ -5,8 +5,8 @@ topic: system-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.794Z
-estimatedTokens: 918
+lastCollected: 2026-04-07T09:04:07.886Z
+estimatedTokens: 623
 keywords: [System, Objects, core, functionality, Life, Sciences, Cloud, Commercial, Engagement, Integration, Job, Run, Trigger, Handlers, User]
 ---
 
@@ -42,19 +42,3 @@ The user and device management objects store additional information about users 
 ![The data model diagram for Advanced Therapy Management with Health Cloud objects and Salesforce Scheduler objects.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Flife_sciences%2Fimages%2Flsc_user_and_device_management.png&folder=life_sciences_dev_guide)
 
 For more details and a larger image, visit the [Data Model Gallery](https://developer.salesforce.com/docs/platform/data-models/guide/system-objects-user-and-device-management.html "HTML (New Window)").
-
--   **[IntegrationJobRun](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_integrationjobrun.htm)**
-    Represents the statistical details of asynchronous integration jobs that are run on the system. This object is available in API version 65.0 and later.
--   **[LifeScienceMobileApp](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_lifesciencemobileapp.htm)**
-    Represents information about a mobile device associated with a user. This object is available in API version 65.0 and later.
--   **[LifeScienceTriggerHandler](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_lifesciencetriggerhandler.htm)**
-    Represents a collection of fields to set up the trigger handlers to run for each Life Sciences object. This object is available in API version 65.0 and later.
--   **[UserAdditionalInfo](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_useradditionalinfo.htm)**
-    Represents information about a user such as additional identifiers, user preferences, and a return address. This object is available in API version 65.0 and later.
-
-## Related Topics
-
-- IntegrationJobRun (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_integrationjobrun.htm)
-- LifeScienceMobileApp (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_lifesciencemobileapp.htm)
-- LifeScienceTriggerHandler (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_lifesciencetriggerhandler.htm)
-- UserAdditionalInfo (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_useradditionalinfo.htm)

@@ -5,7 +5,7 @@ topic: hello-world-component-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.457Z
+lastCollected: 2026-04-07T09:03:07.954Z
 estimatedTokens: 442
 keywords: [Hello, World, Component, simple, Lightning, Web, widget, display, dashboard]
 ---

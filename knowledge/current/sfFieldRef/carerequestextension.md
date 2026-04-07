@@ -5,7 +5,7 @@ topic: carerequestextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.301Z
+lastCollected: 2026-04-07T09:05:38.528Z
 estimatedTokens: 1013
 keywords: [CareRequestExtension, extra, care, subscriber, member's, health, plan, home, healthcare, status, ambulance, transportation]
 ---

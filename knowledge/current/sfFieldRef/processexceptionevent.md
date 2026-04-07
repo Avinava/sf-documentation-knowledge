@@ -5,7 +5,7 @@ topic: processexceptionevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.919Z
+lastCollected: 2026-04-07T09:06:00.470Z
 estimatedTokens: 343
 keywords: [ProcessExceptionEvent, Notifies, subscribers, errors, occur, payment, processing, capture, apply, refund, order, summary, event, trigger, flows]
 ---

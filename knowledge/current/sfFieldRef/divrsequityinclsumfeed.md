@@ -5,7 +5,7 @@ topic: divrsequityinclsumfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.320Z
+lastCollected: 2026-04-07T09:05:43.467Z
 estimatedTokens: 362
 keywords: [DivrsEquityInclSumFeed, Feed, tracking, DivrsEquityInclSum]
 ---

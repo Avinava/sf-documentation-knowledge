@@ -5,7 +5,7 @@ topic: installation-and-review-email-notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.421Z
+lastCollected: 2026-04-07T09:04:54.158Z
 estimatedTokens: 625
 keywords: [Installation, Review, Email, Notifications, Salesforce, emails, customers, install, AppExchange, solution, they, listing, post, reviews, comments]
 ---

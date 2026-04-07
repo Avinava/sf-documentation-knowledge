@@ -5,7 +5,7 @@ topic: mktjourneydcsnsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:12.915Z
+lastCollected: 2026-04-07T09:04:44.488Z
 estimatedTokens: 346
 keywords: [MktJourneyDcsnSetup, collection, Marketing, Cloud, Engagement, journeys, interact, Salesforce, Flow, API, version, 65.0, later, Calls]
 ---

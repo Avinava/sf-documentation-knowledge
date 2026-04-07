@@ -5,7 +5,7 @@ topic: record-access-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.084Z
+lastCollected: 2026-04-07T09:05:26.062Z
 estimatedTokens: 252
 keywords: [Record, Access, Calculation, Every, time, user, attempts, open, run, report, view, search, data, API, Salesforce]
 ---

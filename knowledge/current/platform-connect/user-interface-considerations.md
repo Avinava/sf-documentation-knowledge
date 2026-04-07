@@ -5,7 +5,7 @@ topic: user-interface-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.306Z
+lastCollected: 2026-04-07T09:05:04.259Z
 estimatedTokens: 867
 keywords: [User, Considerations, plan, canvas, app, Salesforce, mobile, take, account, device, screen, sizes, Size, Logo, Image]
 ---

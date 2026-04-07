@@ -5,8 +5,8 @@ topic: quotelineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:15.940Z
-estimatedTokens: 7445
+lastCollected: 2026-04-07T09:04:48.050Z
+estimatedTokens: 7440
 keywords: [QuoteLineItem, quote, line, item, member, Product2, products, associated, along, items, API, version, 18.0, later, Calls]
 ---
 
@@ -112,7 +112,7 @@ Some of the fields are available when you turn on Subscription Management.
 | TotalLineAmount | TypecurrencyPropertiesFilter, Nillable, SortDescriptionThe total price of the quote line item, before price adjustments, inclusive of quantity, prorated for the duration of the subscription. This price is a calculated field equal to ListPrice times Quantity times PricingTermCount.This field is available in API version 56.0 and later. This field is available with Subscription Management. |
 | TotalMargin | TypepercentPropertiesFilter, Nillable, SortDescriptionThe effective margin percentage at the line item level. This percentage is calculated by using the formula: (Net Total Price - Total Cost) / Net Total Price.This field is available in Revenue Cloud in API version 65.0 and later. |
 | TotalMarginAmount | TypecurrencyPropertiesFilter, Nillable, SortDescriptionThe effective margin amount at the line item level. This amount is calculated by subtracting total cost from net total price.This field is available in Revenue Cloud in API version 65.0 and later. |
-| TotalPrice | TypecurrencyPropertiesFilter, Nillable, SortDescriptionRead-only. Calculated by applying the Discount to the Subtotal. This field is nillable, but you can't set both TotalPrice and UnitPrice to null in the same update. To insert the TotalPrice for a quote line item via the API (given only a unit price and the quantity), calculate this field as the unit price multiplied by the quantity. This field is read only if the quote line item has a revenue schedule. |
+| TotalPrice | TypecurrencyPropertiesFilter, Nillable, SortDescriptionRead-only. Calculated by applying the Discount to the Subtotal. This field is nillable, but you can't set both TotalPrice and to null in the same update. To insert the for a quote line item via the API (given only a unit price and the quantity), calculate this field as the unit price multiplied by the quantity. This field is read only if the quote line item has a revenue schedule. |
 | UnitCost | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe unit cost of a product sold as part of the quote.This field is available in Revenue Cloud in API version 65.0 and later. |
 | UnitPrice | TypecurrencyPropertiesCreate, Filter, Sort, UpdateDescriptionRequired. The price per unit for the quote line item. |
 | UnitPriceUplift | TypepercentPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe percentage increase of the quote line item's unit price. |

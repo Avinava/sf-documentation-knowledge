@@ -5,7 +5,7 @@ topic: using-the-runas-method-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.207Z
+lastCollected: 2026-04-07T09:02:33.390Z
 estimatedTokens: 1149
 keywords: [runAs, Generally, Apex, code, runs, system, mode, object-level, field-level, permissions, current, user, aren’t, taken, account]
 ---

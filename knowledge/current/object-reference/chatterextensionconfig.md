@@ -5,7 +5,7 @@ topic: chatterextensionconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.534Z
+lastCollected: 2026-04-07T09:04:36.958Z
 estimatedTokens: 311
 keywords: [ChatterExtensionConfig, Configuration, Chatter, extension, Experience, Cloud, sites, API, version, 41.0, later, Calls]
 ---

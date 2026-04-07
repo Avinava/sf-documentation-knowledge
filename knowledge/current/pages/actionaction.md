@@ -5,7 +5,7 @@ topic: actionaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.473Z
+lastCollected: 2026-04-07T09:04:55.934Z
 estimatedTokens: 48
 keywords: [Action, Creates, new, instance, ApexPages.Action]
 ---

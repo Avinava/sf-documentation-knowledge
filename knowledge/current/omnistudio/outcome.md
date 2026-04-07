@@ -5,7 +5,7 @@ topic: outcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.036Z
+lastCollected: 2026-04-07T09:02:57.620Z
 estimatedTokens: 832
 keywords: [Outcome, expected, change, participants, driven, organization's, activity, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---

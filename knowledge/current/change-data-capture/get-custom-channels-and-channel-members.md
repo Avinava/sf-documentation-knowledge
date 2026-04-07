@@ -5,7 +5,7 @@ topic: get-custom-channels-and-channel-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.586Z
+lastCollected: 2026-04-07T09:03:18.550Z
 estimatedTokens: 399
 keywords: [Custom, Channels, Channel, Members, Salesforce, org, performing, SOQL, queries, Tooling, API]
 ---

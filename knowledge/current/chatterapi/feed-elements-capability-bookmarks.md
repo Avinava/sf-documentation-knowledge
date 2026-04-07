@@ -5,7 +5,7 @@ topic: feed-elements-capability-bookmarks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.128Z
+lastCollected: 2026-04-07T09:03:26.607Z
 estimatedTokens: 373
 keywords: [Feed, Elements, Capability, Bookmarks, whether, element, bookmarked, add]
 ---

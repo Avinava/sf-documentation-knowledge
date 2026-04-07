@@ -5,7 +5,7 @@ topic: invocable-actions-standard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.986Z
+lastCollected: 2026-04-07T09:02:35.186Z
 estimatedTokens: 350
 keywords: [Invocable, Actions, Standard, statically, invoked, basic, action]
 ---

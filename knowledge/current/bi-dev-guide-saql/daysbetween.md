@@ -5,7 +5,7 @@ topic: daysbetween
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.383Z
+lastCollected: 2026-04-07T09:03:14.020Z
 estimatedTokens: 317
 keywords: [daysBetween, number, days, two, dates, function, foreach, statement, Usage]
 ---

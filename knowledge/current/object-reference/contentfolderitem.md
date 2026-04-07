@@ -5,7 +5,7 @@ topic: contentfolderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.106Z
+lastCollected: 2026-04-07T09:04:37.664Z
 estimatedTokens: 401
 keywords: [ContentFolderItem, file, ContentDocument, folder, ContentFolder, resides, ContentWorkspace, API, version, 35.0, later, Calls, Special, Access, Rules]
 ---

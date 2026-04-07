@@ -5,7 +5,7 @@ topic: get-started-by-creating-a-new-dx-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.275Z
+lastCollected: 2026-04-07T09:06:13.135Z
 estimatedTokens: 5907
 keywords: [Started, Creating, New, Project, Let's, say, you're, Salesforce, developer, creates, awesome, org, customizations, declarative, tools]
 ---

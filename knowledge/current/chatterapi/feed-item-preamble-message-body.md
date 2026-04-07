@@ -5,7 +5,7 @@ topic: feed-item-preamble-message-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.785Z
+lastCollected: 2026-04-07T09:03:32.080Z
 estimatedTokens: 203
 keywords: [Feed, Item, Preamble, Message]
 ---

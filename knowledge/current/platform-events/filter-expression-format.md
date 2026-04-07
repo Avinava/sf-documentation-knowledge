@@ -5,7 +5,7 @@ topic: filter-expression-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.804Z
+lastCollected: 2026-04-07T09:05:05.088Z
 estimatedTokens: 996
 keywords: [Filter, Expression, SOQL, supports, subset, operators, contain, expressions, joined, logical, operator, Comparison, Considerations, Allocations]
 ---

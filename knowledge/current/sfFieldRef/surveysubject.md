@@ -5,7 +5,7 @@ topic: surveysubject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.821Z
+lastCollected: 2026-04-07T09:06:08.617Z
 estimatedTokens: 319
 keywords: [SurveySubject, relationship, survey, another, account, case]
 ---

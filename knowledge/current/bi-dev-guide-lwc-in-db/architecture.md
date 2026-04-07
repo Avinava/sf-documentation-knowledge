@@ -5,7 +5,7 @@ topic: architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:02.427Z
+lastCollected: 2026-04-07T09:03:07.904Z
 estimatedTokens: 441
 keywords: [Architecture, Let’s, look, how, custom, Lightning, Web, Component, widgets, fit, CRM, Analytics, dashboard]
 ---

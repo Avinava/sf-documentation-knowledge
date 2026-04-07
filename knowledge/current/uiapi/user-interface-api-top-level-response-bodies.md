@@ -5,8 +5,8 @@ topic: user-interface-api-top-level-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.181Z
-estimatedTokens: 1727
+lastCollected: 2026-04-07T09:06:17.226Z
+estimatedTokens: 1731
 keywords: [User, API, Top-Level, Bodies, requests, resources, They, may, contain, nested]
 ---
 
@@ -50,7 +50,7 @@ A request to a resource always returns an [HTTP response code](atlas.en-us.uiapi
 -   **[List Record Collection](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_list_record_collection.htm)**
     A collection of list view records.
 -   **[Lookup Values](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_values.htm)**
-    Records in a lookup relationship, organized by object type.
+    Records, organized by object type, and metadata in a lookup relationship.
 -   **[Navigation Items](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_nav_items.htm)**
     An ordered list of navigation items (tabs) for the current user.
 -   **[Object Info](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_object_info.htm)**

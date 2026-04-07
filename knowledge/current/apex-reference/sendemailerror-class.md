@@ -5,10 +5,10 @@ topic: sendemailerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.866Z
-estimatedTokens: 663
+lastCollected: 2026-04-07T09:02:18.418Z
+estimatedTokens: 794
 namespace: Messaging
-keywords: [SendEmailError, error, SendEmailResult, may, contain, getFields, getMessage, getStatusCode, Usage, getTargetObjectId]
+keywords: [SendEmailError, error, SendEmailResult, may, contain, Usage, getFields, getMessage, getStatusCode, getTargetObjectId]
 ---
 
 # SendEmailError Class
@@ -24,7 +24,15 @@ Represents an error that the SendEmailResult object may contain.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
+
+## Usage
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexref)
+
+#### Important
+
+Sending an email by using Apex requires domain-level and user-level email verification. System-generated emails also require verification of the From email address. Email delivery fails if any of these verifications is incomplete. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 ## SendEmailError Methods
 

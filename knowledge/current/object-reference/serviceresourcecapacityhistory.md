@@ -5,7 +5,7 @@ topic: serviceresourcecapacityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:16.903Z
+lastCollected: 2026-04-07T09:04:49.289Z
 estimatedTokens: 341
 keywords: [ServiceResourceCapacityHistory, history, changes, made, tracked, service, resource, capacity, record, API, version, 38.0, later, Calls, Special]
 ---

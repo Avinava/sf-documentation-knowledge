@@ -5,7 +5,7 @@ topic: appointmenttopictimeslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.674Z
+lastCollected: 2026-04-07T09:05:26.943Z
 estimatedTokens: 586
 keywords: [AppointmentTopicTimeSlot, lookup, work, group, time, slot, API, version, 52.0, later, Calls, Associated, Objects]
 ---

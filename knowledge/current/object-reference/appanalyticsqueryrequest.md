@@ -5,7 +5,7 @@ topic: appanalyticsqueryrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:04.637Z
+lastCollected: 2026-04-07T09:04:34.738Z
 estimatedTokens: 2073
 keywords: [AppAnalyticsQueryRequest, AppExchange, App, Analytics, data, Calls, Special, Access, Rules, Usage]
 ---

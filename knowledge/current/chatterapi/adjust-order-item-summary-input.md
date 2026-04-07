@@ -5,7 +5,7 @@ topic: adjust-order-item-summary-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.955Z
+lastCollected: 2026-04-07T09:03:20.448Z
 estimatedTokens: 529
 keywords: [Adjust, Order, Item, Summary, Input, Price, adjustments, summaries, together, adjustment, options, adjusting, items, process, fulfilled]
 ---

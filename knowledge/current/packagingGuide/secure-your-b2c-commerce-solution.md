@@ -5,7 +5,7 @@ topic: secure-your-b2c-commerce-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.122Z
+lastCollected: 2026-04-07T09:04:55.366Z
 estimatedTokens: 1468
 keywords: [Secure, B2C, Commerce, Solution, Cartridges, Headless, Integrations, listed, AppExchange, adhere, requirements, Encryption, Cryptography, Secret, Storage]
 ---

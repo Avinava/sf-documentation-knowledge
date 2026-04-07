@@ -5,7 +5,7 @@ topic: develop-experience-builder-sites-the-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.236Z
+lastCollected: 2026-04-07T09:03:39.631Z
 estimatedTokens: 660
 keywords: [Develop, Experience, Builder, Sites, Basics, Developer, Console, development, tool, how, basic, drag-and-drop, Aura, component, tips]
 ---

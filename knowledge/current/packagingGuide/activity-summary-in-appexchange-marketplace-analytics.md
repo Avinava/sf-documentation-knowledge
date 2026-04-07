@@ -5,7 +5,7 @@ topic: activity-summary-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.081Z
+lastCollected: 2026-04-07T09:04:55.233Z
 estimatedTokens: 481
 keywords: [Activity, Summary, AppExchange, Marketplace, Analytics, Check, listing’s, key, metrics, area, tab, helps, understand, how, customers]
 ---

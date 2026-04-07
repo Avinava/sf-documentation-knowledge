@@ -5,7 +5,7 @@ topic: work-with-the-quick-action-and-publisher-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.373Z
+lastCollected: 2026-04-07T09:03:18.217Z
 estimatedTokens: 395
 keywords: [Work, Quick, Action, Publisher, APIs, Lightning, JavaScript, API, Salesforce, Classic, let, interact, actions, you’re, building]
 ---

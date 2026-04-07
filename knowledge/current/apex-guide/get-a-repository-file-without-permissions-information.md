@@ -5,7 +5,7 @@ topic: get-a-repository-file-without-permissions-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.651Z
+lastCollected: 2026-04-07T09:02:33.795Z
 estimatedTokens: 106
 keywords: [Repository, File, Permissions, Call, permission]
 ---

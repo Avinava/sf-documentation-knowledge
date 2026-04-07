@@ -5,7 +5,7 @@ topic: single-sign-on-in-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.879Z
+lastCollected: 2026-04-07T09:04:54.896Z
 estimatedTokens: 747
 keywords: [Sign-on, Environment, Hub, Developing, testing, deploying, apps, means, switching, multiple, Salesforce, environments, providing, login, credentials]
 ---

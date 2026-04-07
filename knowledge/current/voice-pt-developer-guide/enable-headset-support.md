@@ -5,7 +5,7 @@ topic: enable-headset-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.033Z
+lastCollected: 2026-04-07T09:06:18.523Z
 estimatedTokens: 572
 keywords: [Enable, Headset, Support, reps, control, call, actions, accept, mute, unmute, decline, calls, their, headsets]
 ---

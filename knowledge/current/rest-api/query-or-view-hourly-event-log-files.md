@@ -5,7 +5,7 @@ topic: query-or-view-hourly-event-log-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:39.609Z
+lastCollected: 2026-04-07T09:02:34.859Z
 estimatedTokens: 846
 keywords: [Query, View, Hourly, Event, Log, Files, review, events, org, accelerated, basis, increments, recent, activity, give]
 ---

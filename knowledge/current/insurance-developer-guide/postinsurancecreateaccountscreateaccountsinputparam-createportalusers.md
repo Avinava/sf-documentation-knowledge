@@ -5,7 +5,7 @@ topic: postinsurancecreateaccountscreateaccountsinputparam-createportalusers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.954Z
+lastCollected: 2026-04-07T09:04:00.552Z
 estimatedTokens: 336
 keywords: [postInsuranceCreateAccounts, createAccountsInputParam, createPortalUsers, person, accounts, portal, users, group, census, members, API, Version, Requires, Chatter]
 ---

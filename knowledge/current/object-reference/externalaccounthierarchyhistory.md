@@ -5,7 +5,7 @@ topic: externalaccounthierarchyhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.896Z
+lastCollected: 2026-04-07T09:04:41.060Z
 estimatedTokens: 480
 namespace: Percent
 keywords: [ExternalAccountHierarchyHistory, history, changes, external, account, hierarchy, API, version, 50.0, later, Calls, Special, Access, Rules]

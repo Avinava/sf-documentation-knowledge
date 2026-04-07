@@ -5,7 +5,7 @@ topic: release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:00.599Z
+lastCollected: 2026-04-07T09:03:05.468Z
 estimatedTokens: 53
 keywords: [Release, Notes, View, latest, features, Accounting, Subledger]
 ---

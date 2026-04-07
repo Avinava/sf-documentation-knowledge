@@ -5,7 +5,7 @@ topic: verify-policy-coverage-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.349Z
+lastCollected: 2026-04-07T09:04:02.886Z
 estimatedTokens: 326
 keywords: [Verify, Policy, Coverage, POST, applicability, loss, date, under, insurance, eligible, coverages, processed, claims]
 ---
@@ -72,7 +72,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/policies/0YTx0000000001qEAA/coverages/0cYx0000000002fEAA/verify
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/policies/0YTx0000000001qEAA/coverages/0cYx0000000002fEAA/verify
 ```
 
 ```

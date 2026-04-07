@@ -5,7 +5,7 @@ topic: secure-your-agentforce-prompts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.118Z
+lastCollected: 2026-04-07T09:04:55.353Z
 estimatedTokens: 1043
 keywords: [Secure, Agentforce, Prompts, prompt, structured, instructions, provided, agent, behavior, solutions, listed, AppExchange, includes, adhere, requirements]
 ---

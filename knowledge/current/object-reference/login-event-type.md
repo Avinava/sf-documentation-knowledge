@@ -5,8 +5,8 @@ topic: login-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:09.412Z
-estimatedTokens: 2993
+lastCollected: 2026-04-07T09:04:40.481Z
+estimatedTokens: 3149
 keywords: [Login, Event, events, contain, org’s, user, history]
 ---
 
@@ -33,7 +33,8 @@ For details about event monitoring, see the [Trailhead Event Monitoring module](
 | --- | --- |
 | API_TYPE | TypeStringDescriptionThe type of API request.Possible values are:D—Apex ClassE—SOAP EnterpriseM—SOAP MetadataP—SOAP PartnerS—SOAP ApexT—SOAP Toolingf—Feedl—Live Agentp—SOAP ClientSync |
 | API_VERSION | TypeStringDescriptionThe version of the API that’s being used.For example: 36.0. |
-| AUTHENTICATION_METHOD_REFERENCE | TypeStringDescriptionThe authentication method used by a third-party identification provider for an OpenID Connect single sign-on protocol. This field is available in API version 51.0 and later. |
+| AUTHENTICATION_CONTEXT_CLASS_REFERENCE | TypeStringDescriptionIf provided by a third-party identity provider, the authentication method indicated in the Authentication Context Class Reference (ACR) claim.SAML providers—Stores the value of the AuthnContextClassRef statement in the SAML response.OpenID Connect providers—Stores the value of the ACR claim in the ID tokenThis field is available in API version 66.0 and later. |
+| AUTHENTICATION_METHOD_REFERENCE | TypeStringDescriptionIf provided by a third-party identity provider, the authentication method indicated in the Authentication Method Reference (AMR) claim.SAML providers—Stores the value of any attribute named AMR or authmethodsreferences in the SAML response.OpenID Connect providers—Stores the value of the AMR claim in the ID token.This field is available in API version 51.0 and later. |
 | AUTHENTICATION_SERVICE_ID | TypeIdDescriptionThe 15-character ID for the authentication service used to log in. This field stores IDs for these authentication services.SAML single sign-on providersToken exchange handlersAvailable in API version 60.0 and later. |
 | BROWSER_TYPE | TypeStringDescriptionThe identifier string returned by the browser used at login.Example values are:Go-http-client/1.1Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv%3A50.0) Gecko/20100101 Firefox/50.0Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36 |
 | CIPHER_SUITE | TypeStringDescriptionThe TLS cipher suite used for the login. Values are OpenSSL-style cipher suite names, with hyphen delimiters. For more information, see OpenSSL Cryptography and SSL/TLS Toolkit. |

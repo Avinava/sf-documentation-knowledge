@@ -5,7 +5,7 @@ topic: understand-mobile-development-for-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.214Z
+lastCollected: 2026-04-07T09:04:25.578Z
 estimatedTokens: 546
 keywords: [Understand, Mobile, Development, Lightning, Web, Components, best, way, start, building, mobile-ready, deep, dive]
 ---

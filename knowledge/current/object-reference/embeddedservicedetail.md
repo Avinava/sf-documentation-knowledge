@@ -5,7 +5,7 @@ topic: embeddedservicedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:08.498Z
+lastCollected: 2026-04-07T09:04:39.446Z
 estimatedTokens: 1636
 keywords: [EmbeddedServiceDetail, metadata, catalog, underlying, Embedded, Service, setup, objects, defined, EmbeddedServiceConfig, deployment, guest, users, don’t, direct]
 ---

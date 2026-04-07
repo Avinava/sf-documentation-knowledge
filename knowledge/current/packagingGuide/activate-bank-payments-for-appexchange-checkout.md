@@ -5,7 +5,7 @@ topic: activate-bank-payments-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.285Z
+lastCollected: 2026-04-07T09:04:53.927Z
 estimatedTokens: 634
 keywords: [Activate, Bank, Payments, AppExchange, Checkout, let, customers, pay, solution, transfer, payment, Stripe, reviews, approves, you’re]
 ---

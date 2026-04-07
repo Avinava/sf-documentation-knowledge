@@ -5,7 +5,7 @@ topic: begin-promotion-import
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.664Z
+lastCollected: 2026-04-07T09:05:17.305Z
 estimatedTokens: 345
 keywords: [Begin, Promotion, Import, endpoint, initializes, external, system, group, promotions, retrieved, thie, end, point, announces, number]
 ---

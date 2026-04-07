@@ -5,7 +5,7 @@ topic: trialforce-key-concepts-and-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.395Z
+lastCollected: 2026-04-07T09:04:55.823Z
 estimatedTokens: 911
 keywords: [Trialforce, Key, Concepts, Relationships, setup, consists, management, org, source, orgs, templates, how, parts, work, together]
 ---

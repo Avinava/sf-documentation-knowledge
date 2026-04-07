@@ -5,7 +5,7 @@ topic: customize-the-ios-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.180Z
+lastCollected: 2026-04-07T09:04:18.758Z
 estimatedTokens: 521
 keywords: [Customize, iOS, SDK, build, Loyalty, Management, Mobile, colors, fonts, suit, requirements, replace, images, logos, included]
 ---

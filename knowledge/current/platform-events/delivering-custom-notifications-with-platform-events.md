@@ -5,7 +5,7 @@ topic: delivering-custom-notifications-with-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.916Z
+lastCollected: 2026-04-07T09:05:05.287Z
 estimatedTokens: 350
 keywords: [Delivering, Custom, Notifications, Platform, Events, part, Salesforce’s, enterprise, messaging, event-driven, architecture, enable, apps, communicate, inside]
 ---

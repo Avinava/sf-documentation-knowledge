@@ -5,7 +5,7 @@ topic: catalogedapiversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:04.322Z
+lastCollected: 2026-04-07T09:02:38.089Z
 estimatedTokens: 315
 keywords: [CatalogedApiVersion, version, API, consumable, Salesforce, Catalog, Parent, File, Suffix, Directory, Location, Special, Access, Rules, Declarative]
 ---

@@ -5,7 +5,7 @@ topic: considerations-for-deploying-authenticated-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:23.327Z
+lastCollected: 2026-04-07T09:03:39.776Z
 estimatedTokens: 614
 keywords: [Considerations, Deploying, Authenticated, LWR, Sites, Beginning, Winter, ’23, new, created, Experience, Builder, Connect, API, don’t]
 ---

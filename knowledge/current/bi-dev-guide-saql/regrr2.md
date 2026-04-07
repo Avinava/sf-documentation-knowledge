@@ -5,7 +5,7 @@ topic: regrr2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.338Z
+lastCollected: 2026-04-07T09:03:13.937Z
 estimatedTokens: 326
 keywords: [regr_r2, Uses, two, numerical, calculate, R-squared, goodness, fit, understand, how, well, trend, line, fits, data]
 ---

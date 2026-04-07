@@ -5,7 +5,7 @@ topic: cgcloudtourtemplatetourcheckc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.240Z
+lastCollected: 2026-04-07T09:05:21.865Z
 estimatedTokens: 1143
 keywords: [cgcloud__Tour_Template_Tour_Check__c, Stores, relationship, tour, template, check, define, relevant, checks, API, version, 54.0, later, cgcloud, _Tour]
 ---

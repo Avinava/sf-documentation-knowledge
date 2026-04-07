@@ -5,7 +5,7 @@ topic: researchstudycandidate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.325Z
+lastCollected: 2026-04-07T09:04:11.884Z
 estimatedTokens: 1352
 keywords: [ResearchStudyCandidate, research, participant, includes, associated, account, status, subject, API, version, 61.0, later, Calls, Objects]
 ---

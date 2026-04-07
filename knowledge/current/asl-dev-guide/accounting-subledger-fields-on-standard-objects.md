@@ -5,7 +5,7 @@ topic: accounting-subledger-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.592Z
+lastCollected: 2026-04-07T09:03:05.454Z
 estimatedTokens: 237
 keywords: [Accounting, Subledger, Standard, Objects, Salesforce, orgs, enabled]
 ---

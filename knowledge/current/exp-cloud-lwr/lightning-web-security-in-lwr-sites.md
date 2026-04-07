@@ -5,7 +5,7 @@ topic: lightning-web-security-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.791Z
+lastCollected: 2026-04-07T09:03:46.214Z
 estimatedTokens: 524
 keywords: [Lightning, Web, Security, LWR, Sites, Instead, Locker, Experience, Cloud, LWS, new, architecture, components, supports, cross-namespace]
 ---

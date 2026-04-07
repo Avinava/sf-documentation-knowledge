@@ -5,7 +5,7 @@ topic: forecastingcolumndefinition-formula-field-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.592Z
+lastCollected: 2026-04-07T09:04:41.849Z
 estimatedTokens: 1465
 keywords: [ForecastingColumnDefinition, Formula, API, operators, functions, construct, formulas, apply, singular, cumulative, category, rollups, simplification, included, rollup]
 ---

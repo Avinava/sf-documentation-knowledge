@@ -5,7 +5,7 @@ topic: customize-a-flows-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.605Z
+lastCollected: 2026-04-07T09:04:59.154Z
 estimatedTokens: 714
 keywords: [Customize, Flow’s, User, you’ve, embedded, flow, Visualforce, looks, run, time, applying, custom, styles, CSS, combination]
 ---

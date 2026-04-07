@@ -5,7 +5,7 @@ topic: export-data-from-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.996Z
+lastCollected: 2026-04-07T09:04:55.076Z
 estimatedTokens: 453
 keywords: [Export, Data, AppExchange, Marketplace, Analytics, explore, Salesforce, another, tool, exported, comma-separated, csv, filters, applied, across]
 ---

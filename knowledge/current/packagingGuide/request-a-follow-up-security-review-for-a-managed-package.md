@@ -5,7 +5,7 @@ topic: request-a-follow-up-security-review-for-a-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.250Z
+lastCollected: 2026-04-07T09:04:55.623Z
 estimatedTokens: 470
 keywords: [Follow-Up, Security, Review, Managed, Package, AppExchange, Partner, Console, either, changed, code, fix, vulnerabilities, discovered, previous]
 ---

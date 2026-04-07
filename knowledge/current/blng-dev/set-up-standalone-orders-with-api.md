@@ -5,7 +5,7 @@ topic: set-up-standalone-orders-with-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.940Z
+lastCollected: 2026-04-07T09:03:17.755Z
 estimatedTokens: 507
 keywords: [Standalone, Orders, API, Manage, order, products, Salesforce, Billing, creating, CPQ, quote, call, They’re, useful, quotes]
 ---

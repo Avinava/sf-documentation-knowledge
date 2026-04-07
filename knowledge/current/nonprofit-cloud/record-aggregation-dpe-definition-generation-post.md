@@ -5,7 +5,7 @@ topic: record-aggregation-dpe-definition-generation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.850Z
+lastCollected: 2026-04-07T09:04:29.994Z
 estimatedTokens: 439
 keywords: [Record, Aggregation, DPE, Definition, Generation, POST, Generate, Data, Processing, Engine, definitions, configured, Run, aggregate, records]
 ---

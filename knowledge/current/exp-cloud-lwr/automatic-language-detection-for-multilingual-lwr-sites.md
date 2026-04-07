@@ -5,7 +5,7 @@ topic: automatic-language-detection-for-multilingual-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.765Z
+lastCollected: 2026-04-07T09:03:46.166Z
 estimatedTokens: 586
 keywords: [Automatic, Language, Detection, Multilingual, LWR, Sites, customers, access, site, they, localized, that’s, their, browser, settings]
 ---

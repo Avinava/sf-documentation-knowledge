@@ -5,7 +5,7 @@ topic: claimparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.791Z
+lastCollected: 2026-04-07T09:03:48.949Z
 estimatedTokens: 1076
 keywords: [ClaimParticipant, junction, associates, Claim, Account, participants, include, insured, claimants, witnesses, Calls, Associated, Objects]
 ---

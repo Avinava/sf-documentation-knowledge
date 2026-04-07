@@ -5,7 +5,7 @@ topic: aiinsightvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.732Z
+lastCollected: 2026-04-07T09:05:29.918Z
 estimatedTokens: 418
 keywords: [AIInsightValue, Einstein, prediction, insight, API, version, 47.0, later]
 ---

@@ -5,7 +5,7 @@ topic: deploying-and-retrieving-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:02.784Z
+lastCollected: 2026-04-07T09:02:36.636Z
 estimatedTokens: 916
 keywords: [Deploying, Retrieving, Metadata, deploy, retrieve, calls, move, XML, files, Salesforce, org, local, file, system, manage]
 ---

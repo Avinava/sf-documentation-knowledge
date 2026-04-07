@@ -5,7 +5,7 @@ topic: realtimealertevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:29.146Z
+lastCollected: 2026-04-07T09:05:06.770Z
 estimatedTokens: 461
 keywords: [RealtimeAlertEvent, Notifies, subscribers, Amazon, CloudWatch, alarm, events, Service, Cloud, Voice, Connect, instance, API, version, 54.0]
 ---

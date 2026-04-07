@@ -5,7 +5,7 @@ topic: getchatlog-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.747Z
+lastCollected: 2026-04-07T09:03:03.629Z
 estimatedTokens: 606
 keywords: [getChatLog, Lightning, Experience, chat, log, associated, specific, recordId, works, console, apps, Arguments, argumentObj, Sample, Code, Enhanced, Messaging]
 ---

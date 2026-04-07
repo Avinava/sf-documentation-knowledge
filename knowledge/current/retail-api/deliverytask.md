@@ -5,7 +5,7 @@ topic: deliverytask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.536Z
+lastCollected: 2026-04-07T09:05:22.203Z
 estimatedTokens: 750
 keywords: [DeliveryTask, shipments, orders, delivered, store, visit, API, version, 50.0, later, Calls, Associated, Objects]
 ---

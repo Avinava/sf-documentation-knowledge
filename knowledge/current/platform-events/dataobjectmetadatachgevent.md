@@ -5,7 +5,7 @@ topic: dataobjectmetadatachgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.530Z
+lastCollected: 2026-04-07T09:05:06.080Z
 estimatedTokens: 524
 keywords: [DataObjectMetadataChgEvent, Notifies, subscribers, metadata, change, Data, Cloud, objects, Lake, Model, Calculated, Insight, API, version, 53.0]
 ---

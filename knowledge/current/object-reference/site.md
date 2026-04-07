@@ -5,7 +5,7 @@ topic: site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:17.206Z
+lastCollected: 2026-04-07T09:04:49.685Z
 estimatedTokens: 2726
 keywords: [Site, website, integrated, org, API, version, 16.0, later, Calls, Special, Access, Rules, Usage, Associated, Objects]
 ---

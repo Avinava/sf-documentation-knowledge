@@ -5,7 +5,7 @@ topic: omnisupervisorconfigaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.395Z
+lastCollected: 2026-04-07T09:04:45.116Z
 estimatedTokens: 448
 keywords: [OmniSupervisorConfigAction, actions, supervisors, Command, Center, Service, configuration, API, version, 56.0, later, Calls, Special, Access, Rules]
 ---

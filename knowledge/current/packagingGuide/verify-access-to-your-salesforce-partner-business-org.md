@@ -5,7 +5,7 @@ topic: verify-access-to-your-salesforce-partner-business-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.482Z
+lastCollected: 2026-04-07T09:04:54.258Z
 estimatedTokens: 260
 keywords: [Verify, Access, Salesforce, Partner, Business, Org, you’re, eligible, PBO, tools, setting, managing, AppExchange, ISV, consulting]
 ---

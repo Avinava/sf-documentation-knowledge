@@ -5,7 +5,7 @@ topic: employmentcompensationsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.050Z
+lastCollected: 2026-04-07T09:05:44.527Z
 estimatedTokens: 305
 keywords: [EmploymentCompensationSummary, stakeholder, engagement, assess, importance, environmental, social, governance, ESG, issues]
 ---

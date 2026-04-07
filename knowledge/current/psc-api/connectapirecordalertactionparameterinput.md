@@ -5,7 +5,7 @@ topic: connectapirecordalertactionparameterinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.627Z
+lastCollected: 2026-04-07T09:05:07.414Z
 estimatedTokens: 98
 keywords: [Representation, record, alert, action]
 ---

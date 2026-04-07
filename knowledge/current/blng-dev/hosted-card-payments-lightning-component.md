@@ -5,7 +5,7 @@ topic: hosted-card-payments-lightning-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:08.858Z
+lastCollected: 2026-04-07T09:03:17.646Z
 estimatedTokens: 1286
 keywords: [Hosted, Card, Payments, Lightning, Component, force, cardPayment, user, payment, uses, Salesforce, Billing, collect, perform, actions]
 ---

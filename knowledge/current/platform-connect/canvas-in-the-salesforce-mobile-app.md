@@ -5,7 +5,7 @@ topic: canvas-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.366Z
+lastCollected: 2026-04-07T09:05:04.363Z
 estimatedTokens: 1514
 keywords: [Canvas, Salesforce, Mobile, App, expose, apps, enterprise-class, gives, real-time, access, office, it’s, organized, getting, work]
 ---

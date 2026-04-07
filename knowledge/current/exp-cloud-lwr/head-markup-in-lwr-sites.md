@@ -5,7 +5,7 @@ topic: head-markup-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.796Z
+lastCollected: 2026-04-07T09:03:46.220Z
 estimatedTokens: 815
 keywords: [Head, Markup, LWR, Sites, Experience, Cloud, control, over, included, Now, open, window, access]
 ---

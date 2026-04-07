@@ -5,7 +5,7 @@ topic: territory2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:10.455Z
+lastCollected: 2026-04-07T09:02:44.620Z
 estimatedTokens: 2016
 keywords: [Territory2, metadata, associated, sales, territory, extends, inherits, fullName, Territories, enabled, File, Suffix, Directory, Location, Version]
 ---

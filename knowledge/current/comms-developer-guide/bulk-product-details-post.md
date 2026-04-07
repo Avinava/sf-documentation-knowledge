@@ -5,8 +5,8 @@ topic: bulk-product-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.040Z
-estimatedTokens: 919
+lastCollected: 2026-04-07T09:03:39.203Z
+estimatedTokens: 970
 keywords: [Bulk, Product, POST, Retrieve, multiple, products, API, composite, Discovery]
 ---
 
@@ -33,7 +33,7 @@ Resource example
 
 Available version
 
-61.0
+66.0
 
 HTTP methods
 
@@ -73,20 +73,20 @@ Properties
 
 Response body for POST
 
-Bulk Product Details
+[Bulk Product Details](atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_cpq_base_bulk_details_output.htm "Output representation of the response that contains the details of multiple products.")
 
 ## Code Examples
 
 ```
-/connect/cpq/products/bulk
+/connect/consumer/products/bulk
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/bulk
+https://yourInstance.salesforce.com/services/data/v66.0/connect/consumer/products/bulk
 ```
 
 ```
-{
+"bulkProductSpecificationsRequest": {
   "productData": [
     {
       "productId": "01txx0000006ivJAAQ",
@@ -138,3 +138,11 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/bul
   }
 }
 ```
+
+## Related Topics
+
+- Context Data Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_additional_fields_input.htm)
+- Product Data Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_product_data_input.htm)
+- User Context Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_user_context_input.htm)
+- Bulk Product Details (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_cpq_base_bulk_details_output.htm)

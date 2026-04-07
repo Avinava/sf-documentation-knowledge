@@ -5,7 +5,7 @@ topic: keep-steps-visible-on-your-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.902Z
+lastCollected: 2026-04-07T09:05:24.043Z
 estimatedTokens: 331
 keywords: [Keep, Steps, Visible, Hide, remove, option, actions, want, agents, can’t, they, remain, unless, they’re, completed]
 ---

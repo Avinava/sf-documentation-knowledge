@@ -5,7 +5,7 @@ topic: memberplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.557Z
+lastCollected: 2026-04-07T09:04:11.112Z
 estimatedTokens: 1779
 keywords: [MemberPlan, insurance, coverage, member, subscriber, Calls, Associated, Objects]
 ---
@@ -41,7 +41,7 @@ create(),  delete(),  describeLayout(),  describeSObjects(),  getDeleted(), 
 | IssuerNumber | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionReference number for the issuer of the plan. |
 | LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
 | LastVerification | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date on which this plan was last verified. |
-| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | MemberId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the member’s record. |
 | MemberNumber | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe member’s reference number for this plan. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe name by which the member knows this plan. |

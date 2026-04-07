@@ -5,7 +5,7 @@ topic: flow-for-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.685Z
+lastCollected: 2026-04-07T09:03:05.587Z
 estimatedTokens: 301
 keywords: [Flow, Automotive, Cloud, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---

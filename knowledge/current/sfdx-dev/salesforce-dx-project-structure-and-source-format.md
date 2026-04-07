@@ -6,7 +6,7 @@ topic: salesforce-dx-project-structure-and-source-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.645Z
+lastCollected: 2026-04-07T09:06:13.605Z
 estimatedTokens: 1850
 keywords: [Salesforce, Project, Structure, Source, specific, uses, different, files, file, extensions, Metadata, API, retrieve, org, start]
 ---

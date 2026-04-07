@@ -5,7 +5,7 @@ topic: canvas-personal-app-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.462Z
+lastCollected: 2026-04-07T09:05:04.540Z
 estimatedTokens: 799
 keywords: [Canvas, Personal, App, Process, Creating, similar, any, However, distribute, directly, end, users, install, via, link]
 ---

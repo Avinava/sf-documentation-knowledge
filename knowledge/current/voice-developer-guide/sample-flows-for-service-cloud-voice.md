@@ -5,8 +5,8 @@ topic: sample-flows-for-service-cloud-voice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.461Z
-estimatedTokens: 3144
+lastCollected: 2026-04-07T09:06:17.623Z
+estimatedTokens: 3260
 keywords: [Sample, Flows, Service, Cloud, Voice, Salesforce, several, out-of-the, box, Amazon, Connect, inbound, outbound, transfer, contact]
 ---
 
@@ -42,6 +42,7 @@ Salesforce offers the following sample flows, which you can customize for your S
 -   **Sample SCV Outbound Flow With Transcription Using Amazon Transcribe**: Starts media streaming. Also starts transcription using Amazon Transcribe, capturing and transcribing audio for outbound voice calls. If you use this preferred flow, you can’t use the Sample SCV Outbound Flow With Transcription Using Amazon Transcribe flow. Since the Sample SCV Outbound Flow With [Transcription Using Contact Lens](atlas.en-us.voice_developer_guide.meta/voice_developer_guide/voice_contact_lens.htm "Use Contact Lens to transcribe calls that are longer than 15 minutes. If you use Amazon Transcribe, only the first 15 minutes of a call are transcribed due to a Lambda function limitation. To trigger real-time transcription of a call with Contact Lens, enable Contact Lens and real-time transcription for Amazon Connect in your contact flow.") offers more robust transcription features, consider using that flow instead of this one. [JSON file](https://github.com/service-cloud-voice/examples-from-doc/blob/main/ContactFlows/Sample%20SCV%20Outbound%20Flow%20With%20Transcription%20Using%20Amazon%20Transcribe)
 -   **Sample SCV Outbound Flow With Transcription Using Contact Lens**: Starts transcription using Contact Lens for Amazon Connect, capturing and transcribing audio for outbound voice calls. If you use this preferred flow, you can’t use the Sample SCV Outbound Flow With Transcription Using Amazon Transcribe flow. [JSON file](https://github.com/service-cloud-voice/examples-from-doc/blob/main/ContactFlows/Sample%20SCV%20Outbound%20Flow%20with%20Transcription%20using%20Contact%20Lens)
 -   **Sample SCV Outbound Flow From Rep With CallerId Override**: Makes an outbound call with the caller ID displayed as the number assigned to a specific rep. [JSON file](https://github.com/service-cloud-voice/examples-from-doc/blob/main/ContactFlows/Sample%20SCV%20Outbound%20Flow%20From%20Rep%20With%20Caller%20ID%20Override.json)
+-   **Sample SCV Outbound Flow From Rep With Voicemail Drop**: Starts transcription and media streaming for an outbound call, allowing the rep to drop a pre-recorded voicemail if an answering machine is detected. Reps can disconnect and move to the next work item while the system plays the recording. [JSON file](https://github.com/service-cloud-voice/examples-from-doc/blob/main/ContactFlows/Sample%20SCV%20Outbound%20Flow%20From%20Rep%20With%20Voicemail%20Drop)
 
 ## Transfer Flows
 

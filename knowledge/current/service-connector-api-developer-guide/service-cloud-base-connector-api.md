@@ -5,7 +5,7 @@ topic: service-cloud-base-connector-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.327Z
+lastCollected: 2026-04-07T09:05:29.315Z
 estimatedTokens: 296
 keywords: [Service, Cloud, Base, Connector, API, initialize, send, Salesforce, events, occur, Contact, Center, CCaaS, telephony, system]
 ---

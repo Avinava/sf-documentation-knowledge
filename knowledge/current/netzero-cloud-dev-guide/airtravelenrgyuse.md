@@ -5,7 +5,7 @@ topic: airtravelenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.411Z
+lastCollected: 2026-04-07T09:04:27.169Z
 estimatedTokens: 4629
 keywords: [AirTravelEnrgyUse, energy, consumption, air, travel, API, version, 54.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: ocr-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:53.690Z
+lastCollected: 2026-04-07T09:02:56.338Z
 estimatedTokens: 774
 keywords: [OCR, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller]
 ---

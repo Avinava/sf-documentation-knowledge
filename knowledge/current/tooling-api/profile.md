@@ -5,7 +5,7 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.074Z
+lastCollected: 2026-04-07T09:02:48.702Z
 estimatedTokens: 802
 keywords: [Profile, user, user’s, permission, perform, different, functions, Salesforce, extends, Metadata, inherits, fullName, SOAP, Calls, REST]
 ---

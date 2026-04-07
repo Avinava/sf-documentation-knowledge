@@ -5,7 +5,7 @@ topic: prevent-secure-coding-violations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.127Z
+lastCollected: 2026-04-07T09:04:55.372Z
 estimatedTokens: 1585
 keywords: [Prevent, Secure, Coding, Violations, solutions, listed, AppExchange, adhere, security, requirements, likely, appear, why, they, pose]
 ---

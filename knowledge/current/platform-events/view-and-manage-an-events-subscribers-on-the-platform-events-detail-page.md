@@ -5,8 +5,8 @@ topic: view-and-manage-an-events-subscribers-on-the-platform-events-detail-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.841Z
-estimatedTokens: 1461
+lastCollected: 2026-04-07T09:05:05.180Z
+estimatedTokens: 1458
 keywords: [View, Manage, Event’s, Subscribers, Platform, Detail, triggers, flows, processes, subscribed, event, Subscriptions, Apex, Subscription, States]
 ---
 
@@ -44,7 +44,7 @@ View a list of all triggers, processes, and platform event–triggered flows tha
     Why are you seeing flow version details when you click a process? Similar to a flow, a running instance of a process is a flow interview. The information that you see on the Flow Version page is about the process. You can click the flow API name of the process to view the list of processes for your org.
 
 
-![List of subscribers for the platform event](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform_events_subscriptions_list.png&folder=platform_events)
+![List of subscribers for the platform event](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform_events_subscriptions_list.png&folder=platform_events)
 
 The list shows the replay ID of the event that the system last processed (Last Processed Id field) and the event last published (Last Published Id field). Knowing which replay ID was last processed is useful when there’s a gap in the events published and processed. For example, if a trigger contains complex logic that causes a delay in processing large batches of incoming events.
 

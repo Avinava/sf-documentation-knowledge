@@ -5,7 +5,7 @@ topic: enblprogramtasksubcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:06.197Z
+lastCollected: 2026-04-07T09:02:39.960Z
 estimatedTokens: 967
 keywords: [EnblProgramTaskSubCategory, custom, exercise, Enablement, admin, adds, program, Builder, requires, corresponding, EnblProgramTaskDefinition, record, LearningItem, LearningItemType, records]
 ---

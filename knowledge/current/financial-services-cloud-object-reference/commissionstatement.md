@@ -5,7 +5,7 @@ topic: commissionstatement
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:29.832Z
+lastCollected: 2026-04-07T09:03:49.045Z
 estimatedTokens: 1454
 keywords: [CommissionStatement, commission, summary, associated, party, Statement, Line, Item, API, version, later, Calls, Objects]
 ---

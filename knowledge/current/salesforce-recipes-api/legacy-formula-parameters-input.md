@@ -5,7 +5,7 @@ topic: legacy-formula-parameters-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.291Z
+lastCollected: 2026-04-07T09:05:24.690Z
 estimatedTokens: 130
 keywords: [Legacy, Formula, Input]
 ---

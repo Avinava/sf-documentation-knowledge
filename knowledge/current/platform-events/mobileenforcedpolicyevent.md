@@ -5,7 +5,7 @@ topic: mobileenforcedpolicyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.978Z
+lastCollected: 2026-04-07T09:05:06.576Z
 estimatedTokens: 847
 keywords: [MobileEnforcedPolicyEvent, Tracks, enforcement, Enhanced, Mobile, Security, policy, events, Salesforce, app, created, launch, user, rechecks, batched]
 ---

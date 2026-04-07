@@ -5,7 +5,7 @@ topic: track-changes-between-your-project-and-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.648Z
+lastCollected: 2026-04-07T09:06:13.610Z
 estimatedTokens: 1046
 keywords: [Track, Changes, Project, Org, source, tracking, local, scratch, sandbox, code]
 ---

@@ -5,7 +5,7 @@ topic: inputs-and-binary-file-upload-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.813Z
+lastCollected: 2026-04-07T09:03:36.991Z
 estimatedTokens: 3055
 keywords: [Inputs, Binary, File, Upload, Examples, HTTP, POST, PATCH, PUT, requests, uploading, files, Input, feed, element]
 ---

@@ -5,7 +5,7 @@ topic: assetstateperiodattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:24.292Z
+lastCollected: 2026-04-07T09:02:03.377Z
 estimatedTokens: 732
 keywords: [AssetStatePeriodAttribute, virtual, holds, key-value, pair, asset, attribute, state, period, child, AssetStatePeriod, API, version, 60.0, later]
 ---

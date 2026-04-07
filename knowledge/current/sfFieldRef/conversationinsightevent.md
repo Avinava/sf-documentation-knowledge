@@ -5,7 +5,7 @@ topic: conversationinsightevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.592Z
+lastCollected: 2026-04-07T09:05:41.409Z
 estimatedTokens: 294
 keywords: [ConversationInsightEvent, Notifies, subscribers, whenever, Einstein, Insight, rule, triggered, API, version, 60.0, later]
 ---

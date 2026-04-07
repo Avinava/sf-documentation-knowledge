@@ -5,7 +5,7 @@ topic: coaserviceorderrecallinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.261Z
+lastCollected: 2026-04-07T09:04:53.874Z
 estimatedTokens: 158
 keywords: [COA_ServiceOrderRecallInput, Wrapper, input, passed, recall, operation, COA, _ServiceOrderRecallInput]
 ---

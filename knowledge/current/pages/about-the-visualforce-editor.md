@@ -5,7 +5,7 @@ topic: about-the-visualforce-editor
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.258Z
+lastCollected: 2026-04-07T09:05:00.179Z
 estimatedTokens: 798
 keywords: [Visualforce, Editor, editing, pages, development, mode, footer, Setup, functionality]
 ---

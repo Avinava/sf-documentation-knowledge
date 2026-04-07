@@ -5,7 +5,7 @@ topic: retrieve-source-from-the-scratch-org-to-your-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.337Z
+lastCollected: 2026-04-07T09:06:13.221Z
 estimatedTokens: 1318
 keywords: [Retrieve, Source, Scratch, Org, Project, initial, deploy, changes, tracked, local, file, system, change, metadata, keep]
 ---

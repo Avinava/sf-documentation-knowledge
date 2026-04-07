@@ -5,7 +5,7 @@ topic: tpmpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.674Z
+lastCollected: 2026-04-07T09:05:17.322Z
 estimatedTokens: 780
 keywords: [TPM_Promotion, rules, linked, TPM_Promotion.Promotion, output, entities, executed, generated, previous, TPM, _Promotion, resetPromotion, movePromotionTimeframe2, manageTacticProductFilterCopy2, manageParticipatingCustomersCopy2]
 ---

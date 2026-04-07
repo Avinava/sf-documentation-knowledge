@@ -5,7 +5,7 @@ topic: docgenbtchstschgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.712Z
+lastCollected: 2026-04-07T09:03:38.599Z
 estimatedTokens: 554
 keywords: [DocGenBtchStsChgEvent, change, status, batch, document, generation, groups, multiple, requests, associating, individual, API, version, 62.0, later]
 ---

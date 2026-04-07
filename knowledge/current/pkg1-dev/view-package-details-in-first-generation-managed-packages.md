@@ -5,7 +5,7 @@ topic: view-package-details-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.381Z
+lastCollected: 2026-04-07T09:05:01.542Z
 estimatedTokens: 2216
 keywords: [View, Package, First-Generation, Managed, Packages, Setup, enter, Quick, box, select, Click, including, added, components, whether]
 ---

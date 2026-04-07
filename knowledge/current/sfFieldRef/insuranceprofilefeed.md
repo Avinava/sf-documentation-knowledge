@@ -5,7 +5,7 @@ topic: insuranceprofilefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.608Z
+lastCollected: 2026-04-07T09:05:50.823Z
 estimatedTokens: 361
 keywords: [InsuranceProfileFeed, Feed, tracking, InsuranceProfile]
 ---

@@ -5,7 +5,7 @@ topic: aggregate-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.097Z
+lastCollected: 2026-04-07T09:05:24.365Z
 estimatedTokens: 141
 keywords: [Aggregate, Input, data, recipe, node]
 ---

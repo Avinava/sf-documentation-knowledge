@@ -5,7 +5,7 @@ topic: healthcareprovidernpi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.259Z
+lastCollected: 2026-04-07T09:03:58.313Z
 estimatedTokens: 1235
 keywords: [HealthcareProviderNpi, identifiers, National, Provider, Identifier, assigned, every, facility, licensed, practitioner, United, States, includes, NPI, date]
 ---
@@ -33,7 +33,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | EffectiveTo | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date on which this NPI is no longer effective. |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the record is active. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionPractitioner or facility name as listed in the NPI database. |
 | Npi | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionTen-digit identifier for a provider from the National Plan and Provider Enumeration System. |
 | NpiType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIdentifies whether the NPI is for an individual or an organization. |

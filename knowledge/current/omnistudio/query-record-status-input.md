@@ -5,7 +5,7 @@ topic: query-record-status-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:49.216Z
+lastCollected: 2026-04-07T09:02:51.810Z
 estimatedTokens: 98
 keywords: [Query, Record, Status, Input, representation, error, messages, data, records]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudcontractpaymenttacticc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.358Z
+lastCollected: 2026-04-07T09:05:19.758Z
 estimatedTokens: 1436
 keywords: [cgcloud__Contract_Payment_Tactic__c, Stores, relationship, contract, payment, tactics, check, applicable, customer, fulfilled, agreement, API, version, 54.0, later]
 ---

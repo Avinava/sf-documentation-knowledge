@@ -5,7 +5,7 @@ topic: bookappointmentresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.320Z
+lastCollected: 2026-04-07T09:03:51.823Z
 estimatedTokens: 1400
 keywords: [BookAppointmentResponse, appointment, booking, external, scheduling, system, appointmentId, jsonResponse, patientId, slotEnd, slotStart, sourceAppointmentId, sourcePatientId, sourceSystem, status]
 ---

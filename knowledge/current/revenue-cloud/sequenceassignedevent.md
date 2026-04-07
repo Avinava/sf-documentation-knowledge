@@ -5,7 +5,7 @@ topic: sequenceassignedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.854Z
+lastCollected: 2026-04-07T09:02:05.589Z
 estimatedTokens: 504
 keywords: [SequenceAssignedEvent, notification, customers, assignment, sequence, target, record, process, initiated, sequences, actions, assign, API, version, 65.0]
 ---

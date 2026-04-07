@@ -5,7 +5,7 @@ topic: assign-regular-shifts-to-actual-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.967Z
+lastCollected: 2026-04-07T09:05:27.327Z
 estimatedTokens: 244
 keywords: [Assign, Regular, Shifts, Actual, Resources, Service, their, frequently, changing, work, hours, different, territory, beyond, territory’s]
 ---

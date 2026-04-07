@@ -5,7 +5,7 @@ topic: lifesciencetriggerhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.410Z
+lastCollected: 2026-04-07T09:04:10.923Z
 estimatedTokens: 568
 keywords: [LifeScienceTriggerHandler, collection, trigger, handlers, run, Life, Sciences, API, version, 65.0, later, Calls]
 ---

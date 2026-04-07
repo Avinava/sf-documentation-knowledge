@@ -5,7 +5,7 @@ topic: swarm
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:14.989Z
+lastCollected: 2026-04-07T09:06:08.835Z
 estimatedTokens: 537
 keywords: [Swarm, team, agents, Salesforce, users, Slack, channel, thread, dedicated, solving, problem, support, case, incident, sales]
 ---

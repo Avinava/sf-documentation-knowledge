@@ -5,7 +5,7 @@ topic: permission-sets-and-profile-settings-in-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:24.737Z
+lastCollected: 2026-04-07T09:05:00.879Z
 estimatedTokens: 1283
 keywords: [Permission, Profile, Settings, Packages, groups, ways, grant, permissions, access, package, setting, don’t, support, specific, instances]
 ---

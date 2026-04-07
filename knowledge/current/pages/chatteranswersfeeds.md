@@ -5,7 +5,7 @@ topic: chatteranswersfeeds
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.259Z
+lastCollected: 2026-04-07T09:04:57.239Z
 estimatedTokens: 297
 keywords: [chatteranswers, feeds, Chatter, Answers, feed, let, users, browse, questions, articles, post, replies, zone, components, customized]
 ---

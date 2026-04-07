@@ -5,7 +5,7 @@ topic: use-aura-components-in-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.149Z
+lastCollected: 2026-04-07T09:04:12.942Z
 estimatedTokens: 676
 keywords: [Aura, Components, Experience, Builder, custom, component, configure, bundle, they’re, compatible]
 ---

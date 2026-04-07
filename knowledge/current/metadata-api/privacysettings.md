@@ -5,7 +5,7 @@ topic: privacysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:09.045Z
+lastCollected: 2026-04-07T09:02:43.051Z
 estimatedTokens: 1117
 keywords: [PrivacySettings, organization’s, settings, data, privacy, consent, management, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---

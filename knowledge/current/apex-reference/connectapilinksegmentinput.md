@@ -5,7 +5,7 @@ topic: connectapilinksegmentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:47.051Z
+lastCollected: 2026-04-07T09:02:20.303Z
 estimatedTokens: 143
 keywords: [ConnectApi.LinkSegmentInput, Include, link, segment, feed, item, comment]
 ---

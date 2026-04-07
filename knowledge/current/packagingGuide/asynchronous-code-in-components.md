@@ -5,7 +5,7 @@ topic: asynchronous-code-in-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.141Z
+lastCollected: 2026-04-07T09:04:55.393Z
 estimatedTokens: 768
 keywords: [Asynchronous, Code, Components, Hackers, manipulate, timing, produce, malicious, results, preserve, current, execution, context, wrap, function]
 ---

@@ -5,7 +5,7 @@ topic: aivisittaskrcmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.505Z
+lastCollected: 2026-04-07T09:05:18.652Z
 estimatedTokens: 1041
 keywords: [AiVisitTaskRcmd, visit, task, recommendations, accepted, rejected, sales, manager, API, version, 51.0, later, Calls, Associated, Objects]
 ---

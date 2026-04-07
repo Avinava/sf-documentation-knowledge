@@ -5,7 +5,7 @@ topic: cgclouduserviewc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.388Z
+lastCollected: 2026-04-07T09:05:22.025Z
 estimatedTokens: 888
 keywords: [cgcloud__User_View__c, User, View, relation, junction, API, version, 54.0, later, cgcloud, _User, _View, Calls, Associated, Objects]
 ---

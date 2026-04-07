@@ -5,7 +5,7 @@ topic: build-your-own-in-app-notification-feature
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:35.703Z
+lastCollected: 2026-04-07T09:05:15.974Z
 estimatedTokens: 1185
 keywords: [Build, Own, In-App, Notification, Feature, Salesforce, mobile, app, you’re, familiar, Bell, tray, current, user’s, recent]
 ---

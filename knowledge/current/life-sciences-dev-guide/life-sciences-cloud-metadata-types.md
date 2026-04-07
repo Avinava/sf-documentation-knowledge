@@ -5,7 +5,7 @@ topic: life-sciences-cloud-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.710Z
+lastCollected: 2026-04-07T09:04:07.716Z
 estimatedTokens: 1095
 keywords: [Life, Sciences, Cloud, Metadata, API, access, feature, settings, customize, user]
 ---

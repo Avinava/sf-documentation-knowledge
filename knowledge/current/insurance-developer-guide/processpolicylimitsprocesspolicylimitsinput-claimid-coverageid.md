@@ -5,7 +5,7 @@ topic: processpolicylimitsprocesspolicylimitsinput-claimid-coverageid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.897Z
+lastCollected: 2026-04-07T09:04:00.468Z
 estimatedTokens: 317
 keywords: [ProcessPolicyLimits, ProcessPolicyLimitsInput, claimId, coverageId, Process, policy, limits, loss, item, claim, current, standings, insurance, API, Version]
 ---

@@ -5,7 +5,7 @@ topic: get-a-quick-action-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.534Z
+lastCollected: 2026-04-07T09:06:16.245Z
 estimatedTokens: 202
 keywords: [Quick, Action, Layout, record]
 ---

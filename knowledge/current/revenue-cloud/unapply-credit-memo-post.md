@@ -5,7 +5,7 @@ topic: unapply-credit-memo-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:18.618Z
+lastCollected: 2026-04-07T09:01:59.392Z
 estimatedTokens: 365
 keywords: [Unapply, Credit, Memo, POST, invoice, their, pre-application, states]
 ---

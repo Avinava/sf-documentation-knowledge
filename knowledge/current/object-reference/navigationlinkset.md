@@ -5,7 +5,7 @@ topic: navigationlinkset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.091Z
+lastCollected: 2026-04-07T09:04:44.755Z
 estimatedTokens: 606
 keywords: [NavigationLinkSet, navigation, menu, Experience, Cloud, site, consists, items, users, click, parts, API, version, 35.0, later]
 ---

@@ -5,7 +5,7 @@ topic: accountuserterritory2view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.751Z
+lastCollected: 2026-04-07T09:04:33.715Z
 estimatedTokens: 311
 keywords: [AccountUserTerritory2View, view, Users, Assigned, Territories, Lightning, Experience, Sales, API, version, 42.0, later, Calls, Special, Access]
 ---

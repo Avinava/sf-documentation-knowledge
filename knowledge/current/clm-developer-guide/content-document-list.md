@@ -5,7 +5,7 @@ topic: content-document-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.396Z
+lastCollected: 2026-04-07T09:03:38.114Z
 estimatedTokens: 117
 keywords: [Content, Document, Output, representation, record]
 ---

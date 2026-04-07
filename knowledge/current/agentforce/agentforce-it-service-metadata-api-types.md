@@ -5,7 +5,7 @@ topic: agentforce-it-service-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.664Z
+lastCollected: 2026-04-07T09:02:09.792Z
 estimatedTokens: 330
 keywords: [Agentforce, Service, Metadata, API, access, feature, settings, customize, user, Developer]
 ---

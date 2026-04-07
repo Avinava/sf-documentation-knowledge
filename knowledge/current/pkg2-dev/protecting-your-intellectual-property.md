@@ -5,7 +5,7 @@ topic: protecting-your-intellectual-property
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.896Z
+lastCollected: 2026-04-07T09:05:03.556Z
 estimatedTokens: 394
 keywords: [Protecting, Intellectual, custom, objects, links, reports, installed, items, revealed, installers, they, check, malicious, content, However]
 ---

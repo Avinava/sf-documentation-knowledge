@@ -5,8 +5,8 @@ topic: document-reader-mappings-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:31.652Z
-estimatedTokens: 624
+lastCollected: 2026-04-07T09:05:10.677Z
+estimatedTokens: 621
 keywords: [Document, Reader, Mappings, POST, Retrieve, keys, extracted, Salesforce, respect, template, Permission, Usage]
 ---
 
@@ -27,7 +27,7 @@ To use this resource, you must have the Intelligent Document Reader feature enab
 
 Use the corresponding template ID and the scan result ID for the OCR document scan result (ODSR) record of the document from which you want to fetch the values. Using the values from the document and field mapping from the template, you get the mapping between values and target field based on the key in both the document and template.
 
-Here’s a sample of how the Salesforce UI displays mapping of form types to objects:![A representation of the map form types to objects Mapping screen.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fimages%2Fintelligent_document_reader_field_mappings.png&folder=psc_api)
+Here’s a sample of how the Salesforce UI displays mapping of form types to objects:![A representation of the map form types to objects Mapping screen.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fimages%2Fintelligent_document_reader_field_mappings.png&folder=psc_api)
 
 Resource
 

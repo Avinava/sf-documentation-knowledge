@@ -5,7 +5,7 @@ topic: authorize-an-org-using-the-jwt-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.057Z
+lastCollected: 2026-04-07T09:06:12.833Z
 estimatedTokens: 2662
 keywords: [Authorize, Org, JWT, Flow, continuous, integration, environments, fully, automated, don’t, support, human, interactivity, logging, browser]
 ---

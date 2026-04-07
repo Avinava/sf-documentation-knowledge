@@ -5,7 +5,7 @@ topic: cgcsyncsyncmobileappdeplpkgasc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.763Z
+lastCollected: 2026-04-07T09:05:18.944Z
 estimatedTokens: 614
 keywords: [recipient, deployment, package, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Depl, _Pkg, _As, Calls]
 ---

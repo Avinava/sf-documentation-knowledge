@@ -5,7 +5,7 @@ topic: create-a-wealth-management-scoping-rule-using-the-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.338Z
+lastCollected: 2026-04-07T09:05:27.885Z
 estimatedTokens: 495
 keywords: [Wealth, Management, Scoping, Rule, Tooling, API, sales, support, associate, supports, multiple, financial, advisors, record, corresponds]
 ---

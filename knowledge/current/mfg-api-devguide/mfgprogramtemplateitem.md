@@ -5,7 +5,7 @@ topic: mfgprogramtemplateitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.844Z
+lastCollected: 2026-04-07T09:04:23.675Z
 estimatedTokens: 566
 keywords: [MfgProgramTemplateItem, transformation, associated, manufacturing, program, template, API, version, 55.0, later, Calls]
 ---

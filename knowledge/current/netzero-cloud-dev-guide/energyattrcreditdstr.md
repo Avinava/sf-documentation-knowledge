@@ -5,7 +5,7 @@ topic: energyattrcreditdstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.161Z
+lastCollected: 2026-04-07T09:04:28.003Z
 estimatedTokens: 1262
 keywords: [EnergyAttrCreditDstr, junction, energy, attribute, credits, stationary, asset, indicating, quantity, distributed, specific, API, version, 59.0, later]
 ---

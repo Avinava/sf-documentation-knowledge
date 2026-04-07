@@ -5,7 +5,7 @@ topic: connect-circleci-to-your-devhub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.121Z
+lastCollected: 2026-04-07T09:06:12.932Z
 estimatedTokens: 850
 keywords: [Connect, CircleCI, DevHub, Authorize, push, content, Dev, Hub, org, via, connected, app]
 ---

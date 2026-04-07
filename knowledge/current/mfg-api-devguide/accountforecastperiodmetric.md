@@ -5,7 +5,7 @@ topic: accountforecastperiodmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.455Z
+lastCollected: 2026-04-07T09:04:23.096Z
 estimatedTokens: 339
 keywords: [AccountForecastPeriodMetric, records, account, metrics, vary, period, specific, product, API, version, 47.0, later, Calls]
 ---

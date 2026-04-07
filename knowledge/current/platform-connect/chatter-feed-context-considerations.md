@@ -5,7 +5,7 @@ topic: chatter-feed-context-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.354Z
+lastCollected: 2026-04-07T09:05:04.344Z
 estimatedTokens: 521
 keywords: [Chatter, Feed, Context, Considerations, display, canvas, app, inside, item, receive, signed, getContext, call, specific]
 ---

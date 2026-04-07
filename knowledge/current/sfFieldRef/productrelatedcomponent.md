@@ -5,7 +5,7 @@ topic: productrelatedcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:09.681Z
+lastCollected: 2026-04-07T09:06:01.445Z
 estimatedTokens: 630
 keywords: [ProductRelatedComponent, product, included, bundle, add-on, API, version, 57.0, later]
 ---

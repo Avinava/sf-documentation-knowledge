@@ -5,7 +5,7 @@ topic: advocate-enrollment-transaction-journal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.819Z
+lastCollected: 2026-04-07T09:05:16.156Z
 estimatedTokens: 253
 keywords: [Advocate, Enrollment, Transaction, Journal, Output, representation, created, enrolled, referral, program]
 ---

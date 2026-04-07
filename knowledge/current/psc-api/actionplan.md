@@ -5,7 +5,7 @@ topic: actionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.777Z
+lastCollected: 2026-04-07T09:05:12.407Z
 estimatedTokens: 1287
 keywords: [ActionPlan, instance, action, plan, tasks, created, template, API, version, 44.0, later, Calls, Associated, Objects]
 ---

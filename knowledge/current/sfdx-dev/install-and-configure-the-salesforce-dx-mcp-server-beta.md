@@ -5,8 +5,8 @@ topic: install-and-configure-the-salesforce-dx-mcp-server-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:18.322Z
-estimatedTokens: 3796
+lastCollected: 2026-04-07T09:06:13.197Z
+estimatedTokens: 3884
 keywords: [Install, Configure, Salesforce, MCP, Server, Beta, client, start, tools, Add, Agentforce, Vibes, Code, Copilot, Clients]
 ---
 
@@ -148,19 +148,21 @@ These are the available toolsets. For some of these toolsets, the complete list 
 | Toolset Name | Description |
 | --- | --- |
 | all | Enables all available tools from all toolsets.We recommend that you configure only the toolsets you’re going to use, rather than all of them with this value. The DX MCP Server includes over 60 MCP tools, so enabling them all in your MCP client can overwhelm the LLM context. |
-| core | Core set of DX MCP tools. This toolset is always enabled.See Core DX MCP Tools Reference for the included tools. |
-| orgs | Tools to manage your authorized orgs.See Core DX MCP Tools Reference for the included tools. |
-| data | Tools to manage the data in your org, such as listing all accounts.See Core DX MCP Tools Reference for the included tools. |
-| users | Tools to manage org users, such as assigning a permission set.See Core DX MCP Tools Reference for the included tools. |
-| metadata | Tools to deploy and retrieve metadata between your org and DX project.See Core DX MCP Tools Reference for the included tools. |
-| testing | Tools to test Salesforce features, such as Apex classes and Agentforce agents.See Core DX MCP Tools Reference for the included tools. |
-| code-analysis | Tools to run a static analysis of your code using Salesforce Code Analyzer.See the Code Analyzer MCP Tools documentation. |
-| devops | Tools to manage work items, resolve merge conflicts, and troubleshoot deployment problems within DevOps Center.See the DevOps MCP Tools documentation. |
-| lwc-experts | Tools to help you design, build, test, and optimize LWC code.See the LWC MCP Tools documentation. |
 | aura-experts | Tools to help you migrate Aura applications to LWC.See the LWC MCP Tools documentation. |
-| mobile-core | Core (minimal) set of tools to help LWC developers create Lightning web components that integrate with device-native features and adhere to Mobile Offline design patterns.See the Mobile MCP Tools documentation. |
+| code-analysis | Tools to run a static analysis of your code using Salesforce Code Analyzer.See the Code Analyzer MCP Tools documentation. |
+| core | Core set of DX MCP tools. This toolset is always enabled.See Core DX MCP Tools Reference for the included tools. |
+| data | Tools to manage the data in your org, such as listing all accounts.See Core DX MCP Tools Reference for the included tools. |
+| devops | Tools to manage work items, resolve merge conflicts, and troubleshoot deployment problems within DevOps Center.See the DevOps MCP Tools documentation. |
+| enrichment | Tools to enrich metadata components in your DX project. |
+| experts-validation | Tools that validate and score LWC components for production readiness.See the LWC MCP Tools documentation. |
+| lwc-experts | Tools to help you design, build, test, and optimize LWC code.See the LWC MCP Tools documentation. |
+| metadata | Tools to deploy and retrieve metadata between your org and DX project.See Core DX MCP Tools Reference for the included tools. |
 | mobile | All the tools to help LWC developers create Lightning web components that integrate with device-native features and adhere to Mobile Offline design patterns.See the Mobile MCP Tools documentation. |
+| mobile-core | Core (minimal) set of tools to help LWC developers create Lightning web components that integrate with device-native features and adhere to Mobile Offline design patterns.See the Mobile MCP Tools documentation. |
+| orgs | Tools to manage your authorized orgs.See Core DX MCP Tools Reference for the included tools. |
 | scale-products | Tools to analyze and improve Apex performance.See the ApexGuru documentation. |
+| testing | Tools to test Salesforce features, such as Apex classes and Agentforce agents.See Core DX MCP Tools Reference for the included tools. |
+| users | Tools to manage org users, such as assigning a permission set.See Core DX MCP Tools Reference for the included tools. |
 
 ### Valid Values for the \--tools Flag
 
@@ -185,6 +187,7 @@ You can also refer to the documentation for the different types of MCP tools:
 -   [Code Analyzer MCP Tools Documentation](https://developer.salesforce.com/docs/platform/salesforce-code-analyzer/guide/mcp.html)
 -   [Mobile MCP Tools Documentation](https://developer.salesforce.com/docs/atlas.en-us.260.0.mobile_offline.meta/mobile_offline/dx_mobile_mcp_tools.htm)
 -   [LWC MCP Tools Documentation](https://developer.salesforce.com/docs/platform/lwc/guide/mcp-intro.html)
+-   [ApexGuru MCP Tools Documentation](https://help.salesforce.com/s/articleView?id=xcloud.apexguru_salesforce_dx_mcp.htm&type=5&language=en_US)
 
 ## Manage the Salesforce DX MCP Server (Beta)
 

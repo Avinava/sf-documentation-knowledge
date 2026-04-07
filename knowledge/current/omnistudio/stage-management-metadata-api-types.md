@@ -5,7 +5,7 @@ topic: stage-management-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:57.023Z
+lastCollected: 2026-04-07T09:02:59.604Z
 estimatedTokens: 147
 keywords: [Stage, Management, Metadata, API, access, feature, settings, customize, user]
 ---

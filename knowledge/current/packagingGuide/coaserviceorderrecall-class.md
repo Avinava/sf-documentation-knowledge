@@ -5,7 +5,7 @@ topic: coaserviceorderrecall-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.258Z
+lastCollected: 2026-04-07T09:04:53.870Z
 estimatedTokens: 509
 keywords: [COA_ServiceOrderRecall, Recall, orders, you’ve, submitted, Salesforce, Partner, Operations, COA, _ServiceOrderRecall, Usage]
 ---

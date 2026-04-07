@@ -5,7 +5,7 @@ topic: obtain-a-platform-events-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.834Z
+lastCollected: 2026-04-07T09:05:05.172Z
 estimatedTokens: 348
 keywords: [Obtain, Platform, Event’s, Subscribers, View, triggers, processes, subscribed, event, Salesforce, user, API]
 ---

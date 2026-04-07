@@ -5,7 +5,7 @@ topic: insurance-person-accounts-and-users-creation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.771Z
+lastCollected: 2026-04-07T09:04:01.999Z
 estimatedTokens: 366
 keywords: [Insurance, Person, Accounts, Users, Creation, Input, representation, creating, portal, group, census, members]
 ---

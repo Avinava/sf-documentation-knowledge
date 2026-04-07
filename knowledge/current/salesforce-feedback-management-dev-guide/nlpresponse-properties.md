@@ -5,7 +5,7 @@ topic: nlpresponse-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.375Z
+lastCollected: 2026-04-07T09:05:23.241Z
 estimatedTokens: 173
 keywords: [NlpResponse]
 ---

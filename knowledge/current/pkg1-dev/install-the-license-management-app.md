@@ -5,7 +5,7 @@ topic: install-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.409Z
+lastCollected: 2026-04-07T09:05:01.588Z
 estimatedTokens: 500
 keywords: [Install, License, Management, App, LMA, managed, package, installed, partner, business, orgs, org, LMO]
 ---

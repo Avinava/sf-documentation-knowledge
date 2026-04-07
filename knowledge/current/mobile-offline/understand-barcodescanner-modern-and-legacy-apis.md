@@ -5,7 +5,7 @@ topic: understand-barcodescanner-modern-and-legacy-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.840Z
+lastCollected: 2026-04-07T09:04:25.113Z
 estimatedTokens: 889
 keywords: [Understand, BarcodeScanner, Modern, Legacy, APIs, previous, versions, scanning, barcode, session, different, programmatic, approach, several, barcodes]
 ---

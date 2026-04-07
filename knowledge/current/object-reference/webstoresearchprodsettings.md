@@ -5,7 +5,7 @@ topic: webstoresearchprodsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.479Z
+lastCollected: 2026-04-07T09:04:52.691Z
 estimatedTokens: 603
 keywords: [WebStoreSearchProdSettings, Search, settings, WebStore, product, API, version, 47.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: evaluate-when-to-open-or-close-locations-with-workplace-strategy-planner
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.612Z
+lastCollected: 2026-04-07T09:06:19.400Z
 estimatedTokens: 271
 keywords: [Evaluate, Open, Close, Locations, Workplace, Strategy, Planner, add, business, priorities, operating, guidelines, COVID-19, data, Work.com]
 ---

@@ -6,7 +6,7 @@ topic: aggregateflex-step-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:02.299Z
+lastCollected: 2026-04-07T09:03:07.747Z
 estimatedTokens: 2656
 keywords: [aggregateflex, Step, perform, aggregate, queries, Analytics, dataset, query, summarizes, rows, returning, row, per, grouping, total]
 ---

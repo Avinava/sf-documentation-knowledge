@@ -5,7 +5,7 @@ topic: load-javascript-files-from-third-party-endpoints
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.189Z
+lastCollected: 2026-04-07T09:04:55.511Z
 estimatedTokens: 573
 keywords: [Load, JavaScript, Files, Third-Party, Endpoints, Avoid, dynamically, loading, content, delivery, networks, CDNs, Instead, code, resources]
 ---

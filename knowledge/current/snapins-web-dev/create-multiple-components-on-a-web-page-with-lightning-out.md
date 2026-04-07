@@ -5,7 +5,7 @@ topic: create-multiple-components-on-a-web-page-with-lightning-out
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.300Z
+lastCollected: 2026-04-07T09:06:14.536Z
 estimatedTokens: 364
 keywords: [Multiple, Components, Web, Lightning, Salesforce, outside, domain, Component, Code]
 ---

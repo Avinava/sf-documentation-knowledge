@@ -5,7 +5,7 @@ topic: recipe-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.914Z
+lastCollected: 2026-04-07T09:05:25.758Z
 estimatedTokens: 142
 keywords: [Recipe, Collection, data, prep, recipes]
 ---

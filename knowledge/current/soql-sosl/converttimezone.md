@@ -5,7 +5,7 @@ topic: converttimezone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.657Z
+lastCollected: 2026-04-07T09:06:15.009Z
 estimatedTokens: 150
 keywords: [convertTimezone, SOQL, queries, client, application, dateTime, Coordinated, Universal, Time, UTC, date, function, convert, user’s, zone]
 ---

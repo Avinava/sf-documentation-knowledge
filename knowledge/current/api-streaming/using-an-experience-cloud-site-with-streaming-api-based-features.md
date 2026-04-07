@@ -5,7 +5,7 @@ topic: using-an-experience-cloud-site-with-streaming-api-based-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.467Z
+lastCollected: 2026-04-07T09:03:05.238Z
 estimatedTokens: 183
 keywords: [Experience, Cloud, Site, Streaming, API-Based, Features, enable, API, background, in-app, push, notifications, HTTP, POST, requests]
 ---

@@ -5,7 +5,7 @@ topic: campaigninfluence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:06.027Z
+lastCollected: 2026-04-07T09:04:36.324Z
 estimatedTokens: 666
 keywords: [CampaignInfluence, association, campaign, opportunity, Customizable, Influence, API, version, 37.0, later, Calls, Special, Access, Rules, Usage]
 ---

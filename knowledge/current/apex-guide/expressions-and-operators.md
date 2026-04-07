@@ -5,7 +5,7 @@ topic: expressions-and-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:45.209Z
+lastCollected: 2026-04-07T09:02:34.314Z
 estimatedTokens: 495
 keywords: [Expressions, Operators, expression, construct, made, variables, invocations, evaluates]
 ---

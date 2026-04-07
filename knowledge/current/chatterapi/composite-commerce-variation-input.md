@@ -5,7 +5,7 @@ topic: composite-commerce-variation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.361Z
+lastCollected: 2026-04-07T09:03:21.069Z
 estimatedTokens: 101
 keywords: [Composite, Commerce, Variation, Input, representation, product]
 ---

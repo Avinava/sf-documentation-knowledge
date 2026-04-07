@@ -5,7 +5,7 @@ topic: filter-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.210Z
+lastCollected: 2026-04-07T09:03:24.067Z
 estimatedTokens: 928
 keywords: [Filter, Feed, Resources, news, filtered, contain, elements, whose, parent, URLs, Specific, URL]
 ---

@@ -5,7 +5,7 @@ topic: reschedule-recurring-home-visits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.167Z
+lastCollected: 2026-04-07T09:03:51.657Z
 estimatedTokens: 488
 keywords: [Reschedule, Recurring, Home, Visits, Action, recurrence, pattern, scheduling, policy, provided, Special, Access, Rules, REST, HTTP]
 ---

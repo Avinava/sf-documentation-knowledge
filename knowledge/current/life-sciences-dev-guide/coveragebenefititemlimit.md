@@ -5,7 +5,7 @@ topic: coveragebenefititemlimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.695Z
+lastCollected: 2026-04-07T09:04:10.157Z
 estimatedTokens: 1270
 keywords: [CoverageBenefitItemLimit, track, associated, specific, benefit, relates, expenditures, limits, coverage, levels, eligibility, exclusion, API, version, 53.0]
 ---
@@ -37,7 +37,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CoverageBenefitItemId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionSpecific service covered by the insurance plan.This is a relationship field.Relationship NameCoverageBenefitItemRelationship TypeLookupRefers ToCoverageBenefitItem |
 | CoverageLevel | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionDefines the persons eligible for the benefit item.Possible values are:EmployeeSpouse—Employee & SpouseFamilyIndividual |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | LimitNotes | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionGeneral information about the limit. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the coverage benefit item limit. |
 | NetworkType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies whether the benefit refers to in-network providers or out-of-network providers.Possible values are:In—In-network providersNA—Not applicableOut—Out-of-network providersIf the related CoverageBenefitItem record has an IsInPlanNetwork value of true, NetworkType is typically In. If the related record has an IsInPlanNetwork value of false, NetworkType can be any value. |

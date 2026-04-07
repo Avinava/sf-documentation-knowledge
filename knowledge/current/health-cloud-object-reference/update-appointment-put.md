@@ -5,7 +5,7 @@ topic: update-appointment-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.233Z
+lastCollected: 2026-04-07T09:03:53.141Z
 estimatedTokens: 971
 keywords: [Appointment, PUT]
 ---

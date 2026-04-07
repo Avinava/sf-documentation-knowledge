@@ -5,7 +5,7 @@ topic: filter-details-about-a-contract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.107Z
+lastCollected: 2026-04-07T09:03:04.777Z
 estimatedTokens: 136
 keywords: [Filter, Contract, Here’s, Contract-based, Orders, resource, query, contract’s, activated]
 ---

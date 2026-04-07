@@ -5,7 +5,7 @@ topic: application-event-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.818Z
+lastCollected: 2026-04-07T09:04:13.910Z
 estimatedTokens: 926
 keywords: [Application, Event, Here’s, simple, case, attribute, another, component, Notifier, Handler, Container, Put, Together]
 ---

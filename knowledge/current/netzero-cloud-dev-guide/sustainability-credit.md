@@ -5,7 +5,7 @@ topic: sustainability-credit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.289Z
+lastCollected: 2026-04-07T09:04:27.021Z
 estimatedTokens: 277
 keywords: [Sustainability, Credit, credits, part, purchase, variety, instruments, proving, positive, environmental, benefits, carbon, renewable, energy, certificates]
 ---

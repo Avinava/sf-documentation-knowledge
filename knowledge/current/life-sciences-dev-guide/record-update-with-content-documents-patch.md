@@ -7,7 +7,7 @@ topic: record-update-with-content-documents-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.578Z
+lastCollected: 2026-04-07T09:04:06.169Z
 estimatedTokens: 560
 keywords: [Record, Content, Documents, PATCH, Salesforce, document]
 ---

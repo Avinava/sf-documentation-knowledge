@@ -5,7 +5,7 @@ topic: product-rating-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.743Z
+lastCollected: 2026-04-07T09:04:03.551Z
 estimatedTokens: 276
 keywords: [Product, Rating, Output, representation, Connect, API]
 ---

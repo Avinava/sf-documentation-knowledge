@@ -5,7 +5,7 @@ topic: named-credential-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.466Z
+lastCollected: 2026-04-07T09:04:40.549Z
 estimatedTokens: 1253
 keywords: [Named, Credential, Event, captures, Apex, callouts, credentials, their, endpoints, audit, installed, managed, packages, don’t, recognize]
 ---

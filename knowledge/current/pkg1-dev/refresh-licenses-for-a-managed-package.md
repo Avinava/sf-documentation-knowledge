@@ -5,7 +5,7 @@ topic: refresh-licenses-for-a-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.430Z
+lastCollected: 2026-04-07T09:05:01.626Z
 estimatedTokens: 183
 keywords: [Refresh, Licenses, Managed, Package, sync, license, records, across, subscriber, installations, Refreshing, resolve, discrepancies, number, subscriber’s]
 ---

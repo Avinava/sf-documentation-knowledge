@@ -5,7 +5,7 @@ topic: operatinghours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.037Z
+lastCollected: 2026-04-07T09:05:15.115Z
 estimatedTokens: 739
 keywords: [OperatingHours, hours, facility, open, Calls, Special, Access, Rules, Associated, Objects]
 ---

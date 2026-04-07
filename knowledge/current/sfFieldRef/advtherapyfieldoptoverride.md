@@ -5,7 +5,7 @@ topic: advtherapyfieldoptoverride
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:46.657Z
+lastCollected: 2026-04-07T09:05:31.212Z
 estimatedTokens: 399
 keywords: [AdvTherapyFieldOptOverride, changed, optionality, certain, API, version, 59.0, later]
 ---

@@ -5,7 +5,7 @@ topic: electricityemssnfctrset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:58.891Z
+lastCollected: 2026-04-07T09:04:27.727Z
 estimatedTokens: 5789
 keywords: [ElectricityEmssnFctrSet, factors, convert, electricity, usage, CO₂e, CO₂, CH₄, N₂O, record, holds, data, breakdown, sources, fuel]
 ---

@@ -5,7 +5,7 @@ topic: pay-ex-gratia-claim-coverage-payment-detail-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.287Z
+lastCollected: 2026-04-07T09:04:02.796Z
 estimatedTokens: 373
 keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail, POST, Process, discretionary, enabling, policy, limits, exceeded]
 ---
@@ -73,7 +73,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/payment-details/0l2xx000000003gEAA/pay-ex-gratia
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/payment-details/0l2xx000000003gEAA/pay-ex-gratia
 ```
 
 ```

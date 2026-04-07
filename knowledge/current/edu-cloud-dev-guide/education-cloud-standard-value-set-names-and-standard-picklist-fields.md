@@ -5,8 +5,8 @@ topic: education-cloud-standard-value-set-names-and-standard-picklist-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:25.187Z
-estimatedTokens: 1411
+lastCollected: 2026-04-07T09:03:42.737Z
+estimatedTokens: 1442
 keywords: [Education, Cloud, Standard, Picklist, picklists, their, corresponding]
 ---
 
@@ -62,6 +62,11 @@ The names of standard value sets and picklist fields are case-sensitive.
 | COPParticipantAffiliation | CourseOfferingParticipant.ParticipantAffiliation |
 | COPParticipationStatus | CourseOfferingParticipant.ParticipationStatus |
 | CourseLevelDescription | LearningCourse.CourseLevelDescription |
+| CourseType | Lab |
+| Lecture |
+| Exam |
+| Drill |
+| Recitation |
 | CreditTransferAppStatus | CourseCreditTransferAppln.Status |
 | DurationUnit | LearningFoundationItem.DurationUnit |
 | CourseOfferingPtcpResult.DurationUnit |
@@ -100,6 +105,7 @@ The names of standard value sets and picklist fields are case-sensitive.
 | LPathwayTemplateItemYear | LearningPathwayTemplateItem.Year |
 | LPathwayTemplateStatus | LearningPathwayTemplate.Status |
 | LPIApplnCategory | ApplicationReview.ApplicationCategory |
+| LPIApplnType | IndividualApplication.ApplicationType |
 | LPTItemDurationUnit | LearningPathwayTemplateItem.DurationUnit |
 | MilitaryBranch | ContactProfile.MilitaryBranch |
 | MilitaryService | ContactProfile.MilitaryService |

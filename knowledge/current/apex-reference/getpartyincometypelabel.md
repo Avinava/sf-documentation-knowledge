@@ -5,7 +5,7 @@ topic: getpartyincometypelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.772Z
+lastCollected: 2026-04-07T09:02:27.695Z
 estimatedTokens: 63
 keywords: [GetPartyIncomeTypeLabel, picklist, party, income, entity]
 ---

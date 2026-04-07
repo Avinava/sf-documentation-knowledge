@@ -5,7 +5,7 @@ topic: add-attachments-to-a-visualforce-email-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:23.564Z
+lastCollected: 2026-04-07T09:04:59.091Z
 estimatedTokens: 1006
 keywords: [Add, Attachments, Visualforce, Email, Template, templates, attachment, encapsulated, <messaging, attachment>, component, Code, combination, HTML, tags]
 ---

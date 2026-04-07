@@ -5,8 +5,8 @@ topic: lightning-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.498Z
-estimatedTokens: 4776
+lastCollected: 2026-04-07T09:05:28.085Z
+estimatedTokens: 4807
 keywords: [Lightning, Security, General, Considerations]
 ---
 
@@ -130,7 +130,7 @@ To do this, you must iterate through all populated fields and check FLS on those
 
 **Cross Site Request Forgery**
 
-In order to prevent [CSRF attacks](atlas.en-us.secure_coding_guide.meta/secure_coding_guide/secure_coding_cross_site_req_forgery.htm "Learn how to protect yourself from Cross-site Request Forgery (CSRF), a security threat where malicious websites can manipulate your browser to perform actions without your consent on other sites where you are logged in."), do not invoke any server-side controller method that performs a DML operation automatically as the result of a page load. Specifically, do not invoke server-side DML controller method as onInit handlers, or afterRender handlers (if rendering is performed automatically on page load).
+In order to prevent [CSRF attacks](atlas.en-us.secure_coding_guide.meta/secure_coding_guide/secure_coding_cross_site_req_forgery.htm "Learn how to protect your AppExchange solutions from Cross-Site Request Forgery (CSRF), a security threat where a malicious website manipulates a user's browser to perform unauthorized actions without their knowledge. You can implement Salesforce-specific defense strategies across Aura, Lightning Web Components (LWC), Visualforce, and Flows."), do not invoke any server-side controller method that performs a DML operation automatically as the result of a page load. Specifically, do not invoke server-side DML controller method as onInit handlers, or afterRender handlers (if rendering is performed automatically on page load).
 
 ```
 

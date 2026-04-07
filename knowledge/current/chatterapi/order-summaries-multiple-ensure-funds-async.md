@@ -5,7 +5,7 @@ topic: order-summaries-multiple-ensure-funds-async
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.544Z
+lastCollected: 2026-04-07T09:03:28.632Z
 estimatedTokens: 1141
 keywords: [Order, Summaries, Multiple, Ensure, Funds, Async, apply, Invoices, needed, capture, authorized, sending, payment, provider, inserts]
 ---

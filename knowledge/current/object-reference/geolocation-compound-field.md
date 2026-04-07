@@ -5,7 +5,7 @@ topic: geolocation-compound-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.173Z
+lastCollected: 2026-04-07T09:04:33.002Z
 estimatedTokens: 817
 keywords: [Geolocation, Compound, accessible, SOAP, REST, APIs, Location—a, structured, data, type—or, individual, latitude, longitude, elements, Retrieving]
 ---

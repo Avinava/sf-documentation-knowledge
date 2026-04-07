@@ -5,7 +5,7 @@ topic: update-a-batch-of-favorites
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.345Z
+lastCollected: 2026-04-07T09:06:15.974Z
 estimatedTokens: 166
 keywords: [Batch, Favorites, once, sort, order, updated, relative, ordering, Any, missing, deleted]
 ---

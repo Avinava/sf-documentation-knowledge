@@ -5,7 +5,7 @@ topic: cgcloudcpcalculationschemac
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.405Z
+lastCollected: 2026-04-07T09:05:19.820Z
 estimatedTokens: 1341
 keywords: [cgcloud__CP_Calculation_Schema__c, calculation, schema, complex, pricing, API, version, 54.0, later, cgcloud, _CP, _Calculation, _Schema, Calls, Associated]
 ---

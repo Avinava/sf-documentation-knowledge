@@ -5,7 +5,7 @@ topic: cdpbasedloyaltypromotionoutput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.494Z
+lastCollected: 2026-04-07T09:04:16.504Z
 estimatedTokens: 612
 namespace: LoyaltyManagement
 keywords: [CdpBasedLoyaltyPromotionOutput, promotion, records, member, eligible, member's, Data, Cloud, market, segment, getErrors, getPromotions, isSuccess]

@@ -5,7 +5,7 @@ topic: run-in-batch-mode-windows-only
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.238Z
+lastCollected: 2026-04-07T09:03:41.195Z
 estimatedTokens: 258
 keywords: [Run, Batch, Mode, Windows, Data, Loader, command, line, runs, series, processes, certain, order, file, rerun]
 ---

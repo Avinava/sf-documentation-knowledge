@@ -5,7 +5,7 @@ topic: collabtemplatemetricrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.396Z
+lastCollected: 2026-04-07T09:04:36.802Z
 estimatedTokens: 292
 keywords: [CollabTemplateMetricRecord, association, CollabTemplateMetric, Salesforce, record.It, tracks, record, Account, Contact, linked, Quip, template, metrics, were, gathered]
 ---

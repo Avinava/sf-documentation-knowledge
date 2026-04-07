@@ -5,7 +5,7 @@ topic: transcribe-calls-in-real-time
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.191Z
+lastCollected: 2026-04-07T09:06:18.753Z
 estimatedTokens: 956
 keywords: [Transcribe, Calls, Real, Time, transcriptions, add, Enhanced, Conversation, component, Voice, Call, record, Lightning, App, Builder]
 ---

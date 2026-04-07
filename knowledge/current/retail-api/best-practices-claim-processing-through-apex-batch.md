@@ -5,7 +5,7 @@ topic: best-practices-claim-processing-through-apex-batch
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:41.035Z
+lastCollected: 2026-04-07T09:05:22.748Z
 estimatedTokens: 731
 keywords: [Best, Practices, Claim, Processing, Apex, Batch, processes, Consumer, Goods, Cloud, Trade, Promotion, Management, TPM, user]
 ---

@@ -5,7 +5,7 @@ topic: returning-fieldspec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.897Z
+lastCollected: 2026-04-07T09:06:15.334Z
 estimatedTokens: 1767
 keywords: [RETURNING, FieldSpec, clause, add, SOSL, query, specify, text, search, result, *FieldSpec*, Clauses]
 ---

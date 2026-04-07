@@ -5,7 +5,7 @@ topic: context-node-mapping-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:50.847Z
+lastCollected: 2026-04-07T09:02:53.412Z
 estimatedTokens: 208
 keywords: [Context, Node, Mapping, Output, representation]
 ---

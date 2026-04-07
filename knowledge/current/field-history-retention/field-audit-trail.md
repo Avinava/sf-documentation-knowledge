@@ -5,7 +5,7 @@ topic: field-audit-trail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.820Z
+lastCollected: 2026-04-07T09:03:46.256Z
 estimatedTokens: 1491
 keywords: [Audit, Trail, extends, capabilities, History, Tracking, keep, data, indefinitely, maintain, comprehensive, historical, record, changes, tracked]
 ---

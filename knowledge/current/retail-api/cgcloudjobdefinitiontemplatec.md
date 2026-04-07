@@ -5,7 +5,7 @@ topic: cgcloudjobdefinitiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.855Z
+lastCollected: 2026-04-07T09:05:20.330Z
 estimatedTokens: 3046
 keywords: [cgcloud__Job_Definition_Template__c, Stores, definition, questions, product, surveys, system, API, version, 54.0, later, cgcloud, _Job, _Definition, _Template]
 ---

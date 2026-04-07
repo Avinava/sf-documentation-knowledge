@@ -5,7 +5,7 @@ topic: how-is-locale-determined-for-the-orgs-i-create-in-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.833Z
+lastCollected: 2026-04-07T09:04:54.807Z
 estimatedTokens: 93
 keywords: [How, locale, determined, orgs, Environment, Hub, Salesforce, user, determines]
 ---

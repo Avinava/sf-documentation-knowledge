@@ -5,7 +5,7 @@ topic: survey-email-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.415Z
+lastCollected: 2026-04-07T09:05:23.307Z
 estimatedTokens: 825
 keywords: [Survey, Email, Input]
 ---

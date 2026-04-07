@@ -5,7 +5,7 @@ topic: sobject-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:41.292Z
+lastCollected: 2026-04-07T09:02:36.234Z
 estimatedTokens: 544
 keywords: [sObject, Self-Service, User, Password, Accesses, passwords, resets, expiration, status, HTTP, retrieve, password’s, POST, initiate, reset]
 ---

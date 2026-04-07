@@ -5,7 +5,7 @@ topic: periodic-security-re-reviews-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.295Z
+lastCollected: 2026-04-07T09:04:55.695Z
 estimatedTokens: 843
 keywords: [Periodic, Security, Re-Reviews, AppExchange, help, safeguard, against, latest, vulnerabilities, conduct, solutions, reviews, similar, scope, initial]
 ---

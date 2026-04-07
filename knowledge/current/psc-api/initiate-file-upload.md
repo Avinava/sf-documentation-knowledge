@@ -5,7 +5,7 @@ topic: initiate-file-upload
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.546Z
+lastCollected: 2026-04-07T09:05:08.816Z
 estimatedTokens: 291
 keywords: [Initiate, File, Upload, API, multi-part, unique, identifier, part]
 ---

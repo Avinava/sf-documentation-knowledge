@@ -5,7 +5,7 @@ topic: creating-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.684Z
+lastCollected: 2026-04-07T09:04:13.725Z
 estimatedTokens: 2564
 keywords: [Creating, Record, simplest, way, form, users, lightning, recordForm, want, customize, layout, preload, custom, recordEditForm, customization]
 ---

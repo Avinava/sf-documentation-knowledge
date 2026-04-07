@@ -5,7 +5,7 @@ topic: trailhead-explore-lightning-aura-components-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.378Z
+lastCollected: 2026-04-07T09:04:14.739Z
 estimatedTokens: 97
 keywords: [Trailhead, Explore, Lightning, Aura, Components, Resources, fundamentals]
 ---

@@ -5,7 +5,7 @@ topic: unsupported-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.695Z
+lastCollected: 2026-04-07T09:03:11.368Z
 estimatedTokens: 93
 keywords: [Unsupported, Record, sharing, usage, instances, Analytics, limits]
 ---

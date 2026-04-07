@@ -5,7 +5,7 @@ topic: bulk-group-census-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.528Z
+lastCollected: 2026-04-07T09:04:03.177Z
 estimatedTokens: 140
 keywords: [Bulk, Group, Census, Management, Output, representation, processing, employee, data]
 ---

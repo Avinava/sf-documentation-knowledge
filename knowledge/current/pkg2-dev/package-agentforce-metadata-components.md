@@ -5,7 +5,7 @@ topic: package-agentforce-metadata-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.092Z
+lastCollected: 2026-04-07T09:05:02.652Z
 estimatedTokens: 820
 keywords: [Package, Agentforce, Metadata, Components, Bring, power, conversational, apps]
 ---

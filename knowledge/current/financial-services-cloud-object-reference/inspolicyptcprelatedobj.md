@@ -5,7 +5,7 @@ topic: inspolicyptcprelatedobj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.609Z
+lastCollected: 2026-04-07T09:03:49.907Z
 estimatedTokens: 753
 keywords: [InsPolicyPtcpRelatedObj, relationship, Insurance, Policy, Participant, attributes, referenced, relevant, product, API, version, 63.0, later, Calls, Associated]
 ---

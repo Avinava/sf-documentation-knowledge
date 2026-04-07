@@ -5,7 +5,7 @@ topic: servicecontract
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.414Z
+lastCollected: 2026-04-07T09:06:06.631Z
 estimatedTokens: 930
 keywords: [ServiceContract, customer, support, contract, business, agreement, API, version, 18.0, later]
 ---

@@ -5,7 +5,7 @@ topic: navigation-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.542Z
+lastCollected: 2026-04-07T09:05:00.566Z
 estimatedTokens: 574
 keywords: [Navigation, Issues, prevent, users, navigating, certain, pages, Salesforce, mobile, app]
 ---

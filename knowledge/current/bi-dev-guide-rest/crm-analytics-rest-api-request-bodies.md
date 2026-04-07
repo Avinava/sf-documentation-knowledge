@@ -5,7 +5,7 @@ topic: crm-analytics-rest-api-request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:02.511Z
+lastCollected: 2026-04-07T09:03:08.033Z
 estimatedTokens: 6005
 keywords: [CRM, Analytics, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON]
 ---

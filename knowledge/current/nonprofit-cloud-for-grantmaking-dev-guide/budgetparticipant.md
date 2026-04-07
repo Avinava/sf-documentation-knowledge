@@ -5,7 +5,7 @@ topic: budgetparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.015Z
+lastCollected: 2026-04-07T09:04:32.796Z
 estimatedTokens: 788
 keywords: [BudgetParticipant, user, group, participants, access, budget, API, version, 59.0, later, Calls, Special, Rules, Associated, Objects]
 ---

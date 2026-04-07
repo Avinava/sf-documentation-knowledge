@@ -5,7 +5,7 @@ topic: product-part-dimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.287Z
+lastCollected: 2026-04-07T09:05:18.306Z
 estimatedTokens: 322
 keywords: [Product, Part, Dimension, extract, data, Bill, Materials, BOM, component, level, configure, sales, org, CSV, exports]
 ---

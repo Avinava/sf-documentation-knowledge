@@ -5,7 +5,7 @@ topic: supported-versions-of-tools-and-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.829Z
+lastCollected: 2026-04-07T09:04:18.243Z
 estimatedTokens: 255
 keywords: [Versions, Tools, Components, Gamification, Mobile, SDK, works, iOS, 15.0+, Android, 8.0+, Install, Loyalty, Management, Studio, Electric, Eel, 2022.1.1+]
 ---

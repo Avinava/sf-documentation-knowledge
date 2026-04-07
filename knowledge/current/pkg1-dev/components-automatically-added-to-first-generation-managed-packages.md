@@ -5,7 +5,7 @@ topic: components-automatically-added-to-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.538Z
+lastCollected: 2026-04-07T09:05:01.797Z
 estimatedTokens: 1845
 keywords: [Components, Automatically, Added, First-Generation, Managed, Packages, adding, package, add, Visualforce, references, custom, controller, Apex]
 ---

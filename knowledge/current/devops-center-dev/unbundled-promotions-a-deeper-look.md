@@ -5,8 +5,8 @@ topic: unbundled-promotions-a-deeper-look
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.397Z
-estimatedTokens: 2739
+lastCollected: 2026-04-07T09:03:41.455Z
+estimatedTokens: 2715
 keywords: [Unbundled, Promotions, Deeper, Look, Now, know, main, custom, objects, involved, promotion, let’s, step, different, phases]
 ---
 
@@ -21,7 +21,7 @@ Now that we know the main custom objects involved in an unbundled promotion, let
 
 Here’s a graphic that shows an unbundled promotion of two work items and how the associated objects are connected.
 
-![Relationship diagram for the objects involved in unbundled promotions, such as Work Item, Work Item Promote, Merge Result, Deployment Result, and more.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_unbundled_promotion.png&folder=devops_center_dev)
+![Relationship diagram for the objects involved in unbundled promotions, such as Work Item, Work Item Promote, Merge Result, Deployment Result, and more.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_unbundled_promotion.png&folder=devops_center_dev)
 
 When a user initiates an unbundled promotion, DevOps Center creates a record of Work Item Promote for every work item in the promotion. Each work item is still associated with a feature branch in the user’s source control repository, so each of these branches must be merged into the branch associated with the target stage environment. This relationship means that every Work Item Promote record has an associated Merge Result record. But there’s only one metadata deployment for the entire promotion (to the associated stage environment), so each Work Item Promote record points to a shared record of Deployment Result.
 
@@ -31,7 +31,7 @@ Let’s start! For our example, assume a user promotes a single work item (WI-00
 
 Here’s WI-000003 in DevOps Center, ready to be promoted.
 
-![DevOps Center showing work item WI-000003 ready to be promoted from the Integration stage to UAT stage.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_state_before.png&folder=devops_center_dev)
+![DevOps Center showing work item WI-000003 ready to be promoted from the Integration stage to UAT stage.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_state_before.png&folder=devops_center_dev)
 
 This table lists the state of the existing custom object records associated with the unbundled promotion before it begins. Not all objects and fields are listed, only the ones that are interesting and relevant.
 
@@ -49,7 +49,7 @@ This table lists the state of the existing custom object records associated with
 
 The user now promotes the work item from the Integration stage to the UAT stage by selecting the item and clicking **Promote Selected**. Here’s the promotion in progress:
 
-![DevOps Center showing a promotion into the UAT stage in progress.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_state_during.png&folder=devops_center_dev)
+![DevOps Center showing a promotion into the UAT stage in progress.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_state_during.png&folder=devops_center_dev)
 
 Let’s further split this phase into two subphases:
 
@@ -85,7 +85,7 @@ DevOps Center then fires off a request to Heroku to perform the async processing
 
 Hurray, the promotion succeeded, and our work item has been promoted to the UAT stage!
 
-![DevOps Center showing a successful promotion of WI-000003 to the UAT stage.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_state_success.png&folder=devops_center_dev)
+![DevOps Center showing a successful promotion of WI-000003 to the UAT stage.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_state_success.png&folder=devops_center_dev)
 
 Here’s the final state of the objects after a successful promotion.
 
@@ -138,11 +138,11 @@ The beginning state of the custom objects, before the promotion, is the same as 
 
 This screenshot shows the user merging changes from the GitHub feature branch for WI-000005 to the doce-uat branch (which is associated with the UAT pipeline stage) using the recommended Squash and Merge option. DevOps Center created this pull request in GitHub when WI-000005 was promoted to the Integration stage.
 
-![GitHub UI showing a pull request to merge the WI-000003 feature branch into a stage branch, with Confirm Squash and Merge button circled.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_github_merge.png&folder=devops_center_dev)
+![GitHub UI showing a pull request to merge the WI-000003 feature branch into a stage branch, with Confirm Squash and Merge button circled.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_github_merge.png&folder=devops_center_dev)
 
 At this point, the changes are in a partially promoted state because they’ve been merged but not yet deployed. DevOps Center alerts the user both in the work item itself and in the pipeline:
 
-![DevOps Center alerting the user that their environment is out of sync because a merge was made outside of DevOps Center.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_state_out_sync.png&folder=devops_center_dev)
+![DevOps Center alerting the user that their environment is out of sync because a merge was made outside of DevOps Center.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_state_out_sync.png&folder=devops_center_dev)
 
 This table shows the state of the object model after the external merge but before the user clicks **Complete Promotion** in DevOps Center. Both records are new.
 

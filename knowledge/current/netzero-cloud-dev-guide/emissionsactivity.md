@@ -5,7 +5,7 @@ topic: emissionsactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.932Z
+lastCollected: 2026-04-07T09:04:27.769Z
 estimatedTokens: 822
 keywords: [EmissionsActivity, company’s, emission, generating, activities, greenhouse, gas, categories, aggregate, emissions, API, version, 54.0, later, Calls]
 ---

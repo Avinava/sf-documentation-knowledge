@@ -5,7 +5,7 @@ topic: scope3emssnsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.033Z
+lastCollected: 2026-04-07T09:06:06.124Z
 estimatedTokens: 484
 keywords: [Scope3EmssnSrc, scope, activities, source, greenhouse, gas, emissions]
 ---

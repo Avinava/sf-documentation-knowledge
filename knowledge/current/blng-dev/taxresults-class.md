@@ -5,7 +5,7 @@ topic: taxresults-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.092Z
+lastCollected: 2026-04-07T09:03:16.750Z
 estimatedTokens: 1037
 keywords: [TaxResults, setter, populate, data, tax, callout, passed, back, Salesforce, Billing, connector, getId, getRate, getSummary, getTax]
 ---

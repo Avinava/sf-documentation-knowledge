@@ -5,7 +5,7 @@ topic: productusagegrant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.403Z
+lastCollected: 2026-04-07T09:02:05.293Z
 estimatedTokens: 1918
 keywords: [ProductUsageGrant, grant, associated, resource, product, service, purchased, quantity, renewal, rollover, policy, validity, API, version, 62.0]
 ---

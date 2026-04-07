@@ -5,7 +5,7 @@ topic: testing-your-canvaslifecyclehandler-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.486Z
+lastCollected: 2026-04-07T09:05:04.583Z
 estimatedTokens: 537
 keywords: [Testing, CanvasLifecycleHandler, Implementation, Canvas.Test, test, Canvas.CanvasLifecycleHandler.onRender, having, run, canvas, app]
 ---

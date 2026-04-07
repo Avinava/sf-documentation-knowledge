@@ -5,7 +5,7 @@ topic: returnorderitemadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.326Z
+lastCollected: 2026-04-07T09:04:48.549Z
 estimatedTokens: 687
 keywords: [ReturnOrderItemAdjustment, price, adjustment, order, line, item, API, version, 50.0, later, Calls, Special, Access, Rules, Associated]
 ---

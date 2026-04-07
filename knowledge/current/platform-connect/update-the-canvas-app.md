@@ -5,7 +5,7 @@ topic: update-the-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.618Z
+lastCollected: 2026-04-07T09:05:04.798Z
 estimatedTokens: 918
 keywords: [Canvas, App, step, run, “hello, world”, that’s, now, running, Heroku]
 ---

@@ -5,7 +5,7 @@ topic: externaldatasource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.611Z
+lastCollected: 2026-04-07T09:04:04.820Z
 estimatedTokens: 3129
 keywords: [ExternalDataSource, metadata, associated, external, data, source, sources, manage, connection, integration, content, stored, outside, Salesforce, org]
 ---

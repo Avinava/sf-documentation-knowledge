@@ -5,7 +5,7 @@ topic: providing-chart-data-via-a-controller-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.972Z
+lastCollected: 2026-04-07T09:04:56.824Z
 estimatedTokens: 751
 keywords: [Providing, Chart, Data, via, Controller, straightforward, way, provide, Visualforce, expression, references, Simply, <apex, chart>, attribute]
 ---

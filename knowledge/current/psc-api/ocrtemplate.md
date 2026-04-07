@@ -5,7 +5,7 @@ topic: ocrtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.792Z
+lastCollected: 2026-04-07T09:05:10.922Z
 estimatedTokens: 1638
 keywords: [OcrTemplate, mapping, form, Salesforce, Intelligent, Document, Reader.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, document, Reader, API, version, 55.0]
 ---

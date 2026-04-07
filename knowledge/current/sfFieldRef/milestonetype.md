@@ -5,7 +5,7 @@ topic: milestonetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.368Z
+lastCollected: 2026-04-07T09:05:54.572Z
 estimatedTokens: 281
 keywords: [MilestoneType, milestone, step, customer, support, process, API, version, 18.0, later]
 ---

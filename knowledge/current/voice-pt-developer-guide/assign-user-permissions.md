@@ -5,7 +5,7 @@ topic: assign-user-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.966Z
+lastCollected: 2026-04-07T09:06:18.412Z
 estimatedTokens: 236
 keywords: [Assign, User, Permissions, Service, Cloud, Voice, Partner, Telephony, comes, assigned, users, part, Contact, Center, Admin]
 ---

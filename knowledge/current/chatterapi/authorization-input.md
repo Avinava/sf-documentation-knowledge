@@ -5,7 +5,7 @@ topic: authorization-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:11.037Z
+lastCollected: 2026-04-07T09:03:20.565Z
 estimatedTokens: 409
 keywords: [Authorization, Input, Payment, consumed, service]
 ---

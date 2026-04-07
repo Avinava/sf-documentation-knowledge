@@ -5,7 +5,7 @@ topic: apexdynamiccomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.401Z
+lastCollected: 2026-04-07T09:04:57.434Z
 estimatedTokens: 361
 keywords: [apex, dynamicComponent, tag, acts, placeholder, dynamic, components, parameter—componentValue—which, accepts, component, Attributes]
 ---

@@ -5,7 +5,7 @@ topic: datacloud-purchase-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.233Z
+lastCollected: 2026-04-07T09:03:31.226Z
 estimatedTokens: 196
 keywords: [Datacloud, Purchase, Usage, Data.com, organization, credits, Monthly, Listpool, users]
 ---

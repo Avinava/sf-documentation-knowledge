@@ -5,7 +5,7 @@ topic: contactpointconsent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.941Z
+lastCollected: 2026-04-07T09:05:40.608Z
 estimatedTokens: 532
 keywords: [ContactPointConsent, customer's, consent, contacted, via, specific, contact, point, email, address, phone, number, API, version, 48.0]
 ---

@@ -5,8 +5,8 @@ topic: healthcarepractitionerfacility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.896Z
-estimatedTokens: 1810
+lastCollected: 2026-04-07T09:05:14.962Z
+estimatedTokens: 1809
 keywords: [HealthcarePractitionerFacility, different, locations, practitioner, services, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
@@ -50,7 +50,7 @@ This object is available if Provider Management is enabled in your org. To acces
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionName of the practitioner facility record. |
 | OperatingHoursId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIdentifies the operating hours for this practitioner at this facility.This is a relationship field.Relationship NameOperatingHoursRelationship TypeLookupRefers ToOperatingHours |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
-| SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSystem from which the record was sourced. |
+| SourceSystem | TypestringPropertiesCreate, Filter, , Nillable, Sort, UpdateDescriptionSystem from which the record was sourced. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionID of an external record on its source system. |
 | SsaCountyCode | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSocial Security Administration identifier for the county. |
 | TerminationDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDate the practitioner stopped working at this facility. |

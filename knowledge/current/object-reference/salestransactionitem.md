@@ -5,7 +5,7 @@ topic: salestransactionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:03.390Z
+lastCollected: 2026-04-07T09:04:33.284Z
 estimatedTokens: 3055
 keywords: [SalesTransactionItem, business, logic, sales, transaction, item, order, API, version, 55.0, later, Calls, Special, Access, Rules]
 ---

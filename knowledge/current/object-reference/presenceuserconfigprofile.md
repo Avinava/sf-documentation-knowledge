@@ -5,7 +5,7 @@ topic: presenceuserconfigprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.972Z
+lastCollected: 2026-04-07T09:04:46.867Z
 estimatedTokens: 279
 keywords: [PresenceUserConfigProfile, configuration, determines, settings, assigned, presence, users, specific, profile, User-level, configurations, override, profile-level, API, version]
 ---

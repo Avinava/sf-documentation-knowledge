@@ -5,7 +5,7 @@ topic: shippingrategroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.166Z
+lastCollected: 2026-04-07T09:04:49.642Z
 estimatedTokens: 201
 keywords: [ShippingRateGroup, shipping, rates, destination, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---

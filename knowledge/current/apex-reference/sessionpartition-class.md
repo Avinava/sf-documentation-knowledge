@@ -5,7 +5,7 @@ topic: sessionpartition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:43.562Z
+lastCollected: 2026-04-07T09:02:16.434Z
 estimatedTokens: 544
 namespace: Cache
 keywords: [SessionPartition, manage, cache, session, specific, partition, Usage]

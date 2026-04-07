@@ -5,7 +5,7 @@ topic: learning-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.359Z
+lastCollected: 2026-04-07T09:02:32.623Z
 estimatedTokens: 1280
 keywords: [Learning, Apex, developer, account, there, resources, Trailhead, Content, Salesforce, Developers, Center, Code, Samples, SDKs, Training]
 ---

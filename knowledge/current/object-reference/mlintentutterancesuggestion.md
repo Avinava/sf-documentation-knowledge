@@ -5,7 +5,7 @@ topic: mlintentutterancesuggestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.922Z
+lastCollected: 2026-04-07T09:04:44.498Z
 estimatedTokens: 222
 keywords: [MlIntentUtteranceSuggestion, customer, input, training, purposes, feedback, loop, process, conversation, Admins, add, inputs, intent, model, API]
 ---

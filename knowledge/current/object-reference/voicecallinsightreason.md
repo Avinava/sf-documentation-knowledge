@@ -5,7 +5,7 @@ topic: voicecallinsightreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.218Z
+lastCollected: 2026-04-07T09:04:52.348Z
 estimatedTokens: 537
 keywords: [VoiceCallInsightReason, voice, call, insight, reason, keyword, moments, associated, number, occurrences, API, version, 66.0, later, Calls]
 ---

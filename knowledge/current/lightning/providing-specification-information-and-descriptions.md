@@ -5,7 +5,7 @@ topic: providing-specification-information-and-descriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.795Z
+lastCollected: 2026-04-07T09:04:13.876Z
 estimatedTokens: 444
 keywords: [Providing, Specification, Descriptions, tab, root, definition, attributes]
 ---

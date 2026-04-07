@@ -5,7 +5,7 @@ topic: additional-considerations-for-apex-in-an-offline-enabled-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.373Z
+lastCollected: 2026-04-07T09:04:24.386Z
 estimatedTokens: 423
 keywords: [Additional, Considerations, Apex, Offline-Enabled, Mobile, App, differences, behavior, compared, run, browser-based, connection, apply, Lightning, web]
 ---

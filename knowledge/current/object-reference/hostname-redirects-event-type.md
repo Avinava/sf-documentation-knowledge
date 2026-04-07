@@ -5,7 +5,7 @@ topic: hostname-redirects-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:09.220Z
+lastCollected: 2026-04-07T09:04:40.290Z
 estimatedTokens: 3738
 keywords: [Hostname, Redirects, Event, Redirect, events, contain, blocked, successful, redirections, previous, Domain, hostnames, EventLogFile, API, version]
 ---
@@ -201,7 +201,7 @@ product__c/a00000000000000IAI/view",
 ```
 
 ```
-curl https://MyDomainName.my.salesforce.com/services/data/v66.0/query?q=SELECT+
+curl https://MyDomainName.my.salesforce.com/services/data/v/query?q=SELECT+
 LogDate%2C+LogFile+FROM+EventLogFile+WHERE+EventType%3D%27HostnameRedirects%27
 +ORDER+BY+CreatedDate+DESC+LIMIT+1 -H "Authorization: Bearer token"
 ```

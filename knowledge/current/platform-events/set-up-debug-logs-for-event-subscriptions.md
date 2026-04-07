@@ -5,7 +5,7 @@ topic: set-up-debug-logs-for-event-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.125Z
+lastCollected: 2026-04-07T09:05:05.544Z
 estimatedTokens: 293
 keywords: [Debug, Logs, Event, Subscriptions, platform, triggers, processes, resumed, flow, interviews, created, Automated, Process, separate, their]
 ---

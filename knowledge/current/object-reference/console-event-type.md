@@ -5,7 +5,7 @@ topic: console-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.051Z
+lastCollected: 2026-04-07T09:04:40.096Z
 estimatedTokens: 1775
 keywords: [Console, Event, events, contain, performance, Salesforce, Consoles, logged, whenever, tab, opened, sidebar, component, Outside, tabs]
 ---

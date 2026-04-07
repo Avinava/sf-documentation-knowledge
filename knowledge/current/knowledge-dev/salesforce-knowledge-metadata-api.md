@@ -5,7 +5,7 @@ topic: salesforce-knowledge-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.502Z
+lastCollected: 2026-04-07T09:04:04.663Z
 estimatedTokens: 576
 keywords: [Salesforce, Knowledge, Metadata, API, manage, articles, layouts, data, categories]
 ---

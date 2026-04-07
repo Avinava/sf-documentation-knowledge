@@ -5,7 +5,7 @@ topic: productservicecampaignitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.066Z
+lastCollected: 2026-04-07T09:04:23.990Z
 estimatedTokens: 818
 keywords: [ProductServiceCampaignItem, item, asset, serialized, product, that’s, included, service, campaign, API, version, 61.0, later, Calls]
 ---

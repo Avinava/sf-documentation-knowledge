@@ -5,7 +5,7 @@ topic: issue-credit-memo-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:11.423Z
+lastCollected: 2026-04-07T09:01:54.837Z
 estimatedTokens: 418
 keywords: [Issue, Credit, Memo, Action, memos, disputed, invoices, resolve, billing, disputes, Special, Access, Rules, REST, HTTP]
 ---

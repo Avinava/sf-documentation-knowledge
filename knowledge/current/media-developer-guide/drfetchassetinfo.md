@@ -5,7 +5,7 @@ topic: drfetchassetinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.007Z
+lastCollected: 2026-04-07T09:04:21.001Z
 estimatedTokens: 151
 keywords: [DRFetchAssetInfo, Omnistudio, Data, Mapper, fetches, asset, account, associated, IDs, Sample, Input, Output]
 ---

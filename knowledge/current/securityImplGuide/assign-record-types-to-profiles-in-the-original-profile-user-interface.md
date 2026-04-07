@@ -5,7 +5,7 @@ topic: assign-record-types-to-profiles-in-the-original-profile-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.577Z
+lastCollected: 2026-04-07T09:05:28.193Z
 estimatedTokens: 655
 keywords: [Assign, Record, Profiles, Original, Profile, User, include, picklist, add]
 ---

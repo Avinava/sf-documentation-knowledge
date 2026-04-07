@@ -5,7 +5,7 @@ topic: how-we-handle-profile-settings-in-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.127Z
+lastCollected: 2026-04-07T09:05:03.953Z
 estimatedTokens: 859
 keywords: [How, Handle, Profile, Settings, Second-Generation, Managed, Packages, package, version, creation, unlocked, build, system, inspects, contents]
 ---

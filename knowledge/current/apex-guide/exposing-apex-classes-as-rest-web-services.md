@@ -5,7 +5,7 @@ topic: exposing-apex-classes-as-rest-web-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.917Z
+lastCollected: 2026-04-07T09:02:33.135Z
 estimatedTokens: 503
 keywords: [Exposing, Apex, Classes, REST, Web, Services, expose, external, applications, access, code, application, architecture]
 ---

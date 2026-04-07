@@ -5,7 +5,7 @@ topic: assessmentreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.042Z
+lastCollected: 2026-04-07T09:05:12.725Z
 estimatedTokens: 604
 keywords: [AssessmentReason, reasons, assessment, associated, coverage, API, version, 63.0, later, Calls, Objects]
 ---

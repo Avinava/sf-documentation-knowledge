@@ -5,7 +5,7 @@ topic: approvalworkitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.769Z
+lastCollected: 2026-04-07T09:04:34.893Z
 estimatedTokens: 1263
 keywords: [ApprovalWorkItem, run-time, step, approval, workflow, assignees, their, decisions, regarding, object's, master-detail, relationship, ApprovalSubmission, API, version]
 ---

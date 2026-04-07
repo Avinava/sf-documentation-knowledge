@@ -5,7 +5,7 @@ topic: scan-barcodes-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:49.428Z
+lastCollected: 2026-04-07T09:03:00.968Z
 estimatedTokens: 898
 keywords: [Scan, Barcodes, Mobile, Device, Lightning, web, component, device’s, camera, platform, features, barcode, UPC, symbol, code]
 ---

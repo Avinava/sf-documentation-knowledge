@@ -5,7 +5,7 @@ topic: service-process-studio-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.870Z
+lastCollected: 2026-04-07T09:03:05.857Z
 estimatedTokens: 93
 keywords: [Service, Process, Studio, Automotive, Cloud, Build, enhanced, customer, experiences, real-time, integration, detailed, rules, configurations]
 ---

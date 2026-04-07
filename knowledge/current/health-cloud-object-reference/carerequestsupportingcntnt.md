@@ -5,7 +5,7 @@ topic: carerequestsupportingcntnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.698Z
+lastCollected: 2026-04-07T09:03:57.733Z
 estimatedTokens: 1139
 keywords: [CareRequestSupportingCntnt, supporting, content, care, assessments, documents, API, version, 63.0, later, Calls, Associated, Objects]
 ---

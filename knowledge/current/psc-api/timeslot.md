@@ -5,7 +5,7 @@ topic: timeslot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.187Z
+lastCollected: 2026-04-07T09:05:15.287Z
 estimatedTokens: 1026
 keywords: [TimeSlot, range, time, day, week, provider, practitioner, offers, service, Operating, hours, consist, slots, Calls, Special]
 ---

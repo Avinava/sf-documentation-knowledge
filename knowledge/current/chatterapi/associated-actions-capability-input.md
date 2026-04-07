@@ -5,7 +5,7 @@ topic: associated-actions-capability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.980Z
+lastCollected: 2026-04-07T09:03:20.483Z
 estimatedTokens: 402
 keywords: [Associated, Actions, Capability, Input, action, links, created, updated, feed, element, associate, link, group, client, app]
 ---

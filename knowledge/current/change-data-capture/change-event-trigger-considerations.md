@@ -5,7 +5,7 @@ topic: change-event-trigger-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:09.759Z
+lastCollected: 2026-04-07T09:03:18.868Z
 estimatedTokens: 404
 keywords: [Change, Event, Trigger, Considerations, Keep, mind, working, events, Apex, triggers]
 ---

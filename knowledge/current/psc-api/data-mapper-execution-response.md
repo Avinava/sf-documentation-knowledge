@@ -5,7 +5,7 @@ topic: data-mapper-execution-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.808Z
+lastCollected: 2026-04-07T09:05:09.230Z
 estimatedTokens: 148
 keywords: [Data, Mapper, Execution, Output, representation, error, message, status]
 ---

@@ -5,7 +5,7 @@ topic: retrieve
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:09.775Z
+lastCollected: 2026-04-07T09:02:43.845Z
 estimatedTokens: 2403
 keywords: [retrieve, call, retrieves, XML, file, representations, components, organization, Usage, Permissions, Arguments, Sample, Code—Java]
 ---

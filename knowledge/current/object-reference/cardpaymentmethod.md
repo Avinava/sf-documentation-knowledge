@@ -5,7 +5,7 @@ topic: cardpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:06.106Z
+lastCollected: 2026-04-07T09:04:36.409Z
 estimatedTokens: 3351
 keywords: [CardPaymentMethod, credit, card, debit, payment, implements, PaymentMethod, API, version, 48.0, later, Calls, Special, Access, Rules]
 ---

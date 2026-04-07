@@ -5,7 +5,7 @@ topic: aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.024Z
+lastCollected: 2026-04-07T09:04:14.197Z
 estimatedTokens: 450
 keywords: [Aura, Components, self-contained, reusable, units, app, They, represent, range, granularity, line, text, entire]
 ---

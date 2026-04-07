@@ -5,7 +5,7 @@ topic: cgcloudaccountextensionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.949Z
+lastCollected: 2026-04-07T09:05:19.233Z
 estimatedTokens: 3994
 keywords: [cgcloud__Account_Extension__c, records, account, roles, further, product-related, attributes, API, version, 54.0, later, cgcloud, _Account, _Extension, Calls]
 ---

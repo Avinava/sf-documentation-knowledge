@@ -5,7 +5,7 @@ topic: learn-lightning-web-components-with-trailhead
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.640Z
+lastCollected: 2026-04-07T09:04:24.818Z
 estimatedTokens: 1060
 keywords: [Lightning, Web, Components, Trailhead, you’re, already, experienced, LWC, developer, best, way, extensive, collection, lessons, projects]
 ---

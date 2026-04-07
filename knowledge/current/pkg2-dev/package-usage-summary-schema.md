@@ -5,7 +5,7 @@ topic: package-usage-summary-schema
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.910Z
+lastCollected: 2026-04-07T09:05:02.403Z
 estimatedTokens: 869
 keywords: [Package, Usage, Summary, Schema, discover, how, users, access, operations, they, perform]
 ---

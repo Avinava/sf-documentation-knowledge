@@ -5,7 +5,7 @@ topic: careprovidersearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.518Z
+lastCollected: 2026-04-07T09:04:09.983Z
 estimatedTokens: 2065
 keywords: [CareProviderSearchableField, holds, denormalized, data, certain, Provider, Relationship, Management, model, search, APIs, query, instead, multiple, objects]
 ---
@@ -40,7 +40,7 @@ delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), quer
 | IsUpdateNeeded | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether a change to data in a healthcare provider record or a related record requires a data sync (true) or not (false). The default value is false. |
 | LanguagesSpoken | TypetextareaPropertiesNillableDescriptionThe languages spoken by the person. Specified in PersonLanguage.Language. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | LicenseJurisdictionCountry | TypeStringPropertiesFilter, NillableDescriptionThe country where the license of the Healthcare Provider is registered. Specified in BusinessLicense.JurisdictionCountry.This field is available in API version 57.0 or later. |
 | LicenseJurisdictionRegion | TypeStringPropertiesFilter, NillableDescriptionThe region where the license of the Healthcare Provider is registered. Specified in BusinessLicense.JurisdictionRegion.This field is available in API version 57.0 or later. |
 | LicenseJurisdictionState | TypeStringPropertiesFilter, NillableDescriptionThe state where the license of the Healthcare Provider is registered. Specified in BusinessLicense.JurisdictionState.This field is available in API version 57.0 or later. |

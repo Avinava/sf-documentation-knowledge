@@ -5,7 +5,7 @@ topic: use-a-connected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.551Z
+lastCollected: 2026-04-07T09:05:04.691Z
 estimatedTokens: 1148
 keywords: [Connected, App, Creating, canvas, longer, recommended, external, client, apps, new, integrations]
 ---

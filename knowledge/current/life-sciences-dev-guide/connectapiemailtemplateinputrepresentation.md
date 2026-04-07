@@ -5,7 +5,7 @@ topic: connectapiemailtemplateinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.027Z
+lastCollected: 2026-04-07T09:04:05.362Z
 estimatedTokens: 554
 keywords: [Input, representation, creating, updating, email, template]
 ---

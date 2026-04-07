@@ -5,7 +5,7 @@ topic: cgcloudaccountconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.910Z
+lastCollected: 2026-04-07T09:05:19.189Z
 estimatedTokens: 1094
 keywords: [cgcloud__Account_Condition__c, relationship, customer, conditions, API, version, 54.0, later, cgcloud, _Account, _Condition, Calls, Associated, Objects]
 ---

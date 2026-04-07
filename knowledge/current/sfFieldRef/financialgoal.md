@@ -5,7 +5,7 @@ topic: financialgoal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.152Z
+lastCollected: 2026-04-07T09:05:46.072Z
 estimatedTokens: 494
 keywords: [FinancialGoal, Financial, Goal, standard, Salesforce, person, account, API, version, 59.0, later]
 ---

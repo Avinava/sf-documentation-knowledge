@@ -5,7 +5,7 @@ topic: product-clause-creation-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.560Z
+lastCollected: 2026-04-07T09:04:03.230Z
 estimatedTokens: 148
 keywords: [Product, Clause, Creation, Output, representation, bulk, clauses]
 ---

@@ -5,7 +5,7 @@ topic: license-object-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.420Z
+lastCollected: 2026-04-07T09:05:01.602Z
 estimatedTokens: 831
 keywords: [License, custom, limits, how, users, subscriber’s, org, app, long]
 ---

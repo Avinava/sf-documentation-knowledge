@@ -5,7 +5,7 @@ topic: install-the-komaci-static-analyzer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.616Z
+lastCollected: 2026-04-07T09:04:24.774Z
 estimatedTokens: 478
 keywords: [Install, Komaci, Analyzer, analyser, ESLint, plugin, package, manager, NPM, Yarn]
 ---

@@ -5,7 +5,7 @@ topic: settabstyle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.829Z
+lastCollected: 2026-04-07T09:03:04.681Z
 estimatedTokens: 351
 keywords: [setTabStyle, cascading, style, sheet, CSS, tab, enclosing, customize, tab’s, look, feel, API, version, 28.0, later]
 ---

@@ -5,7 +5,7 @@ topic: datacategorygroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:05.210Z
+lastCollected: 2026-04-07T09:02:38.984Z
 estimatedTokens: 2388
 keywords: [DataCategoryGroup, data, category, group, File, Suffix, Directory, Location, Version, DataCategory, ObjectUsage, Declarative, Metadata, Sample, Definition]
 ---

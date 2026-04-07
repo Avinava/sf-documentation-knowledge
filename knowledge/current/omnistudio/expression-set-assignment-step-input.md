@@ -5,7 +5,7 @@ topic: expression-set-assignment-step-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:48.811Z
+lastCollected: 2026-04-07T09:02:51.391Z
 estimatedTokens: 138
 keywords: [Expression, Assignment, Step, Input, representation]
 ---

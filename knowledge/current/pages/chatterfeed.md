@@ -5,7 +5,7 @@ topic: chatterfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.217Z
+lastCollected: 2026-04-07T09:04:57.169Z
 estimatedTokens: 508
 keywords: [chatter, feed, Displays, record, user, Usage, Limitations, Attributes]
 ---

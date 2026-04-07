@@ -5,7 +5,7 @@ topic: contact
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:34.845Z
+lastCollected: 2026-04-07T09:05:14.904Z
 estimatedTokens: 3356
 keywords: [Contact, person, associated, account, Calls, Special, Access, Rules, Usage, Objects]
 ---

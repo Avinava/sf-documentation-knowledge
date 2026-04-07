@@ -5,7 +5,7 @@ topic: cgcsyncsyncclientappprofilemappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.667Z
+lastCollected: 2026-04-07T09:05:18.832Z
 estimatedTokens: 314
 keywords: [Maps, either, user, role, profile, specific, sync, configuration, API, version, 53.0, later, cgc, _sync, _Client]
 ---

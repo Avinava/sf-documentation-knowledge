@@ -5,7 +5,7 @@ topic: authentication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.499Z
+lastCollected: 2026-04-07T09:02:33.654Z
 estimatedTokens: 250
 keywords: [Authentication, Salesforce, various, ways, authenticate, users, Build, combination, fit, needs, org, users’, patterns]
 ---

@@ -5,7 +5,7 @@ topic: custom-object-and-external-object-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.974Z
+lastCollected: 2026-04-07T09:05:02.503Z
 estimatedTokens: 1793
 keywords: [Custom, External, Interactions, log, record, package, usage, custom_entity_type, equal, CustomObject, ExternalObject, means, user, performed, action]
 ---

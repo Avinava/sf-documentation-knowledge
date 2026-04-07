@@ -5,7 +5,7 @@ topic: medicationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.330Z
+lastCollected: 2026-04-07T09:04:07.280Z
 estimatedTokens: 3230
 keywords: [MedicationRequest, order, supply, medication, along, how, administered, API, version, 51.0, later, Calls, Additional, Objects, Associated, ​Medication​​Request, ​The, FH​I​R, resource, maps]
 ---

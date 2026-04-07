@@ -5,7 +5,7 @@ topic: test-custom-integrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.054Z
+lastCollected: 2026-04-07T09:05:02.605Z
 estimatedTokens: 745
 keywords: [Test, Custom, Integrations, nonproduction, environment, AppExchange, App, Analytics, Simulation, Mode, Submit, query, receive, sample, usage]
 ---

@@ -5,7 +5,7 @@ topic: create-a-stripe-account-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.397Z
+lastCollected: 2026-04-07T09:04:54.120Z
 estimatedTokens: 625
 keywords: [Stripe, Account, AppExchange, Checkout, listings, payment, partner]
 ---

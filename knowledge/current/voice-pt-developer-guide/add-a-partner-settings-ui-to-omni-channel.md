@@ -5,7 +5,7 @@ topic: add-a-partner-settings-ui-to-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.096Z
+lastCollected: 2026-04-07T09:06:18.624Z
 estimatedTokens: 352
 namespace: TelephonySettingsComponent
 keywords: [Add, Partner, Settings, Omni-Channel, Partners, launch, Lightning, component, widget, their, own, additional, shown, along, common]

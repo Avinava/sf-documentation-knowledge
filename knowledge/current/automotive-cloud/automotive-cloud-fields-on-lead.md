@@ -5,7 +5,7 @@ topic: automotive-cloud-fields-on-lead
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.343Z
+lastCollected: 2026-04-07T09:03:06.508Z
 estimatedTokens: 231
 keywords: [Automotive, Cloud, Lead, Standard, extend, represent, time, frame, interested, transaction]
 ---

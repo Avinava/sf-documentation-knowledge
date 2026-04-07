@@ -5,7 +5,7 @@ topic: get-the-appointment-invitation-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.940Z
+lastCollected: 2026-04-07T09:05:27.283Z
 estimatedTokens: 459
 keywords: [Appointment, Invitation, users, booking, appointments, Query, run, Salesforce, Language, SOQL, AppointmentInvitation, retrieve, topic, work, group]
 ---

@@ -5,7 +5,7 @@ topic: insurance-policy-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.950Z
+lastCollected: 2026-04-07T09:04:03.897Z
 estimatedTokens: 661
 keywords: [Insurance, Policy, Business, APIs, Manage, transactions, issuance, endorsement, renewal, cancellation, Calculate, term, taxes, transaction, durations]
 ---

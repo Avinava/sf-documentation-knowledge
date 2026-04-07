@@ -5,7 +5,7 @@ topic: host-the-connector-as-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.913Z
+lastCollected: 2026-04-07T09:06:18.330Z
 estimatedTokens: 424
 keywords: [Host, Connector, Visualforce, Salesforce, package]
 ---

@@ -5,7 +5,7 @@ topic: commerce-webstore-carts-compact-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.310Z
+lastCollected: 2026-04-07T09:03:25.457Z
 estimatedTokens: 243
 keywords: [Commerce, Webstore, Carts, Compact, Summary, cart, includes, subset, including, total, unique, product, counts]
 ---

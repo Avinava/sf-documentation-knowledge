@@ -5,7 +5,7 @@ topic: cgcloudlistingmodulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.979Z
+lastCollected: 2026-04-07T09:05:20.489Z
 estimatedTokens: 835
 keywords: [cgcloud__Listing_Module__c, stores, listing, modules, product, assortment, API, version, 54.0, later, cgcloud, _Listing, _Module, Calls, Associated]
 ---

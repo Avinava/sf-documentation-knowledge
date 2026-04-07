@@ -5,8 +5,8 @@ topic: reprice-insurance-product-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.721Z
-estimatedTokens: 615
+lastCollected: 2026-04-07T09:04:00.230Z
+estimatedTokens: 614
 keywords: [Reprice, Insurance, Product, Action, Recalculate, price, products, user, inputs, REST, HTTP, Outputs]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 63.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/repriceInsuranceProduct
+/services/data/v/actions/standard/repriceInsuranceProduct
 
 Formats
 

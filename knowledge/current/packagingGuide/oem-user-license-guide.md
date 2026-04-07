@@ -5,7 +5,7 @@ topic: oem-user-license-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:20.958Z
+lastCollected: 2026-04-07T09:04:55.017Z
 estimatedTokens: 4123
 keywords: [OEM, User, License, partners, Availability, Objects, Financial, Services, Cloud-Only, Features, Permissions, Org-Level, Allocations, Storage, Limits]
 ---

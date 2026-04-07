@@ -5,7 +5,7 @@ topic: simple-variable-types-for-variablesjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.654Z
+lastCollected: 2026-04-07T09:03:16.065Z
 estimatedTokens: 261
 keywords: [Simple, Variable, variables.json, call, “simple”, because, they’re, standard, predefined, datatypes, Enumerated]
 ---

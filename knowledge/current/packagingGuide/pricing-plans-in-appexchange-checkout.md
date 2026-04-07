@@ -5,7 +5,7 @@ topic: pricing-plans-in-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.348Z
+lastCollected: 2026-04-07T09:04:54.046Z
 estimatedTokens: 268
 keywords: [Pricing, Plans, AppExchange, Checkout, supports, two, one-time, subscription, either, plan, charge, customers, per, user, company]
 ---

@@ -5,7 +5,7 @@ topic: legacy-page-security-plugin-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.813Z
+lastCollected: 2026-04-07T09:03:40.523Z
 estimatedTokens: 400
 keywords: [Legacy, Security, Plugin, Apex, Salesforce, CPQ, plugins, let, developers, control, field-level, visibility, data, entry, mode]
 ---

@@ -5,7 +5,7 @@ topic: commerce-webstore-taxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.602Z
+lastCollected: 2026-04-07T09:03:25.857Z
 estimatedTokens: 310
 keywords: [Commerce, Webstore, Taxes, product, store, state, country, buyer, account, guest, profile]
 ---

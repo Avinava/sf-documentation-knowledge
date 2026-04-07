@@ -5,8 +5,8 @@ topic: partnerfundallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.291Z
-estimatedTokens: 934
+lastCollected: 2026-04-07T09:04:46.139Z
+estimatedTokens: 927
 keywords: [PartnerFundAllocation, allocated, funds, partner, marketing, budget, channel, partners, API, version, 41.0, later, Calls, Associated, Objects]
 ---
 
@@ -31,8 +31,8 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | BudgetId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionID of the partner marketing budget. |
 | ChannelPartnerId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionID of the channel partner.NoteThe ChannelPartnerId field isn’t supported for formula fields, custom buttons, or custom links for the PartnerFundAllocation object. This limitation also applies to the PartnerMarketingBudget and PartnerFundRequest objects. |
 | Description | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDescription of the allocation. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionID of the owner of the allocation. |
 | Title | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe title of the allocation. |
 | TotalApprovedFcs | TypecurrencyPropertiesFilter, Nillable, SortDescriptionTotal amount of approved fund claims. |

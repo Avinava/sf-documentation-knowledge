@@ -5,7 +5,7 @@ topic: vpl360submitfdorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.919Z
+lastCollected: 2026-04-07T09:04:20.872Z
 estimatedTokens: 120
 keywords: [VPL360_SubmitFDOrder, Integration, Procedure, submits, Future, Dated, Order, FDO, cancellation, VPL360, _SubmitFDOrder, Sample, Input, Output, Calls]
 ---

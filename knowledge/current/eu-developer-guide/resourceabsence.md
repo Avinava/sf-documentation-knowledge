@@ -5,7 +5,7 @@ topic: resourceabsence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.357Z
+lastCollected: 2026-04-07T09:03:45.571Z
 estimatedTokens: 232
 keywords: [ResourceAbsence, associated, time, period, service, resource, unavailable, work, API, version, 64.0, later, Calls]
 ---

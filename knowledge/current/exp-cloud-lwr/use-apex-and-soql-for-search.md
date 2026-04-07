@@ -5,7 +5,7 @@ topic: use-apex-and-soql-for-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:27.518Z
+lastCollected: 2026-04-07T09:03:45.783Z
 estimatedTokens: 523
 keywords: [Apex, SOQL, Search, theme, layout, component, user, results]
 ---

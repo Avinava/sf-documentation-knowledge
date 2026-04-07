@@ -5,7 +5,7 @@ topic: files-connect-field-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.987Z
+lastCollected: 2026-04-07T09:03:30.835Z
 estimatedTokens: 232
 keywords: [Files, Connect, Definition, item]
 ---

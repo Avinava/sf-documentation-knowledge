@@ -5,7 +5,7 @@ topic: use-batch-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:41.311Z
+lastCollected: 2026-04-07T09:02:30.758Z
 estimatedTokens: 8392
 keywords: [Batch, Apex, write, implements, Salesforce-provided, Database.Batchable, invoke, programmatically, monitor, stop, execution, job, Setup, enter, Jobs]
 ---

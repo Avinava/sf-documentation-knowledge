@@ -5,7 +5,7 @@ topic: event-access-control
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.854Z
+lastCollected: 2026-04-07T09:04:12.493Z
 estimatedTokens: 83
 keywords: [Event, Access, Control, attribute, aura, tag, whether, outside, event’s]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudaccounttasktemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.094Z
+lastCollected: 2026-04-07T09:05:19.424Z
 estimatedTokens: 1551
 keywords: [cgcloud__Account_Task_Template__c, customer, task, template, tasks, API, version, 54.0, later, cgcloud, _Account, _Task, _Template, Calls, Associated]
 ---

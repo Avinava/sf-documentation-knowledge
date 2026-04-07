@@ -5,7 +5,7 @@ topic: managing-component-states
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:22.413Z
+lastCollected: 2026-04-07T09:02:02.151Z
 estimatedTokens: 816
 keywords: [Managing, Component, States, Manage, activation, versioning, dependencies, components, objects, part, deployment, plan, successful, sure, system]
 ---

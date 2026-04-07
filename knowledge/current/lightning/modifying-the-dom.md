@@ -5,7 +5,7 @@ topic: modifying-the-dom
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.140Z
+lastCollected: 2026-04-07T09:04:14.358Z
 estimatedTokens: 281
 keywords: [Modifying, DOM, Document, Model, language-independent, representing, interacting, objects, HTML, XML, documents, It’s, know, how, modify]
 ---

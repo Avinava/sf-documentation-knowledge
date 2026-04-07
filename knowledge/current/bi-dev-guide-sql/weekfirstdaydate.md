@@ -5,7 +5,7 @@ topic: weekfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.088Z
+lastCollected: 2026-04-07T09:03:15.116Z
 estimatedTokens: 172
 keywords: [week_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, Sunday, week, _first, _day]
 ---

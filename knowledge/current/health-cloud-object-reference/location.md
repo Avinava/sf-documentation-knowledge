@@ -5,7 +5,7 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.302Z
+lastCollected: 2026-04-07T09:03:55.998Z
 estimatedTokens: 1396
 keywords: [Location, FHIR, resource, maps, Healthcare​Facility, objects, Salesforce​, V4​.0, Clinical, Data, Model, Mapping, Sample, Record, Diagram]
 ---

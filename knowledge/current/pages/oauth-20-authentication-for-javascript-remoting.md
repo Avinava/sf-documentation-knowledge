@@ -5,7 +5,7 @@ topic: oauth-20-authentication-for-javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:23.775Z
+lastCollected: 2026-04-07T09:04:59.419Z
 estimatedTokens: 409
 keywords: [OAuth, 2.0, Authentication, JavaScript, Remoting, authenticate, requests, instead, requiring, standard, username, password, login, process, cross-application]
 ---

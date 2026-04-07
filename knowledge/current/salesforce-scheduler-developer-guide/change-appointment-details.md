@@ -5,7 +5,7 @@ topic: change-appointment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.093Z
+lastCollected: 2026-04-07T09:05:27.533Z
 estimatedTokens: 367
 keywords: [Change, Appointment, explains, how, show, either, engagement, channel, service, resources, time, slots, user, chooses, Depending, requirement, choose]
 ---

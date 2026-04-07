@@ -5,7 +5,7 @@ topic: using-date-datetime-and-time-values-in-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.240Z
+lastCollected: 2026-04-07T09:06:17.290Z
 estimatedTokens: 2535
 keywords: [Date, Time, Formulas, useful, managing, payment, deadlines, contract, ages, any, features, organization, dependent, TODAY, NOW]
 ---

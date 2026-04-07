@@ -5,7 +5,7 @@ topic: benefitsverificationrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.293Z
+lastCollected: 2026-04-07T09:03:51.793Z
 estimatedTokens: 1186
 namespace: HealthCloudExt
 keywords: [BenefitsVerificationRequest, verification, benefits, benefitsRequestId, encounterDate, groupNumber, memberAccountId, memberNumber, payerId, providerNpi, providerOrganizationName, providerType, serviceTypeCodes]

@@ -5,7 +5,7 @@ topic: enable-the-signuprequest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.425Z
+lastCollected: 2026-04-07T09:04:55.864Z
 estimatedTokens: 423
 keywords: [Enable, SignupRequest, API, Salesforce, org, log, case]
 ---

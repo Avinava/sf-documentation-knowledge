@@ -5,7 +5,7 @@ topic: follow-social-persona-intents
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.982Z
+lastCollected: 2026-04-07T09:03:32.372Z
 estimatedTokens: 121
 keywords: [Follow, Social, Persona, Intents]
 ---

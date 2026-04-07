@@ -5,7 +5,7 @@ topic: apexinsert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.634Z
+lastCollected: 2026-04-07T09:04:57.730Z
 estimatedTokens: 200
 keywords: [apex, insert, template, component, declares, named, area, defined, <apex, define>, another, Visualforce, composition>, components, share]
 ---

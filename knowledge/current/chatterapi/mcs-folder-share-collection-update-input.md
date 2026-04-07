@@ -5,7 +5,7 @@ topic: mcs-folder-share-collection-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.991Z
+lastCollected: 2026-04-07T09:03:22.094Z
 estimatedTokens: 242
 keywords: [MCS, Folder, Share, Collection, Input, targets, managed, content, space, shared]
 ---

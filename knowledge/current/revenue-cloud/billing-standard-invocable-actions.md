@@ -5,7 +5,7 @@ topic: billing-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.251Z
+lastCollected: 2026-04-07T09:01:57.165Z
 estimatedTokens: 1570
 keywords: [Billing, Standard, Invocable, Actions, automate, processes, credit, application, schedules, creation, invoice, management, Commerce, Payments]
 ---

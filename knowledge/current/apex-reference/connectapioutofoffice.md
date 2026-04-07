@@ -5,7 +5,7 @@ topic: connectapioutofoffice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.370Z
+lastCollected: 2026-04-07T09:02:25.433Z
 estimatedTokens: 128
 keywords: [ConnectApi.OutOfOffice, User's, out-of-office, message]
 ---

@@ -5,7 +5,7 @@ topic: consent-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.651Z
+lastCollected: 2026-04-07T09:03:45.980Z
 estimatedTokens: 120
 keywords: [Consent, Interactions, capture, whether, user, opts, tracking, cookies, Opt-in, Event, Opt-out]
 ---

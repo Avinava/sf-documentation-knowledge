@@ -5,7 +5,7 @@ topic: network-data-category-catalog-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.679Z
+lastCollected: 2026-04-07T09:03:24.613Z
 estimatedTokens: 325
 keywords: [Network, Data, Category, Catalog, Items, Experience, Cloud, site, org]
 ---

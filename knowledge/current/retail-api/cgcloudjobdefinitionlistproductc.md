@@ -5,7 +5,7 @@ topic: cgcloudjobdefinitionlistproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.820Z
+lastCollected: 2026-04-07T09:05:20.292Z
 estimatedTokens: 1289
 keywords: [cgcloud__Job_Definition_List_Product__c, Stores, relationship, Job, Definition, Product, API, version, 54.0, later, cgcloud, _Job, _Definition, _List, _Product]
 ---

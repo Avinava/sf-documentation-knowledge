@@ -5,7 +5,7 @@ topic: explainability-log-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.260Z
+lastCollected: 2026-04-07T09:02:53.839Z
 estimatedTokens: 345
 keywords: [Explainability, Log, Detail, Output, representation, logs]
 ---

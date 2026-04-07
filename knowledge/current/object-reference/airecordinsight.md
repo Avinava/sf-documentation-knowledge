@@ -5,7 +5,7 @@ topic: airecordinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:04.201Z
+lastCollected: 2026-04-07T09:04:34.244Z
 estimatedTokens: 2813
 keywords: [AIRecordInsight, Einstein, prediction, insight, API, version, 47.0, later, Calls, Special, Access, Rules, Usage, Considerations, Case]
 ---

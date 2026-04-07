@@ -5,7 +5,7 @@ topic: considerations-for-publishing-and-subscribing-to-platform-events-with-ape
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.703Z
+lastCollected: 2026-04-07T09:05:04.919Z
 estimatedTokens: 2287
 keywords: [Considerations, Publishing, Subscribing, Platform, Events, Apex, APIs, Salesforce, publish, subscribe, familiarize, yourself]
 ---

@@ -5,7 +5,7 @@ topic: snippet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.295Z
+lastCollected: 2026-04-07T09:04:49.807Z
 estimatedTokens: 597
 keywords: [Snippet, container, rich, text, reused, across, Account, Engagement, emails, email, templates, API, version, 47.0, later]
 ---

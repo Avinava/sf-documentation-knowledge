@@ -5,7 +5,7 @@ topic: change-event-storage-and-delivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.750Z
+lastCollected: 2026-04-07T09:03:18.845Z
 estimatedTokens: 648
 keywords: [Change, Event, Storage, Delivery, events, stored, temporarily, subscribers, retrieve, retention, window, order, delivered, corresponding, committed]
 ---

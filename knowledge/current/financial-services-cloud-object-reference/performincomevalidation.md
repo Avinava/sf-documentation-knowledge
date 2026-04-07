@@ -5,7 +5,7 @@ topic: performincomevalidation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:28.065Z
+lastCollected: 2026-04-07T09:03:46.659Z
 estimatedTokens: 658
 keywords: [PerformIncomeValidation, Performs, validations, Party, Income, records, Ensure, start, date, earlier, end, Examples]
 ---

@@ -5,7 +5,7 @@ topic: getting-csv-delta-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.278Z
+lastCollected: 2026-04-07T09:05:18.283Z
 estimatedTokens: 71
 keywords: [Getting, CSV, Delta, Export, Once, actual, file, requested, cURL]
 ---

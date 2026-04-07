@@ -5,7 +5,7 @@ topic: sample-ci-repos-for-package-development-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.150Z
+lastCollected: 2026-04-07T09:06:12.975Z
 estimatedTokens: 309
 keywords: [Sample, Repos, Package, Development, Model, started, quickly, cloning, repository, vendor, choice, repo, configuration, file, comprehensive]
 ---

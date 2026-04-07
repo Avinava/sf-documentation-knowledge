@@ -5,7 +5,7 @@ topic: monitor-transcription-related-limit-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.780Z
+lastCollected: 2026-04-07T09:06:18.123Z
 estimatedTokens: 591
 keywords: [Monitor, Transcription-Related, Limit, Errors, org, exceeds, transcription, utterances, longer, transcribed, Track, hits, custom, VoiceCall]
 ---

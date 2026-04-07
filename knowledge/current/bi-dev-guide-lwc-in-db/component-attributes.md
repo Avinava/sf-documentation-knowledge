@@ -5,7 +5,7 @@ topic: component-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.434Z
+lastCollected: 2026-04-07T09:03:07.923Z
 estimatedTokens: 855
 keywords: [Component, Attributes, convert, any, Lightning, Web, CRM, Analytics, adding, specific]
 ---

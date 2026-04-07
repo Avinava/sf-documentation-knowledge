@@ -6,7 +6,7 @@ topic: install-and-set-up-the-feature-management-app-in-your-license-management-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.145Z
+lastCollected: 2026-04-07T09:05:02.739Z
 estimatedTokens: 356
 keywords: [Install, Feature, Management, App, License, Org, FMA, LMO, add, tab, view, adjust, layout, licenses, display]
 ---

@@ -5,7 +5,7 @@ topic: insurance-claims-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.869Z
+lastCollected: 2026-04-07T09:04:03.766Z
 estimatedTokens: 146
 keywords: [Insurance, Claims, Metadata, API, access, feature, settings, customize, user]
 ---

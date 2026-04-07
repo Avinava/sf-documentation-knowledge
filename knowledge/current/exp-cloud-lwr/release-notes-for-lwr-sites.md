@@ -5,7 +5,7 @@ topic: release-notes-for-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:27.743Z
+lastCollected: 2026-04-07T09:03:46.139Z
 estimatedTokens: 198
 keywords: [Release, Notes, LWR, Sites, Salesforce, recent, updates, changes, Experience, Cloud]
 ---

@@ -6,7 +6,7 @@ topic: assign-access-to-new-and-changed-features-in-first--and-second-generation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.647Z
+lastCollected: 2026-04-07T09:05:01.963Z
 estimatedTokens: 225
 keywords: [Assign, Access, New, Changed, Features, First-, Second-Generation, Managed, Packages, Determine, how, provide, non-admin, users, any]
 ---

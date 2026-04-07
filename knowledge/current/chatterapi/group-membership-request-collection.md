@@ -5,7 +5,7 @@ topic: group-membership-request-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.149Z
+lastCollected: 2026-04-07T09:03:32.622Z
 estimatedTokens: 101
 keywords: [Group, Membership, Collection]
 ---

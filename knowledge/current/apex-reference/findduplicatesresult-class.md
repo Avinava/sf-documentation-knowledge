@@ -5,7 +5,7 @@ topic: findduplicatesresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.683Z
+lastCollected: 2026-04-07T09:02:14.810Z
 estimatedTokens: 1684
 namespace: Datacloud
 keywords: [FindDuplicatesResult, Output, rule-based, searches, duplicate, records, results, detecting, duplicates, instances, FindDuplicates, FindDuplicatesByIds, classes, duplicateresults, errors]

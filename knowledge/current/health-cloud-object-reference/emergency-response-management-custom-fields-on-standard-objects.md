@@ -5,7 +5,7 @@ topic: emergency-response-management-custom-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.063Z
+lastCollected: 2026-04-07T09:03:54.409Z
 estimatedTokens: 215
 keywords: [Emergency, Management, Custom, Standard, Objects, adds, Salesforce]
 ---

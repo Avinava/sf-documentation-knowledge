@@ -5,7 +5,7 @@ topic: livechattranscriptevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.419Z
+lastCollected: 2026-04-07T09:04:43.883Z
 estimatedTokens: 1443
 keywords: [LiveChatTranscriptEvent, Captures, specific, events, occur, over, lifetime, chat, API, version, 24.0, later, Calls, Usage, Associated]
 ---

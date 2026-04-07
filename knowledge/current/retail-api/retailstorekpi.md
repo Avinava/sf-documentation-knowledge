@@ -5,7 +5,7 @@ topic: retailstorekpi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.726Z
+lastCollected: 2026-04-07T09:05:22.414Z
 estimatedTokens: 1350
 keywords: [RetailStoreKpi, Map, store, groups, assessment, indicator, definition, products, in-store, location, categories, define, targets, expected, compliance]
 ---

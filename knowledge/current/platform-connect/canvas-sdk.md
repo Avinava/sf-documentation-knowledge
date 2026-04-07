@@ -5,7 +5,7 @@ topic: canvas-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.448Z
+lastCollected: 2026-04-07T09:05:04.518Z
 estimatedTokens: 1480
 keywords: [Canvas, SDK, tools, enable, integrate, apps, Salesforce, framework, includes, authenticate, app, retrieve, data]
 ---

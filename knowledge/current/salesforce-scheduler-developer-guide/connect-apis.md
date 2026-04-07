@@ -5,7 +5,7 @@ topic: connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.554Z
+lastCollected: 2026-04-07T09:05:26.780Z
 estimatedTokens: 639
 keywords: [Connect, APIs, Salesforce, Scheduler, REST, service, territories, consolidated, availability, resource, appointments]
 ---

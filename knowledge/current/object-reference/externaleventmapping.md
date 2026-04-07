@@ -5,7 +5,7 @@ topic: externaleventmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.939Z
+lastCollected: 2026-04-07T09:04:41.113Z
 estimatedTokens: 548
 keywords: [ExternalEventMapping, Holds, native, iOS, Android, calendar, event, Salesforce, Today, feature, mobile, app, API, version, 35.0]
 ---

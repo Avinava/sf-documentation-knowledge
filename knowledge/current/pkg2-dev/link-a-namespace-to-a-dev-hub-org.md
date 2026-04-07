@@ -5,7 +5,7 @@ topic: link-a-namespace-to-a-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.177Z
+lastCollected: 2026-04-07T09:05:04.034Z
 estimatedTokens: 450
 keywords: [Link, Dev, Hub, Org, scratch, Developer, Edition, registered]
 ---

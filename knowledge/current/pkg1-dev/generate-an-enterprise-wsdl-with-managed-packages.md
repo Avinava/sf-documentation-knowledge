@@ -5,7 +5,7 @@ topic: generate-an-enterprise-wsdl-with-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.728Z
+lastCollected: 2026-04-07T09:05:00.866Z
 estimatedTokens: 854
 keywords: [Generate, Enterprise, WSDL, Managed, Packages, you’re, downloading, first-generation, installed, org, take, extra, step, select, version]
 ---

@@ -5,7 +5,7 @@ topic: tpmrtrfixedfundsams
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.435Z
+lastCollected: 2026-04-07T09:03:18.314Z
 estimatedTokens: 21
 keywords: [TPM_RTRFixedFunds_AMS, Sample, TPM, _RTRFixedFunds, _AMS]
 ---

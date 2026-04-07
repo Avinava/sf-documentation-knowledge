@@ -5,7 +5,7 @@ topic: announcements-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:35.798Z
+lastCollected: 2026-04-07T09:02:10.467Z
 estimatedTokens: 2766
 namespace: ConnectApi
 keywords: [Announcements, Usage, deleteAnnouncement, communityId, announcementId, API, Version, Requires, Chatter, getAnnouncement, getAnnouncements, parentId, Guest, Users, pageParam]

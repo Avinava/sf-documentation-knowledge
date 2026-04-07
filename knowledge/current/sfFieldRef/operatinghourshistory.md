@@ -5,7 +5,7 @@ topic: operatinghourshistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.459Z
+lastCollected: 2026-04-07T09:05:56.045Z
 estimatedTokens: 285
 keywords: [OperatingHoursHistory, history, changes, made, tracked, operating, hours, record, API, version, 38.0, later]
 ---

@@ -5,7 +5,7 @@ topic: carepreauthitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.368Z
+lastCollected: 2026-04-07T09:03:57.370Z
 estimatedTokens: 1265
 keywords: [CarePreauthItem, items, included, preauthorization, care, under, member’s, plan, Calls, Associated, Objects]
 ---
@@ -30,7 +30,7 @@ create(),  delete(),  describeLayout(),  describeSObjects(),  getDeleted(), 
 | CarePreauthId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the care preauthorization this item details. |
 | EndingServiceCode | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ending service code for the category of care being provided. |
 | LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Laterality | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe side of the body receiving care. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of this preauthorized care item. |
 | Notes | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionNotes about this preauthorized care item. |

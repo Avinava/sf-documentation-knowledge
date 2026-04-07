@@ -5,7 +5,7 @@ topic: esmvalidaterecords-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.947Z
+lastCollected: 2026-04-07T09:03:45.003Z
 estimatedTokens: 103
 keywords: [ESM_validateRecords, API, Validate, quote, line, items, ESM, _validateRecords, URI, HTTP]
 ---

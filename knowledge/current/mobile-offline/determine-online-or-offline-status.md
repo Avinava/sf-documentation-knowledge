@@ -5,7 +5,7 @@ topic: determine-online-or-offline-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.702Z
+lastCollected: 2026-04-07T09:04:24.913Z
 estimatedTokens: 259
 keywords: [Determine, Online, Offline, Status, Salesforce, Mobile, app, Service, Lightning, Web, Components, generally, don’t, mechanism, detecting]
 ---

@@ -5,7 +5,7 @@ topic: collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:44.972Z
+lastCollected: 2026-04-07T09:02:34.096Z
 estimatedTokens: 502
 keywords: [Collections, Apex, maps]
 ---

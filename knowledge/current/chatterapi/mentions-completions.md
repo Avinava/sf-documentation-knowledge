@@ -5,7 +5,7 @@ topic: mentions-completions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.768Z
+lastCollected: 2026-04-07T09:03:27.553Z
 estimatedTokens: 604
 keywords: [Mentions, Completions, users, groups, mention, feed, item, comment, resource, generate, proposed, user, choose, “@”, character]
 ---

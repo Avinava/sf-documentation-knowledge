@@ -5,7 +5,7 @@ topic: installedpackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.553Z
+lastCollected: 2026-04-07T09:02:41.412Z
 estimatedTokens: 647
 keywords: [InstalledPackage, first-generation, managed, package, installed, uninstalled, Deploying, newer, version, currently, upgrades, install, packages, deployment, unlocked]
 ---

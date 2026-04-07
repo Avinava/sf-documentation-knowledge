@@ -5,7 +5,7 @@ topic: schedule-home-visit-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.187Z
+lastCollected: 2026-04-07T09:03:51.674Z
 estimatedTokens: 276
 keywords: [Schedule, Home, Visit, Action, patient, assess, condition, scheduling, recurring, visits, care, Special, Access, Rules, REST]
 ---

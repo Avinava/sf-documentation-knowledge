@@ -5,7 +5,7 @@ topic: connectapicdpsegmentdbtmodelinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:46.242Z
+lastCollected: 2026-04-07T09:02:19.619Z
 estimatedTokens: 154
 keywords: [ConnectApi.CdpSegmentDbtModelInput, Segment, dbt, model, input]
 ---

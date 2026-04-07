@@ -5,7 +5,7 @@ topic: document-extraction-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.689Z
+lastCollected: 2026-04-07T09:05:10.746Z
 estimatedTokens: 135
 keywords: [Document, Extraction, Output, representation, status, OCR, scan, result]
 ---

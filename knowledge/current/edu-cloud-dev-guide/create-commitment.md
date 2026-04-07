@@ -5,7 +5,7 @@ topic: create-commitment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.986Z
+lastCollected: 2026-04-07T09:03:42.366Z
 estimatedTokens: 175
 keywords: [Commitment, Output, representation, fundraising, associated, links]
 ---

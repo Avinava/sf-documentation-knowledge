@@ -5,7 +5,7 @@ topic: blnginvoicec
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.328Z
+lastCollected: 2026-04-07T09:03:17.061Z
 estimatedTokens: 3434
 keywords: [blng__Invoice__c, financial, document, describing, total, amount, buyer, pay, provided, goods, services, blng, _Invoice, Calls]
 ---

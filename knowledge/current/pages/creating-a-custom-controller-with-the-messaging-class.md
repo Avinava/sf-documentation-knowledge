@@ -5,7 +5,7 @@ topic: creating-a-custom-controller-with-the-messaging-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.541Z
+lastCollected: 2026-04-07T09:04:59.057Z
 estimatedTokens: 549
 namespace: Messaging
 keywords: [Creating, Custom, Controller, Messaging, minimum, uses, Apex, needs, subject, recipient, email, acts, form, fill, deliver]

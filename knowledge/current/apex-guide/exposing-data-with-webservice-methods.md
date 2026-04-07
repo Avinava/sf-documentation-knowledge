@@ -5,7 +5,7 @@ topic: exposing-data-with-webservice-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.444Z
+lastCollected: 2026-04-07T09:02:33.600Z
 estimatedTokens: 482
 keywords: [Exposing, Data, Webservice, Invoking, custom, always, uses, system, context, Consequently, current, user's, credentials, any, user]
 ---

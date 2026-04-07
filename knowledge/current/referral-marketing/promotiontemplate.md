@@ -5,7 +5,7 @@ topic: promotiontemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.282Z
+lastCollected: 2026-04-07T09:05:16.768Z
 estimatedTokens: 1028
 keywords: [PromotionTemplate, JSON, configuration, referral, promotion, template, API, version, 61.0, later, Calls, Associated, Objects]
 ---

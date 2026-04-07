@@ -5,7 +5,7 @@ topic: involvementgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.310Z
+lastCollected: 2026-04-07T09:03:44.151Z
 estimatedTokens: 1385
 keywords: [InvolvementGroup, involvement, group, institution, API, version, 64.0, later, Calls, Associated, Objects]
 ---

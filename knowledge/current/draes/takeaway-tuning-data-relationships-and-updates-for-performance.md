@@ -5,7 +5,7 @@ topic: takeaway-tuning-data-relationships-and-updates-for-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.646Z
+lastCollected: 2026-04-07T09:03:41.783Z
 estimatedTokens: 286
 keywords: [Takeaway, Tuning, Data, Relationships, Updates, Performance, Understand, characteristics, various, maintenance, operations, you’re, performing, always, test]
 ---

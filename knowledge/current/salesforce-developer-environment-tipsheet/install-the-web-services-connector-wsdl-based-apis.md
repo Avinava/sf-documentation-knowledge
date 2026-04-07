@@ -5,7 +5,7 @@ topic: install-the-web-services-connector-wsdl-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.310Z
+lastCollected: 2026-04-07T09:05:23.143Z
 estimatedTokens: 349
 keywords: [Install, Web, Services, Connector, WSDL-Based, APIs, Lightning, Platform, WSC, high-performance, runtime, framework, Salesforce, easier, download]
 ---

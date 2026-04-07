@@ -5,7 +5,7 @@ topic: productattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.066Z
+lastCollected: 2026-04-07T09:02:48.694Z
 estimatedTokens: 955
 keywords: [ProductAttributeSet, group, variation, attributes, apply, products, API, version, 55.0, later, SOAP, Calls, REST, Special, Access]
 ---

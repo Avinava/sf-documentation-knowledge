@@ -5,7 +5,7 @@ topic: promptversionlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.768Z
+lastCollected: 2026-04-07T09:06:02.859Z
 estimatedTokens: 237
 namespace: NamespacePrefix
 keywords: [PromptVersionLocalization, translated, label, for-app, guidance, Translation, Workbench, enabled, org]

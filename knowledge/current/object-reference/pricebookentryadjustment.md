@@ -5,7 +5,7 @@ topic: pricebookentryadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.039Z
+lastCollected: 2026-04-07T09:04:46.950Z
 estimatedTokens: 320
 keywords: [PricebookEntryAdjustment, Read-only, junction, created, associate, price, adjustment, schedule, book, entry, API, version, 47.0, later, Calls]
 ---

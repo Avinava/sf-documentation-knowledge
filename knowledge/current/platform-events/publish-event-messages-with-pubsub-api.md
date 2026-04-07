@@ -5,7 +5,7 @@ topic: publish-event-messages-with-pubsub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.081Z
+lastCollected: 2026-04-07T09:05:05.466Z
 estimatedTokens: 656
 keywords: [Publish, Event, Messages, Pub, Sub, API, platform, external, app, final, results, Simplify, development, subscribe, retrieve]
 ---

@@ -5,7 +5,7 @@ topic: supportclicktodial
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.169Z
+lastCollected: 2026-04-07T09:04:58.514Z
 estimatedTokens: 485
 keywords: [support, clickToDial, component, renders, phone, number, click-to-dial, enabled, Open, CTI, Salesforce, Classic, CRM, Call, Center]
 ---

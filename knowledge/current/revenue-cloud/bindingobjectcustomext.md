@@ -5,7 +5,7 @@ topic: bindingobjectcustomext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:24.791Z
+lastCollected: 2026-04-07T09:02:03.738Z
 estimatedTokens: 335
 keywords: [BindingObjectCustomExt, external, custom, target, that's, bound, entitlements, granted, sellable, product, API, version, 64.0, later, Calls]
 ---

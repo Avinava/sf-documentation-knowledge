@@ -5,7 +5,7 @@ topic: knowledgearticlevotestat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.927Z
+lastCollected: 2026-04-07T09:04:05.225Z
 estimatedTokens: 406
 keywords: [KnowledgeArticleVoteStat, weighted, rating, article, scale, across, read-only, API, version, 20.0, later, Calls, Special, Access, Rules]
 ---

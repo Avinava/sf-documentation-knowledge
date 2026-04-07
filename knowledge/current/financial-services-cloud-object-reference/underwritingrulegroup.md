@@ -5,7 +5,7 @@ topic: underwritingrulegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.718Z
+lastCollected: 2026-04-07T09:03:51.128Z
 estimatedTokens: 907
 keywords: [UnderwritingRuleGroup, underwriting, rule, that's, associated, product, API, version, 63.0, later, Calls, Objects]
 ---

@@ -5,7 +5,7 @@ topic: procedure-plan-criterion-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.639Z
+lastCollected: 2026-04-07T09:01:58.691Z
 estimatedTokens: 340
 keywords: [Procedure, Plan, Criterion, Input, representation]
 ---

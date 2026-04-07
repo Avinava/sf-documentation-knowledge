@@ -5,7 +5,7 @@ topic: referral-customization-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.029Z
+lastCollected: 2026-04-07T09:05:16.455Z
 estimatedTokens: 436
 keywords: [Referral, Customization, iOS, build, Mobile, SDK, customize, components, modify, referral-related, configuration, MyNTORewards, sample, app, Settings]
 ---

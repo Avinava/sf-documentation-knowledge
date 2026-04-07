@@ -5,7 +5,7 @@ topic: telephony-integration-rest-api-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.809Z
+lastCollected: 2026-04-07T09:06:18.173Z
 estimatedTokens: 103
 keywords: [Telephony, Integration, REST, API, Sample, Code, JavaScript, performs, authorization, process, invokes, Voice]
 ---

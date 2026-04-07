@@ -5,7 +5,7 @@ topic: knowledge-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.380Z
+lastCollected: 2026-04-07T09:04:04.441Z
 estimatedTokens: 2206
 keywords: [Knowledge, Actions, Manage, articles, invocable, REST, HTTP, Archive, Assign, Draft, Online, Article, Publish, Restore, Version]
 ---

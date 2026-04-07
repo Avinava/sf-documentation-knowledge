@@ -5,7 +5,7 @@ topic: namespaces-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.120Z
+lastCollected: 2026-04-07T09:05:03.940Z
 estimatedTokens: 677
 keywords: [Namespaces, Second-Generation, Managed, Packages, 1–15, character, alphanumeric, identifier, distinguishes, package, contents, customer’s, org, assigned, 2GP]
 ---

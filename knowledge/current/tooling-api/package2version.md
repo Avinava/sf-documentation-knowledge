@@ -5,7 +5,7 @@ topic: package2version
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:45.785Z
+lastCollected: 2026-04-07T09:02:48.364Z
 estimatedTokens: 2046
 keywords: [Package2Version, second-generation, package, version, Dev, Hub, org, except, Tag, Branch, visible, subscriber, API, 41.0, later]
 ---

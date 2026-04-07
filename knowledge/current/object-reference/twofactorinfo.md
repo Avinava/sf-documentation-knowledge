@@ -5,7 +5,7 @@ topic: twofactorinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:18.313Z
+lastCollected: 2026-04-07T09:04:51.183Z
 estimatedTokens: 355
 keywords: [TwoFactorInfo, Stores, user’s, secret, multi-factor, operations, customizing, authentication, organization, formerly, two-factor, API, version, 32.0, later]
 ---

@@ -5,7 +5,7 @@ topic: subscribe-to-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.305Z
+lastCollected: 2026-04-07T09:04:14.618Z
 estimatedTokens: 405
 keywords: [Subscribe, Message, Channel, handler, run, receives]
 ---

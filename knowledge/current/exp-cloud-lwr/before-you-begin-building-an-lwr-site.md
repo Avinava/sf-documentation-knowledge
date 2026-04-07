@@ -5,7 +5,7 @@ topic: before-you-begin-building-an-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.738Z
+lastCollected: 2026-04-07T09:03:46.127Z
 estimatedTokens: 417
 keywords: [Begin, Building, LWR, Site, Build, Own, minimal, template, Experience, Cloud, essential, pages, components, functioning, add]
 ---

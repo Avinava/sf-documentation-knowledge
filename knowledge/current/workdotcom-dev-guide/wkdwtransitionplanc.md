@@ -5,7 +5,7 @@ topic: wkdwtransitionplanc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.503Z
+lastCollected: 2026-04-07T09:06:19.228Z
 estimatedTokens: 694
 keywords: [wkdw__TransitionPlan__c, Custom, transition, plan, associated, employee, user, API, version, 56.0, later, wkdw, _TransitionPlan, Calls]
 ---

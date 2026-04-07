@@ -5,7 +5,7 @@ topic: actionable-list-members-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:46.914Z
+lastCollected: 2026-04-07T09:02:49.599Z
 estimatedTokens: 213
 keywords: [Actionable, Members, Connect, APIs, priority, OmniScript, key, assignees]
 ---

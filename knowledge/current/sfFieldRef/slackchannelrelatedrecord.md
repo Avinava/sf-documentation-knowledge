@@ -5,7 +5,7 @@ topic: slackchannelrelatedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.183Z
+lastCollected: 2026-04-07T09:06:07.741Z
 estimatedTokens: 339
 keywords: [SlackChannelRelatedRecord, record, mapping, Slack, channel, Salesforce, that’s, made, API, version, 65.0, later]
 ---

@@ -5,7 +5,7 @@ topic: visualforcerequesteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:19.166Z
+lastCollected: 2026-04-07T09:04:52.290Z
 estimatedTokens: 2047
 namespace: Type
 keywords: [VisualforceRequestEventLog, Visualforce, events, contain, requests, originate, browser, API, version, 61.0, later, Calls, Special, Access, Rules]

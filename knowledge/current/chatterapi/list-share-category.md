@@ -5,7 +5,7 @@ topic: list-share-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.327Z
+lastCollected: 2026-04-07T09:03:32.929Z
 estimatedTokens: 287
 keywords: [Share, Category, Groups, roles, associated]
 ---

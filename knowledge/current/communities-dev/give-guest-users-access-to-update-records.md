@@ -5,7 +5,7 @@ topic: give-guest-users-access-to-update-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.299Z
+lastCollected: 2026-04-07T09:03:39.736Z
 estimatedTokens: 1019
 keywords: [Give, Guest, Users, Access, Records, allow, perform, action, system, context, sharing, user, record, verify, encrypted]
 ---

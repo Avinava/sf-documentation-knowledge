@@ -5,7 +5,7 @@ topic: insurance-product-clause-generation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.235Z
+lastCollected: 2026-04-07T09:04:02.721Z
 estimatedTokens: 279
 keywords: [Insurance, Product, Clause, Generation, POST, Generate, clauses, quote, context]
 ---
@@ -68,7 +68,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/product-clauses/clause-generation
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/product-clauses/clause-generation
 ```
 
 ```

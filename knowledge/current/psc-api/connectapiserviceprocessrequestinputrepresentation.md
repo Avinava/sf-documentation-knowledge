@@ -5,7 +5,7 @@ topic: connectapiserviceprocessrequestinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.633Z
+lastCollected: 2026-04-07T09:05:07.429Z
 estimatedTokens: 195
 keywords: [Input, creating, updating, service, process]
 ---

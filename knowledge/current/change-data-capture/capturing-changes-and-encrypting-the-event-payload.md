@@ -5,7 +5,7 @@ topic: capturing-changes-and-encrypting-the-event-payload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.684Z
+lastCollected: 2026-04-07T09:03:18.729Z
 estimatedTokens: 432
 keywords: [Capturing, Changes, Encrypting, Event, Payload, record, Change, Data, Capture, creates, stores, bus, Because, captured, internally]
 ---

@@ -5,7 +5,7 @@ topic: videocallinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.108Z
+lastCollected: 2026-04-07T09:04:52.218Z
 estimatedTokens: 993
 keywords: [VideoCallInsight, video, call, insight, data, associated, record, specific, recording, transcript, API, version, 66.0, later, Calls]
 ---

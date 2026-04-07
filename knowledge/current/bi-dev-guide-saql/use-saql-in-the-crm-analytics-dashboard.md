@@ -5,7 +5,7 @@ topic: use-saql-in-the-crm-analytics-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.221Z
+lastCollected: 2026-04-07T09:03:13.748Z
 estimatedTokens: 496
 keywords: [SAQL, CRM, Analytics, Dashboard, Studio, user, modify, queries, write, new, ones, Writing, easiest, way, started]
 ---

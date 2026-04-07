@@ -5,7 +5,7 @@ topic: inbound-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.846Z
+lastCollected: 2026-04-07T09:03:05.812Z
 estimatedTokens: 157
 keywords: [Inbound, Event, Output, representation, events, processing, incoming]
 ---
@@ -68,4 +68,5 @@ Sample Response
 
 - Action
                   Response[] (atlas.en-us.automotive_cloud.meta/automotive_cloud/connect_responses_action_response.htm)
-- Error Response[] (atlas.en-us.automotive_cloud.meta/automotive_cloud/connect_responses_error_message.htm)
+- Error
+                  Response[] (atlas.en-us.automotive_cloud.meta/automotive_cloud/connect_responses_error_message.htm)

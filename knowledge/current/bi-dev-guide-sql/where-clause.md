@@ -5,7 +5,7 @@ topic: where-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.326Z
+lastCollected: 2026-04-07T09:03:15.486Z
 estimatedTokens: 331
 keywords: [Clause, SQL, query, retrieves, every, row, dataset, restrict, results, conditional, expression]
 ---

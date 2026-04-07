@@ -5,7 +5,7 @@ topic: usageoveragepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:28.324Z
+lastCollected: 2026-04-07T09:02:05.850Z
 estimatedTokens: 276
 keywords: [UsageOveragePolicy, rules, determine, management, usage, resource’s, units, consumed, beyond, granted, limit, API, version, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: serviceterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.793Z
+lastCollected: 2026-04-07T09:05:27.092Z
 estimatedTokens: 1282
 keywords: [ServiceTerritory, geographic, functional, region, work, performed, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special, Access]
 ---

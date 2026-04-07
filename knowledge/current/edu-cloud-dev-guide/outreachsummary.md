@@ -5,7 +5,7 @@ topic: outreachsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.651Z
+lastCollected: 2026-04-07T09:03:43.301Z
 estimatedTokens: 1762
 keywords: [OutreachSummary, summary, results, outreach, campaign, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

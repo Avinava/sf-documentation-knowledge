@@ -5,7 +5,7 @@ topic: add-ai-details-to-your-agentforce-solution-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.279Z
+lastCollected: 2026-04-07T09:04:53.914Z
 estimatedTokens: 590
 keywords: [Add, Agentforce, Solution, Listing, Showcase, AppExchange, Explain, solution’s, capabilities, how, extends, State, number, agents, topics]
 ---

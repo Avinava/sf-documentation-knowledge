@@ -5,8 +5,8 @@ topic: considerations-for-package-migrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:25.506Z
-estimatedTokens: 430
+lastCollected: 2026-04-07T09:05:01.751Z
+estimatedTokens: 460
 keywords: [Considerations, Package, Migrations, Review, limits, converting, migrating, packages]
 ---
 
@@ -28,3 +28,4 @@ Review these limits and considerations for converting and migrating packages.
 6.  Only package versions created using API version 57 (Spring ’23) or above, can be converted. To promote a package version, it must have been created using API version 64 (Summer ’25) or later.
 7.  Large packages containing 20,000+ metadata files aren’t supported at this time.
 8.  Packages containing Data Cloud metadata can’t be converted.
+9.  After you convert a managed 1GP package to 2GP, you can’t transfer the converted package to another Dev Hub org.

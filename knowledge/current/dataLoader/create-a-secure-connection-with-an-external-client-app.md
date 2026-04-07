@@ -5,7 +5,7 @@ topic: create-a-secure-connection-with-an-external-client-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.270Z
+lastCollected: 2026-04-07T09:03:41.245Z
 estimatedTokens: 640
 keywords: [Secure, Connection, External, Client, App, Salesforce, Data, Loader, org]
 ---

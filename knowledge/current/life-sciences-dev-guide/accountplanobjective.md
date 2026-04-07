@@ -5,7 +5,7 @@ topic: accountplanobjective
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.889Z
+lastCollected: 2026-04-07T09:04:08.016Z
 estimatedTokens: 911
 keywords: [AccountPlanObjective, Life, Sciences, Cloud, extend, standard, Account, Plan, Objective, represent, strategic, objectives, initiatives, pursued, relationship]
 ---

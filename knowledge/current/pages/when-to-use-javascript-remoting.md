@@ -5,7 +5,7 @@ topic: when-to-use-javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.791Z
+lastCollected: 2026-04-07T09:04:59.445Z
 estimatedTokens: 448
 keywords: [JavaScript, Remoting, optimized, mobile, pages, third-party, libraries, dynamic, interactive, feel, responsive, traditional, Visualforce]
 ---

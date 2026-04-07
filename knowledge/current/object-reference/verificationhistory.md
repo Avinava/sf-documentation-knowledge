@@ -5,7 +5,7 @@ topic: verificationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:19.084Z
+lastCollected: 2026-04-07T09:04:52.188Z
 estimatedTokens: 2908
 keywords: [VerificationHistory, past, six, months, org, users’, attempts, verify, their, identity, API, version, 36.0, later, Calls]
 ---

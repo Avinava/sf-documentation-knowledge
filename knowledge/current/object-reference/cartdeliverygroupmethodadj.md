@@ -5,7 +5,7 @@ topic: cartdeliverygroupmethodadj
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:06.153Z
+lastCollected: 2026-04-07T09:04:36.461Z
 estimatedTokens: 653
 keywords: [CartDeliveryGroupMethodAdj, shipping, promotion, discount, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---

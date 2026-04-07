@@ -5,7 +5,7 @@ topic: cgcloudwarehousec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.479Z
+lastCollected: 2026-04-07T09:05:22.125Z
 estimatedTokens: 2010
 keywords: [cgcloud__Warehouse__c, Stores, warehouse, organizational, segmentation, purpose, maintaining, materials, stored, different, places, API, version, 54.0, later]
 ---

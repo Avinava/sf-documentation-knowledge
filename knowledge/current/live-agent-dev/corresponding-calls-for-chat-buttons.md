@@ -5,7 +5,7 @@ topic: corresponding-calls-for-chat-buttons
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.230Z
+lastCollected: 2026-04-07T09:04:16.048Z
 estimatedTokens: 287
 keywords: [Corresponding, Calls, Chat, Buttons, sure, chats, start, correctly, aligning, direct-to-agent, agent, fallback-to-button]
 ---

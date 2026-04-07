@@ -5,7 +5,7 @@ topic: integrate-chat-with-lightning-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.873Z
+lastCollected: 2026-04-07T09:05:23.991Z
 estimatedTokens: 518
 keywords: [Integrate, Chat, Lightning, Flow, Service, Customers, often, looking, quick, immediate, resolutions, their, problems, helps, agents]
 ---

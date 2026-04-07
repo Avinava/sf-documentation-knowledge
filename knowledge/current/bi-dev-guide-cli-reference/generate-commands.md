@@ -5,7 +5,7 @@ topic: generate-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:02.021Z
+lastCollected: 2026-04-07T09:03:07.375Z
 estimatedTokens: 355
 keywords: [generate, Commands, simple, Analytics, assets, template, Examples, Command]
 ---

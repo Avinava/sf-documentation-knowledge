@@ -5,7 +5,7 @@ topic: vpl360updateaccountdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.192Z
+lastCollected: 2026-04-07T09:04:21.271Z
 estimatedTokens: 169
 keywords: [VPL360UpdateAccountData, Omnistudio, Data, Mapper, loads, updates, account, contact, IDs, updated, records, Sample, Input, Output]
 ---

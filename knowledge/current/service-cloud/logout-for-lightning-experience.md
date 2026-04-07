@@ -5,7 +5,7 @@ topic: logout-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.864Z
+lastCollected: 2026-04-07T09:03:03.743Z
 estimatedTokens: 62
 keywords: [logout, Lightning, Experience, Logs, agent, Omni-Channel, Sample, Code]
 ---

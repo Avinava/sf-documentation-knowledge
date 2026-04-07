@@ -5,8 +5,8 @@ topic: compute-producer-splits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.504Z
-estimatedTokens: 295
+lastCollected: 2026-04-07T09:03:59.928Z
+estimatedTokens: 294
 keywords: [Compute, Producer, Splits, Action, producers, associated, Insurance, Policy, Commission, Statement, Line, Item, Special, Access, Rules]
 ---
 
@@ -29,7 +29,7 @@ The Compute Producer Splits action is available in Enterprise, Unlimited, and De
 
 URI
 
-/services/data/v66.0/actions/standard/computeProducerSplits
+/services/data/v/actions/standard/computeProducerSplits
 
 Formats
 

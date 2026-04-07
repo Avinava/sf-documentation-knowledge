@@ -5,7 +5,7 @@ topic: presentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.672Z
+lastCollected: 2026-04-07T09:04:11.239Z
 estimatedTokens: 1585
 keywords: [Presentation, collection, presentations, various, attributes, activation, dates, ability, sent, email, associated, tags, gestures, API, version]
 ---

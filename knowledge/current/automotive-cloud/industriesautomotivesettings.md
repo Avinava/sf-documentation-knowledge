@@ -5,7 +5,7 @@ topic: industriesautomotivesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.711Z
+lastCollected: 2026-04-07T09:03:05.625Z
 estimatedTokens: 709
 keywords: [IndustriesAutomotiveSettings, settings, enabling, features, Automotive, Cloud, Service, Excellence, Scheduler, File, Suffix, Directory, Location, Version, Declarative]
 ---

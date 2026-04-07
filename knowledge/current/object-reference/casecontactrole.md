@@ -5,7 +5,7 @@ topic: casecontactrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.275Z
+lastCollected: 2026-04-07T09:04:36.597Z
 estimatedTokens: 406
 keywords: [CaseContactRole, role, Contact, plays, Case, Calls, Usage]
 ---

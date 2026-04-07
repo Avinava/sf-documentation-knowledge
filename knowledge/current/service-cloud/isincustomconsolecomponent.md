@@ -5,7 +5,7 @@ topic: isincustomconsolecomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.492Z
+lastCollected: 2026-04-07T09:03:03.384Z
 estimatedTokens: 214
 keywords: [isInCustomConsoleComponent, Determines, application-level, custom, console, component, API, version, 25.0, later, Arguments, Sample, Code–Visualforce]
 ---

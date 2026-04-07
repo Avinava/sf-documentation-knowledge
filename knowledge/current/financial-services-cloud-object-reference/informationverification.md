@@ -5,7 +5,7 @@ topic: informationverification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.496Z
+lastCollected: 2026-04-07T09:03:49.763Z
 estimatedTokens: 1500
 keywords: [InformationVerification, verification, initiated, API, version, 61.0, later, Digital, Lending, permission, Calls, Associated, Objects]
 ---

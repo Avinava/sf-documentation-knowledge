@@ -5,7 +5,7 @@ topic: applicationform
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.408Z
+lastCollected: 2026-04-07T09:03:48.488Z
 estimatedTokens: 1382
 keywords: [ApplicationForm, high, level, application, that's, submitted, product, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---

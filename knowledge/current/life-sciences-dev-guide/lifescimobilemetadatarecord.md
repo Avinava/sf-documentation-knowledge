@@ -5,9 +5,9 @@ topic: lifescimobilemetadatarecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.481Z
-estimatedTokens: 943
-keywords: [LifeSciMobileMetadataRecord, metadata, created, mobile, application, API, version, 65.0, later, Calls]
+lastCollected: 2026-04-07T09:04:10.994Z
+estimatedTokens: 1276
+keywords: [LifeSciMobileMetadataRecord, metadata, created, mobile, application, API, version, 65.0, later, Calls, Associated, Objects]
 ---
 
 # LifeSciMobileMetadataRecord
@@ -45,3 +45,25 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Status | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, Sort, UpdateDescriptionRepresents the status of metadata.Possible values are:ActiveInProgressInactiveLoadingNewProcessingPublishedQueuedValidatingValidatedThe default value is New. |
 | UpdateAvailableAlertDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionRepresents the alert date to update the metadata. |
 | UpdateDueDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionRepresents the due date to update the metadata. |
+
+## Associated Objects
+
+This object has the following associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
+
+[LifeSciMobileMetadataRecordFeed](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_feed.htm "StandardObjectNameFeed is the model for all feed objects associated with standard objects. These objects represent the posts and feed-tracked changes of a standard object.")
+
+Feed tracking is available for the object.
+
+[LifeSciMobileMetadataRecordHistory](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_history.htm "StandardObjectNameHistory is the model for all history objects associated with standard objects. These objects represent the history of changes to the values in the fields of a standard object.")
+
+History is available for tracked fields of the object.
+
+[LifeSciMobileMetadataRecordShare](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
+
+Sharing is available for the object.
+
+## Related Topics
+
+- LifeSciMobileMetadataRecordFeed (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_feed.htm)
+- LifeSciMobileMetadataRecordHistory (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_history.htm)
+- LifeSciMobileMetadataRecordShare (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm)

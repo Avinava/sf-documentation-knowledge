@@ -5,7 +5,7 @@ topic: serviceresourceinfo-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.198Z
+lastCollected: 2026-04-07T09:05:26.222Z
 estimatedTokens: 1142
 namespace: LxScheduler
 keywords: [ServiceResourceInfo, service, resource, userId, userName, email, serviceResourceId, territoryIds, resourceType, getEmail, getResourceType, getServiceResourceId, getTerritoryIds, getUserId, getUserName]

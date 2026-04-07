@@ -5,7 +5,7 @@ topic: mailmergetemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.659Z
+lastCollected: 2026-04-07T09:04:44.169Z
 estimatedTokens: 794
 keywords: [MailmergeTemplate, mail, merge, template, Microsoft, Word, document, performing, merges, organization, Calls, Special, Access, Rules, Usage]
 ---

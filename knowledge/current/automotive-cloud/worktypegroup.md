@@ -5,7 +5,7 @@ topic: worktypegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.760Z
+lastCollected: 2026-04-07T09:03:07.082Z
 estimatedTokens: 922
 keywords: [WorkTypeGroup, grouping, work, categorize, appointments, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: lightningusagebyapptypemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.837Z
+lastCollected: 2026-04-07T09:04:43.228Z
 estimatedTokens: 205
 keywords: [LightningUsageByAppTypeMetrics, number, users, Lightning, Experience, Salesforce, Mobile, API, version, 43.0, later, Calls, Special, Access, Rules]
 ---

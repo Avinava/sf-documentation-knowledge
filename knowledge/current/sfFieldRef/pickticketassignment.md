@@ -5,7 +5,7 @@ topic: pickticketassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.286Z
+lastCollected: 2026-04-07T09:05:59.604Z
 estimatedTokens: 349
 keywords: [PickTicketAssignment, association, FulfillmentOrder, PickTicket, containing, products, picked, part]
 ---

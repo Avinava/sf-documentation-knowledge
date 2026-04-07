@@ -5,7 +5,7 @@ topic: advacctforecastadjperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.521Z
+lastCollected: 2026-04-07T09:04:23.185Z
 estimatedTokens: 333
 keywords: [AdvAcctForecastAdjPeriod, adjustment, period, advanced, account, forecast, API, version, 53.0, later, Calls]
 ---

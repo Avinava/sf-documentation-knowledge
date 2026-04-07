@@ -5,7 +5,7 @@ topic: adspacecapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.760Z
+lastCollected: 2026-04-07T09:04:22.104Z
 estimatedTokens: 1088
 keywords: [AdSpaceCapacity, row, inventory, item's, total, capacity, booked, reserved, pitched, allocation, count, specific, time, period, API]
 ---

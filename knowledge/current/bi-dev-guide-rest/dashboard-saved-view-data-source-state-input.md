@@ -5,7 +5,7 @@ topic: dashboard-saved-view-data-source-state-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.691Z
+lastCollected: 2026-04-07T09:03:08.315Z
 estimatedTokens: 159
 keywords: [Dashboard, Saved, View, Data, Source, State, Input, Analytics]
 ---

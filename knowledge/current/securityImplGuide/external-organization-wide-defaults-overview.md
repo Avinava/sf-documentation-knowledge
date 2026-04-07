@@ -5,7 +5,7 @@ topic: external-organization-wide-defaults-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:45.112Z
+lastCollected: 2026-04-07T09:05:29.007Z
 estimatedTokens: 702
 keywords: [External, Organization-Wide, Defaults, provide, separate, internal, users, help, better, secure, data]
 ---

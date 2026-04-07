@@ -5,7 +5,7 @@ topic: salesagreementprodschdadj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.181Z
+lastCollected: 2026-04-07T09:04:24.138Z
 estimatedTokens: 359
 keywords: [SalesAgreementProdSchdAdj, manual, adjustments, made, metric, sales, agreement, product, schedule, API, version, 47.0, later, Calls]
 ---

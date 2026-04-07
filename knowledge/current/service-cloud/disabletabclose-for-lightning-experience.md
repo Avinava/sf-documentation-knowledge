@@ -5,7 +5,7 @@ topic: disabletabclose-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.669Z
+lastCollected: 2026-04-07T09:03:03.554Z
 estimatedTokens: 700
 keywords: [disableTabClose, Lightning, Experience, Prevents, workspace, tab, subtab, closing, removes, close, button, disables, keyboard, shortcuts, tabs]
 ---

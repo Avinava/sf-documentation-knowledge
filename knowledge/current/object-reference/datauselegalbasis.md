@@ -5,7 +5,7 @@ topic: datauselegalbasis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.090Z
+lastCollected: 2026-04-07T09:04:38.892Z
 estimatedTokens: 894
 keywords: [DataUseLegalBasis, legal, basis, contacting, customer, billing, contract, API, version, 45.0, later, Calls, Special, Access, Rules]
 ---

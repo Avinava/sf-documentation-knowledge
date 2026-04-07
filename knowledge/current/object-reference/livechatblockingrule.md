@@ -5,7 +5,7 @@ topic: livechatblockingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:12.329Z
+lastCollected: 2026-04-07T09:04:43.780Z
 estimatedTokens: 665
 keywords: [LiveChatBlockingRule, rule, blocking, chat, visitors’, addresses, starting, new, chats, agents, API, version, 34.0, later, Calls]
 ---

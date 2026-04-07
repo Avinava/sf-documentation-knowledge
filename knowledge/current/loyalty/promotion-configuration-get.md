@@ -5,8 +5,8 @@ topic: promotion-configuration-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.158Z
-estimatedTokens: 386
+lastCollected: 2026-04-07T09:04:17.382Z
+estimatedTokens: 387
 keywords: [Promotion, Configuration, View, including, definition, eligibility, criteria, rules, limits, rule, library, version, API, developers, system]
 ---
 
@@ -51,7 +51,7 @@ Request parameters for GET
 | Parameter Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | promotionId | String | ID of the active promotion you want to view.The ID must belong to a promotion whose rules are configured using a non-Loyalty promotion template. | Required | 61.0 |
-| relatedObjectAndFieldApiNames | String[] | The list of related object fields whose details you want to view for the promotion. To view the details of a field, specify the API name of the object that the field belongs to and the API name of the field, separated by a period. relatedObjectAndFieldApiNames can pass only one field per object. | Optional | 61.0 |
+| related​ObjectAndField​ApiNames | String[] | The list of related object fields whose details you want to view for the promotion. To view the details of a field, specify the API name of the object that the field belongs to and the API name of the field, separated by a period. relatedObjectAndFieldApiNames can pass only one field per object. | Optional | 61.0 |
 
 Response body for GET
 

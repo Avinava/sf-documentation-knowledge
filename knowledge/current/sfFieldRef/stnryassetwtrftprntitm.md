@@ -5,7 +5,7 @@ topic: stnryassetwtrftprntitm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.620Z
+lastCollected: 2026-04-07T09:06:08.330Z
 estimatedTokens: 469
 keywords: [StnryAssetWtrFtprntItm, total, volume, water, activity, withdrawal, consumption, discharge, stationary, assets, child, record, asset, footprint]
 ---

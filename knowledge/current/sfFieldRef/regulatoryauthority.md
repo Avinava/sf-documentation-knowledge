@@ -5,7 +5,7 @@ topic: regulatoryauthority
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:12.010Z
+lastCollected: 2026-04-07T09:06:04.714Z
 estimatedTokens: 360
 keywords: [RegulatoryAuthority, organization, government, agency, authorization, API, version, 49.0, later]
 ---

@@ -6,7 +6,7 @@ topic: add-or-update-the-translated-value-of-multiple-survey-fields-in-one-or-mo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.820Z
+lastCollected: 2026-04-07T09:02:35.054Z
 estimatedTokens: 339
 keywords: [Add, Translated, Multiple, Survey, Languages, already, resource, REST, API, version, 48.0, later]
 ---

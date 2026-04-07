@@ -5,7 +5,7 @@ topic: custom-domain-pending-configuration-detail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:18.160Z
+lastCollected: 2026-04-07T09:03:31.114Z
 estimatedTokens: 556
 keywords: [Custom, Domain, Pending, Configuration, Detail, Detailed]
 ---

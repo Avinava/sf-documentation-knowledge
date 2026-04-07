@@ -5,7 +5,7 @@ topic: use-third-party-javascript-in-an-lwc-offline-enabled-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.096Z
+lastCollected: 2026-04-07T09:04:25.409Z
 estimatedTokens: 859
 keywords: [Third-Party, JavaScript, LWC, Offline-Enabled, Component, resources, provide, access, libraries, Lightning, web, components, enable, offline, follow]
 ---

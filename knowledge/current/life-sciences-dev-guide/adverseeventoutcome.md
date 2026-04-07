@@ -5,7 +5,7 @@ topic: adverseeventoutcome
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.026Z
+lastCollected: 2026-04-07T09:04:09.444Z
 estimatedTokens: 773
 keywords: [AdverseEventOutcome, outcome, adverse, event, API, version, 61.0, later, Calls, Associated, Objects]
 ---

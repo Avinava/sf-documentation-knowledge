@@ -1,20 +1,20 @@
 ---
-title: "Insurance Underwriting Rules (Patch)"
+title: "Insurance Underwriting Rules (PATCH)"
 domain: insurance-developer-guide
 topic: insurance-underwriting-rules-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.257Z
+lastCollected: 2026-04-07T09:04:02.755Z
 estimatedTokens: 387
-keywords: [Insurance, Underwriting, Rules, Patch, rule, root, product]
+keywords: [Insurance, Underwriting, Rules, PATCH, rule, root, product]
 ---
 
-# Insurance Underwriting Rules (Patch)
+# Insurance Underwriting Rules (PATCH)
 
 > Update an existing underwriting rule for a root product.
 
-# Insurance Underwriting Rules (Patch)
+# Insurance Underwriting Rules (PATCH)
 
 Update an existing underwriting rule for a root product.
 

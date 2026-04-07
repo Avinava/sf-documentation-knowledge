@@ -5,7 +5,7 @@ topic: return-result-for-asynchronous-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.131Z
+lastCollected: 2026-04-07T09:04:14.341Z
 estimatedTokens: 1012
 keywords: [Result, Asynchronous, Code, aura, executes, synchronously, statement, synchronous, JavaScript, calls, server-side, action, continue, execute, can’t]
 ---

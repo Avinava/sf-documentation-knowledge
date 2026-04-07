@@ -5,7 +5,7 @@ topic: pricingrecipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.728Z
+lastCollected: 2026-04-07T09:06:00.215Z
 estimatedTokens: 348
 namespace: NamespacePrefix
 keywords: [PricingRecipe, various, data, models, entities, particular, cloud, that'll, consumed, pricing, store, design, run, time, API]

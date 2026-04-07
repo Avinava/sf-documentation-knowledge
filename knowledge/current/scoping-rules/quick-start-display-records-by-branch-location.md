@@ -5,7 +5,7 @@ topic: quick-start-display-records-by-branch-location
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.321Z
+lastCollected: 2026-04-07T09:05:27.860Z
 estimatedTokens: 665
 keywords: [Quick, Start, Display, Records, Branch, Location, scoping, rule, SOQL, operator, created, via, Tooling, API, banker]
 ---

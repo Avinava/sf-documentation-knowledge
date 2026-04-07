@@ -5,7 +5,7 @@ topic: serviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.375Z
+lastCollected: 2026-04-07T09:03:45.590Z
 estimatedTokens: 155
 keywords: [serviceresource, service, technician, crew, Salesforce, Scheduler, agent, Workforce, Engagement, API, version, 62.0, later, Calls]
 ---

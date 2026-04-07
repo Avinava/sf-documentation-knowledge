@@ -5,7 +5,7 @@ topic: offset
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:19.778Z
+lastCollected: 2026-04-07T09:06:15.172Z
 estimatedTokens: 1097
 keywords: [OFFSET, expecting, records, query’s, results, display, multiple, pages, clause, SOQL, query, 51–75, jump, displaying, 301–350]
 ---

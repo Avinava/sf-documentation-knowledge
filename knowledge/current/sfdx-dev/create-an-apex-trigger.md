@@ -5,7 +5,7 @@ topic: create-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.241Z
+lastCollected: 2026-04-07T09:06:13.100Z
 estimatedTokens: 474
 keywords: [Apex, Trigger, triggers, perform, custom, actions, change, Salesforce, record, insertion, deletion, CLI, local, project, generated]
 ---

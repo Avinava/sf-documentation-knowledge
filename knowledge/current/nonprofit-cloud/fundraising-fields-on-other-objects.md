@@ -5,7 +5,7 @@ topic: fundraising-fields-on-other-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.741Z
+lastCollected: 2026-04-07T09:04:31.058Z
 estimatedTokens: 377
 keywords: [Fundraising, Objects, includes, Salesforce, orgs, Nonprofit, Cloud, Education, enabled]
 ---

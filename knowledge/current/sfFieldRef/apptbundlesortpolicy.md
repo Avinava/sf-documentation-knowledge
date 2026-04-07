@@ -5,7 +5,7 @@ topic: apptbundlesortpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.072Z
+lastCollected: 2026-04-07T09:05:33.059Z
 estimatedTokens: 423
 keywords: [ApptBundleSortPolicy, Policy, bundle, members, sorted, automatic, mode, determining, order, selection, API, version, 54.0, later]
 ---

@@ -5,7 +5,7 @@ topic: upgrade-a-second-generation-managed-package-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.075Z
+lastCollected: 2026-04-07T09:05:03.860Z
 estimatedTokens: 498
 keywords: [Upgrade, Second-Generation, Managed, Package, Version, occurs, install, new, org, previous, installed]
 ---

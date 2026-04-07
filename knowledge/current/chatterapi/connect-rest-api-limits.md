@@ -5,25 +5,26 @@ topic: connect-rest-api-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:21.816Z
-estimatedTokens: 838
-keywords: [Connect, REST, API, Limits, requests, subject, rate, different, limit, Salesforce, APIs, per, user, application, hour]
+lastCollected: 2026-04-07T09:03:36.997Z
+estimatedTokens: 880
+keywords: [Connect, REST, API, Limits, requests, subject, rate, Salesforce, APIs, Chatter, resources, subset, per, user, application]
 ---
 
 # Connect REST API Limits
 
-> Connect REST API requests are subject to rate limits. Connect REST
-      API has a different rate limit than other Salesforce APIs. Connect REST API has a per user,
-      per application, per hour rate limit. When you exceed the rate limit, Connect REST API
-      resources return a 503 Service Unavailable error code.
+> Most Connect REST API requests are subject to the same rate limits
+      as other Salesforce APIs. Only requests to Chatter REST API resources (a subset of Connect
+      REST API resources) are subject to a per user, per application, per hour rate limit. When you
+      exceed the rate limit, Connect REST API resources return a 503 Service Unavailable error
+      code.
 
 # Connect REST API Limits
 
-Connect REST API requests are subject to rate limits. Connect REST API has a different rate limit than other Salesforce APIs. Connect REST API has a per user, per application, per hour rate limit. When you exceed the rate limit, Connect REST API resources return a 503 Service Unavailable error code.
+Most Connect REST API requests are subject to the same rate limits as other Salesforce APIs. Only requests to Chatter REST API resources (a subset of Connect REST API resources) are subject to a per user, per application, per hour rate limit. When you exceed the rate limit, Connect REST API resources return a 503 Service Unavailable error code.
 
 ## Rate Limits
 
-For migrated orgs and orgs created in Summer ’24 and later, only requests to [Chatter REST API resources](atlas.en-us.chatterapi.meta/chatterapi/connect_chatter_resources_overview.htm "These REST API resources require Chatter and can have different rate limit allocations.") are subject to the per user, per application, per hour rate limit. The documentation for every Chatter resource specifies that Chatter is required. Requests to resources that don’t require Chatter count toward the [Salesforce Platform total API request allocations](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm), which are per org and span a 24-hour period.
+Only requests to [Chatter REST API resources](atlas.en-us.chatterapi.meta/chatterapi/connect_chatter_resources_overview.htm "These REST API resources require Chatter and have a per user, per application, per hour rate limit. This rate limit is different from other Connect REST API resources. When you exceed the rate limit, Chatter REST API resources return a 503 Service Unavailable error code.") are subject to a per user, per application, per hour rate limit. The documentation for every Chatter resource specifies that Chatter is required. Requests to resources that don’t require Chatter count toward the [Salesforce Platform total API request allocations](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm), which are per org and span a 24-hour period.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=chatterapi)
 

@@ -5,7 +5,7 @@ topic: agentforce-it-service-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:34.669Z
+lastCollected: 2026-04-07T09:02:09.797Z
 estimatedTokens: 235
 keywords: [Agentforce, Service, Platform, Event, SvcMgmtProacAgntUpdtEvnt, updated, proactive, agent, action, record, user, refreshes]
 ---

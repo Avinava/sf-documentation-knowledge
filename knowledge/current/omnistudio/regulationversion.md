@@ -5,7 +5,7 @@ topic: regulationversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:56.864Z
+lastCollected: 2026-04-07T09:02:59.438Z
 estimatedTokens: 1035
 keywords: [RegulationVersion, version, Regulation, tracks, amendments, API, 65.0, later, Calls, Associated, Objects]
 ---

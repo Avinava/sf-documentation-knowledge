@@ -5,7 +5,7 @@ topic: log-messages-and-log-levels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.078Z
+lastCollected: 2026-04-07T09:06:14.233Z
 estimatedTokens: 598
 keywords: [Log, Messages, Levels, Salesforce, CLI, writes, rotating, file, user’s, home, directory, whose, day, logs, August]
 ---

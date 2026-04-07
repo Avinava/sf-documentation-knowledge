@@ -5,7 +5,7 @@ topic: triggers-for-chatter-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:44.372Z
+lastCollected: 2026-04-07T09:02:33.539Z
 estimatedTokens: 1414
 keywords: [Triggers, Chatter, Objects, write, FeedItem, FeedComment, Trigger, Considerations, FeedAttachment]
 ---

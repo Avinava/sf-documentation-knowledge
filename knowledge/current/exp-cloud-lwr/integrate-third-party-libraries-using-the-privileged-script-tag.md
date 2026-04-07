@@ -5,7 +5,7 @@ topic: integrate-third-party-libraries-using-the-privileged-script-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.529Z
+lastCollected: 2026-04-07T09:03:45.803Z
 estimatedTokens: 953
 keywords: [Integrate, Third-Party, Libraries, Privileged, Script, Tag, components, LWR, site, encapsulate, their, elements, shadow, DOM, prevents]
 ---

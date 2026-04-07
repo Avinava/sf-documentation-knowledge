@@ -5,7 +5,7 @@ topic: abortable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.568Z
+lastCollected: 2026-04-07T09:04:13.529Z
 estimatedTokens: 716
 keywords: [Abortable, Actions, Mark, action, potentially, it's, queued, sent, server, queue, component, created, longer, cmp.isValid, automatically]
 ---

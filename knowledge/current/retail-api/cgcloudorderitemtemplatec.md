@@ -5,7 +5,7 @@ topic: cgcloudorderitemtemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:39.110Z
+lastCollected: 2026-04-07T09:05:20.632Z
 estimatedTokens: 3638
 keywords: [cgcloud__Order_Item_Template__c, template, behavior, Order, Item, OrderEntry, sales, document, behave, entry, API, version, 54.0, later, cgcloud]
 ---

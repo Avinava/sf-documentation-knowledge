@@ -5,7 +5,7 @@ topic: assign-channel-order-app-permission-sets-and-accept-the-email-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.648Z
+lastCollected: 2026-04-07T09:04:54.533Z
 estimatedTokens: 453
 keywords: [Assign, Channel, Order, App, Permission, Accept, Email, Service, give, team, members, access, COA, org, ready]
 ---

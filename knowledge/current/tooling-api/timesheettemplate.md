@@ -5,7 +5,7 @@ topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.602Z
+lastCollected: 2026-04-07T09:02:49.264Z
 estimatedTokens: 950
 keywords: [TimeSheetTemplate, template, creating, time, sheets, Service, API, version, 46.0, later, SOAP, Calls, REST, HTTP, Special]
 ---

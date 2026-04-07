@@ -5,7 +5,7 @@ topic: connectapireferencelineerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:14.654Z
+lastCollected: 2026-04-07T09:01:56.743Z
 estimatedTokens: 116
 keywords: [ConnectApi.ReferenceLineError, Output, representation, line, level, errors]
 ---

@@ -5,8 +5,8 @@ topic: how-the-client-connects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.508Z
-estimatedTokens: 1460
+lastCollected: 2026-04-07T09:03:05.305Z
+estimatedTokens: 1454
 keywords: [How, Client, Connects, Streaming, API, uses, HTTP, 1.1, request-response, model, Bayeux, protocol, CometD, implementation, multiple]
 ---
 
@@ -23,7 +23,7 @@ Streaming API uses the HTTP/1.1 request-response model and the Bayeux protocol (
 2.  After a successful handshake, your custom listener on the /meta/handshake channel sends a subscription request to a channel.
 3.  CometD maintains the connection by using [long polling](http://en.wikipedia.org/wiki/Push_technology "HTML (New Window)").
 
-![Client connection sequence to Salesforce using CometD](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_cometd_connection_sequence.png&folder=api_streaming)
+![Client connection sequence to Salesforce using CometD](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_cometd_connection_sequence.png&folder=api_streaming)
 
 The client receives events from the server while it maintains a long-lived connection. CometD performs the handshake, connection, and reconnection requests. Your custom code performs other operations, such as subscription. The client reconnects for the following conditions.
 
@@ -57,7 +57,7 @@ Invalidated client authentication doesn’t include Salesforce session expiratio
 
 This diagram shows how a CometD client connects to Salesforce after it encounters an authentication error.
 
-![Client connection sequence to Salesforce with error handling using CometD](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_cometd_connection_sequence_reauth.png&folder=api_streaming)
+![Client connection sequence to Salesforce with error handling using CometD](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_cometd_connection_sequence_reauth.png&folder=api_streaming)
 
 For details about these steps, see [Bayeux Protocol, CometD, and Long Polling](atlas.en-us.api_streaming.meta/api_streaming/BayeauxProtocolAndCometD.htm "Streaming API uses the Bayeux protocol and CometD for long polling.").
 

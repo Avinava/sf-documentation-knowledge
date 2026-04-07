@@ -5,7 +5,7 @@ topic: make-your-appexchange-listing-private
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.524Z
+lastCollected: 2026-04-07T09:04:54.322Z
 estimatedTokens: 303
 keywords: [AppExchange, Listing, longer, want, publicly, customers, can’t, discover, browsing, searching, URL, access, listings, directly]
 ---

@@ -5,7 +5,7 @@ topic: service-appointments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.591Z
+lastCollected: 2026-04-07T09:05:26.847Z
 estimatedTokens: 264
 keywords: [Service, Appointments, POST, error, codes, code, messages, Salesforce, Scheduler, API, service-appointments, resource]
 ---

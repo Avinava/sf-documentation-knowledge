@@ -5,7 +5,7 @@ topic: javascript-promises
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.552Z
+lastCollected: 2026-04-07T09:03:03.441Z
 estimatedTokens: 221
 keywords: [JavaScript, Promises, Lightning, Console, API, results, LWC, Aura]
 ---

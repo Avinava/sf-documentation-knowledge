@@ -5,7 +5,7 @@ topic: send-survey-invitation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.333Z
+lastCollected: 2026-04-07T09:05:23.171Z
 estimatedTokens: 549
 keywords: [Send, Survey, Invitation, Actions, email, invitations, leads, contacts, users, org, action, customer, support, case, closes]
 ---

@@ -5,7 +5,7 @@ topic: investigate-report-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.945Z
+lastCollected: 2026-04-07T09:05:28.754Z
 estimatedTokens: 943
 keywords: [Investigate, Report, Anomalies, It's, often, necessary, further, anomaly, either, rule, benign, determine, data, breach, occurred]
 ---

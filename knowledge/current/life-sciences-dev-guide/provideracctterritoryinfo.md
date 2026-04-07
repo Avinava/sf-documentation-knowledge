@@ -5,8 +5,8 @@ topic: provideracctterritoryinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.861Z
-estimatedTokens: 1827
+lastCollected: 2026-04-07T09:04:11.457Z
+estimatedTokens: 1951
 keywords: [ProviderAcctTerritoryInfo, engagement, data, account, user, assigned, territory, includes, provider, visit, date, preferred, address, planned, activities]
 ---
 
@@ -29,6 +29,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Field | Details |
 | --- | --- |
 | AccountId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe account ID associated with provider account territory info.This field is a relationship field.Relationship NameAccountRefers ToAccount |
+| AccountTerrUniqueIdentifier | TypestringPropertiesFilter, Group, idLookup, Nillable, SortDescriptionThe unique account territory ID associated with provider account territory info.This field is unique within your organizationThis field is a relationship field.Relationship NameAccountRefers ToAccount |
 | AssignmentApprovalStatus | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe approval status when an account is added to the territory through manual request.Possible values are:ApprovedPendingRejected |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the provider account territory info is active.The default value is false. |
 | IsAvailableOffline | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether this record will be downloaded to the mobile application.The default value is false. |
@@ -45,6 +46,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | PreferredAddressId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID associated with the contact point record that stores the preferred address of the account for the specified territory.This field is a relationship field.Relationship NamePreferredAddressRefers ToContactPointAddress |
 | ProviderOrganizationId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe healthcare facility associated with the provider account.This field is a relationship field.Relationship NameProviderOrganizationRefers ToAccount |
 | RecommendedPresentationInfo | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe next best content recommended for sharing with the healthcare provider during a future visit. |
+| RecordTypeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe record type ID of the provider account territory info.This field is a relationship field. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionThe ID of the record in the external system. |
 | SourceSystemName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the external system that generated the record. |
 | SourceType | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe source of adding the account to the territory. |

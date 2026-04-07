@@ -5,8 +5,8 @@ topic: issue-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.657Z
-estimatedTokens: 188
+lastCollected: 2026-04-07T09:04:00.133Z
+estimatedTokens: 187
 keywords: [Issue, Insurance, Policy, Action, user, inputs, represent, REST, HTTP, Outputs, Usage]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 63.0 and later.
 
 **URI**
 
-/services/data/v66.0/actions/standard/issueInsurancePolicy
+/services/data/v/actions/standard/issueInsurancePolicy
 
 **Formats**
 

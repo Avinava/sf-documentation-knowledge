@@ -5,7 +5,7 @@ topic: get-catalog-details-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:11.729Z
+lastCollected: 2026-04-07T09:01:55.022Z
 estimatedTokens: 361
 keywords: [Catalog, Action, record, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---

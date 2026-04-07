@@ -5,7 +5,7 @@ topic: cgcloudproducttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.499Z
+lastCollected: 2026-04-07T09:05:21.039Z
 estimatedTokens: 1371
 keywords: [cgcloud__Product_Template__c, Stores, product, template, that's, products, API, version, 54.0, later, cgcloud, _Product, _Template, Calls, Associated]
 ---

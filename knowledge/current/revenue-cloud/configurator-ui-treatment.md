@@ -5,7 +5,7 @@ topic: configurator-ui-treatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:20.317Z
+lastCollected: 2026-04-07T09:02:00.556Z
 estimatedTokens: 364
 keywords: [Configurator, Treatment, Output, representation, treatments, product, include, configuration, rule, actions, override, disable, hide, behavior, options]
 ---

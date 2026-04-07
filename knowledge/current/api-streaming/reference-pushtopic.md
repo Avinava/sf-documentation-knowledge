@@ -5,7 +5,7 @@ topic: reference-pushtopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.437Z
+lastCollected: 2026-04-07T09:03:05.183Z
 estimatedTokens: 58
 keywords: [PushTopic, Salesforce, Lightning, Platform]
 ---

@@ -5,7 +5,7 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.421Z
+lastCollected: 2026-04-07T09:03:18.292Z
 estimatedTokens: 150
 keywords: [Introduction, document, explains, Salesforce, configurations, export, CSV, files, Real, Time, Reporting, RTR, Integration, API, customizing]
 ---

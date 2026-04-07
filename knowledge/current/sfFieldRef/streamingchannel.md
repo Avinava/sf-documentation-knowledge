@@ -5,7 +5,7 @@ topic: streamingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.641Z
+lastCollected: 2026-04-07T09:06:08.359Z
 estimatedTokens: 368
 keywords: [StreamingChannel, channel, basis, notifying, listeners, generic, Streaming, API, events, version, 29.0, later]
 ---

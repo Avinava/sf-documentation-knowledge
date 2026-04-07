@@ -5,7 +5,7 @@ topic: customize-a-report-to-show-annual-revenue-for-an-offering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.580Z
+lastCollected: 2026-04-07T09:04:54.415Z
 estimatedTokens: 401
 keywords: [Customize, Report, Show, Annual, Revenue, Offering, Checkout, Management, App, CMA, dashboard, doesn’t, box, try, modifying]
 ---

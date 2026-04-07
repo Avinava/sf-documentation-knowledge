@@ -5,7 +5,7 @@ topic: create-an-account-for-end-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.862Z
+lastCollected: 2026-04-07T09:03:51.337Z
 estimatedTokens: 243
 keywords: [Account, End, Users, store, including, their, contact, records, Headless, Identity, Apex, registration, handlers, new, log]
 ---

@@ -5,7 +5,7 @@ topic: casemilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.296Z
+lastCollected: 2026-04-07T09:04:36.622Z
 estimatedTokens: 911
 keywords: [CaseMilestone, milestone, step, customer, support, process, Case, API, version, 18.0, later, Calls, Usage]
 ---

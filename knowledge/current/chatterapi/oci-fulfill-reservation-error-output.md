@@ -5,7 +5,7 @@ topic: oci-fulfill-reservation-error-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.969Z
+lastCollected: 2026-04-07T09:03:34.012Z
 estimatedTokens: 123
 keywords: [OCI, Fulfill, Reservation, Error, Output, inventory]
 ---

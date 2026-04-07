@@ -5,7 +5,7 @@ topic: test-your-application-for-vulnerabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.388Z
+lastCollected: 2026-04-07T09:05:27.963Z
 estimatedTokens: 408
 keywords: [Test, Application, Vulnerabilities, applications, authorization, access, control, ensure, web, security]
 ---

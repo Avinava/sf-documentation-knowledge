@@ -5,7 +5,7 @@ topic: platform-security-faqs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.510Z
+lastCollected: 2026-04-07T09:05:28.101Z
 estimatedTokens: 3818
 keywords: [Platform, Security, FAQs, answers, common, questions, App, Cloud, understand, positive, findings, third-party, Assessments, against, Secure]
 ---

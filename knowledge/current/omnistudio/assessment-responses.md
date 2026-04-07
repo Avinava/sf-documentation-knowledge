@@ -5,7 +5,7 @@ topic: assessment-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:50.230Z
+lastCollected: 2026-04-07T09:02:52.879Z
 estimatedTokens: 338
 keywords: [Assessment, Responses, Save, OmniScript, built, Questions, app]
 ---

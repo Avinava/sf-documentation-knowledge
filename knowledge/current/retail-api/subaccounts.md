@@ -5,7 +5,7 @@ topic: subaccounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.600Z
+lastCollected: 2026-04-07T09:05:17.212Z
 estimatedTokens: 1129
 keywords: [SubAccounts, Creates, empty, sub, accounts, structure, TPM, _SubAccounts, List<SubAccount>, getSubAccounts, API, Version, toGenericObject, toJSON, SubAccount]
 ---
@@ -37,13 +37,13 @@ The following are methods for TPM\_Scenarios.ScenarioParameter.
     Serializes the sub accounts information into a generic object. Useful for usage on remote calls.
 -   **[global String toJSON](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#global_String)**
     Serializes the sub accounts information into a String used for storage.
--   **[global SubAccount addSubAccount](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_2131827652)**
+-   **[global SubAccount addSubAccount](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_539143818)**
     Adds a sub account information to the current SubAccounts instance. The parameters are the Account External Id, a flag to determine if the sub account is included or excluded and it’s volume percentage (between 0 and 100).
--   **[global TPM\_SubAccounts](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_481261390)**
+-   **[global TPM\_SubAccounts](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_919902234)**
     Creates an empty sub accounts structure.
--   **[global TPM\_SubAccounts load](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_806818366)**
+-   **[global TPM\_SubAccounts load](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_1000430176)**
     Loads the serialized sub accounts information into the current instance. The current instance will be cleared and the sub accounts represented by the payload will be loaded.
--   **[global TPM\_SubAccounts load](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_442569815)**
+-   **[global TPM\_SubAccounts load](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#unique_1868329351)**
     Loads the sub accounts information from the parameter generic object. The current instance will be cleared and the sub accounts represented by the payload will be loaded.
 -   **[global void clear](atlas.en-us.retail_api.meta/retail_api/TPM_SubAccounts.htm#globalvoidclear)**
     Removes all information from the current instance and leaves it empty. Same state as the constructor.

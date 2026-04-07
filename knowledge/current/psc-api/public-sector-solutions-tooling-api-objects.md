@@ -5,7 +5,7 @@ topic: public-sector-solutions-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.587Z
+lastCollected: 2026-04-07T09:05:12.096Z
 estimatedTokens: 188
 keywords: [Sector, Solutions, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---

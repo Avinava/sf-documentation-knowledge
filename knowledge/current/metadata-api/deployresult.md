@@ -5,7 +5,7 @@ topic: deployresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:05.607Z
+lastCollected: 2026-04-07T09:02:39.374Z
 estimatedTokens: 4569
 keywords: [DeployResult, success, failure, associated, deploy, call, DeployDetails, DeployMessage, RunTestsResult, CodeCoverageResult, CodeCoverageWarning, RunTestFailure, FlowCoverageResult, FlowCoverageWarning, RunTestSuccess]
 ---

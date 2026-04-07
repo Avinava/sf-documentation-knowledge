@@ -5,7 +5,7 @@ topic: individualhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.224Z
+lastCollected: 2026-04-07T09:04:42.539Z
 estimatedTokens: 397
 keywords: [IndividualHistory, history, changes, data, privacy, record, Individual, versions, 42.0, later, Calls, Special, Access, Rules, Usage]
 ---

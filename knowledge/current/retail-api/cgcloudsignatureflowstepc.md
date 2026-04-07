@@ -5,7 +5,7 @@ topic: cgcloudsignatureflowstepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.968Z
+lastCollected: 2026-04-07T09:05:21.570Z
 estimatedTokens: 1484
 keywords: [cgcloud__Signature_Flow_Step__c, stores, flow, steps, template, API, version, 54.0, later, cgcloud, _Signature, _Flow, _Step, Calls, Associated]
 ---

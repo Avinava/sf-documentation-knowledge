@@ -5,7 +5,7 @@ topic: einsteinagentsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:05.968Z
+lastCollected: 2026-04-07T09:02:39.735Z
 estimatedTokens: 512
 keywords: [EinsteinAgentSettings, settings, Einstein, classification, apps, Case, Wrap-Up, org, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---

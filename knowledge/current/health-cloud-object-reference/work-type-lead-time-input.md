@@ -5,7 +5,7 @@ topic: work-type-lead-time-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.213Z
+lastCollected: 2026-04-07T09:03:53.111Z
 estimatedTokens: 170
 keywords: [Work, Lead, Time, Input, representation, their, associated, times]
 ---

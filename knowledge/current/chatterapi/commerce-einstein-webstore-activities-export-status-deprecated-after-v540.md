@@ -5,7 +5,7 @@ topic: commerce-einstein-webstore-activities-export-status-deprecated-after-v540
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.019Z
+lastCollected: 2026-04-07T09:03:25.066Z
 estimatedTokens: 174
 keywords: [Commerce, Einstein, Webstore, Activities, Export, Status, Deprecated, v54.0, activity, job, store]
 ---

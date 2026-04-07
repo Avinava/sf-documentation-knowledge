@@ -5,7 +5,7 @@ topic: configure-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.194Z
+lastCollected: 2026-04-07T09:03:41.128Z
 estimatedTokens: 2098
 keywords: [Configure, Data, Loader, Settings, menu, change, operation]
 ---

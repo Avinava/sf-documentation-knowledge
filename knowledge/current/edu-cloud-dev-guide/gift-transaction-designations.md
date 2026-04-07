@@ -5,7 +5,7 @@ topic: gift-transaction-designations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.915Z
+lastCollected: 2026-04-07T09:03:42.212Z
 estimatedTokens: 186
 keywords: [Gift, Transaction, Designations, associated, campaign, commitment, opportunity]
 ---

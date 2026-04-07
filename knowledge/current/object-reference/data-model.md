@@ -5,7 +5,7 @@ topic: data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.185Z
+lastCollected: 2026-04-07T09:04:33.020Z
 estimatedTokens: 217
 keywords: [Data, Model, Entity, relationship, diagrams, ERDs, standard, Salesforce, objects, illustrate, relationships, crow’s, foot, notation]
 ---

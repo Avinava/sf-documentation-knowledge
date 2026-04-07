@@ -5,7 +5,7 @@ topic: analytics-sdk-developer-guide-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:06.897Z
+lastCollected: 2026-04-07T09:03:14.821Z
 estimatedTokens: 1280
 keywords: [Analytics, SDK, Developer, features, embed, CRM, functionality, directly, users, work, everyday, having, transition, Lightning, Experience]
 ---

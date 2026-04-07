@@ -5,8 +5,8 @@ topic: get-group-census-members-and-plans-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.626Z
-estimatedTokens: 685
+lastCollected: 2026-04-07T09:04:00.088Z
+estimatedTokens: 684
 keywords: [Group, Census, Members, Plans, Action, member, records, associated, content, document, asynchronous, bulk, item, record, REST]
 ---
 
@@ -27,7 +27,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/getGroupCensusMembersAndPlans
+/services/data/v/actions/standard/getGroupCensusMembersAndPlans
 
 Formats
 

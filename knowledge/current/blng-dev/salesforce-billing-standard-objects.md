@@ -5,7 +5,7 @@ topic: salesforce-billing-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.201Z
+lastCollected: 2026-04-07T09:03:16.874Z
 estimatedTokens: 380
 keywords: [Salesforce, Billing, Standard, Objects, access, orgs, managed, package, provisioned]
 ---

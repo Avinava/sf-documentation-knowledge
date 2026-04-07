@@ -5,7 +5,7 @@ topic: wkcccommandcentermappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.358Z
+lastCollected: 2026-04-07T09:06:18.998Z
 estimatedTokens: 1175
 keywords: [wkcc__CommandCenterMapping__c, Stores, mappings, tabs, Command, Center, Settings, app, access, Launcher, orgs, Workplace, installed, wkcc, _CommandCenterMapping]
 ---

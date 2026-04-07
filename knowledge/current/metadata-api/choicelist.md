@@ -5,7 +5,7 @@ topic: choicelist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:04.419Z
+lastCollected: 2026-04-07T09:02:38.189Z
 estimatedTokens: 613
 keywords: [ChoiceList, dropdown, that’s, pre-chat, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, ChoiceListValue, Declarative]
 ---

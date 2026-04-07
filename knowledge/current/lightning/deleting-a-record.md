@@ -5,7 +5,7 @@ topic: deleting-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.691Z
+lastCollected: 2026-04-07T09:04:13.733Z
 estimatedTokens: 772
 keywords: [Deleting, Record, Lightning, Data, Service, call, deleteRecord, force, recordData, component, pass, callback, function, invoked, operation]
 ---

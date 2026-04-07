@@ -6,7 +6,7 @@ topic: schedule-a-push-upgrade-using-soap-api-for-first--and-second-generation-m
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.933Z
+lastCollected: 2026-04-07T09:05:03.614Z
 estimatedTokens: 797
 keywords: [Schedule, Push, Upgrade, SOAP, API, First-, Second-Generation, Managed, Packages, you’ve, created, updated, version, package, automatically]
 ---

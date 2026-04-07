@@ -5,7 +5,7 @@ topic: lightning-web-components-for-subscriber-lifecycle-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.091Z
+lastCollected: 2026-04-07T09:04:21.113Z
 estimatedTokens: 2001
 keywords: [Lightning, Web, Components, Subscriber, Lifecycle, Management, uses, LWC, part, managed, package, can't, extended, changed]
 ---

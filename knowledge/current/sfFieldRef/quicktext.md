@@ -5,7 +5,7 @@ topic: quicktext
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.024Z
+lastCollected: 2026-04-07T09:06:03.200Z
 estimatedTokens: 449
 keywords: [QuickText, stores, snippet, text, users, send, quick, customer, greetings, answers, common, questions, short, notes, API]
 ---

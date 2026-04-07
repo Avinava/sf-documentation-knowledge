@@ -5,7 +5,7 @@ topic: data-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:10.397Z
+lastCollected: 2026-04-07T09:01:54.256Z
 estimatedTokens: 11358
 keywords: [data, Commands, results, bulk, ingest, job, previously, ran, Examples, Flags, file, record, Aliases, resume, export]
 ---

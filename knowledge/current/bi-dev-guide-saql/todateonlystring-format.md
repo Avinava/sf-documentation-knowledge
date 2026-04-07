@@ -6,7 +6,7 @@ topic: todateonlystring-format
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.546Z
+lastCollected: 2026-04-07T09:03:14.305Z
 estimatedTokens: 166
 keywords: [toDateOnly, Converts, date, DateOnly, any]
 ---

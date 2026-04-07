@@ -5,7 +5,7 @@ topic: bypass-object-level-and-field-level-access-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.136Z
+lastCollected: 2026-04-07T09:04:55.387Z
 estimatedTokens: 641
 keywords: [Bypass, Object-Level, Field-Level, Access, Settings, Design, solutions, enforce, org’s, CRUD, security, FLS, standard, custom, objects]
 ---

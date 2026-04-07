@@ -5,7 +5,7 @@ topic: siteredirectmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.242Z
+lastCollected: 2026-04-07T09:04:49.737Z
 estimatedTokens: 421
 keywords: [SiteRedirectMapping, site, redirect, external, Experience, Cloud, API, version, 52.0, later, Calls, Special, Access, Rules, Usage]
 ---

@@ -5,7 +5,7 @@ topic: blockingrule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:48.980Z
+lastCollected: 2026-04-07T09:03:00.552Z
 estimatedTokens: 526
 namespace: FSL
 keywords: [BlockingRule, holds, array, blocking, rules, AppointmentInsightsResult, getAppointmentInsights, ScheduleService, Usage]

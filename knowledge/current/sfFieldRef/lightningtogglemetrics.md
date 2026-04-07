@@ -5,7 +5,7 @@ topic: lightningtogglemetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.307Z
+lastCollected: 2026-04-07T09:05:51.679Z
 estimatedTokens: 242
 keywords: [LightningToggleMetrics, users, switched, Lightning, Experience, back, Salesforce, Classic, API, version, 43.0, later]
 ---

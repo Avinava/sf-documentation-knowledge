@@ -5,7 +5,7 @@ topic: scope3crbnftprnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.009Z
+lastCollected: 2026-04-07T09:06:06.090Z
 estimatedTokens: 1486
 keywords: [Scope3CrbnFtprnt, total, carbon, emissions, scope, activities, footprint, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide]
 ---

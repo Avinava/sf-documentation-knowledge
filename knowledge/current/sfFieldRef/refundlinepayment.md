@@ -5,7 +5,7 @@ topic: refundlinepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.975Z
+lastCollected: 2026-04-07T09:06:04.659Z
 estimatedTokens: 522
 keywords: [RefundLinePayment, refund, line, applied, payment, API, version, 48.0, later]
 ---

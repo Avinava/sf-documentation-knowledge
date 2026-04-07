@@ -5,7 +5,7 @@ topic: groupmembershipeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.998Z
+lastCollected: 2026-04-07T09:04:42.343Z
 estimatedTokens: 768
 keywords: [GroupMembershipEventLog, Group, Membership, events, capture, changes, queue, members, added, removed, API, version, 64.0, later, Calls]
 ---

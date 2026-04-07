@@ -5,7 +5,7 @@ topic: ensure-refunds-async-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:18.454Z
+lastCollected: 2026-04-07T09:03:31.590Z
 estimatedTokens: 284
 keywords: [Ensure, Refunds, Async, Output, asynchronous, background, operation, includes, regardless, whether, call, made, external, payment, gateway]
 ---

@@ -5,7 +5,7 @@ topic: aijobrunitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.183Z
+lastCollected: 2026-04-07T09:04:34.221Z
 estimatedTokens: 577
 keywords: [AiJobRunItem, Stores, individual, item, associated, parent, AiJobRun, including, inputs, resulting, API, version, 63.0, later, Calls]
 ---

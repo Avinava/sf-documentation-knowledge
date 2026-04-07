@@ -5,7 +5,7 @@ topic: validation-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:22.143Z
+lastCollected: 2026-04-07T09:02:01.960Z
 estimatedTokens: 132
 keywords: [Validation, Result, Output, representation, results, grouped, rule]
 ---

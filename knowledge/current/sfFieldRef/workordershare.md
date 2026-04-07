@@ -5,7 +5,7 @@ topic: workordershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.394Z
+lastCollected: 2026-04-07T09:06:11.971Z
 estimatedTokens: 263
 keywords: [WorkOrderShare, sharing, entry, work, order, API, version, 36.0, later]
 ---

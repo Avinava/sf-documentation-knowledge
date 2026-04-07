@@ -5,7 +5,7 @@ topic: how-to-exclude-source-when-syncing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.254Z
+lastCollected: 2026-04-07T09:06:13.115Z
 estimatedTokens: 2213
 keywords: [How, Exclude, Source, Syncing, metadata, local, file, system, target, org, often, files, want, Similarly, certain]
 ---

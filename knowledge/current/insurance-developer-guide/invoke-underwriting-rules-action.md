@@ -5,15 +5,15 @@ topic: invoke-underwriting-rules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.653Z
-estimatedTokens: 260
+lastCollected: 2026-04-07T09:04:00.127Z
+estimatedTokens: 258
 keywords: [Invoke, Underwriting, Rules, Action, different, insurance, records, run, time, REST, HTTP, Inputs, Outputs]
 ---
 
 # Invoke Underwriting Rules Action
 
-> Invoke the underwriting rules for different insurance records during the run
-  time.
+> Invoke the underwriting rules for different insurance records during the
+            run time.
 
 # Invoke Underwriting Rules Action
 
@@ -25,7 +25,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/invokeUnderwritingRules
+/services/data/v/actions/standard/invokeUnderwritingRules
 
 Formats
 
@@ -43,13 +43,13 @@ Authorization: Bearer token
 
 | Input | Details |
 | --- | --- |
-| invokeUnderwritingRuleInputRep | TypeApex-definedDescriptionRequired.An Apex ConnectApi.InvokeUnderwritingRuleInputRep record that contains the details of the object records to which the underwriting rules are to be applied. |
+| invokeUnderwritingRuleInputRep | TypeApex-definedDescriptionRequired.An Apex ConnectApi.InvokeUnderwritingRuleInputRep record that contains the details of the object records to which the underwriting rules must be applied. |
 
 ## Outputs
 
 | Output | Details |
 | --- | --- |
-| invokeUnderwritingRuleOputRep | TypeApex-definedDescriptionAn Apex ConnectApi.InvokeUnderwritingRuleOputRep record that contains the details of the object records to which the underwriting rules were applied. |
+| invokeUnderwritingRuleOputRep | TypeApex-definedDescriptionAn Apex ConnectApi.InvokeUnderwritingRuleOputRep record that contains the details of the object records to which the underwriting rules are applied. |
 
 ## Example
 

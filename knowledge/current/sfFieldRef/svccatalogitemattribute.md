@@ -5,7 +5,7 @@ topic: svccatalogitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.942Z
+lastCollected: 2026-04-07T09:06:08.773Z
 estimatedTokens: 517
 keywords: [SvcCatalogItemAttribute, pre-filled, fulfillment, flow, inputs, user, questions, ask, users, context, service, catalog, item, version, API]
 ---

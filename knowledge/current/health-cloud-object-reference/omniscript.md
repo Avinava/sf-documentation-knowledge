@@ -5,7 +5,7 @@ topic: omniscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.346Z
+lastCollected: 2026-04-07T09:03:53.310Z
 estimatedTokens: 240
 keywords: [Omniscript, discovery, framework, structure, stored, OmniProcess]
 ---

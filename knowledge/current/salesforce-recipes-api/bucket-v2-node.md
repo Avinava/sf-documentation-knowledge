@@ -5,7 +5,7 @@ topic: bucket-v2-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.698Z
+lastCollected: 2026-04-07T09:05:25.333Z
 estimatedTokens: 125
 keywords: [Bucket, Node, version, recipe, improved, functionality]
 ---

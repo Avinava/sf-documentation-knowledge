@@ -5,7 +5,7 @@ topic: batch-job-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:48.135Z
+lastCollected: 2026-04-07T09:02:50.672Z
 estimatedTokens: 343
 keywords: [Batch, Job, Actions, Run, active, Management, definition, action, executes, defined, asynchronously, REST, HTTP, Inputs, Outputs]
 ---

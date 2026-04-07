@@ -5,7 +5,7 @@ topic: medicationstatementdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.974Z
+lastCollected: 2026-04-07T09:05:54.021Z
 estimatedTokens: 288
 keywords: [MedicationStatementDetail, additional, associated, MedicationStatement, records, API, version, 54.0, later]
 ---

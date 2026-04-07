@@ -5,7 +5,7 @@ topic: dynamic-soql
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:43.078Z
+lastCollected: 2026-04-07T09:02:32.355Z
 estimatedTokens: 1703
 keywords: [Dynamic, SOQL, refers, creation, run, time, Apex, code, flexible, applications, search, input, end, user, records]
 ---

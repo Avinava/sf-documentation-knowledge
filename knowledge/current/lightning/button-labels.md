@@ -5,7 +5,7 @@ topic: button-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.876Z
+lastCollected: 2026-04-07T09:04:12.527Z
 estimatedTokens: 770
 keywords: [Button, Labels, Buttons, appear, text, icon, accessible, lightning, buttonIcon, base, components, textual, label, attribute]
 ---

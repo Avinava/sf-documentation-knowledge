@@ -5,7 +5,7 @@ topic: connectapichangeiteminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:46.256Z
+lastCollected: 2026-04-07T09:02:19.631Z
 estimatedTokens: 666
 keywords: [Change, order, item, summary, cancel, specify, whether, prorate, associated, shipping, charge, price, can’t]
 ---

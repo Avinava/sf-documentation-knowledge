@@ -5,7 +5,7 @@ topic: monitor-login-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.263Z
+lastCollected: 2026-04-07T09:05:29.215Z
 estimatedTokens: 1034
 keywords: [Monitor, Login, History, admin, attempts, log, Salesforce, Experience, Cloud, sites, records, user, logins, past, months]
 ---

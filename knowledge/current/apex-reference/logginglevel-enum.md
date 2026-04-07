@@ -5,7 +5,7 @@ topic: logginglevel-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.618Z
+lastCollected: 2026-04-07T09:02:27.412Z
 estimatedTokens: 324
 keywords: [LoggingLevel, logging, level, System.debug, Usage]
 ---

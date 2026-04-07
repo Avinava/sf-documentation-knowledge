@@ -5,7 +5,7 @@ topic: liveagentclientchatendbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.694Z
+lastCollected: 2026-04-07T09:04:57.819Z
 estimatedTokens: 208
 keywords: [liveAgent, clientChatEndButton, button, chat, window, visitor, clicks, end, session, Attributes]
 ---

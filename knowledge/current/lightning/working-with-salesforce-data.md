@@ -5,7 +5,7 @@ topic: working-with-salesforce-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.658Z
+lastCollected: 2026-04-07T09:04:13.696Z
 estimatedTokens: 262
 keywords: [Working, Salesforce, Data, Aura, component, Lightning, Service, via, force, recordData, form-based, components]
 ---

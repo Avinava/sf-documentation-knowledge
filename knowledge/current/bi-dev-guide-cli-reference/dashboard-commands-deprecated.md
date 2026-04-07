@@ -5,7 +5,7 @@ topic: dashboard-commands-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:01.919Z
+lastCollected: 2026-04-07T09:03:07.261Z
 estimatedTokens: 3099
 keywords: [dashboard, Commands, Deprecated, Manage, Analytics, dashboards, history, Examples, Command, revert]
 ---

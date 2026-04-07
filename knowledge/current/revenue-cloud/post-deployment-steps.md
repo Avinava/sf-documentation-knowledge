@@ -5,7 +5,7 @@ topic: post-deployment-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:23.080Z
+lastCollected: 2026-04-07T09:02:02.598Z
 estimatedTokens: 243
 keywords: [Post-Deployment, Steps, deployments, require, take, actions, deployment, target, org, ensure, proper, functionality, data, integrity]
 ---

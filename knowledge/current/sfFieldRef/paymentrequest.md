@@ -5,7 +5,7 @@ topic: paymentrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:07.382Z
+lastCollected: 2026-04-07T09:05:58.560Z
 estimatedTokens: 598
 keywords: [PaymentRequest, financial, compensation, goods, services, provided, third, party, API, version, 60.0, later]
 ---

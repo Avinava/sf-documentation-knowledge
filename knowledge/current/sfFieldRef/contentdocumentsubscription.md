@@ -5,7 +5,7 @@ topic: contentdocumentsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.096Z
+lastCollected: 2026-04-07T09:05:40.806Z
 estimatedTokens: 244
 keywords: [ContentDocumentSubscription, subscription, user, commenting, file, library, API, version, 42.0, later]
 ---

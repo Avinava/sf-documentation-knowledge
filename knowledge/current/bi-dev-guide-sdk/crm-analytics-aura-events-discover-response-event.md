@@ -5,7 +5,7 @@ topic: crm-analytics-aura-events---discover-response-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.939Z
+lastCollected: 2026-04-07T09:03:14.870Z
 estimatedTokens: 451
 keywords: [CRM, Analytics, Aura, Events, Discover, Event, dashboards, identify, their, assets, Setting, Receiving, Resources]
 ---

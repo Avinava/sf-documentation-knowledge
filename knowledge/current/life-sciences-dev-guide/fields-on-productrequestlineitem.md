@@ -5,7 +5,7 @@ topic: fields-on-productrequestlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.739Z
+lastCollected: 2026-04-07T09:04:07.759Z
 estimatedTokens: 92
 keywords: [ProductRequestLineItem, Life, Sciences, Cloud, extend, Product, Line, Item, represent, sample, order]
 ---

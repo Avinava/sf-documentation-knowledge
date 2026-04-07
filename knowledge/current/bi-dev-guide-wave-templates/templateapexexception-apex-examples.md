@@ -5,7 +5,7 @@ topic: templateapexexception-apex-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.391Z
+lastCollected: 2026-04-07T09:03:15.568Z
 estimatedTokens: 142
 keywords: [TemplateApexException, Apex, Examples, handle, errors, cleanly, provide, clear, template, users, Report, error, user, database, exceptions]
 ---

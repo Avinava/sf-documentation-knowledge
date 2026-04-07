@@ -5,7 +5,7 @@ topic: configure-the-data-loader-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.289Z
+lastCollected: 2026-04-07T09:03:41.282Z
 estimatedTokens: 279
 keywords: [Configure, Data, Loader, Log, File, customize, advanced, troubleshooting, tracking, log-conf.xml, Levels]
 ---

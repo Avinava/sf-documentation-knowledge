@@ -5,7 +5,7 @@ topic: insuranceclause
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.129Z
+lastCollected: 2026-04-07T09:04:04.159Z
 estimatedTokens: 617
 keywords: [InsuranceClause, terms, conditions, associated, product, Avocation, Clause, excludes, coverage, insured, engages, risky, hobby, API, version]
 ---

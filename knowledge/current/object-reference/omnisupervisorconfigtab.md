@@ -5,7 +5,7 @@ topic: omnisupervisorconfigtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.415Z
+lastCollected: 2026-04-07T09:04:45.150Z
 estimatedTokens: 368
 keywords: [OmniSupervisorConfigTab, visible, tabs, Command, Center, Service, configuration, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---

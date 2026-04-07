@@ -5,7 +5,7 @@ topic: emissions-factor-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.593Z
+lastCollected: 2026-04-07T09:04:26.115Z
 estimatedTokens: 598
 keywords: [Emissions, Factor, Records, calculations, energy, applying, relevant, factors, supplied, refrigerant, leakage, rate, industry, standard, averages]
 ---

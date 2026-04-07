@@ -5,7 +5,7 @@ topic: update-to-the-cli-release-candidate-or-nightly
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:19.173Z
+lastCollected: 2026-04-07T09:06:14.337Z
 estimatedTokens: 1038
 keywords: [CLI, Release, Candidate, Nightly, new, version, weekly, time, publish, changes, plan, include, Think, CLI-version, Salesforce]
 ---

@@ -5,7 +5,7 @@ topic: model-workplace-reopening-with-shift-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.597Z
+lastCollected: 2026-04-07T09:06:19.375Z
 estimatedTokens: 400
 keywords: [Model, Workplace, Reopening, Shift, Management, Work.com, streamlines, process, getting, employees, back, work, safely, capacity, facilities]
 ---

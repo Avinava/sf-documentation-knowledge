@@ -5,7 +5,7 @@ topic: partyfinclliabaddlbrwr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.116Z
+lastCollected: 2026-04-07T09:03:48.141Z
 estimatedTokens: 1126
 keywords: [PartyFinclLiabAddlBrwr, additional, party, associated, financial, liability, API, version, 61.0, later, Calls, Special, Access, Rules, Objects]
 ---

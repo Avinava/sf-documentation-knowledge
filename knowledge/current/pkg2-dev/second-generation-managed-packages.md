@@ -5,7 +5,7 @@ topic: second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.975Z
+lastCollected: 2026-04-07T09:05:03.676Z
 estimatedTokens: 1926
 keywords: [Second-Generation, Managed, Packages, packaging, 2GP, ushers, new, way, AppExchange, partners, develop, distribute, manage, their, apps]
 ---

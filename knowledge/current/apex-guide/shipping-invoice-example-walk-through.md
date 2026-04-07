@@ -5,7 +5,7 @@ topic: shipping-invoice-example-walk-through
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:44.078Z
+lastCollected: 2026-04-07T09:02:33.276Z
 estimatedTokens: 1126
 keywords: [Shipping, Invoice, Walk-Through, sample, application, includes, traditional, Salesforce, functionality, blended, Apex, syntactic, semantic, features, along]
 ---

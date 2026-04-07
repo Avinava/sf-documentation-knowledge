@@ -5,7 +5,7 @@ topic: create-order-from-quote-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:11.537Z
+lastCollected: 2026-04-07T09:01:54.913Z
 estimatedTokens: 211
 keywords: [Order, Quote, Action, record, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---

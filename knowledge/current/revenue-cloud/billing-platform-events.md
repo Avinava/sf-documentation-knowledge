@@ -5,7 +5,7 @@ topic: billing-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.277Z
+lastCollected: 2026-04-07T09:01:57.188Z
 estimatedTokens: 859
 keywords: [Billing, Platform, Events, Salesforce, publishes, standard, action, occurred, org, report, errors, InvoiceProcessedEvent, event, notification, customer]
 ---

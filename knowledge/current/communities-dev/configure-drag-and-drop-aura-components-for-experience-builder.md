@@ -5,7 +5,7 @@ topic: configure-drag-and-drop-aura-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.527Z
+lastCollected: 2026-04-07T09:03:40.066Z
 estimatedTokens: 1025
 keywords: [Configure, Drag-and-Drop, Aura, Components, Experience, Builder, custom, component, there, few, configuration, steps, take, Add, Design]
 ---

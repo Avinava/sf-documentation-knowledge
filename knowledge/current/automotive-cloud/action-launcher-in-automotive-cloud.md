@@ -5,7 +5,7 @@ topic: action-launcher-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.661Z
+lastCollected: 2026-04-07T09:03:05.546Z
 estimatedTokens: 127
 keywords: [Action, Launcher, Automotive, Cloud, Add, actions, Lightning, web, component, users, search, launch, easily, record, pages]
 ---

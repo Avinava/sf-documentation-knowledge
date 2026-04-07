@@ -5,7 +5,7 @@ topic: einstein-visit-task-recommendation-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.401Z
+lastCollected: 2026-04-07T09:05:18.510Z
 estimatedTokens: 501
 keywords: [Einstein, Visit, Task, Recommendation, Associated, Objects, standard, their]
 ---

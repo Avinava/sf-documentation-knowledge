@@ -5,7 +5,7 @@ topic: svcapptschdevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.934Z
+lastCollected: 2026-04-07T09:06:08.764Z
 estimatedTokens: 552
 keywords: [SvcApptSchdEvent, service, appointment, event, included, streamed, notification, received, channels, parent, platform, events, can’t, subscribe, channel]
 ---

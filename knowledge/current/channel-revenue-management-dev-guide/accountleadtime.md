@@ -5,7 +5,7 @@ topic: accountleadtime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.257Z
+lastCollected: 2026-04-07T09:03:19.569Z
 estimatedTokens: 937
 keywords: [AccountLeadTime, estimated, lead, time, account, specific, activity, business, indicate, needed, API, version, 65.0, later, Calls]
 ---

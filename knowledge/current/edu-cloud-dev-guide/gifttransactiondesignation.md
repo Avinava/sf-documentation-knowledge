@@ -5,7 +5,7 @@ topic: gifttransactiondesignation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.602Z
+lastCollected: 2026-04-07T09:03:43.245Z
 estimatedTokens: 1014
 keywords: [GiftTransactionDesignation, junction, gift, transaction, designation, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

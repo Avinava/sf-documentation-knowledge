@@ -5,7 +5,7 @@ topic: content-taxonomy-get-terms
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.786Z
+lastCollected: 2026-04-07T09:03:26.120Z
 estimatedTokens: 318
 keywords: [Content, Taxonomy, Terms, child]
 ---

@@ -5,7 +5,7 @@ topic: logindiscoveryhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:52.815Z
+lastCollected: 2026-04-07T09:02:27.829Z
 estimatedTokens: 1853
 namespace: Auth
 keywords: [LoginDiscoveryHandler, Log, customer, partner, identifier, email, phone, number, successful, redirect, user, Experience, Cloud, site, start]

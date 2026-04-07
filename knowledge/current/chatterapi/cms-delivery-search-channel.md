@@ -5,7 +5,7 @@ topic: cms-delivery-search-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.681Z
+lastCollected: 2026-04-07T09:03:27.431Z
 estimatedTokens: 365
 keywords: [CMS, Delivery, Search, Channel, managed, content]
 ---

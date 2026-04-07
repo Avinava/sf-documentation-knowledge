@@ -5,7 +5,7 @@ topic: install-the-package-in-a-target-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.694Z
+lastCollected: 2026-04-07T09:05:02.030Z
 estimatedTokens: 275
 keywords: [Install, Package, Target, Org, CLI, any, authenticate, including, scratch]
 ---

@@ -5,7 +5,7 @@ topic: userdailymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.744Z
+lastCollected: 2026-04-07T09:04:51.757Z
 estimatedTokens: 2192
 keywords: [UserDailyMetric, daily, engagement, metrics, user, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

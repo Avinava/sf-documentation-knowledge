@@ -5,7 +5,7 @@ topic: context-persistence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.103Z
+lastCollected: 2026-04-07T09:02:57.680Z
 estimatedTokens: 65
 keywords: [Context, Persistence, Persist, data, Salesforce, database, entities]
 ---

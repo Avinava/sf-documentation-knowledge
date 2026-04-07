@@ -5,7 +5,7 @@ topic: knowledge-articles-and-data-categories-in-the-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:41.509Z
+lastCollected: 2026-04-07T09:04:04.673Z
 estimatedTokens: 2299
 keywords: [Knowledge, Articles, Data, Categories, API, working, basics]
 ---

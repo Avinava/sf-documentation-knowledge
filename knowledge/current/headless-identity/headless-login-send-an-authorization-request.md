@@ -5,7 +5,7 @@ topic: headless-login-send-an-authorization-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:31.950Z
+lastCollected: 2026-04-07T09:03:51.470Z
 estimatedTokens: 575
 keywords: [Headless, Login, Send, Authorization, configure, Code, Credentials, Flow, Postman, walks, single-page, app]
 ---

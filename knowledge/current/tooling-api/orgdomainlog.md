@@ -5,7 +5,7 @@ topic: orgdomainlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:45.642Z
+lastCollected: 2026-04-07T09:02:48.216Z
 estimatedTokens: 616
 keywords: [OrgDomainLog, Salesforce, org’s, previous, Domain, API, version, 51.0, later, SOAP, Calls, REST, Usage]
 ---

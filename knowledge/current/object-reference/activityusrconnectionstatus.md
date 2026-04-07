@@ -5,7 +5,7 @@ topic: activityusrconnectionstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:04.050Z
+lastCollected: 2026-04-07T09:04:34.042Z
 estimatedTokens: 972
 keywords: [ActivityUsrConnectionStatus, status, email, connections, Einstein, Activity, Capture, users, whether, accepted, terms, service, emails, API, version]
 ---

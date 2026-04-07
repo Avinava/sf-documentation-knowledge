@@ -5,7 +5,7 @@ topic: immunization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.293Z
+lastCollected: 2026-04-07T09:03:55.986Z
 estimatedTokens: 1581
 keywords: [​Immunization, FHIR, resource, maps, Patient​Immunization, PatientHealthReaction, objects, Salesforce​, V4​.0, ​Clinical, Data, Model, Mapping]
 ---

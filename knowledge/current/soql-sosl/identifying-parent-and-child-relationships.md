@@ -5,7 +5,7 @@ topic: identifying-parent-and-child-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.582Z
+lastCollected: 2026-04-07T09:06:14.908Z
 estimatedTokens: 440
 keywords: [Identifying, Parent, Child, Relationships, Identify, parent-child, viewing, Entity, Relationship, Diagrams, ERD, examining, enterprise, WSDL, organization]
 ---

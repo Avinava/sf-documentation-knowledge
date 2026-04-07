@@ -5,7 +5,7 @@ topic: action-plan-templates-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.283Z
+lastCollected: 2026-04-07T09:05:08.430Z
 estimatedTokens: 457
 keywords: [Action, Plan, Templates, POST, API, Template, items]
 ---

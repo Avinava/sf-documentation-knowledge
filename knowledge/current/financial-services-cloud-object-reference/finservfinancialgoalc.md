@@ -5,7 +5,7 @@ topic: finservfinancialgoalc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.256Z
+lastCollected: 2026-04-07T09:03:49.500Z
 estimatedTokens: 752
 keywords: [FinServ_FinancialGoal__c, Financial, Goal, installed, Services, Cloud, Salesforce, org, install, Managed, Package, client’s, college, funds, major]
 ---

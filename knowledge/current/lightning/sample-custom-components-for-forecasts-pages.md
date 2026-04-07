@@ -5,7 +5,7 @@ topic: sample-custom-components-for-forecasts-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.266Z
+lastCollected: 2026-04-07T09:04:13.133Z
 estimatedTokens: 223
 keywords: [Sample, Custom, Components, Forecasts, Pages, Review, samples, Aura, implement, Lightning, don’t, support, any, standard, events]
 ---

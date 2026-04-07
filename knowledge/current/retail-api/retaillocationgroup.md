@@ -5,7 +5,7 @@ topic: retaillocationgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.690Z
+lastCollected: 2026-04-07T09:05:22.380Z
 estimatedTokens: 545
 keywords: [RetailLocationGroup, Group, retail, stores, shared, features, size, location, part, chain, API, version, 47.0, later, Calls]
 ---

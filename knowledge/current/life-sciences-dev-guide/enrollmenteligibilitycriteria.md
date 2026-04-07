@@ -5,7 +5,7 @@ topic: enrollmenteligibilitycriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.826Z
+lastCollected: 2026-04-07T09:04:10.304Z
 estimatedTokens: 999
 keywords: [EnrollmentEligibilityCriteria, criteria, define, patient, enrollment, eligibility, care, programs, Calls, Associated, Objects]
 ---
@@ -29,7 +29,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | --- | --- |
 | Description | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionA comprehensive description of the enrollment eligibility criteria. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescriptionA short name for the enrollment eligibility criteria. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSystem from which the record was sourced. |

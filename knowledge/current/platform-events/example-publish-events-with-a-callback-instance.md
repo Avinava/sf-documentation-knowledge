@@ -5,7 +5,7 @@ topic: example-publish-events-with-a-callback-instance
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.054Z
+lastCollected: 2026-04-07T09:05:05.425Z
 estimatedTokens: 240
 keywords: [Publish, Events, Callback, Instance, invoke, perform, EventBus.publish, call, passing, FailureCallback, event, batch]
 ---

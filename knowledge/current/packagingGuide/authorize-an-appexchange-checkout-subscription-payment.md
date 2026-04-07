@@ -5,7 +5,7 @@ topic: authorize-an-appexchange-checkout-subscription-payment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.356Z
+lastCollected: 2026-04-07T09:04:54.061Z
 estimatedTokens: 475
 keywords: [Authorize, AppExchange, Checkout, Subscription, Payment, regions, require, strong, customer, authentication, SCA, customer’s, bank, credit, card]
 ---

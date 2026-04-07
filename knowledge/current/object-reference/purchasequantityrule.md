@@ -5,7 +5,7 @@ topic: purchasequantityrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.738Z
+lastCollected: 2026-04-07T09:04:47.807Z
 estimatedTokens: 529
 keywords: [PurchaseQuantityRule, rule, restricts, quantity, product, purchased, increment, minimum, maximum, API, version, 52.0, later, Calls, Special]
 ---

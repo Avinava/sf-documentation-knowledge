@@ -5,7 +5,7 @@ topic: rest-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.932Z
+lastCollected: 2026-04-07T09:03:47.929Z
 estimatedTokens: 249
 keywords: [REST, access, Financial, Services, Cloud, Business, APIs, endpoints, follow, similar, conventions, Connect]
 ---

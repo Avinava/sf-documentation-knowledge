@@ -6,7 +6,7 @@ topic: methods-for-computer-telephony-integration-cti
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.296Z
+lastCollected: 2026-04-07T09:03:04.152Z
 estimatedTokens: 1182
 keywords: [Computer-Telephony, Integration, CTI, Salesforce, Call, Center, seamlessly, integrates, systems, Developers, system, console, users, access, telephony]
 ---

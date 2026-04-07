@@ -5,7 +5,7 @@ topic: commercesearchconnectfamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:39.919Z
+lastCollected: 2026-04-07T09:02:12.346Z
 estimatedTokens: 1355
 namespace: ConnectApi
 keywords: [CommerceSearchConnectFamily, Search, products, term, category, webstore, searchProducts, webstoreId, searchTerm, categoryId, sortRuleId, grouping, refinements, pageParam, pageSize]

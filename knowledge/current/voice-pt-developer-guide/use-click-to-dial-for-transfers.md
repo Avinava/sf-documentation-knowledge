@@ -5,7 +5,7 @@ topic: use-click-to-dial-for-transfers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.989Z
+lastCollected: 2026-04-07T09:06:18.449Z
 estimatedTokens: 329
 keywords: [Click-to-Dial, Transfers, Enable, phone, numbers, rep, call, transfer, number]
 ---

@@ -5,7 +5,7 @@ topic: quotesaveevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:11.285Z
+lastCollected: 2026-04-07T09:06:03.576Z
 estimatedTokens: 290
 keywords: [QuoteSaveEvent, Notifies, subscribers, process, started, actions, standard, successful, event, updated, quote, isn't, errors, how, fix]
 ---

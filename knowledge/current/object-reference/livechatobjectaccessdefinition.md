@@ -5,7 +5,7 @@ topic: livechatobjectaccessdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:12.381Z
+lastCollected: 2026-04-07T09:04:43.845Z
 estimatedTokens: 461
 keywords: [LiveChatObjectAccessDefinition, parent, record, LiveChatObjectAccessConfig, objects, API, version, 53.0, later, Calls, Special, Access, Rules]
 ---

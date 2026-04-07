@@ -5,7 +5,7 @@ topic: using-relationship-queries-with-history-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.585Z
+lastCollected: 2026-04-07T09:06:14.920Z
 estimatedTokens: 128
 keywords: [Relationship, Queries, History, Objects, Custom, standard, associated, tracks, changes, record, SOQL, traverse, parent]
 ---

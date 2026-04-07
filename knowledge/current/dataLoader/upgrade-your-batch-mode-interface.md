@@ -5,7 +5,7 @@ topic: upgrade-your-batch-mode-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.241Z
+lastCollected: 2026-04-07T09:03:41.204Z
 estimatedTokens: 380
 keywords: [Upgrade, Batch, Mode, Data, Loader, versions, 8.0, later, aren’t, backward-compatible, earlier, you’re, version, run, processes]
 ---

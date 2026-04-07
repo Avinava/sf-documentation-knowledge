@@ -5,7 +5,7 @@ topic: between-operator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.987Z
+lastCollected: 2026-04-07T09:03:14.949Z
 estimatedTokens: 907
 keywords: [Operator, check, whether, fall, range, accepts, numeric, date, data, aggregate, window, math, functions, TIMESTAMP, EXTRACT]
 ---

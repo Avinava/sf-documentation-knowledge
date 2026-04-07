@@ -5,7 +5,7 @@ topic: step-3-retrieve-components-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.332Z
+lastCollected: 2026-04-07T09:02:43.391Z
 estimatedTokens: 670
 keywords: [Step, Retrieve, Components, Metadata, API, Salesforce, CLI, file, representation, package.xml, manifest, Two, Options]
 ---

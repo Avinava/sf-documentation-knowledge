@@ -1,56 +1,59 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-04-07T07:54:01.872Z*
+*Last Updated: 2026-04-07T09:07:44.314Z*
 
-**129 Domains** | **33,386 Knowledge Files**
+**129 Domains** | **35,354 Knowledge Files**
 
 ## Available Domains
 
 | Domain | Name | Files | Description |
 |---|---|---|---|
 | [sfFieldRef](../../knowledge/current/sfFieldRef/_index.md) | **Salesforce Field Reference Guide** | 4817 | Use this concise reference to quickly look up details of the standard fields for |
-| [apex-reference](../../knowledge/current/apex-reference/_index.md) | **Apex Reference** | 4612 | Apex class library reference — all system classes and methods |
-| [chatterapi](../../knowledge/current/chatterapi/_index.md) | **Connect REST API Developer Guide** | 2431 | Integrate mobile apps, intranet sites, and third-party web applications with Sal |
-| [object-reference](../../knowledge/current/object-reference/_index.md) | **Object Reference for the Salesforce Platform** | 1774 | Get details on standard objects so that you can interface with your Salesforce d |
+| [apex-reference](../../knowledge/current/apex-reference/_index.md) | **Apex Reference** | 4620 | Apex class library reference — all system classes and methods |
+| [chatterapi](../../knowledge/current/chatterapi/_index.md) | **Connect REST API Developer Guide** | 2465 | Integrate mobile apps, intranet sites, and third-party web applications with Sal |
+| [object-reference](../../knowledge/current/object-reference/_index.md) | **Object Reference for the Salesforce Platform** | 1777 | Get details on standard objects so that you can interface with your Salesforce d |
 | [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1323 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
 | [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1296 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
 | [psc-api](../../knowledge/current/psc-api/_index.md) | **Public Sector Solutions Developer Guide** | 1003 | Use Public Sector Solutions API and developer resources to unify public service  |
-| [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Salesforce Health Cloud Developer Guide** | 832 | Use the Health Cloud API to configure the Health Cloud console, which helps care |
-| [life-sciences-dev-guide](../../knowledge/current/life-sciences-dev-guide/_index.md) | **Life Sciences Cloud Developer Guide** | 699 | Use the developer resources of Life Sciences Cloud to automate the operations av |
+| [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Salesforce Health Cloud Developer Guide** | 833 | Use the Health Cloud API to configure the Health Cloud console, which helps care |
+| [mc-apis](../../knowledge/current/mc-apis/_index.md) | **Marketing Cloud API** | 809 | Developer documentation for Marketing Cloud APIs |
+| [life-sciences-dev-guide](../../knowledge/current/life-sciences-dev-guide/_index.md) | **Life Sciences Cloud Developer Guide** | 714 | Use the developer resources of Life Sciences Cloud to automate the operations av |
 | [metadata-api](../../knowledge/current/metadata-api/_index.md) | **Metadata API** | 688 | Metadata API — deployment, retrieval, metadata types |
 | [insurance-developer-guide](../../knowledge/current/insurance-developer-guide/_index.md) | **Insurance Developer Guide** | 616 | Learn more about the developer sources of Insurance to automate the backend work |
 | [pages](../../knowledge/current/pages/_index.md) | **Visualforce Developer Guide** | 609 | Learn how to develop custom user interfaces and apps with Visualforce, a framewo |
 | [apex-guide](../../knowledge/current/apex-guide/_index.md) | **Apex Developer Guide** | 542 | Apex language guide — syntax, triggers, testing, best practices |
-| [financial-services-cloud-object-reference](../../knowledge/current/financial-services-cloud-object-reference/_index.md) | **Financial Services Cloud Developer Guide** | 526 | Extend Financial Services Cloud with other Salesforce products using the API and |
-| [retail-api](../../knowledge/current/retail-api/_index.md) | **Consumer Goods Cloud Developer Guide** | 522 | Use APIs and developer resources to configure, customize, and extend the capabil |
+| [financial-services-cloud-object-reference](../../knowledge/current/financial-services-cloud-object-reference/_index.md) | **Financial Services Cloud Developer Guide** | 527 | Extend Financial Services Cloud with other Salesforce products using the API and |
+| [loyalty](../../knowledge/current/loyalty/_index.md) | **Loyalty Management Developer Guide** | 526 | Use Loyalty Management API and developer resources to create personalized loyalt |
+| [retail-api](../../knowledge/current/retail-api/_index.md) | **Consumer Goods Cloud Developer Guide** | 524 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [bi-dev-guide-rest](../../knowledge/current/bi-dev-guide-rest/_index.md) | **CRM Analytics REST API Developer Guide** | 519 | Describes how to send queries directly to CRM Analytics, access datasets that ha |
-| [loyalty](../../knowledge/current/loyalty/_index.md) | **Loyalty Management Developer Guide** | 501 | Use Loyalty Management API and developer resources to create personalized loyalt |
 | [lightning](../../knowledge/current/lightning/_index.md) | **Lightning Aura Components Developer Guide** | 491 | Create Aura components for Salesforce for Android, iOS, and mobile web and Light |
+| [mobile-sdk](../../knowledge/current/mobile-sdk/_index.md) | **Mobile SDK Development Guide** | 409 | Build standalone native, React Native, and hybrid mobile apps that access Salesf |
 | [data-cloud](../../knowledge/current/data-cloud/_index.md) | **Data Cloud** | 400 | Data Cloud developer guide — data models, connectors, identity resolution |
-| [packagingGuide](../../knowledge/current/packagingGuide/_index.md) | **ISVforce Guide** | 347 | Plan, build, and sell AppExchange solutions and consulting services. |
+| [mc-programmatic-content](../../knowledge/current/mc-programmatic-content/_index.md) | **Programmatic Marketing Content** | 381 | Developer documentation for Marketing Cloud Programmatic Content |
+| [packagingGuide](../../knowledge/current/packagingGuide/_index.md) | **ISVforce Guide** | 356 | Plan, build, and sell AppExchange solutions and consulting services. |
 | [service-cloud](../../knowledge/current/service-cloud/_index.md) | **Service Cloud** | 344 | Service Cloud — cases, knowledge, omni-channel, entitlements |
 | [tooling-api](../../knowledge/current/tooling-api/_index.md) | **Tooling API** | 338 | Tooling API — code coverage, debug logs, custom fields |
 | [bi-dev-guide-rest-sdd](../../knowledge/current/bi-dev-guide-rest-sdd/_index.md) | **Einstein Discovery REST API Developer Guide** | 312 | Describes how to create and access Einstein Discovery predictions, discovery mod |
+| [edu-cloud-dev-guide](../../knowledge/current/edu-cloud-dev-guide/_index.md) | **Education Cloud Developer Guide** | 308 | Education Cloud gives you the tools and developer resources you need to support  |
 | [rest-api](../../knowledge/current/rest-api/_index.md) | **REST API** | 308 | Salesforce REST API — resources, methods, composite, batch |
 | [nonprofit-cloud](../../knowledge/current/nonprofit-cloud/_index.md) | **Nonprofit Cloud Developer Guide** | 304 | Use APIs and developer resources to configure, customize, and extend the capabil |
-| [edu-cloud-dev-guide](../../knowledge/current/edu-cloud-dev-guide/_index.md) | **Education Cloud Developer Guide** | 301 | Education Cloud gives you the tools and developer resources you need to support  |
 | [salesforce-recipes-api](../../knowledge/current/salesforce-recipes-api/_index.md) | **Data Prep Recipe REST API Developer Guide** | 296 | Describes how to retrieve, update, and schedule Data Prep recipes. |
 | [netzero-cloud-dev-guide](../../knowledge/current/netzero-cloud-dev-guide/_index.md) | **Net Zero Cloud Developer Guide** | 265 | Use Net Zero API and developer resources to integrate a complete sustainability  |
-| [uiapi](../../knowledge/current/uiapi/_index.md) | **User Interface API Developer Guide** | 257 | User Interface API enables you to create native mobile apps and custom web apps  |
+| [uiapi](../../knowledge/current/uiapi/_index.md) | **User Interface API Developer Guide** | 265 | User Interface API enables you to create native mobile apps and custom web apps  |
 | [field-service](../../knowledge/current/field-service/_index.md) | **Field Service** | 247 | Field Service — work orders, scheduling, mobile, territories |
-| [cli-commands](../../knowledge/current/cli-commands/_index.md) | **SF CLI Commands** | 220 | Salesforce CLI (sf) command reference — all commands across plugins |
+| [cli-commands](../../knowledge/current/cli-commands/_index.md) | **SF CLI Commands** | 221 | Salesforce CLI (sf) command reference — all commands across plugins |
 | [platform-events](../../knowledge/current/platform-events/_index.md) | **Platform Events Developer Guide** | 219 | Use platform events to connect business processes in Salesforce and external app |
 | [salesforce-scheduler-developer-guide](../../knowledge/current/salesforce-scheduler-developer-guide/_index.md) | **Salesforce Scheduler Developer Guide** | 205 | Create seamless appointment scheduling web applications using the Salesforce Sch |
 | [api](../../knowledge/current/api/_index.md) | **SOAP API Developer GuideSOA** | 199 | Build robust, server-side solutions that integrate your Salesforce data using SO |
 | [pkg2-dev](../../knowledge/current/pkg2-dev/_index.md) | **Second-Generation Managed Packaging Developer Guide** | 190 | Second-generation managed packaging (2GP) is the preferred way for Salesforce pa |
+| [mfg-api-devguide](../../knowledge/current/mfg-api-devguide/_index.md) | **Manufacturing Cloud Developer Guide** | 187 | Configure a console for business negotiations and planning using the Manufacturi |
 | [sfdx-dev](../../knowledge/current/sfdx-dev/_index.md) | **Salesforce DX Developer Guide** | 180 | Learn how to use Salesforce DX to develop and manage apps on the Lightning Platf |
 | [media-developer-guide](../../knowledge/current/media-developer-guide/_index.md) | **Media Cloud Developer Guide** | 179 | Use APIs and developer resources to configure, customize, and extend the capabil |
-| [mfg-api-devguide](../../knowledge/current/mfg-api-devguide/_index.md) | **Manufacturing Cloud Developer Guide** | 175 | Configure a console for business negotiations and planning using the Manufacturi |
 | [mobile-offline](../../knowledge/current/mobile-offline/_index.md) | **Mobile and Offline Developer Guide** | 174 | Build Lightning web components that work in Salesforce mobile apps, even when yo |
 | [bi-dev-guide-saql](../../knowledge/current/bi-dev-guide-saql/_index.md) | **Analytics SAQL Developer Guide** | 171 | Describes how to use the Salesforce Analytics Query Language (SAQL) to retrieve  |
 | [clm-developer-guide](../../knowledge/current/clm-developer-guide/_index.md) | **Salesforce Contracts** | 169 | Use APIs and developer resources to configure, customize, and extend the capabil |
-| [securityImplGuide](../../knowledge/current/securityImplGuide/_index.md) | **Salesforce Security Guide** | 162 | Implement your own security policies to protect your Salesforce org. Increase tr |
+| [securityImplGuide](../../knowledge/current/securityImplGuide/_index.md) | **Salesforce Security Guide** | 163 | Implement your own security policies to protect your Salesforce org. Increase tr |
 | [blng-dev](../../knowledge/current/blng-dev/_index.md) | **Salesforce Billing Developer Guide** | 142 | Want to get started developing with Salesforce Billing? Check out developer guid |
 | [pkg1-dev](../../knowledge/current/pkg1-dev/_index.md) | **First-Generation Managed Packaging Developer Guide** | 142 | First-generation managed packages (1GP) is the legacy technology to build an app |
 | [automotive-cloud](../../knowledge/current/automotive-cloud/_index.md) | **Automotive Cloud Developer Guide** | 139 | Use APIs and developer resources to configure, customize, and extend the capabil |
@@ -65,6 +68,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [referral-marketing](../../knowledge/current/referral-marketing/_index.md) | **Referral Marketing Developer Guide** | 92 | Use developer resources to design and run referral programs for your customers a |
 | [service-connector-api-developer-guide](../../knowledge/current/service-connector-api-developer-guide/_index.md) | **Service Cloud Connector API Reference** | 91 | Pass information between your partner telephony or Contact Center as a Service ( |
 | [voice-pt-developer-guide](../../knowledge/current/voice-pt-developer-guide/_index.md) | **Service Cloud Voice for Partner Telephony Developer Guide** | 88 | Connect your telephony system with Service Cloud Voice. |
+| [comms-developer-guide](../../knowledge/current/comms-developer-guide/_index.md) | **Revenue Cloud for Communications Developer Guide** | 87 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [api-streaming](../../knowledge/current/api-streaming/_index.md) | **Streaming API Developer Guide** | 85 | Receive notifications in a secure and scalable way with API Streaming. To receiv |
 | [soql-sosl](../../knowledge/current/soql-sosl/_index.md) | **SOQL and SOSL Reference** | 85 | Query and search your org’s data for specific information with Salesforce Object |
 | [api-analytics](../../knowledge/current/api-analytics/_index.md) | **Salesforce Reports and Dashboards REST API Developer Guide** | 82 | The Salesforce Reports and Dashboards REST API gives programmatic access to inte |
@@ -77,17 +81,20 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [agentforce](../../knowledge/current/agentforce/_index.md) | **Agentforce** | 72 | AI agents, actions, topics, prompt templates, agent builder |
 | [communities-dev](../../knowledge/current/communities-dev/_index.md) | **Experience Cloud Developer Guide** | 66 | Develop custom Aura components and theme layouts to meet your unique business ne |
 | [api-action](../../knowledge/current/api-action/_index.md) | **Actions Developer Guide** | 60 | Action API provides APEX, SOAP, and REST interfaces that let you add quick actio |
+| [mc-sdks](../../knowledge/current/mc-sdks/_index.md) | **Marketing Cloud SDKs** | 57 | Developer documentation for Marketing Cloud SDKs |
 | [live-agent-dev](../../knowledge/current/live-agent-dev/_index.md) | **Service Cloud Chat Developer Guide** | 52 | Create customized chat windows, buttons, forms, and pages for your company's Cha |
 | [esm-developer-guide](../../knowledge/current/esm-developer-guide/_index.md) | **Enterprise Sales Management** | 51 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [pushImplGuide](../../knowledge/current/pushImplGuide/_index.md) | **Salesforce Mobile Notifications Implementation Guide** | 51 | Keep your mobile users informed of important news in your organization by implem |
 | [dataLoader](../../knowledge/current/dataLoader/_index.md) | **Data Loader Guide** | 49 | Describes how to use Data Loader, which is a client application for the bulk imp |
+| [service-sdk-ios](../../knowledge/current/service-sdk-ios/_index.md) | **Embedded Service Chat SDK for iOS Developer Guide** | 47 | Give customers access to Service Chat right from within your native iOS app. |
 | [live-agent-rest](../../knowledge/current/live-agent-rest/_index.md) | **Chat REST API Developer Guide** | 46 | Take Chat beyond your website: Extend chats to native mobile apps with the Chat  |
+| [mc-app-development](../../knowledge/current/mc-app-development/_index.md) | **Marketing Cloud Package Development** | 45 | Developer documentation for managing Marketing Cloud packages |
 | [snapins-web-dev](../../knowledge/current/snapins-web-dev/_index.md) | **Embedded Service Chat for Web Developer Guide** | 45 | Improve the functionality of your Embedded Service Chat deployment by customizin |
 | [headless-identity](../../knowledge/current/headless-identity/_index.md) | **Headless Identity Implementation Guide** | 44 | ## Available Topics |
 | [cpq-plugins](../../knowledge/current/cpq-plugins/_index.md) | **Salesforce CPQ Plugins** | 42 | Want to start working with Salesforce CPQ plugins? Check out our definitions, us |
 | [sfdx-setup](../../knowledge/current/sfdx-setup/_index.md) | **Salesforce CLI Setup Guide** | 42 | Learn how to install and configure Salesforce CLI. |
+| [service-sdk-android](../../knowledge/current/service-sdk-android/_index.md) | **Embedded Service Chat SDK for Android Developer Guide** | 41 | Give customers access to Service Cloud Chat features right from within your nati |
 | [nonprofit-cloud-for-grantmaking-dev-guide](../../knowledge/current/nonprofit-cloud-for-grantmaking-dev-guide/_index.md) | **Grantmaking Developer Guide** | 40 | Use API and developer resources to configure, customize, and extend the capabili |
-| [comms-developer-guide](../../knowledge/current/comms-developer-guide/_index.md) | **Revenue Cloud for Communications Developer Guide** | 39 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [devops-center-dev](../../knowledge/current/devops-center-dev/_index.md) | **Salesforce DevOps Center Developer Guide** | 39 | Understand the DevOps Center object model and how the custom objects relate to o |
 | [salesforce-large-data-volumes-bp](../../knowledge/current/salesforce-large-data-volumes-bp/_index.md) | **Best Practices for Deployments with Large Data Volumes** | 32 | Improve the performance of applications with large data volumes, and Salesforce  |
 | [ajax](../../knowledge/current/ajax/_index.md) | **AJAX Toolkit Developer Guide** | 31 | Execute any call in the API, and access any API object that you normally have ac |
@@ -102,7 +109,7 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [omni-channel-dev](../../knowledge/current/omni-channel-dev/_index.md) | **Omni-Channel Developer Guide** | 20 | Customize your Omni-Channel records and console integration with Omni-Channel AP |
 | [restriction-rules](../../knowledge/current/restriction-rules/_index.md) | **Restriction Rules Developer Guide** | 19 | Restriction rules let you enhance security and protect your data by allowing spe |
 | [scoping-rules](../../knowledge/current/scoping-rules/_index.md) | **Scoping Rules Developer Guide** | 19 | Scoping rules let you control the default records that your users see based on c |
-| [secure-coding-guide](../../knowledge/current/secure-coding-guide/_index.md) | **Secure Coding Guide** | 18 | Learn how to avoid the most common security issues that Salesforce has identifie |
+| [secure-coding-guide](../../knowledge/current/secure-coding-guide/_index.md) | **Secure Coding Guide** | 19 | Learn how to avoid the most common security issues that Salesforce has identifie |
 | [api-placeorder](../../knowledge/current/api-placeorder/_index.md) | **Place Order REST API Developer Guide** | 17 | Access your organization's order and contract data programmatically with the Sal |
 | [bi-dev-guide-sdk](../../knowledge/current/bi-dev-guide-sdk/_index.md) | **Analytics SDK Developer Guide** | 17 | Describes how to use CRM Analytics Lightning Web Components, CRM Analytics Asset |
 | [integration-patterns-and-practices](../../knowledge/current/integration-patterns-and-practices/_index.md) | **Integration Patterns and Practices** | 17 | Discover strategies for integrating Lightning Platform with other applications t |
@@ -125,16 +132,9 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [workforce-engagement](../../knowledge/current/workforce-engagement/_index.md) | **Workforce Engagement Developer Guide** | 8 | Guide for technical admins and developers using Workforce Engagement. |
 | [federated-search](../../knowledge/current/federated-search/_index.md) | **Federated Search Developer Guide** | 7 | Federated Search is a feature that lets you search for information stored in ext |
 | [salesforce-developer-environment-dotnet-tipsheet](../../knowledge/current/salesforce-developer-environment-dotnet-tipsheet/_index.md) | **Setting Up Your .NET Developer Environment** | 7 | Configure your local dev environment for integrating with Salesforce using .NET. |
+| [mc-getting-started](../../knowledge/current/mc-getting-started/_index.md) | **Get Started, Marketing Cloud Developers** | 3 | Get started documentation for Marketing Cloud developers |
 | [formula-date-time-tipsheet](../../knowledge/current/formula-date-time-tipsheet/_index.md) | **Using Date and Date/Time in Formulas** | 2 | Learn how to use formulas to convert between date-related data types, how to wor |
 | [fundamentals](../../knowledge/current/fundamentals/_index.md) | **Lightning Platform Fundamentals** | 1 | Get acquainted with the native functionality of the Lightning Platform by creati |
 | [lwc](../../knowledge/current/lwc/_index.md) | **Lightning Web Components** | 1 | LWC developer guide — components, lifecycle, wire service, events |
 | [platform-encryption-rest-api-guide](../../knowledge/current/platform-encryption-rest-api-guide/_index.md) | **Platform Encryption REST API Developer Guide** | 1 | The REST API for Salesforce Platform Encryption lets you generate and manage ten |
 | [salesforce-reports-enhanced-reports-tab-tipsheet](../../knowledge/current/salesforce-reports-enhanced-reports-tab-tipsheet/_index.md) | **Using the Reports Tab** | 1 | The Reports tab makes it easier to find, organize, and manage both your reports  |
-| [mc-apis](../../knowledge/current/mc-apis/_index.md) | **Marketing Cloud API** | 0 | Developer documentation for Marketing Cloud APIs |
-| [mc-app-development](../../knowledge/current/mc-app-development/_index.md) | **Marketing Cloud Package Development** | 0 | Developer documentation for managing Marketing Cloud packages |
-| [mc-getting-started](../../knowledge/current/mc-getting-started/_index.md) | **Get Started, Marketing Cloud Developers** | 0 | Get started documentation for Marketing Cloud developers |
-| [mc-programmatic-content](../../knowledge/current/mc-programmatic-content/_index.md) | **Programmatic Marketing Content** | 0 | Developer documentation for Marketing Cloud Programmatic Content |
-| [mc-sdks](../../knowledge/current/mc-sdks/_index.md) | **Marketing Cloud SDKs** | 0 | Developer documentation for Marketing Cloud SDKs |
-| [mobile-sdk](../../knowledge/current/mobile-sdk/_index.md) | **Mobile SDK Development Guide** | 0 | Build standalone native, React Native, and hybrid mobile apps that access Salesf |
-| [service-sdk-android](../../knowledge/current/service-sdk-android/_index.md) | **Embedded Service Chat SDK for Android Developer Guide** | 0 | Give customers access to Service Cloud Chat features right from within your nati |
-| [service-sdk-ios](../../knowledge/current/service-sdk-ios/_index.md) | **Embedded Service Chat SDK for iOS Developer Guide** | 0 | Give customers access to Service Chat right from within your native iOS app. |

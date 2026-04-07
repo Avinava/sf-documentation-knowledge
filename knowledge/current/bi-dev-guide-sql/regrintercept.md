@@ -5,7 +5,7 @@ topic: regrintercept
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.962Z
+lastCollected: 2026-04-07T09:03:14.912Z
 estimatedTokens: 31
 keywords: [regr_intercept, y-intercept, regression, line, regr, _intercept]
 ---

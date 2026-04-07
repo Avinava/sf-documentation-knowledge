@@ -5,7 +5,7 @@ topic: connectapidigestjob
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:50.892Z
+lastCollected: 2026-04-07T09:02:23.278Z
 estimatedTokens: 111
 keywords: [ConnectApi.DigestJob, successfully, enqueued, API, digest, job]
 ---

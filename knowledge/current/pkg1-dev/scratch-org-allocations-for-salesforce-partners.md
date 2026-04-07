@@ -5,7 +5,7 @@ topic: scratch-org-allocations-for-salesforce-partners
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.369Z
+lastCollected: 2026-04-07T09:05:01.527Z
 estimatedTokens: 318
 keywords: [Scratch, Org, Allocations, Salesforce, Partners, ensure, optimal, performance, allocated, number, orgs, their, Partner, Business, PBO]
 ---

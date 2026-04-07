@@ -5,7 +5,7 @@ topic: offset-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.226Z
+lastCollected: 2026-04-07T09:03:15.337Z
 estimatedTokens: 105
 keywords: [OFFSET, Clause, SQL, query, retrieves, every, row, dataset, restrict, results, conditional, expression]
 ---

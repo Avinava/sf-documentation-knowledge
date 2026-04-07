@@ -5,7 +5,7 @@ topic: feedback-about-submission-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.241Z
+lastCollected: 2026-04-07T09:04:55.610Z
 estimatedTokens: 512
 keywords: [Feedback, Submission, Verification, stage, check, security, review, includes, everything, necessary, start, technical, testing, falls, three]
 ---

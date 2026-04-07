@@ -5,7 +5,7 @@ topic: standardinvocableactiontype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.372Z
+lastCollected: 2026-04-07T09:06:08.012Z
 estimatedTokens: 336
 namespace: Namespace
 keywords: [StandardInvocableActionType, collection, granular, user, permissions, access, standard, invocable, action, Flow, Builder, API, version, 60.0, later]

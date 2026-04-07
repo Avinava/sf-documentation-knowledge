@@ -5,7 +5,7 @@ topic: insurance-policy-administration-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.937Z
+lastCollected: 2026-04-07T09:04:03.877Z
 estimatedTokens: 157
 keywords: [Insurance, Policy, Administration, Metadata, API, access, feature, settings, customize, user]
 ---

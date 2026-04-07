@@ -5,7 +5,7 @@ topic: salesforce-b2c-commerce-storefront-order-data-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.080Z
+lastCollected: 2026-04-07T09:04:53.531Z
 estimatedTokens: 18761
 keywords: [Salesforce, B2C, Commerce, Storefront, Order, Data, Map, tables, illustrate, how, packet, maps, records, Management, you’re]
 ---

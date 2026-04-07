@@ -5,7 +5,7 @@ topic: flow-for-insurance-policy-administration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.934Z
+lastCollected: 2026-04-07T09:04:03.873Z
 estimatedTokens: 368
 keywords: [Flow, Insurance, Policy, Administration, metadata, associated, application, users, series, pages, query, records, database, execute, logic]
 ---

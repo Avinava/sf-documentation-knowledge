@@ -5,7 +5,7 @@ topic: check-in-contract-document-version-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:46.985Z
+lastCollected: 2026-04-07T09:02:49.646Z
 estimatedTokens: 258
 keywords: [Check-In, Contract, Document, Version, Action, REST, HTTP, Inputs, Output, Usage]
 ---

@@ -5,7 +5,7 @@ topic: create-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.562Z
+lastCollected: 2026-04-07T09:05:28.176Z
 estimatedTokens: 2171
 keywords: [Custom, Capture, unique, business, data, storing, configure, want, appear, optionally, control, security, level]
 ---

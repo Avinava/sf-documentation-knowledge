@@ -5,7 +5,7 @@ topic: dataobjectbuildorgtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:05.287Z
+lastCollected: 2026-04-07T09:02:39.063Z
 estimatedTokens: 774
 keywords: [DataObjectBuildOrgTemplate, derived, template, define, structure, configuration, data, objects, build, organization, templates, added, inside, kit, deploy]
 ---

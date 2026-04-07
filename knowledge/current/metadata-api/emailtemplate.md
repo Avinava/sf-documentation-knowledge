@@ -5,7 +5,7 @@ topic: emailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:06.038Z
+lastCollected: 2026-04-07T09:02:39.808Z
 estimatedTokens: 2025
 keywords: [EmailTemplate, template, email, mass, Sales, Engagement, first-generation, managed, packages, File, Suffix, Directory, Location, Retrieving, Templates]
 ---

@@ -5,7 +5,7 @@ topic: scheduledreminder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:56.914Z
+lastCollected: 2026-04-07T09:02:59.503Z
 estimatedTokens: 220
 keywords: [ScheduledReminder, reminder, schedule, API, version, 60.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: ispromotiontemplatecopyable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.971Z
+lastCollected: 2026-04-07T09:05:17.764Z
 estimatedTokens: 72
 keywords: [IsPromotionTemplateCopyable, validates, promotion, template, copied, Input, Sample]
 ---

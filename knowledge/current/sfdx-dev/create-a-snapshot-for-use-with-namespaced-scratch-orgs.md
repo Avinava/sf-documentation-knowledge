@@ -5,7 +5,7 @@ topic: create-a-snapshot-for-use-with-namespaced-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.636Z
+lastCollected: 2026-04-07T09:06:13.593Z
 estimatedTokens: 403
 keywords: [Snapshot, Namespaced, Scratch, Orgs, can't, org, way, deploy, metadata, Snapshots, intended, include, dependent, packages, test]
 ---

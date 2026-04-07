@@ -5,7 +5,7 @@ topic: rest-headers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:43.253Z
+lastCollected: 2026-04-07T09:02:45.864Z
 estimatedTokens: 156
 keywords: [REST, you’re, language, isn’t, strongly, typed, JavaScript]
 ---

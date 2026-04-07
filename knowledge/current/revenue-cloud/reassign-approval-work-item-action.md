@@ -5,7 +5,7 @@ topic: reassign-approval-work-item-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.083Z
+lastCollected: 2026-04-07T09:01:55.234Z
 estimatedTokens: 334
 keywords: [Reassign, Approval, Work, Item, Action, hasn't, completed, add, comments, why, admin, reassigned, REST, HTTP, Inputs]
 ---

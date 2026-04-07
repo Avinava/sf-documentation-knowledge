@@ -5,7 +5,7 @@ topic: privacyjobsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.091Z
+lastCollected: 2026-04-07T09:04:47.013Z
 estimatedTokens: 1239
 keywords: [PrivacyJobSession, status, past, ongoing, scheduled, policy, jobs, Privacy, Center, API, version, 59.0, later, Calls, Special]
 ---

@@ -5,7 +5,7 @@ topic: paymentschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:07.429Z
+lastCollected: 2026-04-07T09:05:58.620Z
 estimatedTokens: 740
 keywords: [PaymentSchedule, payment, schedule, collection, payments, customer, wants, collect, different, times, certain, record, items, item, processed]
 ---

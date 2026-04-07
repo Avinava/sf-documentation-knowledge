@@ -5,7 +5,7 @@ topic: ocrtargetobjfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.845Z
+lastCollected: 2026-04-07T09:05:11.004Z
 estimatedTokens: 403
 keywords: [OcrTargetObjFieldMapping, how, documentdocument, mapped, API, version, 55.0, later, Calls, document, SOAP, REST, Special, Access, Rules]
 ---

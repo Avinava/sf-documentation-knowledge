@@ -5,7 +5,7 @@ topic: introduction-to-outcome-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:55.077Z
+lastCollected: 2026-04-07T09:02:57.656Z
 estimatedTokens: 180
 keywords: [Introduction, Outcome, Management, define, measure, evaluate, organization’s, strategy, time-bound, targets, baseline, track, results, Consistently, indicators]
 ---

@@ -5,7 +5,7 @@ topic: tenantsecurityuseractivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.102Z
+lastCollected: 2026-04-07T09:04:50.898Z
 estimatedTokens: 1091
 keywords: [TenantSecurityUserActivity, Stores, how, user, interacts, tenant, determine, whether, reevaluate, user’s, access, org, security, purposes, check]
 ---

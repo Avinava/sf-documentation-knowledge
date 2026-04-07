@@ -5,7 +5,7 @@ topic: lending-objects-with-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.689Z
+lastCollected: 2026-04-07T09:03:05.600Z
 estimatedTokens: 2231
 keywords: [Lending, Objects, Automotive, Cloud, access, Digital, support, end-to-end, lifecycle, across, loan, lease, products, platform, serves]
 ---

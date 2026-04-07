@@ -5,7 +5,7 @@ topic: decisiontable
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:55.970Z
+lastCollected: 2026-04-07T09:05:43.017Z
 estimatedTokens: 346
 namespace: NamespacePrefix
 keywords: [DecisionTable, decision, input, criteria, define, provide, outcomes]

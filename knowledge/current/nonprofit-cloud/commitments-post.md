@@ -5,7 +5,7 @@ topic: commitments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.837Z
+lastCollected: 2026-04-07T09:04:29.970Z
 estimatedTokens: 367
 keywords: [Commitments, POST, recurring, gift, schedules, along, associated, new, matched, donor, Customize, accounts]
 ---
@@ -185,7 +185,8 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/fundraising/comm
 
 ## Related Topics
 
-- Create Commitment Request Input[] (atlas.en-us.nonprofit_cloud.meta/nonprofit_cloud/connect_requests_create_commitment_request.htm)
+- Create
+                        Commitment Request Input[] (atlas.en-us.nonprofit_cloud.meta/nonprofit_cloud/connect_requests_create_commitment_request.htm)
 - Processing
                         Options Details Input (atlas.en-us.nonprofit_cloud.meta/nonprofit_cloud/connect_requests_processing_options_detail.htm)
 - Create

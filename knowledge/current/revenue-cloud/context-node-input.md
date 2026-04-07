@@ -5,7 +5,7 @@ topic: context-node-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.893Z
+lastCollected: 2026-04-07T09:01:58.171Z
 estimatedTokens: 118
 keywords: [Context, Node, Input, representation, nodes, ramp, segments]
 ---

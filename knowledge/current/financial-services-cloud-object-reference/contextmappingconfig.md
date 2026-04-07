@@ -5,7 +5,7 @@ topic: contextmappingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.856Z
+lastCollected: 2026-04-07T09:03:49.075Z
 estimatedTokens: 311
 keywords: [ContextMappingConfig, context, mapping, configurations, business, process, API, version, 65.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: connect-rest-api-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.057Z
+lastCollected: 2026-04-07T09:03:29.428Z
 estimatedTokens: 143
 keywords: [Connect, REST, API, Bodies, successful, execution, resource, either, JSON, XML]
 ---

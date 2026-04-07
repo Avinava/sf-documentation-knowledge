@@ -5,7 +5,7 @@ topic: extlclntappconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:06.622Z
+lastCollected: 2026-04-07T09:02:40.385Z
 estimatedTokens: 935
 keywords: [ExtlClntAppConfigurablePolicies, policies, external, client, app, disable, enable, plugins, Parent, File, Suffix, Directory, Location, Version, Special]
 ---

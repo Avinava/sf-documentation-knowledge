@@ -5,7 +5,7 @@ topic: finserv-account-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.829Z
+lastCollected: 2026-04-07T09:03:47.808Z
 estimatedTokens: 5027
 keywords: [FinServ, Account, Custom, individual, pertains, their, dealings, firm, review, frequency, service, tier, extend, standard, Financial]
 ---

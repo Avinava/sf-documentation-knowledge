@@ -5,7 +5,7 @@ topic: applying-slds-to-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.576Z
+lastCollected: 2026-04-07T09:05:00.643Z
 estimatedTokens: 272
 keywords: [Applying, SLDS, Visualforce, Pages, Lightning, Design, System, build, match, look, feel, Salesforce, mobile, app, tweaks]
 ---

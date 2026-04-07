@@ -5,7 +5,7 @@ topic: template-infojson-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:07.678Z
+lastCollected: 2026-04-07T09:03:16.091Z
 estimatedTokens: 3446
 keywords: [template-info.json, Attributes, file, main, template, includes, references, downstream, app]
 ---

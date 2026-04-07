@@ -5,7 +5,7 @@ topic: editserviceordereditinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.206Z
+lastCollected: 2026-04-07T09:04:53.761Z
 estimatedTokens: 148
 keywords: [edit, serviceOrderEditInput, entry, point, orders, you’ve, submitted, Salesforce, Partner, Operations, haven’t, processed]
 ---

@@ -5,7 +5,7 @@ topic: userlistview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.113Z
+lastCollected: 2026-04-07T09:06:10.349Z
 estimatedTokens: 311
 keywords: [UserListView, customizations, user, made, view, API, version, 32.0, later]
 ---

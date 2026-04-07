@@ -5,7 +5,7 @@ topic: feed-elements-capability-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.119Z
+lastCollected: 2026-04-07T09:03:26.592Z
 estimatedTokens: 204
 keywords: [Feed, Elements, Capability, Approval, Access, element]
 ---

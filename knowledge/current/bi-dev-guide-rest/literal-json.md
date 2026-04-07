@@ -5,7 +5,7 @@ topic: literal-json
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.409Z
+lastCollected: 2026-04-07T09:03:10.883Z
 estimatedTokens: 125
 keywords: [Literal, Json, content, results, usually, query]
 ---

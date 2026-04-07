@@ -5,7 +5,7 @@ topic: common-navigation-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.678Z
+lastCollected: 2026-04-07T09:04:24.873Z
 estimatedTokens: 931
 keywords: [Common, Navigation, Actions, aren’t, specific, Salesforce, Depending, situation, LWC, service, special, cases, standard, JavaScript, code]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudratebasedfundingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.749Z
+lastCollected: 2026-04-07T09:05:21.303Z
 estimatedTokens: 2126
 keywords: [cgcloud__Rate_Based_Funding__c, stores, general, along, metadata, that's, associated, RBF, Template, created, API, version, 54.0, later, cgcloud]
 ---

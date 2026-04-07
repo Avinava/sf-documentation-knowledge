@@ -5,7 +5,7 @@ topic: setstorable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.636Z
+lastCollected: 2026-04-07T09:04:15.143Z
 estimatedTokens: 440
 keywords: [setStorable, Marks, Apex, action, storable, stored, framework’s, client-side, cache, Enhance, component’s, performance, marking, actions, cacheable]
 ---

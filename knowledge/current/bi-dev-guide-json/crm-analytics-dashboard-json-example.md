@@ -5,7 +5,7 @@ topic: crm-analytics-dashboard-json-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.341Z
+lastCollected: 2026-04-07T09:03:07.807Z
 estimatedTokens: 257
 keywords: [CRM, Analytics, Dashboard, JSON, multiple, levels, Review, sample, provided, basic, structure]
 ---

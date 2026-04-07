@@ -5,7 +5,7 @@ topic: training-and-inference-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.947Z
+lastCollected: 2026-04-07T09:05:28.759Z
 estimatedTokens: 572
 keywords: [Training, Inference, Steps, Similar, machine, learning, statistical, models, detection, model, familiar, two-step, process, step, customer]
 ---

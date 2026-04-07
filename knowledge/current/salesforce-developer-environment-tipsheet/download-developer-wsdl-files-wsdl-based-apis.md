@@ -6,7 +6,7 @@ topic: download-developer-wsdl-files-wsdl-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.276Z
+lastCollected: 2026-04-07T09:05:23.086Z
 estimatedTokens: 279
 keywords: [Download, Developer, WSDL, Files, WSDL-Based, APIs, Salesforce, Web, Services, Definition, Language, provide, API, environment, calls]
 ---

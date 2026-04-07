@@ -5,7 +5,7 @@ topic: connectapirecordalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.008Z
+lastCollected: 2026-04-07T09:03:46.559Z
 estimatedTokens: 357
 keywords: [ConnectApi.RecordAlert, Representation, record, alert]
 ---

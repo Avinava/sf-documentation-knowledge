@@ -5,7 +5,7 @@ topic: use-the-soql-operator-in-scoping-rule-record-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.354Z
+lastCollected: 2026-04-07T09:05:27.906Z
 estimatedTokens: 1038
 keywords: [SOQL, Operator, Scoping, Rule, Record, Criteria, rule’s, refer, target, junction, edit, rules, Tooling, Metadata, API]
 ---

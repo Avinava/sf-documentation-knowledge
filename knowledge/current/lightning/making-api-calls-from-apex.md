@@ -5,7 +5,7 @@ topic: making-api-calls-from-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.906Z
+lastCollected: 2026-04-07T09:04:12.577Z
 estimatedTokens: 473
 keywords: [Making, API, Calls, Apex, controller, can’t, Salesforce, JavaScript, code]
 ---

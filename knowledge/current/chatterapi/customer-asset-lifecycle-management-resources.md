@@ -5,7 +5,7 @@ topic: customer-asset-lifecycle-management-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:13.615Z
+lastCollected: 2026-04-07T09:03:24.547Z
 estimatedTokens: 215
 keywords: [Customer, Asset, Lifecycle, Management, Resources, Generate, cancel, change, lifecycle-managed, assets, sales, account, reps, view, Lightning]
 ---

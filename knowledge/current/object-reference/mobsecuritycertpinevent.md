@@ -5,7 +5,7 @@ topic: mobsecuritycertpinevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.020Z
+lastCollected: 2026-04-07T09:04:44.618Z
 estimatedTokens: 485
 keywords: [MobSecurityCertPinEvent, event, mobile, security, certificate, pinning, Salesforce, app, Enhanced, API, version, 53.0, later, Calls, Special]
 ---

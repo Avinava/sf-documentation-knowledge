@@ -5,7 +5,7 @@ topic: duplicaterecorditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.279Z
+lastCollected: 2026-04-07T09:04:39.149Z
 estimatedTokens: 343
 keywords: [DuplicateRecordItem, record, that’s, identified, duplicate, DuplicateRecordItems, included, DuplicateRecordSet, processed, jobs, custom, report, duplicates, Calls, Special]
 ---

@@ -5,7 +5,7 @@ topic: accessing-data-with-list-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.358Z
+lastCollected: 2026-04-07T09:04:58.783Z
 estimatedTokens: 1159
 keywords: [Accessing, Data, Controllers, record, <apex, pageBlockTable>, assigns, acc, variable, constructs, new, row, defined, column>, component]
 ---

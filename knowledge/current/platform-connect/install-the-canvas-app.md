@@ -5,7 +5,7 @@ topic: install-the-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.566Z
+lastCollected: 2026-04-07T09:05:04.712Z
 estimatedTokens: 554
 keywords: [Install, Canvas, App, Uploading, packaged, creates, installation, link, another, org]
 ---

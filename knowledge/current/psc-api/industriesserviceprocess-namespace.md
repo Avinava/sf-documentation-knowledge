@@ -5,7 +5,7 @@ topic: industriesserviceprocess-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.736Z
+lastCollected: 2026-04-07T09:05:07.593Z
 estimatedTokens: 349
 namespace: The
 keywords: [industriesserviceprocess, preprocessor, transforms, validates, data, custom, attributes, Service, Catalog, Connect, REST, API]

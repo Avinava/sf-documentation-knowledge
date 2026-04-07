@@ -5,7 +5,7 @@ topic: documenttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.605Z
+lastCollected: 2026-04-07T09:05:43.919Z
 estimatedTokens: 289
 namespace: NamespacePrefix
 keywords: [DocumentType, file, uploaded, attached, API, version, 47.0, later]

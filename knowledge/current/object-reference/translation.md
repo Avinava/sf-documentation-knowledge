@@ -5,7 +5,7 @@ topic: translation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.296Z
+lastCollected: 2026-04-07T09:04:51.163Z
 estimatedTokens: 357
 keywords: [Translation, languages, enabled, Salesforce, org, API, version, 47.0, later, Calls, Special, Access, Rules]
 ---

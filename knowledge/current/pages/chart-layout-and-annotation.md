@@ -5,7 +5,7 @@ topic: chart-layout-and-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.929Z
+lastCollected: 2026-04-07T09:04:56.758Z
 estimatedTokens: 634
 keywords: [Chart, Layout, Annotation, understandable, add, legend, meaningful, axes, ranges, labels, tips, data, elements]
 ---

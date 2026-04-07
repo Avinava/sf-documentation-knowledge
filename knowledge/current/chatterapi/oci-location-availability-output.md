@@ -5,7 +5,7 @@ topic: oci-location-availability-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.986Z
+lastCollected: 2026-04-07T09:03:34.050Z
 estimatedTokens: 98
 keywords: [OCI, Location, Availability, Output, representation, location’s, inventory]
 ---

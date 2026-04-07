@@ -5,7 +5,7 @@ topic: three-phases-of-package-migration-development
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.493Z
+lastCollected: 2026-04-07T09:05:01.727Z
 estimatedTokens: 1739
 keywords: [Three, Phases, Package, Migration, Development, move, 1GP, 2GP, you’ll, Phase, Plan, Test, Two, Transition, Fully]
 ---

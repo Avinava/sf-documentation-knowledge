@@ -5,7 +5,7 @@ topic: loginanomalyevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.981Z
+lastCollected: 2026-04-07T09:05:52.606Z
 estimatedTokens: 398
 keywords: [LoginAnomalyEvent, entity, detects, data, access, anomalies, caused, potentially, malicious, login, actions, API, version, 64.0, later]
 ---

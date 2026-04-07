@@ -5,7 +5,7 @@ topic: get-started-with-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.215Z
+lastCollected: 2026-04-07T09:05:02.850Z
 estimatedTokens: 312
 keywords: [Started, License, Management, App, start, managing, leads, licenses, LMA, installation, configuration, steps]
 ---

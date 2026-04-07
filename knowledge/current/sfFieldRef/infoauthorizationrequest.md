@@ -5,7 +5,7 @@ topic: infoauthorizationrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.125Z
+lastCollected: 2026-04-07T09:05:50.220Z
 estimatedTokens: 495
 keywords: [InfoAuthorizationRequest, Tracks, authorization, Data, Purpose, consent, share, documents, open, financial, account, loan, rate, lock, disclosure]
 ---

@@ -5,7 +5,7 @@ topic: benefitspecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.218Z
+lastCollected: 2026-04-07T09:05:12.943Z
 estimatedTokens: 693
 keywords: [BenefitSpecialty, junction, benefit, care, specialty, maps, benefits, provided, constituents, specialties, offered, network, service, providers, API]
 ---

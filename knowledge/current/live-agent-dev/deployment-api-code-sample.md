@@ -5,7 +5,7 @@ topic: deployment-api-code-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.159Z
+lastCollected: 2026-04-07T09:04:15.939Z
 estimatedTokens: 911
 keywords: [Deployment, API, Code, Sample, Test, preview, how, help, customize, deployments, Chat, Window, Cookies]
 ---

@@ -5,7 +5,7 @@ topic: identityverificationevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:00.699Z
+lastCollected: 2026-04-07T09:05:49.590Z
 estimatedTokens: 471
 keywords: [IdentityVerificationEvent, Tracks, user, identity, verification, events, org, big, stores, event, data, users, prompted, verify, their]
 ---

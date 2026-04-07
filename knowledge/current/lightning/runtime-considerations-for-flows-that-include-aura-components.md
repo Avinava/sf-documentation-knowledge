@@ -6,7 +6,7 @@ topic: runtime-considerations-for-flows-that-include-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.239Z
+lastCollected: 2026-04-07T09:04:13.093Z
 estimatedTokens: 504
 keywords: [Runtime, Considerations, Flows, Include, Aura, Components, Depending, run, flow, may, look, behave, differently, expected, app]
 ---

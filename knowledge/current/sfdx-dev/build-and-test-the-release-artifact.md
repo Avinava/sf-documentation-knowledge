@@ -5,7 +5,7 @@ topic: build-and-test-the-release-artifact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.106Z
+lastCollected: 2026-04-07T09:06:12.910Z
 estimatedTokens: 213
 keywords: [Build, Test, Release, Artifact, team, finished, development, tasks, transition, phase, integrate, changes, Developer, Pro, sandbox]
 ---

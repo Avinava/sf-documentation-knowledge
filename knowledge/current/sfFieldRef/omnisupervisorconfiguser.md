@@ -5,7 +5,7 @@ topic: omnisupervisorconfiguser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.393Z
+lastCollected: 2026-04-07T09:05:55.951Z
 estimatedTokens: 273
 keywords: [OmniSupervisorConfigUser, users, Omni-Channel, supervisor, configuration, User-level, configurations, override, profile-level, API, version, 41.0, later]
 ---

@@ -5,7 +5,7 @@ topic: change-submission-sfdevopschangesubmissionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.447Z
+lastCollected: 2026-04-07T09:03:41.526Z
 estimatedTokens: 1277
 keywords: [Change, Submission, sf_devops__Change_Submission__c, submitted, committed, work, item, feature, branch, includes, relevant, metadata, files, orgs, DevOps]
 ---

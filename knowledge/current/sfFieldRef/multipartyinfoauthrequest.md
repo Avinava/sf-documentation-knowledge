@@ -5,7 +5,7 @@ topic: multipartyinfoauthrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.487Z
+lastCollected: 2026-04-07T09:05:54.727Z
 estimatedTokens: 394
 keywords: [MultipartyInfoAuthRequest, Tracks, multiple, parties, authorization, Data, Purpose, consent, requests, share, documents, open, joint, financial, account]
 ---

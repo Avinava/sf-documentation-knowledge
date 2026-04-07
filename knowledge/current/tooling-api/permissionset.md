@@ -5,7 +5,7 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:45.926Z
+lastCollected: 2026-04-07T09:02:48.524Z
 estimatedTokens: 1020
 keywords: [PermissionSet, permissions, that’s, grant, access, users, changing, their, profile, reassigning, profiles, API, version, 28.0, later]
 ---

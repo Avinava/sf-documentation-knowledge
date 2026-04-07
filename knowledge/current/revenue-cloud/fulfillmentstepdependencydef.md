@@ -5,7 +5,7 @@ topic: fulfillmentstepdependencydef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:25.670Z
+lastCollected: 2026-04-07T09:02:04.282Z
 estimatedTokens: 1269
 keywords: [FulfillmentStepDependencyDef, dependency, created, two, fulfillment, step, records, API, version, 62.0, later, Calls, Associated, Objects]
 ---

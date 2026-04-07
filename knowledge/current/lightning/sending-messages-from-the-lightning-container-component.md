@@ -5,7 +5,7 @@ topic: sending-messages-from-the-lightning-container-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.562Z
+lastCollected: 2026-04-07T09:04:13.523Z
 estimatedTokens: 1261
 keywords: [Sending, Messages, Lightning, Container, Component, onmessage, attribute, specify, handling, contents, component—that, embedded, app, wrapped, iframe]
 ---

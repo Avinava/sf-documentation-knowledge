@@ -5,7 +5,7 @@ topic: associating-a-standard-controller-with-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.407Z
+lastCollected: 2026-04-07T09:04:58.863Z
 estimatedTokens: 163
 keywords: [Associating, Standard, Controller, Visualforce, associate, standardController, attribute, <apex, page>, tag, assign, any, Salesforce, queried, Lightning]
 ---

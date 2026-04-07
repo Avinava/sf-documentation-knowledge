@@ -5,7 +5,7 @@ topic: limit-declarative-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.487Z
+lastCollected: 2026-04-07T09:03:40.008Z
 estimatedTokens: 262
 keywords: [Limit, Declarative, Access, Granting, permission, view, external, users, standard, controllers, Experience, Builder, sites, Salesforce, Tabs]
 ---

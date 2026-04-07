@@ -5,7 +5,7 @@ topic: careprogramprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.426Z
+lastCollected: 2026-04-07T09:04:09.890Z
 estimatedTokens: 1171
 keywords: [CareProgramProvider, business, account, service, provider, care, program, product, Calls, Associated, Objects]
 ---
@@ -31,7 +31,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CareProgramContactId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe primary person a patient can contact about the care program. |
 | CareProgramProductId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe care program product to which this care program provider is associated. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the provider associated with the care program. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | Role | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of organization delivering the services included in the program. |

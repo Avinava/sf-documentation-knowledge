@@ -5,7 +5,7 @@ topic: retry-event-triggers-with-eventbusretryableexception
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.105Z
+lastCollected: 2026-04-07T09:05:05.509Z
 estimatedTokens: 757
 keywords: [Retry, Event, Triggers, EventBus.RetryableException, another, chance, process, notifications, Retrying, trigger, helpful, transient, error, occurs, waiting]
 ---

@@ -5,7 +5,7 @@ topic: schema-field-type-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.987Z
+lastCollected: 2026-04-07T09:05:25.891Z
 estimatedTokens: 192
 keywords: [Schema, node, recipe]
 ---

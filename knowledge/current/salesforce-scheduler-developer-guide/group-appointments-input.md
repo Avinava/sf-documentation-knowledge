@@ -5,7 +5,7 @@ topic: group-appointments-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.296Z
+lastCollected: 2026-04-07T09:05:26.370Z
 estimatedTokens: 449
 keywords: [Group, Appointments, Input, representation, criteria, filter, retrieve]
 ---

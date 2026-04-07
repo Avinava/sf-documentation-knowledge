@@ -5,7 +5,7 @@ topic: deleting-files-from-an-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.025Z
+lastCollected: 2026-04-07T09:03:40.869Z
 estimatedTokens: 1121
 keywords: [Deleting, Files, Organization, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions, isn’t]
 ---

@@ -5,7 +5,7 @@ topic: tpmrtrsalesforcemonthlymeasuresams-base-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.426Z
+lastCollected: 2026-04-07T09:03:18.301Z
 estimatedTokens: 381
 keywords: [TPM_RTRSalesforceMonthlyMeasures_AMS, Base, second, that's, code-routing, retrieve, Salesforce, REST, endpoint, services, apexrest, RTRSalesforceMonthlyMeasures, TPM, _RTRSalesforceMonthlyMeasures, _AMS, classes]
 ---

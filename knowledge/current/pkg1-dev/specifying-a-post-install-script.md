@@ -5,7 +5,7 @@ topic: specifying-a-post-install-script
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.662Z
+lastCollected: 2026-04-07T09:05:00.771Z
 estimatedTokens: 115
 keywords: [Specifying, Post, Install, Script, you’ve, created, tested, specify, lookup, Package, Detail, subsequent, patch, releases, change]
 ---

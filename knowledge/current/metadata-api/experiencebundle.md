@@ -5,7 +5,7 @@ topic: experiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:06.369Z
+lastCollected: 2026-04-07T09:02:40.134Z
 estimatedTokens: 8326
 keywords: [ExperienceBundle, text-based, code, structure, settings, site, components, pages, branding, themes, Experience, Builder, Developers, quickly, deploy]
 ---

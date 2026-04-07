@@ -5,7 +5,7 @@ topic: apexinputsecret
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.604Z
+lastCollected: 2026-04-07T09:04:57.689Z
 estimatedTokens: 1676
 keywords: [apex, inputSecret, HTML, input, element, password, component, user, controller, correspond, Salesforce, masked, Attributes]
 ---

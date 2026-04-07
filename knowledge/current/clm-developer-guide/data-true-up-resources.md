@@ -6,7 +6,7 @@ topic: data-true-up-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.252Z
+lastCollected: 2026-04-07T09:03:37.905Z
 estimatedTokens: 301
 keywords: [Data, True-Up, Resources, Keep, contract, documents, Salesforce, records, perfectly, aligned, synchronizing, token, Microsoft, add-in, pull]
 ---

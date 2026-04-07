@@ -5,7 +5,7 @@ topic: configure-scheduling-policy-to-enforce-operating-hours
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.964Z
+lastCollected: 2026-04-07T09:05:27.323Z
 estimatedTokens: 269
 keywords: [Configure, Scheduling, Policy, Enforce, Operating, Hours, rules, best, service, resources, appointments, Apply, process, ensure, appointment]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-place-order-rest-api-resource-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.132Z
+lastCollected: 2026-04-07T09:03:04.815Z
 estimatedTokens: 242
 keywords: [Salesforce, Place, Order, REST, API, Resource, URI, HTTP]
 ---

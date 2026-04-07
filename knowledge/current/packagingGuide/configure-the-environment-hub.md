@@ -5,7 +5,7 @@ topic: configure-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.853Z
+lastCollected: 2026-04-07T09:04:54.841Z
 estimatedTokens: 794
 keywords: [Configure, Environment, Hub, Enable, org, give, users, access, you’re, ISV, partner, already, installed, Business]
 ---

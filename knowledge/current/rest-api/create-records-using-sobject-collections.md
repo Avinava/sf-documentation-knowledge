@@ -5,7 +5,7 @@ topic: create-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.147Z
+lastCollected: 2026-04-07T09:02:35.324Z
 estimatedTokens: 703
 keywords: [Records, sObject, Collections, POST, add, returning, SaveResult, objects, choose, whether, roll, back, entire, error, occurs]
 ---

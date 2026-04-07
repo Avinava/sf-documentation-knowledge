@@ -5,7 +5,7 @@ topic: planbenefititem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.849Z
+lastCollected: 2026-04-07T09:03:59.083Z
 estimatedTokens: 1768
 keywords: [PlanBenefitItem, benefit, under, purchaser’s, plan, offered, their, members, Calls, Associated, Objects]
 ---
@@ -34,7 +34,7 @@ create(),  delete(),  describeLayout(),  describeSObjects(),  getDeleted(), 
 | IsInPlanNetwork | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates if the benefit is only available in the plan network. |
 | ItemCodeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe code of the plan benefit item.This field is a polymorphic relationship field.This field is available in API version 64.0 and later.Relationship NameItemCodeRefers ToCodeSet, CodeSetBundle |
 | LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of this benefit item. |
 | Notes | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionAdditional information about this benefit item. |
 | OutofNetworkCoverage | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe amount available to contribute towards treatment costs for each treatment undertaken by non-preferred providers. |

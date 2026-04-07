@@ -5,7 +5,7 @@ topic: connectapiordersummarylookupoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.342Z
+lastCollected: 2026-04-07T09:02:25.390Z
 estimatedTokens: 207
 keywords: [ConnectApi.OrderSummaryLookupOutput, Order, summary, lookup, output]
 ---

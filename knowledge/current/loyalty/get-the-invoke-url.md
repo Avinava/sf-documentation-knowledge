@@ -5,7 +5,7 @@ topic: get-the-invoke-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.247Z
+lastCollected: 2026-04-07T09:04:18.856Z
 estimatedTokens: 274
 keywords: [Invoke, URL, API, select, deployment, stage, deploy, members, upload, their, receipts, loyalty, points, Endpoint, custom]
 ---

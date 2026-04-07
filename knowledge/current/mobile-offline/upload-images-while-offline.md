@@ -5,7 +5,7 @@ topic: upload-images-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.077Z
+lastCollected: 2026-04-07T09:04:25.386Z
 estimatedTokens: 578
 keywords: [Upload, Images, Offline, files, Salesforce, mobile, client, photos, equipment, installed, service, call, there’s, Internet, device]
 ---

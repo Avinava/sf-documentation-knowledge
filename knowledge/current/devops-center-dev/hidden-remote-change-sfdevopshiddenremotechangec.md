@@ -5,7 +5,7 @@ topic: hidden-remote-change-sfdevopshiddenremotechangec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.483Z
+lastCollected: 2026-04-07T09:03:41.576Z
 estimatedTokens: 796
 keywords: [Hidden, Remote, Change, sf_devops__Hidden_Remote_Change__c, hide, record, work, item, sample, case, feature, branch, associated, forceignore, file]
 ---

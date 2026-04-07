@@ -5,7 +5,7 @@ topic: retail-order-lwc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.213Z
+lastCollected: 2026-04-07T09:05:18.111Z
 estimatedTokens: 1080
 namespace: The
 keywords: [Retail, Order, LWC, Access, data, layer, orderExtensionUtils, service, component, getOrderData, updateOrderData, getOrderItemData, updateOrderItemData, setCustomState, getIsOrderInEditMode]

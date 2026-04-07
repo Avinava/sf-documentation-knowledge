@@ -5,7 +5,7 @@ topic: recommendation-reaction-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.824Z
+lastCollected: 2026-04-07T09:03:33.744Z
 estimatedTokens: 127
 keywords: [Recommendation, Reaction, Collection, reactions]
 ---

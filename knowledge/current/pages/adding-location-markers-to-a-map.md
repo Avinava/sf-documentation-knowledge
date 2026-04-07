@@ -5,7 +5,7 @@ topic: adding-location-markers-to-a-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.816Z
+lastCollected: 2026-04-07T09:04:59.484Z
 estimatedTokens: 698
 keywords: [Adding, Location, Markers, Map, add, represent, specific, locations, <apex, mapMarker>, component, include, text, displays, pointer]
 ---

@@ -5,7 +5,7 @@ topic: apex-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.958Z
+lastCollected: 2026-04-07T09:05:02.478Z
 estimatedTokens: 600
 keywords: [Apex, Interactions, record, package, usage, log, custom_entity_type, ApexClass, ApexTrigger, interaction, packaged, trigger, Execution, Unexpected, Exception]
 ---

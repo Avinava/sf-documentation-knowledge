@@ -5,7 +5,7 @@ topic: survey-integer-question-response-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.902Z
+lastCollected: 2026-04-07T09:03:23.631Z
 estimatedTokens: 125
 keywords: [Survey, Question, Input, representation, NPS]
 ---

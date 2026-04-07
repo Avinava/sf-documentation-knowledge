@@ -6,7 +6,7 @@ topic: sample-flow-without-sharing-give-guest-users-access-to-create-and-read-re
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.467Z
+lastCollected: 2026-04-07T09:03:39.972Z
 estimatedTokens: 1109
 keywords: [Sample, Flow, Sharing, Give, Guest, Users, Access, Records, user, enters, report, support, issue, creates, case]
 ---

@@ -5,7 +5,7 @@ topic: lightning-lockerservice-disabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:21.157Z
+lastCollected: 2026-04-07T09:04:55.448Z
 estimatedTokens: 413
 keywords: [Lightning, LockerService, Disabled, critical, security, feature, code, component, isolation, sources, execute, interact, safe, standard, APIs]
 ---

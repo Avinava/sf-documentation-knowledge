@@ -5,7 +5,7 @@ topic: enable-language-extension-packages-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.001Z
+lastCollected: 2026-04-07T09:06:14.122Z
 estimatedTokens: 262
 keywords: [Enable, Language, Extension, Packages, Beta, Dev, Hub, contain, translations, components, feature, unlocked, first-, second-generation, managed]
 ---

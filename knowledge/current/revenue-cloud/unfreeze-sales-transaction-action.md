@@ -5,7 +5,7 @@ topic: unfreeze-sales-transaction-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.347Z
+lastCollected: 2026-04-07T09:01:55.390Z
 estimatedTokens: 464
 keywords: [Unfreeze, Sales, Transaction, Action, enable, modification, line, item, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---

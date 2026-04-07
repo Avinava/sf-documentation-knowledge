@@ -5,8 +5,8 @@ topic: partnerfundrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.309Z
-estimatedTokens: 1091
+lastCollected: 2026-04-07T09:04:46.162Z
+estimatedTokens: 1084
 keywords: [PartnerFundRequest, funds, partner, marketing, budget, channel, API, version, 41.0, later, Calls, Associated, Objects]
 ---
 
@@ -34,8 +34,8 @@ create(), delete()describeLayout()describeSObjects() getDeleted()getUpdated()que
 | ChannelPartnerId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionID of the channel partner.NoteThe ChannelPartnerId field isn’t supported for formula fields, custom buttons, or custom links for the PartnerFundRequest object. This limitation also applies to the PartnerFundAllocation and PartnerMarketingBudget objects. |
 | Description | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDescription of the fund request. |
 | DesiredOutcome | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDesired outcome if requested funds are used. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionID of the owner of the fund request. |
 | RequestedAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionAmount of the fund request. |
 | Status | TypepicklistPropertiesCreate, Filter, Nillable, Group, Restricted picklist, Sort, UpdateDescriptionStatus of the fund request. Values are:DraftApprovedRejected |

@@ -5,7 +5,7 @@ topic: apptreasonengmtchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:34.826Z
+lastCollected: 2026-04-07T09:03:55.368Z
 estimatedTokens: 791
 keywords: [ApptReasonEngmtChannelType, engagement, channel, AppointmentReason, Possible, channels, video, phone, person, appointment, reasons, annual, physical, fever, therapy]
 ---

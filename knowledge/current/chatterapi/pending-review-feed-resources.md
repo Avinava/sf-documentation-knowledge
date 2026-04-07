@@ -5,7 +5,7 @@ topic: pending-review-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.338Z
+lastCollected: 2026-04-07T09:03:24.225Z
 estimatedTokens: 962
 keywords: [Pending, Review, Feed, Resources, containing, elements, comments, URL]
 ---

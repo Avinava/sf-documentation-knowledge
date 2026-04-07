@@ -5,7 +5,7 @@ topic: generalledgeraccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.260Z
+lastCollected: 2026-04-07T09:05:47.623Z
 estimatedTokens: 390
 keywords: [GeneralLedgerAccount, accounting, codes, store, organize, financial, transactions, API, version, 63.0, later]
 ---

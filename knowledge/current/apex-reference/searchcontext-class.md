@@ -5,7 +5,7 @@ topic: searchcontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.547Z
+lastCollected: 2026-04-07T09:02:14.642Z
 estimatedTokens: 1603
 namespace: DataSource
 keywords: [SearchContext, instance, provided, search, DataSource.Connection, corresponds, SOSL, metadata, offset, maxResults, tableSelections, searchPhrase]

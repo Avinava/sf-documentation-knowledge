@@ -5,7 +5,7 @@ topic: package-and-test-your-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.602Z
+lastCollected: 2026-04-07T09:05:01.901Z
 estimatedTokens: 1058
 keywords: [Package, Test, First-Generation, Managed, how, upload, install, beta, version, part, iterative, development, approach, running, fix]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-mobile-app-access-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.380Z
+lastCollected: 2026-04-07T09:05:04.389Z
 estimatedTokens: 980
 keywords: [Salesforce, Mobile, App, Access, Considerations, Keep, mind, modifying, canvas, appears]
 ---

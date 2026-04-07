@@ -5,7 +5,7 @@ topic: identity-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.311Z
+lastCollected: 2026-04-07T09:03:53.257Z
 estimatedTokens: 259
 keywords: [Identity, Verification, Verify, caller's, resources, verify, call, center, agent, ask, person, confirm, their, social, security, number]
 ---

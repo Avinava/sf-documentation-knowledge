@@ -5,7 +5,7 @@ topic: flowdebugrefreshevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.610Z
+lastCollected: 2026-04-07T09:05:06.173Z
 estimatedTokens: 348
 keywords: [FlowDebugRefreshEvent, Notifies, subscribers, flow, debug, run, pauses, completes, output, panel, Builder, refreshed, API, version, 65.0]
 ---

@@ -5,7 +5,7 @@ topic: uniquequeryeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.513Z
+lastCollected: 2026-04-07T09:04:51.464Z
 estimatedTokens: 510
 keywords: [UniqueQueryEventLog, Unique, Query, events, capture, specific, search, queries, SOQL, filter, IDs, report, processed, along, underlying]
 ---

@@ -5,7 +5,7 @@ topic: testing-your-apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.013Z
+lastCollected: 2026-04-07T09:04:12.744Z
 estimatedTokens: 500
 keywords: [Testing, Apex, Code, upload, managed, package, write, execute, tests, meet, minimum, coverage, requirements, run, errors]
 ---

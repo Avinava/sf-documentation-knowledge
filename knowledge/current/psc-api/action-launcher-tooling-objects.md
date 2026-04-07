@@ -5,7 +5,7 @@ topic: action-launcher-tooling-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.369Z
+lastCollected: 2026-04-07T09:05:07.026Z
 estimatedTokens: 196
 keywords: [Action, Launcher, Tooling, Objects, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, various, retrieve]
 ---

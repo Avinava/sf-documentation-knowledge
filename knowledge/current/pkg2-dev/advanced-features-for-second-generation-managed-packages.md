@@ -5,8 +5,8 @@ topic: advanced-features-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.979Z
-estimatedTokens: 1565
+lastCollected: 2026-04-07T09:05:03.682Z
+estimatedTokens: 1561
 keywords: [Advanced, Features, Second-Generation, Managed, Packages, you're, comfortable, creating, customize, package, development, processes]
 ---
 
@@ -48,7 +48,7 @@ After you're comfortable with creating second-generation managed packages, learn
 -   **[Frequently Used Packaging Operations for Second-Generation Managed Packages](atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev_dev2gp_packaging_operations.htm)**
 
 -   **[Transfer a Second-Generation Managed Package to a Different Dev Hub](atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev2gp_package_transfer.htm)**
-    You can transfer the ownership of a second-generation managed package (managed 2GP) from one Dev Hub org to another. These transfers can occur either internally between two Dev Hub orgs your company owns, or you can transfer a package externally to another Salesforce Partner or ISV. This change provides a way to sell a second-generation managed package to a different company.
+    You can transfer the ownership of a second-generation managed package (managed 2GP) from one Dev Hub org to another. These transfers can occur either internally between two Dev Hub orgs your company owns, or you can transfer a package externally to another Salesforce Partner or ISV. This change provides a way to sell a managed 2GP package to a different company.
 -   **[Contact Salesforce Partner Support to Enable Specific Packaging Features](atlas.en-us.pkg2_dev.meta/pkg2_dev/pkg2_feature_enablement.htm)**
     Certain packaging features can only be enabled by Salesforce Partner Support.
 

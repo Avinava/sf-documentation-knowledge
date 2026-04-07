@@ -5,7 +5,7 @@ topic: cgcsyncsyncremoterequestc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.881Z
+lastCollected: 2026-04-07T09:05:19.150Z
 estimatedTokens: 460
 keywords: [cgc_sync__Sync_Remote_Request__c, Stores, requests, trigger, technical, activities, mobile, app, data, resupply, clean-up, upload, queue, API, version]
 ---

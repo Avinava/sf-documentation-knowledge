@@ -5,7 +5,7 @@ topic: create-flow-local-actions-using-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.167Z
+lastCollected: 2026-04-07T09:04:12.968Z
 estimatedTokens: 830
 keywords: [Flow, Local, Actions, Aura, Components, execute, client-side, logic, build, modify, custom, flows, data, third-party, systems]
 ---

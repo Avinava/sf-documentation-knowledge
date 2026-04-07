@@ -6,7 +6,7 @@ topic: metadata-api-example-create-a-custom-channel-and-add-real-time-event-moni
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.729Z
+lastCollected: 2026-04-07T09:05:04.964Z
 estimatedTokens: 1093
 keywords: [Metadata, API, Custom, Channel, Add, Real-Time, Event, Monitoring, Events, member, recommend, part, application, lifecycle, management]
 ---

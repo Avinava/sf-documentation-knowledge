@@ -5,7 +5,7 @@ topic: dml-operations-as-atomic-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:45.194Z
+lastCollected: 2026-04-07T09:02:34.302Z
 estimatedTokens: 281
 keywords: [DML, Operations, Atomic, Transactions, execute, transaction, either, successfully, error, occurs, operation, entire, rolled, back, data]
 ---

@@ -5,7 +5,7 @@ topic: workload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.673Z
+lastCollected: 2026-04-07T09:04:52.939Z
 estimatedTokens: 753
 keywords: [Workload, time, series, work, item, volume, average, handle, aggregation, forecasting, processes, API, version, 49.0, later]
 ---

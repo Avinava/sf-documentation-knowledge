@@ -5,7 +5,7 @@ topic: opportunitylineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.426Z
+lastCollected: 2026-04-07T09:03:19.765Z
 estimatedTokens: 3500
 keywords: [OpportunityLineItem, opportunity, line, item, member, Product2, products, associated, Calls, Special, Access, Rules, Usage, Effects, Opportunities]
 ---

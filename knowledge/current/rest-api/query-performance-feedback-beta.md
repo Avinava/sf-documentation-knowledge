@@ -5,7 +5,7 @@ topic: query-performance-feedback-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.737Z
+lastCollected: 2026-04-07T09:02:35.814Z
 estimatedTokens: 937
 keywords: [Query, Performance, Feedback, Beta, Analyzes, SOQL, report, view, executing, Resources, Queries]
 ---

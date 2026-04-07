@@ -5,7 +5,7 @@ topic: renew-multi-root-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.078Z
+lastCollected: 2026-04-07T09:04:04.114Z
 estimatedTokens: 819
 keywords: [Renew, Multi-Root, Policy, new, term, parent, associated, child, policies, parent–child, structure, preserved, renewed, Creates, pricing, handled, Rating, API, instead, quote]
 ---

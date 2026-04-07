@@ -5,7 +5,7 @@ topic: social-posts-intents-delete-social-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.680Z
+lastCollected: 2026-04-07T09:03:28.844Z
 estimatedTokens: 133
 keywords: [Social, Posts, Intents, Post, network]
 ---

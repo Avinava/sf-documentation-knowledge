@@ -5,7 +5,7 @@ topic: quickactionlistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.146Z
+lastCollected: 2026-04-07T09:02:48.775Z
 estimatedTokens: 365
 keywords: [QuickActionListItem, item, quick, action, SOAP, Calls, REST, HTTP, Usage]
 ---

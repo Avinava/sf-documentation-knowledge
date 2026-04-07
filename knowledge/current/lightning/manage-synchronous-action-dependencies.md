@@ -5,7 +5,7 @@ topic: manage-synchronous-action-dependencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.595Z
+lastCollected: 2026-04-07T09:04:13.569Z
 estimatedTokens: 990
 keywords: [Manage, Synchronous, Action, Dependencies, code, require, prior, don’t, call, dependent, actions, until, earlier, completes, render]
 ---

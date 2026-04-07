@@ -5,7 +5,7 @@ topic: transfer-points
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.053Z
+lastCollected: 2026-04-07T09:04:18.536Z
 estimatedTokens: 661
 keywords: [Transfer, Points, Transfers, source, loyalty, program, member, target, group, part, REST, HTTP, Inputs, Outputs]
 ---

@@ -5,7 +5,7 @@ topic: criteria-based-search-and-filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.479Z
+lastCollected: 2026-04-07T09:02:55.114Z
 estimatedTokens: 306
 keywords: [Criteria-Based, Search, Filter, Configure, searchable, combines, data, that’s, spread, across, multiple, objects]
 ---

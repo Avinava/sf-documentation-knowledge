@@ -5,7 +5,7 @@ topic: commerce-subscriptions-saved-payment-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.095Z
+lastCollected: 2026-04-07T09:03:25.170Z
 estimatedTokens: 559
 keywords: [Commerce, Subscriptions, Saved, Payment, associated, specific, subscription, API, registered, buyers]
 ---

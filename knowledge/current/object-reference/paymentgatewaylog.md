@@ -5,7 +5,7 @@ topic: paymentgatewaylog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.498Z
+lastCollected: 2026-04-07T09:04:46.338Z
 estimatedTokens: 1862
 keywords: [PaymentGatewayLog, Stores, exchanged, Salesforce, payments, platform, external, payment, gateways, Gateway, logs, record, payloads, entities, API]
 ---

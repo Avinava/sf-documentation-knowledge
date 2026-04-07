@@ -5,7 +5,7 @@ topic: programrebatetypepayouthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.473Z
+lastCollected: 2026-04-07T09:06:02.458Z
 estimatedTokens: 183
 keywords: [ProgramRebateTypePayoutHistory, History, tracked, ProgramRebateTypePayout]
 ---

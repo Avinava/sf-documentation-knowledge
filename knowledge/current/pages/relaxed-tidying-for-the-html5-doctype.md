@@ -5,7 +5,7 @@ topic: relaxed-tidying-for-the-html5-doctype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.672Z
+lastCollected: 2026-04-07T09:04:59.251Z
 estimatedTokens: 500
 keywords: [Relaxed, Tidying, HTML5, Doctype, relax, HTML, applications, causes, problems, “html-5.0”, API, version, 28.0, greater]
 ---

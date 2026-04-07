@@ -5,7 +5,7 @@ topic: platform-event-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.759Z
+lastCollected: 2026-04-07T09:05:05.013Z
 estimatedTokens: 1643
 keywords: [Platform, Event, events, contain, standard, Add, custom, data, ReplayId, System, EventUuid, API, Suffix]
 ---

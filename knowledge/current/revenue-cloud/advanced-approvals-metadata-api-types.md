@@ -5,7 +5,7 @@ topic: advanced-approvals-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:12.413Z
+lastCollected: 2026-04-07T09:01:55.435Z
 estimatedTokens: 227
 keywords: [Advanced, Approvals, Metadata, API, access, feature, settings, customize, user]
 ---

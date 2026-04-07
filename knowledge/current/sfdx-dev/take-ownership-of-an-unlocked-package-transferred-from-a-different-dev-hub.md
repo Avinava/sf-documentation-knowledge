@@ -5,7 +5,7 @@ topic: take-ownership-of-an-unlocked-package-transferred-from-a-different-dev-hu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.024Z
+lastCollected: 2026-04-07T09:06:14.158Z
 estimatedTokens: 858
 keywords: [Take, Ownership, Unlocked, Package, Transferred, Different, Dev, Hub, another, Hug, org, Receive, Transfer, Impact, Transfers]
 ---

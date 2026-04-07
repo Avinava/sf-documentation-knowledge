@@ -5,7 +5,7 @@ topic: generate-a-secret-key-for-signature-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:29.423Z
+lastCollected: 2026-04-07T09:02:06.578Z
 estimatedTokens: 188
 keywords: [Generate, Secret, Key, Validation, protect, webhook, system, malicious, attacks, don’t, targets, receive, payload, calls, marked]
 ---

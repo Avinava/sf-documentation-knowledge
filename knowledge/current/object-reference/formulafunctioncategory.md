@@ -5,7 +5,7 @@ topic: formulafunctioncategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.778Z
+lastCollected: 2026-04-07T09:04:42.079Z
 estimatedTokens: 231
 keywords: [FormulaFunctionCategory, category, formula, belongs, building, API, version, 47.0, later, Calls, Usage]
 ---

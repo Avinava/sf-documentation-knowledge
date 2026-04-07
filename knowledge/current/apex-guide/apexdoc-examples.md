@@ -5,7 +5,7 @@ topic: apexdoc-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:42.974Z
+lastCollected: 2026-04-07T09:02:32.262Z
 estimatedTokens: 270
 keywords: [ApexDoc, Examples, practical, comments, applied, various, Apex, constructs, Packaged, Test, params, throws, Annotated, @AuraEnabled, External]
 ---

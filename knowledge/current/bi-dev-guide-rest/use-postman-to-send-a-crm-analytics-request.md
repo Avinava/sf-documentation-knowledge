@@ -5,7 +5,7 @@ topic: use-postman-to-send-a-crm-analytics-request
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:04.962Z
+lastCollected: 2026-04-07T09:03:11.750Z
 estimatedTokens: 171
 keywords: [Postman, Send, CRM, Analytics, explore, test, API, calls, across, multiple, organizations, full, control, content]
 ---

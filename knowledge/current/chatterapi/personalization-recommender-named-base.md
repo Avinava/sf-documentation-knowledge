@@ -5,7 +5,7 @@ topic: personalization-recommender-named-base
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.326Z
+lastCollected: 2026-04-07T09:03:34.644Z
 estimatedTokens: 81
 keywords: [Personalization, Recommender, Named, Base, representation, objects]
 ---

@@ -5,7 +5,7 @@ topic: email-publication-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:32.488Z
+lastCollected: 2026-04-07T09:02:08.560Z
 estimatedTokens: 1765
 keywords: [Email, Publication, DMO, Data, Cloud, model, campaign, orchestration, channel, API, Category, Primary, Subject, Area, Key]
 ---

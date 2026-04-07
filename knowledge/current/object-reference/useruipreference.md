@@ -5,7 +5,7 @@ topic: useruipreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.055Z
+lastCollected: 2026-04-07T09:04:52.152Z
 estimatedTokens: 447
 keywords: [UserUIPreference, user, preferences, Salesforce, components, API, version, 63.0, later, Calls, Special, Access, Rules]
 ---

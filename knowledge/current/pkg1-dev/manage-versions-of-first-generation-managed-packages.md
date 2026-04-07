@@ -5,7 +5,7 @@ topic: manage-versions-of-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.456Z
+lastCollected: 2026-04-07T09:05:01.668Z
 estimatedTokens: 456
 keywords: [Manage, Versions, First-Generation, Managed, Packages, upload, package, AppExchange, Manager]
 ---

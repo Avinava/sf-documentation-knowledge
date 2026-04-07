@@ -5,7 +5,7 @@ topic: step-6-share-the-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.651Z
+lastCollected: 2026-04-07T09:03:16.059Z
 estimatedTokens: 401
 keywords: [Step, Share, Template, Distribute, others, Salesforce, org, orgs, deploying, Metadata, API, correct, permissions, retrieve, their]
 ---

@@ -5,7 +5,7 @@ topic: idpeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.157Z
+lastCollected: 2026-04-07T09:04:42.468Z
 estimatedTokens: 834
 keywords: [IdpEventLog, Identity, Provider, Event, Log, records, problems, successes, inbound, SAML, OpenID, Connect, authentication, requests, another]
 ---

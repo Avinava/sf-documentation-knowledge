@@ -5,7 +5,7 @@ topic: what-happens-when-something-isnt-primed-preloaded
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.696Z
+lastCollected: 2026-04-07T09:04:24.898Z
 estimatedTokens: 190
 keywords: [Happens, Something, Isn’t, Primed, Preloaded, Priming, offline, “best, effort”, mechanism, Salesforce, mobile, apps, resilient, situations]
 ---

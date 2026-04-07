@@ -5,7 +5,7 @@ topic: find-searchquery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.863Z
+lastCollected: 2026-04-07T09:06:15.288Z
 estimatedTokens: 1933
 keywords: [SearchQuery, clause, SOSL, query, specify, word, phrase, search, includes, literal, include, wildcards, logical, operators, Terms]
 ---

@@ -5,7 +5,7 @@ topic: wkfslfacilityplanc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.561Z
+lastCollected: 2026-04-07T09:06:19.326Z
 estimatedTokens: 1160
 keywords: [wkfsl__Facility_Plan__c, facility, plan, help, manage, sites, buildings, maximum, occupancy, arrival, window, start, end, times, interval]
 ---

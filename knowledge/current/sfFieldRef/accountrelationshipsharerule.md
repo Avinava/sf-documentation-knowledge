@@ -5,7 +5,7 @@ topic: accountrelationshipsharerule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.057Z
+lastCollected: 2026-04-07T09:05:30.356Z
 estimatedTokens: 455
 namespace: NamespacePrefix
 keywords: [AccountRelationshipShareRule, rule, determines, records, shared, how, they, account, relationship, shares, level, access, granted, API, version]

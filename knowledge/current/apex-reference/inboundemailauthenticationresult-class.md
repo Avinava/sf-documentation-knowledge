@@ -5,8 +5,8 @@ topic: inboundemailauthenticationresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.761Z
-estimatedTokens: 958
+lastCollected: 2026-04-07T09:02:14.924Z
+estimatedTokens: 957
 namespace: Messaging
 keywords: [InboundEmail.AuthenticationResult, authentication, inbound, emails, authenticationResultFields, result]
 ---
@@ -23,7 +23,7 @@ Contains the authentication type and response for inbound emails.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 -   **[InboundEmail.AuthenticationResult Constructors](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_InboundEmail_AuthenticationResult.htm#apex_Messaging_InboundEmail_AuthenticationResult_constructors)**
 

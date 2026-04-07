@@ -5,7 +5,7 @@ topic: caretaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.779Z
+lastCollected: 2026-04-07T09:03:57.833Z
 estimatedTokens: 912
 keywords: [CareTaxonomy, taxonomy, codes, Calls, Associated, Objects]
 ---
@@ -31,7 +31,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | EffectiveTo | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date on which this taxonomy is no longer effective. |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the record is active. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the taxonomy master record. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | ParentTaxonomyId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe parent taxonomy associated with a care taxonomy.This is a relationship field.Relationship NameParentTaxonomyRelationship TypeLookupRefers ToCareTaxonomy |

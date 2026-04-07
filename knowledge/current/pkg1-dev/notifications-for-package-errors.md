@@ -5,7 +5,7 @@ topic: notifications-for-package-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.577Z
+lastCollected: 2026-04-07T09:05:01.855Z
 estimatedTokens: 328
 keywords: [Notifications, Package, Errors, Accurately, track, failed, installations, upgrades, uninstallations, subscriber, orgs, feature, Proactively, address, issues]
 ---

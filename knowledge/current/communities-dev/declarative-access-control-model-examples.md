@@ -5,7 +5,7 @@ topic: declarative-access-control-model-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.475Z
+lastCollected: 2026-04-07T09:03:39.986Z
 estimatedTokens: 252
 keywords: [Declarative, Access, Control, Model, Examples, code, flow, provide, unauthenticated, guest, users, records]
 ---

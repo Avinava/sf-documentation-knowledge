@@ -5,7 +5,7 @@ topic: contractcontactrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.310Z
+lastCollected: 2026-04-07T09:04:37.917Z
 estimatedTokens: 455
 keywords: [ContractContactRole, role, Contact, plays, Contract, Calls]
 ---

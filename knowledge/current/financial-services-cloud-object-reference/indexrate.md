@@ -5,7 +5,7 @@ topic: indexrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.467Z
+lastCollected: 2026-04-07T09:03:49.733Z
 estimatedTokens: 941
 keywords: [IndexRate, base, rate, that’s, defined, authority, API, version, 61.0, later, Digital, Lending, permission, Calls, Associated]
 ---

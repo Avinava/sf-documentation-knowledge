@@ -5,7 +5,7 @@ topic: business-object-api-entity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.719Z
+lastCollected: 2026-04-07T09:05:17.396Z
 estimatedTokens: 667
 keywords: [Business, API, Entity, entities, created, part, configuration, support, Promotion, cases]
 ---

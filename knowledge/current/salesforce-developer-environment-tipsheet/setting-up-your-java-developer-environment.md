@@ -5,7 +5,7 @@ topic: setting-up-your-java-developer-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.291Z
+lastCollected: 2026-04-07T09:05:23.117Z
 estimatedTokens: 1203
 keywords: [Setting, Java, Developer, Environment, tipsheet, how, local, start, Salesforce, APIs, SOAP, API, REST]
 ---

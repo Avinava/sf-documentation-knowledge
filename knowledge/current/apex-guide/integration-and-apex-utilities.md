@@ -5,7 +5,7 @@ topic: integration-and-apex-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.307Z
+lastCollected: 2026-04-07T09:02:32.571Z
 estimatedTokens: 408
 namespace: Compression
 keywords: [Integration, Apex, Utilities, integrate, external, SOAP, REST, Web, services, callouts, JSON, XML, data, security, encoding]

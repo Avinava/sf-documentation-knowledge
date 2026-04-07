@@ -5,8 +5,8 @@ topic: inboundemail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.798Z
-estimatedTokens: 2862
+lastCollected: 2026-04-07T09:02:18.346Z
+estimatedTokens: 2861
 namespace: Messaging
 keywords: [InboundEmail, inbound, email, authenticationResults, Usage, binaryAttachments, ccAddresses, fromAddress, fromName, htmlBody, htmlBodyIsTruncated, inReplyTo, messageId, plainTextBody, plainTextBodyIsTruncated]
 ---
@@ -23,7 +23,7 @@ Represents an inbound email object.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 -   **[InboundEmail Constructors](atlas.en-us.apexref.meta/apexref/apex_classes_email_inbound_inbound.htm#apex_Messaging_InboundEmail_constructors)**
 

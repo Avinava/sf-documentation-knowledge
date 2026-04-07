@@ -5,7 +5,7 @@ topic: order-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.515Z
+lastCollected: 2026-04-07T09:02:14.601Z
 estimatedTokens: 1132
 namespace: DataSource
 keywords: [Order, how, sort, rows, result, Equivalent, statement, SOQL, query, Usage, columnName, direction, tableName]

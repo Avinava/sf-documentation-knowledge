@@ -5,7 +5,7 @@ topic: producttransferstate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.119Z
+lastCollected: 2026-04-07T09:04:24.045Z
 estimatedTokens: 379
 keywords: [ProductTransferState, action, taken, associate, serialized, product, transfer, new, state, result, record, created, products, attached, API]
 ---

@@ -5,7 +5,7 @@ topic: uninstalling-a-canvas-personal-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.464Z
+lastCollected: 2026-04-07T09:05:04.549Z
 estimatedTokens: 427
 keywords: [Uninstalling, Canvas, Personal, App, user, installs, refresh, token, created, turn, generates, OAuth, stop, end, users]
 ---

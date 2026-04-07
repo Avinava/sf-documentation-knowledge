@@ -5,7 +5,7 @@ topic: apextrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.580Z
+lastCollected: 2026-04-07T09:04:34.673Z
 estimatedTokens: 1284
 keywords: [ApexTrigger, Apex, trigger, Calls, Usage]
 ---

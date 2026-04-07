@@ -5,7 +5,7 @@ topic: abstract-bucket-algorithm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.598Z
+lastCollected: 2026-04-07T09:05:25.221Z
 estimatedTokens: 141
 keywords: [Abstract, Bucket, Algorithm, base, recipe]
 ---

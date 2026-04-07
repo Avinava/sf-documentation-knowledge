@@ -5,7 +5,7 @@ topic: news-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.292Z
+lastCollected: 2026-04-07T09:03:24.174Z
 estimatedTokens: 2855
 keywords: [News, Feed, Resources, containing, elements, interest, context, user, post, items, URL, Is-Modified]
 ---

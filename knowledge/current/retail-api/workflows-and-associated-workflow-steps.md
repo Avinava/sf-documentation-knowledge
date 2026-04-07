@@ -5,7 +5,7 @@ topic: workflows-and-associated-workflow-steps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.734Z
+lastCollected: 2026-04-07T09:05:17.415Z
 estimatedTokens: 743
 keywords: [Workflows, Associated, Workflow, Steps, API]
 ---

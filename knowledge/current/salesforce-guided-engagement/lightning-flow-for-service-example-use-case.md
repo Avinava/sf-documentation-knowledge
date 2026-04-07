@@ -5,7 +5,7 @@ topic: lightning-flow-for-service-example-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.885Z
+lastCollected: 2026-04-07T09:05:24.008Z
 estimatedTokens: 1520
 keywords: [Lightning, Flow, Service, Case, help, agents, follow, consistent, procedures, customer, calls, support, issue, comes, associate]
 ---

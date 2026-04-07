@@ -5,7 +5,7 @@ topic: actionlinktemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:46.224Z
+lastCollected: 2026-04-07T09:05:30.566Z
 estimatedTokens: 525
 keywords: [ActionLinkTemplate, Action, link, templates, let, reuse, definitions, package, distribute, links, button, feed, element, Clicking, take]
 ---

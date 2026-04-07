@@ -5,7 +5,7 @@ topic: cart-item-promotion-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.559Z
+lastCollected: 2026-04-07T09:03:30.186Z
 estimatedTokens: 104
 keywords: [Cart, Item, Promotion, Collection, promotions, associated, items]
 ---

@@ -5,7 +5,7 @@ topic: update-an-articles-viewstat-with-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.803Z
+lastCollected: 2026-04-07T09:04:05.078Z
 estimatedTokens: 224
 keywords: [Article’s, Viewstat, SOSL, Determine, how, hits, Salesforce, Knowledge, article, had, clause, query, language, attribute, search]
 ---

@@ -5,7 +5,7 @@ topic: run-a-soql-or-sosl-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.186Z
+lastCollected: 2026-04-07T09:06:13.023Z
 estimatedTokens: 650
 keywords: [Run, SOQL, SOSL, Query, It’s, often, useful, CLI, command, quickly, Salesforce, search, specific, terms, across]
 ---

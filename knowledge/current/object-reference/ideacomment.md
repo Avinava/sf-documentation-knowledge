@@ -5,7 +5,7 @@ topic: ideacomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.128Z
+lastCollected: 2026-04-07T09:04:42.434Z
 estimatedTokens: 769
 keywords: [IdeaComment, comment, user, submitted, idea, Calls, Usage]
 ---

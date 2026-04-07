@@ -5,7 +5,7 @@ topic: connectapiadjustordersummaryoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:48.978Z
+lastCollected: 2026-04-07T09:02:21.810Z
 estimatedTokens: 522
 keywords: [Output, representation, financial, changes, adjust, items, action, preview, expected, submit, actual]
 ---

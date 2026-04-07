@@ -5,7 +5,7 @@ topic: extended-metadata-xmd-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:07.770Z
+lastCollected: 2026-04-07T09:03:16.242Z
 estimatedTokens: 311
 keywords: [Extended, Metadata, XMD, customize, formatting, dataset, their, CRM, Analytics, dashboards, lenses, modify, every, visualization, uses]
 ---

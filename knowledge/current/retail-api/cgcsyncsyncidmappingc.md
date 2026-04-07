@@ -5,7 +5,7 @@ topic: cgcsyncsyncidmappingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.712Z
+lastCollected: 2026-04-07T09:05:18.886Z
 estimatedTokens: 289
 keywords: [cgc_sync__Sync_ID_Mapping__c, mappings, local, mobile, application, IDs, Salesforce, API, version, 53.0, later, cgc, _sync, _ID, _Mapping]
 ---

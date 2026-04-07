@@ -5,7 +5,7 @@ topic: make-long-running-callouts-with-continuations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:42.630Z
+lastCollected: 2026-04-07T09:02:32.020Z
 estimatedTokens: 2093
 keywords: [Long-Running, Callouts, Continuations, asynchronous, requests, Visualforce, Lightning, component, external, Web, service, process, responses, callback]
 ---

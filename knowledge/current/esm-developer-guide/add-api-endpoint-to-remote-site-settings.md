@@ -5,7 +5,7 @@ topic: add-api-endpoint-to-remote-site-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:26.847Z
+lastCollected: 2026-04-07T09:03:44.825Z
 estimatedTokens: 176
 keywords: [Add, API, Endpoint, Remote, Site, Settings, ESM_checkServiceQualification, ESM_checkAddressValidation, base, URL, TMF]
 ---

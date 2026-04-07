@@ -5,7 +5,7 @@ topic: blngpaymenttransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.576Z
+lastCollected: 2026-04-07T09:03:17.362Z
 estimatedTokens: 3019
 keywords: [blng__PaymentTransaction__c, payment, transactions, associated, blng, _PaymentTransaction, Calls]
 ---

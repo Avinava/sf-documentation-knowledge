@@ -5,7 +5,7 @@ topic: renewalopptydetail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:13.618Z
+lastCollected: 2026-04-07T09:01:56.073Z
 estimatedTokens: 2745
 keywords: [RenewalOpptyDetail, asset, renewal, pricing, creating, opportunities, assetId, startDate, endDate, productId, account, priceBookId, priceBookEntryId, lastAssetActionSubtype, renewalPriceDetails]
 ---

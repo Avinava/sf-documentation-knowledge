@@ -5,7 +5,7 @@ topic: view-the-data-loader-log-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.332Z
+lastCollected: 2026-04-07T09:03:41.342Z
 estimatedTokens: 245
 keywords: [View, Data, Loader, Log, File, investigate, problem, requested, Salesforce, Customer, Support, access, files, track, operations]
 ---

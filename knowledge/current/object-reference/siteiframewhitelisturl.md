@@ -5,7 +5,7 @@ topic: siteiframewhitelisturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:17.236Z
+lastCollected: 2026-04-07T09:04:49.729Z
 estimatedTokens: 313
 keywords: [SiteIframeWhitelistUrl, external, domains, allow, frame, Salesforce, site, Experience, Cloud, pages, API, version, 44.0, later, Calls]
 ---

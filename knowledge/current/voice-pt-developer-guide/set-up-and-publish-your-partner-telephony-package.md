@@ -5,7 +5,7 @@ topic: set-up-and-publish-your-partner-telephony-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.148Z
+lastCollected: 2026-04-07T09:06:18.699Z
 estimatedTokens: 681
 keywords: [Publish, Partner, Telephony, Package, started, Service, Cloud, Voice, managed, lets, develop, distribute, resources, needed, integrate]
 ---

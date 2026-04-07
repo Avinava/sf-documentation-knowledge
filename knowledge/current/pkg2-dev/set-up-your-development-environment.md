@@ -5,7 +5,7 @@ topic: set-up-your-development-environment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.184Z
+lastCollected: 2026-04-07T09:05:04.047Z
 estimatedTokens: 737
 keywords: [Development, Environment, Second-generation, managed, packaging, uses, Salesforce, developer, tools, Ensure, orgs, installed, enabled, Dev, Hub]
 ---

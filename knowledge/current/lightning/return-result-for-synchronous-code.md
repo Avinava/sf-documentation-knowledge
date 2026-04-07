@@ -5,7 +5,7 @@ topic: return-result-for-synchronous-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.138Z
+lastCollected: 2026-04-07T09:04:14.353Z
 estimatedTokens: 1163
 keywords: [Result, Synchronous, Code, aura, executes, synchronously, finishes, executing, statement, JavaScript, Step, Define, Markup, Implement, Logic]
 ---

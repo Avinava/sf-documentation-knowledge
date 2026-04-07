@@ -5,7 +5,7 @@ topic: linkedarticlehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.882Z
+lastCollected: 2026-04-07T09:04:43.272Z
 estimatedTokens: 311
 keywords: [LinkedArticleHistory, history, changes, made, tracked, linked, article, API, version, 37.0, later, Calls, Special, Access, Rules]
 ---

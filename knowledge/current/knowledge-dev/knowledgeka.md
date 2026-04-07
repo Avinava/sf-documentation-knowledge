@@ -5,7 +5,7 @@ topic: knowledgeka
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.850Z
+lastCollected: 2026-04-07T09:04:05.136Z
 estimatedTokens: 796
 keywords: [Knowledge__ka, access, concrete, Knowledge, article, parent, versions, API, version, 39.0, later, _ka, Calls, Special, Rules]
 ---

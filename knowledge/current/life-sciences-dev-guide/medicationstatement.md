@@ -5,8 +5,8 @@ topic: medicationstatement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.346Z
-estimatedTokens: 2193
+lastCollected: 2026-04-07T09:04:07.299Z
+estimatedTokens: 2120
 keywords: [MedicationStatement, record, medication, patient, currently, taking, taken, past, API, version, 51.0, later, Calls, Additional, Objects, Medication​Statement, FHIR, resource, maps, Salesforce​]
 ---
 
@@ -86,9 +86,6 @@ Sharing rules are available for the object.
 
 Sharing is available for the object.
 
--   **[MedicationStatementDetail](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_medicationstatementdetail.htm)**
-    Represents additional information associated with MedicationStatement records. This object is available in API version 54.0 and later.
-
 ## Related Topics
 
 - MedicationStatementChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
@@ -96,5 +93,4 @@ Sharing is available for the object.
 - MedicationStatementHistory (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_history.htm)
 - MedicationStatementOwnerSharingRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_ownersharingrule.htm)
 - MedicationStatementShare (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm)
-- MedicationStatementDetail (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_medicationstatementdetail.htm)
 - MedicationStatement (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_MedicationStatement.htm)

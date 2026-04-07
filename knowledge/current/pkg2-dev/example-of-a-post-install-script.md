@@ -5,7 +5,7 @@ topic: example-of-a-post-install-script
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.774Z
+lastCollected: 2026-04-07T09:05:02.146Z
 estimatedTokens: 334
 keywords: [Post, Install, Script, previous, version, package, installed, time]
 ---

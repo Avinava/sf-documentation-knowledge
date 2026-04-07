@@ -5,7 +5,7 @@ topic: manage-prediction-definitions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:05.060Z
+lastCollected: 2026-04-07T09:03:11.926Z
 estimatedTokens: 353
 keywords: [Manage, Prediction, Definitions, Einstein, Service, REST, API, endpoints, definition, model, trying, predict, Salesforce, entity, associated]
 ---

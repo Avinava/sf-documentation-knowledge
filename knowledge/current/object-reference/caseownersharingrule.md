@@ -5,7 +5,7 @@ topic: caseownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.304Z
+lastCollected: 2026-04-07T09:04:36.630Z
 estimatedTokens: 852
 keywords: [CaseOwnerSharingRule, rules, sharing, case, users, owner, Calls, Special, Access, Usage]
 ---

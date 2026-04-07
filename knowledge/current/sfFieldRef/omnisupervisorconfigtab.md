@@ -5,7 +5,7 @@ topic: omnisupervisorconfigtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.388Z
+lastCollected: 2026-04-07T09:05:55.945Z
 estimatedTokens: 274
 keywords: [OmniSupervisorConfigTab, visible, tabs, Omni, Supervisor, configuration, API, version, 60.0, later]
 ---

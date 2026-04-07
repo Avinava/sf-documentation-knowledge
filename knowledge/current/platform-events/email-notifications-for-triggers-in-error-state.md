@@ -5,7 +5,7 @@ topic: email-notifications-for-triggers-in-error-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.098Z
+lastCollected: 2026-04-07T09:05:05.498Z
 estimatedTokens: 531
 keywords: [Email, Notifications, Triggers, Error, State, Apex, platform, event, trigger, exceeds, maximum, number, retries, you’re, notified]
 ---

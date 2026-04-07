@@ -5,7 +5,7 @@ topic: abnexperimentcohort
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.453Z
+lastCollected: 2026-04-07T09:04:33.357Z
 estimatedTokens: 1134
 keywords: [AbnExperimentCohort, audience, that's, participating, experiment, API, version, 63.0, later, Calls, Usage, Associated, Objects]
 ---

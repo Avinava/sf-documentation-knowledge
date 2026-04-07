@@ -5,7 +5,7 @@ topic: flow-for-health-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.047Z
+lastCollected: 2026-04-07T09:03:55.652Z
 estimatedTokens: 631
 keywords: [Flow, Health, Cloud, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---

@@ -5,7 +5,7 @@ topic: headless-login-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:31.919Z
+lastCollected: 2026-04-07T09:03:51.422Z
 estimatedTokens: 765
 keywords: [Headless, Login, configure, via, Authorization, Code, Credentials, Flow, built, OAuth, 2.0, grant, end, user, logged]
 ---

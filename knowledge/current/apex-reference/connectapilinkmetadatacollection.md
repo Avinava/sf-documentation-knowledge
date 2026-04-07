@@ -5,7 +5,7 @@ topic: connectapilinkmetadatacollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:52.170Z
+lastCollected: 2026-04-07T09:02:24.318Z
 estimatedTokens: 61
 keywords: [ConnectApi.LinkMetadataCollection, Collection, link, metadata]
 ---

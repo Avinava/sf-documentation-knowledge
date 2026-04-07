@@ -5,7 +5,7 @@ topic: typeof
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.805Z
+lastCollected: 2026-04-07T09:06:15.204Z
 estimatedTokens: 1571
 keywords: [TYPEOF, clause, SELECT, statement, SOQL, query, you’re, querying, data, polymorphic, relationships, expression, depend, runtime]
 ---

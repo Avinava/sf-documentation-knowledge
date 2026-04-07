@@ -5,7 +5,7 @@ topic: folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.554Z
+lastCollected: 2026-04-07T09:04:41.808Z
 estimatedTokens: 1235
 keywords: [Folder, repository, Dashboard, Document, EmailTemplate, Macro, QuickText, Report, item, contained, Calls, Special, Access, Rules, Usage]
 ---

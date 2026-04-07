@@ -5,7 +5,7 @@ topic: feature-limitations-of-offline-graphql
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:57.016Z
+lastCollected: 2026-04-07T09:04:25.343Z
 estimatedTokens: 1745
 keywords: [Feature, Limitations, Offline, GraphQL, uses, wire, adapter, mechanism, standard, online, LWC, don’t, change, any, code]
 ---

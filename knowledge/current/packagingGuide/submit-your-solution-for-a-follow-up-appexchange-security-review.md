@@ -5,7 +5,7 @@ topic: submit-your-solution-for-a-follow-up-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.356Z
+lastCollected: 2026-04-07T09:04:55.767Z
 estimatedTokens: 1491
 keywords: [Submit, Solution, Follow-Up, AppExchange, Security, Review, team, found, vulnerabilities, isn’t, approved, distribution, It’s, result, hoped]
 ---

@@ -5,7 +5,7 @@ topic: allow-users-to-see-only-records-that-they-own
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.389Z
+lastCollected: 2026-04-07T09:05:16.908Z
 estimatedTokens: 153
 keywords: [Allow, Users, Records, They, Own, restriction, rule, designated, profile, tasks, Tooling, API, Metadata]
 ---

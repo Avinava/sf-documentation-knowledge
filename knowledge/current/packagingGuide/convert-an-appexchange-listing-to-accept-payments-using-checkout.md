@@ -5,7 +5,7 @@ topic: convert-an-appexchange-listing-to-accept-payments-using-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.303Z
+lastCollected: 2026-04-07T09:04:53.953Z
 estimatedTokens: 886
 keywords: [Convert, AppExchange, Listing, Accept, Payments, Checkout, doesn’t, Partner, Console, enable, republish]
 ---

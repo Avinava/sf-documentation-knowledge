@@ -5,7 +5,7 @@ topic: maps
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:45.005Z
+lastCollected: 2026-04-07T09:02:34.126Z
 estimatedTokens: 1234
 keywords: [Maps, map, collection, key-value, pairs, unique, key, Keys, any, data, type—primitive, collections, sObjects, user-defined, built-in]
 ---

@@ -5,7 +5,7 @@ topic: skillrequirement-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.205Z
+lastCollected: 2026-04-07T09:05:26.232Z
 estimatedTokens: 143
 namespace: LxScheduler
 keywords: [SkillRequirement, skills, particular, task, work, Usage]

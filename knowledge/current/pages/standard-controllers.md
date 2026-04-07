@@ -5,7 +5,7 @@ topic: standard-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.394Z
+lastCollected: 2026-04-07T09:04:58.839Z
 estimatedTokens: 454
 keywords: [Standard, Controllers, Visualforce, controller, instructions, specify, happens, user, interacts, components, associated, markup, clicks, button, link]
 ---

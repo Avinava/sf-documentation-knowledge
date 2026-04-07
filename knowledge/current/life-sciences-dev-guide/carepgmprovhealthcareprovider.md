@@ -5,7 +5,7 @@ topic: carepgmprovhealthcareprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.304Z
+lastCollected: 2026-04-07T09:04:09.751Z
 estimatedTokens: 1003
 keywords: [CarePgmProvHealthcareProvider, junction, identifying, primary, healthcare, professional, associated, care, program, provider, look, professionals, providers, API, version]
 ---

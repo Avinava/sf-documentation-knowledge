@@ -5,7 +5,7 @@ topic: product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.639Z
+lastCollected: 2026-04-07T09:05:22.308Z
 estimatedTokens: 5548
 keywords: [Product2, product, company, sells, Custom, extend, standard, Consumer, Goods, Cloud, API, version, 55.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: socialpost
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.241Z
+lastCollected: 2026-04-07T09:06:07.818Z
 estimatedTokens: 1100
 keywords: [SocialPost, snapshot, post, social, network, Facebook, Twitter, API, version, 23.0, later]
 ---

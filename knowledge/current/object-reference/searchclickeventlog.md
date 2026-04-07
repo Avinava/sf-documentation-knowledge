@@ -5,7 +5,7 @@ topic: searchclickeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.698Z
+lastCollected: 2026-04-07T09:04:49.042Z
 estimatedTokens: 493
 keywords: [SearchClickEventLog, Search, Click, Event, Log, user’s, interaction, results, API, version, 61.0, later, Calls, Special, Access]
 ---

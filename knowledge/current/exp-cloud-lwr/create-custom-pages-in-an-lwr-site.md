@@ -5,7 +5,7 @@ topic: create-custom-pages-in-an-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:27.711Z
+lastCollected: 2026-04-07T09:03:46.086Z
 estimatedTokens: 836
 keywords: [Custom, Pages, LWR, Site, templates, Experience, Cloud, provide, few, key, additional, particular, case, Standard, Login]
 ---

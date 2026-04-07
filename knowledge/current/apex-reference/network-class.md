@@ -5,7 +5,7 @@ topic: network-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.989Z
+lastCollected: 2026-04-07T09:02:18.539Z
 estimatedTokens: 3181
 namespace: System
 keywords: [Network, Asynchronously, creates, Experience, Cloud, site, user, account, contact, associates, processes, requests, batches, email, login]

@@ -5,7 +5,7 @@ topic: paymentscheduletreatmentdtl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:26.551Z
+lastCollected: 2026-04-07T09:02:04.751Z
 estimatedTokens: 1028
 keywords: [PaymentScheduleTreatmentDtl, processing, payment, schedules, corresponding, invoices, posted, API, version, 64.0, later, Calls, Special, Access, Rules]
 ---

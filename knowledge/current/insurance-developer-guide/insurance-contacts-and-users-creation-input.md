@@ -5,7 +5,7 @@ topic: insurance-contacts-and-users-creation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:39.804Z
+lastCollected: 2026-04-07T09:04:02.057Z
 estimatedTokens: 318
 keywords: [Insurance, Contacts, Users, Creation, Input, representation, creating, portal, group, census, members]
 ---

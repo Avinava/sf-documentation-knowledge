@@ -5,7 +5,7 @@ topic: quotelineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.142Z
+lastCollected: 2026-04-07T09:06:03.347Z
 estimatedTokens: 520
 keywords: [QuoteLineItem, quote, line, item, member, Product2, products, associated, along, items, API, version, 18.0, later]
 ---

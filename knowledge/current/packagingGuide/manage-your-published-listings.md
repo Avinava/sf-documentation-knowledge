@@ -5,7 +5,7 @@ topic: manage-your-published-listings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.479Z
+lastCollected: 2026-04-07T09:04:54.254Z
 estimatedTokens: 475
 keywords: [Manage, Published, Listings, live, AppExchange, Link, different, solution, listing, Change, visibility]
 ---

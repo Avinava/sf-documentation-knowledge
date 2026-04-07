@@ -5,7 +5,7 @@ topic: layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:07.753Z
+lastCollected: 2026-04-07T09:02:41.606Z
 estimatedTokens: 8860
 keywords: [Layout, metadata, associated, Layouts, Salesforce, Help, File, Suffix, Directory, Location, Version, CustomConsoleComponents, PrimaryTabComponents, ConsoleComponent, Container]
 ---

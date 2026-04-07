@@ -5,7 +5,7 @@ topic: search-in-the-enhanced-profile-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.278Z
+lastCollected: 2026-04-07T09:05:29.239Z
 estimatedTokens: 569
 keywords: [Search, Enhanced, Profile, User, locate, tab, permission, setting, least, three, consecutive, letters, Settings, box, suggestions]
 ---

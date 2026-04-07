@@ -5,7 +5,7 @@ topic: embeddedservicebranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.521Z
+lastCollected: 2026-04-07T09:02:47.027Z
 estimatedTokens: 1309
 keywords: [EmbeddedServiceBranding, branding, Embedded, Service, deployment, Tooling, API, version, 39.0, later, SOAP, Calls, REST, HTTP]
 ---

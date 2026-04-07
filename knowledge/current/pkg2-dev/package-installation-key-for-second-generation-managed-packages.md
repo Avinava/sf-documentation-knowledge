@@ -6,7 +6,7 @@ topic: package-installation-key-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.999Z
+lastCollected: 2026-04-07T09:05:03.748Z
 estimatedTokens: 374
 keywords: [Package, Installation, Key, Second-Generation, Managed, Packages, ensure, security, metadata, specify, creating, version, creators, provide, authorized]
 ---

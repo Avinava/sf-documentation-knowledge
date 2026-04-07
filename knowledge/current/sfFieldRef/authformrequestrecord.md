@@ -5,7 +5,7 @@ topic: authformrequestrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.168Z
+lastCollected: 2026-04-07T09:05:34.443Z
 estimatedTokens: 385
 keywords: [AuthFormRequestRecord, Junction, Authorization, Salesforce, record, authorized, actual, financial, records, shared, third, parties, any, result, consent]
 ---

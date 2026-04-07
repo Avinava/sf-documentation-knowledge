@@ -5,7 +5,7 @@ topic: cgcloudvehiclewarehousec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.409Z
+lastCollected: 2026-04-07T09:05:22.050Z
 estimatedTokens: 1001
 keywords: [cgcloud__Vehicle_Warehouse__c, stores, relationship, vehicle, warehouse, API, version, 54.0, later, cgcloud, _Vehicle, _Warehouse, Calls, Associated, Objects]
 ---

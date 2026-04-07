@@ -5,7 +5,7 @@ topic: track-package-usage-with-appexchange-app-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.275Z
+lastCollected: 2026-04-07T09:04:53.908Z
 estimatedTokens: 564
 keywords: [Track, Package, Usage, AppExchange, App, Analytics, data, how, subscribers, interact, solutions, identify, attrition, risks, inform]
 ---

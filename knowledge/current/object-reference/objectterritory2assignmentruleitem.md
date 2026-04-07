@@ -5,7 +5,7 @@ topic: objectterritory2assignmentruleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.374Z
+lastCollected: 2026-04-07T09:04:45.088Z
 estimatedTokens: 489
 keywords: [ObjectTerritory2AssignmentRuleItem, row, selection, criteria, ObjectTerritory2AssignmentRule, created, deleted, BooleanFilter, corresponding, Sales, Territories, enabled, Calls, Special, Access]
 ---

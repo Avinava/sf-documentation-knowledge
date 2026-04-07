@@ -5,7 +5,7 @@ topic: cost-calculation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:39.701Z
+lastCollected: 2026-04-07T09:04:01.882Z
 estimatedTokens: 191
 keywords: [Cost, Calculation, Input, representation, calculate, brokerage]
 ---

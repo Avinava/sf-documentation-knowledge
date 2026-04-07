@@ -5,7 +5,7 @@ topic: delete-member-plans
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.570Z
+lastCollected: 2026-04-07T09:04:03.246Z
 estimatedTokens: 131
 keywords: [Member, Plans, Output, representation, plan, deletion, process]
 ---

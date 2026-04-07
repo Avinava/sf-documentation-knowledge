@@ -5,7 +5,7 @@ topic: check-the-status-of-your-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.202Z
+lastCollected: 2026-04-07T09:04:55.532Z
 estimatedTokens: 289
 keywords: [Check, Status, AppExchange, Security, Review, Partner, Console, updates, appear, submit, solution]
 ---

@@ -5,7 +5,7 @@ topic: dayinmonthdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.555Z
+lastCollected: 2026-04-07T09:03:14.321Z
 estimatedTokens: 27
 keywords: [day_in_month, date, representing, day, month, specific, _in, _month]
 ---

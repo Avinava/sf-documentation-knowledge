@@ -5,7 +5,7 @@ topic: activationplatformfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:03.074Z
+lastCollected: 2026-04-07T09:02:36.916Z
 estimatedTokens: 664
 keywords: [ActivationPlatformField, ActivationPlatform, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample, Definition]
 ---

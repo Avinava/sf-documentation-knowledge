@@ -5,7 +5,7 @@ topic: paymentgatewayprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.508Z
+lastCollected: 2026-04-07T09:04:46.346Z
 estimatedTokens: 736
 keywords: [PaymentGatewayProvider, Setup, entity, payment, gateways, connection, gateway, Apex, adapter, API, version, 48.0, later, Calls, Special]
 ---

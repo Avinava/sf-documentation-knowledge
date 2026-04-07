@@ -5,7 +5,7 @@ topic: cgcloudproducthierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.472Z
+lastCollected: 2026-04-07T09:05:21.010Z
 estimatedTokens: 1222
 keywords: [cgcloud__Product_Hierarchy__c, Relation, product, Child_Product, parent, time-framed, API, version, 54.0, later, cgcloud, _Product, _Hierarchy, Calls, Associated]
 ---

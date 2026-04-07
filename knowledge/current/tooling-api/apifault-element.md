@@ -5,7 +5,7 @@ topic: apifault-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:43.566Z
+lastCollected: 2026-04-07T09:02:46.132Z
 estimatedTokens: 529
 keywords: [ApiFault, Element, fault, occurs, processing, service, Tooling, API, Faults]
 ---

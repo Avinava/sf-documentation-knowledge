@@ -5,7 +5,7 @@ topic: accountforecastadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.450Z
+lastCollected: 2026-04-07T09:04:23.089Z
 estimatedTokens: 542
 keywords: [AccountForecastAdjustment, manual, adjustments, made, forecast, particular, account, API, version, 47.0, later, Calls]
 ---

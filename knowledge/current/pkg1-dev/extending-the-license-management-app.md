@@ -5,7 +5,7 @@ topic: extending-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.406Z
+lastCollected: 2026-04-07T09:05:01.582Z
 estimatedTokens: 475
 keywords: [Extending, License, Management, App, LMA, managed, package, customize, extend, addition, manage, leads, licenses, partners, integrate]
 ---

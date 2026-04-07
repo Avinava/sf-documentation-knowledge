@@ -5,7 +5,7 @@ topic: time-zone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:21.337Z
+lastCollected: 2026-04-07T09:03:36.299Z
 estimatedTokens: 139
 keywords: [Time, Zone, User's, selected, user’s, personal, settings, Salesforce, doesn’t, reflect, device's, current, location]
 ---

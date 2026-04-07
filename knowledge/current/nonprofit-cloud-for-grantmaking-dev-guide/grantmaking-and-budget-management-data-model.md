@@ -5,7 +5,7 @@ topic: grantmaking-and-budget-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.792Z
+lastCollected: 2026-04-07T09:04:32.525Z
 estimatedTokens: 247
 keywords: [Grantmaking, Budget, Management, Data, Model, objects, relationships]
 ---

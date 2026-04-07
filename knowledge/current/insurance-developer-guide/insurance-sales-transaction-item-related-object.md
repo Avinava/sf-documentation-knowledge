@@ -5,7 +5,7 @@ topic: insurance-sales-transaction-item-related-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.677Z
+lastCollected: 2026-04-07T09:04:03.434Z
 estimatedTokens: 101
 keywords: [Insurance, Sales, Transaction, Item, Output, representation]
 ---

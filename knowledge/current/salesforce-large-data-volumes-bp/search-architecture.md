@@ -5,7 +5,7 @@ topic: search-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.995Z
+lastCollected: 2026-04-07T09:05:24.199Z
 estimatedTokens: 396
 keywords: [Search, Architecture, capability, query, records, free-form, text, Salesforce, own, data, store, optimized, searching]
 ---

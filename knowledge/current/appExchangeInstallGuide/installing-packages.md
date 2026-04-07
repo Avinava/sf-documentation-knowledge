@@ -5,7 +5,7 @@ topic: installing-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.561Z
+lastCollected: 2026-04-07T09:03:05.396Z
 estimatedTokens: 2529
 keywords: [Installing, Packages, AppExchange, solution, Salesforce, org, straightforward, install, unmanaged, managed, package, configure, environment, users]
 ---

@@ -5,7 +5,7 @@ topic: sql-formula-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.492Z
+lastCollected: 2026-04-07T09:05:25.011Z
 estimatedTokens: 405
 keywords: [SQL, Formula, Input, base, recipe, node]
 ---

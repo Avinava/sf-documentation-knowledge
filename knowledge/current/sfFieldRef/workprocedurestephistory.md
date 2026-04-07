@@ -5,7 +5,7 @@ topic: workprocedurestephistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.525Z
+lastCollected: 2026-04-07T09:06:12.152Z
 estimatedTokens: 266
 keywords: [WorkProcedureStepHistory, History, tracked, WorkProcedureStep]
 ---

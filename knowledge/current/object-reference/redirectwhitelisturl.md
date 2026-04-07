@@ -5,7 +5,7 @@ topic: redirectwhitelisturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:16.101Z
+lastCollected: 2026-04-07T09:04:48.244Z
 estimatedTokens: 1637
 keywords: [RedirectWhitelistUrl, trusted, URL, external, user, redirections, different, Salesforce, org, including, publicly, served, pages, content, allowed]
 ---

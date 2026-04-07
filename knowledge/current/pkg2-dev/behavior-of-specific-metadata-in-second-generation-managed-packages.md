@@ -5,8 +5,8 @@ topic: behavior-of-specific-metadata-in-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.148Z
-estimatedTokens: 1238
+lastCollected: 2026-04-07T09:05:03.982Z
+estimatedTokens: 1240
 namespace: Metadata
 keywords: [Behavior, Specific, Metadata, Second-Generation, Managed, Packages, how, profiles, visibility, handled]
 ---
@@ -25,7 +25,7 @@ Learn how profiles and namespace visibility are handled for second-generation ma
 -   **[Package Agentforce Metadata Components](atlas.en-us.pkg2_dev.meta/pkg2_dev/dev2gp_packageable_agentforce_md.htm)**
     Bring the power of conversational AI to your apps with Agentforce.
 -   **[Develop and Package Agent Templates Using Scratch Orgs](atlas.en-us.pkg2_dev.meta/pkg2_dev/dev2gp_package_agent_templates.htm#dev2gp_package_agent_templates)**
-    At a high-level, agents are distributed by ISVs as agent templates. To package an agent template you first create and test an agent in a namespaced scratch org, retrieve the agent to your Salesforce DX project, generate an agent template from the agent using Salesforce CLI, and finally package the agent template.
+    At a high-level, agents are distributed by ISVs as agent templates. To package an agent template, you first create and test an agent in a namespaced scratch org. Then retrieve the agent to your Salesforce DX project, generate an agent template from the agent using Salesforce CLI, and finally package the agent template.
 -   **[Package Data Cloud Metadata Components](atlas.en-us.pkg2_dev.meta/pkg2_dev/dev2gp_package_data_cloud.htm)**
     Utilize the power of Data Cloud in your apps by including Data Cloud metadata in your managed packages. Working with Data Cloud metadata has some unique requirements. Review these details to understand how to work with Data Cloud metadata in your packages.
 -   **[Protected Components in Managed Packages](atlas.en-us.pkg2_dev.meta/pkg2_dev/packaging_protected_components.htm)**

@@ -5,7 +5,7 @@ topic: productcomponentgroupoutputrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:13.977Z
+lastCollected: 2026-04-07T09:01:56.296Z
 estimatedTokens: 1780
 keywords: [product, component, group, classification, childGroups, classifications, code, components, parentGroupId, parentProductId, sequence]
 ---

@@ -5,7 +5,7 @@ topic: tpmgenericutils-module
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.015Z
+lastCollected: 2026-04-07T09:05:22.723Z
 estimatedTokens: 1094
 namespace: CGCloud
 keywords: [tpmGenericUtils, Module, replacements, accessing, @salesforce, modules, components, cgcloud, runtime, Implementation, Perform, Apex, Calls, Load, Resources]

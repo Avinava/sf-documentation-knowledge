@@ -5,7 +5,7 @@ topic: permission-set-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.894Z
+lastCollected: 2026-04-07T09:05:03.551Z
 estimatedTokens: 414
 keywords: [Permission, Groups, organize, include, second-generation, managed, packages, updated, upgrade, package]
 ---

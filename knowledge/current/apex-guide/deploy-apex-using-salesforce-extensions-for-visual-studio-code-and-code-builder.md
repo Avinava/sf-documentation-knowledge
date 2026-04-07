@@ -6,7 +6,7 @@ topic: deploy-apex-using-salesforce-extensions-for-visual-studio-code-and-code-b
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:42.893Z
+lastCollected: 2026-04-07T09:02:32.191Z
 estimatedTokens: 569
 keywords: [Deploy, Apex, Salesforce, Extensions, Visual, Studio, Code, Builder, powered, CLI, APIs]
 ---

@@ -5,7 +5,7 @@ topic: corswhitelistorigin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:04.862Z
+lastCollected: 2026-04-07T09:02:38.631Z
 estimatedTokens: 777
 keywords: [CorsWhitelistOrigin, origin, CORS, allowlist, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Usage, Wildcard]
 ---

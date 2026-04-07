@@ -5,7 +5,7 @@ topic: enable-custom-permissions-in-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.823Z
+lastCollected: 2026-04-07T09:05:28.556Z
 estimatedTokens: 361
 keywords: [Enable, Custom, Permissions, Permission, give, way, provide, access, processes, apps, you’ve, created, associated, process, app]
 ---

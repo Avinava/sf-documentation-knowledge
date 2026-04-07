@@ -5,7 +5,7 @@ topic: design-attribute-considerations-for-flow-screen-components-and-local-acti
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.227Z
+lastCollected: 2026-04-07T09:04:13.074Z
 estimatedTokens: 426
 keywords: [Design, Attribute, Considerations, Flow, Screen, Components, Local, Actions, expose, Builder, define, corresponding, component, bundle's, resource]
 ---

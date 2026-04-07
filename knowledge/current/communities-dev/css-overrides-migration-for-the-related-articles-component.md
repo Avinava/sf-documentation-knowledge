@@ -5,7 +5,7 @@ topic: css-overrides-migration-for-the-related-articles-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.404Z
+lastCollected: 2026-04-07T09:03:39.890Z
 estimatedTokens: 448
 keywords: [CSS, Overrides, Migration, Articles, Component, plan, continue, custom, migrate, forward, template, Full, Title, Article, Items]
 ---

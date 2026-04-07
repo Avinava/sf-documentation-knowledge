@@ -5,7 +5,7 @@ topic: vpls360csrgetuserstory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.300Z
+lastCollected: 2026-04-07T09:04:21.478Z
 estimatedTokens: 137
 keywords: [vpls360csr_GetUserStory, Integration, Procedure, agent, console, customer, story, vpls360csr, _GetUserStory, Sample, Input, Output, Calls]
 ---

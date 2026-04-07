@@ -5,7 +5,7 @@ topic: managedcontentinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.708Z
+lastCollected: 2026-04-07T09:04:44.232Z
 estimatedTokens: 188
 keywords: [ManagedContentInfo, creation, relationship, Product, ProductMedia, API, version, 49.0, 57.0, 58.0, later, ManagedContent, Calls, Special, Access]
 ---

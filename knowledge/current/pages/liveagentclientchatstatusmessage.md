@@ -5,7 +5,7 @@ topic: liveagentclientchatstatusmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.729Z
+lastCollected: 2026-04-07T09:04:57.879Z
 estimatedTokens: 264
 keywords: [liveAgent, clientChatStatusMessage, area, chat, window, displays, system, status, messages, reconnected, Attributes]
 ---

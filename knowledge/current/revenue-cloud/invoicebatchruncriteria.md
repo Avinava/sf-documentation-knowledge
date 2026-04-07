@@ -5,7 +5,7 @@ topic: invoicebatchruncriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:26.014Z
+lastCollected: 2026-04-07T09:02:04.445Z
 estimatedTokens: 672
 keywords: [InvoiceBatchRunCriteria, batch, processing, job, criteria, Billing, invoice, run, schedules, meet, processed, resulting, generation, invoices, API]
 ---

@@ -5,7 +5,7 @@ topic: selfserviceuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.729Z
+lastCollected: 2026-04-07T09:04:49.081Z
 estimatedTokens: 1120
 keywords: [SelfServiceUser, Contact, enabled, organization’s, Self-Service, portal, obtain, online, support, Calls, Special, Access, Rules, Usage]
 ---

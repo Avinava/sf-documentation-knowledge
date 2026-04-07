@@ -5,7 +5,7 @@ topic: fields-on-opportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.087Z
+lastCollected: 2026-04-07T09:03:55.702Z
 estimatedTokens: 1309
 keywords: [Opportunity, Standard, custom, extend, represent, incoming, patient]
 ---

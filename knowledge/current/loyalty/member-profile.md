@@ -5,84 +5,52 @@ topic: member-profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.137Z
+lastCollected: 2026-04-07T09:04:17.357Z
 estimatedTokens: 380
-keywords: [Member, Profile, loyalty, program, asynchronously, requesting, data, API, Resource, Input, Sample, Output]
+keywords: [Member, Profile, loyalty, program, Output, representation, asynchronously, requesting, data, API, Resource, Input, Sample]
 ---
 
 # Member Profile
 
-> Get the profile details of a loyalty program member, while asynchronously requesting
-  data from the Member Profile API.
+> Output representation of the details of a loyalty program
+    member.
 
 # Member Profile
 
-Get the profile details of a loyalty program member, while asynchronously requesting data from the Member Profile API.
+Output representation of the details of a loyalty program member.
 
-## Resource
-
-```
-
-```
-
-## Signature
+JSON example
 
 ```
 
 ```
 
-## Input Parameters
-
-| Parameter | Type | Description | Required or Optional |
-| --- | --- | --- | --- |
-| devMode | Boolean | Indicates whether the request is run in developer mode (true) or not (false). | Optional |
-| memberId | String | Identifier of the member whose benefits are being retrieved. | Required |
-| version | String | Version of the API. The request body is available in version 55.0 and later. | Optional |
-
-## Return Value
-
-A ProfileModel instance of type:
-
-```
-
-```
-
-## Sample Output
-
-```
-
-```
-
-## Output Parameters
-
-| Property Name | Type | Description |
-| --- | --- | --- |
-| additionalLoyalty​ProgramMemberFields | Map<String, Object> | The details of the custom fields added in the loyalty program member object. |
-| associatedAccount | Codable | The details of the account record that is associated with the loyalty program member. |
-| associatedContact | Codable | The details of the contact record that is associated with the loyalty program member. |
-| canReceivePartnerPromotions | Boolean | Indicates whether the loyalty program member can receive partner promotions. |
-| canReceivePromotions | Boolean | Indicates whether the loyalty program member can receive promotions (true) or not (false). |
-| enrollmentChannel | String | The channel used by the member to enroll in the loyalty program. |
-| enrollmentDate | String | The date on which the member enrolled in the loyalty program. |
-| groupCreatedByMember | String | The membership number of the loyalty program member who created the group. |
-| groupName | String | The name of the loyalty program group to which the member belongs. |
-| lastActivityDate | String | The date on which the member performed their last activity. |
-| loyaltyProgram​MemberId | String | The ID of the loyalty program member. |
-| loyaltyProgramName | String | The name of the loyalty program. |
-| memberCurrencies | Codable | The currencies associated with the loyalty program member. |
-| memberStatus | String | The status of the loyalty program member. |
-| memberTiers | Codable | The tiers associated with the loyalty program member. |
-| memberType | String | The type of loyalty program member. |
-| membershipEndDate | String | The date on which the membership ends. |
-| membershipLast​RenewalDate | String | The date on which the loyalty program member last renewed their membership. |
-| membershipNumber | String | The membership number of the loyalty program member. |
-| referredBy | String | The membership number of the loyalty program member who referred the member to the loyalty program. |
-| relatedCorporate​MembershipNumber | String | The membership number of the Corporate type loyalty program member associate with the member. |
-| transactionJournal​StatementFrequency | String | The frequency at which transaction journal statements must be delivered to the member.Possible values are:MonthlyQuarterly |
-| transactionJournal​StatementLastGeneratedDate | String | The date on which the member's last transaction journal statement was generated. |
-| transactionJournal​StatementMethod | String | The method used to deliver transaction journal statements to the member. |
-
-.
+| Property Name | Type | Description | Filter Group and Version | Available Version |
+| --- | --- | --- | --- | --- |
+| additionalLoyalty​ProgramMemberFields | Map<String, Object> | The details of the custom fields added in the loyalty program member object. | Small, 55.0 | 55.0 |
+| associatedAccount | Member Account Output | The details of the account record that is associated with the loyalty program member. | Small, 55.0 | 55.0 |
+| associatedContact | Member Contact Output | The details of the contact record that is associated with the loyalty program member. | Small, 55.0 | 55.0 |
+| canReceivePartner​Promotions | Boolean | Indicates whether the loyalty program member can receive partner promotions. | Small, 55.0 | 55.0 |
+| canReceivePromotions | Boolean | Indicates whether the loyalty program member can receive promotions (true) or not (false). | Small, 55.0 | 55.0 |
+| enrollmentChannel | String | The channel used by the member to enroll in the loyalty program. | Small, 55.0 | 55.0 |
+| enrollmentDate | String | The date on which the member enrolled in the loyalty program. | Small, 55.0 | 55.0 |
+| groupCreatedByMember | String | The membership number of the loyalty program member who created the group. | Small, 55.0 | 55.0 |
+| groupName | String | The name of the loyalty program group to which the member belongs. | Small, 55.0 | 55.0 |
+| lastActivityDate | String | The date on which the member performed their last activity. | Small, 55.0 | 55.0 |
+| loyaltyProgram​MemberId | String | The ID of the loyalty program member. | Small, 55.0 | 55.0 |
+| loyaltyProgramName | String | The name of the loyalty program. | Small, 55.0 | 55.0 |
+| memberCurrencies | Member Currency Output[] | The currencies associated with the loyalty program member. | Small, 55.0 | 55.0 |
+| memberStatus | String | The status of the loyalty program member. | Small, 55.0 | 55.0 |
+| memberTiers | Member Tier Output[] | The tiers associated with the loyalty program member. | Small, 55.0 | 55.0 |
+| memberType | String | The type of loyalty program member. | Small, 55.0 | 55.0 |
+| membershipEndDate | String | The date on which the membership ends. | Small, 55.0 | 55.0 |
+| membershipLast​RenewalDate | String | The date on which the loyalty program member last renewed their membership. | Small, 55.0 | 55.0 |
+| membershipNumber | String | The membership number of the loyalty program member. | Small, 55.0 | 55.0 |
+| referredBy | String | The membership number of the loyalty program member who referred the member to the loyalty program. | Small, 55.0 | 55.0 |
+| relatedCorporate​MembershipNumber | String | The membership number of the Corporate type loyalty program member associate with the member. | Small, 55.0 | 55.0 |
+| transactionJournal​StatementFrequency | String | The frequency at which transaction journal statements must be delivered to the member.Possible values are:MonthlyQuarterly | Small, 55.0 | 55.0 |
+| transactionJournal​StatementLastGeneratedDate | String | The date on which the member's last transaction journal statement was generated. | Small, 55.0 | 55.0 |
+| transactionJournal​StatementMethod | String | The method used to deliver transaction journal statements to the member. | Small, 55.0 | 55.0 |
 
 ## Code Examples
 
@@ -109,3 +77,7 @@ https://yourInstance.salesforce.com/services/data/v66.0/loyalty-programs/${baLoy
 ## Related Topics
 
 - Member Profile Output (atlas.en-us.loyalty.meta/loyalty/connect_responses_member_profile_output.htm)
+- Member Account Output (atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_account_output.htm)
+- Member Contact Output (atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_contact_output.htm)
+- Member Currency Output (atlas.en-us.loyalty.meta/loyalty/connect_responses_member_currency_output.htm)
+- Member Tier Output (atlas.en-us.loyalty.meta/loyalty/connect_responses_member_tier_output.htm)

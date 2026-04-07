@@ -5,7 +5,7 @@ topic: accountfinancialsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.322Z
+lastCollected: 2026-04-07T09:03:48.389Z
 estimatedTokens: 2160
 keywords: [AccountFinancialSummary, summary, financial, associated, account, API, version, 62.0, later, Calls, Special, Access, Rules, Objects]
 ---

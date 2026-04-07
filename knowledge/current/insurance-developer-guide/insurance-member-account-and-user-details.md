@@ -5,7 +5,7 @@ topic: insurance-member-account-and-user-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.616Z
+lastCollected: 2026-04-07T09:04:03.329Z
 estimatedTokens: 182
 keywords: [Insurance, Member, Account, User, Output, representation, member's, person, portal, created]
 ---

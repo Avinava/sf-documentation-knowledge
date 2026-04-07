@@ -5,7 +5,7 @@ topic: connectapichattergroupsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:48.472Z
+lastCollected: 2026-04-07T09:02:21.398Z
 estimatedTokens: 168
 keywords: [ConnectApi.ChatterGroupSummary, Chatter, group, summary]
 ---

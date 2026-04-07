@@ -5,7 +5,7 @@ topic: set-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.047Z
+lastCollected: 2026-04-07T09:02:29.067Z
 estimatedTokens: 4316
 namespace: System
 keywords: [collection, unique, elements, duplicate, Usage, Set<T>, setToCopy, listToCopy, add, setElement, addAll, fromList, fromSet, clear, clone]

@@ -5,69 +5,78 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:25.147Z
-estimatedTokens: 1444
+lastCollected: 2026-04-07T09:03:42.675Z
+estimatedTokens: 1696
 keywords: [Bodies, Education, Cloud, Business, API, Fundraising]
 ---
 
 # Response Bodies
 
-> Learn more about the available Fundraising API response bodies.
+> Learn more about the available response bodies of Education Cloud Business
+    API.
 
 # Response Bodies
 
-Learn more about the available Fundraising API response bodies.
+Learn more about the available response bodies of Education Cloud Business API.
 
--   **[Commitment Payment Updates](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_commitment_payment_updates_output.htm)**
-    Output representation of the request to update the commitment payment for a fundraising commitment.
--   **[Commitment Payment Updates](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_commitment_payment_updates_respons.htm)**
-    Output representation of the updates for the commitment payment.
--   **[Commitment Payment Updates Response Link](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_commitment_payment_updates_response_link.htm)**
-    Output representation of the links to the response object for the commitment payment updates.
--   **[Create Commitment](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_commitment_output.htm)**
-    Output representation of the fundraising commitment request that contains the commitment ID and associated links.
--   **[Create Commitment Response Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_commitment_response_detail.htm)**
-    Output representation of the create commitment result with success status code, error, if any, and associated object links.
--   **[Create Commitment Response Link](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_commitment_response_link.htm)**
-    Output representation of the links to the response object.
--   **[Create Gift](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_gift_output.htm)**
-    Output representation of the details of the created gift transaction response.
--   **[Create Gift Response Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_gift_response_detail.htm)**
-    Output representation of the request details to create the gift.
--   **[Create Gift Response Link](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_gift_response_link.htm)**
-    Output representation of the links to the response object.
--   **[Error Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_error_detail.htm)**
-    Output representation of the errors encountered during an API request.
--   **[Gift Campaign Default Designations Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_campaign_default_designations_output.htm)**
-    Output representation of a list of default designations associated with a gift campaign record.
--   **[Gift Campaign Default Designation Record Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_campaign_default_designation_record_output.htm)**
-    Output representation of a default designation record associated with a gift campaign.
--   **[Gift Commitment Default Designations Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_commitment_default_designations_output.htm)**
-    Output representation of a list of default designations associated with a gift commitment.
--   **[Gift Commitment Default Designation Record Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_commitment_default_designation_record_output.htm)**
-    Output representation of a default designation record associated with a gift commitment.
--   **[Gift Commitment Transaction Matching Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_commitment_transaction_matching_output.htm)**
-    Output representation of a list of gift transactions.
--   **[Gift Transactions Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_transactions_output.htm)**
-    Output representation of the gift transactions associated with a gift commitment record.
--   **[Gift Transaction Linked Designations Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_transaction_linked_designations_output.htm)**
-    Output representation of a list of gift designations.
--   **[Gift Transaction Record Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_transaction_record_output.htm)**
-    Output representation of a gift transaction record.
--   **[Gift Designation Record Output](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_gift_designation_record_output.htm)**
-    Output representation of a gift designation record.
--   **[Link Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_link_detail.htm)**
-    Output representation of the link details for the response object.
--   **[Transaction Payment Updates](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_transaction_payment_updates_output.htm)**
-    Output representation of the transaction payment updates.
--   **[Transaction Payment Updates Response](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_transaction_payment_updates_respons.htm)**
-    Output representation of the updates for the transaction payment.
--   **[Transaction Payment Updates Response Link](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_transaction_payment_updates_response_link.htm)**
-    Output representation of the links to the response object for the transaction payment updates.
--   **[Update Commitment](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_update_commitment_output.htm)**
-    Output representation of the update commitment request that contains the status, errors if any, and the links to objects after you update a gift commitment.
--   **[Update Commitment Response Link](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_update_commitment_response_lin.htm)**
-    Output representation of the links to the response object for the commitment updates.
+-   **[Action Plan](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_action_pla.htm)**
+    Output representation of the action plan information related to individual hold result items.
+-   **[API Error Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_education_api_error_detail.htm)**
+    Output representation of the error details.
+-   **[Associated Rule](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_associated_rul.htm)**
+    Output representation of the rule evaluated to determine whether a hold is to be applied.
+-   **[Course Offering](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_output.htm)**
+    Output representation of the course offering.
+-   **[Course Offering Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_output_detail.htm)**
+    Output representation of each course offering submitted in a bulk request.
+-   **[Course Offering Error](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_schedule_error_output.htm)**
+    Output representation of the error of the course offering schedule.
+-   **[Course Offering Schedule](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_schedule_output.htm)**
+    Output representation of the course offering schedules to the course offering.
+-   **[Course Offering Schedule Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_schedule_output_detail.htm)**
+    Output representation that contains details about each course offering schedule. It includes the unique ID of the schedule, its success status, and any errors encountered.
+-   **[Custom Field](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_custom_field.htm)**
+    Output representation of a custom field.
+-   **[Get Learning](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_get_learning_output.htm)**
+    Output representation of the details of a learning object, including its core details, prerequisites, corequisites, recommended items, and learning outcomes.
+-   **[Hold Result Output Items](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_hold_result_output_item.htm)**
+    Output representation of the information related to individual hold result items.
+-   **[Hold Setup](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_hold_setup_output.htm)**
+    Output representation of the response details to create a hold setup.
+-   **[Hold Violation](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_hold_violation_output.htm)**
+    Output representation of the response details for a newly created hold violation.
+-   **[Hold Violation Result](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_hold_violation_result.htm)**
+    Output representation of the response details to retrieve hold violation information.
+-   **[Hold Violation Result Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_hold_violation_result_outpu.htm)**
+    Output representation of the information related to the list of hold result items.
+-   **[Learning](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_outpu.htm)**
+    Output representation of the details of an instructional object, which can be made available as a course, program, or an on-site experience for a contact.
+-   **[Learning Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_details.htm)**
+    Output representation of the detailed information about a specific learning item.
+-   **[Learning Equivalency Item](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_equivalency_output_item.htm)**
+    Output representation of a single learning equivalency with its source and target mappings.
+-   **[Learning Equivalency Result](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_equivalency_result.htm)**
+    Output representation of the response for learning equivalency.
+-   **[Learning Foundation Item](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_foundation_item_outpu.htm)**
+    Output representation of a foundation item associated with a learning object, such as a prerequisite, corequisite, or recommended item.
+-   **[Learning Fulfiller](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_fulfille.htm)**
+    Output representation of the types of fulfillment options for the learning foundation items.
+-   **[Learnings Mapping](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learnings_mapping.htm)**
+    The mappings between learnings within the group.
+-   **[Learning Outcome Item](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_outcome_item_outpu.htm)**
+    Output representation of the details of the learning outcome item.
+-   **[Learning Status](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_learning_statu.htm)**
+    Output representation of the details of the learner's status related to an academic course or a program.
+-   **[Manage Learning](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_learning_output.htm)**
+    Output representation of the result of creating a learning object. The result includes the success status, encountered errors, and IDs of the objects created or associated with the new learning record.
+-   **[Manage Learnings](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_create_learnings_output.htm)**
+    Output representation of the results of new learning objects, such as courses or programs.
+-   **[Mentoring Benefit Assignment](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_mentoring_benefit_assignment_output.htm)**
+    Output representation of the benefit assignment details along with the provider offering’s contact ID.
+-   **[Mentoring Benefit Assignment Details](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_mentoring_benefit_assignment_details.htm)**
+    Output representation of the benefit assignment record that’s updated with provider details.
+-   **[Task](atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_tas.htm)**
+    Output representation of the task information related to individual hold result items.
 
 ## Related Topics
 
@@ -79,5 +88,5 @@ Learn more about the available Fundraising API response bodies.
 - Course Offering Error (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_schedule_error_output.htm)
 - Course Offering Schedule (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_schedule_output.htm)
 - Course Offering Schedule Details (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_course_offering_schedule_output_detail.htm)
+- Custom Field (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_custom_field.htm)
 - Get Learning (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_get_learning_output.htm)
-- Hold Result Output Items (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_responses_hold_result_output_item.htm)

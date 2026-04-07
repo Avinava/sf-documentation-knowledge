@@ -5,7 +5,7 @@ topic: configuration-override-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.775Z
+lastCollected: 2026-04-07T09:01:58.079Z
 estimatedTokens: 406
 keywords: [Configuration, Override, Input, representation, Pricing, API]
 ---

@@ -5,7 +5,7 @@ topic: group-by-a-custom-fiscal-year
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.260Z
+lastCollected: 2026-04-07T09:03:13.797Z
 estimatedTokens: 59
 keywords: [Group, Custom, Fiscal, Year, Here’s, how]
 ---

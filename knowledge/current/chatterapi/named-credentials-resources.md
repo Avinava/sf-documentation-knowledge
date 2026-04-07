@@ -5,7 +5,7 @@ topic: named-credentials-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:15.880Z
+lastCollected: 2026-04-07T09:03:27.711Z
 estimatedTokens: 725
 keywords: [Named, Credentials, Resources, refresh, replace, credential, URL, OAuth, token, flow, external, auth, identity, providers]
 ---

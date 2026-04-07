@@ -5,7 +5,7 @@ topic: oci-get-inventory-availability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.254Z
+lastCollected: 2026-04-07T09:03:22.547Z
 estimatedTokens: 623
 keywords: [OCI, Inventory, Availability, Input, retrieve, Root, Tag, Choose, Location, Criteria, Product, SKU]
 ---

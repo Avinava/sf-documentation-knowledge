@@ -5,7 +5,7 @@ topic: create-and-manage-insurance-policies-without-using-salesforce-quoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.024Z
+lastCollected: 2026-04-07T09:04:04.035Z
 estimatedTokens: 813
 keywords: [Manage, Insurance, Policies, Salesforce, Quoting, how, Policy, APIs, invocable, actions, lifecycle, isn't, third-party, system, handles]
 ---

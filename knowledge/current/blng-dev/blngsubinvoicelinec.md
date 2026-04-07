@@ -5,7 +5,7 @@ topic: blngsubinvoicelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.761Z
+lastCollected: 2026-04-07T09:03:17.539Z
 estimatedTokens: 837
 keywords: [blng__SubInvoiceLine__c, detailed, line, item, invoice, breaks, down, provided, charges, services, blng, _SubInvoiceLine, Calls]
 ---

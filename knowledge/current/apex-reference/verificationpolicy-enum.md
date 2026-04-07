@@ -5,7 +5,7 @@ topic: verificationpolicy-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:52.534Z
+lastCollected: 2026-04-07T09:02:27.156Z
 estimatedTokens: 256
 keywords: [VerificationPolicy, Auth.VerificationPolicy, identity, verification, policy, Usage]
 ---

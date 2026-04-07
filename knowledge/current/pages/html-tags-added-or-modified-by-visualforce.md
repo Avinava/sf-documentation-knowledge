@@ -5,7 +5,7 @@ topic: html-tags-added-or-modified-by-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.669Z
+lastCollected: 2026-04-07T09:04:59.247Z
 estimatedTokens: 677
 keywords: [HTML, Tags, Added, Modified, Visualforce, automatically, adds, ensure, result, XML, document, relax, override, behavior]
 ---

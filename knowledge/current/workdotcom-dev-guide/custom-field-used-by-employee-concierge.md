@@ -5,7 +5,7 @@ topic: custom-field-used-by-employee-concierge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.516Z
+lastCollected: 2026-04-07T09:06:19.256Z
 estimatedTokens: 139
 keywords: [Custom, Employee, Concierge, package, includes, standard, Case, requires, Workspace, builds, person, account, record]
 ---

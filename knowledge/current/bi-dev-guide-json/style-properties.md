@@ -5,7 +5,7 @@ topic: style-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.247Z
+lastCollected: 2026-04-07T09:03:07.670Z
 estimatedTokens: 526
 keywords: [style, key, dashboard, cell, spacing, grid, well, dashboard’s, background, color, image]
 ---

@@ -5,7 +5,7 @@ topic: create-access-key-and-secret
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.192Z
+lastCollected: 2026-04-07T09:04:18.779Z
 estimatedTokens: 259
 keywords: [Access, Key, Secret, IAM, user, download, keys, secrets, authenticate, authorize, programmatic, AWS, resources]
 ---

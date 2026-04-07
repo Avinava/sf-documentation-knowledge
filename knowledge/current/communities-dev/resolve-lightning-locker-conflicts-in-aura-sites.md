@@ -5,7 +5,7 @@ topic: resolve-lightning-locker-conflicts-in-aura-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.495Z
+lastCollected: 2026-04-07T09:03:40.019Z
 estimatedTokens: 1795
 keywords: [Resolve, Lightning, Locker, Conflicts, Aura, Sites, enabled, new, Experience, Cloud, However, occasionally, third-party, component, custom]
 ---

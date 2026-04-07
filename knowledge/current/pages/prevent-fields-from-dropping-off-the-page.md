@@ -5,7 +5,7 @@ topic: prevent-fields-from-dropping-off-the-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.903Z
+lastCollected: 2026-04-07T09:04:56.713Z
 estimatedTokens: 194
 keywords: [Prevent, Dropping, Off, Visualforce, pages, especially, large, text, area, master-detail, relationships, entities, fail, display, every]
 ---

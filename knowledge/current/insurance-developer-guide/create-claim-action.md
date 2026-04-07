@@ -5,8 +5,8 @@ topic: create-claim-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.508Z
-estimatedTokens: 169
+lastCollected: 2026-04-07T09:03:59.934Z
+estimatedTokens: 168
 keywords: [Claim, Action, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -24,7 +24,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/createClaim
+/services/data/v/actions/standard/createClaim
 
 Formats
 

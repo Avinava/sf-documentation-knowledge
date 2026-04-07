@@ -5,7 +5,7 @@ topic: improve-contact-lens-transcription-accuracy-with-a-custom-vocabulary
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.469Z
+lastCollected: 2026-04-07T09:06:17.638Z
 estimatedTokens: 576
 keywords: [Improve, Contact, Lens, Transcription, Accuracy, Custom, Vocabulary, Add, vocabularies, transcribe, domain, specific, terminology, correctly, fix]
 ---

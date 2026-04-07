@@ -5,7 +5,7 @@ topic: deletearchivedarticleversionarticleid-versionnumber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.401Z
+lastCollected: 2026-04-07T09:04:04.482Z
 estimatedTokens: 86
 keywords: [deleteArchivedArticleVersion, articleId, versionNumber, Deletes, specific, archived, version, published, article]
 ---

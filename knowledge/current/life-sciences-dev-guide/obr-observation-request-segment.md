@@ -5,7 +5,7 @@ topic: obr---observation-request-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.620Z
+lastCollected: 2026-04-07T09:04:08.961Z
 estimatedTokens: 583
 keywords: [OBR, Observation, Segment, HL7, maps, primarily, ClinicalServiceRequest, DiagnosticSummary, PatientMEdicalProcedure, objects, Salesforce, V2.3, Clinical, Data, Model]
 ---

@@ -5,7 +5,7 @@ topic: create-custom-component-for-guest-user-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.182Z
+lastCollected: 2026-04-07T09:04:12.992Z
 estimatedTokens: 402
 keywords: [Custom, Component, Guest, User, Flows, Allow, Experience, Cloud, users, provide, alternative, registration, screens, complex, decision]
 ---

@@ -5,7 +5,7 @@ topic: product-catalog-management-fields-on-product-selling-model-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:23.328Z
+lastCollected: 2026-04-07T09:02:02.770Z
 estimatedTokens: 211
 keywords: [Product, Catalog, Management, Selling, Model, Option, Standard, custom, extend, API, version, 60.0, later]
 ---

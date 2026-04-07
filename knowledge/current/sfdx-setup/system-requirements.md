@@ -5,7 +5,7 @@ topic: system-requirements
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:19.225Z
+lastCollected: 2026-04-07T09:06:14.416Z
 estimatedTokens: 564
 keywords: [System, Requirements, Review, Salesforce, CLI, developer, tools, Operating, Systems, Code, Editor, IDE, API, Enabled, Permission]
 ---

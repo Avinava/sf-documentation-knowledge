@@ -8,7 +8,7 @@ topic: develop-secure-sites-csp-lws-and-lightning-locker
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.501Z
+lastCollected: 2026-04-07T09:03:40.031Z
 estimatedTokens: 1513
 keywords: [Develop, Secure, Sites, CSP, LWS, Lightning, Locker, Aura, LWR, Experience, Cloud, Content, Security, Policy, either]
 ---

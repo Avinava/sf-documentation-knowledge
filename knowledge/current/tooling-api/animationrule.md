@@ -5,7 +5,7 @@ topic: animationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.677Z
+lastCollected: 2026-04-07T09:02:46.231Z
 estimatedTokens: 868
 keywords: [AnimationRule, criteria, determining, animation, Path, users, API, version, 46.0, later, SOAP, Calls, REST, HTTP]
 ---

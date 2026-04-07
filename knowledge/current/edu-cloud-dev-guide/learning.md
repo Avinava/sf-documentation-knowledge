@@ -5,7 +5,7 @@ topic: learning
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.093Z
+lastCollected: 2026-04-07T09:03:42.574Z
 estimatedTokens: 428
 keywords: [Learning, Output, representation, instructional, made, course, program, on-site, experience, contact, training, API, version, 57.0, later, Calls, Associated, Objects]
 ---

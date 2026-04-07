@@ -5,7 +5,7 @@ topic: cgcloudproductassortmenttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.444Z
+lastCollected: 2026-04-07T09:05:20.974Z
 estimatedTokens: 1565
 keywords: [cgcloud__Product_Assortment_Template__c, Template, product, assortments, behavior, instances, business, partner, AccountMultiplicity, dependent, sales, organization, API, version, 54.0]
 ---

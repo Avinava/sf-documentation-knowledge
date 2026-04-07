@@ -5,7 +5,7 @@ topic: getprimarytabids
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.411Z
+lastCollected: 2026-04-07T09:03:03.299Z
 estimatedTokens: 195
 keywords: [getPrimaryTabIds, IDs, open, primary, tabs, API, version, 26.0, later, Arguments, Sample, Code–Visualforce]
 ---

@@ -5,7 +5,7 @@ topic: extract-dependency-information-from-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.779Z
+lastCollected: 2026-04-07T09:06:13.808Z
 estimatedTokens: 285
 keywords: [Extract, Dependency, Unlocked, Packages, installed, package, now, run, simple, SOQL, query, script, automate, installation, dependencies]
 ---

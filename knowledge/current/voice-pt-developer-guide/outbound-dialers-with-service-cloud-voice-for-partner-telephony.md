@@ -5,7 +5,7 @@ topic: outbound-dialers-with-service-cloud-voice-for-partner-telephony
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.922Z
+lastCollected: 2026-04-07T09:06:18.343Z
 estimatedTokens: 364
 keywords: [Outbound, Dialers, Service, Cloud, Voice, Partner, Telephony, preview, dialer, progressive, Push]
 ---

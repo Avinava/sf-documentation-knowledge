@@ -5,7 +5,7 @@ topic: einsteingptsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:05.982Z
+lastCollected: 2026-04-07T09:02:39.755Z
 estimatedTokens: 626
 keywords: [EinsteinGptSettings, settings, Einstein, Generative, features, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---

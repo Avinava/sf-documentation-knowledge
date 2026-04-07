@@ -5,8 +5,8 @@ topic: partnerfundclaim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.300Z
-estimatedTokens: 874
+lastCollected: 2026-04-07T09:04:46.152Z
+estimatedTokens: 867
 keywords: [PartnerFundClaim, claim, funds, partner, marketing, budget, channel, API, version, 41.0, later, Calls, Associated, Objects]
 ---
 
@@ -33,8 +33,8 @@ create()delete()describeLayout()describeSObjects()getDeleted()getUpdated()query(
 | BudgetId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionID of the partner marketing budget. |
 | ChannelPartnerId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionID of the channel partner. |
 | Description | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDescription of the fund claim. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionID of the owner of the fund claim. |
 | RequestId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionID of the partner fund request. |
 | Status | TypepicklistPropertiesCreate, Filter, Group, Nillable Restricted picklist, Sort, UpdateDescriptionStatus of the fund claim. Values are:DraftApprovedRejectedPaid |

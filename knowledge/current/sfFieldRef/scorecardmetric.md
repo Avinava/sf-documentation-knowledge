@@ -5,7 +5,7 @@ topic: scorecardmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.116Z
+lastCollected: 2026-04-07T09:06:06.247Z
 estimatedTokens: 360
 keywords: [ScorecardMetric, Stores, Salesforce, report, run, summarized, stored, added, metric, Scorecard, API, version, 40.0, later]
 ---

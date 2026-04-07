@@ -5,7 +5,7 @@ topic: workorderdiagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.361Z
+lastCollected: 2026-04-07T09:04:24.369Z
 estimatedTokens: 260
 keywords: [WorkOrderDiagnosis, diagnosis, Work, Order, user, records, depot, repair, Calls]
 ---

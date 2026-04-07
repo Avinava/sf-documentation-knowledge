@@ -5,7 +5,7 @@ topic: smart-data-discovery-h20-model-runtime-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.203Z
+lastCollected: 2026-04-07T09:03:12.201Z
 estimatedTokens: 94
 keywords: [Smart, Data, Discovery, H20, Model, Runtime, Input, identify]
 ---

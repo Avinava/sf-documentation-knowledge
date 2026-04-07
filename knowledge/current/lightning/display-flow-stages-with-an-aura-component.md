@@ -5,7 +5,7 @@ topic: display-flow-stages-with-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.428Z
+lastCollected: 2026-04-07T09:04:13.331Z
 estimatedTokens: 608
 keywords: [Display, Flow, Stages, Aura, Component, you’ve, added, users, lightning, progressindicator]
 ---

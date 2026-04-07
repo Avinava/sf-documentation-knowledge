@@ -5,7 +5,7 @@ topic: ocrdocumentscanresultslist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.540Z
+lastCollected: 2026-04-07T09:05:07.285Z
 estimatedTokens: 392
 keywords: [OcrDocumentScanResultsList, output, Initiate, Text, Extraction, invocable, action, ocrDocumentScanResults]
 ---

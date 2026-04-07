@@ -5,7 +5,7 @@ topic: tenantsecurityguestuseranomaly
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.932Z
+lastCollected: 2026-04-07T09:04:50.656Z
 estimatedTokens: 1392
 keywords: [TenantSecurityGuestUserAnomaly, metric, guest, user, anomaly, events, detected, Threat, Detection, API, version, 60.0, later, Calls, Special]
 ---

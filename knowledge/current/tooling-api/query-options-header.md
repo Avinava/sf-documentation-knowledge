@@ -5,7 +5,7 @@ topic: query-options-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:43.206Z
+lastCollected: 2026-04-07T09:02:45.833Z
 estimatedTokens: 187
 keywords: [Query, Options, results, batch, size, resource]
 ---

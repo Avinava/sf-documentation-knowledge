@@ -5,7 +5,7 @@ topic: searchcriteriaconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:47.813Z
+lastCollected: 2026-04-07T09:04:12.439Z
 estimatedTokens: 1330
 keywords: [SearchCriteriaConfiguration, configuration, searchable, group, basis, search, aggregation, sort, result, display, API, version, 58.0, later, SOAP]
 ---

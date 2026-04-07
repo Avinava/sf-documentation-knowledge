@@ -5,7 +5,7 @@ topic: procedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.380Z
+lastCollected: 2026-04-07T09:04:08.682Z
 estimatedTokens: 3134
 keywords: [​Procedure, procedure, FHIR, resource, maps, Patient​Medical​​Procedure, Patient​Medical​​Procedure​Detail, objects, Salesforce​, V4​.0, Clinical​, Data, Model, Mapping, Sample]
 ---

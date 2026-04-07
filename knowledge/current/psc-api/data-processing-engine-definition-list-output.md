@@ -5,7 +5,7 @@ topic: data-processing-engine-definition-list-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.912Z
+lastCollected: 2026-04-07T09:05:09.397Z
 estimatedTokens: 183
 keywords: [Data, Processing, Engine, Definition, Output, representation, Record, Aggregation, generation]
 ---

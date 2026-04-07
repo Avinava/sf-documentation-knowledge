@@ -5,7 +5,7 @@ topic: deferred-creation-of-dynamic-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.438Z
+lastCollected: 2026-04-07T09:04:58.905Z
 estimatedTokens: 734
 keywords: [Deferred, Creation, Dynamic, Components, Apex, component, executed, load, time, any, action, that’s, defined, run, invokeAfterAction]
 ---

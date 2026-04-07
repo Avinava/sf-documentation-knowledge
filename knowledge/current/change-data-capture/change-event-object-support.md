@@ -5,7 +5,7 @@ topic: change-event-object-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.639Z
+lastCollected: 2026-04-07T09:03:18.635Z
 estimatedTokens: 363
 keywords: [Change, Event, Support, events, custom, objects, defined, Salesforce, org, subset, standard]
 ---

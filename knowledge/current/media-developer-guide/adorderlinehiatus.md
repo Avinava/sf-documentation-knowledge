@@ -5,7 +5,7 @@ topic: adorderlinehiatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.527Z
+lastCollected: 2026-04-07T09:04:21.812Z
 estimatedTokens: 613
 keywords: [AdOrderLineHiatus, hiatus, media, placement, order, line, API, version, 60.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: knowledgearticleeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.457Z
+lastCollected: 2026-04-07T09:04:42.800Z
 estimatedTokens: 743
 keywords: [KnowledgeArticleEventLog, Knowledge, Article, View, event, logs, contain, user, activity, base, API, version, 61.0, later, Calls]
 ---

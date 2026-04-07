@@ -5,7 +5,7 @@ topic: config-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:10.260Z
+lastCollected: 2026-04-07T09:01:54.186Z
 estimatedTokens: 1511
 keywords: [config, Commands, configuration, variable, Examples, Flags, Aliases, unset]
 ---

@@ -5,7 +5,7 @@ topic: abstract-smart-data-discovery-field-mapping-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.571Z
+lastCollected: 2026-04-07T09:03:12.748Z
 estimatedTokens: 241
 keywords: [Abstract, Smart, Data, Discovery, Mapping, Source, base, Einstein]
 ---

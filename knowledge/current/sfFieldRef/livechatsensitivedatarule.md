@@ -5,7 +5,7 @@ topic: livechatsensitivedatarule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.516Z
+lastCollected: 2026-04-07T09:05:51.934Z
 estimatedTokens: 450
 namespace: NamespacePrefix
 keywords: [LiveChatSensitiveDataRule, rule, masking, deleting, data, pattern, Written, regular, expression, regex, API, version, 35.0, later]

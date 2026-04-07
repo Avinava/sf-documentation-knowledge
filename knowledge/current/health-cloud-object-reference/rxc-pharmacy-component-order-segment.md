@@ -5,7 +5,7 @@ topic: rxc---pharmacy-component-order-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.686Z
+lastCollected: 2026-04-07T09:03:56.486Z
 estimatedTokens: 171
 keywords: [RXC, Pharmacy, Component, Order, Segment, HL7, maps, Medication, MedicationRequestobjects, Salesforce, V2.3, Clinical, Data, Model, Mapping]
 ---

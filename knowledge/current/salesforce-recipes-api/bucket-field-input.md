@@ -5,7 +5,7 @@ topic: bucket-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.153Z
+lastCollected: 2026-04-07T09:05:24.464Z
 estimatedTokens: 326
 keywords: [Bucket, Input, node, recipe]
 ---

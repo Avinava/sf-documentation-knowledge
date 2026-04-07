@@ -5,7 +5,7 @@ topic: connectapifeedelement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:51.501Z
+lastCollected: 2026-04-07T09:02:23.771Z
 estimatedTokens: 860
 keywords: [ConnectApi.FeedElement, Feed, elements, top-level, items, Feeds, element, containers]
 ---

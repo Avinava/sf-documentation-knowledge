@@ -5,7 +5,7 @@ topic: intelligent-form-reader-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.910Z
+lastCollected: 2026-04-07T09:02:55.562Z
 estimatedTokens: 598
 keywords: [Intelligent, Form, Reader, Business, APIs, mapping, extracted, text, stored, Salesforce, uses, optical, character, recognition, automatically]
 ---

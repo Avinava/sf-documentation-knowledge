@@ -5,7 +5,7 @@ topic: pointsinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.677Z
+lastCollected: 2026-04-07T09:04:16.702Z
 estimatedTokens: 2235
 namespace: LoyaltyManagement
 keywords: [PointsInputBuilder, build, instance, LoyaltyManagement.PointsInput, setAdditionalNotes, additionalNotes, setCorrelationId, correlationId, setFlowId, flowId, setJournalId, journalId, setLoyaltyProgramMemberId, loyaltyProgramMemberId, setPoints]

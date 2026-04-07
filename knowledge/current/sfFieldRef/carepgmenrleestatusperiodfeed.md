@@ -5,7 +5,7 @@ topic: carepgmenrleestatusperiodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.568Z
+lastCollected: 2026-04-07T09:05:37.595Z
 estimatedTokens: 393
 keywords: [CarePgmEnrleeStatusPeriodFeed, Feed, tracking, CarePgmEnrleeStatusPeriod]
 ---

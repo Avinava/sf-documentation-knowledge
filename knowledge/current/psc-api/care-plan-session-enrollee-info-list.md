@@ -5,7 +5,7 @@ topic: care-plan-session-enrollee-info-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.747Z
+lastCollected: 2026-04-07T09:05:09.125Z
 estimatedTokens: 84
 keywords: [Care, Plan, Session, Enrollee, Info, Output, representation, benefit, enrollees]
 ---

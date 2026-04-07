@@ -5,7 +5,7 @@ topic: getting-started-with-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.430Z
+lastCollected: 2026-04-07T09:03:07.911Z
 estimatedTokens: 470
 keywords: [Getting, Started, Lightning, Web, Components, continuing, recommend, familiarize, yourself]
 ---

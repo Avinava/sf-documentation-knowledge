@@ -5,7 +5,7 @@ topic: connect-your-orgs-solutions-and-trials-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.415Z
+lastCollected: 2026-04-07T09:04:54.146Z
 estimatedTokens: 448
 keywords: [Connect, Orgs, Solutions, Trials, AppExchange, Partner, Console, listing, Salesforce, run, business, plan]
 ---

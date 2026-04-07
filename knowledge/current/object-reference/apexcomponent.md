@@ -5,7 +5,7 @@ topic: apexcomponent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:04.433Z
+lastCollected: 2026-04-07T09:04:34.491Z
 estimatedTokens: 1110
 keywords: [ApexComponent, definition, custom, component, Visualforce, alongside, standard, components, <apex, relatedList>, dataTable>, Calls, Usage]
 ---

@@ -5,7 +5,7 @@ topic: careprogramteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.464Z
+lastCollected: 2026-04-07T09:03:57.487Z
 estimatedTokens: 985
 keywords: [CareProgramTeamMember, person, delivers, services, under, program, manager, care, coordinator, Calls, Associated, Objects]
 ---
@@ -30,7 +30,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(),  getUpd
 | CareProgramId | TypeMaster-Detail(CareProgram)PropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionLookup for the care program. |
 | Category | TypemultipicklistPropertiesCreate, Filter, Nillable, UpdateDescriptionSpecifies the category that the member belongs to. This field is available for the Participant Management feature in API version 61.0 and later. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | MemberId | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe team member associated with the care program team member. This field is available for the Participant Management feature in API version 61.0 and later. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the care program team member. |
 | Role | TypePicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionRole of the team member. |

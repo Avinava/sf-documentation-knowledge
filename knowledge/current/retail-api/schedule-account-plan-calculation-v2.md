@@ -5,7 +5,7 @@ topic: schedule-account-plan-calculation-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:36.861Z
+lastCollected: 2026-04-07T09:05:17.577Z
 estimatedTokens: 194
 keywords: [Schedule, Account, Plan, Calculation, Schedules, plans]
 ---

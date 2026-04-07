@@ -5,7 +5,7 @@ topic: introduction-to-salesforce-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.564Z
+lastCollected: 2026-04-07T09:05:26.796Z
 estimatedTokens: 473
 keywords: [Introduction, Salesforce, Scheduler, formerly, known, Lightning, gives, tools, developer, resources, simplify, appointment, scheduling, personalized, experience]
 ---

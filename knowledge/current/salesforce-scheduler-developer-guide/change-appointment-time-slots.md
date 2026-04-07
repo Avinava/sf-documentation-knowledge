@@ -5,7 +5,7 @@ topic: change-appointment-time-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.155Z
+lastCollected: 2026-04-07T09:05:27.634Z
 estimatedTokens: 574
 keywords: [Change, Appointment, Time, Slots, slot, period, day, place, multi-resource, service, modified, show, alternative, tome, assigned]
 ---

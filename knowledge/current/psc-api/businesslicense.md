@@ -5,7 +5,7 @@ topic: businesslicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.695Z
+lastCollected: 2026-04-07T09:05:14.744Z
 estimatedTokens: 1784
 keywords: [BusinessLicense, authorization, issued, regulatory, agency, granted, organization, contact, specific, user, Calls, Associated, Objects]
 ---

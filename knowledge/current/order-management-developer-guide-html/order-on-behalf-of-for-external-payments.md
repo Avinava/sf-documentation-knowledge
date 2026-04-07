@@ -5,7 +5,7 @@ topic: order-on-behalf-of-for-external-payments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.145Z
+lastCollected: 2026-04-07T09:04:53.637Z
 estimatedTokens: 330
 keywords: [Order, Behalf, External, Payments, support, payment, flows, non-tokenized, configure, Mode, flow, bypasses, tokenized, calls, Authorize]
 ---

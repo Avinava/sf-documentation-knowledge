@@ -5,7 +5,7 @@ topic: adverseevententryfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.744Z
+lastCollected: 2026-04-07T09:05:31.336Z
 estimatedTokens: 389
 keywords: [AdverseEventEntryFeed, Feed, tracking, AdverseEventEntry]
 ---

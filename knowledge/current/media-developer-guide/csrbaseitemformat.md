@@ -5,7 +5,7 @@ topic: csrbaseitemformat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.990Z
+lastCollected: 2026-04-07T09:04:20.974Z
 estimatedTokens: 115
 keywords: [CSRBaseItemFormat, Omnistudio, Data, Mapper, transforms, getCartItem, gives, items, cart, Sample, Input, Output]
 ---

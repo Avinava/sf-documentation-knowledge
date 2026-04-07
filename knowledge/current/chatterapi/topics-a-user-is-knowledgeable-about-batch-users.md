@@ -5,7 +5,7 @@ topic: topics-a-user-is-knowledgeable-about-batch-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.922Z
+lastCollected: 2026-04-07T09:03:29.270Z
 estimatedTokens: 107
 keywords: [Topics, User, Knowledgeable, Batch, Users, top, five]
 ---

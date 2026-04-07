@@ -5,7 +5,7 @@ topic: xmd-dimension-custom-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:04.870Z
+lastCollected: 2026-04-07T09:03:11.637Z
 estimatedTokens: 156
 keywords: [Xmd, Dimension, Custom, Action, extended, metadata, Analytics, dataset]
 ---

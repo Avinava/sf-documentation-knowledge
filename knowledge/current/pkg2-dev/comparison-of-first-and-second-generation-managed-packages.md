@@ -5,7 +5,7 @@ topic: comparison-of-first--and-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.991Z
+lastCollected: 2026-04-07T09:05:03.737Z
 estimatedTokens: 706
 keywords: [Comparison, First-, Second-Generation, Managed, Packages, you’re, familiar, first-generation, 1GP, wonder, how, it’s, different, 2GP, key]
 ---

@@ -5,7 +5,7 @@ topic: rebate-management-object-in-channel-partner-inventory-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.116Z
+lastCollected: 2026-04-07T09:03:19.401Z
 estimatedTokens: 172
 keywords: [Rebate, Management, Channel, Partner, Inventory, Tracking, access, standard, objects, transactions, processed, program]
 ---

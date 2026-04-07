@@ -5,7 +5,7 @@ topic: troubleshoot-subscriber-issues
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.441Z
+lastCollected: 2026-04-07T09:05:01.644Z
 estimatedTokens: 354
 keywords: [Troubleshoot, Subscriber, Issues, Support, Console, access, subscribers, grant, login, directly, app, you’re, granted, log, subscriber’s]
 ---

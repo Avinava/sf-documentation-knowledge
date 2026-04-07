@@ -5,7 +5,7 @@ topic: setcustomconsolecomponentpopoutable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.758Z
+lastCollected: 2026-04-07T09:03:04.605Z
 estimatedTokens: 237
 keywords: [setCustomConsoleComponentPopoutable, custom, console, component, popped, browser, multi-monitor, components, turned, API, version, 30.0, later, Arguments, Sample]
 ---

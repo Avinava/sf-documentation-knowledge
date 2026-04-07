@@ -5,7 +5,7 @@ topic: policy-limits-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.124Z
+lastCollected: 2026-04-07T09:04:02.559Z
 estimatedTokens: 275
 keywords: [Policy, Limits, POST, insurance, limit, records, defined, product, attributes, coverages]
 ---
@@ -70,7 +70,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/policies/0YTx0000000001qEAA/generate-limits
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/policies/0YTx0000000001qEAA/generate-limits
 ```
 
 ```

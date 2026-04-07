@@ -5,7 +5,7 @@ topic: available-territory-slots-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.402Z
+lastCollected: 2026-04-07T09:05:26.528Z
 estimatedTokens: 94
 keywords: [Territory, Slots, Output, result]
 ---

@@ -5,7 +5,7 @@ topic: videocallparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.176Z
+lastCollected: 2026-04-07T09:04:08.433Z
 estimatedTokens: 1082
 keywords: [VideoCallParticipant, Standard, custom, extend, represent, participant, video, call, come, provider, Zoom, Salesforce, API, version, 65.0]
 ---

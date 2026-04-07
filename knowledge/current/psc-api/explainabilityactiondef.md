@@ -5,7 +5,7 @@ topic: explainabilityactiondef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:35.315Z
+lastCollected: 2026-04-07T09:05:15.459Z
 estimatedTokens: 1025
 keywords: [ExplainabilityActionDef, explainability, definition, action, log, that's, generated, associated, application's, API, version, 54.0, later, SOAP, Calls]
 ---

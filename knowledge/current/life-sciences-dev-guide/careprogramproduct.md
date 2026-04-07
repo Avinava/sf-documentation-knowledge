@@ -5,7 +5,7 @@ topic: careprogramproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.419Z
+lastCollected: 2026-04-07T09:04:09.882Z
 estimatedTokens: 1204
 keywords: [CareProgramProduct, affiliation, care, program, product, provider, Calls, Associated, Objects]
 ---
@@ -31,7 +31,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CareProgramId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIdentifier for the care program associated with a care program product. |
 | CareProgramPrice | TypecurrencyPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionA standard list price for a given product in the context of a care program. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Group, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the care program product. |
 | OwnerId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | ProductId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIdentifier of the product associated with a care program |

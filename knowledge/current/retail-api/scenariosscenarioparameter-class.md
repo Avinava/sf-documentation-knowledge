@@ -5,7 +5,7 @@ topic: scenariosscenarioparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.582Z
+lastCollected: 2026-04-07T09:05:17.187Z
 estimatedTokens: 809
 keywords: [Scenarios.ScenarioParameter, APEX, programmatic, access, scenario, contained, TPM_Scenarios, instance, TPM, _Scenarios, isApplied, API, Version, Decimal, getValue]
 ---
@@ -34,15 +34,15 @@ The following are methods for TPM\_Scenarios.ScenarioParameter.
 
 -   **[global Boolean isApplied](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#global_scenario_parameter)**
     Returns the scenario parameter applied flag. If applied, UI will not re-apply the value when loading the scenario information. If not applied, when loading the scenario, UI will apply the value of the parameter to the total of the KPI) .
--   **[global Decimal getValue](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_340836871)**
+-   **[global Decimal getValue](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_673120693)**
     Returns the KPI Value of the Scenario Parameter.
--   **[global ScenarioParameter setKPIName](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_472008222)**
+-   **[global ScenarioParameter setKPIName](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_761683608)**
     Sets the scenario parameter KPI Name.
--   **[global ScenarioParameter setApplied](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_518099745)**
+-   **[global ScenarioParameter setApplied](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_971859650)**
     Sets the scenario parameter applied flag. If applied, UI will not re-apply the value when loading the scenario information. If not applied, when loading the scenario, UI will apply the value of the parameter to the total of the KPI) .
--   **[global ScenarioParameter setValue](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_1844488747)**
+-   **[global ScenarioParameter setValue](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_42646381)**
     Sets the scenario parameter KPI value.
--   **[global String getKPIName](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_6897232)**
+-   **[global String getKPIName](atlas.en-us.retail_api.meta/retail_api/TPM_Scenarios.ScenarioParameter.htm#unique_889252956)**
     Returns the KPI Name of the Scenario Parameter.
 
 ### global Boolean isApplied

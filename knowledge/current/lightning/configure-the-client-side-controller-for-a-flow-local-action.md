@@ -5,7 +5,7 @@ topic: configure-the-client-side-controller-for-a-flow-local-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.174Z
+lastCollected: 2026-04-07T09:04:12.980Z
 estimatedTokens: 553
 keywords: [Configure, Client-Side, Controller, Flow, Local, Action, component, executed, calls, invoke, run, code, asynchronously, you're, making]
 ---

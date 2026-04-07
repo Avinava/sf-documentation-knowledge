@@ -5,7 +5,7 @@ topic: multiorgcontactlensconsumerfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.786Z
+lastCollected: 2026-04-07T09:06:18.132Z
 estimatedTokens: 183
 keywords: [MultiorgContactLensConsumerFunction, Lambda, Function, real-time, transcripts, intelligence, signals, generated, Contact, Lens, Amazon, Connect, ContactLensProcessorFunction]
 ---

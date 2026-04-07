@@ -5,7 +5,7 @@ topic: forecastingcustomcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.493Z
+lastCollected: 2026-04-07T09:05:46.528Z
 estimatedTokens: 512
 keywords: [ForecastingCustomCategory, custom, forecasting, category, forecast, rollups, API, version, 62.0, later]
 ---

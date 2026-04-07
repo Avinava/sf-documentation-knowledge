@@ -5,7 +5,7 @@ topic: iframewhitelisturl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.163Z
+lastCollected: 2026-04-07T09:04:42.474Z
 estimatedTokens: 488
 keywords: [IframeWhiteListUrl, trusted, external, domains, allow, frame, Embedded, Service, Surveys, Visualforce, pages, API, version, 45.0, later]
 ---

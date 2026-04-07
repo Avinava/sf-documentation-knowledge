@@ -5,7 +5,7 @@ topic: vendorproject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.735Z
+lastCollected: 2026-04-07T09:03:51.147Z
 estimatedTokens: 752
 keywords: [VendorProject, vendor's, proejct, loan, applied, API, version, 61.0, later, Calls]
 ---

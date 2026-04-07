@@ -5,7 +5,7 @@ topic: dashboard-component-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.169Z
+lastCollected: 2026-04-07T09:03:31.125Z
 estimatedTokens: 484
 keywords: [Dashboard, Component, Snapshot, snapshots, alerts, receive, crosses, threshold]
 ---

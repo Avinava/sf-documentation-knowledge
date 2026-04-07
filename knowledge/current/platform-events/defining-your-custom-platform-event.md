@@ -5,7 +5,7 @@ topic: defining-your-custom-platform-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.752Z
+lastCollected: 2026-04-07T09:05:05.005Z
 estimatedTokens: 275
 keywords: [Defining, Custom, Platform, Event, Define, add]
 ---

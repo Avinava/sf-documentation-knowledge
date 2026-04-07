@@ -5,7 +5,7 @@ topic: processexception
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.171Z
+lastCollected: 2026-04-07T09:04:47.107Z
 estimatedTokens: 1956
 keywords: [ProcessException, business, exception, processing, failure, order, summary, separate, process, resolve, caused, continue, API, version, 50.0]
 ---

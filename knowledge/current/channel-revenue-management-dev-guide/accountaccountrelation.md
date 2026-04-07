@@ -5,7 +5,7 @@ topic: accountaccountrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.249Z
+lastCollected: 2026-04-07T09:03:19.560Z
 estimatedTokens: 735
 keywords: [AccountAccountRelation, relationship, accounts, distributor, account, ship-to, API, version, 58.0, later, Calls]
 ---

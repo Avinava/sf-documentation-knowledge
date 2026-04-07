@@ -5,7 +5,7 @@ topic: courseofrptcpactvtygrd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.124Z
+lastCollected: 2026-04-07T09:03:43.925Z
 estimatedTokens: 1483
 keywords: [CourseOfrPtcpActvtyGrd, https, gus.lightning.force.com, lightning, MDS_Entity__c, a7BEE000000QYE92AO, view, API, version, 65.0, later, Calls, Associated, Objects]
 ---

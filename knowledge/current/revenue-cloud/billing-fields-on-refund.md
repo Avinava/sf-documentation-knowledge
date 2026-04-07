@@ -5,7 +5,7 @@ topic: billing-fields-on-refund
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.372Z
+lastCollected: 2026-04-07T09:01:57.243Z
 estimatedTokens: 719
 keywords: [Billing, Refund, Standard, extend, represent, corporate, currency, transaction, amounts, accounting, periods, legal, entities, API, version]
 ---

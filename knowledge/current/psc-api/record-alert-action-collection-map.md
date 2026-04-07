@@ -5,7 +5,7 @@ topic: record-alert-action-collection-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.161Z
+lastCollected: 2026-04-07T09:05:09.788Z
 estimatedTokens: 126
 keywords: [Record, Alert, Action, Collection, Map, Output, representation, bulk, actions]
 ---

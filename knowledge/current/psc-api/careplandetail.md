@@ -5,7 +5,7 @@ topic: careplandetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.730Z
+lastCollected: 2026-04-07T09:05:14.787Z
 estimatedTokens: 1124
 keywords: [CarePlanDetail, additional, associated, care, plan, record, may, things, addressed, contributors, supporting, API, version, 61.0, later]
 ---

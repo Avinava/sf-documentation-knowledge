@@ -5,7 +5,7 @@ topic: dynamic-revenue-orchestrator-additional-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:22.337Z
+lastCollected: 2026-04-07T09:02:02.103Z
 estimatedTokens: 2408
 keywords: [Dynamic, Revenue, Orchestrator, Additional, know, deployment, DRO, Cloud, including, active, inactive, states, migration, considerations, Object-Specific]
 ---

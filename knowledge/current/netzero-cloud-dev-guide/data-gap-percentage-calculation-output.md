@@ -5,7 +5,7 @@ topic: data-gap-percentage-calculation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.946Z
+lastCollected: 2026-04-07T09:04:26.621Z
 estimatedTokens: 84
 keywords: [Data, Gap, Percentage, Calculation, Output, representation]
 ---

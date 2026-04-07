@@ -5,7 +5,7 @@ topic: paymentschedulepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.656Z
+lastCollected: 2026-04-07T09:04:46.509Z
 estimatedTokens: 715
 keywords: [PaymentSchedulePolicy, configuration, payment, schedule, policy, API, version, 56.0, later, Calls, Special, Access, Rules]
 ---

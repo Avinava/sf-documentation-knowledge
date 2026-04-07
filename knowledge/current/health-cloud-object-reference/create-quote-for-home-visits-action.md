@@ -5,7 +5,7 @@ topic: create-quote-for-home-visits-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.073Z
+lastCollected: 2026-04-07T09:03:51.574Z
 estimatedTokens: 705
 keywords: [Quote, Home, Visits, Action, patient, visit, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---

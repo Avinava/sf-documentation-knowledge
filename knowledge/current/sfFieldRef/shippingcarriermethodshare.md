@@ -5,7 +5,7 @@ topic: shippingcarriermethodshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:14.011Z
+lastCollected: 2026-04-07T09:06:07.497Z
 estimatedTokens: 253
 keywords: [ShippingCarrierMethodShare, Sharing, ShippingCarrierMethod]
 ---

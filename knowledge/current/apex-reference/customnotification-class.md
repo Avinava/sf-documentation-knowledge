@@ -5,8 +5,8 @@ topic: customnotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.751Z
-estimatedTokens: 3846
+lastCollected: 2026-04-07T09:02:14.917Z
+estimatedTokens: 3845
 namespace: Messaging
 keywords: [CustomNotification, configure, send, custom, notifications, Apex, code, Usage, typeId, sender, title, targetId, targetPageRef, users, setNotificationTypeId]
 ---
@@ -24,7 +24,7 @@ CustomNotification is used to create, configure, and send custom notifications f
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## Usage
 
@@ -379,15 +379,15 @@ See the [Custom Notification Example](#custom_notification_example_code).
 
 ```apex
 public without sharing class CustomNotificationFromApex {
-
-    public static void notifyUsers(Set<String> recipientsIds, String targetId) {
-
+    public static void notifyUsers(Set<String> recipientsIds, String targetId, String actionGroupId) {
         // Get the Id for our custom notification type
         CustomNotificationType notificationType = 
             [SELECT Id, DeveloperName 
              FROM CustomNotificationType 
-             WHERE DeveloperName='Custom_Notification'];
-        
+             WHERE DeveloperName='Custom_Notification' 
+             WITH USER_MODE
+             LIMIT 1];
+
         // Create a new custom notification
         Messaging.CustomNotification notification = new Messaging.CustomNotification();
 
@@ -398,7 +398,12 @@ public without sharing class CustomNotificationFromApex {
         // Set the notification type and target
         notification.setNotificationTypeId(notificationType.Id);
         notification.setTargetId(targetId);
-        
+
+        // Set the Action Group (This makes the notification actionable)
+        if (String.isNotBlank(actionGroupId)) {
+            notification.setActionGroupId(actionGroupId);
+        }
+
         // Actually send the notification
         try {
             notification.send(recipientsIds);

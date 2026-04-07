@@ -5,7 +5,7 @@ topic: commitment-payment-updates-response-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.967Z
+lastCollected: 2026-04-07T09:03:42.331Z
 estimatedTokens: 122
 keywords: [Commitment, Payment, Updates, Link, Output, representation, links]
 ---

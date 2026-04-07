@@ -5,7 +5,7 @@ topic: package-the-connected-app-for-canvas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.581Z
+lastCollected: 2026-04-07T09:05:04.736Z
 estimatedTokens: 656
 keywords: [Package, Connected, App, Canvas, created, tested, Previewer, deployed, Heroku, you’re, ready, distribute]
 ---

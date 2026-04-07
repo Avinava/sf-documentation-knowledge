@@ -5,7 +5,7 @@ topic: cms-content-taxonomy-terms
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.763Z
+lastCollected: 2026-04-07T09:03:24.725Z
 estimatedTokens: 475
 keywords: [CMS, Content, Taxonomy, Terms, associated, managed, Add, remove, term, associations]
 ---

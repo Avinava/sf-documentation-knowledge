@@ -5,7 +5,7 @@ topic: pipeline-stage-sfdevopspipelinestagec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.513Z
+lastCollected: 2026-04-07T09:03:41.611Z
 estimatedTokens: 1486
 keywords: [Pipeline, Stage, sf_devops__Pipeline_Stage__c, connection, environment, collection, stages, project, release, orgs, DevOps, Center, installed, _devops, _Pipeline]
 ---

@@ -5,7 +5,7 @@ topic: retrieve-changes-to-profiles-with-source-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.668Z
+lastCollected: 2026-04-07T09:06:13.639Z
 estimatedTokens: 749
 keywords: [Retrieve, Changes, Profiles, Source, Tracking, Retrieving, behaves, little, differently]
 ---

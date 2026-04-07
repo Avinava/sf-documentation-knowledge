@@ -5,7 +5,7 @@ topic: lens-file-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.778Z
+lastCollected: 2026-04-07T09:03:09.789Z
 estimatedTokens: 209
 keywords: [Lens, File, Resource, updates, part, Analytics, URL, Formats, Version, HTTP, PUT]
 ---

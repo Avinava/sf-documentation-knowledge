@@ -5,7 +5,7 @@ topic: proxy-user-has-deactivated-message-in-the-lma
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.232Z
+lastCollected: 2026-04-07T09:05:02.878Z
 estimatedTokens: 76
 keywords: [Proxy, User, Deactivated, Message, LMA, you’re, editing, license, “proxy, deactivated”, it's, possible, subscriber, org, locked]
 ---

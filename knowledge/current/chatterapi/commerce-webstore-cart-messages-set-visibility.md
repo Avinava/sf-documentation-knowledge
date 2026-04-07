@@ -5,7 +5,7 @@ topic: commerce-webstore-cart-messages-set-visibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.271Z
+lastCollected: 2026-04-07T09:03:25.406Z
 estimatedTokens: 312
 keywords: [Commerce, Webstore, Cart, Messages, Visibility]
 ---

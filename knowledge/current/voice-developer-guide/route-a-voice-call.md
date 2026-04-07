@@ -5,7 +5,7 @@ topic: route-a-voice-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.833Z
+lastCollected: 2026-04-07T09:06:18.204Z
 estimatedTokens: 707
 keywords: [Route, Voice, Call, Routes, rep, agent, queue, flow, Omni-Channel, Unified, Routing, enabled, URI, HTTP]
 ---

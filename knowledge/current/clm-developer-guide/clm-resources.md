@@ -5,7 +5,7 @@ topic: clm-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.216Z
+lastCollected: 2026-04-07T09:03:37.845Z
 estimatedTokens: 1203
 keywords: [CLM, Resources, Manage, Salesforce, Contracts, Check, contract, document, content, Execute, actions, status, versions, generation, process]
 ---

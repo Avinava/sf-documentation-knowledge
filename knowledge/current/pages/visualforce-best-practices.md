@@ -6,7 +6,7 @@ topic: visualforce-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:22.110Z
+lastCollected: 2026-04-07T09:04:57.006Z
 estimatedTokens: 439
 keywords: [Visualforce, Best, Practices, strategies, improve, pages]
 ---

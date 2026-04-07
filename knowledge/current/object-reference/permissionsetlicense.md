@@ -5,7 +5,7 @@ topic: permissionsetlicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.791Z
+lastCollected: 2026-04-07T09:04:46.652Z
 estimatedTokens: 1253
 keywords: [PermissionSetLicense, license, that’s, enable, users, receive, permission, changing, their, profile, reassigning, profiles, licenses, grant, access]
 ---

@@ -5,7 +5,7 @@ topic: handle-component-event-of-instantiated-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.865Z
+lastCollected: 2026-04-07T09:04:13.986Z
 estimatedTokens: 479
 keywords: [Handle, Component, Event, Instantiated, parent, handler, action, instantiates, child, markup]
 ---

@@ -5,7 +5,7 @@ topic: voicecallmetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.239Z
+lastCollected: 2026-04-07T09:04:52.373Z
 estimatedTokens: 1262
 keywords: [VoiceCallMetrics, metrics, VoiceCall, lifecycle, event, aggregated, daily, API, version, 56.0, later, Calls]
 ---

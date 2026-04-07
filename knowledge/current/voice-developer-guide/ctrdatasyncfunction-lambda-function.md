@@ -5,7 +5,7 @@ topic: ctrdatasyncfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.644Z
+lastCollected: 2026-04-07T09:06:17.918Z
 estimatedTokens: 1183
 keywords: [CTRDataSyncFunction, Lambda, Function, contact, record, previously, trace, CTR, created, Amazon, automatically, syncs, data, VoiceCall, finalizes]
 ---

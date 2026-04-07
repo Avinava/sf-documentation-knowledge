@@ -5,7 +5,7 @@ topic: proxy-variables-with-constraints-on-types-and-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:16.151Z
+lastCollected: 2026-04-07T09:01:57.702Z
 estimatedTokens: 2431
 keywords: [Proxy, Variables, Constraints, Relationships, including, parent, root, sibling, Cardinality, Examples, Full, Partial, Defining, Relations, Enforcing]
 ---

@@ -5,7 +5,7 @@ topic: assignedresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.088Z
+lastCollected: 2026-04-07T09:04:35.271Z
 estimatedTokens: 1415
 keywords: [AssignedResource, service, resource, assigned, appointment, Lightning, Scheduler, resources, appear, appointments, API, version, 38.0, later, Calls]
 ---

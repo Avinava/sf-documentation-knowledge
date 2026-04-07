@@ -5,7 +5,7 @@ topic: configure-components-for-record-specific-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.475Z
+lastCollected: 2026-04-07T09:04:13.397Z
 estimatedTokens: 1256
 keywords: [Configure, Components, Record-Specific, Actions, Add, force, hasRecordId, Aura, component, enable, assigned, current, record, useful, Lightning]
 ---

@@ -5,7 +5,7 @@ topic: commerce-subscription-saved-payment-method-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:11.346Z
+lastCollected: 2026-04-07T09:03:21.041Z
 estimatedTokens: 153
 keywords: [Commerce, Subscription, Saved, Payment, Input, representation, updating, associated]
 ---

@@ -5,7 +5,7 @@ topic: promotion-target-line-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.706Z
+lastCollected: 2026-04-07T09:03:35.264Z
 estimatedTokens: 67
 keywords: [Promotion, Target, Line, Item, cart, associated]
 ---

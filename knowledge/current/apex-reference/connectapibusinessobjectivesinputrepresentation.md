@@ -5,7 +5,7 @@ topic: connectapibusinessobjectivesinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:45.930Z
+lastCollected: 2026-04-07T09:02:19.389Z
 estimatedTokens: 112
 keywords: [business, objective, goal, insights, associated]
 ---

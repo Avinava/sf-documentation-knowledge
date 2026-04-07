@@ -5,7 +5,7 @@ topic: videocallinsightaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.116Z
+lastCollected: 2026-04-07T09:04:52.227Z
 estimatedTokens: 782
 keywords: [VideoCallInsightAction, suggested, follow-up, action, derived, video, call, insight, manages, recommended, steps—such, sending, email, creating, task]
 ---

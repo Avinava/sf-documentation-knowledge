@@ -5,7 +5,7 @@ topic: how-salesforce-developer-experience-dx-tooling-changes-the-way-you-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:18.280Z
+lastCollected: 2026-04-07T09:06:13.147Z
 estimatedTokens: 1368
 keywords: [How, Salesforce, Developer, Experience, Tooling, Changes, Way, Work, modern, manage, develop, apps, platform, across, their]
 ---

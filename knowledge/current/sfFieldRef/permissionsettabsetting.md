@@ -5,7 +5,7 @@ topic: permissionsettabsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:08.033Z
+lastCollected: 2026-04-07T09:05:59.275Z
 estimatedTokens: 247
 keywords: [PermissionSetTabSetting, permission, tab, setting, Requires, View, Setup, query, settings, API, version, 45.0, later]
 ---

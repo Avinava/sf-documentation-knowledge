@@ -5,7 +5,7 @@ topic: extlclntappoauthsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.963Z
+lastCollected: 2026-04-07T09:04:41.140Z
 estimatedTokens: 13
 keywords: [ExtlClntAppOauthSettings, internal]
 ---

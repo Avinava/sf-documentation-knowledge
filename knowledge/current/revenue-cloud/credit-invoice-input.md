@@ -5,7 +5,7 @@ topic: credit-invoice-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.934Z
+lastCollected: 2026-04-07T09:01:58.198Z
 estimatedTokens: 417
 keywords: [Credit, Invoice, Input, representation, memo]
 ---

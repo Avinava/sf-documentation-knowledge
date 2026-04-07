@@ -5,8 +5,8 @@ topic: integration-procedure-clear-cache-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.555Z
-estimatedTokens: 388
+lastCollected: 2026-04-07T09:05:08.829Z
+estimatedTokens: 502
 keywords: [Integration, Procedure, Clear, Cache, POST, execution, procedures]
 ---
 
@@ -17,6 +17,12 @@ keywords: [Integration, Procedure, Clear, Cache, POST, execution, procedures]
 # Integration Procedure Clear Cache (POST)
 
 Clear the execution cache for the specified integration procedures.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=psc_api)
+
+#### Note
+
+When using the Integration Procedure (IP) Connect API, HTTP callouts cannot be executed in the same transaction. This is because these APIs perform an implicit DML operation through the underlying Connect API framework. If a callout is required, it must be executed in a separate transaction, for example by using an asynchronous mechanism such as @future.
 
 Resource
 

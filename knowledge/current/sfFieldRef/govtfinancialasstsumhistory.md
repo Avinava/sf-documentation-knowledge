@@ -5,7 +5,7 @@ topic: govtfinancialasstsumhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.781Z
+lastCollected: 2026-04-07T09:05:48.403Z
 estimatedTokens: 279
 keywords: [GovtFinancialAsstSumHistory, History, tracked, GovtFinancialAsstSum]
 ---

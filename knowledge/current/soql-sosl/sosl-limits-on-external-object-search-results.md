@@ -5,7 +5,7 @@ topic: sosl-limits-on-external-object-search-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.880Z
+lastCollected: 2026-04-07T09:06:15.313Z
 estimatedTokens: 449
 keywords: [SOSL, Limits, External, Search, Results, specific, objects]
 ---

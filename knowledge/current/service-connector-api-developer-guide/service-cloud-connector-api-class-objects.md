@@ -5,7 +5,7 @@ topic: service-cloud-connector-api-class-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.349Z
+lastCollected: 2026-04-07T09:05:29.351Z
 estimatedTokens: 2588
 keywords: [Service, Cloud, Connector, API, Objects, Base]
 ---

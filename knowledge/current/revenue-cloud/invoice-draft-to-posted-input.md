@@ -5,7 +5,7 @@ topic: invoice-draft-to-posted-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.106Z
+lastCollected: 2026-04-07T09:01:58.303Z
 estimatedTokens: 173
 keywords: [Invoice, Draft, Posted, Input, representation, that’s]
 ---

@@ -5,7 +5,7 @@ topic: configure-external-client-app-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.541Z
+lastCollected: 2026-04-07T09:05:04.673Z
 estimatedTokens: 922
 keywords: [Configure, External, Client, App, Access, canvas, policies, profiles, corresponding]
 ---

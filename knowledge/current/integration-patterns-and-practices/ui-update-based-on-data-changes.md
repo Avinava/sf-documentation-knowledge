@@ -5,7 +5,7 @@ topic: ui-update-based-on-data-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.327Z
+lastCollected: 2026-04-07T09:04:04.409Z
 estimatedTokens: 1023
 keywords: [Data, Changes, Salesforce, manage, customer, cases, service, rep, phone, working, case, payment, needs, real-time, processing]
 ---

@@ -5,7 +5,7 @@ topic: location-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.123Z
+lastCollected: 2026-04-07T09:04:25.447Z
 estimatedTokens: 367
 keywords: [Location, Basics, surface, concept, simple, Salesforce, Tower, How, right, now, location-based, features, we’ve, mobile, devices]
 ---

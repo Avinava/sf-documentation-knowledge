@@ -5,7 +5,7 @@ topic: apexoutputlabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.823Z
+lastCollected: 2026-04-07T09:04:58.007Z
 estimatedTokens: 1180
 keywords: [apex, outputLabel, label, input, output, component, provide, controller, correspond, Salesforce, Attributes]
 ---

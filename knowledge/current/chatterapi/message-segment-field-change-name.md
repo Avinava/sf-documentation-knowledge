@@ -5,7 +5,7 @@ topic: message-segment-field-change-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.757Z
+lastCollected: 2026-04-07T09:03:33.637Z
 estimatedTokens: 179
 keywords: [Message, Segment, Change, inline, “Name”, “Description.”, Making, separate, possible, give, special, user, treatments, bold]
 ---

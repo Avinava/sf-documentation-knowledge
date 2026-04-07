@@ -5,7 +5,7 @@ topic: usercustombadgelocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.016Z
+lastCollected: 2026-04-07T09:06:10.220Z
 estimatedTokens: 225
 namespace: NamespacePrefix
 keywords: [UserCustomBadgeLocalization, translated, version, custom, badge, user]

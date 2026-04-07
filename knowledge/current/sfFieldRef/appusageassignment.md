@@ -5,7 +5,7 @@ topic: appusageassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:47.401Z
+lastCollected: 2026-04-07T09:05:32.179Z
 estimatedTokens: 362
 keywords: [AppUsageAssignment, application, context, record, different, allowed, actions, objects, it’s, created, applications, Revenue, Lifecycle, Management, order]
 ---

@@ -5,8 +5,8 @@ topic: quicktext
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:15.813Z
-estimatedTokens: 1601
+lastCollected: 2026-04-07T09:04:47.911Z
+estimatedTokens: 1594
 keywords: [QuickText, stores, snippet, text, users, send, quick, customer, greetings, answers, common, questions, short, notes, API]
 ---
 
@@ -33,8 +33,8 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | FolderId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionReturns the ID of the folder that contains the quick text. Available in API version 44.0 and later.This is a relationship field.Relationship NameFolderRelationship TypeLookupRefers ToFolder |
 | FolderName | TypestringPropertiesFilter, Nillable, SortDescriptionName of the folder that contains the quick text. Available in API version 44.0 and later. |
 | IsInsertable | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIf true, the quick text is available in the channels selected in the Channel field. If false, the quick text is not available. The label in the UI is Include in selected channels. By default:This field is set to true on quick text records created from the Quick Text page or via the API.This field is set to false on quick text records created during the Einstein Reply Recommendations reply publishing process. |
-| LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | Message | TypetextareaPropertiesCreate, Filter (unavailable in API version 25.0 and later), Sort (unavailable in API version 25.0 and later), UpdateDescriptionThe content of the quick text record |
 | Name | TypestringPropertiesCreate, Filter (unavailable in API version 25.0 and later), Group, idLookup, Sort (unavailable in API version 25.0 and later), UpdateDescriptionA descriptive label for the quick text record |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionID of the User or Queue that owns the quick text recordThis is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |

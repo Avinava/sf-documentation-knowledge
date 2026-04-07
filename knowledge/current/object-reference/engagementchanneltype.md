@@ -5,7 +5,7 @@ topic: engagementchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.652Z
+lastCollected: 2026-04-07T09:04:39.635Z
 estimatedTokens: 937
 keywords: [EngagementChannelType, channel, customer, reached, communication, API, version, 48.0, later, Calls, Associated, Objects]
 ---

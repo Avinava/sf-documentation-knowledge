@@ -5,7 +5,7 @@ topic: order-summary-entity-relationships
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.146Z
+lastCollected: 2026-04-07T09:04:53.641Z
 estimatedTokens: 218
 keywords: [Order, Summary, Entity, Relationships, Salesforce, Management, represented, number, records, linked, diagram, illustrates, OrderSummary, objects]
 ---

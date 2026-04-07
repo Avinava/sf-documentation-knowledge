@@ -5,7 +5,7 @@ topic: mydomaindiscoverablelogin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:04.721Z
+lastCollected: 2026-04-07T09:05:54.977Z
 estimatedTokens: 402
 keywords: [MyDomainDiscoverableLogin, configuration, settings, Domain, login, Discovery, identity-first, experience, identifier, entered, handler, determines, how, authenticate, user]
 ---

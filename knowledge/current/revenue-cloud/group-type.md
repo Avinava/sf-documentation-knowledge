@@ -5,7 +5,7 @@ topic: group-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-05T00:23:15.925Z
+lastCollected: 2026-04-07T09:01:57.566Z
 estimatedTokens: 1482
 keywords: [Group, Constraint, Modeling, Language, CML, logically, containerize, components, bundle, configuration, primarily, product, component, groups, imported]
 ---

@@ -5,7 +5,7 @@ topic: update-a-repository-file-without-content-metadata-only
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.771Z
+lastCollected: 2026-04-07T09:02:33.913Z
 estimatedTokens: 271
 keywords: [Repository, File, Content, Metadata, Call]
 ---

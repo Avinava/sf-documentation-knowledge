@@ -5,7 +5,7 @@ topic: customer-success-recipes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.819Z
+lastCollected: 2026-04-07T09:05:02.250Z
 estimatedTokens: 476
 keywords: [Customer, Success, Recipes, relationship-focused, ensuring, customers, achieve, their, desired, outcomes, managed, packages]
 ---

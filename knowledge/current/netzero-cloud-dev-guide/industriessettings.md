@@ -5,7 +5,7 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.895Z
+lastCollected: 2026-04-07T09:04:26.529Z
 estimatedTokens: 1626
 keywords: [IndustriesSettings, settings, Net, Zero, Cloud, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudconditionsearchgroupc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.293Z
+lastCollected: 2026-04-07T09:05:19.683Z
 estimatedTokens: 664
 keywords: [cgcloud__Condition_Search_Group__c, Holds, attributes, Condition, Search, Group, API, version, 55.0, later, cgcloud, _Condition, _Search, _Group, Calls]
 ---

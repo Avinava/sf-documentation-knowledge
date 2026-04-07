@@ -5,7 +5,7 @@ topic: taxpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:15.155Z
+lastCollected: 2026-04-07T09:06:09.069Z
 estimatedTokens: 457
 keywords: [TaxPolicy, tax, policy, group, treatments, treatment, determine, how, particular, product, taxed, transaction, line, item, policies]
 ---

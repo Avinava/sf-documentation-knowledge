@@ -5,7 +5,7 @@ topic: contracttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.587Z
+lastCollected: 2026-04-07T09:03:38.438Z
 estimatedTokens: 758
 keywords: [ContractType, contract, group, contracts, they, exhibit, similar, characteristics, lifecycle, states, people, access, templates, clauses, extends, sub, groups, permissions, API, version]
 ---
@@ -14,8 +14,8 @@ keywords: [ContractType, contract, group, contracts, they, exhibit, similar, cha
 
 > A contract type is used to group contracts so that they exhibit
 			similar characteristics. For example, the lifecycle states, the people who access, the
-			templates and clauses used. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+			templates and clauses used. This type extends the Metadata metadata type and
+		inherits its fullName field.
 
 # ContractType
 

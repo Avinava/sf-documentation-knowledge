@@ -5,7 +5,7 @@ topic: connectapirefundresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.897Z
+lastCollected: 2026-04-07T09:02:26.268Z
 estimatedTokens: 221
 keywords: [ConnectApi.RefundResponse, Refund, output]
 ---

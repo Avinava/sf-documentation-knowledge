@@ -5,7 +5,7 @@ topic: accountplanrelaobjanalysis
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:44.882Z
+lastCollected: 2026-04-07T09:04:09.263Z
 estimatedTokens: 1642
 keywords: [AccountPlanRelaObjAnalysis, strategic, analysis, objects, account, plan, helps, identify, internal, external, factors, potentially, affect, objectives, any]
 ---

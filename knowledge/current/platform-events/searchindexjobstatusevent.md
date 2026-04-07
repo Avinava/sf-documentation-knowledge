@@ -5,7 +5,7 @@ topic: searchindexjobstatusevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.244Z
+lastCollected: 2026-04-07T09:05:06.876Z
 estimatedTokens: 509
 keywords: [SearchIndexJobStatusEvent, Notifies, subscribers, changes, status, Data, Cloud, search, index, job, refresh, run-time, API, version, 60.0]
 ---

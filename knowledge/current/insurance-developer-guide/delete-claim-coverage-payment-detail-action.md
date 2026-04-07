@@ -5,8 +5,8 @@ topic: delete-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.574Z
-estimatedTokens: 259
+lastCollected: 2026-04-07T09:04:00.017Z
+estimatedTokens: 258
 keywords: [Claim, Coverage, Payment, Detail, Action, Remove, unpaid, updating, status, record, Deleted, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -25,7 +25,7 @@ When the coveragePaymentType is Loss, this action reverses the insurance policy 
 
 URI
 
-/services/data/v66.0/actions/standard/deleteClaimCvrPaymentDetail
+/services/data/v/actions/standard/deleteClaimCvrPaymentDetail
 
 Formats
 

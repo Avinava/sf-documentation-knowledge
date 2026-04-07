@@ -5,7 +5,7 @@ topic: dashboard-publishers-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.587Z
+lastCollected: 2026-04-07T09:03:09.495Z
 estimatedTokens: 310
 keywords: [Dashboard, Publishers, Resource, users, assigned, Adds, current, user, Removes, dashboard's, publisher, URL, Formats, Version, HTTP]
 ---

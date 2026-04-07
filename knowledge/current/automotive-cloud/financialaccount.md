@@ -5,8 +5,8 @@ topic: financialaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.195Z
-estimatedTokens: 1730
+lastCollected: 2026-04-07T09:03:06.301Z
+estimatedTokens: 1843
 keywords: [FinancialAccount, financing, option, automotive, loan, lease, customer, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---
 
@@ -32,9 +32,11 @@ Automotive and Vehicle and Asset Finance must be enabled.
 | Field | Details |
 | --- | --- |
 | AmountDue | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe amount that is due for payment for the financial account. |
+| AmountPastDue | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe payment amount that wasn't paid by the due date. |
 | BranchUnitId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe captive finance unit associated with the financial account.This field is a relationship field.Relationship NameBranchUnitRelationship TypeLookupRefers ToBranchUnit |
 | ClosingDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date when the financial account was closed. |
 | CreditLimit | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total credit limit avaialble for the financial account. |
+| DaysPastDue | TypeintPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe number of days past the payment due date. |
 | DownPaymentAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionAn initial up-front partial payment amount. |
 | FinancialAccountNumber | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe identifier of the financial account. |
 | InsurancePaidYearToDate | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total amount of insurance premium paid in the current tax year. |
@@ -54,6 +56,7 @@ Automotive and Vehicle and Asset Finance must be enabled.
 | PrincipalPaidYearToDate | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total amount paid against the principal in the current tax year. |
 | ProductId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe product associated with the financial account.This field is a relationship field.Relationship NameProductRelationship TypeLookupRefers ToProduct2 |
 | RelatedFinancialAccountId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe parent of the financial account.This field is a relationship field.Relationship NameRelatedFinancialAccountRelationship TypeLookupRefers ToFinancialAccount |
+| RemainingDuration | TypeintPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe duration in months from the current date to the maturity date or the prepayment date. |
 | RenewalDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date when the financial account is due for renewal. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionThe identifier of the financial account in an external system such as a captive finance dealer management system. |
 | Status | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies the status of the financial account.Possible values are:ActiveClosedDelinquentOn HoldThe default value is Active. |

@@ -5,7 +5,7 @@ topic: calculation-procedure-version-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.864Z
+lastCollected: 2026-04-07T09:05:07.795Z
 estimatedTokens: 640
 keywords: [Calculation, Procedure, Version, Definition, Input, representation, expression]
 ---

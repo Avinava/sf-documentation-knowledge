@@ -5,7 +5,7 @@ topic: event-handling-in-lightning-base-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.233Z
+lastCollected: 2026-04-07T09:04:14.499Z
 estimatedTokens: 1097
 keywords: [Event, Handling, Lightning, Base, Components, lightweight, closely, resemble, HTML, markup, They, follow, standard, practices, providing]
 ---

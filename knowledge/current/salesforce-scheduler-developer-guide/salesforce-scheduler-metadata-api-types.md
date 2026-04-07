@@ -5,7 +5,7 @@ topic: salesforce-scheduler-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.585Z
+lastCollected: 2026-04-07T09:05:26.837Z
 estimatedTokens: 152
 keywords: [Salesforce, Scheduler, Metadata, API, access, feature, settings, customize, user, Developer]
 ---

@@ -5,7 +5,7 @@ topic: insurancecontributionplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.650Z
+lastCollected: 2026-04-07T09:03:49.963Z
 estimatedTokens: 1238
 keywords: [InsuranceContributionPlan, contributions, made, employee, towards, their, insurance, policy, coverage, API, version, later, Calls, Associated, Objects]
 ---

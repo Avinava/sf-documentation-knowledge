@@ -5,7 +5,7 @@ topic: supplementalcompensation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:27.394Z
+lastCollected: 2026-04-07T09:03:45.618Z
 estimatedTokens: 597
 keywords: [SupplementalCompensation, meals, equivalent, gifts, awarded, service, worker, according, labor, laws, company, policies, API, version, 61.0]
 ---

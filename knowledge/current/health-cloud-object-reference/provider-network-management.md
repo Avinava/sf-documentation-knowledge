@@ -5,7 +5,7 @@ topic: provider-network-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.129Z
+lastCollected: 2026-04-07T09:03:54.507Z
 estimatedTokens: 1795
 keywords: [Provider, Network, Management, health, insurance, companies, bring, providers, their, helps, members, patients, care, fits, needs]
 ---

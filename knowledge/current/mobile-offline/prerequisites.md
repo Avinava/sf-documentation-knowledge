@@ -5,7 +5,7 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.737Z
+lastCollected: 2026-04-07T09:04:24.957Z
 estimatedTokens: 212
 keywords: [Prerequisites, Ensure, you’re, ready, tutorial, verifying, right, software, installed, configured, org, Lightning, web, components, enabled]
 ---

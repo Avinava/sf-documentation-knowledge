@@ -5,7 +5,7 @@ topic: eacsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:05.943Z
+lastCollected: 2026-04-07T09:02:39.705Z
 estimatedTokens: 1761
 keywords: [EACSettings, Einstein, Activity, Capture, metadata, add, emails, events, Microsoft, Google, account, timeline, Salesforce, records, Automatically]
 ---

@@ -5,7 +5,7 @@ topic: basic-navigation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.331Z
+lastCollected: 2026-04-07T09:04:13.217Z
 estimatedTokens: 988
 keywords: [Basic, Navigation, pageReference, JavaScript, URL, instead, parsing, creating, directly, approach, helps, avoid, broken, Salesforce, changes]
 ---

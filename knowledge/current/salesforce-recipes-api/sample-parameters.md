@@ -5,7 +5,7 @@ topic: sample-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.966Z
+lastCollected: 2026-04-07T09:05:25.850Z
 estimatedTokens: 175
 keywords: [Sample, loading, data]
 ---

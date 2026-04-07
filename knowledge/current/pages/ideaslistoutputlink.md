@@ -5,7 +5,7 @@ topic: ideaslistoutputlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.485Z
+lastCollected: 2026-04-07T09:04:57.538Z
 estimatedTokens: 628
 keywords: [ideas, listOutputLink, link, displaying, component, please, contact, Salesforce, representative, extended, standard, controllers, enabled, organization, controller]
 ---

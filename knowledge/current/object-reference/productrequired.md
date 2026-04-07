@@ -5,7 +5,7 @@ topic: productrequired
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.446Z
+lastCollected: 2026-04-07T09:04:47.451Z
 estimatedTokens: 1076
 keywords: [ProductRequired, product, needed, work, order, line, item, service, Calls, Special, Access, Rules, Usage, Associated, Objects]
 ---

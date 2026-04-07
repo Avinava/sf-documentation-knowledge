@@ -5,7 +5,7 @@ topic: findorcreatemapisexactmatch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.106Z
+lastCollected: 2026-04-07T09:04:15.858Z
 estimatedTokens: 392
 keywords: [findOrCreate.map.isExactMatch, specify, whether, match, record, conduct, search, findOrCreate.map, Usage]
 ---

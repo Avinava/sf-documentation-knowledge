@@ -5,7 +5,7 @@ topic: custom-metadata-types-in-sync-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:36.681Z
+lastCollected: 2026-04-07T09:05:17.332Z
 estimatedTokens: 206
 keywords: [Custom, Metadata, Sync, Management, help, deliver, additional, features, Consumer, Goods, Cloud]
 ---

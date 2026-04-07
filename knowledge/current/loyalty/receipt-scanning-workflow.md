@@ -5,7 +5,7 @@ topic: receipt-scanning-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.344Z
+lastCollected: 2026-04-07T09:04:18.945Z
 estimatedTokens: 381
 keywords: [Receipt, Scanning, Workflow, how, program, member, uploads, scans, verifies, scanned, result, earns, loyalty, points]
 ---

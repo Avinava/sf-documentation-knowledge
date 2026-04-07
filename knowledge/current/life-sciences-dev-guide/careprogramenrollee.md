@@ -5,7 +5,7 @@ topic: careprogramenrollee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.855Z
+lastCollected: 2026-04-07T09:04:09.844Z
 estimatedTokens: 2265
 keywords: [CareProgramEnrollee, participant, enrolled, care, program, Calls, Associated, Objects]
 ---
@@ -45,7 +45,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | FlowOrchestrationInstanceId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionRuntime instance of the associated flow orchestration.This field is a relationship field.Relationship NameFlowOrchestrationInstanceRefers ToFlowOrchestrationInstance |
 | IsPatientInLtrmCareFacility | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates that the patient was at a long-term healthcare facility during outreach or enrollment to the care program. This field is available for the Medication Management feature in API version 56.0 and later.The default value is false. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | LeadId | TypeLookup(Lead)PropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionLead representing the enrollee. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the enrollee. |
 | OptOutPeriodEndDateTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date on which the patient’s opt-out from the care program ends. This field is available in API version 56.0 and later. |

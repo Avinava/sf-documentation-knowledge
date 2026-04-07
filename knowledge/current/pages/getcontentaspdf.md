@@ -5,7 +5,7 @@ topic: getcontentaspdf
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.669Z
+lastCollected: 2026-04-07T09:04:56.326Z
 estimatedTokens: 155
 keywords: [getContentAsPDF, PDF, regardless, <apex, page>, component’s, renderAs, attribute, Usage]
 ---

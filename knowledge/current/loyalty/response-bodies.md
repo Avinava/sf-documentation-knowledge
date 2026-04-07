@@ -5,7 +5,7 @@ topic: response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.810Z
+lastCollected: 2026-04-07T09:04:16.898Z
 estimatedTokens: 60
 keywords: [Bodies, Here’s, Common, Business, API, Loyalty, Management]
 ---
@@ -26,7 +26,7 @@ Here’s a list of Loyalty Management API response bodies.
     Specifies the list of cart line reward details.
 -   **[Applied Cart Promotion Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_applied_cart_promotion_details.htm)**
     The details of the cart-level promotions applied to the cart.
--   **[Badge Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_badge_output.htm)**
+-   **[Badge](atlas.en-us.loyalty.meta/loyalty/connect_responses_badge_output.htm)**
     Output representation of the badge assigned to a member.
 -   **[Cart](atlas.en-us.loyalty.meta/loyalty/connect_responses_cart.htm)**
     The details of a cart and its line items for which to evaluate and execute promotions.
@@ -44,7 +44,7 @@ Here’s a list of Loyalty Management API response bodies.
     Represents the output for Club Member Promotions.
 -   **[Club Membership Renewal](atlas.en-us.loyalty.meta/loyalty/connect_responses_club_membership_renewa.htm)**
     Represents the output for Club Membership Renewal API.
--   **[Corporate Member Enrollment Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_corporate_member_enrollment_output.htm)**
+-   **[Corporate Member Enrollment](atlas.en-us.loyalty.meta/loyalty/connect_responses_corporate_member_enrollment_output.htm)**
     Output representation of the corporate member enrollment create request.
 -   **[Coupon Usage](atlas.en-us.loyalty.meta/loyalty/connect_responses_coupon_usage.htm)**
     The details of the coupons for which usage has been increased or decreased.
@@ -52,23 +52,23 @@ Here’s a list of Loyalty Management API response bodies.
     Represents the response for coupon usage increase and decrease POST method.
 -   **[Clone Promotion](atlas.en-us.loyalty.meta/loyalty/connect_responses_deep_clone_promotion.htm)**
     Output representation of clone promotion request.
--   **[Credit Points Action Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_credit_points_action_output.htm)**
+-   **[Credit Points Action](atlas.en-us.loyalty.meta/loyalty/connect_responses_credit_points_action_output.htm)**
     Output representation of the credit points action type.
--   **[Debit Points Action Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_debit_points_action_output.htm)**
+-   **[Debit Points Action](atlas.en-us.loyalty.meta/loyalty/connect_responses_debit_points_action_output.htm)**
     Output representation of the debit points action type.
 -   **[Discount Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_discount_details.htm)**
     The details of the discount applied to a customer's cart.
 -   **[Eligible Promotions List](atlas.en-us.loyalty.meta/loyalty/connect_responses_eligible_promotions_list.htm)**
     Output representation of a list of eligible promotions.
--   **[Eligible Loyalty Tiers Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_eligible_loyalty_tiers_output.htm)**
+-   **[Eligible Loyalty Tiers](atlas.en-us.loyalty.meta/loyalty/connect_responses_eligible_loyalty_tiers_output.htm)**
     Output representation of the eligible loyalty tiers and tier groups of a promotion.
--   **[Events Detail Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_events_detail_output.htm)**
+-   **[Events Detail](atlas.en-us.loyalty.meta/loyalty/connect_responses_events_detail_output.htm)**
     Output representation of the customer event eligible for a promotion.
 -   **[Expression](atlas.en-us.loyalty.meta/loyalty/connect_responses_expression.htm)**
     Output representation of the expression.
 -   **[Expression Value](atlas.en-us.loyalty.meta/loyalty/connect_responses_expression_value.htm)**
     Output representation of the expression value.
--   **[Game Assignment Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_game_assignment_output.htm)**
+-   **[Game Assignment](atlas.en-us.loyalty.meta/loyalty/connect_responses_game_assignment_output.htm)**
     Output representation of the details of a game assigned to a member.
 -   **[Game Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_game_details.htm)**
     Output representation of the details of a game definition.
@@ -82,19 +82,19 @@ Here’s a list of Loyalty Management API response bodies.
     Output representation of the details of a possible game reward.
 -   **[Games List](atlas.en-us.loyalty.meta/loyalty/connect_responses_games_list.htm)**
     Output representation of the list of games assigned to a member.
--   **[Issue Voucher Action Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_issue_voucher_action_output.htm)**
+-   **[Issue Voucher Action](atlas.en-us.loyalty.meta/loyalty/connect_responses_issue_voucher_action_output.htm)**
     Output representation of the issue voucher action type.
--   **[Individual Member Enrollment Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_individual_member_enrollment_output.htm)**
+-   **[Individual Member Enrollment](atlas.en-us.loyalty.meta/loyalty/connect_responses_individual_member_enrollment_output.htm)**
     Output representation of the individual member enrollment create request.
 -   **[Link Program Member Partner](atlas.en-us.loyalty.meta/loyalty/connect_responses_link_program_member_partner.htm)**
     Output representation of the program member and partner linkage request.
--   **[Loyalty Account Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_account_output.htm)**
+-   **[Loyalty Account](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_account_output.htm)**
     Represents the details of the loyalty program member's associated account record.
--   **[Loyalty Engine Realtime Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_engine_realtime_output.htm)**
+-   **[Loyalty Engine Realtime](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_engine_realtime_output.htm)**
     Output representation of the loyalty program process result.
--   **[Loyalty Contact Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_contact_output.htm)**
+-   **[Loyalty Contact](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_contact_output.htm)**
     Represents the details of the loyalty program member's associated contact record.
--   **[Loyalty Process Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_process_output.htm)**
+-   **[Loyalty Process](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_process_output.htm)**
     Output representation of the loyalty process response.
 -   **[Loyalty Program Process Rule](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_program_process_rule.htm)**
     Output representation of the loyalty program process rules.
@@ -112,11 +112,11 @@ Here’s a list of Loyalty Management API response bodies.
     Output representation of the loyalty program process rule condition group.
 -   **[Loyalty View Transaction Journal History Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_loyalty_view_t_j_history_output.htm)**
     Output representation of the view transaction history request.
--   **[Member Benefits Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_benefits_output.htm)**
+-   **[Member Benefits](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_benefits_output.htm)**
     ﻿Output representation of all benefits available for a member.
--   **[Member Benefit Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_benefit_output.htm)**
+-   **[Member Benefit](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_benefit_output.htm)**
     Output representation of an individual benefit available for a member.
--   **[Member Currency Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_currency_output.htm)**
+-   **[Member Currency](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_currency_output.htm)**
     Represents the details of the loyalty program member's associated currencies.
 -   **[Member Currency Change](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_currency_change.htm)**
     Output representation of the member currency change.
@@ -126,27 +126,27 @@ Here’s a list of Loyalty Management API response bodies.
     Ouput representation of Member Engagement Attribute.
 -   **[Member Points Balance](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_points_balance.htm)**
     Output representation of the member currency result.
--   **[Member Profile Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_profile_output.htm)**
+-   **[Member Profile](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_profile_output.htm)**
     Output representation of the details of a loyalty program member.
 -   **[Member Currency](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_currency.htm)**
     Output representation of the member currency details.
--   **[Member Tier Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_tier_output.htm)**
+-   **[Member Tier](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_tier_output.htm)**
     Represents the details of the loyalty program member's associated tiers.
 -   **[Member Points Balance Change](atlas.en-us.loyalty.meta/loyalty/connect_responses_member_points_balance_change.htm)**
     Output representation of the points balance change for a member.
--   **[Name And Id Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_name_and_id_output.htm)**
+-   **[Name And Id](atlas.en-us.loyalty.meta/loyalty/connect_responses_name_and_id_output.htm)**
     Output representation of an object’s name and ID.
 -   **[Participant Game Rewards List](atlas.en-us.loyalty.meta/loyalty/connect_responses_participant_game_rewards_list.htm)**
     Output representation of the participant game reward object.
 -   **[Process Result](atlas.en-us.loyalty.meta/loyalty/connect_responses_process_result.htm)**
     Output representation of results of the processed Transaction Journals records.
--   **[Points Change Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_points_change_output.htm)**
+-   **[Points Change](atlas.en-us.loyalty.meta/loyalty/connect_responses_points_change_output.htm)**
     Output representation of the points debited from or credited to the member's points balance by the transaction journal.
 -   **[Points Summary](atlas.en-us.loyalty.meta/loyalty/connect_responses_points_summary.htm)**
     Output representation of the point summary.
 -   **[Product Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_product_detail.htm)**
     The details of a product associated with the recommended promotion.
--   **[Promotion Configuration Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_configuration.htm)**
+-   **[Promotion Configuration](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_configuration.htm)**
     Output representation of the promotion’s details and its configuration.
 -   **[Promotion Coupon Availability](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotioncouponavailability.htm)**
     Output representation of the promotion coupon availability.
@@ -154,15 +154,15 @@ Here’s a list of Loyalty Management API response bodies.
     Output representation of the promotion coupon.
 -   **[Promotion Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_details.htm)**
     Output representation of the details of an eligible promotion.
--   **[Promotion Eligibility Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_eligibility_output.htm)**
+-   **[Promotion Eligibility](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_eligibility_output.htm)**
     Output representation of the promotion eligibility criteria.
--   **[Promotion Eligible Channel Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_eligible_channel_output.htm)**
+-   **[Promotion Eligible Channel](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_eligible_channel_output.htm)**
     Output representation of the eligible channel for a promotion.
--   **[Promotion Eligible Enrollment Period Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_eligible_enrollment_period_output.htm)**
+-   **[Promotion Eligible Enrollment Period](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_eligible_enrollment_period_output.htm)**
     Output representation of the enrollment eligibility details of a promotion.
 -   **[Promotion Limit](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_limit.htm)**
     Output representation of the promotion limit of an eligible promotion.
--   **[Promotion Limit Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_limit_output.htm)**
+-   **[Promotion Limit](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_limit_output.htm)**
     Output representation of promotion limits.
 -   **[Promotion](atlas.en-us.loyalty.meta/loyalty/connect_responses_promotion_output.htm)**
     Output representation of the promotion with rule configuration.
@@ -190,7 +190,7 @@ Here’s a list of Loyalty Management API response bodies.
     Output representation of the details of a promotion rule parameter.
 -   **[Recommendation Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_recommendation_detail.htm)**
     The rank and details of the recommended promotions.
--   **[Redeem Voucher Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_redeem_voucher_output.htm)**
+-   **[Redeem Voucher](atlas.en-us.loyalty.meta/loyalty/connect_responses_redeem_voucher_output.htm)**
     Represents the response for the redeem voucher POST method.
 -   **[Summary](atlas.en-us.loyalty.meta/loyalty/connect_responses_summary.htm)**
     Output representation of the execution summary of the transaction journals.
@@ -200,19 +200,19 @@ Here’s a list of Loyalty Management API response bodies.
     The output representation of the list template configuration
 -   **[Transaction Journal Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_journal_details.htm)**
     The details of the transaction journal that's created.
--   **[Transaction Details Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_details_output.htm)**
+-   **[Transaction Details](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_details_output.htm)**
     Output representation of the transaction journal ledger records.
--   **[Transaction Journal Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_journal_output.htm)**
+-   **[Transaction Journal](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_journal_output.htm)**
     Output representation of the transaction journals.
--   **[Transaction Journal Map Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_journal_map_output.htm)**
+-   **[Transaction Journal Map](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_journal_map_output.htm)**
     Output representation of the loyalty program process simulation result.
 -   **[Transaction Journal Result](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_journal.htm)**
     Output representation of the transaction journals result.
 -   **[Transaction Journal Process Result](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_journal_result.htm)**
     Output representation of the Transaction Journal result.
--   **[Transaction Ledgers Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_ledgers_output.htm)**
+-   **[Transaction Ledgers](atlas.en-us.loyalty.meta/loyalty/connect_responses_transaction_ledgers_output.htm)**
     Output representation of the transaction journals and the ledgers associated with the specified loyalty program member.
--   **[Update Cumulative Usage Action Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_update_cumulative_usage_action_output.htm)**
+-   **[Update Cumulative Usage Action](atlas.en-us.loyalty.meta/loyalty/connect_responses_update_cumulative_usage_action_output.htm)**
     Output representation of the update cumulative usage action type.
 -   **[Unified Promotions](atlas.en-us.loyalty.meta/loyalty/connect_responses_unified_promotions_output.htm)**
     Output representation of the promotion details.
@@ -228,7 +228,7 @@ Here’s a list of Loyalty Management API response bodies.
     Output representation of the list of vouchers associated with the loyalty program member.
 -   **[Voucher Result](atlas.en-us.loyalty.meta/loyalty/connect_responses_voucher_result.htm)**
     Output representation of the voucher result.
--   **[Voucher Output](atlas.en-us.loyalty.meta/loyalty/connect_responses_voucher_output.htm)**
+-   **[Voucher](atlas.en-us.loyalty.meta/loyalty/connect_responses_voucher_output.htm)**
     Output representation of the details about a voucher.
 
 ## Related Topics
@@ -238,7 +238,7 @@ Here’s a list of Loyalty Management API response bodies.
 - Additional Transaction Journal Attributes Output (atlas.en-us.loyalty.meta/loyalty/connect_responses_additional_transaction_attribute_output.htm)
 - Applied Cart Line Promotion Details (atlas.en-us.loyalty.meta/loyalty/connect_responses_applied_cart_line_promotion_details.htm)
 - Applied Cart Promotion Details (atlas.en-us.loyalty.meta/loyalty/connect_responses_applied_cart_promotion_details.htm)
-- Badge Output (atlas.en-us.loyalty.meta/loyalty/connect_responses_badge_output.htm)
+- Badge (atlas.en-us.loyalty.meta/loyalty/connect_responses_badge_output.htm)
 - Cart (atlas.en-us.loyalty.meta/loyalty/connect_responses_cart.htm)
 - Cart Details (atlas.en-us.loyalty.meta/loyalty/connect_responses_cart_details.htm)
 - Cart Line Details (atlas.en-us.loyalty.meta/loyalty/connect_responses_cart_line_details.htm)

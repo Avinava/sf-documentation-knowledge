@@ -5,7 +5,7 @@ topic: licensedefinitioncustompermission-developer-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:11.734Z
+lastCollected: 2026-04-07T09:04:43.115Z
 estimatedTokens: 574
 keywords: [LicenseDefinitionCustomPermission, Developer, Preview, licensed, custom, permission, access, license's, features, included, license, definition, API, version, 54.0]
 ---

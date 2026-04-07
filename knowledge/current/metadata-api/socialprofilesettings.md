@@ -5,7 +5,7 @@ topic: socialprofilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:10.236Z
+lastCollected: 2026-04-07T09:02:44.388Z
 estimatedTokens: 798
 keywords: [SocialProfileSettings, org, preferences, social, media, features, enabling, Twitter, Facebook.Represents, Facebook, extends, Metadata, inherits, fullName, File]
 ---

@@ -5,7 +5,7 @@ topic: record-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.725Z
+lastCollected: 2026-04-07T09:04:13.775Z
 estimatedTokens: 378
 keywords: [Record, Changes, perform, advanced, tasks, force, recordData, handle, recordUpdated, event, loaded, updated, deleted, applying, different]
 ---

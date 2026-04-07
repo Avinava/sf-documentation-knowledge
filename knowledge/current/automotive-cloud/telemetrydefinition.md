@@ -5,7 +5,7 @@ topic: telemetrydefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.774Z
+lastCollected: 2026-04-07T09:03:05.704Z
 estimatedTokens: 431
 keywords: [TelemetryDefinition, definition, structure, telemetry, signal, sent, connected, asset, vehicle, Parent, File, Suffix, Directory, Location, Version, API, version, 65.0, later, Calls]
 ---

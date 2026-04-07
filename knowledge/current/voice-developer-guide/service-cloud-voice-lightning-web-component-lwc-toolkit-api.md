@@ -6,7 +6,7 @@ topic: service-cloud-voice-lightning-web-component-lwc-toolkit-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.723Z
+lastCollected: 2026-04-07T09:06:18.043Z
 estimatedTokens: 385
 keywords: [Service, Cloud, Voice, Lightning, Web, Component, LWC, Toolkit, API, build, components, access, features]
 ---

@@ -5,7 +5,7 @@ topic: benefitdisbursementadj
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.167Z
+lastCollected: 2026-04-07T09:05:12.886Z
 estimatedTokens: 888
 keywords: [BenefitDisbursementAdj, changes, enrollee's, benefit, made, monetary, non-monetary, similar, units, measure, API, version, 56.0, later, Calls]
 ---

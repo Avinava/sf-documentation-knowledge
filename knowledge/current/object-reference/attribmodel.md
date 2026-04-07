@@ -5,7 +5,7 @@ topic: attribmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:05.222Z
+lastCollected: 2026-04-07T09:04:35.431Z
 estimatedTokens: 1779
 keywords: [AttribModel, attribution, model, Personalization, Campaign, Influence, including, weights, touch, API, version, 62.0, later, Calls, Usage]
 ---

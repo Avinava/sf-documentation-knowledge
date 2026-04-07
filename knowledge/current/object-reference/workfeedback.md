@@ -5,7 +5,7 @@ topic: workfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:19.583Z
+lastCollected: 2026-04-07T09:04:52.822Z
 estimatedTokens: 716
 keywords: [WorkFeedback, answer, question, person, asked, via, feedback, store, offered, linking, particular, Calls, Additional, Considerations, Objects]
 ---
@@ -24,7 +24,7 @@ Represents the answer to a question that a person was asked via a feedback reque
 
 #### Note
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 ## Supported Calls
 

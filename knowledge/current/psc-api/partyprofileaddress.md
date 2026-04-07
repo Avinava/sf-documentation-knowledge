@@ -5,7 +5,7 @@ topic: partyprofileaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.105Z
+lastCollected: 2026-04-07T09:05:14.032Z
 estimatedTokens: 1881
 keywords: [PartyProfileAddress, address, party, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

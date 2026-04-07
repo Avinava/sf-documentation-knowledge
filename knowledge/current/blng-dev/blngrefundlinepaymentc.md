@@ -5,7 +5,7 @@ topic: blngrefundlinepaymentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.615Z
+lastCollected: 2026-04-07T09:03:17.409Z
 estimatedTokens: 1481
 keywords: [blng__RefundLinePayment__c, portion, refund, that’s, applied, unapplied, payment, line, represent, full, amount, blng, _RefundLinePayment, Calls]
 ---

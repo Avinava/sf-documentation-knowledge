@@ -5,7 +5,7 @@ topic: fields-on-contactpointaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.038Z
+lastCollected: 2026-04-07T09:04:08.244Z
 estimatedTokens: 1209
 keywords: [ContactPointAddress, Life, Sciences, Cloud, extend, standard, Contact, Point, Address, represent, contact’s, billing, shipping, associated, individual]
 ---

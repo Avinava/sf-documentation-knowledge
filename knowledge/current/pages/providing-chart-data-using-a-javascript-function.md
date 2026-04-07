@@ -6,7 +6,7 @@ topic: providing-chart-data-using-a-javascript-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.981Z
+lastCollected: 2026-04-07T09:04:56.838Z
 estimatedTokens: 586
 keywords: [Providing, Chart, Data, JavaScript, Function, access, remoting, external, non-Salesforce, source, provide, <apex, chart>, component, defined]
 ---

@@ -5,7 +5,7 @@ topic: inboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.437Z
+lastCollected: 2026-04-07T09:02:41.287Z
 estimatedTokens: 892
 keywords: [InboundNetworkConnection, connection, third-party, data, service, Salesforce, org, inbound, because, callouts, coming, Salesforce.This, extends, Metadata, inherits]
 ---

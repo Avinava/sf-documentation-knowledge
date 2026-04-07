@@ -5,7 +5,7 @@ topic: embeddedservicefieldservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:06.096Z
+lastCollected: 2026-04-07T09:02:39.863Z
 estimatedTokens: 677
 keywords: [EmbeddedServiceFieldService, setup, node, creating, embedded, Appointment, Management, deployment, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---

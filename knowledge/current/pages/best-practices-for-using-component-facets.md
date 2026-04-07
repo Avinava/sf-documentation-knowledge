@@ -5,7 +5,7 @@ topic: best-practices-for-using-component-facets
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:22.120Z
+lastCollected: 2026-04-07T09:04:57.026Z
 estimatedTokens: 677
 keywords: [Best, Practices, Component, Facets, <apex, dataTable>, actionStatus>]
 ---

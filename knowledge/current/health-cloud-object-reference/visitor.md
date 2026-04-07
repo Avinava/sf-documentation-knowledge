@@ -5,7 +5,7 @@ topic: visitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:38.225Z
+lastCollected: 2026-04-07T09:03:59.580Z
 estimatedTokens: 584
 keywords: [Visitor, sales, reps, performing, visits, Special, Access, Rules, Calls, Associated, Objects]
 ---

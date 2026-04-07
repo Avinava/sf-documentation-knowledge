@@ -5,7 +5,7 @@ topic: streaming-api-notifications-sent-in-reverse-order-within-a-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.535Z
+lastCollected: 2026-04-07T09:03:05.347Z
 estimatedTokens: 193
 keywords: [Streaming, API, Notifications, Sent, Reverse, Order, Transaction, general, event, delivered, record, changes, exception, triggers, multiple]
 ---

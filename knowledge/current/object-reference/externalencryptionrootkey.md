@@ -5,7 +5,7 @@ topic: externalencryptionrootkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.927Z
+lastCollected: 2026-04-07T09:04:41.093Z
 estimatedTokens: 1297
 keywords: [ExternalEncryptionRootKey, metadata, root, keys, stored, third-party, key, stores, generate, secure, encrypt, Salesforce, data, API, version]
 ---

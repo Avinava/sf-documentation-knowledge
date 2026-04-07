@@ -5,7 +5,7 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:45.683Z
+lastCollected: 2026-04-07T09:02:48.259Z
 estimatedTokens: 1066
 keywords: [ObjectHierarchyRelationship, mapping, input, source, output, target, transform, sales, quote, agreement, API, version, 56.0, later, SOAP]
 ---

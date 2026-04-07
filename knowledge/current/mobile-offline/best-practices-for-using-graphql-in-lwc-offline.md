@@ -5,7 +5,7 @@ topic: best-practices-for-using-graphql-in-lwc-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.993Z
+lastCollected: 2026-04-07T09:04:25.326Z
 estimatedTokens: 697
 keywords: [Best, Practices, GraphQL, LWC, Offline, There, number, aware, offline-ready, components, apps, Provide, Query, Variables, via]
 ---

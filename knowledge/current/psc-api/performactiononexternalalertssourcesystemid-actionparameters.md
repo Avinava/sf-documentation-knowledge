@@ -5,7 +5,7 @@ topic: performactiononexternalalertssourcesystemid-actionparameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.431Z
+lastCollected: 2026-04-07T09:05:07.123Z
 estimatedTokens: 233
 keywords: [performActionOnExternalAlerts, sourceSystemId, actionParameters, Snooze, external, record, alerts, source, system, time, period, dismiss, API, Version, Requires]
 ---

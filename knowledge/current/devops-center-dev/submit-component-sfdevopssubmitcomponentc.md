@@ -5,7 +5,7 @@ topic: submit-component-sfdevopssubmitcomponentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.545Z
+lastCollected: 2026-04-07T09:03:41.655Z
 estimatedTokens: 929
 keywords: [Submit, Component, sf_devops__Submit_Component__c, metadata, committed, feature, branch, source, control, repository, commit, initiated, two, ways, either]
 ---

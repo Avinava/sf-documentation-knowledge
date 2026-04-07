@@ -5,7 +5,7 @@ topic: loyalty-management-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.797Z
+lastCollected: 2026-04-07T09:04:19.508Z
 estimatedTokens: 618
 keywords: [Loyalty, Management, Associated, Objects, standard, their]
 ---

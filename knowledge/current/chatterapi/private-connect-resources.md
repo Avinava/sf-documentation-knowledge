@@ -5,7 +5,7 @@ topic: private-connect-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:15.914Z
+lastCollected: 2026-04-07T09:03:27.761Z
 estimatedTokens: 196
 keywords: [Connect, Resources, inbound, outbound, network, topologies, connection, Provision, sync, tear, down]
 ---

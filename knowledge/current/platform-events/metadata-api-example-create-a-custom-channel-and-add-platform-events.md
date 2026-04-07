@@ -5,7 +5,7 @@ topic: metadata-api-example-create-a-custom-channel-and-add-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.724Z
+lastCollected: 2026-04-07T09:05:04.956Z
 estimatedTokens: 658
 keywords: [Metadata, API, Custom, Channel, Add, Platform, Events, Instead, Tooling, member, recommend, part, application, lifecycle, management]
 ---

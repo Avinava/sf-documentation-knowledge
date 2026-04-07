@@ -5,7 +5,7 @@ topic: assessmentquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:29.130Z
+lastCollected: 2026-04-07T09:03:48.158Z
 estimatedTokens: 1402
 keywords: [AssessmentQuestion, container, stores, questions, assessment, Parent, File, Suffix, Directory, Location, Version, AssessmentQuestionVersion​​, Declarative, Metadata, Sample]
 ---

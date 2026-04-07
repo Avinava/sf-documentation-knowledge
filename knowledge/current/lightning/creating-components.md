@@ -5,7 +5,7 @@ topic: creating-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.395Z
+lastCollected: 2026-04-07T09:04:13.285Z
 estimatedTokens: 1686
 keywords: [Creating, Components, functional, units, Lightning, Component, framework]
 ---

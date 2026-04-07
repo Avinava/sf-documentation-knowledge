@@ -5,7 +5,7 @@ topic: connectapistamp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:29.092Z
+lastCollected: 2026-04-07T09:02:26.580Z
 estimatedTokens: 114
 keywords: [ConnectApi.Stamp, user, stamp]
 ---

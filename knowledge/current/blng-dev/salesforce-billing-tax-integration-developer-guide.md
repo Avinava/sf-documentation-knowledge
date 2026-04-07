@@ -5,7 +5,7 @@ topic: salesforce-billing-tax-integration-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.981Z
+lastCollected: 2026-04-07T09:03:16.591Z
 estimatedTokens: 156
 keywords: [Salesforce, Billing, Tax, Integration, Developer, API, enable, communication, external, engines]
 ---

@@ -5,7 +5,7 @@ topic: sql-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.330Z
+lastCollected: 2026-04-07T09:03:41.337Z
 estimatedTokens: 480
 keywords: [SQL, Configuration, running, Data, Loader, batch, mode, command, line, SqlConfig, accessing, specific, database, Query, Bean]
 ---

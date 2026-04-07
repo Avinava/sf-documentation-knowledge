@@ -5,7 +5,7 @@ topic: intelligent-document-reader-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.857Z
+lastCollected: 2026-04-07T09:05:11.027Z
 estimatedTokens: 331
 keywords: [Intelligent, Document, Reader, Standard, Invocable, Actions, detects, extracts, text, Amazon, Textract, API, optical, character, recognition]
 ---

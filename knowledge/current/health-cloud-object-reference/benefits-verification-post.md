@@ -5,7 +5,7 @@ topic: benefits-verification-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.371Z
+lastCollected: 2026-04-07T09:03:53.337Z
 estimatedTokens: 359
 keywords: [Benefits, Verification, POST, Verify, API, call, main, resource, checking, health, patient]
 ---

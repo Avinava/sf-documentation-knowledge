@@ -6,7 +6,7 @@ topic: use-aura-and-lightning-web-components-outside-of-salesforce-with-lightnin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.258Z
+lastCollected: 2026-04-07T09:04:14.538Z
 estimatedTokens: 487
 keywords: [Aura, Lightning, Web, Components, Outside, Salesforce, Beta, run, servers, special, standalone, app, Whether, it’s, Node.js]
 ---

@@ -5,7 +5,7 @@ topic: authentication-versioning-limits-etag-and-more
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:20.083Z
+lastCollected: 2026-04-07T09:06:15.594Z
 estimatedTokens: 1041
 keywords: [Authentication, Versioning, Limits, ETag, high-level, facts, how, User, API, authenticate, versioned, rate, glance]
 ---

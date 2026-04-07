@@ -5,7 +5,7 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:10.745Z
+lastCollected: 2026-04-07T09:02:44.958Z
 estimatedTokens: 1832
 keywords: [Deprecated, Updates, components, organization, asynchronously, call, removed, API, version, 31.0, earlier, versions, updateMetadata, renameMetadata, instead]
 ---

@@ -5,7 +5,7 @@ topic: get-started-with-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.619Z
+lastCollected: 2026-04-07T09:04:54.481Z
 estimatedTokens: 600
 keywords: [Started, Checkout, Management, App, Install, CMA, Salesforce, org, configure, users, right, level, access, data, Enable]
 ---

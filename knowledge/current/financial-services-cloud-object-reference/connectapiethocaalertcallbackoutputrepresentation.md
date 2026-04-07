@@ -5,7 +5,7 @@ topic: connectapiethocaalertcallbackoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.002Z
+lastCollected: 2026-04-07T09:03:46.552Z
 estimatedTokens: 84
 keywords: [Ethoca, alert, callback, output, dispute, management]
 ---

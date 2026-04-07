@@ -5,7 +5,7 @@ topic: salesforcepayment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:16.477Z
+lastCollected: 2026-04-07T09:04:48.765Z
 estimatedTokens: 512
 keywords: [SalesforcePayment, Read-only, virtual, Account, App, payments, organization’s, Salesforce, invoice, Calls, Usage, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: response-elements
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.702Z
+lastCollected: 2026-04-07T09:06:19.524Z
 estimatedTokens: 1530
 keywords: [Elements, external, search, provider, results, federated, connector, Atom, RSS, Common, Salesforce, Dublin, Core, provided, extracts]
 ---

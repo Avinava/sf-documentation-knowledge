@@ -5,7 +5,7 @@ topic: flowdefinitionview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.227Z
+lastCollected: 2026-04-07T09:05:46.178Z
 estimatedTokens: 689
 namespace: NamespacePrefix
 keywords: [FlowDefinitionView, flow, definition, API, version, 46.0, later]

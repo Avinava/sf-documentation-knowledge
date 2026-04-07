@@ -5,7 +5,7 @@ topic: generate-rebate-payout-periods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.070Z
+lastCollected: 2026-04-07T09:03:19.330Z
 estimatedTokens: 215
 keywords: [Generate, Rebate, Payout, Periods, program, frequency, REST, HTTP, Inputs, Outputs, Usage]
 ---

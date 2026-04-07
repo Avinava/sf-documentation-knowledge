@@ -5,7 +5,7 @@ topic: uninstallhandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.955Z
+lastCollected: 2026-04-07T09:02:30.296Z
 estimatedTokens: 835
 namespace: System
 keywords: [UninstallHandler, custom, code, run, managed, package, uninstalled, Usage, onUninstall, context, Implementation, Uninstall, Script]

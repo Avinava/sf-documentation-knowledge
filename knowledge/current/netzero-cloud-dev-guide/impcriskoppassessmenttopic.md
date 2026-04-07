@@ -5,7 +5,7 @@ topic: impcriskoppassessmenttopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.423Z
+lastCollected: 2026-04-07T09:04:28.280Z
 estimatedTokens: 617
 keywords: [ImpcRiskOppAssessmentTopic, junction, impact, risk, opportunity, assessment, materiality, topic, API, version, 63.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: sequence-order-payment-summary-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:12.812Z
+lastCollected: 2026-04-07T09:03:23.490Z
 estimatedTokens: 357
 keywords: [Sequence, Order, Payment, Summary, Input, Amount, apply, OrderPaymentSummary, part, refund]
 ---

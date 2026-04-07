@@ -5,7 +5,7 @@ topic: commerce-sales-channel-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:31.330Z
+lastCollected: 2026-04-07T09:02:07.814Z
 estimatedTokens: 215
 keywords: [Commerce, Sales, Channel, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects, DMO]
 ---

@@ -5,7 +5,7 @@ topic: partnerrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.346Z
+lastCollected: 2026-04-07T09:04:46.207Z
 estimatedTokens: 590
 keywords: [PartnerRole, role, account, Partner, consultant, supplier, Calls, Special, Access, Rules, Usage]
 ---

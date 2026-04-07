@@ -5,7 +5,7 @@ topic: bulkapi2jobevent-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.364Z
+lastCollected: 2026-04-07T09:05:05.891Z
 estimatedTokens: 478
 keywords: [BulkApi2JobEvent, Beta, Notifies, subscribers, changes, status, Bulk, API, 2.0, query, jobs, URLs, downloading, partial, results]
 ---

@@ -5,7 +5,7 @@ topic: bulk-presentation-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.503Z
+lastCollected: 2026-04-07T09:04:06.064Z
 estimatedTokens: 378
 keywords: [Bulk, Presentation, PATCH, associated, content, upload, files, PDF, ZIP, associating, metadata, Health, Cloud, Starter, Life]
 ---

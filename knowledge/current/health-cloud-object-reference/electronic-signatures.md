@@ -5,7 +5,7 @@ topic: electronic-signatures
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.046Z
+lastCollected: 2026-04-07T09:03:54.368Z
 estimatedTokens: 404
 keywords: [Electronic, Signatures, Manage, Digital, Verifications, trails, records, workflows, require, users, verify, key, updates, Define, order]
 ---

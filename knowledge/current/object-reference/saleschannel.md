@@ -5,8 +5,8 @@ topic: saleschannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.442Z
-estimatedTokens: 988
+lastCollected: 2026-04-07T09:04:48.718Z
+estimatedTokens: 1070
 keywords: [SalesChannel, origin, order, web, storefront, physical, store, marketplace, mobile, app, integrate, Salesforce, Management, B2C, Commerce]
 ---
 
@@ -50,6 +50,10 @@ This object has the following associated objects. If the API version isn’t spe
 
 Change events are available for the object.
 
+[SalesChannelShare](atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")(API version 66.0)
+
+Sharing is available for the object.
+
 #### See Also
 
 -   [Order](atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_order.htm "Represents an order associated with a contract or an account.")
@@ -59,5 +63,6 @@ Change events are available for the object.
 ## Related Topics
 
 - SalesChannelChangeEvent (atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm)
+- SalesChannelShare (atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm)
 - Order (atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_order.htm)
 - OrderSummary (atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_ordersummary.htm)

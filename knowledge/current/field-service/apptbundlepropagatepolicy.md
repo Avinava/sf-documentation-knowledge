@@ -5,7 +5,7 @@ topic: apptbundlepropagatepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.809Z
+lastCollected: 2026-04-07T09:03:01.328Z
 estimatedTokens: 884
 keywords: [ApptBundlePropagatePolicy, Policy, inherited, bundle, members, assigned, constant, API, version, 55.0, later, Calls, Special, Access, Rules]
 ---

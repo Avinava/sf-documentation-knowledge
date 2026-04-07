@@ -5,8 +5,8 @@ topic: clinicalencounter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.116Z
-estimatedTokens: 2798
+lastCollected: 2026-04-07T09:04:07.018Z
+estimatedTokens: 2296
 keywords: [ClinicalEncounter, healthcare, encounter, patient, care, provider, broad, covers, multiple, phases, patient’s, service, experience, way, pre-admission]
 ---
 
@@ -87,27 +87,8 @@ Feed tracking is available for the object.
 
 History is available for tracked fields of the object.
 
--   **[ClinicalEncounterDiagnosis](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterDiagnosis.htm)**
-    Represents a diagnosis related to a clinical encounter. This object is a child object of ClinicalEncounter. This object is available in API version 51.0 and later.
--   **[ClinicalEncounterFacility](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterFacility.htm)**
-    Represents information about the different facilities involved in an encounter, the time spent at those facilies, and other relevant details. This is a child object of ClinicalEncounter. This object is available in API version 51.0 and later.
--   **[ClinicalEncounterIdentifier](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterIdentifier.htm)**
-    Represents the identifier information for a clinical encounter. This object is a child object of ClinicalEncounter. This object is available in API version 51.0 and later.
--   **[ClinicalEncounterProvider](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterProvider.htm)**
-    Represents the providers involved in an encounter. This object is a child object of ClinicalEncounter. This object is available in API version 51.0 and later.
--   **[ClinicalEncounterReason](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterReason.htm)**
-    Represents the reasons for why the encounter was required. This object is a child object of ClinicalEncounter. This object is available in API version 51.0 and later.
--   **[ClinicalEncounterSvcRequest](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterSvcRequest.htm)**
-    Represents the service requests related to a clinical encounter. This object is a child object of ClinicalEncounter. This object is available in API version 51.0 and later.
-
 ## Related Topics
 
 - ClinicalEncounterChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
 - ClinicalEncounterFeed (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_feed.htm)
 - ClinicalEncounterHistory (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_history.htm)
-- ClinicalEncounterDiagnosis (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterDiagnosis.htm)
-- ClinicalEncounterFacility (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterFacility.htm)
-- ClinicalEncounterIdentifier (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterIdentifier.htm)
-- ClinicalEncounterProvider (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterProvider.htm)
-- ClinicalEncounterReason (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterReason.htm)
-- ClinicalEncounterSvcRequest (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalEncounterSvcRequest.htm)

@@ -5,7 +5,7 @@ topic: api-framework-for-exchanges-with-rma-returns
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.102Z
+lastCollected: 2026-04-07T09:04:53.565Z
 estimatedTokens: 1314
 keywords: [API, Framework, Exchanges, RMA, Expand, exchange, capability, increasing, ways, customer, service, representative, CSR, help, customers]
 ---

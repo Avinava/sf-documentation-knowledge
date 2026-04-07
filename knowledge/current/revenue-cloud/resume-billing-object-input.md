@@ -5,7 +5,7 @@ topic: resume-billing-object-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.858Z
+lastCollected: 2026-04-07T09:01:58.854Z
 estimatedTokens: 180
 keywords: [Resume, Billing, Input, representation, account, schedule, group, along, effective, date, start, operation]
 ---

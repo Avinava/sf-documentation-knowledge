@@ -5,7 +5,7 @@ topic: commerce-webstore-my-profile-initiate-otp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.374Z
+lastCollected: 2026-04-07T09:03:25.547Z
 estimatedTokens: 497
 keywords: [Commerce, Webstore, Profile, Initiate, OTP, one-time, password, via, SMS, Email, API, unique, identifier, associated]
 ---

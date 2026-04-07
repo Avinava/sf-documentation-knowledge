@@ -5,7 +5,7 @@ topic: differentialshift
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.197Z
+lastCollected: 2026-04-07T09:03:45.375Z
 estimatedTokens: 379
 keywords: [DifferentialShift, collection, store, shifts, different, normal, resource, marked, against, timesheet, entries, API, version, 65.0, later]
 ---

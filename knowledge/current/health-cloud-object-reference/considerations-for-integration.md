@@ -5,7 +5,7 @@ topic: considerations-for-integration
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:35.428Z
+lastCollected: 2026-04-07T09:03:56.150Z
 estimatedTokens: 1051
 keywords: [Considerations, Integration, Salesforce, implementation, FHIR, resources, differs, specification, Built, core, platform, FHIR-aligned, clinical, data, model]
 ---

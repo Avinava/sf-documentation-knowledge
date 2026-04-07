@@ -5,7 +5,7 @@ topic: design-security-hardened-prompts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.112Z
+lastCollected: 2026-04-07T09:04:55.343Z
 estimatedTokens: 399
 keywords: [Design, Security-Hardened, Prompts, designing, prompt, sure, it’s, hardened, against, attacks, attempt, alter, instructions, Define, roles]
 ---

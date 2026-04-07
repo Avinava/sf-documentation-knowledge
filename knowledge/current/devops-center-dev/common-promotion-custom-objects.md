@@ -5,7 +5,7 @@ topic: common-promotion-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.384Z
+lastCollected: 2026-04-07T09:03:41.441Z
 estimatedTokens: 518
 keywords: [Common, Promotion, Custom, Objects, drill, down, promotions, let’s, review, unbundled, bundled, share, Deployment, Result, Merge]
 ---

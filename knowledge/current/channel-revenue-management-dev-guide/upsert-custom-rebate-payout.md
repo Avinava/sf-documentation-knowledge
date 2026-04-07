@@ -5,7 +5,7 @@ topic: upsert-custom-rebate-payout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.095Z
+lastCollected: 2026-04-07T09:03:19.364Z
 estimatedTokens: 389
 keywords: [Upsert, Custom, Rebate, Payout, calculated, aggregate, record, REST, HTTP, Inputs, Outputs, Usage]
 ---

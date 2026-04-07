@@ -5,7 +5,7 @@ topic: lens-state
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.395Z
+lastCollected: 2026-04-07T09:03:10.861Z
 estimatedTokens: 2926
 keywords: [Lens, State, Analytics, lenses, Bar​Lens​Visualization​Options, Dot​Lens​Visualization​Options, Heat​Map​Lens​Visualization​Options, Matrix​Lens​Visualization​Options, Pie​Lens​Visualization​Options, Pivot​Table​Lens​Visualization​Options, Scatter​Lens​Visualization​Options, Stacked​Bar​Lens​Visualization​Options, Table​Lens​Visualization​Options, Time​Lens​Visualization​Options, Values​Table​Lens​Visualization​Options]
 ---

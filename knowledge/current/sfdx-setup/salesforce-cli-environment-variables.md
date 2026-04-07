@@ -5,7 +5,7 @@ topic: salesforce-cli-environment-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:19.069Z
+lastCollected: 2026-04-07T09:06:14.220Z
 estimatedTokens: 6350
 keywords: [Salesforce, CLI, Environment, Variables, configure, certain, uses, FORCE, _OPEN, _URL, _SHOW, _SPINNER, _DELAY, _ACCESS, _TOKEN]
 ---

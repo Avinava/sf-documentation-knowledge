@@ -5,7 +5,7 @@ topic: orderownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.991Z
+lastCollected: 2026-04-07T09:04:45.801Z
 estimatedTokens: 769
 keywords: [OrderOwnerSharingRule, rule, determines, order, sharing, access, order’s, owners, Calls, Special, Rules, Usage]
 ---

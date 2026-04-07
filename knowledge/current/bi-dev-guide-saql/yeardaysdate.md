@@ -5,7 +5,7 @@ topic: yeardaysdate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.593Z
+lastCollected: 2026-04-07T09:03:14.392Z
 estimatedTokens: 23
 keywords: [year_days, date, number, days, year, specific, _days]
 ---

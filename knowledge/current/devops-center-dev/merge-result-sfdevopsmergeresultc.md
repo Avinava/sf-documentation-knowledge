@@ -5,7 +5,7 @@ topic: merge-result-sfdevopsmergeresultc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.489Z
+lastCollected: 2026-04-07T09:03:41.584Z
 estimatedTokens: 453
 keywords: [Merge, Result, sf_devops__Merge_Result__c, DevOps, Center, Heroku, application, source, control, branch, part, promotion, completes, stores, happened]
 ---

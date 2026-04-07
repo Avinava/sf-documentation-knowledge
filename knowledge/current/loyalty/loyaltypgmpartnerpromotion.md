@@ -5,7 +5,7 @@ topic: loyaltypgmpartnerpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.182Z
+lastCollected: 2026-04-07T09:04:20.003Z
 estimatedTokens: 686
 keywords: [LoyaltyPgmPartnerPromotion, junction, Promotion, Loyalty, Program, Partner, objects, API, version, 55.0, later, Calls, Associated]
 ---

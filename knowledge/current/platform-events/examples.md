@@ -5,7 +5,7 @@ topic: examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.791Z
+lastCollected: 2026-04-07T09:05:05.065Z
 estimatedTokens: 275
 keywords: [Examples, Check, platform, event, apps—an, end-to-end, flows, Java, client, sample, app, covers, business, scenario]
 ---

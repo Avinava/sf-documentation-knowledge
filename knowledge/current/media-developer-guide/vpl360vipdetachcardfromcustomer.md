@@ -5,7 +5,7 @@ topic: vpl360vipdetachcardfromcustomer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.166Z
+lastCollected: 2026-04-07T09:04:21.226Z
 estimatedTokens: 160
 keywords: [VPL360_VIP_DetachcardFromCustomer, Integration, Procedure, detaches, card, payment, subscriber's, account, VPL360, _VIP, _DetachcardFromCustomer, Sample, Input, Output, Calls]
 ---

@@ -5,7 +5,7 @@ topic: use-mcp-tools-for-mobile-lwc-and-offline-development-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.539Z
+lastCollected: 2026-04-07T09:04:24.660Z
 estimatedTokens: 1266
 keywords: [MCP, Tools, Mobile, LWC, Offline, Development, Beta, Model, Context, Protocol, include, Native, Capabilities, help, developers]
 ---

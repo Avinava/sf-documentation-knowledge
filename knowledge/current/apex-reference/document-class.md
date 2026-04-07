@@ -5,7 +5,7 @@ topic: document-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.333Z
+lastCollected: 2026-04-07T09:02:18.859Z
 estimatedTokens: 1236
 namespace: Dom
 keywords: [Document, process, XML, content, parse, nested, that’s, nodes, deep, Usage, createRootElement, prefix, getRootElement, load, toXmlString]

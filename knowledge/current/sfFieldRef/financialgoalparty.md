@@ -5,7 +5,7 @@ topic: financialgoalparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.168Z
+lastCollected: 2026-04-07T09:05:46.100Z
 estimatedTokens: 259
 keywords: [FinancialGoalParty, junction, financial, goal, person, account, API, version, 59.0, later]
 ---

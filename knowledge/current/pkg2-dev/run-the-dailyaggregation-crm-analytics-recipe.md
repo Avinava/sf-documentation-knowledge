@@ -5,7 +5,7 @@ topic: run-the-dailyaggregation-crm-analytics-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.851Z
+lastCollected: 2026-04-07T09:05:02.310Z
 estimatedTokens: 191
 keywords: [Run, DailyAggregation, CRM, Analytics, Recipe, reusable, dataset, schedule, regular, basis, recommend, daily, midnight]
 ---

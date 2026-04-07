@@ -5,7 +5,7 @@ topic: cdpbasedloyaltypromotioninputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.490Z
+lastCollected: 2026-04-07T09:04:16.497Z
 estimatedTokens: 870
 namespace: LoyaltyManagement
 keywords: [CdpBasedLoyaltyPromotionInputBuilder, build, instance, setMemberId, memberId, setPromotions, promotions]

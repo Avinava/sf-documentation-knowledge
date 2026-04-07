@@ -5,7 +5,7 @@ topic: setagentstateresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.607Z
+lastCollected: 2026-04-07T09:05:29.760Z
 estimatedTokens: 207
 keywords: [SetAgentStateResult, setAgentStatus, whether, status, succeeded, follow-up, sync, Amazon, Connect]
 ---

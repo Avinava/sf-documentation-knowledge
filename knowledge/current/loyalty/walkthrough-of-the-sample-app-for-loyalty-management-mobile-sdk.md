@@ -5,7 +5,7 @@ topic: walkthrough-of-the-sample-app-for-loyalty-management-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.672Z
+lastCollected: 2026-04-07T09:04:19.346Z
 estimatedTokens: 443
 keywords: [Walkthrough, Sample, App, Loyalty, Management, Mobile, SDK, Adam, enroll, program, member, experience, device, Let’s, look]
 ---

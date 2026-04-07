@@ -6,7 +6,7 @@ topic: why-doesnt-data-appear-in-my-appexchange-marketplace-analytics-activity-s
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.018Z
+lastCollected: 2026-04-07T09:04:55.126Z
 estimatedTokens: 73
 keywords: [Why, Doesn’t, Data, Appear, AppExchange, Marketplace, Analytics, Activity, Summary, Visualization, Typically, issue, happens, can’t, selected]
 ---

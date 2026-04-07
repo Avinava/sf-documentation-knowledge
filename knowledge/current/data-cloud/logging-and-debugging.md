@@ -5,7 +5,7 @@ topic: logging-and-debugging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:29.261Z
+lastCollected: 2026-04-07T09:02:06.487Z
 estimatedTokens: 414
 keywords: [Logging, Debugging, yet, critical, SDK, feature, mobile, application, developer, select, verbosity, Data, Cloud, Module, Engagement]
 ---

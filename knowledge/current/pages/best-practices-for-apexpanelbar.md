@@ -5,7 +5,7 @@ topic: best-practices-for-apexpanelbar
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:22.131Z
+lastCollected: 2026-04-07T09:04:57.043Z
 estimatedTokens: 195
 keywords: [Best, Practices, <apex, panelbar>, display, account, data, record, query, URL, https, MyDomain_login_URL, apex, myPage?id=001D000000IRosz]
 ---

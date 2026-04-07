@@ -5,7 +5,7 @@ topic: order-summaries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.515Z
+lastCollected: 2026-04-07T09:03:28.594Z
 estimatedTokens: 797
 keywords: [Order, Summaries, OrderSummary, considered, original, Subsequent, change, orders, apply, represented, specify, whether, managed, Salesforce, Management]
 ---

@@ -5,7 +5,7 @@ topic: provideroffering
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.764Z
+lastCollected: 2026-04-07T09:03:44.715Z
 estimatedTokens: 704
 keywords: [ProviderOffering, people, organizations, associated, providing, benefits, program, participants, API, version, 60.0, later, Calls, Objects]
 ---

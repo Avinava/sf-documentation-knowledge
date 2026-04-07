@@ -5,7 +5,7 @@ topic: create-care-plan-tasks-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.674Z
+lastCollected: 2026-04-07T09:04:29.712Z
 estimatedTokens: 257
 keywords: [Care, Plan, Tasks, Input, representation, task]
 ---

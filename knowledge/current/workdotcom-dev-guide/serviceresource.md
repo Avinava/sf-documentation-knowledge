@@ -5,7 +5,7 @@ topic: serviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.541Z
+lastCollected: 2026-04-07T09:06:19.301Z
 estimatedTokens: 231
 keywords: [ServiceResource, user, accept, shifts, Data, imported, employee, records, Service, Resource, Resources, linked, Territories, their, Territory]
 ---

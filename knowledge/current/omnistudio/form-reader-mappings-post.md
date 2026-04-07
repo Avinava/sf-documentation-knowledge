@@ -5,7 +5,7 @@ topic: form-reader-mappings-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.935Z
+lastCollected: 2026-04-07T09:02:52.574Z
 estimatedTokens: 627
 keywords: [Form, Reader, Mappings, POST, Retrieve, keys, extracted, document, Salesforce, respect, template, Permission, Usage]
 ---

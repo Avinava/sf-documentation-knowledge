@@ -5,7 +5,7 @@ topic: outcome-management-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.491Z
+lastCollected: 2026-04-07T09:05:11.936Z
 estimatedTokens: 342
 keywords: [Outcome, Management, Developer, define, measure, evaluate, organization’s, strategy, time-bound, targets, baseline, track, results, Consistently, indicators]
 ---

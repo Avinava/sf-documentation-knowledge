@@ -5,7 +5,7 @@ topic: activefeaturelicensemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.970Z
+lastCollected: 2026-04-07T09:04:33.953Z
 estimatedTokens: 359
 keywords: [ActiveFeatureLicenseMetric, number, active, assigned, purchased, feature, licenses, org, API, version, 52.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudorderc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:39.036Z
+lastCollected: 2026-04-07T09:05:20.546Z
 estimatedTokens: 5229
 keywords: [cgcloud__Order__c, Stores, order, entry, API, version, 54.0, later, cgcloud, _Order, Calls, Associated, Objects]
 ---

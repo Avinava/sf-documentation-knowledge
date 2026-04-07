@@ -5,7 +5,7 @@ topic: cancelpolicycancelpolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.982Z
+lastCollected: 2026-04-07T09:04:00.600Z
 estimatedTokens: 312
 keywords: [CancelPolicy, CancelPolicyInput, policyId, Cancel, insurance, policy, version, API, effective, date, cancellation, input, JSON, advance, term]
 ---

@@ -5,7 +5,7 @@ topic: using-the-visualforce-component-library
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.937Z
+lastCollected: 2026-04-07T09:04:59.657Z
 estimatedTokens: 667
 keywords: [Visualforce, Component, Library, point, tag, examples, mandatory, <apex, page>, placed, start, end, markup, However, insert]
 ---

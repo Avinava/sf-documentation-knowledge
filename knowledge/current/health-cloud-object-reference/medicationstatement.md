@@ -5,7 +5,7 @@ topic: medicationstatement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.928Z
+lastCollected: 2026-04-07T09:03:54.192Z
 estimatedTokens: 2135
 keywords: [MedicationStatement, record, medication, patient, currently, taking, taken, past, API, version, 51.0, later, Calls, Additional, Objects, Medication​Statement, FHIR, resource, maps, Salesforce​]
 ---

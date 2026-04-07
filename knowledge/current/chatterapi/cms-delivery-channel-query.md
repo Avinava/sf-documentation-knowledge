@@ -5,7 +5,7 @@ topic: cms-delivery-channel-query
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.665Z
+lastCollected: 2026-04-07T09:03:27.397Z
 estimatedTokens: 593
 keywords: [CMS, Delivery, Channel, Query, published, managed, content, versions]
 ---

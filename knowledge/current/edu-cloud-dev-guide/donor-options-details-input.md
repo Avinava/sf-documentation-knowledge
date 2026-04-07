@@ -5,7 +5,7 @@ topic: donor-options-details-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.805Z
+lastCollected: 2026-04-07T09:03:42.020Z
 estimatedTokens: 230
 keywords: [Donor, Options, Input, representation, processing, includes, targeted, logic, donor-related, components, commitment, transaction]
 ---

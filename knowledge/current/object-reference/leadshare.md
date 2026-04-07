@@ -5,7 +5,7 @@ topic: leadshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.659Z
+lastCollected: 2026-04-07T09:04:43.017Z
 estimatedTokens: 1037
 keywords: [LeadShare, sharing, entry, Lead, Calls, Special, Access, Rules, Usage]
 ---

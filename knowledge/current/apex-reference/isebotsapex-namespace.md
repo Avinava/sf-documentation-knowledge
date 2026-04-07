@@ -5,7 +5,7 @@ topic: isebotsapex-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:31.755Z
+lastCollected: 2026-04-07T09:02:29.954Z
 estimatedTokens: 199
 namespace: The
 keywords: [ise_bots_apex, classes, facilitate, dynamic, content, generation, data, handling, menu-driven, bot, interactions, manage, menu, items, adapt]

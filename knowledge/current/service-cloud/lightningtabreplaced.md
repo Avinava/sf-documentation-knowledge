@@ -5,7 +5,7 @@ topic: lightningtabreplaced
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.126Z
+lastCollected: 2026-04-07T09:03:03.024Z
 estimatedTokens: 102
 keywords: [lightning, tabReplaced, tab, replaced, successfully, lightning__tabReplaced, Lightning, message, channel, corresponds, Aura, app, event, web, components, console, _tabReplaced, LWC]
 ---

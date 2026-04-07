@@ -5,7 +5,7 @@ topic: feedback-during-technical-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.238Z
+lastCollected: 2026-04-07T09:04:55.606Z
 estimatedTokens: 148
 keywords: [Feedback, Technical, Testing, verify, submission, everything, evaluate, security, solution, Product, team, starts]
 ---

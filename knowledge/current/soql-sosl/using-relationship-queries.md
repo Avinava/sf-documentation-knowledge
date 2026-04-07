@@ -5,7 +5,7 @@ topic: using-relationship-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.599Z
+lastCollected: 2026-04-07T09:06:14.940Z
 estimatedTokens: 646
 keywords: [Relationship, Queries, SOQL, query, several, Child-to-Parent, Relationships, Parent-to-Child, Traverse]
 ---

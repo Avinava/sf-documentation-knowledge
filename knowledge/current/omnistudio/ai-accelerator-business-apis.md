@@ -5,7 +5,7 @@ topic: ai-accelerator-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:47.152Z
+lastCollected: 2026-04-07T09:02:49.786Z
 estimatedTokens: 372
 keywords: [Accelerator, Business, APIs, real-time, score, predictions, machine, learning, case, model]
 ---

@@ -5,7 +5,7 @@ topic: smart-data-discovery-tensorflow-model-runtime-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.305Z
+lastCollected: 2026-04-07T09:03:12.389Z
 estimatedTokens: 97
 keywords: [Smart, Data, Discovery, TensorFlow, Model, Runtime, Input, identify]
 ---

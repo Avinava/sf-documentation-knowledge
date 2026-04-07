@@ -5,7 +5,7 @@ topic: customizing-the-appearance-and-output-of-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.655Z
+lastCollected: 2026-04-07T09:04:59.226Z
 estimatedTokens: 709
 keywords: [Customizing, Appearance, Output, Visualforce, Pages, components, HTML, that’s, sent, browser, rendering, Visualforce’s, generation, sophisticated, automatically]
 ---

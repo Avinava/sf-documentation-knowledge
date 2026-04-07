@@ -5,7 +5,7 @@ topic: tpmrtrfundsams-the-logic-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.423Z
+lastCollected: 2026-04-07T09:03:18.296Z
 estimatedTokens: 158
 keywords: [TPM_RTRFunds_AMS, Logic, RTRSalesforceMonthlyMeasures, datasource, execute, base, classes, every, report, TPM, _RTRFunds, _AMS]
 ---

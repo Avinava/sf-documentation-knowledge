@@ -5,7 +5,7 @@ topic: manual-inputs-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.528Z
+lastCollected: 2026-04-07T09:05:17.117Z
 estimatedTokens: 1354
 keywords: [Manual, Inputs, APEX, programmatic, access, TPM, Promotion, Calculation, Overrides, Scenario, _ManualInputs, ManualCalculationInput, API, Version, removeManualInput]
 ---
@@ -38,9 +38,9 @@ The following are methods for TPM\_ManualInputs.
 
 -   **[global ManualCalculationInput](atlas.en-us.retail_api.meta/retail_api/TPM_ManualInputs.htm#global_manual_calculation)**
     Adds a new Manual Input entry to the instance.
--   **[global List](atlas.en-us.retail_api.meta/retail_api/TPM_ManualInputs.htm#unique_1656981137)**
+-   **[global List](atlas.en-us.retail_api.meta/retail_api/TPM_ManualInputs.htm#unique_1320926609)**
     Returns the list of all Manual Inputs in the current instance.
--   **[global void removeManualInput](atlas.en-us.retail_api.meta/retail_api/TPM_ManualInputs.htm#unique_301275579)**
+-   **[global void removeManualInput](atlas.en-us.retail_api.meta/retail_api/TPM_ManualInputs.htm#unique_816519133)**
     Removes the passed in manual input from the instance. If the manual input is not contained in the instance, nothing is removed.
 -   **[global Object toGenericObject](atlas.en-us.retail_api.meta/retail_api/TPM_ManualInputs.htm#generic_object)**
     Serializes the manual inputs information to a generic Object instance. Useful for using the information in Remote calls.

@@ -5,7 +5,7 @@ topic: getrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.542Z
+lastCollected: 2026-04-07T09:04:56.066Z
 estimatedTokens: 200
 keywords: [getRecord, record, currently, context, query, Visualforce, URL, Usage, sObject, changes, selected, records, retrieves, prototype, contained, performing, mass, updates]
 ---

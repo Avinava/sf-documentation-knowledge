@@ -5,7 +5,7 @@ topic: salesforce-scheduler-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.570Z
+lastCollected: 2026-04-07T09:05:26.807Z
 estimatedTokens: 2461
 keywords: [Salesforce, Scheduler, Standard, Objects, gives, access, suite, Setup, tabs, shares, Service, core, features, including, appointments]
 ---

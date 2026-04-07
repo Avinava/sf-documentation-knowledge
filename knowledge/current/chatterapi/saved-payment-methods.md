@@ -5,7 +5,7 @@ topic: saved-payment-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.191Z
+lastCollected: 2026-04-07T09:03:28.112Z
 estimatedTokens: 692
 keywords: [Saved, Payment, Retrieves, belong, particular, merchant, account, contact, creates, Special, Access, Rules]
 ---

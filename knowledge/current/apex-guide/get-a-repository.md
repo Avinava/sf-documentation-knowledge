@@ -5,7 +5,7 @@ topic: get-a-repository
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.642Z
+lastCollected: 2026-04-07T09:02:33.786Z
 estimatedTokens: 72
 keywords: [Repository, Call]
 ---

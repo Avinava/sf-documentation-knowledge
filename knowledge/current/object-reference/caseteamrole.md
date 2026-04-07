@@ -5,7 +5,7 @@ topic: caseteamrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.350Z
+lastCollected: 2026-04-07T09:04:36.735Z
 estimatedTokens: 234
 keywords: [CaseTeamRole, case, team, role, Every, member, “Customer, Contact”, “Case, Manager.”, Calls, Special, Access, Rules]
 ---

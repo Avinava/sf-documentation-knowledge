@@ -5,7 +5,7 @@ topic: rotation-of-s3-credentials-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:30.128Z
+lastCollected: 2026-04-07T09:02:07.020Z
 estimatedTokens: 954
 keywords: [Rotation, Credentials, Metadata, API, rotate, enable, access, AWS, retrieve, connectors, modify, deploy, Familiarize, Yourself, Salesforce]
 ---

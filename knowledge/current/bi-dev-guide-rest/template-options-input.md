@@ -5,7 +5,7 @@ topic: template-options-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.890Z
+lastCollected: 2026-04-07T09:03:08.635Z
 estimatedTokens: 208
 keywords: [Template, Options, Input, upgrade, templated, Analytics, app]
 ---

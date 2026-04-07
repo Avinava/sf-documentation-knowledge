@@ -5,7 +5,7 @@ topic: gameauthenticator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.792Z
+lastCollected: 2026-04-07T09:04:18.196Z
 estimatedTokens: 97
 keywords: [GameAuthenticator, necessary, handling, access, tokens, Salesforce, API, getAccessToken, grantAccessToken]
 ---

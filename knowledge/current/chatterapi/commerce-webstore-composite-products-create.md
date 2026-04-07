@@ -6,7 +6,7 @@ topic: commerce-webstore-composite-products-create
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.975Z
+lastCollected: 2026-04-07T09:03:25.009Z
 estimatedTokens: 779
 keywords: [Commerce, Webstore, Composite, Products, Add, product, store, associate, category, media, records]
 ---

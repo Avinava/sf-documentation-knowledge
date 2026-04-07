@@ -5,7 +5,7 @@ topic: scope3pcmtsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.083Z
+lastCollected: 2026-04-07T09:06:06.198Z
 estimatedTokens: 1066
 keywords: [Scope3PcmtSummary, amount, organization, spends, individual, procurement, category, Scope, summary, quantifies, effect, atmospheric, warming, represented, tonnes]
 ---

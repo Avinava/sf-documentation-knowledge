@@ -5,7 +5,7 @@ topic: vpl360validatecart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.163Z
+lastCollected: 2026-04-07T09:04:21.221Z
 estimatedTokens: 120
 keywords: [VPL360_ValidateCart, Integration, Procedure, validate, cart, order, VPL360, _ValidateCart, Sample, Input, Output, Calls]
 ---

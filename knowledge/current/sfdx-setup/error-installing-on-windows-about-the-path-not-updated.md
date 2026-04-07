@@ -5,7 +5,7 @@ topic: error-installing-on-windows-about-the-path-not-updated
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.248Z
+lastCollected: 2026-04-07T09:06:14.457Z
 estimatedTokens: 348
 keywords: [Error, Installing, Windows, PATH, Updated, Salesforce, CLI, *.exe, installer, executable, original, length, number, greater]
 ---

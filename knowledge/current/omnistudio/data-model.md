@@ -5,7 +5,7 @@ topic: data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:48.084Z
+lastCollected: 2026-04-07T09:02:50.629Z
 estimatedTokens: 227
 keywords: [Data, Model, Processing, Engine, Batch, Management, Monitor, Workflow, Servics, share, Let's, objects, relationships, shared]
 ---

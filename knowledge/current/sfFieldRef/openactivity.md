@@ -5,7 +5,7 @@ topic: openactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.442Z
+lastCollected: 2026-04-07T09:05:56.017Z
 estimatedTokens: 697
 keywords: [OpenActivity, read-only, open, activities—future, events, tasks—related, includes, activities, contacts, phone, calls, organization, uses, Salesforce, CRM]
 ---

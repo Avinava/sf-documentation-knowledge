@@ -5,7 +5,7 @@ topic: limited-access-license-for-package-developers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.725Z
+lastCollected: 2026-04-07T09:05:02.080Z
 estimatedTokens: 441
 keywords: [Limited, Access, License, Package, Developers, Salesforce, Free, designed, users, whose, role, build, customizations, applications, Dev]
 ---

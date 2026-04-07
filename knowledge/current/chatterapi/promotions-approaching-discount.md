@@ -5,7 +5,7 @@ topic: promotions-approaching-discount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.625Z
+lastCollected: 2026-04-07T09:03:35.137Z
 estimatedTokens: 177
 keywords: [Promotions, Approaching, Discount, Output, representation, qualifier, promotion]
 ---

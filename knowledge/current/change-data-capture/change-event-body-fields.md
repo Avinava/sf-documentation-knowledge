@@ -5,7 +5,7 @@ topic: change-event-body-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.547Z
+lastCollected: 2026-04-07T09:03:18.485Z
 estimatedTokens: 951
 keywords: [Change, Event, message, includes, corresponding, Salesforce, record, Messages, Pub, Sub, API, Clients, Apex, JSON, CometD]
 ---

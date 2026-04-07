@@ -5,7 +5,7 @@ topic: defining-action-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.957Z
+lastCollected: 2026-04-07T09:04:59.687Z
 estimatedTokens: 1159
 keywords: [Defining, Action, sample, described, Input, Components, command, button, bound, save, Account, standard, controller, adapt, previous]
 ---

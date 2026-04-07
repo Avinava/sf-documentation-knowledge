@@ -5,7 +5,7 @@ topic: image-priming-and-offline-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:57.067Z
+lastCollected: 2026-04-07T09:04:25.372Z
 estimatedTokens: 471
 keywords: [Image, Priming, Offline, Considerations, LWC, isn’t, magic, hasn’t, primed, can’t, primes, assets, referenced, component, template]
 ---

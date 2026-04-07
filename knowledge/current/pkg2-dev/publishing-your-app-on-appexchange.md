@@ -5,7 +5,7 @@ topic: publishing-your-app-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.130Z
+lastCollected: 2026-04-07T09:05:03.958Z
 estimatedTokens: 581
 keywords: [Publishing, App, AppExchange, you’ve, published, first-generation, managed, package, you’ll, notice, process, second-generation, 2GP, different, link]
 ---

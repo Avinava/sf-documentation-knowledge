@@ -5,7 +5,7 @@ topic: support-international-payments-in-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.331Z
+lastCollected: 2026-04-07T09:04:54.015Z
 estimatedTokens: 316
 keywords: [Support, International, Payments, AppExchange, Checkout, few, steps, ready, accept, customers, European, Union, regions, verify, company]
 ---

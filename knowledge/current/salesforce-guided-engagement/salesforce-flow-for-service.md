@@ -5,7 +5,7 @@ topic: salesforce-flow-for-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.941Z
+lastCollected: 2026-04-07T09:05:24.103Z
 estimatedTokens: 1553
 keywords: [Salesforce, Flow, Service, Give, users, logical, steps, Actions, Recommendations, component, associate, record, deployment, automation, tools]
 ---

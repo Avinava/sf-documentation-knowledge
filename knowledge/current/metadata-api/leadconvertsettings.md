@@ -5,7 +5,7 @@ topic: leadconvertsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.773Z
+lastCollected: 2026-04-07T09:02:41.626Z
 estimatedTokens: 1016
 keywords: [LeadConvertSettings, organization’s, custom, mappings, lead, conversion, mapped, Leads, Accounts, Contacts, Opportunities, Options, creating, extends, Metadata]
 ---

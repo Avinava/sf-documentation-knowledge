@@ -5,7 +5,7 @@ topic: donorgiftconceptopportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.147Z
+lastCollected: 2026-04-07T09:04:30.388Z
 estimatedTokens: 996
 keywords: [DonorGiftConceptOpportunity, junction, Donor, Gift, Concept, Opportunity, API, version, 66.0, later, Calls, Associated, Objects]
 ---

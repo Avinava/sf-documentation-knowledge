@@ -5,7 +5,7 @@ topic: auth-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:35.722Z
+lastCollected: 2026-04-07T09:02:10.437Z
 estimatedTokens: 980
 namespace: Auth
 keywords: [Auth, Exceptions, exception, classes, Examples]

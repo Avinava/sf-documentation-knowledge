@@ -5,7 +5,7 @@ topic: community-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:10.233Z
+lastCollected: 2026-04-07T09:01:54.175Z
 estimatedTokens: 1950
 keywords: [community, Commands, Experience, Cloud, site, template, Examples, Flags, Aliases, publish]
 ---

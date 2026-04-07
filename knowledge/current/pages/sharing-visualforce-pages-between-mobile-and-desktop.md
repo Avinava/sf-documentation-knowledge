@@ -5,7 +5,7 @@ topic: sharing-visualforce-pages-between-mobile-and-desktop
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.521Z
+lastCollected: 2026-04-07T09:05:00.531Z
 estimatedTokens: 416
 keywords: [Sharing, Visualforce, Pages, Mobile, Desktop, Revise, appear, Salesforce, app, full, site, support, environments, includes, custom]
 ---

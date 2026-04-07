@@ -5,7 +5,7 @@ topic: apexpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.794Z
+lastCollected: 2026-04-07T09:02:46.337Z
 estimatedTokens: 1636
 keywords: [ApexPage, saved, copy, Visualforce, uses, cached, version, unless, unavailable, API, 28.0, later, SOAP, Calls, REST]
 ---

@@ -5,7 +5,7 @@ topic: apexpagemessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.951Z
+lastCollected: 2026-04-07T09:04:58.156Z
 estimatedTokens: 440
 keywords: [apex, pageMessage, component, presenting, custom, messages, Salesforce, pattern, errors, warnings, severity, pageMessages, Attributes]
 ---

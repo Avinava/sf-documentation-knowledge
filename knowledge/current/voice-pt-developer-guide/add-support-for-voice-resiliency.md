@@ -5,7 +5,7 @@ topic: add-support-for-voice-resiliency
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.229Z
+lastCollected: 2026-04-07T09:06:18.814Z
 estimatedTokens: 359
 keywords: [Add, Support, Voice, Resiliency, ensures, calls, number, conversations, over, limit, background, service, affected]
 ---

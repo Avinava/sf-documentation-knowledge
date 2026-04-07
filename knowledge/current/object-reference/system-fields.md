@@ -5,7 +5,7 @@ topic: system-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.894Z
+lastCollected: 2026-04-07T09:04:53.201Z
 estimatedTokens: 1267
 keywords: [System, read-only, found, objects, automatically, updated, API, operations, generated, operation, LastModifiedDate, user, modifies, record, Parent]
 ---
@@ -74,7 +74,6 @@ SELECT Case.ContactId, Case.Contact.Name FROM Case
 - ID
                 Field Type (atlas.en-us.object_reference.meta/object_reference/field_types.htm)
 - Defaulted on create (atlas.en-us.object_reference.meta/object_reference/access_for_fields.htm)
-- Filter (atlas.en-us.object_reference.meta/object_reference/access_for_fields.htm)
 - boolean (atlas.en-us.object_reference.meta/object_reference/primitive_data_types.htm)
 - dateTime (atlas.en-us.object_reference.meta/object_reference/primitive_data_types.htm)
 - reference (atlas.en-us.object_reference.meta/object_reference/field_types.htm)

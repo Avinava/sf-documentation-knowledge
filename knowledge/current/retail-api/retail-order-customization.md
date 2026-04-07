@@ -5,7 +5,7 @@ topic: retail-order-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.216Z
+lastCollected: 2026-04-07T09:05:18.115Z
 estimatedTokens: 273
 keywords: [Retail, Order, Customization, Customize, proposal, screens, Items, Add, Free, creating, Apex, hook]
 ---

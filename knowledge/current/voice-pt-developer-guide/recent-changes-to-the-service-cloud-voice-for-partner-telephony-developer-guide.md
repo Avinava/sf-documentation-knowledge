@@ -5,7 +5,7 @@ topic: recent-changes-to-the-service-cloud-voice-for-partner-telephony-developer
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.983Z
+lastCollected: 2026-04-07T09:06:18.440Z
 estimatedTokens: 6375
 keywords: [Recent, Changes, Service, Cloud, Voice, Partner, Telephony, Developer, made, Updates, Spring, ’26, Winter, Summer, ’25]
 ---

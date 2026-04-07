@@ -5,7 +5,7 @@ topic: feeditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.886Z
+lastCollected: 2026-04-07T09:05:45.711Z
 estimatedTokens: 519
 keywords: [FeedItem, entry, feed, changes, record, including, text, posts, link, content, API, version, 21.0, later, replaces]
 ---

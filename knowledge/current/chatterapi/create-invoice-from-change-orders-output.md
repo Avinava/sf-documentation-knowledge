@@ -5,7 +5,7 @@ topic: create-invoice-from-change-orders-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.095Z
+lastCollected: 2026-04-07T09:03:31.010Z
 estimatedTokens: 293
 keywords: [Invoice, Change, Orders, Output, IDs, invoices, created]
 ---

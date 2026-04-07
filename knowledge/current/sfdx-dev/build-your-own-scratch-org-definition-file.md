@@ -5,8 +5,8 @@ topic: build-your-own-scratch-org-definition-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.387Z
-estimatedTokens: 2209
+lastCollected: 2026-04-07T09:06:13.288Z
+estimatedTokens: 2222
 keywords: [Build, Own, Scratch, Org, Definition, File, blueprint, mimics, shape, development, lifecycle, sandbox, packaging, production, Options]
 ---
 
@@ -48,7 +48,7 @@ Here are the options you can specify in the scratch org definition file:
 | country | No | Dev Hub's country. If you want to override this value, enter the two-character, upper-case ISO-3166 country code (Alpha-2 code). You can find a full list of these codes at several sites, such as: https://www.iso.org/obp/ui/#search. This value sets the locale of the scratch org. |
 | username | No | test-unique_identifier@example.com |
 | adminEmail | No | Email address of the Dev Hub user making the scratch org creation request |
-| edition | Yes | None. Valid entries are Developer, Enterprise, Group, or Professional |
+| edition | Yes | None. Valid values:DeveloperEnterpriseGroupProfessionalPartner DeveloperPartner EnterprisePartner GroupPartner Professional |
 | description | No | None. 2000-character free-form text field.The description is a good way to document the scratch org’s purpose. You can view or edit the description in the Dev Hub. From App Launcher, select Scratch Org Info or Active Scratch Orgs, then click the scratch org number. |
 | hasSampleData | No | Valid values are true and false. False is the default, which creates an org without sample data. |
 | language | No | Default language for the country. To override the language set by the Dev Hub locale, see Supported Languages for the codes to use in this field. |

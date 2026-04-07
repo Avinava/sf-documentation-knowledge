@@ -5,7 +5,7 @@ topic: sourcemember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:46.449Z
+lastCollected: 2026-04-07T09:02:49.095Z
 estimatedTokens: 26
 keywords: [SourceMember, Reserved, internal, Accuracy, results, isn’t, guaranteed]
 ---

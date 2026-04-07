@@ -5,7 +5,7 @@ topic: create-a-custom-lightning-page-template-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.130Z
+lastCollected: 2026-04-07T09:04:12.910Z
 estimatedTokens: 2061
 keywords: [Custom, Lightning, Template, Component, Every, standard, associated, page’s, regions, components, includes, let, templates, fit, business]
 ---

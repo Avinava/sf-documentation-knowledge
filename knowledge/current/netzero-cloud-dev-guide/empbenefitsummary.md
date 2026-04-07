@@ -5,7 +5,7 @@ topic: empbenefitsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.995Z
+lastCollected: 2026-04-07T09:04:27.831Z
 estimatedTokens: 2374
 keywords: [EmpBenefitSummary, statistics, benefits, provided, employees, usage, API, version, 57.0, later, Calls, Associated, Objects]
 ---

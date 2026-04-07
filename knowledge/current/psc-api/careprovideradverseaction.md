@@ -5,7 +5,7 @@ topic: careprovideradverseaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.741Z
+lastCollected: 2026-04-07T09:05:14.799Z
 estimatedTokens: 1637
 keywords: [CareProviderAdverseAction, Captures, adverse, actions, against, provider, malpractice, lawsuits, revoked, licenses, Calls, Special, Access, Rules, Associated]
 ---

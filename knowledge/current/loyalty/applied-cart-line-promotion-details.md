@@ -5,8 +5,8 @@ topic: applied-cart-line-promotion-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.283Z
-estimatedTokens: 354
+lastCollected: 2026-04-07T09:04:17.522Z
+estimatedTokens: 355
 keywords: [Applied, Cart, Line, Promotion, reward]
 ---
 
@@ -28,9 +28,9 @@ This example shows a sample response.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| cartLineItemAmountAfterDiscount | Double | The updated cart amount after the current line or cross line promotion discount. | Big, 65.0 | 65.0 |
-| cartLineItemAmountBeforeDiscount | Double | The cart line item amount before the current line or cross line promotion is applied. | Big, 65.0 | 65.0 |
-| cartLineItemDiscountAmount | Double | Amount of line or cross line promotion discounts applied to the line items. | Big, 65.0 | 65.0 |
+| cartLine​ItemAmount​AfterDiscount | Double | The updated cart amount after the current line or cross line promotion discount. | Big, 65.0 | 65.0 |
+| cartLine​ItemAmount​BeforeDiscount | Double | The cart line item amount before the current line or cross line promotion is applied. | Big, 65.0 | 65.0 |
+| cartLine​ItemDiscount​Amount | Double | Amount of line or cross line promotion discounts applied to the line items. | Big, 65.0 | 65.0 |
 | couponCode | String | Coupon code of the applied line or cross line promotion. | Big, 65.0 | 65.0 |
 | currencyIsoCode | String | Three-letter ISO 4217 code of the monetary currency associated with the applied line or cross line promotion. | Big, 65.0 | 65.0 |
 | displayName | String | Display name of the applied line or cross line promotion. | Big, 65.0 | 65.0 |

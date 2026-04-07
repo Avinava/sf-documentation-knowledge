@@ -5,7 +5,7 @@ topic: goaldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.743Z
+lastCollected: 2026-04-07T09:05:48.347Z
 estimatedTokens: 423
 keywords: [GoalDefinition, definition, care, plan, goal, reusable, PGI, library, that’s, part, Integrated, Management, instantiated, records, GoalAssignment]
 ---

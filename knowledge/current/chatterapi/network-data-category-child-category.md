@@ -5,7 +5,7 @@ topic: network-data-category-child-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.939Z
+lastCollected: 2026-04-07T09:03:27.803Z
 estimatedTokens: 340
 keywords: [Network, Data, Category, Child, Retrieve, categories, Experience, Cloud, site]
 ---

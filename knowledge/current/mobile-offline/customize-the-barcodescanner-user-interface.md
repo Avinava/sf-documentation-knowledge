@@ -5,7 +5,7 @@ topic: customize-the-barcodescanner-user-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.860Z
+lastCollected: 2026-04-07T09:04:25.136Z
 estimatedTokens: 1017
 keywords: [Customize, BarcodeScanner, User, standard, minimal, box, applications, cases, doesn’t, provide, enough, company, brand, custom, HTML]
 ---

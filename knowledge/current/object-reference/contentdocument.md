@@ -5,7 +5,7 @@ topic: contentdocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.069Z
+lastCollected: 2026-04-07T09:04:37.614Z
 estimatedTokens: 3931
 keywords: [ContentDocument, document, uploaded, library, Salesforce, Files, CRM, content, versions, 17.0, later, CRM.This, API, version, 21.0]
 ---

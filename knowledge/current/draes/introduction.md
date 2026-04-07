@@ -5,7 +5,7 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.633Z
+lastCollected: 2026-04-07T09:03:41.760Z
 estimatedTokens: 334
 keywords: [Introduction, introduces, advanced, topics, user, record, access, recommendations, how, configure, organization, optimize, control, performance]
 ---

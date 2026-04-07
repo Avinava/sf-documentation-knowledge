@@ -6,8 +6,8 @@ topic: take-ownership-of-a-second-generation-managed-package-transferred-from-a-
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.967Z
-estimatedTokens: 1557
+lastCollected: 2026-04-07T09:05:03.660Z
+estimatedTokens: 1550
 keywords: [Take, Ownership, Second-Generation, Managed, Package, Transferred, Different, Dev, Hub, another, Hug, org, Transfers, External, Customers]
 ---
 
@@ -21,7 +21,7 @@ keywords: [Take, Ownership, Second-Generation, Managed, Package, Transferred, Di
 
 You can take ownership of a second-generation managed package that is transferred from another Dev Hug org.
 
-To initiate a package transfer from your Dev Hub org, see [Transfer a Second-Generation Managed Package to a Different Dev Hub](atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev2gp_package_transfer.htm "You can transfer the ownership of a second-generation managed package (managed 2GP) from one Dev Hub org to another. These transfers can occur either internally between two Dev Hub orgs your company owns, or you can transfer a package externally to another Salesforce Partner or ISV. This change provides a way to sell a second-generation managed package to a different company.").
+To initiate a package transfer from your Dev Hub org, see [Transfer a Second-Generation Managed Package to a Different Dev Hub](atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev2gp_package_transfer.htm "You can transfer the ownership of a second-generation managed package (managed 2GP) from one Dev Hub org to another. These transfers can occur either internally between two Dev Hub orgs your company owns, or you can transfer a package externally to another Salesforce Partner or ISV. This change provides a way to sell a managed 2GP package to a different company.").
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=pkg2_dev)
 
@@ -39,7 +39,7 @@ Also ensure that the company who is transferring the ownership of the package pr
 
 ## Receive a Package Transfer
 
-For internal transfers, skip this step. Only log the case described in [Transfer a Second-Generation Managed Package to a Different Dev Hub](atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev2gp_package_transfer.htm "You can transfer the ownership of a second-generation managed package (managed 2GP) from one Dev Hub org to another. These transfers can occur either internally between two Dev Hub orgs your company owns, or you can transfer a package externally to another Salesforce Partner or ISV. This change provides a way to sell a second-generation managed package to a different company.") .
+For internal transfers, skip this step. Only log the case described in [Transfer a Second-Generation Managed Package to a Different Dev Hub](atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev2gp_package_transfer.htm "You can transfer the ownership of a second-generation managed package (managed 2GP) from one Dev Hub org to another. These transfers can occur either internally between two Dev Hub orgs your company owns, or you can transfer a package externally to another Salesforce Partner or ISV. This change provides a way to sell a managed 2GP package to a different company.") .
 
 If you’re receiving a package from a different Salesforce Partner or ISV, start by linking the namespace of the package you are receiving to your Dev Hub org. See [Link a Namespace to a Dev Hub Org](https://developer.salesforce.com/docs/atlas.en-us.260.0.sfdx_dev.meta/sfdx_dev/sfdx_dev_reg_namespace.htm) in the Salesforce DX Developer Guide.
 

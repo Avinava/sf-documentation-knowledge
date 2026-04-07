@@ -5,7 +5,7 @@ topic: partycreditprflfinclacct
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:01.377Z
+lastCollected: 2026-04-07T09:03:06.550Z
 estimatedTokens: 1317
 keywords: [PartyCreditPrflFinclAcct, financial, accounts, credit, card, auto, loan, mortgage, account, reported, bureau, Helps, lenders, review, borrower's]
 ---

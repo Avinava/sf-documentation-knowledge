@@ -5,7 +5,7 @@ topic: get-dummy-service-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.988Z
+lastCollected: 2026-04-07T09:05:27.362Z
 estimatedTokens: 488
 keywords: [Dummy, Service, Resource, Show, users, availability, selected, work, group, territory]
 ---

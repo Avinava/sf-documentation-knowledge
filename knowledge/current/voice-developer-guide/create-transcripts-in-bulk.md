@@ -5,7 +5,7 @@ topic: create-transcripts-in-bulk
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.873Z
+lastCollected: 2026-04-07T09:06:18.264Z
 estimatedTokens: 2014
 keywords: [Transcripts, Bulk, Creates, across, multiple, voice, calls, real, time, include, inbound, transfer, outbound, callback, consult]
 ---

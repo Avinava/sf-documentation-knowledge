@@ -5,7 +5,7 @@ topic: display-service-orders-in-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.737Z
+lastCollected: 2026-04-07T09:04:54.684Z
 estimatedTokens: 288
 keywords: [Display, Service, Orders, Channel, Order, App, you’re, upgrading, COA, later, remove, tab, replace, new]
 ---

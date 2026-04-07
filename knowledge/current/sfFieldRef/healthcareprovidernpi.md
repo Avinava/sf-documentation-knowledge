@@ -5,7 +5,7 @@ topic: healthcareprovidernpi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:00.347Z
+lastCollected: 2026-04-07T09:05:49.152Z
 estimatedTokens: 461
 keywords: [HealthcareProviderNpi, identifiers, National, Provider, Identifier, assigned, every, facility, licensed, practitioner, United, States, includes, NPI, date]
 ---

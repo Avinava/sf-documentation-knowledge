@@ -5,7 +5,7 @@ topic: tann
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.467Z
+lastCollected: 2026-04-07T09:03:14.167Z
 estimatedTokens: 64
 keywords: [tan, tangent, radians, any, real, numeric, range, -1e308, 1e308, passed, argument, function, foreach, statement]
 ---

@@ -5,7 +5,7 @@ topic: example-add-event-enrichment-fields-with-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.543Z
+lastCollected: 2026-04-07T09:03:18.480Z
 estimatedTokens: 1316
 keywords: [Add, Event, Enrichment, Tooling, API, PlatformEventChannelMember, specify, channel, member, Query, Enriched]
 ---

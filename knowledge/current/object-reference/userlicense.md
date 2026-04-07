@@ -5,7 +5,7 @@ topic: userlicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.808Z
+lastCollected: 2026-04-07T09:04:51.846Z
 estimatedTokens: 1524
 keywords: [UserLicense, user, license, organization, entitles, specific, functionality, determines, profiles, permission, Calls, Usage]
 ---

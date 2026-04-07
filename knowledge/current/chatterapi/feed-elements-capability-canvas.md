@@ -5,7 +5,7 @@ topic: feed-elements-capability-canvas
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.142Z
+lastCollected: 2026-04-07T09:03:26.628Z
 estimatedTokens: 197
 keywords: [Feed, Elements, Capability, Canvas, Access, element]
 ---

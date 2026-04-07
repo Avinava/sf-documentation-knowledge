@@ -5,7 +5,7 @@ topic: decision-table-source-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.010Z
+lastCollected: 2026-04-07T09:05:08.006Z
 estimatedTokens: 216
 keywords: [Decision, Source, Criteria, Input, representation]
 ---

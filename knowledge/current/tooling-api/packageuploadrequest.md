@@ -5,7 +5,7 @@ topic: packageuploadrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T07:53:45.854Z
+lastCollected: 2026-04-07T09:02:48.415Z
 estimatedTokens: 1019
 keywords: [PackageUploadRequest, upload, first-generation, package, version, components, subscribers, install, API, 38.0, later, SOAP, Calls, REST, HTTP]
 ---

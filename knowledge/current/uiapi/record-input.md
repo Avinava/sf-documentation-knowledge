@@ -5,7 +5,7 @@ topic: record-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.252Z
+lastCollected: 2026-04-07T09:06:15.833Z
 estimatedTokens: 664
 keywords: [Record, Input, check, duplicate, records]
 ---

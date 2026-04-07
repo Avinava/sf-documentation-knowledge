@@ -5,7 +5,7 @@ topic: industrieseventorchsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.716Z
+lastCollected: 2026-04-07T09:03:05.631Z
 estimatedTokens: 403
 keywords: [IndustriesEventOrchSettings, settings, enabling, Automotive, cloud, feature, Event, Orchestration, Decision, Parent, Manifest, Access, File, Suffix, Directory]
 ---

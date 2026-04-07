@@ -5,7 +5,7 @@ topic: create-and-update-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.767Z
+lastCollected: 2026-04-07T09:06:13.789Z
 estimatedTokens: 347
 keywords: [Unlocked, Package, you’re, ready, test, share, command, Metadata, Limits, Packages]
 ---

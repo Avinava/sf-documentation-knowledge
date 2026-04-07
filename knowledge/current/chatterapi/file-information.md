@@ -5,7 +5,7 @@ topic: file-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.382Z
+lastCollected: 2026-04-07T09:03:26.983Z
 estimatedTokens: 1787
 keywords: [File, including, references, external, files, Upload, new, version, Rename, move, different, folder]
 ---

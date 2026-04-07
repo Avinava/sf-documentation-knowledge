@@ -5,7 +5,7 @@ topic: create-and-deploy-your-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.018Z
+lastCollected: 2026-04-07T09:06:18.500Z
 estimatedTokens: 794
 keywords: [Deploy, Package, commands, install, Version, Release, Scratch, Org, Open]
 ---

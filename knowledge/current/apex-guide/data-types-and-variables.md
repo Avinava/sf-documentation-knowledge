@@ -5,7 +5,7 @@ topic: data-types-and-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:45.039Z
+lastCollected: 2026-04-07T09:02:34.157Z
 estimatedTokens: 557
 keywords: [Data, Variables, Apex, uses, language, constructs, enums, constants, expressions, operators, assignment, statements]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudinventorytransactiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.776Z
+lastCollected: 2026-04-07T09:05:20.242Z
 estimatedTokens: 1717
 keywords: [Stores, inventory, control, template, that's, transactions, API, version, 54.0, later, cgcloud, _Inventory, _Transaction, _Template, Calls]
 ---

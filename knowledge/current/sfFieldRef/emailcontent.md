@@ -5,7 +5,7 @@ topic: emailcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.770Z
+lastCollected: 2026-04-07T09:05:44.148Z
 estimatedTokens: 621
 keywords: [EmailContent, marketing, email, asset, Account, Engagement]
 ---

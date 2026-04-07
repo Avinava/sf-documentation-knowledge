@@ -5,7 +5,7 @@ topic: overriding-standard-tokens-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.960Z
+lastCollected: 2026-04-07T09:04:15.636Z
 estimatedTokens: 315
 keywords: [Overriding, Standard, Tokens, Deprecated, override, design, custom, components, replace, SLDS, styling, hooks]
 ---

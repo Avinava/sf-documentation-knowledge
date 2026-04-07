@@ -5,7 +5,7 @@ topic: automotive-cloud-fields-on-product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.439Z
+lastCollected: 2026-04-07T09:03:06.631Z
 estimatedTokens: 1128
 keywords: [Automotive, Cloud, Product2, Standard, extend, represent, vehicle, models, parts, accessories]
 ---

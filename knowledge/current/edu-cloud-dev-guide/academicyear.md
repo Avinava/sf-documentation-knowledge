@@ -5,7 +5,7 @@ topic: academicyear
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.807Z
+lastCollected: 2026-04-07T09:03:43.511Z
 estimatedTokens: 434
 keywords: [AcademicYear, academic, year, period, API, version, 57.0, later, Calls]
 ---

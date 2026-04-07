@@ -5,7 +5,7 @@ topic: contractlineoutcomedata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.467Z
+lastCollected: 2026-04-07T09:05:41.262Z
 estimatedTokens: 432
 keywords: [ContractLineOutcomeData, contract, line, outcome’s, captured, data, stores, start, date, end, API, version, 58.0, later]
 ---

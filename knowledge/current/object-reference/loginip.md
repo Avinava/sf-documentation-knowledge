@@ -5,7 +5,7 @@ topic: loginip
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:12.588Z
+lastCollected: 2026-04-07T09:04:44.089Z
 estimatedTokens: 354
 keywords: [LoginIp, validated, address, version, 28.0, later, Calls, Usage]
 ---

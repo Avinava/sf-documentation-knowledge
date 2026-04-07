@@ -5,7 +5,7 @@ topic: request-url-template-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.724Z
+lastCollected: 2026-04-07T09:06:19.565Z
 estimatedTokens: 989
 namespace: Parameter
 keywords: [URL, Template, URL-encoded, sent, via, HTTPS, includes, Salesforce, federated, search, connector, OpenSearch]

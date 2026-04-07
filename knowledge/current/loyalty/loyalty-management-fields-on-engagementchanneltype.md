@@ -5,7 +5,7 @@ topic: loyalty-management-fields-on-engagementchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.931Z
+lastCollected: 2026-04-07T09:04:19.663Z
 estimatedTokens: 200
 keywords: [Loyalty, Management, EngagementChannelType, Standard, extend, represent, promotion, eligibility, criteria, API, version, 60.0, later, Calls]
 ---

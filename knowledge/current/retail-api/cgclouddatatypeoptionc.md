@@ -5,7 +5,7 @@ topic: cgclouddatatypeoptionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.581Z
+lastCollected: 2026-04-07T09:05:20.022Z
 estimatedTokens: 1757
 keywords: [cgcloud__Data_Type_Option__c, Stores, item, picklist, flexible, data, API, version, 54.0, later, cgcloud, _Data, _Type, _Option, Calls]
 ---

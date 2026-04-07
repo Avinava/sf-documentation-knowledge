@@ -5,7 +5,7 @@ topic: workorderlineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.755Z
+lastCollected: 2026-04-07T09:04:53.029Z
 estimatedTokens: 369
 keywords: [WorkOrderLineItemHistory, history, changes, made, tracked, work, order, line, item, API, version, 36.0, later, Calls, Special]
 ---

@@ -5,7 +5,7 @@ topic: individual-enrollment-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.141Z
+lastCollected: 2026-04-07T09:04:02.585Z
 estimatedTokens: 274
 keywords: [Individual, Enrollment, POST, Enroll, group, census, member, benefit, insurance, plan, creating, necessary, policy, records]
 ---
@@ -71,7 +71,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/group-census-members/0r6RM0000000h1pYAA/policies
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/group-census-members/0r6RM0000000h1pYAA/policies
 ```
 
 ```

@@ -5,7 +5,7 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.607Z
+lastCollected: 2026-04-07T09:04:20.472Z
 estimatedTokens: 3432
 keywords: [TransactionJournal, loyalty, transactions, track, activities, member, behavior, adjustments, API, version, 51.0, later, Calls, Usage, Associated]
 ---

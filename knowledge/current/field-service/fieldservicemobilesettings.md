@@ -5,7 +5,7 @@ topic: fieldservicemobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:50.119Z
+lastCollected: 2026-04-07T09:03:01.662Z
 estimatedTokens: 3618
 keywords: [FieldServiceMobileSettings, configuration, settings, control, Service, iOS, Android, mobile, app, experience, API, version, 38.0, later, Calls]
 ---

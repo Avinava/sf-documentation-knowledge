@@ -5,7 +5,7 @@ topic: time-based-workflow-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.633Z
+lastCollected: 2026-04-07T09:04:40.735Z
 estimatedTokens: 1263
 keywords: [Time-Based, Workflow, Event, events, contain, queue, activity, monitoring]
 ---

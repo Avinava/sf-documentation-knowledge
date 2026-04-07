@@ -5,7 +5,7 @@ topic: fulfillmentorderlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.800Z
+lastCollected: 2026-04-07T09:05:47.005Z
 estimatedTokens: 692
 keywords: [FulfillmentOrderLineItem, product, delivery, charge, belonging, FulfillmentOrder, Corresponds, OrderItemSummary, API, version, 48.0, later]
 ---

@@ -5,7 +5,7 @@ topic: standard-platform-event-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.085Z
+lastCollected: 2026-04-07T09:05:05.479Z
 estimatedTokens: 252
 keywords: [Standard, Platform, Event, Objects, Check, events, Salesforce, publishes]
 ---

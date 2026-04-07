@@ -5,7 +5,7 @@ topic: paymentlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:07.315Z
+lastCollected: 2026-04-07T09:05:58.482Z
 estimatedTokens: 523
 keywords: [PaymentLink, payment, link, merchant, embed, Salesforce, app, directs, payers, Pay, Now, what’s, paid, currency, lets]
 ---

@@ -5,7 +5,7 @@ topic: workplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:51.024Z
+lastCollected: 2026-04-07T09:03:02.531Z
 estimatedTokens: 560
 keywords: [WorkPlanTemplate, template, work, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

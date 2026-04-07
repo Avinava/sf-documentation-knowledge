@@ -5,7 +5,7 @@ topic: actioncdncstpmonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.875Z
+lastCollected: 2026-04-07T09:04:33.846Z
 estimatedTokens: 3213
 keywords: [ActionCdncStpMonthlyMetric, monthly, engagement, metrics, action, cadence, step, API, version, 49.0, later, Calls, Special, Access, Rules]
 ---

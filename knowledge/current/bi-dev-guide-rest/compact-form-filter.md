@@ -5,7 +5,7 @@ topic: compact-form-filter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.051Z
+lastCollected: 2026-04-07T09:03:10.268Z
 estimatedTokens: 81
 keywords: [Compact, Form, Filter]
 ---

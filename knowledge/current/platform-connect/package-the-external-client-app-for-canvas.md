@@ -5,7 +5,7 @@ topic: package-the-external-client-app-for-canvas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.583Z
+lastCollected: 2026-04-07T09:05:04.745Z
 estimatedTokens: 721
 keywords: [Package, External, Client, App, Canvas, created, tested, Previewer, deployed, Heroku, you’re, ready, distribute]
 ---

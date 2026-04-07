@@ -5,7 +5,7 @@ topic: campaignmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.187Z
+lastCollected: 2026-04-07T09:05:37.104Z
 estimatedTokens: 673
 keywords: [CampaignMember, relationship, campaign, either, lead, contact, Accounts, Members, setting, enabled, org, represent, account]
 ---

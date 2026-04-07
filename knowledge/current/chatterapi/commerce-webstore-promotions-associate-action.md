@@ -5,7 +5,7 @@ topic: commerce-webstore-promotions-associate-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.530Z
+lastCollected: 2026-04-07T09:03:25.739Z
 estimatedTokens: 507
 keywords: [Commerce, Webstore, Promotions, Associate, Action, associated, price, adjustments, cart, items, highest, priority, eligible, processed]
 ---

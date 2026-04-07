@@ -5,7 +5,7 @@ topic: address
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.209Z
+lastCollected: 2026-04-07T09:04:08.471Z
 estimatedTokens: 383
 keywords: [Address, FHIR, resource, maps, Contact​Point​Address​, Salesforce, V4.0, Clinical, Data, Model, Mapping, mailing, billing, home, Calls, Special, Access, Rules, Usage, Associated]
 ---

@@ -5,7 +5,7 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.578Z
+lastCollected: 2026-04-07T09:04:47.608Z
 estimatedTokens: 2559
 keywords: [Promotion, B2B, D2C, stores, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

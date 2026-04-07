@@ -5,7 +5,7 @@ topic: enablelogging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.211Z
+lastCollected: 2026-04-07T09:04:16.017Z
 estimatedTokens: 2162
 keywords: [enableLogging, deployment, enable, logging, particular, API, versions, 28.0, later, Usage, Messages, Logged, Events]
 ---

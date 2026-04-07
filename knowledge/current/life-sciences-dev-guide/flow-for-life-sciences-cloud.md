@@ -5,7 +5,7 @@ topic: flow-for-life-sciences-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.681Z
+lastCollected: 2026-04-07T09:04:07.673Z
 estimatedTokens: 437
 keywords: [Flow, Life, Sciences, Cloud, metadata, associated, application, users, series, pages, query, records, database, run, logic]
 ---

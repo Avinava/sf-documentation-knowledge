@@ -5,7 +5,7 @@ topic: cloneserviceordercloneinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.190Z
+lastCollected: 2026-04-07T09:04:53.722Z
 estimatedTokens: 138
 keywords: [clone, serviceOrderCloneInput, entry, point, orders, org, optionally, associated, line, items]
 ---

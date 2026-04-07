@@ -5,7 +5,7 @@ topic: introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.682Z
+lastCollected: 2026-04-07T09:03:14.518Z
 estimatedTokens: 360
 keywords: [Introduction, actions, take, Analytics, result, SAQL, queries, Every, lens, dashboard, explorer, action, generates, executes, query]
 ---

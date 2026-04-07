@@ -5,7 +5,7 @@ topic: activity-sources-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.077Z
+lastCollected: 2026-04-07T09:04:55.228Z
 estimatedTokens: 1025
 keywords: [Activity, Sources, AppExchange, Marketplace, Analytics, how, internal, external, traffic, contribute, listing, installs, resulted, customers, discovered]
 ---

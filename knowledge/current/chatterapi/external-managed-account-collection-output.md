@@ -5,7 +5,7 @@ topic: external-managed-account-collection-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.580Z
+lastCollected: 2026-04-07T09:03:31.796Z
 estimatedTokens: 113
 keywords: [External, Managed, Account, Collection, Output, externally, accounts]
 ---

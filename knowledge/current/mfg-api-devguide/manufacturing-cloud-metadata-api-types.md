@@ -5,7 +5,7 @@ topic: manufacturing-cloud-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.262Z
+lastCollected: 2026-04-07T09:04:22.781Z
 estimatedTokens: 1361
 keywords: [Manufacturing, Cloud, Metadata, API, access, feature, settings, customize, user, Developer]
 ---

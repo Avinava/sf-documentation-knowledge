@@ -5,7 +5,7 @@ topic: visited-party-attributes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.208Z
+lastCollected: 2026-04-07T09:03:53.101Z
 estimatedTokens: 134
 keywords: [Visited, Party, Attributes, Input, representation, visiting, medical, device, visit, surgeon, anesthesiologist]
 ---

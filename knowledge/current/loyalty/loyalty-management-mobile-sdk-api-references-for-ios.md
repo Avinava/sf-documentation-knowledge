@@ -5,7 +5,7 @@ topic: loyalty-management-mobile-sdk-api-references-for-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.657Z
+lastCollected: 2026-04-07T09:04:19.323Z
 estimatedTokens: 757
 keywords: [Loyalty, Management, Mobile, SDK, API, References, iOS, describe, functions, classes, admin, enabled, Receipt, requests, Salesforce]
 ---

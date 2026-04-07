@@ -5,7 +5,7 @@ topic: system-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.397Z
+lastCollected: 2026-04-07T09:02:29.485Z
 estimatedTokens: 15856
 namespace: System
 keywords: [System, Adds, job, Apex, queue, corresponds, queueable, abortJob, jobId, Usage, assert, condition, msg, assertEquals, expected]

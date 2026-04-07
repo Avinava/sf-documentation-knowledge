@@ -5,7 +5,7 @@ topic: read-product-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.715Z
+lastCollected: 2026-04-07T09:03:40.373Z
 estimatedTokens: 369
 keywords: [Product, API, request’s, pricebook, currency, code, model, loads, catalog, user, requests, REST, Examples, Apex]
 ---

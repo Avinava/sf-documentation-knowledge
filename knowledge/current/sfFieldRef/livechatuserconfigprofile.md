@@ -5,7 +5,7 @@ topic: livechatuserconfigprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.575Z
+lastCollected: 2026-04-07T09:05:52.016Z
 estimatedTokens: 296
 keywords: [LiveChatUserConfigProfile, join, LiveChatUserConfig, Profile, API, version, 24.0, later]
 ---

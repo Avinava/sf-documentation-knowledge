@@ -5,7 +5,7 @@ topic: install-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.782Z
+lastCollected: 2026-04-07T09:06:13.813Z
 estimatedTokens: 331
 keywords: [Install, Unlocked, Package, packages, CLI, browser, versions, scratch, org, sandbox, production]
 ---

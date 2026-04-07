@@ -5,7 +5,7 @@ topic: commerce-einstein-webstore-activities-download-export-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.017Z
+lastCollected: 2026-04-07T09:03:25.061Z
 estimatedTokens: 131
 keywords: [Commerce, Einstein, Webstore, Activities, Download, Export, File, exported, activity, store]
 ---

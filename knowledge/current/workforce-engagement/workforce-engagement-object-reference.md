@@ -5,7 +5,7 @@ topic: workforce-engagement-object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.693Z
+lastCollected: 2026-04-07T09:06:19.514Z
 estimatedTokens: 1746
 keywords: [Workforce, Engagement, enable, gain, access, suite, standard, Salesforce, objects, Workload, Histories, Intelligent, Forecasts, Capacity, Plans]
 ---

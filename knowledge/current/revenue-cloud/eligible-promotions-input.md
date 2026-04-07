@@ -5,7 +5,7 @@ topic: eligible-promotions-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.183Z
+lastCollected: 2026-04-07T09:01:58.356Z
 estimatedTokens: 162
 keywords: [Eligible, Promotions, Input, representation, line, items, includes, accept, item, IDs, sales, transaction]
 ---

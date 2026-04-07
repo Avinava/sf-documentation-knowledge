@@ -5,7 +5,7 @@ topic: return-http-headers-for-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.981Z
+lastCollected: 2026-04-07T09:02:35.181Z
 estimatedTokens: 139
 keywords: [HTTP, Invocable, Actions, sending, resource, gives, chance, retrieving, content, REST, API, version, 32.0, later, URI]
 ---

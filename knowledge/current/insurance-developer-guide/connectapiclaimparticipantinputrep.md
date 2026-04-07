@@ -5,7 +5,7 @@ topic: connectapiclaimparticipantinputrep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.134Z
+lastCollected: 2026-04-07T09:04:00.821Z
 estimatedTokens: 263
 keywords: [ConnectApi.ClaimParticipantInputRep, Invocable, Action, Input, representation, Claim, Participant]
 ---

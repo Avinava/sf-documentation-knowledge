@@ -5,8 +5,8 @@ topic: renderemailtemplateerror-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.776Z
-estimatedTokens: 658
+lastCollected: 2026-04-07T09:02:14.942Z
+estimatedTokens: 657
 namespace: Messaging
 keywords: [RenderEmailTemplateError, error, RenderEmailTemplateBodyResult, contain, getFieldName, getMessage, getOffset, getStatusCode]
 ---
@@ -23,7 +23,7 @@ Represents an error that the RenderEmailTemplateBodyResult object can contain.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 -   **[RenderEmailTemplateError Methods](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_RenderEmailTemplateError.htm#apex_Messaging_RenderEmailTemplateError_methods)**
 

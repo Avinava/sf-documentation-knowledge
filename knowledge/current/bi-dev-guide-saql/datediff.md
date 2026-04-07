@@ -5,7 +5,7 @@ topic: datediff
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.389Z
+lastCollected: 2026-04-07T09:03:14.026Z
 estimatedTokens: 580
 keywords: [date_diff, amount, time, two, dates, function, foreach, statement, date, _diff, Usage, How, Weeks, Did, Opportunity]
 ---

@@ -5,7 +5,7 @@ topic: care-plan-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.762Z
+lastCollected: 2026-04-07T09:05:09.160Z
 estimatedTokens: 235
 keywords: [Care, Plan, Template, Input, representation, benefit, goal, records, associated]
 ---

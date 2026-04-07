@@ -6,7 +6,7 @@ topic: choosing-an-architecture-for-visualforce-pages-in-the-salesforce-mobile-a
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.489Z
+lastCollected: 2026-04-07T09:05:00.483Z
 estimatedTokens: 873
 keywords: [Choosing, Architecture, Visualforce, Pages, Salesforce, Mobile, App, There, several, ways, design, structure, different, trade-offs, respect]
 ---

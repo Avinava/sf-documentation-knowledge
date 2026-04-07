@@ -5,7 +5,7 @@ topic: drextractpromo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.003Z
+lastCollected: 2026-04-07T09:04:20.992Z
 estimatedTokens: 96
 keywords: [DRExtractPromo, Omnistudio, Data, Mapper, extracts, promotions, product, codes, Sample, Input, Output]
 ---

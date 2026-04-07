@@ -5,7 +5,7 @@ topic: voiceuserpreferences
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.865Z
+lastCollected: 2026-04-07T09:06:11.277Z
 estimatedTokens: 302
 keywords: [VoiceUserPreferences, number, user, displays, making, outbound, calls, API, version, 41.0, later]
 ---

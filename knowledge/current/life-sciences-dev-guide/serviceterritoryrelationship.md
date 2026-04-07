@@ -5,7 +5,7 @@ topic: serviceterritoryrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.387Z
+lastCollected: 2026-04-07T09:04:11.954Z
 estimatedTokens: 1059
 keywords: [ServiceTerritoryRelationship, relationship, service, territories, work, performed, API, version, 56.0, later, Calls, Usage, Associated, Objects]
 ---

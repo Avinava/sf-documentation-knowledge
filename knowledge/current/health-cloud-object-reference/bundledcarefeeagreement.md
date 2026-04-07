@@ -5,7 +5,7 @@ topic: bundledcarefeeagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.085Z
+lastCollected: 2026-04-07T09:03:57.057Z
 estimatedTokens: 969
 keywords: [BundledCareFeeAgreement, payment, terms, contracts, Bundled, Care, Fee, Agreement, API, version, 54.0, later, Provider, Network, Management]
 ---

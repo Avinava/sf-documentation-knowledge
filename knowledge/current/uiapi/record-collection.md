@@ -5,8 +5,8 @@ topic: record-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.054Z
-estimatedTokens: 412
+lastCollected: 2026-04-07T09:06:17.034Z
+estimatedTokens: 416
 keywords: [Record, Collection, paginated, bodies]
 ---
 
@@ -35,7 +35,7 @@ A paginated collection of Record response bodies.
 
 -   [Get Child Records](atlas.en-us.uiapi.meta/uiapi/ui_api_resources_child_relationships.htm "Get child records for a specified record and child relationship name. Relationships are connections between records. On a record detail page, each record in a related list has a child relationship to the parent record.")
 
--   [Lookup Values](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_values.htm "Records in a lookup relationship, organized by object type.")
+-   [Lookup Values](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_values.htm "Records, organized by object type, and metadata in a lookup relationship.")
 
 ## Related Topics
 

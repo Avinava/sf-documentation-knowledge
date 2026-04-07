@@ -5,7 +5,7 @@ topic: community
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.872Z
+lastCollected: 2026-04-07T09:03:30.659Z
 estimatedTokens: 882
 keywords: [Community, Experience, Cloud, site]
 ---

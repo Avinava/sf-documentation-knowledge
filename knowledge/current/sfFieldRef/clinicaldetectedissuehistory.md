@@ -5,7 +5,7 @@ topic: clinicaldetectedissuehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.240Z
+lastCollected: 2026-04-07T09:05:39.697Z
 estimatedTokens: 271
 keywords: [ClinicalDetectedIssueHistory, History, tracked, ClinicalDetectedIssue]
 ---

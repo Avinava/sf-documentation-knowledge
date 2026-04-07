@@ -5,8 +5,8 @@ topic: skinny-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:42.019Z
-estimatedTokens: 804
+lastCollected: 2026-04-07T09:05:24.242Z
+estimatedTokens: 798
 keywords: [Skinny, Tables, Salesforce, contain, frequently, avoid, joins, improve, performance, certain, read-only, operations, kept, sync, their]
 ---
 
@@ -28,7 +28,7 @@ For each object table that’s visible to you, Salesforce maintains other, separ
 
 This table shows an Account view, a corresponding database table, and a skinny table that can speed up Account queries.
 
-![Skinny Table to Speed up Account Queries](/docs/resources/img/en-us/260.0?doc_id=cce%2Fldv_deployments%2Fimages%2Fldv_deployments_skinny_table.png&folder=salesforce_large_data_volumes_bp)
+![Skinny Table to Speed up Account Queries](/docs/resources/img/en-us/260.0?doc_id=images%2Fldv_deployments_skinny_table.png&folder=salesforce_large_data_volumes_bp)
 
 Read-only operations that reference only fields in a skinny table don’t require an extra join, and can consequently perform better. Skinny tables are most useful with tables containing millions of records to improve the performance of read-only operations, such as reports.
 

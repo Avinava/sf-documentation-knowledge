@@ -5,8 +5,8 @@ topic: product2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.541Z
-estimatedTokens: 4472
+lastCollected: 2026-04-07T09:03:19.901Z
+estimatedTokens: 4641
 keywords: [Product2, product, company, sells, Calls, Special, Access, Rules, Schedule, Enabled, Flags, Usage, Associated, Objects]
 ---
 
@@ -54,9 +54,9 @@ The ConfigureDuringSale and IsSoldOnlyWithOtherProds fields are available in ver
 | IsArchived | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionDescribes whether the product is archived. The default value is false. |
 | IsDeleted | TypebooleanPropertiesDefaulted on create, FilterDescriptionIndicates whether the object has been moved to the Recycle Bin (true) or not (false). Label is Deleted. |
 | IsSerialized | TypebooleanPropertiesCreate, Filter, Group, Sort, UpdateDescriptionIndicates if a product is a serialized product (true) or not (false). Label is Serialized. |
-| IsSoldOnlyWithOtherProds | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionDetermines whether the product can be sold independently or only as part of a bundle.This field is available in API version 58.0 and later.This field is available when Industries Automotive or Subscription Management is enabled.The default value is false, which means that the product can be sold independently. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| IsSoldOnlyWithOtherProds | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionDetermines whether the product can be sold independently or only as part of a bundle.This field is available in API version 58.0 and later. This field is available when Industries Automotive or Subscription Management is enabled. The default value is false, which means that the product can be sold independently. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionRequired. Default name of this record. Label is Product Name. |
 | NumberOfQuantityInstallments | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIf the product has a quantity schedule, the number of installments. |
 | NumberOfRevenueInstallments | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIf the product has a revenue schedule, the number of installments. |
@@ -72,7 +72,7 @@ The ConfigureDuringSale and IsSoldOnlyWithOtherProds fields are available in ver
 | StockKeepingUnit | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe SKU for the product. Use in tandem with or instead of the ProductCode field. For example, you can track the manufacturer’s identifying code in the Product Code field and assign the product a SKU when you resell it. |
 | TaxPolicyId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the related tax policy.This field is available when Subscription Management is enabled. This field is available in API version 55.0 and later.This field is a relationship field.Relationship NameTaxPolicyRelationship TypeLookupRefers ToTaxPolicy |
 | TransferRecordMode | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIf serialized, indicates when the serial number is recorded. This field is visible based on field-level security.The value affects the read-only value of the Product2TransferMode field on the ProductTransfer object.Possible values are:SendAndReceive —The serial number is recorded when sending or receiving.ReceiveOnly —The serial number is recorded when receiving only. |
-| Type | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe type of product. This field's value affects the read-only value of the ProductClassfield on the Product2 object. field.Base—When Type = Base, then ProductClass = VariationParent.Null—When Type = Null, then ProductClass = Simple.This field is available when B2B or B2C Commerce is enabled.This field is available in API version 50.0 and later. |
+| Type | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe type of product. This field's value affects the read-only value of the ProductClassfield on the Product2 object. The following mappings define how the Type selection updates the ProductClass.Base—When Type = Base, then ProductClass = VariationParent.Null—When Type = Null, then ProductClass = Simple for standalone products.Null—When Type = Null, then ProductClass = Variation for variation products.Bundle—When Type = Bundle, then ProductClass = Bundle.Set—When Type = Set, then ProductClass = Set.NoteRevenue Cloud doesn't support products with these specific combinations: Type = Base and ProductClass = VariationParent or Type = Null and ProductClass = Variation.Values Null, Base, Bundle, and Set are available in environments where both Commerce and Revenue Cloud co-exist.The Type field can only be updated from Null to Bundle for products with a Simple ProductClassThis field is available when Revenue Cloud, B2B Commerce, B2C Commerce, or other clouds with PCM add-on is enabled.This field is available in API version 50.0 and later. |
 | UnitOfMeasureId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the unit of measure associated with the product.This field is a relationship field.This field is available when Revenue Cloud is enabled.This field is available in API version 63.0 and later.Relationship NameUnitOfMeasureRefers ToUnitOfMeasure |
 
 ## Schedule Enabled Flags

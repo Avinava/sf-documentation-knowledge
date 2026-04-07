@@ -5,7 +5,7 @@ topic: benefit-schedule-participants-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.655Z
+lastCollected: 2026-04-07T09:04:29.679Z
 estimatedTokens: 125
 keywords: [Benefit, Schedule, Participants, Input, representation, add]
 ---

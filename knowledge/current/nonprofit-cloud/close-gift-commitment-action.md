@@ -5,7 +5,7 @@ topic: close-gift-commitment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.575Z
+lastCollected: 2026-04-07T09:04:29.557Z
 estimatedTokens: 207
 keywords: [Close, Gift, Commitment, Action, Updates, status, closed, unpaid, failed, transactions, REST, HTTP, Inputs, Outputs]
 ---

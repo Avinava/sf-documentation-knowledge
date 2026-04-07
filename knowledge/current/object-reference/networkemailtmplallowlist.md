@@ -5,7 +5,7 @@ topic: networkemailtmplallowlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.227Z
+lastCollected: 2026-04-07T09:04:44.882Z
 estimatedTokens: 354
 keywords: [NetworkEmailTmplAllowlist, allowlist, one-time, password, OTP, email, templates, sent, end, users, Headless, Registration, Flow, Passwordless, Login]
 ---

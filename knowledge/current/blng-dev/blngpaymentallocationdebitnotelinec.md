@@ -5,7 +5,7 @@ topic: blngpaymentallocationdebitnotelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.450Z
+lastCollected: 2026-04-07T09:03:17.215Z
 estimatedTokens: 1273
 keywords: [blng__PaymentAllocationDebitNoteLine__c, individual, line, item, debit, allocated, payment, track, manage, allocations, against, notes, maintaining, accurate, financial]
 ---

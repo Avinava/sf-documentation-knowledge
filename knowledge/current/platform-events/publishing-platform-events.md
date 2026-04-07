@@ -5,7 +5,7 @@ topic: publishing-platform-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.996Z
+lastCollected: 2026-04-07T09:05:05.357Z
 estimatedTokens: 545
 keywords: [Publishing, Platform, Events, event, defined, Salesforce, org, publish, messages, app, processes, flows, Apex, external, APIs]
 ---

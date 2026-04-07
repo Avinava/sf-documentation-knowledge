@@ -5,7 +5,7 @@ topic: create-or-update-asset-from-order-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:11.568Z
+lastCollected: 2026-04-07T09:01:54.934Z
 estimatedTokens: 277
 keywords: [Asset, Order, Action, item, New, assets, created, Modify, change, requests, renewal, cancellation, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: prorationpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.773Z
+lastCollected: 2026-04-07T09:06:02.866Z
 estimatedTokens: 373
 keywords: [ProrationPolicy, how, price, subscription, divided, time, periods, calculated, period, API, version, 55.0, later]
 ---

@@ -5,7 +5,7 @@ topic: cgcsyncsyncmobileappdomainc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.777Z
+lastCollected: 2026-04-07T09:05:18.984Z
 estimatedTokens: 255
 keywords: [cgc_sync__Sync_Mobile_App_Domain__c, Stores, domains, dropdown, boxes, mobile, app, API, version, 53.0, later, cgc, _sync, _Mobile, _App]
 ---

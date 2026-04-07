@@ -5,7 +5,7 @@ topic: assettokenevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.339Z
+lastCollected: 2026-04-07T09:05:05.857Z
 estimatedTokens: 903
 keywords: [AssetTokenEvent, Notifies, subscribers, asset, token, issuance, registration, connected, device, API, version, 39.0, later, Calls, Subscription]
 ---

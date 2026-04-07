@@ -5,8 +5,8 @@ topic: finservfinancialaccountc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.133Z
-estimatedTokens: 4632
+lastCollected: 2026-04-07T09:03:49.403Z
+estimatedTokens: 4634
 keywords: [FinServ_FinancialAccount__c, financial, account, investment, bank, insurance, policy, FinServ, _FinancialAccount, Calls]
 ---
 
@@ -52,7 +52,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | DailyWithdrawalLimit__c | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionAmount that can be withdrawn in one day. |
 | Description__c | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDescription of the financial account. |
 | Discretionary__c | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the advisor has discretionary trading authority for this financial account (true) or not (false). |
-| DrawPeriodMonths__c | TypedoublePropertiesCreateFilter, Nillable, SortUpdateDescriptionNumber of months an individual can withdraw funds from a credit account. |
+| DrawPeriodMonths__c | TypedoublePropertiesCreateFilter, Nillable, Sort, UpdateDescriptionNumber of months an individual can withdraw funds from a credit account. |
 | EscrowBalance__c | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionCurrent balance in escrow account. |
 | ExpectedCloseDate__c | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionExpected date when the debit account or loan closes. |
 | FinancialAccountChargesAndFees__c | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionReference to Charges and Fees record for the account. |
@@ -80,7 +80,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | LienHolder__c | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionName of lien holder on the financial account. |
 | LoanAmount__c | TypecurrencyPropertiesCreate, Defaulted on create, Filter, Nillable, Sort, UpdateDescriptionAmount of the loan. |
 | LoanEndDate | TypedatePropertiesFilter, Group, Nillable, SortDescriptionEnd date for the loan. |
-| LoanTermMonths__c | TypedoublePropertiesCreateFilter, Nillable, SortUpdateDescriptionLoan term in months. |
+| LoanTermMonths__c | TypedoublePropertiesCreateFilter, Nillable, Sort, UpdateDescriptionLoan term in months. |
 | Managed__c | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether this financial account is managed or administered (true), or not (false). |
 | MinimumBalance__c | TypecurrencyPropertiesCreate, Defaulted on create, Filter, Nillable, Sort, UpdateDescriptionMinimum balance requirement for this financial account. |
 | MinimumPayment__c | TypecurrencyPropertiesCreate, Defaulted on create, Filter, Nillable, Sort, UpdateDescriptionMinimum monthly payment on account. |
@@ -120,7 +120,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | RecordTypeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionID of the record type associated with this financial account. |
 | RecordTypeName__c | TypestringPropertiesFilter, Nillable, SortDescriptionRecord type for this financial account. The value is copied from RecordType.Name and can’t be changed. Label is Record Type. |
 | RenewalDate__c | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDate when insurance policy renewal is due. |
-| RepaymentPeriodMonths__c | TypedoublePropertiesCreateFilter, Nillable, SortUpdateDescriptionRepayment period in months. |
+| RepaymentPeriodMonths__c | TypedoublePropertiesCreateFilter, Nillable, Sort, UpdateDescriptionRepayment period in months. |
 | RoutingNumber__c | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionBank routing number. |
 | SecondaryBankerIdentifier__c | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique identifier of the secondary banker who manages the financial account. |
 | SecondaryBankerName__c | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the secondary banker who manages the financial account. |

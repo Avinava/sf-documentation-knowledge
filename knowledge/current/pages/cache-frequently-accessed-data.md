@@ -5,7 +5,7 @@ topic: cache-frequently-accessed-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.865Z
+lastCollected: 2026-04-07T09:04:56.638Z
 estimatedTokens: 236
 keywords: [Cache, Frequently, Accessed, Data, any, icon, graphics, custom, settings]
 ---

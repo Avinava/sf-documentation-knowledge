@@ -5,7 +5,7 @@ topic: continuous-integration-with-travis-ci
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.152Z
+lastCollected: 2026-04-07T09:06:12.979Z
 estimatedTokens: 163
 keywords: [Continuous, Integration, Travis, cloud-based, service, building, testing, software, projects, hosted, GitHub]
 ---

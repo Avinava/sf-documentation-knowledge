@@ -5,7 +5,7 @@ topic: benefit-disbursements-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.287Z
+lastCollected: 2026-04-07T09:05:08.435Z
 estimatedTokens: 200
 keywords: [Benefit, Disbursements, POST, session, disburse, benefits, participants, enrolled]
 ---

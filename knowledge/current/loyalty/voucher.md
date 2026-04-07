@@ -5,7 +5,7 @@ topic: voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.732Z
+lastCollected: 2026-04-07T09:04:18.113Z
 estimatedTokens: 833
 keywords: [Voucher, Output, representation, that's, issued, loyalty, program, member, API, version, 51.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: adverseeventcontribfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.002Z
+lastCollected: 2026-04-07T09:04:09.420Z
 estimatedTokens: 914
 keywords: [AdverseEventContribFactor, contributing, factors, suspected, increased, probability, severity, adverse, event, API, version, 61.0, later, Calls, Associated]
 ---

@@ -5,7 +5,7 @@ topic: objecthierarchyrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.132Z
+lastCollected: 2026-04-07T09:03:19.422Z
 estimatedTokens: 1274
 keywords: [ObjectHierarchyRelationship, organization’s, custom, mappings, eligible, rebate, mapped, Opportunity, OpportunityLineItem, Quote, QuoteLineItem, Contract, TransactionJournal, File, Suffix]
 ---

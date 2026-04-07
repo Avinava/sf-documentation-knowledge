@@ -5,7 +5,7 @@ topic: credentialstuffingeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.484Z
+lastCollected: 2026-04-07T09:05:06.033Z
 estimatedTokens: 1495
 keywords: [CredentialStuffingEventStore, Tracks, user, successfully, logs, Salesforce, identified, credential, stuffing, attack, refers, large-scale, automated, login, requests]
 ---
@@ -49,7 +49,7 @@ The Machine Learning (ML) models that power Threat Detection analyze data to ens
 | EventIdentifier | TypestringPropertiesFilter, Group, SortDescriptionRequired. The unique ID of the event. For example, 0a4779b0-0da1-4619-a373-0a36991dff90. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
-| LoginKey | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | LoginType | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe type of login used to access the session. See the LoginType field of LoginHistory in the Object Reference guide for the list of possible values. |
 | LoginUrl | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe URL of the login page. For example, MyDomainName.my.salesforce.com. |
 | PolicyId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe ID of the transaction policy associated with this event. For example, 0NIB000000000KOOAY. This field isn’t populated until all transaction security policies are processed for the real-time event. |

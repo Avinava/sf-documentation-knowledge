@@ -5,7 +5,7 @@ topic: contact-record-sync-with-amazon-connect
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.483Z
+lastCollected: 2026-04-07T09:06:17.662Z
 estimatedTokens: 388
 keywords: [Contact, Record, Sync, Amazon, Connect, previously, trace, CTR, data, automatically, stored, Voice, Call, records, allowing]
 ---

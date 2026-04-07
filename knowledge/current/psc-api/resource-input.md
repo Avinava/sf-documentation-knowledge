@@ -5,7 +5,7 @@ topic: resource-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.234Z
+lastCollected: 2026-04-07T09:05:08.352Z
 estimatedTokens: 488
 keywords: [Resource, Input, representation, expression, variable, constant]
 ---

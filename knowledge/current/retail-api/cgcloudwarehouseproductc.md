@@ -5,7 +5,7 @@ topic: cgcloudwarehouseproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.485Z
+lastCollected: 2026-04-07T09:05:22.141Z
 estimatedTokens: 1002
 keywords: [cgcloud__Warehouse_Product__c, Stores, relationship, warehouse, product, API, version, 54.0, later, cgcloud, _Warehouse, _Product, Calls, Associated, Objects]
 ---

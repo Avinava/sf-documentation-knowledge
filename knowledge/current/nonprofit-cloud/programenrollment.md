@@ -5,7 +5,7 @@ topic: programenrollment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:02.527Z
+lastCollected: 2026-04-07T09:04:32.137Z
 estimatedTokens: 1780
 keywords: [ProgramEnrollment, enrollment, benefits, program, API, version, 57.0, later, Calls, Associated, Objects]
 ---

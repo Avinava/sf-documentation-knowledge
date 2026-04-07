@@ -5,7 +5,7 @@ topic: using-custom-components-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.043Z
+lastCollected: 2026-04-07T09:04:56.921Z
 estimatedTokens: 386
 keywords: [Custom, Components, Visualforce, <apex, component>, tag, markup, added, standard, whenever, component, included, uses, defined, saved]
 ---

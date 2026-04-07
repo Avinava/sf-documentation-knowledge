@@ -5,7 +5,7 @@ topic: addressresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:13.035Z
+lastCollected: 2026-04-07T09:01:55.757Z
 estimatedTokens: 365
 namespace: CommerceTax
 keywords: [AddressResponse, location, code, sent, external, tax, engine, Usage, setLocationCode, locationCode]

@@ -5,7 +5,7 @@ topic: webstorecatalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.157Z
+lastCollected: 2026-04-07T09:06:11.656Z
 estimatedTokens: 328
 keywords: [WebStoreCatalog, collection, products, associated, store, API, version, 49.0, later]
 ---

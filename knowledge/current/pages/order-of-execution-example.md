@@ -5,7 +5,7 @@ topic: order-of-execution-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.319Z
+lastCollected: 2026-04-07T09:04:58.717Z
 estimatedTokens: 1774
 keywords: [Order, Execution, Follow, lifecycle, Visualforce, how, differs, user, retrieves, instead, postback]
 ---

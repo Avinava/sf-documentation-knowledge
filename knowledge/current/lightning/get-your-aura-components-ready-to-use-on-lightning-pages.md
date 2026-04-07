@@ -5,7 +5,7 @@ topic: get-your-aura-components-ready-to-use-on-lightning-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.116Z
+lastCollected: 2026-04-07T09:04:12.892Z
 estimatedTokens: 876
 keywords: [Aura, Components, Ready, Lightning, Pages, Custom, don’t, work, App, Builder, right, box, component, either, places]
 ---

@@ -5,7 +5,7 @@ topic: cms-channel-search-indexes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.749Z
+lastCollected: 2026-04-07T09:03:24.708Z
 estimatedTokens: 372
 keywords: [CMS, Channel, Search, Indexes, latest, live, non-live, trigger, incremental, full, indexing]
 ---

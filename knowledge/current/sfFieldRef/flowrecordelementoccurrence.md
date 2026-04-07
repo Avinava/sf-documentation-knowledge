@@ -5,7 +5,7 @@ topic: flowrecordelementoccurrence
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.380Z
+lastCollected: 2026-04-07T09:05:46.381Z
 estimatedTokens: 473
 keywords: [FlowRecordElementOccurrence, execution, metrics, element, flow, version, API, 62.0, later]
 ---

@@ -5,7 +5,7 @@ topic: staticresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.467Z
+lastCollected: 2026-04-07T09:02:49.118Z
 estimatedTokens: 419
 keywords: [StaticResource, working, copy, resource, file, editing, saving, resources, allow, upload, content, Visualforce, including, images, stylesheets]
 ---

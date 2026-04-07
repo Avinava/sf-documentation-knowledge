@@ -5,7 +5,7 @@ topic: appdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.648Z
+lastCollected: 2026-04-07T09:04:34.750Z
 estimatedTokens: 935
 keywords: [AppDefinition, metadata, app, navigation, items, apps, current, user, access, API, version, 43.0, later, Calls]
 ---

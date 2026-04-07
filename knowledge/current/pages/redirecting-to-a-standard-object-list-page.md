@@ -6,7 +6,7 @@ topic: redirecting-to-a-standard-object-list-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.018Z
+lastCollected: 2026-04-07T09:04:59.791Z
 estimatedTokens: 154
 keywords: [Redirecting, Standard, buttons, links, navigate, user, tab, redirect, content, present, objects]
 ---

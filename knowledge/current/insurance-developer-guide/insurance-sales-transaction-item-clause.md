@@ -5,7 +5,7 @@ topic: insurance-sales-transaction-item-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.671Z
+lastCollected: 2026-04-07T09:04:03.424Z
 estimatedTokens: 95
 keywords: [Insurance, Sales, Transaction, Item, Clause, Output, representation]
 ---

@@ -5,7 +5,7 @@ topic: canvas-app-user-flowoauth
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.636Z
+lastCollected: 2026-04-07T09:05:04.830Z
 estimatedTokens: 256
 keywords: [Canvas, App, User, Flow—OAuth, uses, OAuth, authorization, experience, varies, depending, located, how, access]
 ---

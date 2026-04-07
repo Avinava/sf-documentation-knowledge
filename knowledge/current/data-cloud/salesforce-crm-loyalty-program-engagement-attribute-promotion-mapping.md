@@ -5,7 +5,7 @@ topic: salesforce-crm-loyalty-program-engagement-attribute-promotion-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:32.041Z
+lastCollected: 2026-04-07T09:02:08.276Z
 estimatedTokens: 346
 keywords: [Salesforce, CRM, Loyalty, Program, Engagement, Attribute, Promotion, Mapping, data, mappings, DLO, found, Management, bundle, Connector]
 ---

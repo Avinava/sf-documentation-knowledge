@@ -5,7 +5,7 @@ topic: action-links-overview-authentication-and-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:21.708Z
+lastCollected: 2026-04-07T09:03:36.829Z
 estimatedTokens: 3410
 keywords: [Action, Links, Authentication, Security, Connect, REST, API, labels, errors, Workflow, Link, Templates, Context, Variables, Versioning]
 ---

@@ -5,7 +5,7 @@ topic: deploy-component-sfdevopsdeploycomponentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.454Z
+lastCollected: 2026-04-07T09:03:41.534Z
 estimatedTokens: 640
 keywords: [Deploy, Component, sf_devops__Deploy_Component__c, Stores, aggregated, metadata, components, deployed, part, promotion, Includes, work, items, associated, child]
 ---

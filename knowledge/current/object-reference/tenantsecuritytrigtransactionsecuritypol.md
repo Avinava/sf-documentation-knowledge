@@ -5,7 +5,7 @@ topic: tenantsecuritytrigtransactionsecuritypol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.086Z
+lastCollected: 2026-04-07T09:04:50.879Z
 estimatedTokens: 1016
 keywords: [Stores, metric, Transaction, Security, Policy, triggering, events, API, version, 63.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-dx-mcp-server-and-tools-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.298Z
+lastCollected: 2026-04-07T09:06:13.171Z
 estimatedTokens: 1669
 keywords: [Salesforce, MCP, Server, Tools, Beta, enter, natural, language, prompts, IDE, standard, tasks, syncing, metadata, running]
 ---

@@ -5,7 +5,7 @@ topic: billingaccountshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.868Z
+lastCollected: 2026-04-07T09:05:35.276Z
 estimatedTokens: 250
 keywords: [BillingAccountShare, Sharing, BillingAccount]
 ---

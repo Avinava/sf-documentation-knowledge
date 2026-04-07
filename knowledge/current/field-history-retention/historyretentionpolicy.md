@@ -5,17 +5,17 @@ topic: historyretentionpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.846Z
-estimatedTokens: 540
+lastCollected: 2026-04-07T09:03:46.278Z
+estimatedTokens: 530
 keywords: [HistoryRetentionPolicy, policy, archiving, history, data, specify, number, months, want, keep, Salesforce, Audit, Trail, enabled, retained]
 ---
 
 # HistoryRetentionPolicy
 
-> Represents the policy for archiving field history
-            data. When you set a policy, you specify the number of months that you want to keep
-            field history in Salesforce before archiving it. By default, when Field Audit Trail is
-            enabled, all field history is retained.
+> Represents the policy for archiving field history data. When you set a policy, you
+        specify the number of months that you want to keep field history in Salesforce before
+        archiving it. By default, when Field Audit Trail is enabled, all field history is
+        retained.
 
 # HistoryRetentionPolicy
 
@@ -25,7 +25,7 @@ This component is only available to users with the RetainFieldHistory permission
 
 ## Declarative Metadata File Suffix and Directory Location
 
-Field history retention policies are defined as part of a standard or custom object. You can set field history retention policies for objects individually. See CustomObject for more information.
+Field history retention policies are defined as part of a standard or custom object. You can set field history retention policies for objects individually.
 
 ## Version
 

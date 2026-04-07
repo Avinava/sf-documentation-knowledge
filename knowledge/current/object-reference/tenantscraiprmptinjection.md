@@ -5,7 +5,7 @@ topic: tenantscraiprmptinjection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.810Z
+lastCollected: 2026-04-07T09:04:50.434Z
 estimatedTokens: 600
 keywords: [TenantScrAIPrmptInjection, Stores, generative, prompt, injection, data, API, version, 65.0, later, Calls, Special, Access, Rules]
 ---

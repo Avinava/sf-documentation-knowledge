@@ -5,7 +5,7 @@ topic: rebateptnrspclprctrmbnft
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.729Z
+lastCollected: 2026-04-07T09:03:20.132Z
 estimatedTokens: 702
 keywords: [RebatePtnrSpclPrcTrmBnft, benefit, tier, rebate, partner, special, pricing, term, API, version, 58.0, later, Calls]
 ---

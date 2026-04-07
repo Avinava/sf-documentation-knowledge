@@ -5,7 +5,7 @@ topic: comply-with-a-users-personal-information-visibility-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.378Z
+lastCollected: 2026-04-07T09:03:39.856Z
 estimatedTokens: 308
 keywords: [Comply, User’s, Personal, Visibility, Settings, Orgs, portals, sites, provide, specific, hide, personally, identifiable, contact, users]
 ---

@@ -5,7 +5,7 @@ topic: collaborationgroupmemberrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.495Z
+lastCollected: 2026-04-07T09:05:40.028Z
 estimatedTokens: 313
 keywords: [CollaborationGroupMemberRequest, join, Chatter, group, API, version, 21.0, later]
 ---

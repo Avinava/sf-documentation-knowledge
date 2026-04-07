@@ -5,7 +5,7 @@ topic: get-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.976Z
+lastCollected: 2026-04-07T09:02:35.177Z
 estimatedTokens: 101
 keywords: [Invocable, Actions, standard, custom, action, URIs, Salesforce, resource, REST, API, version, 32.0, later, URI, Formats]
 ---

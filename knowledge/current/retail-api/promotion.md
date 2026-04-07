@@ -5,7 +5,7 @@ topic: promotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.138Z
+lastCollected: 2026-04-07T09:05:17.996Z
 estimatedTokens: 892
 keywords: [Promotion, loadPromotionDefaults2, **setPromotionAnchor2**, **setPromotionDates2**, **applyPromotionDateHandling2**, **setPromotionCategories2**, **setPromotionSubAccounts2**, **setPromotionParticipatingCustomers2**, promotional, activities, either, part, campaign, isolated, targeted, promotions, run, retail, stores, API]
 ---

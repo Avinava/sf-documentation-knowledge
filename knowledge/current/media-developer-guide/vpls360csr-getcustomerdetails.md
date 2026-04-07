@@ -5,7 +5,7 @@ topic: vpls360csr-getcustomerdetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.291Z
+lastCollected: 2026-04-07T09:04:21.457Z
 estimatedTokens: 109
 keywords: [vpls360csr-GetCustomerDetails, Omnistudio, Data, Mapper, agent, console, extract, account, context, customer, interaction, Sample, Input, Output]
 ---

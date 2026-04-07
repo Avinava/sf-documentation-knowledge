@@ -5,7 +5,7 @@ topic: step-three-connect-to-connect-rest-api-using-oauth
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:21.947Z
+lastCollected: 2026-04-07T09:03:37.414Z
 estimatedTokens: 500
 keywords: [Step, Three, Connect, REST, API, OAuth, Salesforce, access, token, Pass, requests]
 ---

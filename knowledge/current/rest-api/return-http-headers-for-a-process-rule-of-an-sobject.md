@@ -5,7 +5,7 @@ topic: return-http-headers-for-a-process-rule-of-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.666Z
+lastCollected: 2026-04-07T09:02:35.746Z
 estimatedTokens: 154
 keywords: [HTTP, Process, Rule, sObject, sending, rules, resource, specific, gives, chance, retrieving, content]
 ---

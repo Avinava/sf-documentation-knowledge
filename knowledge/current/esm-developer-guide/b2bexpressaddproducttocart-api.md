@@ -5,7 +5,7 @@ topic: b2bexpressaddproducttocart-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.880Z
+lastCollected: 2026-04-07T09:03:44.866Z
 estimatedTokens: 60
 keywords: [b2bExpress_AddProductToCart, API, Add, product, working, cart, b2bExpress, _AddProductToCart, URI, HTTP]
 ---

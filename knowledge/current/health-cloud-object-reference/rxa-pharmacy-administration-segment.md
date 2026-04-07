@@ -5,7 +5,7 @@ topic: rxa---pharmacy-administration-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.683Z
+lastCollected: 2026-04-07T09:03:56.481Z
 estimatedTokens: 495
 keywords: [RXA, Pharmacy, Administration, Segment, HL7, maps, primarily, PatientImmunization, Medication, objects, Salesforce, V2.3, Clinical, Data, Model]
 ---

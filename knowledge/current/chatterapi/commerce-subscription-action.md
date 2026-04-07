@@ -5,7 +5,7 @@ topic: commerce-subscription-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:21.239Z
+lastCollected: 2026-04-07T09:03:36.128Z
 estimatedTokens: 194
 keywords: [Commerce, Subscription, Action, Output, representation, recent, performed]
 ---

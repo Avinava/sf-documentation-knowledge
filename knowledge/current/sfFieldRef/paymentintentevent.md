@@ -5,7 +5,7 @@ topic: paymentintentevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:07.283Z
+lastCollected: 2026-04-07T09:05:58.445Z
 estimatedTokens: 272
 keywords: [PaymentIntentEvent, payment, intent, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered]
 ---

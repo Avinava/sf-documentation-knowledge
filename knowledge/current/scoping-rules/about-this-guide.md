@@ -5,7 +5,7 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.318Z
+lastCollected: 2026-04-07T09:05:27.855Z
 estimatedTokens: 526
 keywords: [criteria, select, rules, help, users, records, relevant, Scoping, don’t, restrict, record, access, already, open, report]
 ---

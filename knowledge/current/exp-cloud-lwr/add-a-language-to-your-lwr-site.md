@@ -5,7 +5,7 @@ topic: add-a-language-to-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.763Z
+lastCollected: 2026-04-07T09:03:46.161Z
 estimatedTokens: 1104
 keywords: [Add, Language, LWR, Site, offer, multiple, languages, Settings, panel, Experience, Builder, including, appears, selector, easy]
 ---

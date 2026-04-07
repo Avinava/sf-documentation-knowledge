@@ -5,7 +5,7 @@ topic: location-availability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.973Z
+lastCollected: 2026-04-07T09:03:22.064Z
 estimatedTokens: 133
 keywords: [Location, Availability, Input, quantity, product, inventory]
 ---

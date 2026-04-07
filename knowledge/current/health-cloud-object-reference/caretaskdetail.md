@@ -5,7 +5,7 @@ topic: caretaskdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.772Z
+lastCollected: 2026-04-07T09:03:57.825Z
 estimatedTokens: 797
 keywords: [CareTaskDetail, extra, healthcare-related, task, detail, record, code, API, version, 61.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: msgchannelusageexternalorg
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.481Z
+lastCollected: 2026-04-07T09:05:54.720Z
 estimatedTokens: 346
 keywords: [MsgChannelUsageExternalOrg, Enterprise, EID, Business, Unit, MID, Marketing, Cloud, connections, Unified, Messaging, channel, API, version, 60.0]
 ---

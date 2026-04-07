@@ -5,7 +5,7 @@ topic: party-identity-verification-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:49.123Z
+lastCollected: 2026-04-07T09:02:51.716Z
 estimatedTokens: 601
 keywords: [Party, Identity, Verification, Input, representation]
 ---

@@ -5,7 +5,7 @@ topic: loyalty-management-receipt-scanner-kit-unlocked-package-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.319Z
+lastCollected: 2026-04-07T09:04:18.916Z
 estimatedTokens: 1423
 keywords: [Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, Components, custom, objects, Apex, classes, Lightning, web, facilitate]
 ---

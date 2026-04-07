@@ -5,7 +5,7 @@ topic: apextestsuite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.881Z
+lastCollected: 2026-04-07T09:02:46.410Z
 estimatedTokens: 369
 keywords: [ApexTestSuite, suite, Apex, classes, include, test, run, TestSuiteMembership, associates, ens, Tooling, API, version, 36.0, later]
 ---

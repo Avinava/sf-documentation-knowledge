@@ -5,7 +5,7 @@ topic: introducing-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.691Z
+lastCollected: 2026-04-07T09:04:59.283Z
 estimatedTokens: 574
 keywords: [Introducing, Visualforce, Interested, creating, new, components, recommend, building, Lightning, web, instead, They’re, modern, powerful, custom]
 ---

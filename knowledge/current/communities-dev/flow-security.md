@@ -5,7 +5,7 @@ topic: flow-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.490Z
+lastCollected: 2026-04-07T09:03:40.012Z
 estimatedTokens: 624
 keywords: [Flow, Security, guest, external, users, run, flows, override, permission, grant, access, specific, user, profiles, site]
 ---

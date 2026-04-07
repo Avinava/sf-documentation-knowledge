@@ -5,7 +5,7 @@ topic: building-size-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.524Z
+lastCollected: 2026-04-07T09:04:26.029Z
 estimatedTokens: 223
 keywords: [Building, Size, Category, filter, criteria, energy, intensity, records, stored, range, floor, area, sizes, minimum, maximum]
 ---

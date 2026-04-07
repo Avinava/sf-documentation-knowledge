@@ -5,7 +5,7 @@ topic: create-a-color-palette-for-page-sections-and-columns
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.604Z
+lastCollected: 2026-04-07T09:03:45.910Z
 estimatedTokens: 587
 keywords: [Color, Palette, Sections, Columns, websites, it’s, common, footer, banners, different, colors, overall, site, perhaps, want]
 ---

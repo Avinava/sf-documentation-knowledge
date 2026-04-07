@@ -5,7 +5,7 @@ topic: appraisal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.964Z
+lastCollected: 2026-04-07T09:03:05.977Z
 estimatedTokens: 992
 keywords: [Appraisal, items, API, version, 63.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: carbon-inventory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.321Z
+lastCollected: 2026-04-07T09:04:25.733Z
 estimatedTokens: 409
 keywords: [Carbon, Inventory, Capture, organization’s, footprint, source, certain, time, period, creating, annual, emissions, data, base, achieve]
 ---

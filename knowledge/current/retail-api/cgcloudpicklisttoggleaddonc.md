@@ -5,7 +5,7 @@ topic: cgcloudpicklisttoggleaddonc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.399Z
+lastCollected: 2026-04-07T09:05:20.917Z
 estimatedTokens: 1016
 keywords: [cgcloud__Picklist_Toggle_Addon__c, non-data, It's, purely, define, different, picklists, retail, mobile, don't, any, real, corresponding, RCG, back]
 ---

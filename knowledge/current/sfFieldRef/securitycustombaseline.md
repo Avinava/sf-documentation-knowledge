@@ -5,7 +5,7 @@ topic: securitycustombaseline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.204Z
+lastCollected: 2026-04-07T09:06:06.362Z
 estimatedTokens: 360
 namespace: NamespacePrefix
 keywords: [SecurityCustomBaseline, ability, user-defined, custom, security, baselines, define, org’s, standards, API, version, 39.0, later]

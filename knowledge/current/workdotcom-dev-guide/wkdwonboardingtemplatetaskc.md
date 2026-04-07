@@ -5,7 +5,7 @@ topic: wkdwonboardingtemplatetaskc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.496Z
+lastCollected: 2026-04-07T09:06:19.190Z
 estimatedTokens: 755
 keywords: [wkdw__OnboardingTemplateTask__c, custom, junction, serves, join, transition, task, plan, wkdw, _OnboardingTemplateTask, Calls]
 ---

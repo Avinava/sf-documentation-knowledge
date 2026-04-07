@@ -5,7 +5,7 @@ topic: collect-vat-for-appexchange-checkout-transactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.296Z
+lastCollected: 2026-04-07T09:04:53.942Z
 estimatedTokens: 483
 keywords: [Collect, VAT, AppExchange, Checkout, Transactions, country’s, tax, authority, requires, value-added, include, enable, option, Partner, Console]
 ---

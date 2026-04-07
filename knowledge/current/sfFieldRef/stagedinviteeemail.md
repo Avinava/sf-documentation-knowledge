@@ -5,7 +5,7 @@ topic: stagedinviteeemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.335Z
+lastCollected: 2026-04-07T09:06:07.951Z
 estimatedTokens: 302
 keywords: [StagedInviteeEmail, email, address, included, calendar, event, doesn’t, match, user, contact, lead, record, API, version, 66.0]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudweekdayshareprofilec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.506Z
+lastCollected: 2026-04-07T09:05:22.170Z
 estimatedTokens: 1987
 keywords: [cgcloud__Week_Day_Share_Profile__c, statistical, profiles, distribution, weekly, data, among, different, days, week, API, version, 54.0, later, cgcloud]
 ---

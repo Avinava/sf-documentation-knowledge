@@ -5,7 +5,7 @@ topic: serviceappointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.751Z
+lastCollected: 2026-04-07T09:05:27.043Z
 estimatedTokens: 3393
 keywords: [ServiceAppointment, appointment, booked, Salesforce, Scheduler, API, version, 38.0, later, Calls, Special, Access, Rules, Usage, Associated]
 ---

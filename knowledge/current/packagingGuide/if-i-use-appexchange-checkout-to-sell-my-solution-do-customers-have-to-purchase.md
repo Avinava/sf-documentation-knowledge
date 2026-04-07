@@ -6,7 +6,7 @@ topic: if-i-use-appexchange-checkout-to-sell-my-solution-do-customers-have-to-pu
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.329Z
+lastCollected: 2026-04-07T09:04:54.011Z
 estimatedTokens: 98
 keywords: [AppExchange, Checkout, sell, solution, customers, purchase, Yes, purchases, occur, subject, revenue, sharing, per, Salesforce, partnership]
 ---

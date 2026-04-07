@@ -5,7 +5,7 @@ topic: batchjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.702Z
+lastCollected: 2026-04-07T09:04:20.565Z
 estimatedTokens: 1091
 keywords: [BatchJobDefinition, definition, batch, job, API, version, 51.0, later, SOAP, Calls, REST]
 ---

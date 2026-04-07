@@ -5,7 +5,7 @@ topic: initiate-file-upload-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.146Z
+lastCollected: 2026-04-07T09:05:08.217Z
 estimatedTokens: 159
 keywords: [Initiate, File, Upload, Input, representation]
 ---

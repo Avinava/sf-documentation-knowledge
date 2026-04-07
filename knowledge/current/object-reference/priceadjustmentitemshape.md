@@ -5,7 +5,7 @@ topic: priceadjustmentitemshape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.995Z
+lastCollected: 2026-04-07T09:04:46.893Z
 estimatedTokens: 1506
 keywords: [PriceAdjustmentItemShape, business, logic, item-level, price, adjustment, discount, order, item, API, version, 57.0, later, Calls, Special]
 ---

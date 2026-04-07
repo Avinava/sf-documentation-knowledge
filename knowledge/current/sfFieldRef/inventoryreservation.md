@@ -5,7 +5,7 @@ topic: inventoryreservation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.787Z
+lastCollected: 2026-04-07T09:05:51.038Z
 estimatedTokens: 472
 keywords: [InventoryReservation, Stores, status, cart, inventory, reservations, B2B, D2C, Commerce, API, version, 60.0, later]
 ---

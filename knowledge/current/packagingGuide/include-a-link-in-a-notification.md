@@ -5,7 +5,7 @@ topic: include-a-link-in-a-notification
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.588Z
+lastCollected: 2026-04-07T09:04:54.426Z
 estimatedTokens: 375
 keywords: [Include, Link, Notification, customer, installs, offering, often, want, provide, doesn’t, fit, setup, documentation, point, customers]
 ---

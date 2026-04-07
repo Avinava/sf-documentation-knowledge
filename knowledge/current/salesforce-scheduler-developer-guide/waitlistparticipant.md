@@ -5,7 +5,7 @@ topic: waitlistparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.886Z
+lastCollected: 2026-04-07T09:05:27.212Z
 estimatedTokens: 1029
 keywords: [WaitlistParticipant, customer, added, waitlist, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

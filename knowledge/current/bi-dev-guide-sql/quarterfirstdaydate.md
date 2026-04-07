@@ -5,7 +5,7 @@ topic: quarterfirstdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.081Z
+lastCollected: 2026-04-07T09:03:15.106Z
 estimatedTokens: 172
 keywords: [quarter_first_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, quarter, _first, _day]
 ---

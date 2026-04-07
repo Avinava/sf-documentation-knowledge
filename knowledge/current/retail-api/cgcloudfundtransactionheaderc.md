@@ -5,7 +5,7 @@ topic: cgcloudfundtransactionheaderc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.692Z
+lastCollected: 2026-04-07T09:05:20.149Z
 estimatedTokens: 1694
 keywords: [cgcloud__Fund_Transaction_Header__c, Fund, Transaction, facilitates, creation, multiple, transactions, either, source, target, business, scenario, dictates, key, template]
 ---

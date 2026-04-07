@@ -5,7 +5,7 @@ topic: connectapimorechangessegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.009Z
+lastCollected: 2026-04-07T09:02:24.874Z
 estimatedTokens: 147
 keywords: [ConnectApi.MoreChangesSegment, feed, items, large, number, tracked, changes, message, formatted, “changed, made, changes.”, MoreChangesSegment]
 ---

@@ -5,7 +5,7 @@ topic: personaccountownerpoweruser
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.823Z
+lastCollected: 2026-04-07T09:04:46.689Z
 estimatedTokens: 554
 keywords: [PersonAccountOwnerPowerUser, user, own, customer, partner, portal, accounts, Person, account, owner, power, users, large, number, either]
 ---

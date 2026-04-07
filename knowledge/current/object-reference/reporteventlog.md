@@ -5,7 +5,7 @@ topic: reporteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.231Z
+lastCollected: 2026-04-07T09:04:48.389Z
 estimatedTokens: 2569
 keywords: [ReportEventLog, Report, event, logs, contain, happened, user, ran, includes, activity, that's, Export, additional, reports, exported]
 ---

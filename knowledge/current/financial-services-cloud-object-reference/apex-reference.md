@@ -5,7 +5,7 @@ topic: apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:28.736Z
+lastCollected: 2026-04-07T09:03:47.701Z
 estimatedTokens: 747
 namespace: ConnectApi
 keywords: [Apex, goes, detail, built-in, ConnectApi, classes, interfaces, Financial, Services, Cloud]

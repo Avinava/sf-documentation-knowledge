@@ -5,7 +5,7 @@ topic: task
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.952Z
+lastCollected: 2026-04-07T09:02:05.647Z
 estimatedTokens: 5737
 keywords: [Task, business, activity, making, phone, call, to-do, items, user, Event, records, collectively, referred, activities, Calls]
 ---

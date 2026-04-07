@@ -5,7 +5,7 @@ topic: stnryassetenvrsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.106Z
+lastCollected: 2026-04-07T09:04:29.042Z
 estimatedTokens: 3546
 keywords: [StnryAssetEnvrSrc, assets, stationary, nature, energy, recorded, source, greenhouse, gas, emissions, API, version, 54.0, later, Calls]
 ---

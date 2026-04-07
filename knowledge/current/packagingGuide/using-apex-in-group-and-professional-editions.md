@@ -5,7 +5,7 @@ topic: using-apex-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.766Z
+lastCollected: 2026-04-07T09:04:54.732Z
 estimatedTokens: 330
 keywords: [Apex, Group, Professional, Editions, app, contain, business, logic, classes, triggers, email, services, etc, written, general]
 ---

@@ -5,7 +5,7 @@ topic: install-a-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.559Z
+lastCollected: 2026-04-07T09:05:01.829Z
 estimatedTokens: 1998
 keywords: [Install, Managed, Package, development, testing, cycle, periodically, uninstall, packages, beta, Follow, steps, Pre-Installation, Installation, Custom]
 ---

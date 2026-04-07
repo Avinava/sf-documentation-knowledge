@@ -5,7 +5,7 @@ topic: assign-page-layouts-in-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.630Z
+lastCollected: 2026-04-07T09:04:54.501Z
 estimatedTokens: 193
 keywords: [Assign, Layouts, Channel, Order, App, COA, custom, layout, customer]
 ---

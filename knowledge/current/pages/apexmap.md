@@ -5,7 +5,7 @@ topic: apexmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.744Z
+lastCollected: 2026-04-07T09:04:57.898Z
 estimatedTokens: 1022
 keywords: [apex, map, Display, interactive, JavaScript-based, zooming, panning, markers, Salesforce, data, Street, Showing, Account, Location, Attributes]
 ---

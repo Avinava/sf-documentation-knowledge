@@ -5,7 +5,7 @@ topic: userentityaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.694Z
+lastCollected: 2026-04-07T09:02:49.357Z
 estimatedTokens: 1071
 keywords: [UserEntityAccess, access, current, user, Tooling, API, version, 34.0, later, SOAP, Calls, REST, HTTP, Limitations, Usage]
 ---

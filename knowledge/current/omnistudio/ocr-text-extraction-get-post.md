@@ -5,7 +5,7 @@ topic: ocr-text-extraction-get-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.922Z
+lastCollected: 2026-04-07T09:02:52.561Z
 estimatedTokens: 540
 keywords: [OCR, Text, Extraction, POST, Retrieve, extracted, key-value, pairs, document, latest, version, scan, result, record]
 ---

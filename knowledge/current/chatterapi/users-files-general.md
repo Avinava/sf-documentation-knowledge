@@ -5,7 +5,7 @@ topic: users-files-general
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.947Z
+lastCollected: 2026-04-07T09:03:29.300Z
 estimatedTokens: 2192
 keywords: [Users, Files, General, Upload, file, including, references, external, home, user, owns, don’t, include, shared, follows]
 ---

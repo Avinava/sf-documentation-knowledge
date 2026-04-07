@@ -5,7 +5,7 @@ topic: setting-label-values-via-a-parent-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.222Z
+lastCollected: 2026-04-07T09:04:14.485Z
 estimatedTokens: 434
 keywords: [Setting, Label, via, Parent, Attribute, useful, want, control, over, labels, child, components]
 ---

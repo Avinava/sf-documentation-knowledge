@@ -5,7 +5,7 @@ topic: authorizedinsuranceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.322Z
+lastCollected: 2026-04-07T09:05:34.654Z
 estimatedTokens: 322
 keywords: [AuthorizedInsuranceLine, insurance, lines, company, authorized, sell, API, version, 48.0, later]
 ---

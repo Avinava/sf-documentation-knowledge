@@ -5,7 +5,7 @@ topic: knowledgesuggestionfilter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:21.446Z
+lastCollected: 2026-04-07T09:02:15.574Z
 estimatedTokens: 2342
 namespace: Search
 keywords: [KnowledgeSuggestionFilter, Filter, settings, narrow, results, call, System.Search.suggest, searchQuery, sObjectType, options, SOSL, search, query, KnowledgeArticleVersion, addArticleType]

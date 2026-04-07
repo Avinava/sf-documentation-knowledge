@@ -5,7 +5,7 @@ topic: socialpersona
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.325Z
+lastCollected: 2026-04-07T09:04:49.839Z
 estimatedTokens: 1394
 keywords: [SocialPersona, snapshot, contact's, profile, social, network, Facebook, Twitter, API, version, 22.0, later, Calls, Usage, Associated]
 ---

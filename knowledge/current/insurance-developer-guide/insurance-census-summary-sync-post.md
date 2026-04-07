@@ -5,7 +5,7 @@ topic: insurance-census-summary-sync-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.177Z
+lastCollected: 2026-04-07T09:04:02.640Z
 estimatedTokens: 209
 keywords: [Insurance, Census, Summary, Sync, POST, Synchronize, recalculate, data, group]
 ---
@@ -57,7 +57,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/census-management/group-censuses/0rlxx000000001aEAA/sync-summary
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/census-management/group-censuses/0rlxx000000001aEAA/sync-summary
 ```
 
 ## Related Topics

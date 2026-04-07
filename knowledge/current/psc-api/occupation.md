@@ -5,7 +5,7 @@ topic: occupation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.013Z
+lastCollected: 2026-04-07T09:05:13.906Z
 estimatedTokens: 1141
 keywords: [Occupation, group, positions, engage, specialized, line, work, require, connected, skills, knowledge, qualifications, Registered, Nurses, Healthcare]
 ---

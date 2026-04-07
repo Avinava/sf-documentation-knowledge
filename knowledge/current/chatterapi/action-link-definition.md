@@ -5,7 +5,7 @@ topic: action-link-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:17.108Z
+lastCollected: 2026-04-07T09:03:29.493Z
 estimatedTokens: 1248
 keywords: [Action, Link, Definition, client, app]
 ---

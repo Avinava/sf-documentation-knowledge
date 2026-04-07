@@ -5,7 +5,7 @@ topic: livechatbuttonskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.490Z
+lastCollected: 2026-04-07T09:05:51.904Z
 estimatedTokens: 308
 keywords: [LiveChatButtonSkill, skills, LiveChatButton, except, currently, assigned, retrieve, skill, query, API, version, 25.0, later]
 ---

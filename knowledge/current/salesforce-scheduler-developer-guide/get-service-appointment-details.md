@@ -5,7 +5,7 @@ topic: get-service-appointment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.096Z
+lastCollected: 2026-04-07T09:05:27.538Z
 estimatedTokens: 270
 keywords: [Service, Appointment, booked, Salesforce, Scheduler, that’s, via, fetch, record]
 ---

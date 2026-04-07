@@ -5,7 +5,7 @@ topic: orc---common-order-segment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.661Z
+lastCollected: 2026-04-07T09:03:56.449Z
 estimatedTokens: 481
 keywords: [ORC, Common, Order, Segment, HL7, maps, primarily, ClinicalServiceRequest, MedicationRequest, objects, Salesforce, V2.3, Clinical, Data, Model]
 ---

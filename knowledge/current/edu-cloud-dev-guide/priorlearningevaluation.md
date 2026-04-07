@@ -5,7 +5,7 @@ topic: priorlearningevaluation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.745Z
+lastCollected: 2026-04-07T09:03:44.690Z
 estimatedTokens: 1150
 keywords: [PriorLearningEvaluation, evaluation, learner's, prior, learning, transfer, API, version, 66.0, later, Calls, Associated, Objects]
 ---

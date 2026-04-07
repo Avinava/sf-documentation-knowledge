@@ -5,7 +5,7 @@ topic: pushtopic-events-legacy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.444Z
+lastCollected: 2026-04-07T09:03:05.197Z
 estimatedTokens: 616
 keywords: [PushTopic, Events, Legacy, provide, secure, scalable, way, receive, notifications, changes, Salesforce, data, match, SOQL, query]
 ---

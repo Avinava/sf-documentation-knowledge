@@ -5,7 +5,7 @@ topic: expose-component-attributes-in-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.239Z
+lastCollected: 2026-04-07T09:03:39.636Z
 estimatedTokens: 438
 keywords: [Expose, Component, Attributes, Experience, Builder, design, resource, control, exposed, lives, folder, design-time, behavior, Aura, component—information]
 ---

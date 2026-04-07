@@ -5,7 +5,7 @@ topic: fileevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.962Z
+lastCollected: 2026-04-07T09:05:45.808Z
 estimatedTokens: 493
 keywords: [FileEvent, Tracks, user, downloads, document, includes, events, performed, files, API, version, 57.0, later]
 ---

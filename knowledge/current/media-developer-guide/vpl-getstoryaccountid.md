@@ -5,7 +5,7 @@ topic: vpl-getstoryaccountid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.219Z
+lastCollected: 2026-04-07T09:04:21.312Z
 estimatedTokens: 100
 keywords: [VPL-GetStoryAccountId, Omnistudio, Data, Mapper, agent, console, fetch, account, user, context, customer, story, Sample, Input, Output]
 ---

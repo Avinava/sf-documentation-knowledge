@@ -5,21 +5,21 @@ topic: chatter-rest-api-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.892Z
-estimatedTokens: 1629
-keywords: [Chatter, REST, API, Resources, require, different, rate, limit, allocations]
+lastCollected: 2026-04-07T09:03:20.365Z
+estimatedTokens: 1604
+keywords: [Chatter, REST, API, Resources, require, per, user, application, hour, rate, limit, different, Connect, exceed, Service]
 ---
 
 # Chatter REST API Resources
 
-> These REST API resources require Chatter and can have different rate limit
-  allocations.
+> These REST API resources require Chatter and have a per user, per application, per hour
+  rate limit. This rate limit is different from other Connect REST API resources. When you exceed
+  the rate limit, Chatter REST API resources return a 503 Service Unavailable error
+  code.
 
 # Chatter REST API Resources
 
-These REST API resources require Chatter and can have different rate limit allocations.
-
-Rate limits for Chatter REST API resources can be different from other Connect REST API resources. Chatter REST API resources have a per user, per application, per hour rate limit. When you exceed the rate limit, Chatter REST API resources return a 503 Service Unavailable error code.
+These REST API resources require Chatter and have a per user, per application, per hour rate limit. This rate limit is different from other Connect REST API resources. When you exceed the rate limit, Chatter REST API resources return a 503 Service Unavailable error code.
 
 For Connect REST API resources, see [Connect REST API Resources](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_overview.htm "Connect REST API resources are sometimes called endpoints.").
 

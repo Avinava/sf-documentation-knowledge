@@ -5,7 +5,7 @@ topic: crbnemssnscopealloc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.924Z
+lastCollected: 2026-04-07T09:05:41.780Z
 estimatedTokens: 338
 keywords: [CrbnEmssnScopeAlloc, allocation, fuel, consumption, different, scope, emissions, energy, record, tCO₂e, calculated, results, classified, either, emission]
 ---

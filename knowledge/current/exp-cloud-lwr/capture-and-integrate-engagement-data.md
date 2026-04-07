@@ -5,7 +5,7 @@ topic: capture-and-integrate-engagement-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.612Z
+lastCollected: 2026-04-07T09:03:45.924Z
 estimatedTokens: 622
 keywords: [Capture, Integrate, Engagement, Data, Experience, Tag, Manager, JavaScript, library, captures, user-interaction, events, Cloud, layer, combines]
 ---

@@ -5,7 +5,7 @@ topic: standardobjectnamechangeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.134Z
+lastCollected: 2026-04-07T09:03:39.446Z
 estimatedTokens: 852
 keywords: [StandardObjectNameChangeEvent, ChangeEvent, supports, Change, Data, Capture, subscribe, stream, events, receive, tied, record, changes, Salesforce, include]
 ---

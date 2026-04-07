@@ -4,9 +4,9 @@ domain: draes
 topic: group-membership-locking
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-12T09:34:24.628Z
-estimatedTokens: 1469
+docType: help-article
+lastCollected: 2026-04-07T09:03:41.751Z
+estimatedTokens: 1464
 keywords: [Group, Membership, Locking, updating, role, hierarchy, Setup, API, customers, occasionally, receive, “could, acquire, lock”, operation]
 ---
 
@@ -31,7 +31,7 @@ Customers can lessen the chance of locking errors by:
 
 -   Scheduling separate group maintenance processes carefully so they don’t overlap
 -   Implementing retry logic in integrations and other automated group maintenance processes to recover from a failure to acquire a lock
--   Trying both serial processing and parallel processing to see if one method reduces locking errors.
+-   Trying serial processing if using parallel processing leads to locking errors
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=draes)
 

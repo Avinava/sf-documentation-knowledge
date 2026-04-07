@@ -5,7 +5,7 @@ topic: command-center-data-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.308Z
+lastCollected: 2026-04-07T09:06:18.919Z
 estimatedTokens: 1394
 keywords: [Command, Center, Data, Triggers, Work.com, installs, uses, Employee, Individual, User, Location, Adding, modifying, records, objects]
 ---

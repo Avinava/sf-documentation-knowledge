@@ -5,7 +5,7 @@ topic: budgetallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.994Z
+lastCollected: 2026-04-07T09:04:32.769Z
 estimatedTokens: 831
 keywords: [BudgetAllocation, subsection, Budget, allocated, resources, applied, API, version, 53.0, later, Calls, Special, Access, Rules, Associated]
 ---

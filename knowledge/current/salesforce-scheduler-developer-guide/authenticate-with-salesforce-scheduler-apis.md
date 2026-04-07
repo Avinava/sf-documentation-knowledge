@@ -5,7 +5,7 @@ topic: authenticate-with-salesforce-scheduler-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.163Z
+lastCollected: 2026-04-07T09:05:27.652Z
 estimatedTokens: 204
 keywords: [Authenticate, Salesforce, Scheduler, APIs, step, API-based, integration, connect, access, token, OAuth, authentication, secure, way, SOAP]
 ---

@@ -5,7 +5,7 @@ topic: return-orders-return-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.605Z
+lastCollected: 2026-04-07T09:03:28.728Z
 estimatedTokens: 489
 keywords: [Orders, Items, Process, ReturnOrderLineItems, belonging, ReturnOrder, Processing, ReturnOrderLineItem, generates, change, Order, read-only, item, delivery, charge]
 ---

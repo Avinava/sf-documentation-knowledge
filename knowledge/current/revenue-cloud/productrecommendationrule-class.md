@@ -5,7 +5,7 @@ topic: productrecommendationrule-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:14.171Z
+lastCollected: 2026-04-07T09:01:56.391Z
 estimatedTokens: 1332
 keywords: [ProductRecommendationRule, product, recommendation, rule, evaluated, configuration, rules, suggest, additional, products, users, conditions, referenceId, productIds, message]
 ---

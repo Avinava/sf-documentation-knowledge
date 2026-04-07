@@ -5,7 +5,7 @@ topic: compactlayoutiteminfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.130Z
+lastCollected: 2026-04-07T09:02:46.648Z
 estimatedTokens: 423
 keywords: [CompactLayoutItemInfo, selected, compact, layout, order, SOAP, Calls, REST, HTTP, Limitations]
 ---

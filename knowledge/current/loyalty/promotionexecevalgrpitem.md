@@ -5,8 +5,8 @@ topic: promotionexecevalgrpitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.446Z
-estimatedTokens: 692
+lastCollected: 2026-04-07T09:04:20.304Z
+estimatedTokens: 631
 keywords: [PromotionExecEvalGrpItem, either, promotion, group, execution, evaluation, API, version, 65.0, later, Calls, Special, Access, Rules, Associated]
 ---
 
@@ -47,7 +47,3 @@ This object has the following associated objects. If the API version isn’t spe
 [PromotionExecEvalGrpItemShare](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/sforce_api_associated_objects_share.htm)
 
 Sharing is available for the object.
-
-[PromotionExecEvalGrpItemOwnerSharingRule](https://developer.salesforce.com/docs/atlas.en-us.260.0.industries_reference.meta/industries_reference/sforce_api_associated_objects_ownersharingrule.htm)
-
-Sharing rules are available for the object.

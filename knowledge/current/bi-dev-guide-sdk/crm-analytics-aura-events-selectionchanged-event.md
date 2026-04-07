@@ -5,7 +5,7 @@ topic: crm-analytics-aura-events---selectionchanged-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.926Z
+lastCollected: 2026-04-07T09:03:14.855Z
 estimatedTokens: 852
 keywords: [CRM, Analytics, Aura, Events, SelectionChanged, Event, React, selections, dashboard, row, data, selection, Reacting, Resources]
 ---

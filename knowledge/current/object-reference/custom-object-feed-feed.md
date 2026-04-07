@@ -5,7 +5,7 @@ topic: custom-object-feed-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.736Z
+lastCollected: 2026-04-07T09:04:38.477Z
 estimatedTokens: 2885
 keywords: [Custom, __Feed, feed, specifically, posts, feed-tracked, changes, _Feed, Calls, Special, Access, Rules, Usage, StandardObjectNameFeed, Objects]
 ---

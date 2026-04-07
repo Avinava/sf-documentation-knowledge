@@ -5,7 +5,7 @@ topic: worktypegrouprole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.834Z
+lastCollected: 2026-04-07T09:03:44.812Z
 estimatedTokens: 439
 keywords: [WorkTypeGroupRole, grouping, work, roles, categorize, appointments, Salesforce, Scheduler, API, version, 57.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: connectapicontenthubrepositoryfeatures
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:50.582Z
+lastCollected: 2026-04-07T09:02:23.020Z
 estimatedTokens: 135
 keywords: [ConnectApi.ContentHubRepositoryFeatures, features, repository]
 ---

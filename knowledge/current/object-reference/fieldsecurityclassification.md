@@ -5,7 +5,7 @@ topic: fieldsecurityclassification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.160Z
+lastCollected: 2026-04-07T09:04:41.386Z
 estimatedTokens: 396
 keywords: [FieldSecurityClassification, field’s, data, sensitivity, selected, SecurityClassification, picklist, API, version, 46.0, later, Calls, Special, Access, Rules]
 ---

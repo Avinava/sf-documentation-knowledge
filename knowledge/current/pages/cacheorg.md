@@ -5,7 +5,7 @@ topic: cacheorg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.361Z
+lastCollected: 2026-04-07T09:05:00.285Z
 estimatedTokens: 392
 namespace: CacheBuilder
 keywords: [$Cache.Org, merge, access, org, cache, Visualforce, Retrieve, cached, partition’s, referenced, Usage, Examples]

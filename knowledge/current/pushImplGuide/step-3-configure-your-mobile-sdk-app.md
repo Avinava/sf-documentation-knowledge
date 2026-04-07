@@ -5,7 +5,7 @@ topic: step-3-configure-your-mobile-sdk-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.661Z
+lastCollected: 2026-04-07T09:05:15.908Z
 estimatedTokens: 456
 keywords: [Step, Configure, Mobile, SDK, App, implement, push, notification, protocols, Salesforce, device, provider]
 ---

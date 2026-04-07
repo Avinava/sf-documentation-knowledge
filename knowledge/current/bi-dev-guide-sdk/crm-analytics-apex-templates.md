@@ -5,7 +5,7 @@ topic: crm-analytics-apex-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:06.867Z
+lastCollected: 2026-04-07T09:03:14.772Z
 estimatedTokens: 763
 keywords: [CRM, Analytics, Apex, Templates, retrieve, collection, describe, template, configuration, Wave.Templates]
 ---

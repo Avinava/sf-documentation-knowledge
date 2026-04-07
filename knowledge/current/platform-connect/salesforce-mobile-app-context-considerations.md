@@ -5,7 +5,7 @@ topic: salesforce-mobile-app-context-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.383Z
+lastCollected: 2026-04-07T09:05:04.394Z
 estimatedTokens: 665
 keywords: [Salesforce, Mobile, App, Context, Considerations, Keep, mind, display, canvas, inside]
 ---

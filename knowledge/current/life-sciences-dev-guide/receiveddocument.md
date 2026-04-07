@@ -5,7 +5,7 @@ topic: receiveddocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.228Z
+lastCollected: 2026-04-07T09:04:11.785Z
 estimatedTokens: 999
 keywords: [ReceivedDocument, operation, performed, document, rotating, splitting, text, extraction, API, version, 50.0, later, Calls, Associated, Objects]
 ---
@@ -33,7 +33,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | HasAutoOcrDisabled | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, SortDescriptionDetermines whether text is extracted from the document automatically. Default is False. |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionSpecifies whether the document is being processed. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the received document. |
 | OcrStatus | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionCurrent state of the text extraction process.Possible values are: Draft, Approved, In Approval, In Review, Obsolete, Superseded, Archived. Default is Draft. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe user who owns the ReceivedDocument record. |

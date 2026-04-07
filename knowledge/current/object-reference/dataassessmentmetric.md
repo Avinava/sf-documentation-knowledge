@@ -5,7 +5,7 @@ topic: dataassessmentmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.837Z
+lastCollected: 2026-04-07T09:04:38.601Z
 estimatedTokens: 460
 keywords: [DataAssessmentMetric, summary, statistics, matched, unmatched, account, records, Data.com, API, version, 37.0, later, Calls]
 ---

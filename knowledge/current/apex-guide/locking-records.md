@@ -5,7 +5,7 @@ topic: locking-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:45.283Z
+lastCollected: 2026-04-07T09:02:34.375Z
 estimatedTokens: 202
 keywords: [Locking, Records, sObject, record, locked, client, user, allowed, updates, either, code, Salesforce, perform, logic, guarantee]
 ---

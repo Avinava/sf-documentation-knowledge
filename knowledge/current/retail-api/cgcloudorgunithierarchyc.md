@@ -5,7 +5,7 @@ topic: cgcloudorgunithierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.264Z
+lastCollected: 2026-04-07T09:05:20.779Z
 estimatedTokens: 1263
 keywords: [cgcloud__Org_Unit_Hierarchy__c, Stores, relationship, two, org, units, It's, typically, sales, unit, hierarchy, API, version, 54.0, later]
 ---

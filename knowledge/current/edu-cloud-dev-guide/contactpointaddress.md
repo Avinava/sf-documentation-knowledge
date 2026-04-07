@@ -5,7 +5,7 @@ topic: contactpointaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:25.358Z
+lastCollected: 2026-04-07T09:03:42.958Z
 estimatedTokens: 1923
 keywords: [ContactPointAddress, contact’s, billing, shipping, address, associated, individual, person, account, API, version, 61.0, later, Calls, Special]
 ---

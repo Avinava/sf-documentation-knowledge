@@ -5,7 +5,7 @@ topic: cgcloudpromotiontemplatehierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:39.723Z
+lastCollected: 2026-04-07T09:05:21.280Z
 estimatedTokens: 1422
 keywords: [helps, promotion, hierarchies, API, version, 54.0, later, cgcloud, _Promotion, _Template, _Hierarchy, Calls, Associated, Objects]
 ---

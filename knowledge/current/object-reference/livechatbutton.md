@@ -5,7 +5,7 @@ topic: livechatbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.355Z
+lastCollected: 2026-04-07T09:04:43.806Z
 estimatedTokens: 3144
 keywords: [LiveChatButton, button, visitors, chats, Chat, users, API, version, 24.0, later, Calls, Usage]
 ---

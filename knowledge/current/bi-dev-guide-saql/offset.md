@@ -5,7 +5,7 @@ topic: offset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.809Z
+lastCollected: 2026-04-07T09:03:14.689Z
 estimatedTokens: 249
 keywords: [offset, results, query, Usage, Rows, 51–101]
 ---

@@ -5,7 +5,7 @@ topic: ui-edit-access-rights-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.122Z
+lastCollected: 2026-04-07T09:05:22.855Z
 estimatedTokens: 268
 keywords: [Edit, Access, Rights, Customization, EARights, mechanism, TPM, application, selectively, enable, disable, certain, functionality, elements, depending]
 ---

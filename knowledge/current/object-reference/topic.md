@@ -5,7 +5,7 @@ topic: topic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.237Z
+lastCollected: 2026-04-07T09:04:51.090Z
 estimatedTokens: 539
 keywords: [Topic, Chatter, post, record, API, version, 28.0, later, Calls, Usage, Associated, Objects]
 ---

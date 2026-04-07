@@ -5,7 +5,7 @@ topic: hide-call-controls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.053Z
+lastCollected: 2026-04-07T09:06:18.561Z
 estimatedTokens: 259
 keywords: [Hide, Call, control, buttons, appear, rep, Omni-Channel, widget, hidden, shown, visible]
 ---

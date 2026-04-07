@@ -5,7 +5,7 @@ topic: obtain-an-events-subscribers-by-querying-eventbussubscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.782Z
+lastCollected: 2026-04-07T09:05:05.048Z
 estimatedTokens: 117
 keywords: [Obtain, Event’s, Subscribers, Querying, EventBusSubscriber, standard, trigger, process, platform, events, query, SOQL]
 ---

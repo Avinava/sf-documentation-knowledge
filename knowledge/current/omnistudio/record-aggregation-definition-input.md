@@ -5,7 +5,7 @@ topic: record-aggregation-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:48.738Z
+lastCollected: 2026-04-07T09:02:51.315Z
 estimatedTokens: 124
 keywords: [Record, Aggregation, Definition, Input, representation, Data, Processing, Engine, generation]
 ---

@@ -5,7 +5,7 @@ topic: knowledgearticleviewstat
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.089Z
+lastCollected: 2026-04-07T09:05:51.406Z
 estimatedTokens: 291
 keywords: [KnowledgeArticleViewStat, certain, statistics, number, views, article, across, view, count, published, archived, articles, counts, draft, aren’t]
 ---

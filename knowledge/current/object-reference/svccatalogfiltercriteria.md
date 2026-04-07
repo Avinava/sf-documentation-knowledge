@@ -5,7 +5,7 @@ topic: svccatalogfiltercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:17.632Z
+lastCollected: 2026-04-07T09:04:50.212Z
 estimatedTokens: 735
 keywords: [SvcCatalogFilterCriteria, eligibility, rule, determines, Service, Catalog, user, access, item, API, version, 60.0, later, SOAP, Calls]
 ---

@@ -5,7 +5,7 @@ topic: rebatepartnerspecialprctrm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.686Z
+lastCollected: 2026-04-07T09:03:20.072Z
 estimatedTokens: 938
 keywords: [RebatePartnerSpecialPrcTrm, special, pricing, term, ship, debit, program, API, version, 58.0, later, Calls]
 ---

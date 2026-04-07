@@ -5,7 +5,7 @@ topic: formulaeval-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.740Z
+lastCollected: 2026-04-07T09:02:29.927Z
 estimatedTokens: 515
 namespace: FormulaEval
 keywords: [FormulaEval, classes, evaluate, dynamic, formulas, SObjects, Apex, objects, avoid, unnecessary, DML, statements, recalculate, formula, expressions]

@@ -5,7 +5,7 @@ topic: decisiontablesourcecriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:35.300Z
+lastCollected: 2026-04-07T09:05:15.440Z
 estimatedTokens: 554
 keywords: [DecisionTableSourceCriteria, data, source, define, condition, logic, that's, decision, API, version, 59.0, later, SOAP, Calls, REST]
 ---

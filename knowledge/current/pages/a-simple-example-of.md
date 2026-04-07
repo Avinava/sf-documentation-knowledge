@@ -5,7 +5,7 @@ topic: a-simple-example-of
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.094Z
+lastCollected: 2026-04-07T09:04:59.898Z
 estimatedTokens: 578
 keywords: [Simple, short, demonstrates, two, pieces, functionality, implement, Remote, Objects]
 ---

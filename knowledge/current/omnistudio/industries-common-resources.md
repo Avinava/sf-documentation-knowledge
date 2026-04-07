@@ -5,7 +5,7 @@ topic: industries-common-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:55.330Z
+lastCollected: 2026-04-07T09:02:57.894Z
 estimatedTokens: 3418
 keywords: [Industries, Common, Resources, Certain, feature, shared, across, developer, documentation, help, put, features, work]
 ---

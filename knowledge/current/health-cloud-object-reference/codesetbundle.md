@@ -5,7 +5,7 @@ topic: codesetbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.363Z
+lastCollected: 2026-04-07T09:03:54.771Z
 estimatedTokens: 1415
 keywords: [CodeSetBundle, group, code, across, multiple, systems, versions, refer, conceptual, entity, API, version, 50.0, later, Calls]
 ---

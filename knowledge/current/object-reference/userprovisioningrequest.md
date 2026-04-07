@@ -5,7 +5,7 @@ topic: userprovisioningrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:18.978Z
+lastCollected: 2026-04-07T09:04:52.054Z
 estimatedTokens: 2670
 keywords: [UserProvisioningRequest, individual, provisioning, user, account, third-party, service, system, another, Salesforce, organization, API, version, 33.0, later]
 ---

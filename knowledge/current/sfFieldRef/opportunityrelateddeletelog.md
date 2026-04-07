@@ -5,7 +5,7 @@ topic: opportunityrelateddeletelog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.551Z
+lastCollected: 2026-04-07T09:05:56.167Z
 estimatedTokens: 401
 keywords: [OpportunityRelatedDeleteLog, audit, log, deletion, opportunity-related, child, records, opportunity, team, members, product, splits, API, version, 59.0]
 ---

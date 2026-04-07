@@ -5,7 +5,7 @@ topic: creating-an-empty-html5-container-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.652Z
+lastCollected: 2026-04-07T09:04:59.220Z
 estimatedTokens: 818
 keywords: [Creating, Empty, HTML5, “Container”, container, want, bypass, Visualforce, add, own, markup, especially, useful, mobile, development]
 ---

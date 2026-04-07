@@ -5,7 +5,7 @@ topic: orderitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:13.825Z
+lastCollected: 2026-04-07T09:04:45.652Z
 estimatedTokens: 7261
 keywords: [OrderItem, order, product, organization, sells, Calls, Special, Access, Rules, Usage, Associated, Objects]
 ---

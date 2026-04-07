@@ -5,7 +5,7 @@ topic: checking-component-validity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.120Z
+lastCollected: 2026-04-07T09:04:14.326Z
 estimatedTokens: 926
 keywords: [Checking, Component, Validity, navigate, elsewhere, asynchronous, code, executing, framework, unrenders, destroys, made, longer, cmp.isValid, call]
 ---

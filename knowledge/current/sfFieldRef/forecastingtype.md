@@ -5,7 +5,7 @@ topic: forecastingtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.608Z
+lastCollected: 2026-04-07T09:05:46.717Z
 estimatedTokens: 539
 keywords: [ForecastingType, identify, forecast, associated, ForecastingAdjustment, ForecastingOwnerAdjustment, ForecastingQuota, ForecastingFact, ForecastingItem, objects, API, version, 30.0, greater]
 ---

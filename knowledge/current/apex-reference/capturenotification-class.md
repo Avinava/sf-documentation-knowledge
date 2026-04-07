@@ -5,7 +5,7 @@ topic: capturenotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:43.938Z
+lastCollected: 2026-04-07T09:02:16.646Z
 estimatedTokens: 2674
 namespace: CommercePayments
 keywords: [CaptureNotification, payment, gateway, notification, capture, transaction, adapter, creates, store, Usage, setAmount, amount, setGatewayAvsCode, gatewayAvsCode, setGatewayDate]

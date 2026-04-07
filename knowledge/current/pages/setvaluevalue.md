@@ -5,7 +5,7 @@ topic: setvaluevalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.725Z
+lastCollected: 2026-04-07T09:04:56.441Z
 estimatedTokens: 59
 keywords: [setValue, option, controller, user, selects]
 ---

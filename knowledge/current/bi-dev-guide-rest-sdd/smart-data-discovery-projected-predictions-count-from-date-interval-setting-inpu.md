@@ -5,7 +5,7 @@ topic: smart-data-discovery-projected-predictions-count-from-date-interval-setti
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.279Z
+lastCollected: 2026-04-07T09:03:12.337Z
 estimatedTokens: 209
 keywords: [Smart, Data, Discovery, Projected, Predictions, Count, Date, Interval, Setting, Input, settings, Einstein, projection]
 ---

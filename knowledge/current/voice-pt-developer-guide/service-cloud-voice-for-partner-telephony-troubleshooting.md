@@ -5,8 +5,8 @@ topic: service-cloud-voice-for-partner-telephony-troubleshooting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.200Z
-estimatedTokens: 1160
+lastCollected: 2026-04-07T09:06:18.769Z
+estimatedTokens: 1227
 keywords: [Service, Cloud, Voice, Partner, Telephony, Troubleshooting, Review, tips, common, problems, Omni-Channel, Doesn't, Show, AgentWork, Accept]
 ---
 
@@ -35,6 +35,16 @@ This guide is for telephony providers who are creating a solution that integrate
 
 -   AgentWork creation failed. Check your connector CALL\_STARTED event payload and verify that you don’t have invalid data. Also, check that the rep is online with the correct Omni-Channel status for the assigned phone channel.
 -   Salesforce Omni-Channel has an outage, which prevents pushing AgentWork from the server to the rep console UI. Check Omni-Channel service status at [trust.salesforce.com](https://trust.salesforce.com). To verify that AgentWork has been created successfully, refresh the page. Omni-Channel should load the AgentWork and allow the rep to accept or decline the call.
+
+## Omni-Channel Shows Duplicate Calls
+
+**Issues you could see:**
+
+-   Omni-Channel lists the same call more than once.
+
+**Possible causes:**
+
+-   The connector isn’t implemented properly. Your integration is sending more than one CALL\_STARTED event for a single call.
 
 ## The Connector Doesn’t Load Successfully
 

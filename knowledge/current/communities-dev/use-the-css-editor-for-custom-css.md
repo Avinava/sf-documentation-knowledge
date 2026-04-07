@@ -5,7 +5,7 @@ topic: use-the-css-editor-for-custom-css
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.269Z
+lastCollected: 2026-04-07T09:03:39.686Z
 estimatedTokens: 880
 keywords: [CSS, Editor, Custom, Experience, Builder, style, elements, across, Aura, site, option, suitable, you’re, familiar, want]
 ---

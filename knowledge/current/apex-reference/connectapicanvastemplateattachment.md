@@ -5,7 +5,7 @@ topic: connectapicanvastemplateattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:26.436Z
+lastCollected: 2026-04-07T09:02:22.172Z
 estimatedTokens: 405
 keywords: [ConnectApi.CanvasTemplateAttachment, Attachments, feed, items, CanvasPost]
 ---

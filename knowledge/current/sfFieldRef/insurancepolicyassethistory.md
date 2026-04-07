@@ -5,7 +5,7 @@ topic: insurancepolicyassethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.414Z
+lastCollected: 2026-04-07T09:05:50.618Z
 estimatedTokens: 270
 keywords: [InsurancePolicyAssetHistory, History, tracked, InsurancePolicyAsset]
 ---

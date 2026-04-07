@@ -5,7 +5,7 @@ topic: implicit-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.639Z
+lastCollected: 2026-04-07T09:03:41.771Z
 estimatedTokens: 994
 keywords: [Implicit, Sharing, capabilities, Salesforce, Platform, include, wide, variety, features, explicitly, grant, access, data, individuals, groups]
 ---

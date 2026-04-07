@@ -5,7 +5,7 @@ topic: record-view
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.851Z
+lastCollected: 2026-04-07T09:03:35.496Z
 estimatedTokens: 413
 keywords: [Record, View, any, org, including, custom, specialized, User, ChatterGroup, isn’t, data, metadata, render]
 ---

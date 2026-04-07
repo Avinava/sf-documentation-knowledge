@@ -5,7 +5,7 @@ topic: chatterextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:06.526Z
+lastCollected: 2026-04-07T09:04:36.946Z
 estimatedTokens: 766
 keywords: [ChatterExtension, Rich, Publisher, App, that’s, integrated, Chatter, API, version, 41.0, later, Calls]
 ---

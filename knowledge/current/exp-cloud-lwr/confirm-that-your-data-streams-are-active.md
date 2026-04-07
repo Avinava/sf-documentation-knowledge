@@ -5,7 +5,7 @@ topic: confirm-that-your-data-streams-are-active
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.622Z
+lastCollected: 2026-04-07T09:03:45.938Z
 estimatedTokens: 710
 keywords: [Confirm, Data, Streams, Active, connect, Experience, Cloud, site, connection, automatically, installed, space, selected, setup, connector]
 ---

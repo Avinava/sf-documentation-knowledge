@@ -5,7 +5,7 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:50.166Z
+lastCollected: 2026-04-07T09:04:15.949Z
 estimatedTokens: 923
 keywords: [Customize, Chat, fit, company’s, needs, several, examples, help, understand, customized, windows, buttons, forms, pages]
 ---

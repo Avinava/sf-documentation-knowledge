@@ -5,7 +5,7 @@ topic: create-an-event-with-an-eventuuid-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.070Z
+lastCollected: 2026-04-07T09:05:05.450Z
 estimatedTokens: 213
 keywords: [Event, EventUuid, uniquely, identifies, message, match, events, callback, result, publish, call, system, generate, SObjectType.newSObject, recordTypeId]
 ---

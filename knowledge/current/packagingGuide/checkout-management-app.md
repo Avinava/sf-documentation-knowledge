@@ -5,7 +5,7 @@ topic: checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.612Z
+lastCollected: 2026-04-07T09:04:54.471Z
 estimatedTokens: 1083
 keywords: [Checkout, Management, App, CMA, brings, power, Salesforce, AppExchange, beautiful, dashboard, visually, displays, data, it’s, easy]
 ---

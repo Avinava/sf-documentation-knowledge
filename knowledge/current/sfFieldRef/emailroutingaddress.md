@@ -5,7 +5,7 @@ topic: emailroutingaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.819Z
+lastCollected: 2026-04-07T09:05:44.218Z
 estimatedTokens: 311
 keywords: [EmailRoutingAddress, email, address, Email-to-Case, routing, addresses, store, unique, services, provided, Salesforce, configuration, options, emails, received]
 ---

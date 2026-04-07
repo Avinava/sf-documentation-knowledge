@@ -5,7 +5,7 @@ topic: emssnrdctncommitment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.086Z
+lastCollected: 2026-04-07T09:04:27.923Z
 estimatedTokens: 2224
 keywords: [EmssnRdctnCommitment, company's, commitment, reducing, carbon, emissions, line, Paris, Agreement’s, goal, achieve, low-carbon, future, companies, sign]
 ---

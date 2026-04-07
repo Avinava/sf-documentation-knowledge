@@ -5,7 +5,7 @@ topic: vpls360ticket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.255Z
+lastCollected: 2026-04-07T09:04:21.370Z
 estimatedTokens: 107
 keywords: [VPLS360_ticket, Integration, Procedure, cases, associated, particular, account, VPLS360, _ticket, Sample, Input, Output, Calls]
 ---

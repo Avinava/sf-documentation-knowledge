@@ -5,7 +5,7 @@ topic: wkcccmdctrlogevente
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.347Z
+lastCollected: 2026-04-07T09:06:18.982Z
 estimatedTokens: 592
 keywords: [wkcc__CmdCtrLogEvent__e, log, messages, errors, exceptions, Workplace, Command, Center, Wellness, Check, insert, platform, event, Apex, trigger]
 ---

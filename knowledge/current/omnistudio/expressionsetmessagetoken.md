@@ -5,7 +5,7 @@ topic: expressionsetmessagetoken
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:54.319Z
+lastCollected: 2026-04-07T09:02:56.969Z
 estimatedTokens: 496
 keywords: [ExpressionSetMessageToken, retrieve, deploy, Expression, Message, Token, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, token, that's, explainability, message, template]
 ---

@@ -5,7 +5,7 @@ topic: assessmentenvelope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.147Z
+lastCollected: 2026-04-07T09:05:33.148Z
 estimatedTokens: 438
 keywords: [AssessmentEnvelope, envelope, assessments, user, patient, caregiver, depression, anxiety, API, version, 58.0, later]
 ---

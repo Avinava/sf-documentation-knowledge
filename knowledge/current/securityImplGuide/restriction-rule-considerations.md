@@ -5,7 +5,7 @@ topic: restriction-rule-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:45.132Z
+lastCollected: 2026-04-07T09:05:29.032Z
 estimatedTokens: 2532
 keywords: [Restriction, Rule, Considerations, Keep, limitations, mind, rules, Objects, Applicable, Features, Creating, External, Performance]
 ---

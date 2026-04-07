@@ -5,7 +5,7 @@ topic: wkccsurveyhistoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.417Z
+lastCollected: 2026-04-07T09:06:19.081Z
 estimatedTokens: 581
 keywords: [wkcc__SurveyHistory__c, historical, data, specific, sending, survey, includes, started, sent, schedule, force, any, status, operation, history]
 ---

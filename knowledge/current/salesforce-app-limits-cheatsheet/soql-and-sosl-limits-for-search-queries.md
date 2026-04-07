@@ -5,7 +5,7 @@ topic: soql-and-sosl-limits-for-search-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.216Z
+lastCollected: 2026-04-07T09:05:22.985Z
 estimatedTokens: 1327
 keywords: [SOQL, SOSL, Limits, Search, Queries, Long, complex, statements, contain, formula, result, QUERY_TOO_COMPLICATED, error, occurs, because]
 ---

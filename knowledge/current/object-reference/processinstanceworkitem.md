@@ -5,7 +5,7 @@ topic: processinstanceworkitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.226Z
+lastCollected: 2026-04-07T09:04:47.173Z
 estimatedTokens: 1034
 keywords: [ProcessInstanceWorkitem, user’s, pending, approval, Calls, Usage]
 ---

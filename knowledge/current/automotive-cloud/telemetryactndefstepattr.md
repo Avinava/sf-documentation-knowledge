@@ -5,7 +5,7 @@ topic: telemetryactndefstepattr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.768Z
+lastCollected: 2026-04-07T09:03:05.697Z
 estimatedTokens: 631
 keywords: [TelemetryActnDefStepAttr, attributes, telemetry, action, definition, step, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, API, version, 65.0, later, Calls]
 ---

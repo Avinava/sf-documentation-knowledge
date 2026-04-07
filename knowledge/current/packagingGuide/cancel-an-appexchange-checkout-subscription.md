@@ -5,7 +5,7 @@ topic: cancel-an-appexchange-checkout-subscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.299Z
+lastCollected: 2026-04-07T09:04:53.947Z
 estimatedTokens: 289
 keywords: [Cancel, AppExchange, Checkout, Subscription, customer, wants, end, renewal, date, share, self-service, steps, canceling, cancellation, effect]
 ---

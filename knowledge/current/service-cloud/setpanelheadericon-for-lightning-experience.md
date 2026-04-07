@@ -5,7 +5,7 @@ topic: setpanelheadericon-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.026Z
+lastCollected: 2026-04-07T09:03:03.904Z
 estimatedTokens: 344
 keywords: [setPanelHeaderIcon, Lightning, Experience, icon, utility’s, panel, utility, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
 ---

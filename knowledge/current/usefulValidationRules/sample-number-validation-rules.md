@@ -5,7 +5,7 @@ topic: sample-number-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.390Z
+lastCollected: 2026-04-07T09:06:17.488Z
 estimatedTokens: 932
 keywords: [Sample, Number, Validation, Rules, Examples, how, validate, users, can't, save, time, card, record, hours, work]
 ---

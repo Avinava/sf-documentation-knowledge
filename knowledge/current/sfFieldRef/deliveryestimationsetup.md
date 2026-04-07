@@ -5,7 +5,7 @@ topic: deliveryestimationsetup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:56.035Z
+lastCollected: 2026-04-07T09:05:43.100Z
 estimatedTokens: 565
 keywords: [DeliveryEstimationSetup, configuration, options, commerce, delivery, service, offered, web, store, sales, channel, Includes, settings, location, group]
 ---

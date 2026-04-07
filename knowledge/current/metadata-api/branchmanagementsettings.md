@@ -5,7 +5,7 @@ topic: branchmanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:04.038Z
+lastCollected: 2026-04-07T09:02:37.828Z
 estimatedTokens: 536
 keywords: [BranchManagementSettings, branch, management, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, Access, File, Suffix, Directory]
 ---

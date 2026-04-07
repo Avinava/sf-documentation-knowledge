@@ -5,7 +5,7 @@ topic: fundraising-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.110Z
+lastCollected: 2026-04-07T09:04:30.352Z
 estimatedTokens: 844
 keywords: [Fundraising, Invocable, Actions, add, functionality, applications, Choose, standard, processing, gift, entries, processed, manage, designations, transaction]
 ---

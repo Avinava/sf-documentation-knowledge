@@ -5,8 +5,8 @@ topic: message-durability
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.516Z
-estimatedTokens: 2336
+lastCollected: 2026-04-07T09:03:05.315Z
+estimatedTokens: 2330
 keywords: [Message, Durability, Salesforce, stores, PushTopic, events, generic, standard-volume, hours, high-volume, include, platform, change, data, capture]
 ---
 
@@ -35,7 +35,7 @@ After the retention period, events are purged from the event bus. The purging pr
 
 With API version 37.0 and later, events are published to the event bus. Subscribers retrieve events from a channel on the event bus, including past events that are stored temporarily. The event bus decouples event publishers from event subscribers.
 
-![The Salesforce Event Bus](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fsalesforce_event_bus.png&folder=api_streaming)
+![The Salesforce Event Bus](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fsalesforce_event_bus.png&folder=api_streaming)
 
 ## Event Replay Process
 
@@ -63,7 +63,7 @@ A subscriber can choose which events to receive, such as all events within the r
 
 This high-level diagram shows how event consumers can read a stream of events by using various replay options.
 
-![Diagram showing a stream of events with replay options](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_event_numbers.png&folder=api_streaming)
+![Diagram showing a stream of events with replay options](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_event_numbers.png&folder=api_streaming)
 
 | Replay Option | Description | Usage |
 | --- | --- | --- |

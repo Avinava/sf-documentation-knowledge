@@ -5,7 +5,7 @@ topic: protected-components-in-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:26.898Z
+lastCollected: 2026-04-07T09:05:03.561Z
 estimatedTokens: 371
 keywords: [Protected, Components, Managed, Packages, Developers, mark, certain, can’t, linked, referenced, created, subscriber, org, developer, component]
 ---

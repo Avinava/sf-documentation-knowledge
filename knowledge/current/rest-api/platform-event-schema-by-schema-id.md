@@ -5,7 +5,7 @@ topic: platform-event-schema-by-schema-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.316Z
+lastCollected: 2026-04-07T09:02:35.452Z
 estimatedTokens: 1274
 keywords: [Platform, Event, Schema, definition, JSON, resource, REST, API, version, 40.0, later, Examples, 43.0, 42.0, Earlier]
 ---

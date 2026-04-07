@@ -5,7 +5,7 @@ topic: caresystemfieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.724Z
+lastCollected: 2026-04-07T09:04:09.109Z
 estimatedTokens: 703
 keywords: [CareSystemFieldMapping, mapping, source, system, Salesforce, objects, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, target, entities, attributes, Calls, external]
 ---

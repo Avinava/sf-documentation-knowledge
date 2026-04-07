@@ -5,7 +5,7 @@ topic: aigenactionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:04.137Z
+lastCollected: 2026-04-07T09:04:34.165Z
 estimatedTokens: 959
 keywords: [AiGenActionItem, business, actions, suggested, generative, AI-generated, action, items, sent, either, agents, automatic, execution, human, users]
 ---

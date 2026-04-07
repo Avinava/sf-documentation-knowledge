@@ -5,7 +5,7 @@ topic: invocationcontext-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:52.474Z
+lastCollected: 2026-04-07T09:02:27.110Z
 estimatedTokens: 478
 keywords: [InvocationContext, context, connected, app, invoked, protocol, flow, token, issued, any, Developers, write, code, unique, invocation]
 ---

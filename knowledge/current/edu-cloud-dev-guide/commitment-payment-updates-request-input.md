@@ -5,7 +5,7 @@ topic: commitment-payment-updates-request-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.730Z
+lastCollected: 2026-04-07T09:03:41.909Z
 estimatedTokens: 238
 keywords: [Commitment, Payment, Updates, Input, representation, gift, instrument]
 ---

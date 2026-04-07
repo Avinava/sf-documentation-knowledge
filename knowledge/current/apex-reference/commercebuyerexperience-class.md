@@ -5,7 +5,7 @@ topic: commercebuyerexperience-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:39.404Z
+lastCollected: 2026-04-07T09:02:12.148Z
 estimatedTokens: 34548
 namespace: ConnectApi
 keywords: [CommerceBuyerExperience, Add, order, cart, webstore, summary, addOrderToCart, webstoreId, orderSummaryId, orderToCartInput, API, Version, Requires, Chatter, effectiveAccountId]

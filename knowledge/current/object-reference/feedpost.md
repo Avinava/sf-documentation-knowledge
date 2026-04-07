@@ -5,7 +5,7 @@ topic: feedpost
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.103Z
+lastCollected: 2026-04-07T09:04:41.313Z
 estimatedTokens: 1392
 keywords: [FeedPost, changes, record, feed, AccountFeed, text, posts, link, content, API, version, 18.0, 21.0, longer, later]
 ---

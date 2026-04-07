@@ -5,7 +5,7 @@ topic: b2bexpresssalesorder-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.890Z
+lastCollected: 2026-04-07T09:03:44.886Z
 estimatedTokens: 52
 keywords: [b2bExpress_SalesOrder, API, orders, quote, account, principal, order, b2bExpress, _SalesOrder, URI, HTTP]
 ---

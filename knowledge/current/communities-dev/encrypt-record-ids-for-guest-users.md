@@ -5,7 +5,7 @@ topic: encrypt-record-ids-for-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.388Z
+lastCollected: 2026-04-07T09:03:39.871Z
 estimatedTokens: 725
 keywords: [Encrypt, Record, IDs, Guest, Users, security, reasons, don’t, allow, look, records, unless, want, user, creates]
 ---

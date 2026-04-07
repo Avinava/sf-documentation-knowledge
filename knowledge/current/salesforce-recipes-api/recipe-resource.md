@@ -5,7 +5,7 @@ topic: recipe-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.586Z
+lastCollected: 2026-04-07T09:05:25.199Z
 estimatedTokens: 1176
 keywords: [Recipe, Resource, updates, deletes, Data, Prep, URL, Formats, Version, Postman, Components, HTTP, Run, Schedule, PATCH]
 ---

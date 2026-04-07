@@ -5,7 +5,7 @@ topic: signaturetasklineitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.069Z
+lastCollected: 2026-04-07T09:06:07.587Z
 estimatedTokens: 272
 keywords: [SignatureTaskLineItemHistory, History, tracked, SignatureTaskLineItem]
 ---

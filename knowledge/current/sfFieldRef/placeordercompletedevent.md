@@ -5,7 +5,7 @@ topic: placeordercompletedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.336Z
+lastCollected: 2026-04-07T09:05:59.704Z
 estimatedTokens: 270
 keywords: [PlaceOrderCompletedEvent, Notifies, subscribers, order, created, updated, invoking, Place, API, Sales, Transaction, version, 63.0, later]
 ---

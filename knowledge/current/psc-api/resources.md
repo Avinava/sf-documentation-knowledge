@@ -5,7 +5,7 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.340Z
+lastCollected: 2026-04-07T09:05:10.088Z
 estimatedTokens: 149
 keywords: [Resources, Here’s, Decision, Explainer, API, includes, Expression, Group, Membership, Households, APIs, Identity, Verification, Intelligent, Document, Reader, Interest, Tags, Lookup, known]
 ---

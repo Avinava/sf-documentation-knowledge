@@ -5,7 +5,7 @@ topic: arimax-show-parameters-query-tool
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:06.243Z
+lastCollected: 2026-04-07T09:03:13.767Z
 estimatedTokens: 2117
 keywords: [arimax, Show, Query, Tool, showParams, provided, developer, run, review, model, Bayesian, Criteria, BIC, understand, data]
 ---

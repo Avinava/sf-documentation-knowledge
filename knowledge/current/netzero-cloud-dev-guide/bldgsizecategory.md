@@ -5,7 +5,7 @@ topic: bldgsizecategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.577Z
+lastCollected: 2026-04-07T09:04:27.378Z
 estimatedTokens: 513
 keywords: [BldgSizeCategory, building, size, filter, criteria, energy, intensity, records, stored, range, floor, area, sizes, minimum, maximum]
 ---

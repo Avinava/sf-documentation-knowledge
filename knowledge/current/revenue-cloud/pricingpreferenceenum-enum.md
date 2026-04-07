@@ -5,7 +5,7 @@ topic: pricingpreferenceenum-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:14.757Z
+lastCollected: 2026-04-07T09:01:56.821Z
 estimatedTokens: 229
 keywords: [PricingPreferenceEnum, pricing, preference, creation, sales, transaction, Usage, order, process, quote]
 ---

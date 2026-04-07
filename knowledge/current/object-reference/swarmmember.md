@@ -5,7 +5,7 @@ topic: swarmmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:17.678Z
+lastCollected: 2026-04-07T09:04:50.270Z
 estimatedTokens: 1090
 keywords: [SwarmMember, Salesforce, member, agent, swarm, API, version, 55.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

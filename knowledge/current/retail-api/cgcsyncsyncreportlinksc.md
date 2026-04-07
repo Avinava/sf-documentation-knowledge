@@ -5,7 +5,7 @@ topic: cgcsyncsyncreportlinksc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.886Z
+lastCollected: 2026-04-07T09:05:19.158Z
 estimatedTokens: 312
 keywords: [cgc_sync__Sync_Report_Links__c, conjunction, reports, logs, API, version, 53.0, later, cgc, _sync, _Report, _Links, Calls]
 ---

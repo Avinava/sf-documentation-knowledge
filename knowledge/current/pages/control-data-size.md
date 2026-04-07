@@ -5,7 +5,7 @@ topic: control-data-size
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.874Z
+lastCollected: 2026-04-07T09:04:56.656Z
 estimatedTokens: 587
 keywords: [Control, Data, Size, Visualforce, pages, 15-MB, standard, limit, smaller, load, faster, larger, minimize, times, amount]
 ---

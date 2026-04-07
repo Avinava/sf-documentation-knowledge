@@ -5,20 +5,21 @@ topic: productrequestlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.533Z
-estimatedTokens: 362
-keywords: [ProductRequestLineItem, junction, ProductRequest, ProductTransfer, API, version, 50.0, later, Calls, Standard, custom, extend, Product, Line, Item, represent, sample, order, 65.0]
+lastCollected: 2026-04-07T09:04:11.392Z
+estimatedTokens: 446
+keywords: [ProductRequestLineItem, junction, ProductRequest, ProductTransfer, API, version, 50.0, later, 65.0, Samples, Management, feature, Calls]
 ---
 
 # ProductRequestLineItem
 
 > A junction object between ProductRequest
       and ProductTransfer This object is available in API
-    version 50.0 and later.
+    version 50.0 and later.  This object is available in API version 65.0
+      and later in Samples Management feature.
 
 # ProductRequestLineItem
 
-A junction object between ProductRequest and ProductTransfer This object is available in API version 50.0 and later.
+A junction object between ProductRequest and ProductTransfer This object is available in API version 50.0 and later. This object is available in API version 65.0 and later in Samples Management feature.
 
 ## Supported Calls
 
@@ -28,6 +29,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 | Field | Details |
 | --- | --- |
+| ExceptionType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies the type of exception while placing a product request. This object is available in Samples Management feature in API version 65.0 and later. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe last date and time this record was referenced. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe last date and time this record was viewed. |
 | NeedByDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date specified as required in a transfer request. |

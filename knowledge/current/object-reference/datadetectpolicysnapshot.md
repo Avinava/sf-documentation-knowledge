@@ -5,7 +5,7 @@ topic: datadetectpolicysnapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.990Z
+lastCollected: 2026-04-07T09:04:38.774Z
 estimatedTokens: 347
 keywords: [DataDetectPolicySnapshot, snapshot, DataDetect, scan, policy, components, retrieved, job, session, API, version, 64.0, later, Calls]
 ---

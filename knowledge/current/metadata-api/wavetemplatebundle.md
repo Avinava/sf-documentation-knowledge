@@ -5,7 +5,7 @@ topic: wavetemplatebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:11.256Z
+lastCollected: 2026-04-07T09:02:45.478Z
 estimatedTokens: 644
 keywords: [WaveTemplateBundle, Analytics, template, bundle, apps, definition, resources.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---

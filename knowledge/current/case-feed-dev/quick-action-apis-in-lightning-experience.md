@@ -5,7 +5,7 @@ topic: quick-action-apis-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.388Z
+lastCollected: 2026-04-07T09:03:18.238Z
 estimatedTokens: 1195
 keywords: [Quick, Action, APIs, Lightning, Experience, quickActionAPI, component, access, programmatically, controlling, actions, record, pages, supports, utility]
 ---

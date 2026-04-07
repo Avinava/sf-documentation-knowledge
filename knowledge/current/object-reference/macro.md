@@ -5,7 +5,7 @@ topic: macro
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.635Z
+lastCollected: 2026-04-07T09:04:44.142Z
 estimatedTokens: 1759
 keywords: [Macro, instructions, tells, system, perform, tasks, API, version, 32.0, later, Calls, Usage, Associated, Objects]
 ---

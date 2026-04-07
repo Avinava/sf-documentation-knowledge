@@ -6,7 +6,7 @@ topic: replacestr-oldstr-newstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.285Z
+lastCollected: 2026-04-07T09:03:15.425Z
 estimatedTokens: 93
 keywords: [replace, str, old_str, new_str, Replaces, occurrences, substring, new, old, _str]
 ---

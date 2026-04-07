@@ -5,7 +5,7 @@ topic: careservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:52.400Z
+lastCollected: 2026-04-07T09:05:38.629Z
 estimatedTokens: 347
 keywords: [CareService, healthcare, treatment, service, procedure, offered, provider, practitioner, facility, API, version, 59.0, later]
 ---

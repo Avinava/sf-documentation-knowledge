@@ -5,7 +5,7 @@ topic: aiscoringstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:57.094Z
+lastCollected: 2026-04-07T09:02:59.672Z
 estimatedTokens: 514
 keywords: [AIScoringStep, step, associated, scoring, model, version, that’s, Framework, Industries, Cloud, Einstein, API, 57.0, later, SOAP]
 ---

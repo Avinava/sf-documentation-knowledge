@@ -5,7 +5,7 @@ topic: unauthenticated-guest-user-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:23.477Z
+lastCollected: 2026-04-07T09:03:39.990Z
 estimatedTokens: 551
 keywords: [Unauthenticated, Guest, User, Guidelines, Consider, record, encryption, providing, different, levels, access, users, choose, declarative, custom]
 ---

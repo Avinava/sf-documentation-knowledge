@@ -5,7 +5,7 @@ topic: visitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.619Z
+lastCollected: 2026-04-07T09:05:14.652Z
 estimatedTokens: 401
 keywords: [Visitor, inspectors, performing, inspection, visits, API, version, 56.0, later, Calls]
 ---

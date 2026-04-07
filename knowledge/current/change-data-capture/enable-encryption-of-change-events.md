@@ -5,7 +5,7 @@ topic: enable-encryption-of-change-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.679Z
+lastCollected: 2026-04-07T09:03:18.717Z
 estimatedTokens: 266
 keywords: [Enable, Encryption, Change, Events, event, bus, tenant, secret, setting, becomes, Settings, starts]
 ---

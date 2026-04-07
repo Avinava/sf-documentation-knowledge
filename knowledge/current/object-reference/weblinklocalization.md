@@ -5,7 +5,7 @@ topic: weblinklocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.416Z
+lastCollected: 2026-04-07T09:04:52.609Z
 estimatedTokens: 1621
 keywords: [WebLinkLocalization, translated, label, custom, link, URL, s-control, Translation, Workbench, enabled, organization, Calls, Special, Access, Rules]
 ---

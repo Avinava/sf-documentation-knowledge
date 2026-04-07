@@ -5,7 +5,7 @@ topic: documentgenerationsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:05.891Z
+lastCollected: 2026-04-07T09:02:39.659Z
 estimatedTokens: 962
 keywords: [DocumentGenerationSetting, org's, settings, automatic, document, generation, templates, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---

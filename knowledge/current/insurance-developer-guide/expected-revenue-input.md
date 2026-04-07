@@ -5,7 +5,7 @@ topic: expected-revenue-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:39.727Z
+lastCollected: 2026-04-07T09:04:01.928Z
 estimatedTokens: 162
 keywords: [Expected, Revenue, Input, representation, calculate, brokerage]
 ---

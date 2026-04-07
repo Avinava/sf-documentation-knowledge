@@ -5,7 +5,7 @@ topic: custom-metadata-type-mdt-mdt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.702Z
+lastCollected: 2026-04-07T09:04:38.433Z
 estimatedTokens: 1141
 keywords: [Custom, Metadata, __mdt, record, API, version, 34.0, later, _mdt, Calls]
 ---

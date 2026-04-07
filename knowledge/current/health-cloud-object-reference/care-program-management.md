@@ -5,7 +5,7 @@ topic: care-program-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.955Z
+lastCollected: 2026-04-07T09:03:54.245Z
 estimatedTokens: 1247
 keywords: [Care, Program, Management, Drive, increased, adherence, improve, patient, outcomes, data, model, Now, enroll, manage, patients]
 ---

@@ -5,7 +5,7 @@ topic: supported-html-tags
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.835Z
+lastCollected: 2026-04-07T09:04:15.481Z
 estimatedTokens: 379
 keywords: [HTML, Tags, framework, supports, including, majority, HTML5]
 ---

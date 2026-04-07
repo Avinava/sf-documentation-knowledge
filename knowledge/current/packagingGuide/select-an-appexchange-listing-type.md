@@ -5,7 +5,7 @@ topic: select-an-appexchange-listing-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.546Z
+lastCollected: 2026-04-07T09:04:54.358Z
 estimatedTokens: 708
 keywords: [Select, AppExchange, Listing, started, selecting, Partner, Console, selection, customize, guided, prompts, instructions, Builder, tool, edit]
 ---

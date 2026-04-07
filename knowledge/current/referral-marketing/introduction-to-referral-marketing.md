@@ -5,7 +5,7 @@ topic: introduction-to-referral-marketing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.970Z
+lastCollected: 2026-04-07T09:05:16.358Z
 estimatedTokens: 77
 keywords: [Introduction, Referral, Marketing, managers, manage, programs, company’s, customers, their, referrals, Developers, company, resources, provided, customize]
 ---

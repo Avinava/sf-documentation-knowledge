@@ -5,7 +5,7 @@ topic: defining-styles-for-a-components-dom-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.195Z
+lastCollected: 2026-04-07T09:05:00.082Z
 estimatedTokens: 368
 keywords: [Defining, Styles, Component’s, DOM, CSS, attribute, selectors, style, definition, want, apply, rely, rather, HTML, tag]
 ---

@@ -5,7 +5,7 @@ topic: configure-external-client-app-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.855Z
+lastCollected: 2026-04-07T09:03:51.327Z
 estimatedTokens: 308
 keywords: [Configure, External, Client, App, Policies, standard, OAuth, flow, users, often, approval, they, confirm, allowed, access]
 ---

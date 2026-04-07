@@ -5,7 +5,7 @@ topic: rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:09.735Z
+lastCollected: 2026-04-07T09:02:43.806Z
 estimatedTokens: 1399
 keywords: [REST, Resources, resource, deployRequest, move, metadata, XML, files, Salesforce, organization, local, file, system, Working, Zip]
 ---

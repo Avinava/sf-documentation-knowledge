@@ -5,7 +5,7 @@ topic: storable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.649Z
+lastCollected: 2026-04-07T09:04:13.676Z
 estimatedTokens: 960
 keywords: [Storable, Actions, Enhance, component’s, performance, marking, cacheable, quickly, show, cached, data, client-side, storage, waiting, server]
 ---

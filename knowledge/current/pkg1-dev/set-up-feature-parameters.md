@@ -5,7 +5,7 @@ topic: set-up-feature-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.349Z
+lastCollected: 2026-04-07T09:05:01.493Z
 estimatedTokens: 262
 keywords: [Feature, Management, App, License, Org, define, add, package]
 ---

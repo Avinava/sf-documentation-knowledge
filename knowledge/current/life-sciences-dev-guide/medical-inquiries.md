@@ -5,8 +5,8 @@ topic: medical-inquiries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.699Z
-estimatedTokens: 666
+lastCollected: 2026-04-07T09:04:07.699Z
+estimatedTokens: 459
 keywords: [Medical, Inquiries, Capture, critical, questions, healthcare, professionals, adverse, events, product, quality, complaints, come, multiple, channels]
 ---
 
@@ -30,13 +30,6 @@ Capture critical questions from healthcare professionals such as medical inquiri
 
 For more details and a larger image, visit the [Data Model Gallery](https://developer.salesforce.com/docs/platform/data-models/guide/medical-inquiries.html "HTML (New Window)").
 
--   **[Inquiry](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_inquiry.htm)**
-    Represents the details of an inquiry logged by a sales representative or other user. This object is available in API version 65.0 and later.
--   **[InquiryQuestion](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_inquiryquestion.htm)**
-    Represents a question asked by a healthcare professional (HCP) during an inquiry. This object is available in API version 65.0 and later.
--   **[InquiryQuestionAnswer](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_inquiryquestionanswer.htm)**
-    Represents the answer provided by the Medical Science Liaison (MSL) to the inquiry question. This object is available in API version 65.0 and later.
-
 #### See Also
 
 -   [*Object Reference for the Salesforce Platform*: Subject](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_subject.htm "Represents a topic of a managed event. This object is available in API version 65.0 and later.")
@@ -45,8 +38,5 @@ For more details and a larger image, visit the [Data Model Gallery](https://deve
 
 ## Related Topics
 
-- Inquiry (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_inquiry.htm)
-- InquiryQuestion (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_inquiryquestion.htm)
-- InquiryQuestionAnswer (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_objects_inquiryquestionanswer.htm)
 - Object Reference for the Salesforce Platform: Subject (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_subject.htm)
 - Object Reference for the Salesforce Platform: SubjectAssignment (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_subjectassignment.htm)

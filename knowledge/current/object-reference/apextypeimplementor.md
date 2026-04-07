@@ -5,7 +5,7 @@ topic: apextypeimplementor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.604Z
+lastCollected: 2026-04-07T09:04:34.698Z
 estimatedTokens: 1163
 namespace: RoundingStrategy
 keywords: [ApexTypeImplementor, Apex, classes, directly, indirectly, implement, SOQL, query, installed, managed, packages, API, version, 54.0, later]

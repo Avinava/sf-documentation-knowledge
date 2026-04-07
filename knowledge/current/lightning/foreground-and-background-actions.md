@@ -5,7 +5,7 @@ topic: foreground-and-background-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.640Z
+lastCollected: 2026-04-07T09:04:13.664Z
 estimatedTokens: 777
 keywords: [Foreground, Background, Actions, run, action, feature, useful, want, app, remain, responsive, user, executes, low, priority]
 ---

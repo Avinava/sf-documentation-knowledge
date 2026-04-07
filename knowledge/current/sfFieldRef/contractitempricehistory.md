@@ -5,7 +5,7 @@ topic: contractitempricehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.405Z
+lastCollected: 2026-04-07T09:05:41.212Z
 estimatedTokens: 247
 keywords: [ContractItemPriceHistory, history, changes, ContractItemPrice, API, version, 61.0, later]
 ---

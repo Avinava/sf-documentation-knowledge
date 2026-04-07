@@ -5,7 +5,7 @@ topic: cgcloudpromotioncalculationserveroffsetc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:39.573Z
+lastCollected: 2026-04-07T09:05:21.119Z
 estimatedTokens: 1007
 keywords: [Stores, time, range, server, Offplatform, calculates, Promotion, API, version, 54.0, later, cgcloud, _Promotion, _Calculation, _Server]
 ---

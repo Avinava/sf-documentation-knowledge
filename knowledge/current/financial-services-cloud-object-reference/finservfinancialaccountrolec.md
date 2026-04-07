@@ -5,7 +5,7 @@ topic: finservfinancialaccountrolec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.142Z
+lastCollected: 2026-04-07T09:03:49.413Z
 estimatedTokens: 845
 keywords: [FinServ_FinancialAccountRole__c, role, occupied, person, organizational, entity, involved, financial, account, beneficiary, trustee, FinServ, _FinancialAccountRole, Calls]
 ---

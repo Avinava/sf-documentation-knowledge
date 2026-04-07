@@ -5,7 +5,7 @@ topic: sample-code-with-sharing-give-guest-users-access-to-read-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.422Z
+lastCollected: 2026-04-07T09:03:39.911Z
 estimatedTokens: 943
 keywords: [Sample, Code, Sharing, Give, Guest, Users, Access, Records, collection, samples, user, enters, date, range, views]
 ---

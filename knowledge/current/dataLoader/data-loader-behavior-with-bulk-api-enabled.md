@@ -5,7 +5,7 @@ topic: data-loader-behavior-with-bulk-api-enabled
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.338Z
+lastCollected: 2026-04-07T09:03:41.351Z
 estimatedTokens: 335
 keywords: [Data, Loader, Behavior, Bulk, API, Enabled, Enabling, lets, load, large, number, records, faster, SOAP-based, However]
 ---

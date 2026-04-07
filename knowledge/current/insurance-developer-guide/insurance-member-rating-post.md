@@ -5,7 +5,7 @@ topic: insurance-member-rating-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.200Z
+lastCollected: 2026-04-07T09:04:02.669Z
 estimatedTokens: 350
 keywords: [Insurance, Member, Rating, POST, Calculate, pricing, along, employee, employer, contribution, individual, members, group, census, plan]
 ---
@@ -78,7 +78,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/group-census-members/0r6RM0000000h1pYAA/action/rate
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/group-census-members/0r6RM0000000h1pYAA/action/rate
 ```
 
 ```

@@ -5,7 +5,7 @@ topic: prediction-definitions-models-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:05.469Z
+lastCollected: 2026-04-07T09:03:12.597Z
 estimatedTokens: 361
 keywords: [Prediction, Definitions, Models, Resource, collection, Einstein, Discovery, definition]
 ---

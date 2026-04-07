@@ -5,7 +5,7 @@ topic: lightningusagebybrowsermetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.341Z
+lastCollected: 2026-04-07T09:05:51.716Z
 estimatedTokens: 331
 keywords: [LightningUsageByBrowserMetrics, Lightning, Experience, usage, grouped, user’s, browser, API, version, 43.0, later]
 ---

@@ -5,7 +5,7 @@ topic: carepreauth
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.319Z
+lastCollected: 2026-04-07T09:04:09.771Z
 estimatedTokens: 1234
 keywords: [CarePreauth, preauthorizations, care, under, member’s, plan, Calls, Associated, Objects]
 ---
@@ -30,7 +30,7 @@ create(),  delete(),  describeLayout(),  describeSObjects(),  getDeleted(), 
 | EffectiveFrom | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date from which this preauthorization is effective. |
 | EffectiveTo | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date after which this preauthorization is no longer effective. |
 | LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | MemberPlanId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the member plan for which this preauthorization is being provided. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe name of this preauthorization. |
 | Notes | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionNotes about this preauthorization. |

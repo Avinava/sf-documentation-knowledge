@@ -5,7 +5,7 @@ topic: add-products-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.594Z
+lastCollected: 2026-04-07T09:03:40.188Z
 estimatedTokens: 369
 keywords: [Add, Products, API, Receive, CPQ, quote, product, collection, group, key, model, provided, added, lines, REST]
 ---

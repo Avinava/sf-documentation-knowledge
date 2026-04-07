@@ -5,7 +5,7 @@ topic: recipe-rest-api-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.087Z
+lastCollected: 2026-04-07T09:05:24.342Z
 estimatedTokens: 230
 keywords: [Recipe, REST, API, Examples, perform, tasks]
 ---

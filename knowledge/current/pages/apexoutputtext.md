@@ -5,7 +5,7 @@ topic: apexoutputtext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.854Z
+lastCollected: 2026-04-07T09:04:58.047Z
 estimatedTokens: 939
 keywords: [apex, outputText, Displays, text, Visualforce, customize, appearance, <apex, outputText>, CSS, styles, case, generated, wrapped, HTML]
 ---

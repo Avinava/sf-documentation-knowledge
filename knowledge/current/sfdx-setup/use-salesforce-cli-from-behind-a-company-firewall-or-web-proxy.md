@@ -5,7 +5,7 @@ topic: use-salesforce-cli-from-behind-a-company-firewall-or-web-proxy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.169Z
+lastCollected: 2026-04-07T09:06:14.331Z
 estimatedTokens: 561
 keywords: [Salesforce, CLI, Behind, Company, Firewall, Web, Proxy, install, computer, that’s, sometimes, receive, error, messages, case]
 ---

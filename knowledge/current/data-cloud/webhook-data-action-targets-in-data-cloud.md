@@ -5,7 +5,7 @@ topic: webhook-data-action-targets-in-data-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:30.077Z
+lastCollected: 2026-04-07T09:02:06.988Z
 estimatedTokens: 608
 keywords: [Webhook, Data, Action, Targets, Cloud, Send, event, target, protect, message, integrity, Salesforce-generated, secret, key, HTTP]
 ---

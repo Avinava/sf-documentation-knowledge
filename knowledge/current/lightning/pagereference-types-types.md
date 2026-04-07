@@ -5,7 +5,7 @@ topic: pagereference-types-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.385Z
+lastCollected: 2026-04-07T09:04:13.269Z
 estimatedTokens: 3483
 keywords: [pageReference, navigate, Lightning, Experience, Builder, sites, Salesforce, mobile, app, define, generates, unique, URL, attributes, apply]
 ---

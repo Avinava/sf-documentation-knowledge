@@ -5,7 +5,7 @@ topic: inventory-objects-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.862Z
+lastCollected: 2026-04-07T09:03:05.844Z
 estimatedTokens: 998
 keywords: [Inventory, Objects, Automotive, Cloud, access, standard, organize, products, track, their, movement, monitor, suppliers, enabled, org]
 ---

@@ -5,7 +5,7 @@ topic: territorycontenttmplasgnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.494Z
+lastCollected: 2026-04-07T09:04:12.068Z
 estimatedTokens: 489
 keywords: [TerritoryContentTmplAsgnt, Stores, link, territory, template, allowing, assignment, relevant, content, specific, territories, API, version, 65.0, later]
 ---

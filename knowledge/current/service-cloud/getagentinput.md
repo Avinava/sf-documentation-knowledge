@@ -5,7 +5,7 @@ topic: getagentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.234Z
+lastCollected: 2026-04-07T09:03:03.129Z
 estimatedTokens: 229
 keywords: [getAgentInput, text, currently, agent’s, input, area, chat, log, specific, key, API, version, 29.0, later, Arguments]
 ---

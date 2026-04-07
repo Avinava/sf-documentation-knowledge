@@ -5,7 +5,7 @@ topic: loanapplicationliability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.822Z
+lastCollected: 2026-04-07T09:05:52.375Z
 estimatedTokens: 517
 keywords: [LoanApplicationLiability, borrower, co-borrower, current, liabilities, API, version, 47.0, later]
 ---

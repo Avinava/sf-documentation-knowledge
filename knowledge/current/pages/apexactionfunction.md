@@ -5,7 +5,7 @@ topic: apexactionfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.072Z
+lastCollected: 2026-04-07T09:04:56.953Z
 estimatedTokens: 1137
 keywords: [apex, actionFunction, component, support, invoking, controller, action, directly, JavaScript, code, AJAX, Attributes]
 ---

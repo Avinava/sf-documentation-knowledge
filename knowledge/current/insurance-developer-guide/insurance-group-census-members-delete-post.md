@@ -5,7 +5,7 @@ topic: insurance-group-census-members-delete-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.174Z
+lastCollected: 2026-04-07T09:04:02.634Z
 estimatedTokens: 236
 keywords: [Insurance, Group, Census, Members, POST]
 ---
@@ -69,7 +69,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/census-management/group-censuses/0rlxx000000001aEAA/group-census-members/delete
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/census-management/group-censuses/0rlxx000000001aEAA/group-census-members/delete
 ```
 
 ```

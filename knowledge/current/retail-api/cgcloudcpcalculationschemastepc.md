@@ -5,7 +5,7 @@ topic: cgcloudcpcalculationschemastepc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.430Z
+lastCollected: 2026-04-07T09:05:19.845Z
 estimatedTokens: 2215
 keywords: [cgcloud__CP_Calculation_Schema_Step__c, stores, relationship, calculation, schema, pricing, condition, template, that's, steps, belong, API, version, 54.0, later]
 ---

@@ -5,7 +5,7 @@ topic: error-after-installing-salesforce-cli-on-powershell-using-npm
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.243Z
+lastCollected: 2026-04-07T09:06:14.444Z
 estimatedTokens: 209
 keywords: [Error, Installing, Salesforce, CLI, PowerShell, npm, Windows, security, policy, whenever, try, execute, any, command, Windows-specific]
 ---

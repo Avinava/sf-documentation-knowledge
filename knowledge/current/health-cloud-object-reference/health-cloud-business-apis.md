@@ -5,7 +5,7 @@ topic: health-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:33.949Z
+lastCollected: 2026-04-07T09:03:54.235Z
 estimatedTokens: 218
 keywords: [Health, Cloud, Business, APIs, building, integrations, creating, custom, components, wrap, complex, logic, executing, multiple, tasks]
 ---

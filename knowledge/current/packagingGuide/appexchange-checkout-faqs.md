@@ -5,7 +5,7 @@ topic: appexchange-checkout-faqs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.307Z
+lastCollected: 2026-04-07T09:04:53.960Z
 estimatedTokens: 1422
 keywords: [AppExchange, Checkout, FAQs, answers, common, questions]
 ---

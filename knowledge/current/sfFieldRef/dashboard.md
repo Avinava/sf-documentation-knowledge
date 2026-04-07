@@ -5,7 +5,7 @@ topic: dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:55.395Z
+lastCollected: 2026-04-07T09:05:42.355Z
 estimatedTokens: 604
 namespace: NamespacePrefix
 keywords: [Dashboard, data, custom, reports, visual, components, Access, read-only, API, version, 20.0, later]

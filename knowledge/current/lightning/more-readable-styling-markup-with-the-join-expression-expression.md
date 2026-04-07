@@ -5,7 +5,7 @@ topic: more-readable-styling-markup-with-the-join-expression-expression
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.975Z
+lastCollected: 2026-04-07T09:04:12.685Z
 estimatedTokens: 265
 keywords: [Readable, Styling, Markup, join, Expression, messy, specify, apply, component, attribute, Try, easier-to-read]
 ---

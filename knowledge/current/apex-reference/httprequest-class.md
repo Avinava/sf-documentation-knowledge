@@ -5,7 +5,7 @@ topic: httprequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.182Z
+lastCollected: 2026-04-07T09:02:18.690Z
 estimatedTokens: 3915
 namespace: System
 keywords: [HttpRequest, programmatically, HTTP, requests, POST, PATCH, PUT, Usage, Compression, getBody, getBodyAsBlob, getBodyDocument, getCompressed, getEndpoint, getHeader]

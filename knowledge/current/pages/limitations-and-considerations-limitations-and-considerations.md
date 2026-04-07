@@ -6,7 +6,7 @@ topic: limitations-and-considerations-limitations-and-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:21.963Z
+lastCollected: 2026-04-07T09:04:56.808Z
 estimatedTokens: 219
 keywords: [Limitations, Considerations, known, Visualforce, Charting]
 ---

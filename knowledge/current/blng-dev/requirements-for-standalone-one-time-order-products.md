@@ -6,7 +6,7 @@ topic: requirements-for-standalone-one-time-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.919Z
+lastCollected: 2026-04-07T09:03:17.725Z
 estimatedTokens: 315
 keywords: [Requirements, Standalone, One-Time, Order, Products, product, API, Salesforce, Lightning, Classic]
 ---

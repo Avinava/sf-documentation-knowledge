@@ -5,7 +5,7 @@ topic: transactionsecurityeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.290Z
+lastCollected: 2026-04-07T09:04:51.156Z
 estimatedTokens: 1265
 keywords: [TransactionSecurityEventLog, Transaction, Security, event, logs, contain, policy, execution, Legacy, API, version, 38.0, later, Enhanced, 61.0]
 ---

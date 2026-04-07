@@ -5,7 +5,7 @@ topic: introduction-to-grantmaking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.944Z
+lastCollected: 2026-04-07T09:04:32.712Z
 estimatedTokens: 185
 keywords: [Introduction, Grantmaking, Streamline, grant, management, process, funders, applicants, Built, Salesforce, platform, Nonprofit, Cloud, includes, everything]
 ---

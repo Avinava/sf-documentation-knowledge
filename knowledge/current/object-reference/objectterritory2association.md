@@ -5,7 +5,7 @@ topic: objectterritory2association
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:13.379Z
+lastCollected: 2026-04-07T09:04:45.095Z
 estimatedTokens: 518
 keywords: [ObjectTerritory2Association, association, assignment, territory, record, account, lead, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: taxtreatment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:28.046Z
+lastCollected: 2026-04-07T09:02:05.703Z
 estimatedTokens: 969
 keywords: [TaxTreatment, tax, calculation, external, engines, product, requires, policy, determine, whether, apply, least, treatment, treatments, how]
 ---

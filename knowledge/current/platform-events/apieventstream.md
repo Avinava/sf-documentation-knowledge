@@ -5,7 +5,7 @@ topic: apieventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.276Z
+lastCollected: 2026-04-07T09:05:05.746Z
 estimatedTokens: 2787
 keywords: [ApiEventStream, Tracks, user-initiated, read-only, API, calls, query, queryMore, count, Captures, requests, SOAP, Bulk, Enterprise, Partner]
 ---
@@ -66,7 +66,7 @@ No
 | EventIdentifier | TypestringPropertiesNillableDescriptionThe unique ID of the event, which is shared with the corresponding storage object. For example, 0a4779b0-0da1-4619-a373-0a36991dff90. Use this field to correlate the event with its storage object. |
 | EventUuid | TypestringPropertiesNillableDescriptionA universally unique identifier (UUID) that identifies a platform event message. This field is available in API version 52.0 and later. |
 | LoginHistoryId | TypereferencePropertiesNillableDescriptionTracks a user session so you can correlate user activity with a particular series of API events. This field is also available on the LoginEvent, AuthSession, and LoginHistory objects, making it easier to trace events back to a user’s original authentication. For example, 0YaB000002knVQLKA2. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | Operation | TypepicklistPropertiesNillable, Restricted PicklistDescriptionThe API call that generated the event. Possible values are DeleteHard,DeleteSoft,Query, QueryAll, or QueryMore. |
 | PlannerId | TypestringPropertiesNillableDescriptionThe ID of the agent planner. |
 | Platform | TypestringPropertiesNillableDescriptionThe operating system on the login machine. For example, iPhone, Mac OS, Linux, or Unknown. |

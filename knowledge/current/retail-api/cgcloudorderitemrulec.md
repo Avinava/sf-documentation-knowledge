@@ -5,7 +5,7 @@ topic: cgcloudorderitemrulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.081Z
+lastCollected: 2026-04-07T09:05:20.600Z
 estimatedTokens: 988
 keywords: [cgcloud__Order_Item_Rule__c, rules, handled, pricing, engine, complex, calculation, API, version, 54.0, later, cgcloud, _Order, _Item, _Rule]
 ---

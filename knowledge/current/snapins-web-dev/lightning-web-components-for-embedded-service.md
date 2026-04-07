@@ -5,7 +5,7 @@ topic: lightning-web-components-for-embedded-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.281Z
+lastCollected: 2026-04-07T09:06:14.508Z
 estimatedTokens: 830
 keywords: [Lightning, Web, Components, Embedded, Service, Build, custom, chat, Experience, Cloud, Essentials, Leverage, HTML, JavaScript, modern]
 ---

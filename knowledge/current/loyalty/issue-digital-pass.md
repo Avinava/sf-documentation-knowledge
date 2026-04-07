@@ -5,7 +5,7 @@ topic: issue-digital-pass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.017Z
+lastCollected: 2026-04-07T09:04:18.489Z
 estimatedTokens: 1014
 keywords: [Issue, Digital, Pass, action, issues, party, configured, template, Loyalty, Gift, Card, input, depend, trigger, issuance]
 ---

@@ -5,7 +5,7 @@ topic: create-theme-layouts-in-an-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.732Z
+lastCollected: 2026-04-07T09:03:46.117Z
 estimatedTokens: 1000
 keywords: [Theme, Layouts, LWR, Site, layout, components, define, shared, regions, pages, component, determines, footer, often, includes]
 ---

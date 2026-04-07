@@ -5,7 +5,7 @@ topic: discovery-source
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.737Z
+lastCollected: 2026-04-07T09:05:25.407Z
 estimatedTokens: 87
 keywords: [Discovery, Source, Einstein]
 ---

@@ -5,7 +5,7 @@ topic: other-lifecycle-emission-factor-set-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.771Z
+lastCollected: 2026-04-07T09:04:26.324Z
 estimatedTokens: 3455
 keywords: [Lifecycle, Emission, Factor, Item, individual, emissions, fuel, calculate, occur, throughout, extraction, end-of-life]
 ---

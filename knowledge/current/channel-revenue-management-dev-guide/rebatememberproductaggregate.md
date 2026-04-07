@@ -5,7 +5,7 @@ topic: rebatememberproductaggregate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.676Z
+lastCollected: 2026-04-07T09:03:20.061Z
 estimatedTokens: 1238
 keywords: [RebateMemberProductAggregate, Stores, post, calculation, summary, journal, transactions, member, period, rebate, ABC, enterprises, May, against, Vol]
 ---

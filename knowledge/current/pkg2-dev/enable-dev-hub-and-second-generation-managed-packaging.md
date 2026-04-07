@@ -5,7 +5,7 @@ topic: enable-dev-hub-and-second-generation-managed-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.188Z
+lastCollected: 2026-04-07T09:05:04.053Z
 estimatedTokens: 590
 keywords: [Enable, Dev, Hub, Second-Generation, Managed, Packaging, lets, manage, packages, scratch, orgs, designated, place, 2GP, namespaces]
 ---

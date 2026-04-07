@@ -5,19 +5,18 @@ topic: bulk-cancel-policy-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.018Z
-estimatedTokens: 241
-keywords: [Bulk, Cancel, Policy, POST, policies, carriers, insurance, IDs]
+lastCollected: 2026-04-07T09:04:02.402Z
+estimatedTokens: 232
+keywords: [Bulk, Cancel, Policy, POST, policies, insurance, IDs]
 ---
 
 # Bulk Cancel Policy (POST)
 
-> Bulk cancel policies with the same (existing) carriers for the specified insurance
-    policy IDs.
+> Bulk cancel policies for the specified insurance policy IDs.
 
 # Bulk Cancel Policy (POST)
 
-Bulk cancel policies with the same (existing) carriers for the specified insurance policy IDs.
+Bulk cancel policies for the specified insurance policy IDs.
 
 Resource
 

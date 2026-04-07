@@ -5,7 +5,7 @@ topic: open-redirects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.160Z
+lastCollected: 2026-04-07T09:04:55.456Z
 estimatedTokens: 316
 keywords: [Open, Redirects, redirect, occurs, application, dynamically, user-controlled, any, validation, Prevent, hardcoded, Apex, Revised, Code]
 ---

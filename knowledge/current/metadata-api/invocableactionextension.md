@@ -5,7 +5,7 @@ topic: invocableactionextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:07.616Z
+lastCollected: 2026-04-07T09:02:41.479Z
 estimatedTokens: 956
 keywords: [InvocableActionExtension, configuration, how, action's, inputs, presented, user, Parent, File, Suffix, Directory, Location, Version, InvocableActionExtensionTarget, InvocableActionExtensionTargetAttribute]
 ---

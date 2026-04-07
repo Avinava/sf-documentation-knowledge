@@ -5,7 +5,7 @@ topic: orchestration-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:41.391Z
+lastCollected: 2026-04-07T09:02:13.217Z
 estimatedTokens: 1096
 namespace: ConnectApi
 keywords: [Orchestration, instance, associated, getOrchestrationInstance, instanceId, API, Version, Requires, Chatter, getOrchestrationInstanceCollection, relatedRecordId, relatedOrchestrationId]

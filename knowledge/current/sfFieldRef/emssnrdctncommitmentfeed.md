@@ -5,7 +5,7 @@ topic: emssnrdctncommitmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.082Z
+lastCollected: 2026-04-07T09:05:44.571Z
 estimatedTokens: 363
 keywords: [EmssnRdctnCommitmentFeed, Feed, tracking, EmssnRdctnCommitment]
 ---

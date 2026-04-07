@@ -5,7 +5,7 @@ topic: set-flow-input-variable-values-from-a-wrapper-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.416Z
+lastCollected: 2026-04-07T09:04:13.314Z
 estimatedTokens: 525
 keywords: [Flow, Input, Variable, Wrapper, Aura, Component, embed, custom, give, context, initializing, variables, component's, controller, maps]
 ---

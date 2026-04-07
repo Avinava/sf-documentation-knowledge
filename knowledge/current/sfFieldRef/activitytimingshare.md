@@ -5,7 +5,7 @@ topic: activitytimingshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.462Z
+lastCollected: 2026-04-07T09:05:30.941Z
 estimatedTokens: 250
 keywords: [ActivityTimingShare, Sharing, ActivityTiming]
 ---

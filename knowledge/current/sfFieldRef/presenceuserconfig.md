@@ -5,7 +5,7 @@ topic: presenceuserconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.480Z
+lastCollected: 2026-04-07T09:05:59.889Z
 estimatedTokens: 694
 keywords: [PresenceUserConfig, configuration, determines, presence, user’s, settings, API, version, 32.0, later]
 ---

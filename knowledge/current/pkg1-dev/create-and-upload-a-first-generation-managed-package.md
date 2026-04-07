@@ -5,7 +5,7 @@ topic: create-and-upload-a-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:25.747Z
+lastCollected: 2026-04-07T09:05:02.105Z
 estimatedTokens: 3710
 keywords: [Upload, First-Generation, Managed, Package, procedure, Tooling, API, sample, code, PackageUploadRequest, Developer]
 ---

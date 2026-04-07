@@ -5,7 +5,7 @@ topic: applicationtimelineshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:47.765Z
+lastCollected: 2026-04-07T09:05:32.670Z
 estimatedTokens: 252
 keywords: [ApplicationTimelineShare, Sharing, ApplicationTimeline]
 ---

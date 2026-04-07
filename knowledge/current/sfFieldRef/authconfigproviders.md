@@ -5,7 +5,7 @@ topic: authconfigproviders
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.161Z
+lastCollected: 2026-04-07T09:05:34.436Z
 estimatedTokens: 310
 keywords: [AuthConfigProviders, authentication, provider, that’s, configured, organization, child, AuthConfig, API, version, 32.0, later]
 ---

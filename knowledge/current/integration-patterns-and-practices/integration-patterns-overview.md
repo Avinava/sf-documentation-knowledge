@@ -5,7 +5,7 @@ topic: integration-patterns-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:41.199Z
+lastCollected: 2026-04-07T09:04:04.248Z
 estimatedTokens: 172
 keywords: [Integration, Patterns, implement, Salesforce, frequently, integrate, applications, Although, scenario, unique, there, common, requirements, issues, developers]
 ---

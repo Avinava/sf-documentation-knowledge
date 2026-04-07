@@ -5,7 +5,7 @@ topic: apexinputcheckbox
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.561Z
+lastCollected: 2026-04-07T09:04:57.637Z
 estimatedTokens: 1541
 keywords: [apex, inputCheckbox, HTML, input, element, checkbox, component, user, controller, correspond, Salesforce, Attributes]
 ---

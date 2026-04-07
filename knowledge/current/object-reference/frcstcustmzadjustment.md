@@ -5,7 +5,7 @@ topic: frcstcustmzadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.791Z
+lastCollected: 2026-04-07T09:04:42.095Z
 estimatedTokens: 1212
 keywords: [FrcstCustmzAdjustment, individual, forecast, manager’s, adjustment, subordinate’s, consumption, API, version, 63.0, later, different, ForecastingAdjustment, managers’, adjustments]
 ---

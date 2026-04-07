@@ -5,7 +5,7 @@ topic: insurance-contacts-and-users-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.184Z
+lastCollected: 2026-04-07T09:04:02.647Z
 estimatedTokens: 565
 keywords: [Insurance, Contacts, Users, POST, portal, group, census, members, Contact, record, linking, appropriate, policy, association, corresponding]
 ---
@@ -88,7 +88,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/contacts?createPortalUsers=false
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/contacts?createPortalUsers=false
 ```
 
 ```

@@ -5,7 +5,7 @@ topic: testing-versioned-behavior-in-apex-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.518Z
+lastCollected: 2026-04-07T09:02:32.772Z
 estimatedTokens: 266
 keywords: [Testing, Versioned, Behavior, Apex, Code, change, trigger, different, package, versions, it’s, test, runs, expected, write]
 ---

@@ -5,7 +5,7 @@ topic: documenttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:56.538Z
+lastCollected: 2026-04-07T09:05:43.819Z
 estimatedTokens: 807
 namespace: Namespace
 keywords: [DocumentTemplate, dynamic, document, generation, API, version, 56.0, later]

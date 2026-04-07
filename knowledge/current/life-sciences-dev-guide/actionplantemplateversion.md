@@ -5,7 +5,7 @@ topic: actionplantemplateversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.963Z
+lastCollected: 2026-04-07T09:04:08.108Z
 estimatedTokens: 843
 keywords: [ActionPlanTemplateVersion, Life, Sciences, Cloud, extend, standard, represent, version, action, plan, template, Calls, Associated, Objects]
 ---

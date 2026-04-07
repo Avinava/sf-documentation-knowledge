@@ -5,7 +5,7 @@ topic: servicerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.385Z
+lastCollected: 2026-04-07T09:03:56.094Z
 estimatedTokens: 2683
 keywords: [Service​Request, FH​IR, resource, maps, Clinical​Service​Request, Clinical​Service​Request​Detail, objects, Salesforce​, V4​.0, Clinical​, Data, Model, Mapping, Sample, Record]
 ---

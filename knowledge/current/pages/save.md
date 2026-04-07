@@ -5,7 +5,7 @@ topic: save
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.550Z
+lastCollected: 2026-04-07T09:04:56.079Z
 estimatedTokens: 97
 keywords: [save, Saves, changes, updated, PageReference, Inserts, new, records, updates, changed, operation, finished, original, known, home]
 ---

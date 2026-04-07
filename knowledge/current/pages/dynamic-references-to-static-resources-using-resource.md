@@ -6,7 +6,7 @@ topic: dynamic-references-to-static-resources-using-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.497Z
+lastCollected: 2026-04-07T09:04:58.997Z
 estimatedTokens: 1024
 keywords: [Dynamic, References, Resources, $Resource, useful, providing, support, themes, visual, preferences]
 ---

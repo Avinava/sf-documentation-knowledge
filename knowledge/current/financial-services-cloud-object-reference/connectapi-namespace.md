@@ -5,7 +5,7 @@ topic: connectapi-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:27.940Z
+lastCollected: 2026-04-07T09:03:46.448Z
 estimatedTokens: 457
 namespace: ConnectApi
 keywords: [ConnectApi, Connect, Apex, classes, accessing, data, REST, API, custom, experiences, Salesforce]

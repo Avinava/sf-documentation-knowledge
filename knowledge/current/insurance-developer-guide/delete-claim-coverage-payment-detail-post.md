@@ -5,7 +5,7 @@ topic: delete-claim-coverage-payment-detail-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.094Z
+lastCollected: 2026-04-07T09:04:02.512Z
 estimatedTokens: 251
 keywords: [Claim, Coverage, Payment, Detail, POST, Remove, unpaid, updating, status, Deleted, API, reverses, insurance, policy, limit]
 ---
@@ -59,7 +59,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/payment-details/0l2xx000000003gEAA/delete
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/claims/0Zkxx000000001dEAA/coverages/0kPxx000000002fEAA/payment-details/0l2xx000000003gEAA/delete
 ```
 
 ## Related Topics

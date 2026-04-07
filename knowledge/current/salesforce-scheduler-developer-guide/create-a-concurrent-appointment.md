@@ -5,7 +5,7 @@ topic: create-a-concurrent-appointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.239Z
+lastCollected: 2026-04-07T09:05:27.767Z
 estimatedTokens: 1179
 keywords: [Concurrent, Appointment, case, explains, how, build, scheduling, application, Salesforce, Scheduler, APIs]
 ---

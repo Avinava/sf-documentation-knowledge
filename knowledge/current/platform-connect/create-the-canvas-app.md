@@ -5,7 +5,7 @@ topic: create-the-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.575Z
+lastCollected: 2026-04-07T09:05:04.726Z
 estimatedTokens: 356
 keywords: [Canvas, App, Customize, Application, Modify, Data, user, permissions]
 ---

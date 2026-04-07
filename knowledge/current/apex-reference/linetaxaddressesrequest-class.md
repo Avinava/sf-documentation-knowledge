@@ -5,7 +5,7 @@ topic: linetaxaddressesrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:44.684Z
+lastCollected: 2026-04-07T09:02:17.074Z
 estimatedTokens: 2046
 namespace: CommerceTax
 keywords: [LineTaxAddressesRequest, Stores, addresses, applied, per, line, item, tax, calculation, shipFrom, shipTo, soldTo, billTo, taxEngineAddress, equals]

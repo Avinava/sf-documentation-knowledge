@@ -5,7 +5,7 @@ topic: enable-contact-lens-and-transcription-in-an-existing-contact-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.475Z
+lastCollected: 2026-04-07T09:06:17.649Z
 estimatedTokens: 777
 keywords: [Enable, Contact, Lens, Transcription, Flow, real-time, flows, already, created, add, recording, block, post-call, analytics, Prerequisites]
 ---

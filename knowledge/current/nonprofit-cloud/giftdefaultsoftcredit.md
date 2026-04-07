@@ -5,7 +5,7 @@ topic: giftdefaultsoftcredit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.556Z
+lastCollected: 2026-04-07T09:04:30.848Z
 estimatedTokens: 1013
 keywords: [GiftDefaultSoftCredit, allocation, soft, credits, gift, commitment, transactions, created, recurrence, engine, credited, constituents, influenced, API, version]
 ---

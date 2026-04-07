@@ -5,7 +5,7 @@ topic: creating-a-static-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.143Z
+lastCollected: 2026-04-07T09:04:59.969Z
 estimatedTokens: 788
 keywords: [Creating, Resource, resources, upload, content, Visualforce, including, archives, zip, jar, files, images, style, sheets, JavaScript]
 ---

@@ -5,7 +5,7 @@ topic: integration-definition-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.400Z
+lastCollected: 2026-04-07T09:05:07.070Z
 estimatedTokens: 1235
 keywords: [Integration, Definition, Actions, Perform, asynchronous, operation, configured, blocking, invoking, flow, results, published, platform, event, calling]
 ---

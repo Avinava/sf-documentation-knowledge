@@ -5,7 +5,7 @@ topic: aiinsightaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.143Z
+lastCollected: 2026-04-07T09:04:34.177Z
 estimatedTokens: 949
 keywords: [AIInsightAction, Einstein, prediction, insight, action, API, version, 47.0, later, Calls, Special, Access, Rules, Usage]
 ---

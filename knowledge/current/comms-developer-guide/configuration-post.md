@@ -5,8 +5,8 @@ topic: configuration-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.067Z
-estimatedTokens: 598
+lastCollected: 2026-04-07T09:03:39.231Z
+estimatedTokens: 640
 keywords: [Configuration, POST, Retrieve, product’s, configurator, Execute, rules, notify, users, any, violations, changes, product, bundle, attributes]
 ---
 
@@ -35,7 +35,7 @@ Resource example
 
 Available version
 
-60.0
+66.0
 
 HTTP methods
 
@@ -74,20 +74,20 @@ Properties
 
 Response body for POST
 
-Configuration Details
+[Configuration Details](atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_configurator_output.htm "Output representation of the product configuration details.")
 
 ## Code Examples
 
 ```
-/connect/cpq/configurator/actions/configure
+/connect/consumer/configure
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/configurator/actions/configure
+https://yourInstance.salesforce.com/services/data/v66.0/connect/consumer/configure
 ```
 
 ```
-{
+"configurationRequest": {
     "transactionLineId": "0QLDE000000IBXw4AO",
     "transactionId": "0Q0xx0000000001GAA",
     "correlationId": "c95246d4-102c-4ecd-a263-f74ac525d1e5",
@@ -165,3 +165,14 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/configurator
     ]
 }
 ```
+
+## Related Topics
+
+- Configurator Added Node Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_configurator_added_node_input.htm)
+- Configurator Options Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_configurator_options_input.htm)
+- Configurator Deleted Node Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_configurator_deleted_node_input.htm)
+- User Context
+                                            Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_configurator_user_context_input.htm)
+- Configurator Updated Node Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_configurator_updated_node_input.htm)
+- Configuration
+              Details (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_configurator_output.htm)

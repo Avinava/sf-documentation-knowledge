@@ -5,8 +5,8 @@ topic: commsubconsentcmplsnpsht
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.607Z
-estimatedTokens: 1128
+lastCollected: 2026-04-07T09:04:10.066Z
+estimatedTokens: 1122
 keywords: [CommSubConsentCmplSnpsht, snapshot, compliance, that’s, captured, time, consent, communication, subscription, API, version, 65.0, later, Calls, Associated]
 ---
 
@@ -22,7 +22,7 @@ Represents the snapshot of compliance information that’s captured at the time 
 
 ## Supported Calls
 
-create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), undelete(), update(), upsert()
+create(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), update(), upsert()
 
 ## Fields
 

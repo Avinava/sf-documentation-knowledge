@@ -5,7 +5,7 @@ topic: territory2type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.284Z
+lastCollected: 2026-04-07T09:06:09.235Z
 estimatedTokens: 332
 keywords: [Territory2Type, category, territories, Territory2, Every, Sales, enabled, organization]
 ---

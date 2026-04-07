@@ -5,7 +5,7 @@ topic: restriction-rule-example-scenarios
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.152Z
+lastCollected: 2026-04-07T09:05:29.051Z
 estimatedTokens: 1250
 keywords: [Restriction, Rule, Scenarios, Refer, sample, rules, fulfill, different, access, requirements, Allow, Users, Record, Records, They]
 ---

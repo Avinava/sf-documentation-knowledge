@@ -5,7 +5,7 @@ topic: tag-category-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.276Z
+lastCollected: 2026-04-07T09:05:09.977Z
 estimatedTokens: 89
 keywords: [Tag, Category, Output, representation, categories, assigned, Interest]
 ---

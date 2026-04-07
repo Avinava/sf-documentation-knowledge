@@ -6,7 +6,7 @@ topic: compose-streams-of-change-data-capture-notifications-with-custom-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.507Z
+lastCollected: 2026-04-07T09:03:18.423Z
 estimatedTokens: 1221
 keywords: [Compose, Streams, Change, Data, Capture, Notifications, Custom, Channels, channel, multiple, subscribers, subscriber, receives, events, different]
 ---

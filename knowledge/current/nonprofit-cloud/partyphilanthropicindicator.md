@@ -5,7 +5,7 @@ topic: partyphilanthropicindicator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.439Z
+lastCollected: 2026-04-07T09:04:31.995Z
 estimatedTokens: 1848
 keywords: [PartyPhilanthropicIndicator, unconfirmed, soft, indication, highlights, person's, wealth, growth, potential, API, version, 63.0, later, Calls, Associated]
 ---

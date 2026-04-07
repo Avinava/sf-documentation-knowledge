@@ -5,7 +5,7 @@ topic: predecessors-to-code-sets-and-code-set-bundles-in-health-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.976Z
+lastCollected: 2026-04-07T09:03:54.280Z
 estimatedTokens: 570
 keywords: [Predecessors, Code, Bundles, Health, Cloud, Spring, ’21, release, Healthcare, Procedure, Diagnosis, objects, stored, codes, specifically]
 ---

@@ -5,7 +5,7 @@ topic: customize-the-tpm-calendar-launchpad
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.678Z
+lastCollected: 2026-04-07T09:05:17.328Z
 estimatedTokens: 538
 keywords: [Customize, TPM, Calendar, Launchpad, promotion, hover, content, buttons, callable, Apex, customization, hook]
 ---

@@ -5,7 +5,7 @@ topic: supported-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.189Z
+lastCollected: 2026-04-07T09:04:14.433Z
 estimatedTokens: 236
 keywords: [JavaScript, Aura, Components, programming, model, supports, ES5, ES6, Promises]
 ---

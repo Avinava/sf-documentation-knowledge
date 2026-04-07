@@ -5,7 +5,7 @@ topic: how-the-appexchange-security-review-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.259Z
+lastCollected: 2026-04-07T09:04:55.639Z
 estimatedTokens: 2884
 keywords: [How, AppExchange, Security, Review, Works, process, combination, enforcement, mechanisms, paired, personalized, advice, tools, initiating, perform]
 ---

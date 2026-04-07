@@ -5,7 +5,7 @@ topic: provide-status-for-asynchronous-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.914Z
+lastCollected: 2026-04-07T09:04:59.620Z
 estimatedTokens: 426
 keywords: [Provide, Status, Asynchronous, Operations, Ajax, behaviors, partial, updates, events, occur, background, user, continues, work, <apex]
 ---

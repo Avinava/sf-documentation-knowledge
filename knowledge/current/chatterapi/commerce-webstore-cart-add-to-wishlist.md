@@ -5,7 +5,7 @@ topic: commerce-webstore-cart-add-to-wishlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.176Z
+lastCollected: 2026-04-07T09:03:25.286Z
 estimatedTokens: 301
 keywords: [Commerce, Webstore, Cart, Add, Wishlist, Copy, products]
 ---

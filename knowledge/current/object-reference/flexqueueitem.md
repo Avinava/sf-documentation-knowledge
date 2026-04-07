@@ -5,7 +5,7 @@ topic: flexqueueitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.230Z
+lastCollected: 2026-04-07T09:04:41.470Z
 estimatedTokens: 407
 keywords: [FlexQueueItem, asynchronous, Apex, job, flex, queue, position, AsyncApexJob, Calls, Special, Access, Rules, Usage]
 ---

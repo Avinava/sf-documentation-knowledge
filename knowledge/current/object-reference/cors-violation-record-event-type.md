@@ -5,7 +5,7 @@ topic: cors-violation-record-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.090Z
+lastCollected: 2026-04-07T09:04:40.145Z
 estimatedTokens: 485
 keywords: [CORS, Violation, Record, Event, events, capture, Cross-Origin, Resource, Sharing, violations, requests, Lightning, apps, blocked, unless]
 ---

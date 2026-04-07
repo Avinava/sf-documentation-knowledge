@@ -5,7 +5,7 @@ topic: connectapi-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:15.222Z
+lastCollected: 2026-04-07T09:01:57.146Z
 estimatedTokens: 820
 namespace: ConnectApi
 keywords: [ConnectApi, Connect, Apex, classes, manage, credit, applications, billing, scenarios, specify, asset, transfer, account, another]

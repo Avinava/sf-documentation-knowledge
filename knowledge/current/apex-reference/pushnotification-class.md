@@ -5,8 +5,8 @@ topic: pushnotification-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.063Z
-estimatedTokens: 221
+lastCollected: 2026-04-07T09:02:18.585Z
+estimatedTokens: 220
 namespace: Messaging
 keywords: [PushNotification, configure, push, notifications, send, Apex, trigger]
 ---
@@ -24,7 +24,7 @@ PushNotification is used to configure push notifications and send them from an A
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## Example
 

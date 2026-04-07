@@ -5,7 +5,7 @@ topic: enrollments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:43.514Z
+lastCollected: 2026-04-07T09:04:07.504Z
 estimatedTokens: 534
 keywords: [Enrollments, Enroll, multiple, patients, care, program]
 ---

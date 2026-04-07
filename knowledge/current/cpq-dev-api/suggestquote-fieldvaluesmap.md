@@ -5,7 +5,7 @@ topic: suggestquote-fieldvaluesmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.557Z
+lastCollected: 2026-04-07T09:03:40.122Z
 estimatedTokens: 140
 keywords: [suggest, quote, fieldValuesMap, Overrides, user, suggestion, input, Salesforce, CPQ, calls, isSuggestCustom]
 ---

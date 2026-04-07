@@ -5,7 +5,7 @@ topic: cgcloudboapistepinputstructurec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.224Z
+lastCollected: 2026-04-07T09:05:19.590Z
 estimatedTokens: 1394
 keywords: [cgcloud__BO_API_Step_Input_Structure__c, stores, input, structure, configuration, business, API, workflow, step, expects, version, 54.0, later, cgcloud, _BO]
 ---

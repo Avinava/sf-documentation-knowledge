@@ -6,7 +6,7 @@ topic: createclaimcoveragepaymentdetailcreateclaimcoveragepaymentdetailinput-cla
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.850Z
+lastCollected: 2026-04-07T09:04:00.409Z
 estimatedTokens: 325
 keywords: [CreateClaimCoveragePaymentDetail, CreateClaimCoveragePaymentDetailInput, claimId, coverageId, claim, coverage, payment, detail, record, API, Version, Requires, Chatter]
 ---

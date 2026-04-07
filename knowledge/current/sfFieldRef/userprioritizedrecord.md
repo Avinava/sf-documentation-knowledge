@@ -5,7 +5,7 @@ topic: userprioritizedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.376Z
+lastCollected: 2026-04-07T09:06:10.632Z
 estimatedTokens: 335
 keywords: [UserPrioritizedRecord, records, Pipeline, Inspection, Account, Intelligence, Contact, Lead, users, flag, tracking, views, filters, API, version]
 ---

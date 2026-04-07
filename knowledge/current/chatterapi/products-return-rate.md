@@ -5,8 +5,8 @@ topic: products-return-rate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.460Z
-estimatedTokens: 150
+lastCollected: 2026-04-07T09:03:28.517Z
+estimatedTokens: 181
 keywords: [Products, Rate, rates]
 ---
 
@@ -36,6 +36,7 @@ Request parameters for GET
 
 | Parameter Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
+| dataSpacePrefixes | String[] | The data space prefixes that fetch the related products of a data space. | Optional | 65.0 |
 | page | Integer | Number of the page (for example, 2). | Required | 59.0 |
 | pageSize | Integer | Number of items per page. Valid values are 0 to 50. | Required | 59.0 |
 | products | String[] | List of product IDs for which you want to get return rates. | Optional | 59.0 |

@@ -5,7 +5,7 @@ topic: publish-extensions-to-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.639Z
+lastCollected: 2026-04-07T09:05:01.952Z
 estimatedTokens: 743
 keywords: [Publish, Extensions, Managed, Packages, extension, any, package, component, components, adds, functionality, requires, base, installed, org]
 ---

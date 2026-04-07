@@ -5,7 +5,7 @@ topic: salesforce-cli-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.217Z
+lastCollected: 2026-04-07T09:06:14.402Z
 estimatedTokens: 2018
 keywords: [Salesforce, CLI, Plugins, consists, npm, Node.js, package, manager, @salesforce, multiple, plugins—also, packages—that, contain, commands, JavaScript]
 ---
@@ -59,7 +59,7 @@ The command displays information such as this sample output.
 
 ```
 
-As shown in the sample output, if a plugin has (core) next to its name, it’s the version bundled with the CLI. If you install a specific version of the plugin, or it was automatically installed as a JIT plugin, its version number or tag is displayed instead. For example, the code-analyzer commands are contained in the JIT code-analyzer plugin and the sample output indicates that version 5.3.0 is installed.
+As shown in the sample output, if a plugin has (core) next to its name, it’s the version bundled with the CLI. If you install a specific version of the plugin, or it was automatically installed as a JIT plugin, its version number or tag is displayed instead. For example, the code-analyzer commands are contained in the JIT code-analyzer plugin and the sample output indicates that version 5.11.0 is installed.
 
 The end of the plugins --core output also displays the available JIT plugins that haven’t yet been installed.
 
@@ -89,43 +89,44 @@ sf plugins --core
 ```
 
 ```
-@oclif/plugin-autocomplete 3.2.34 (core)
-@oclif/plugin-commands 4.1.30 (core)
-@oclif/plugin-help 6.2.32 (core)
-@oclif/plugin-not-found 3.2.62 (core)
-@oclif/plugin-plugins 5.4.46 (core)
-@oclif/plugin-search 1.2.28 (core)
-@oclif/plugin-update 4.7.2 (core)
-@oclif/plugin-version 2.2.32 (core)
-@oclif/plugin-warn-if-update-available 3.1.46 (core)
-@oclif/plugin-which 3.2.39 (core)
-agent 1.23.7 (core)
-apex 3.6.19 (core)
-api 1.3.3 (core)
-auth 3.7.14 (core)
-code-analyzer 5.3.0 (5.3.0)
-data 4.0.50 (core)
-deploy-retrieve 3.22.36 (core)
-info 3.4.75 (core)
-limits 3.3.61 (core)
-marketplace 1.3.8 (core)
-org 5.9.16 (core)
-packaging 2.18.4 (core)
-schema 3.3.76 (core)
-settings 2.4.39 (core)
-sobject 1.4.67 (core)
-telemetry 3.6.51 (core)
-templates 56.3.55 (core)
-trust 3.7.113 (core)
-user 3.6.31 (core)
+@oclif/plugin-autocomplete 3.2.41 (core)
+@oclif/plugin-commands 4.1.40 (core)
+@oclif/plugin-help 6.2.38 (core)
+@oclif/plugin-not-found 3.2.75 (core)
+@oclif/plugin-plugins 5.4.58 (core)
+@oclif/plugin-search 1.2.39 (core)
+@oclif/plugin-update 4.7.23 (core)
+@oclif/plugin-version 2.2.38 (core)
+@oclif/plugin-warn-if-update-available 3.1.55 (core)
+@oclif/plugin-which 3.2.44 (core)
+agent 1.32.4 (core)
+apex 3.9.13 (core)
+api 1.3.11 (core)
+auth 4.3.1 (core)
+code-analyzer 5.11.0
+data 4.0.80 (core)
+deploy-retrieve 3.24.16 (core)
+info 3.4.111 (core)
+limits 3.3.80 (core)
+marketplace 1.3.10 (core)
+org 5.9.72 (core)
+packaging 2.25.10 (core)
+schema 3.3.98 (core)
+settings 2.4.60 (core)
+sobject 1.4.86 (core)
+telemetry 3.8.3 (core)
+templates 56.10.7 (core)
+trust 3.7.114 (core)
+user 3.7.1 (core)
 
 Uninstalled JIT Plugins:
-community 3.3.33
-custom-metadata 3.3.63
-dev 2.5.1
+community 3.3.48
+custom-metadata 3.3.84
+dev 2.5.2
 devops-center 1.2.27
-flow 1.0.2
-signups 2.6.39
+flow 1.0.5
+lightning-dev 6.2.16
+signups 2.6.56
 @salesforce/sfdx-plugin-lwc-test 1.2.1
 ```
 

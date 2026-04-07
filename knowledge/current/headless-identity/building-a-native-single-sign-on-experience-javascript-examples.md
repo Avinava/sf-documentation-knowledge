@@ -5,7 +5,7 @@ topic: building-a-native-single-sign-on-experience-javascript-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.915Z
+lastCollected: 2026-04-07T09:03:51.417Z
 estimatedTokens: 393
 keywords: [Building, Native, Sign-On, Experience, JavaScript, Examples, high-level, understand, how, SSO, single-page, app, configuration, uses, redirect-based]
 ---

@@ -5,7 +5,7 @@ topic: connectapipinnedfeedelements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.440Z
+lastCollected: 2026-04-07T09:02:25.555Z
 estimatedTokens: 127
 keywords: [ConnectApi.PinnedFeedElements, pinned, feed, elements]
 ---

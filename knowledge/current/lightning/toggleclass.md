@@ -5,7 +5,7 @@ topic: toggleclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.830Z
+lastCollected: 2026-04-07T09:04:15.472Z
 estimatedTokens: 78
 keywords: [toggleClass, Toggles, adds, removes, CSS, component, Sample, Code]
 ---

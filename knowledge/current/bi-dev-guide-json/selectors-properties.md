@@ -5,7 +5,7 @@ topic: selectors-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.241Z
+lastCollected: 2026-04-07T09:03:07.661Z
 estimatedTokens: 278
 keywords: [selectors, key, layout, specify, designer, grid, settings, background, requirements, devices]
 ---

@@ -5,7 +5,7 @@ topic: feed-elements-capability-comments-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.173Z
+lastCollected: 2026-04-07T09:03:26.668Z
 estimatedTokens: 1215
 keywords: [Feed, Elements, Capability, Comments, Items, Access, element, add, comment]
 ---

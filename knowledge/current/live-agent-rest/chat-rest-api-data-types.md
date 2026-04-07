@@ -5,7 +5,7 @@ topic: chat-rest-api-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:50.362Z
+lastCollected: 2026-04-07T09:04:16.309Z
 estimatedTokens: 2474
 keywords: [Chat, REST, API, Data, resource, code, successful, execution, JSON, bodies, contain, their, own, refer, entity]
 ---

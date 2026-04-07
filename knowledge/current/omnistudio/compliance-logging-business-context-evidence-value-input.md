@@ -5,7 +5,7 @@ topic: compliance-logging-business-context-evidence-value-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:48.419Z
+lastCollected: 2026-04-07T09:02:50.985Z
 estimatedTokens: 96
 keywords: [Compliance, Logging, Business, Context, Evidence, Input, representation, generic]
 ---

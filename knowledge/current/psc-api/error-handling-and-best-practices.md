@@ -5,7 +5,7 @@ topic: error-handling-and-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:32.502Z
+lastCollected: 2026-04-07T09:05:11.963Z
 estimatedTokens: 214
 keywords: [Error, Handling, Best, Practices, user, cancels, upload, occurs, process, LWC, call, abort, file, API, clean]
 ---

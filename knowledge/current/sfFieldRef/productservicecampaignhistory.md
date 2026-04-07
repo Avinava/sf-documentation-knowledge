@@ -5,7 +5,7 @@ topic: productservicecampaignhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:09.840Z
+lastCollected: 2026-04-07T09:06:01.688Z
 estimatedTokens: 273
 keywords: [ProductServiceCampaignHistory, History, tracked, ProductServiceCampaign]
 ---

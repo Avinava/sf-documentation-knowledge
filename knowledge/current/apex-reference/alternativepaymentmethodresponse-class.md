@@ -5,7 +5,7 @@ topic: alternativepaymentmethodresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:43.661Z
+lastCollected: 2026-04-07T09:02:16.496Z
 estimatedTokens: 1264
 namespace: CommercePayments
 keywords: [AlternativePaymentMethodResponse, alternative, payment, setAccountId, accountId, setComments, comments, setEmail, email, setGatewayToken, gatewayToken, setGatewayTokenDetails, gatewayTokenDetails, setName]

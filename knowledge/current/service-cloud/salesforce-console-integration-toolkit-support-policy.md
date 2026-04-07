@@ -5,7 +5,7 @@ topic: salesforce-console-integration-toolkit-support-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:54.857Z
+lastCollected: 2026-04-07T09:03:04.698Z
 estimatedTokens: 234
 keywords: [Salesforce, Console, Integration, Toolkit, Support, Policy, current, release, version, receives, enhancements]
 ---

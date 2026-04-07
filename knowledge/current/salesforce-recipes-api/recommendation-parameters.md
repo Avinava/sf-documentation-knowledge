@@ -5,7 +5,7 @@ topic: recommendation-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.961Z
+lastCollected: 2026-04-07T09:05:25.843Z
 estimatedTokens: 266
 keywords: [Recommendation, node, recipe]
 ---

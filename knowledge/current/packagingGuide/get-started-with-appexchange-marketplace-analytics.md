@@ -5,7 +5,7 @@ topic: get-started-with-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.026Z
+lastCollected: 2026-04-07T09:04:55.145Z
 estimatedTokens: 433
 keywords: [Started, AppExchange, Marketplace, Analytics, how, navigate, Assign, access, team, members, view, visualizations, data, Export, analyze]
 ---

@@ -5,7 +5,7 @@ topic: actioncadencesteptracker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.829Z
+lastCollected: 2026-04-07T09:04:33.795Z
 estimatedTokens: 2343
 keywords: [ActionCadenceStepTracker, step, active, cadence, specific, target, API, version, 48.0, later, Calls, Usage, Associated, Objects]
 ---

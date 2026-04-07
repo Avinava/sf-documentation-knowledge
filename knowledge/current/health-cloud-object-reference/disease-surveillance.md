@@ -5,7 +5,7 @@ topic: disease-surveillance
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.040Z
+lastCollected: 2026-04-07T09:03:54.359Z
 estimatedTokens: 782
 keywords: [Disease, Surveillance, tracks, manages, data, health, activities, model, centralize, patient, including, demographics, disability, status, medications]
 ---

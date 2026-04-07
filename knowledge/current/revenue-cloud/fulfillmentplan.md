@@ -5,8 +5,8 @@ topic: fulfillmentplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:25.536Z
-estimatedTokens: 980
+lastCollected: 2026-04-07T09:02:04.190Z
+estimatedTokens: 983
 keywords: [FulfillmentPlan, steps, created, fulfill, order, API, version, 61.0, later, Calls, Associated, Objects]
 ---
 
@@ -36,7 +36,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | SourceIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, Update, idLookup (Available in API version 64.0 and later)DescriptionFor internal use only. |
 | SourceType | TypestringPropertiesCreate, Filter, Group, Nillable, SortDescriptionThe type of source for the fulfillment plan. This field is available in API version 62.0 and later. |
 | State | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe status of the fulfillment plan.Valid values are:CompletedInProgressNotStarted |
-| UsageType | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe business that uses Fulfillment Orchestration.Valid values are:IntegrationOrchestratorOrderFulfillmentStageManagement |
+| UsageType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe business that uses Fulfillment Orchestration.Valid values are:IntegrationOrchestratorGenericStageManagement |
 
 ## Associated Objects
 

@@ -5,7 +5,7 @@ topic: motif
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.749Z
+lastCollected: 2026-04-07T09:03:33.621Z
 estimatedTokens: 1096
 keywords: [Motif, contain, URLs, small, medium, large, icons, indicate, Salesforce, record, Common, files, users, groups, Custom]
 ---

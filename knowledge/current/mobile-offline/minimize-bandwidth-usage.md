@@ -5,7 +5,7 @@ topic: minimize-bandwidth-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:57.182Z
+lastCollected: 2026-04-07T09:04:25.536Z
 estimatedTokens: 1224
 keywords: [Minimize, Bandwidth, Usage, Since, mobile, users, network, constraints, consider, devices, building, components, CSS, JavaScript, Libraries]
 ---

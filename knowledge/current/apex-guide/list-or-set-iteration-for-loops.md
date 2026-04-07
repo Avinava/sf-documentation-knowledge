@@ -5,7 +5,7 @@ topic: list-or-set-iteration-for-loops
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:45.380Z
+lastCollected: 2026-04-07T09:02:34.421Z
 estimatedTokens: 117
 keywords: [Iteration, Loops, executing, loop, Apex, runtime, engine, assigns, variable, element, list_or_set, runs, code_block]
 ---

@@ -5,7 +5,7 @@ topic: rebate-management-object-in-design-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.136Z
+lastCollected: 2026-04-07T09:03:19.431Z
 estimatedTokens: 155
 keywords: [Rebate, Management, Design, Registration, access, standard, manage, relationship, accounts]
 ---

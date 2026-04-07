@@ -5,7 +5,7 @@ topic: useremailcalendarsync
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.787Z
+lastCollected: 2026-04-07T09:04:51.817Z
 estimatedTokens: 381
 keywords: [UserEmailCalendarSync, user, assignments, Einstein, Activity, Capture, configuration, API, version, 49.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: assessmentconfiguration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:47.673Z
+lastCollected: 2026-04-07T09:04:12.286Z
 estimatedTokens: 1158
 keywords: [AssessmentConfiguration, configuration, Assessment, component, entry, user, flows, sending, emails, reminder, actions, assessments, initiated, patient, API]
 ---

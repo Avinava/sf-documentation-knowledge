@@ -5,7 +5,7 @@ topic: from-clause
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.114Z
+lastCollected: 2026-04-07T09:03:15.150Z
 estimatedTokens: 230
 keywords: [Clause, function, query, CRM, Analytics, SQL, supports, can’t, select, multiple, tables]
 ---

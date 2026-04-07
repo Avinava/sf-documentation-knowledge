@@ -5,7 +5,7 @@ topic: unified-routing-for-desk-phone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.216Z
+lastCollected: 2026-04-07T09:06:18.794Z
 estimatedTokens: 610
 keywords: [Unified, Routing, Desk, Phone, route, voice, call, rep’s, configure, managed, package]
 ---

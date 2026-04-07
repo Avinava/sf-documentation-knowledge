@@ -5,7 +5,7 @@ topic: participant-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.113Z
+lastCollected: 2026-04-07T09:03:54.484Z
 estimatedTokens: 194
 keywords: [Participant, Management, data, model, helps, streamline, recruitment, enrollment, processes, clinical, trials, advanced, digital, solutions, store]
 ---

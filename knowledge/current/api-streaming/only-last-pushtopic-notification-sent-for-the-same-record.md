@@ -5,7 +5,7 @@ topic: only-last-pushtopic-notification-sent-for-the-same-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.532Z
+lastCollected: 2026-04-07T09:03:05.343Z
 estimatedTokens: 426
 keywords: [PushTopic, Notification, Sent, Record, API, version, 36.0, earlier, multiple, notifications, generated, millisecond, transaction]
 ---

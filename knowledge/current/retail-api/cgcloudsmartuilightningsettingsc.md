@@ -5,7 +5,7 @@ topic: cgcloudsmartuilightningsettingsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:39.985Z
+lastCollected: 2026-04-07T09:05:21.594Z
 estimatedTokens: 1012
 keywords: [cgcloud__Smart_UI_Lightning_Settings__c, Internal, Smart, configurations, API, version, 54.0, later, cgcloud, _Smart, _UI, _Lightning, _Settings, Calls, Associated]
 ---

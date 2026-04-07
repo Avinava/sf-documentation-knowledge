@@ -5,7 +5,7 @@ topic: adquotelineunitssplit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.706Z
+lastCollected: 2026-04-07T09:04:22.030Z
 estimatedTokens: 634
 keywords: [AdQuoteLineUnitsSplit, split, interval, units, quote, line, API, version, 56.0, later, Calls, Associated, Objects]
 ---

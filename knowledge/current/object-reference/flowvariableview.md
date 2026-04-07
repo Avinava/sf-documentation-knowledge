@@ -5,7 +5,7 @@ topic: flowvariableview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.520Z
+lastCollected: 2026-04-07T09:04:41.783Z
 estimatedTokens: 503
 keywords: [FlowVariableView, variable, flow, version, API, 46.0, later, Calls, Usage]
 ---

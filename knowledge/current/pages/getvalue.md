@@ -5,7 +5,7 @@ topic: getvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.650Z
+lastCollected: 2026-04-07T09:04:56.288Z
 estimatedTokens: 37
 keywords: [getValue, data, captured, cookie, Session, option, controller, user, selects]
 ---

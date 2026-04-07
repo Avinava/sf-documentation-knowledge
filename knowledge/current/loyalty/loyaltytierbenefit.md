@@ -5,7 +5,7 @@ topic: loyaltytierbenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.328Z
+lastCollected: 2026-04-07T09:04:20.202Z
 estimatedTokens: 546
 keywords: [LoyaltyTierBenefit, junction, associates, loyalty, benefits, program, tiers, API, version, 51.0, later, Calls, Associated, Objects]
 ---

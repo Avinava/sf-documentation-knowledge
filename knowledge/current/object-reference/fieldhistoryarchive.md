@@ -5,7 +5,7 @@ topic: fieldhistoryarchive
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.143Z
+lastCollected: 2026-04-07T09:04:41.367Z
 estimatedTokens: 977
 keywords: [FieldHistoryArchive, history, objects, retain, big, users, “Retain, History”, permission, API, version, 29.0, later, Calls, Usage]
 ---

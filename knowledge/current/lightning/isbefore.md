@@ -5,7 +5,7 @@ topic: isbefore
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.562Z
+lastCollected: 2026-04-07T09:04:15.022Z
 estimatedTokens: 163
 keywords: [isBefore, Checks, date1, date2, Sample, Code]
 ---

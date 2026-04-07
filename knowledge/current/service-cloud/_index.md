@@ -2,7 +2,7 @@
 domain: service-cloud
 name: Service Cloud
 documentCount: 282
-lastGenerated: 2026-04-07T07:54:01.133Z
+lastGenerated: 2026-04-07T09:06:35.595Z
 ---
 
 # Service Cloud — Knowledge Index

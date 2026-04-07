@@ -5,7 +5,7 @@ topic: show-diverse-owned-business-details-on-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.513Z
+lastCollected: 2026-04-07T09:04:54.301Z
 estimatedTokens: 359
 keywords: [Show, Diverse-Owned, Business, AppExchange, Listing, company, least, 51%, owned, operated, members, groups—women, veterans, minorities, person]
 ---

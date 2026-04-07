@@ -5,7 +5,7 @@ topic: introduction-to-soql-and-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:19.837Z
+lastCollected: 2026-04-07T09:06:15.251Z
 estimatedTokens: 972
 keywords: [Introduction, SOQL, SOSL, you’ve, built, custom, Salesforce, Query, Language, Search, APIs, organization’s, data, Deciding, Performance]
 ---

@@ -5,7 +5,7 @@ topic: prepare-to-list-your-solution-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.500Z
+lastCollected: 2026-04-07T09:04:54.284Z
 estimatedTokens: 815
 keywords: [Prepare, Solution, AppExchange, company, profile, share, contact, business, Connect, partner, orgs, solutions, Console, licenses, managed]
 ---

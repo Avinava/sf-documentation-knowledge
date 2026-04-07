@@ -5,7 +5,7 @@ topic: promotion-and-tactic-transfer-customization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.118Z
+lastCollected: 2026-04-07T09:05:22.847Z
 estimatedTokens: 398
 keywords: [Promotion, Tactic, Transfer, Customization, save, Trade, Management, TPM, triggers, planned, Retail, Execution, modify, saved, associated]
 ---

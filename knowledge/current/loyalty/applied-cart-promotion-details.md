@@ -5,8 +5,8 @@ topic: applied-cart-promotion-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.289Z
-estimatedTokens: 454
+lastCollected: 2026-04-07T09:04:17.530Z
+estimatedTokens: 455
 keywords: [Applied, Cart, Promotion, cart-level, promotions]
 ---
 
@@ -28,14 +28,14 @@ This example shows a sample response.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| cartAmountAfterDiscount | Double | The updated cart amount after the current promotion is applied. | Big, 65.0 | 65.0 |
-| cartAmountBeforeDiscount | Double | Cart amount before the current promotion is applied. | Big, 65.0 | 65.0 |
-| cartLevelDiscountAmount | Double | Total amount of discounts from promotions. | Big, 65.0 | 65.0 |
+| cartAmount​AfterDiscount | Double | The updated cart amount after the current promotion is applied. | Big, 65.0 | 65.0 |
+| cartAmount​BeforeDiscount | Double | Cart amount before the current promotion is applied. | Big, 65.0 | 65.0 |
+| cartLevel​DiscountAmount | Double | Total amount of discounts from promotions. | Big, 65.0 | 65.0 |
 | couponCode | String | Coupon code of the applied promotion. | Big, 65.0 | 65.0 |
 | currencyIsoCode | String | Three-letter ISO 4217 code of the monetary currency assoaicted with the applied promotion. | Big, 65.0 | 65.0 |
 | displayName | String | Display name of the applied promotion. | Big, 65.0 | 65.0 |
 | isAutomatic | Boolean | Indicates whether the promotion is automatically applied for eligible carts (true) or not (false). | Big, 65.0 | 65.0 |
-| nonPricingRewards | Map<String, Object> | The non-pricing rewards issued to customers as a part of the applied promotions. Possible rewards are:badgeRewards: List of rewards for members in the form of badges.fixedPointsRewards: List of rewards for members in the form of fixed number of loyalty points.gameRewards: List of rewards in the form of games.multiplierPointsRewards: List of rewards for members in the form of loyalty points that are calculated based on a multiplier and a transaction journal field.voucherRewards: List of rewards in the form of vouchers. | Big, 65.0 | 65.0 |
+| nonPricing​Rewards | Map<String, Object> | The non-pricing rewards issued to customers as a part of the applied promotions. Possible rewards are:badgeRewards: List of rewards for members in the form of badges.fixedPointsRewards: List of rewards for members in the form of fixed number of loyalty points.gameRewards: List of rewards in the form of games.multiplierPointsRewards: List of rewards for members in the form of loyalty points that are calculated based on a multiplier and a transaction journal field.voucherRewards: List of rewards in the form of vouchers. | Big, 65.0 | 65.0 |
 | promotionCode | String | Code of the applied promotion. | Big, 65.0 | 65.0 |
 | promotionId | String | The ID of the applied promotion. | Big, 65.0 | 65.0 |
 

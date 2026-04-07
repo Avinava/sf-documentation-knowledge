@@ -5,7 +5,7 @@ topic: energy-and-utilities-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.033Z
+lastCollected: 2026-04-07T09:03:45.149Z
 estimatedTokens: 4794
 keywords: [Energy, Utilities, Cloud, Standard, Objects, work, E&U]
 ---

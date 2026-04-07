@@ -5,7 +5,7 @@ topic: edit-auto-installjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.493Z
+lastCollected: 2026-04-07T09:03:15.789Z
 estimatedTokens: 504
 keywords: [Edit, auto-install.json, configures, template, auto-install, framework, Always, file, plan, design, auto-installation, via, managed, package]
 ---

@@ -5,7 +5,7 @@ topic: view-details-about-a-second-generation-managed-package-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.165Z
+lastCollected: 2026-04-07T09:05:04.017Z
 estimatedTokens: 416
 keywords: [View, Second-Generation, Managed, Package, Version, Retrieve, versions, progress, already, created, Status, 2GP, Associated, Dev, Hub]
 ---

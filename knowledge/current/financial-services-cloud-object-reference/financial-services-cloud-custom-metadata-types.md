@@ -5,7 +5,7 @@ topic: financial-services-cloud-custom-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:28.742Z
+lastCollected: 2026-04-07T09:03:47.709Z
 estimatedTokens: 153
 namespace: FinServ
 keywords: [Financial, Services, Cloud, Custom, Metadata, help, deliver, additional, features]

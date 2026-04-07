@@ -5,7 +5,7 @@ topic: opensubtab-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.921Z
+lastCollected: 2026-04-07T09:03:03.794Z
 estimatedTokens: 775
 keywords: [openSubtab, Lightning, Experience, Opens, subtab, workspace, tab, already, open, focused, works, console, apps, Arguments, LWC]
 ---

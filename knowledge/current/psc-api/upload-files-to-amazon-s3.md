@@ -5,7 +5,7 @@ topic: upload-files-to-amazon-s3
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:32.510Z
+lastCollected: 2026-04-07T09:05:11.976Z
 estimatedTokens: 487
 keywords: [Upload, Files, Amazon, explains, how, custom, Lightning, Web, Component, LWC, uploads, directly, Salesforce, bucket, Prerequisites]
 ---

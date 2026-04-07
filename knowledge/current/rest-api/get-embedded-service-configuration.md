@@ -5,7 +5,7 @@ topic: get-embedded-service-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.302Z
+lastCollected: 2026-04-07T09:02:35.439Z
 estimatedTokens: 153
 keywords: [Embedded, Service, Configuration, deployment, including, branding, colors, font, site, URL, resource, REST, API, version, 45.0]
 ---

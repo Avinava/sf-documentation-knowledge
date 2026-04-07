@@ -5,7 +5,7 @@ topic: product-search-facet-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.570Z
+lastCollected: 2026-04-07T09:03:35.050Z
 estimatedTokens: 125
 keywords: [Product, Search, Facet]
 ---

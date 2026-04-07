@@ -5,7 +5,7 @@ topic: custommetadata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.825Z
+lastCollected: 2026-04-07T09:02:14.991Z
 estimatedTokens: 1156
 namespace: Warning
 keywords: [CustomMetadata, records, custom, metadata, Usage, label, protected, clone]

@@ -5,7 +5,7 @@ topic: csptrustedsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.217Z
+lastCollected: 2026-04-07T09:02:46.724Z
 estimatedTokens: 1519
 keywords: [CspTrustedSite, trusted, URL, specify, Content, Security, Policy, CSP, directives, permissions, directive, Lightning, components, third-party, APIs]
 ---

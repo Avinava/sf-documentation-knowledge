@@ -6,7 +6,7 @@ topic: create-a-component-for-lightning-experience-and-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.906Z
+lastCollected: 2026-04-07T09:04:14.047Z
 estimatedTokens: 589
 keywords: [Component, Lightning, Experience, Salesforce, Mobile, App, Explore, how, custom, loads, contact, data, interacts]
 ---

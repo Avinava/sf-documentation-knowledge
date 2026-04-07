@@ -5,7 +5,7 @@ topic: platform-event-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.670Z
+lastCollected: 2026-04-07T09:05:04.885Z
 estimatedTokens: 502
 keywords: [Platform, Event, Considerations, special, behaviors, defining, publishing, subscribing, events, how, test, various, Salesforce, offers]
 ---

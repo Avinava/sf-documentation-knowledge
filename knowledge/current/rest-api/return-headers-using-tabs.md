@@ -5,7 +5,7 @@ topic: return-headers-using-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:41.423Z
+lastCollected: 2026-04-07T09:02:36.344Z
 estimatedTokens: 125
 keywords: [Tabs, resources, gives, chance, retrieving, content, resource, REST, API, version, 31.0, later]
 ---

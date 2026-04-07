@@ -5,7 +5,7 @@ topic: cgcloudaccounttradeorghierarchyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.111Z
+lastCollected: 2026-04-07T09:05:19.453Z
 estimatedTokens: 998
 keywords: [cgcloud__Account_Trade_Org_Hierarchy__c, account, hierarchy, API, version, 54.0, later, cgcloud, _Account, _Trade, _Org, _Hierarchy, Calls, Associated, Objects]
 ---

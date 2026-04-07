@@ -5,7 +5,7 @@ topic: commitments-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.899Z
+lastCollected: 2026-04-07T09:03:42.165Z
 estimatedTokens: 370
 keywords: [Commitments, POST, recurring, gift, schedules, along, associated, new, matched, donor, Customize, accounts]
 ---
@@ -75,7 +75,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/fundraising/commitments
+https://yourInstance.salesforce.com/services/data/v/connect/fundraising/commitments
 ```
 
 ```
@@ -185,7 +185,8 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/fundraising/comm
 
 ## Related Topics
 
-- Create Commitment Request Input[] (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_requests_create_commitment_request.htm)
+- Create
+                        Commitment Request Input[] (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_requests_create_commitment_request.htm)
 - Processing
                         Options Details Input (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_requests_processing_options_detail.htm)
 - Create

@@ -5,7 +5,7 @@ topic: profilelayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.085Z
+lastCollected: 2026-04-07T09:02:48.708Z
 estimatedTokens: 209
 keywords: [ProfileLayout, profile, layout, SOAP, Calls, REST, HTTP, Special, Access, Rules]
 ---

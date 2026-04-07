@@ -5,7 +5,7 @@ topic: headless-registration-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:32.024Z
+lastCollected: 2026-04-07T09:03:51.533Z
 estimatedTokens: 994
 keywords: [Headless, Registration, Flow, extends, Authorization, Code, Credentials, end, new, user, registered, logged, they, access, Salesforce]
 ---

@@ -5,7 +5,7 @@ topic: learnings-graph-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.910Z
+lastCollected: 2026-04-07T09:03:42.182Z
 estimatedTokens: 164
 keywords: [Learnings, Graph, learning, course, program, achievements, their, associations]
 ---

@@ -5,7 +5,7 @@ topic: building-a-complex-chart-with
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.960Z
+lastCollected: 2026-04-07T09:04:56.803Z
 estimatedTokens: 1322
 keywords: [Building, Complex, Chart, Visualforce, charting, assemble, variety, components, multiple, data, end, result, quite, sophisticated, attention]
 ---

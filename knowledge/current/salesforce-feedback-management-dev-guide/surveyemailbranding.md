@@ -5,7 +5,7 @@ topic: surveyemailbranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.618Z
+lastCollected: 2026-04-07T09:05:23.615Z
 estimatedTokens: 551
 keywords: [SurveyEmailBranding, configuration, settings, invitation, emails, sent, survey, participants, particular, Calls, Special, Access, Rules]
 ---

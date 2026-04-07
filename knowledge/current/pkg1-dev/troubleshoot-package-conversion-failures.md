@@ -5,7 +5,7 @@ topic: troubleshoot-package-conversion-failures
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.498Z
+lastCollected: 2026-04-07T09:05:01.734Z
 estimatedTokens: 1245
 keywords: [Troubleshoot, Package, Conversion, Failures, possible, error, scenarios, occur, convert, API, Version, RecordType, Errors, Org, Shape]
 ---

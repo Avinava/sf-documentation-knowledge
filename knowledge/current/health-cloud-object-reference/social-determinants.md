@@ -5,7 +5,7 @@ topic: social-determinants
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.012Z
+lastCollected: 2026-04-07T09:03:55.601Z
 estimatedTokens: 618
 keywords: [Social, Determinants, data, model, barriers, health, interventions, patient, member, API, version, 45.0, later]
 ---

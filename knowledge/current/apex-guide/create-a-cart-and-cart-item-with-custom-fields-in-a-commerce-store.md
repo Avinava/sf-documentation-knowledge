@@ -5,7 +5,7 @@ topic: create-a-cart-and-cart-item-with-custom-fields-in-a-commerce-store
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.561Z
+lastCollected: 2026-04-07T09:02:33.712Z
 estimatedTokens: 454
 keywords: [Cart, Item, Custom, Commerce, Store, buyer, guest, user]
 ---

@@ -5,7 +5,7 @@ topic: jobapplnsearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.955Z
+lastCollected: 2026-04-07T09:05:13.840Z
 estimatedTokens: 2863
 keywords: [JobApplnSearchableField, searchable, data, job, applications, enabling, criteria-based, search, filtering, match, user-specific, criteria, API, version, 62.0]
 ---

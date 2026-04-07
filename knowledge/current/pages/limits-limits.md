@@ -5,7 +5,7 @@ topic: limits-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.097Z
+lastCollected: 2026-04-07T09:04:59.902Z
 estimatedTokens: 223
 keywords: [Limits, Visualforce, Although, Remote, Objects, isn’t, subject, resource, comes, limitations, own]
 ---

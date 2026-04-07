@@ -5,7 +5,7 @@ topic: promotionmarketsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.584Z
+lastCollected: 2026-04-07T09:06:02.603Z
 estimatedTokens: 361
 keywords: [PromotionMarketSegment, market, segment, B2B, Commerce, promotions, assigned, API, version, 52.0, later]
 ---

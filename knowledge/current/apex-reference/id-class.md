@@ -5,7 +5,7 @@ topic: id-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.788Z
+lastCollected: 2026-04-07T09:02:28.807Z
 estimatedTokens: 3174
 namespace: System
 keywords: [Converts, restoreCasing, 18-character, incorrect, casing, correctly, aligned, encoded, Getting, sObject, Token, addError, errorMsg, Usage, escape]

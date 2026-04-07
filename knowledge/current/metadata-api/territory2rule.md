@@ -5,7 +5,7 @@ topic: territory2rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:10.474Z
+lastCollected: 2026-04-07T09:02:44.640Z
 estimatedTokens: 1230
 keywords: [Territory2Rule, metadata, associated, territory, assignment, rule, Account, Sales, Territories, enabled, File, Suffix, Directory, Location, Version]
 ---

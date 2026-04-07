@@ -5,7 +5,7 @@ topic: text---dxp-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.592Z
+lastCollected: 2026-04-07T09:03:45.886Z
 estimatedTokens: 792
 keywords: [Text, --dxp, Styling, Hooks, Extensive, branding, easy, control, headings, button, link, forms, throughout, site]
 ---

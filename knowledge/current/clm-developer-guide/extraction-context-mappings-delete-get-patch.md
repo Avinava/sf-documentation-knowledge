@@ -5,7 +5,7 @@ topic: extraction-context-mappings-delete-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:22.360Z
+lastCollected: 2026-04-07T09:03:38.060Z
 estimatedTokens: 350
 keywords: [Extraction, Context, Mappings, PATCH, mapping, case]
 ---

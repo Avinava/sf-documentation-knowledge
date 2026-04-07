@@ -5,7 +5,7 @@ topic: bookmarks-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.065Z
+lastCollected: 2026-04-07T09:03:23.894Z
 estimatedTokens: 1283
 keywords: [Bookmarks, Feed, Resources, containing, elements, saved, context, user, URL]
 ---

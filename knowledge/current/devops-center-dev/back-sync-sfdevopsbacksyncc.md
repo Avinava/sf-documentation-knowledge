@@ -5,7 +5,7 @@ topic: back-sync-sfdevopsbacksyncc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.421Z
+lastCollected: 2026-04-07T09:03:41.489Z
 estimatedTokens: 1840
 keywords: [Back, Sync, sf_devops__Back_Sync__c, synchronization, DevOps, Center, user’s, development, environment, pipeline, stage’s, branch, particular, tracks, happened]
 ---

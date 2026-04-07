@@ -5,7 +5,7 @@ topic: get-approval-layouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.978Z
+lastCollected: 2026-04-07T09:02:35.971Z
 estimatedTokens: 130
 keywords: [Approval, Layouts, resource, REST, API, version, 30.0, later]
 ---

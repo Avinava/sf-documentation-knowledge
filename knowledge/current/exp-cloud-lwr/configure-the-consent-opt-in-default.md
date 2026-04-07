@@ -5,7 +5,7 @@ topic: configure-the-consent-opt-in-default
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.618Z
+lastCollected: 2026-04-07T09:03:45.931Z
 estimatedTokens: 644
 keywords: [Configure, Consent, Opt-In, start, capturing, events, send, Data, Cloud, user, options, Tag, Manager, doesn’t, destination]
 ---

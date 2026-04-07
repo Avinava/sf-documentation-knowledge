@@ -5,7 +5,7 @@ topic: methods-for-console-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.007Z
+lastCollected: 2026-04-07T09:04:53.430Z
 estimatedTokens: 1361
 keywords: [Console, Events, JavaScript, executed, certain, occur, user, closes, tab, addition, standard, there, few, specific, Omni-Channel]
 ---

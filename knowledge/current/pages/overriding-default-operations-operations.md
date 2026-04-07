@@ -5,7 +5,7 @@ topic: overriding-default-operations-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.116Z
+lastCollected: 2026-04-07T09:04:59.928Z
 estimatedTokens: 1367
 keywords: [Overriding, Operations, Override, Remote, Objects, own, Apex, code, extend, customize, behavior, Access, Definitions, Overrides]
 ---

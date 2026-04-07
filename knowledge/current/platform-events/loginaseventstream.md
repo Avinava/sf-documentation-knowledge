@@ -5,7 +5,7 @@ topic: loginaseventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.876Z
+lastCollected: 2026-04-07T09:05:06.474Z
 estimatedTokens: 1885
 keywords: [LoginAsEventStream, LoginAsEvent, tracks, admin, logs, another, user, org, Real-Time, Event, Monitoring, captures, events, admins, Experience]
 ---
@@ -65,7 +65,7 @@ A Transaction Security policy for the LoginAs event type only monitors and respo
 | EventUuid | TypestringPropertiesNillableDescriptionA universally unique identifier (UUID) that identifies a platform event message. This field is available in API version 52.0 and later. |
 | LoginAsCategory | TypepicklistPropertiesNillable, Restricted picklistDescriptionRepresents how the user logs in as another user. Possible values are:OrgAdmin—An administrator logs in to Salesforce as an individual user. Depending on your org settings, the individual user grants login access to the administrator.Community—A user who has been granted access to a Salesforce Experience Cloud site logs in. |
 | LoginHistoryId | TypereferencePropertiesNillableDescriptionTracks a user session so you can correlate user activity with a particular login instance. The ID from the LoginHistory entity associated with this login event. For example, 0Yaxx0000000019. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, 8gHOMQu+xvjCmRUt. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, 8gHOMQu+xvjCmRUt. |
 | LoginType | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe type of login used to access the session. See the LoginType field of LoginHistory in the Object Reference guide for the list of possible values. |
 | Platform | TypestringPropertiesNillableDescriptionThe platform name and version that are used during the login event. If no platform name is available, “Unknown” is returned. Platform names are in English. For example, “Mac OSX”. |
 | ReplayId | TypestringPropertiesNillableDescriptionRepresents an ID value that is populated by the system and refers to the position of the event in the event stream. Replay ID values aren’t guaranteed to be contiguous for consecutive events. A subscriber can store a replay ID value and use it on resubscription to retrieve missed events that are within the retention window. |

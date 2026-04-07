@@ -5,7 +5,7 @@ topic: integrated-care-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.037Z
+lastCollected: 2026-04-07T09:03:54.353Z
 estimatedTokens: 2732
 keywords: [Integrated, Care, Management, data, model, store, clinical, patient, member’s, plans, USCDI, FHIR, R4-aligned, helps, system’s]
 ---

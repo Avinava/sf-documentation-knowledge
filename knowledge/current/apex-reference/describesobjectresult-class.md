@@ -5,7 +5,7 @@ topic: describesobjectresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.158Z
+lastCollected: 2026-04-07T09:02:29.176Z
 estimatedTokens: 11235
 namespace: Schema
 keywords: [DescribeSObjectResult, associated, History, Share, Usage, accessible, associateentitytype, associateparententity, childrelationships, createable, custom, customsetting, datatranslationenabled, defaultimplementation, deletable]
@@ -523,7 +523,7 @@ The following are methods for DescribeSObjectResult. All are instance methods.
     Returns the effective describe option used by the system for the SObject.
 -   **[getSobjectType()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#apex_Schema_DescribeSObjectResult_getSobjectType)**
     Returns the Schema.SObjectType object for the sObject. You can use this to create a similar sObject.
--   **[getHasSubtypes()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#unique_399572061)**
+-   **[getHasSubtypes()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#unique_531981322)**
     Reserved for future use.
 -   **[hashCode()](atlas.en-us.apexref.meta/apexref/apex_methods_system_sobject_describe.htm#apex_Schema_DescribeSObjectResult_hashCode)**
     Returns the hash code for the SObject.

@@ -5,7 +5,7 @@ topic: commerce-web-store-network-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:31.350Z
+lastCollected: 2026-04-07T09:02:07.834Z
 estimatedTokens: 210
 keywords: [Commerce, Web, Store, Network, Mapping, data, stream, deployed, starter, bundle, automatically, maps, Cloud, model, objects]
 ---

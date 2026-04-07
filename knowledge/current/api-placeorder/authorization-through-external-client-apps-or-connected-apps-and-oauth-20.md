@@ -5,7 +5,7 @@ topic: authorization-through-external-client-apps-or-connected-apps-and-oauth-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.074Z
+lastCollected: 2026-04-07T09:03:04.733Z
 estimatedTokens: 933
 keywords: [Authorization, External, Client, Apps, Connected, OAuth, 2.0, application, access, REST, API, resources, authorized, safe, visitor]
 ---

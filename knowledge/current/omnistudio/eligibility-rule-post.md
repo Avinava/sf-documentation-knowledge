@@ -5,7 +5,7 @@ topic: eligibility-rule-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.878Z
+lastCollected: 2026-04-07T09:02:52.518Z
 estimatedTokens: 301
 keywords: [Eligibility, Rule, POST, rules, associated, decision, tables]
 ---

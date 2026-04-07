@@ -5,7 +5,7 @@ topic: benefit-action-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:30.690Z
+lastCollected: 2026-04-07T09:02:07.402Z
 estimatedTokens: 556
 keywords: [Benefit, Action, DMO, Data, Cloud, model, actions, triggered, program, assigned, loyalty, member, API, Category, Primary]
 ---

@@ -5,7 +5,7 @@ topic: combinedattachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.522Z
+lastCollected: 2026-04-07T09:05:40.062Z
 estimatedTokens: 415
 keywords: [CombinedAttachment, read-only, notes, attachments, Google, Docs, documents, uploaded, libraries, Salesforce, CRM, Content, files, added, Chatter]
 ---

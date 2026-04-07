@@ -5,7 +5,7 @@ topic: post-call-contact-record-sync-with-the-update-voicecall-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.145Z
+lastCollected: 2026-04-07T09:06:18.695Z
 estimatedTokens: 387
 keywords: [Post-Call, Contact, Record, Sync, VoiceCall, API, updates, call, ended, call-related, unavailable, creation, stage, callDuration, numberOfHold]
 ---

@@ -5,7 +5,7 @@ topic: required-tax-integration-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.985Z
+lastCollected: 2026-04-07T09:03:16.600Z
 estimatedTokens: 269
 keywords: [Tax, Integration, records, require, several, Salesforce, Billing, communicate, engines, regardless, engine, Certain, mentioned]
 ---

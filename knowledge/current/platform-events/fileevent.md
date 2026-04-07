@@ -5,7 +5,7 @@ topic: fileevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.582Z
+lastCollected: 2026-04-07T09:05:06.138Z
 estimatedTokens: 1891
 keywords: [FileEvent, Tracks, user, downloads, document, includes, events, performed, files, API, version, 57.0, later, Calls, Subscribers]
 ---
@@ -68,7 +68,7 @@ FileEvent transaction security policies won’t be triggered if a file is downlo
 | FileSource | TypestringPropertiesNillableDescriptionOrigin of the document. Valid values are:S—Document is located within Salesforce. Label is Salesforce.E—Document is located outside of Salesforce. Label is External.L—Document is located on a social network and accessed via Social Customer Service. Label is Social Customer Service. |
 | FileType | TypestringPropertiesNillableDescriptionThe content type of the file. For example, PDF. |
 | IsLatestVersion | TypebooleanPropertiesDefaulted on createDescriptionIndicates whether the file is the most current version (true) or not (false). The default value is false. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | PolicyId | TypereferencePropertiesNillableDescriptionThe ID of the transaction policy associated with this event. For example, 0NIB000000000KOOAY.This is a relationship field.Relationship NamePolicyRelationship TypeLookupRefers ToTransactionSecurityPolicy |
 | PolicyOutcome | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe result of the transaction policy. Possible values are:Block—The user was blocked from performing the operation that triggered the policy.Error—The policy caused an undefined error when it executed.ExemptNoAction—The user is exempt from transaction security policies, so the policy didn’t trigger.MeteringBlock—The policy took longer than 3 seconds to process, so the user was blocked from performing the operation.MeteringNoAction—The policy took longer than 3 seconds to process, but the user isn't blocked from performing the operation.NoAction—The policy didn't trigger.Notified—A notification was sent to the recipient. |
 | ProcessDuration | TypedoublePropertiesNillableDescriptionThe amount of time to download the file, in milliseconds. |

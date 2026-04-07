@@ -6,7 +6,7 @@ topic: billing-fields-on-finance-transaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.965Z
+lastCollected: 2026-04-07T09:03:17.787Z
 estimatedTokens: 513
 keywords: [Billing, Finance, Transaction, Standard, custom, extend, represent, transactions]
 ---

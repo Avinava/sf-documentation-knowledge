@@ -5,7 +5,7 @@ topic: custom-action-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.914Z
+lastCollected: 2026-04-07T09:03:40.693Z
 estimatedTokens: 357
 keywords: [Custom, Action, Plugin, lets, run, code, actions, Salesforce, CPQ, Currently, plugins, support, cloning]
 ---

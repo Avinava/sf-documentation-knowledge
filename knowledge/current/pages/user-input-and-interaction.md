@@ -5,7 +5,7 @@ topic: user-input-and-interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.617Z
+lastCollected: 2026-04-07T09:05:00.698Z
 estimatedTokens: 1587
 keywords: [User, Input, Interaction, <apex, input>, attribute, pass-through, HTML, attributes, mobile-friendly, forms, interfaces, efficient, take, advantage]
 ---

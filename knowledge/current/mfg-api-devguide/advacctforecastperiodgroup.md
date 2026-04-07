@@ -5,7 +5,7 @@ topic: advacctforecastperiodgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.552Z
+lastCollected: 2026-04-07T09:04:23.227Z
 estimatedTokens: 738
 keywords: [AdvAcctForecastPeriodGroup, advanced, account, forecast, period, records, parent, API, version, 53.0, later, Calls]
 ---

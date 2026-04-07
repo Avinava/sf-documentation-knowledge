@@ -5,7 +5,7 @@ topic: capturerequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:43.949Z
+lastCollected: 2026-04-07T09:02:16.659Z
 estimatedTokens: 845
 namespace: CommercePayments
 keywords: [CaptureRequest, capture, extends, BaseRequest, inherits, Usage, amount, authorizationId, accountId, paymentAuthorizationId]

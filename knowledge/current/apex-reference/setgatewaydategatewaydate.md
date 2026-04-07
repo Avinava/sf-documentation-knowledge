@@ -5,7 +5,7 @@ topic: setgatewaydategatewaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:45.133Z
+lastCollected: 2026-04-07T09:02:18.989Z
 estimatedTokens: 102
 keywords: [setGatewayDate, gatewayDate, date, authorization, occurred, gateways, don’t, send]
 ---

@@ -5,7 +5,7 @@ topic: homehealth
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.347Z
+lastCollected: 2026-04-07T09:03:51.861Z
 estimatedTokens: 666
 keywords: [HomeHealth, Apex, implementation, Manual, Scheduling, healthcare, appointments]
 ---

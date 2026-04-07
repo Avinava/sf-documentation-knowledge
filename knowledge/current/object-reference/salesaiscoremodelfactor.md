@@ -5,7 +5,7 @@ topic: salesaiscoremodelfactor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.435Z
+lastCollected: 2026-04-07T09:04:48.710Z
 estimatedTokens: 1339
 keywords: [SalesAIScoreModelFactor, factors, Sales, Cloud, Einstein, uses, build, scoring, model, models, features, Opportunity, score, individual, records]
 ---

@@ -5,7 +5,7 @@ topic: field-set-fields-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.120Z
+lastCollected: 2026-04-07T09:04:02.553Z
 estimatedTokens: 194
 ---
 
@@ -55,7 +55,7 @@ Response body for GET
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/fieldset/ClaimCoveragePaymentDetail/0182819gvahBghvdh/fields
+https://yourInstance.salesforce.com/services/data/v/connect/fieldset/ClaimCoveragePaymentDetail/0182819gvahBghvdh/fields
 ```
 
 ## Related Topics

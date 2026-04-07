@@ -5,7 +5,7 @@ topic: what-are-recipes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.874Z
+lastCollected: 2026-04-07T09:05:02.354Z
 estimatedTokens: 448
 keywords: [Recipes, AppExchange, App, Analytics, Developer, Cookbook, uses, two, distinct, CRM, foundational, work, creating, build, recipe]
 ---

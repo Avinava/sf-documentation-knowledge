@@ -5,7 +5,7 @@ topic: route-chats-based-on-pre-chat-responses-with-direct-to-button-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.354Z
+lastCollected: 2026-04-07T09:06:14.609Z
 estimatedTokens: 483
 keywords: [Route, Chats, Pre-Chat, Responses, Direct-to-Button, Routing, chat, window, different, buttons, customer’s, any, upgrade, code, snippet]
 ---

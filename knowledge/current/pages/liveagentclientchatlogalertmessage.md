@@ -5,7 +5,7 @@ topic: liveagentclientchatlogalertmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.712Z
+lastCollected: 2026-04-07T09:04:57.850Z
 estimatedTokens: 373
 keywords: [liveAgent, clientChatLogAlertMessage, area, chat, window, displays, idle, time-out, alert, customer, visitor, Attributes]
 ---

@@ -5,20 +5,20 @@ topic: invocableactioneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.283Z
+lastCollected: 2026-04-07T09:04:42.610Z
 estimatedTokens: 658
-keywords: [InvocableActionEventLog, Invocable, Action, events, capture, calls, Salesforce, Actions.This, particularly, useful, monitor, actions, invoked, Agentforce, flows]
+keywords: [InvocableActionEventLog, Invocable, Action, events, capture, calls, Salesforce, Actions, particularly, useful, monitor, invoked, Agentforce, flows, API]
 ---
 
 # InvocableActionEventLog
 
-> Invocable Action events capture the calls to Salesforce Invocable
-         Actions.This is particularly useful to monitor actions invoked during Agentforce
-         flows. This object is available in API version 64.0 and later.
+> Invocable Action events capture the calls to Salesforce Invocable Actions.
+         This is particularly useful to monitor actions invoked during Agentforce flows. This
+      object is available in API version 64.0 and later.
 
 # InvocableActionEventLog
 
-Invocable Action events capture the calls to Salesforce Invocable Actions.This is particularly useful to monitor actions invoked during Agentforce flows. This object is available in API version 64.0 and later.
+Invocable Action events capture the calls to Salesforce Invocable Actions. This is particularly useful to monitor actions invoked during Agentforce flows. This object is available in API version 64.0 and later.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=object_reference)
 

@@ -5,7 +5,7 @@ topic: solutiontag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.373Z
+lastCollected: 2026-04-07T09:04:49.900Z
 estimatedTokens: 356
 keywords: [SolutionTag, Associates, word, short, phrase, Solution, Calls, Usage]
 ---

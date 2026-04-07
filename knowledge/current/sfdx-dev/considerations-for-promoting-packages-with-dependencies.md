@@ -5,7 +5,7 @@ topic: considerations-for-promoting-packages-with-dependencies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:17.987Z
+lastCollected: 2026-04-07T09:06:12.761Z
 estimatedTokens: 734
 keywords: [Considerations, Promoting, Packages, Dependencies, company, developing, package, dependency, ask, yourself, questions, releasing, new, version, Specifying]
 ---

@@ -5,8 +5,8 @@ topic: apex-reference-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-05T00:23:53.401Z
-estimatedTokens: 4140
+lastCollected: 2026-04-07T09:02:30.202Z
+estimatedTokens: 4331
 namespace: ApexPages
 keywords: [Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements, Salesforce, Platform, server]
 ---
@@ -101,6 +101,8 @@ In API version 51.0 and earlier, Apex Reference information was included in the 
     The Functions namespace provides classes and methods used to invoke and manage Salesforce Functions.
 -   **[ise\_bots\_apex Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_ise_bots_apex.htm)**
     The ise\_bots\_apex namespace provides classes and properties to facilitate dynamic content generation and data handling for menu-driven bot interactions. Create and manage dynamic menu items that adapt to user inputs, context, and underlying object data.
+-   **[IssueCreditMemo Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_issuecreditmemo.htm)**
+    The IssueCreditMemo namespace provides classes to create and apply credit memos against invoices or invoice lines based on dispute adjustments.
 -   **[industriesNlpSvc](atlas.en-us.apexref.meta/apexref/apex_namespace_industriesNlpSvc.htm)**
     Stores the objects used in Industries Einstein Natural Language Processing (NLP) services.
 -   **[IndustriesDigitalLending Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_industriesDigitalLending.htm)**
@@ -116,7 +118,7 @@ In API version 51.0 and earlier, Apex Reference information was included in the 
 -   **[LxScheduler Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_lxscheduler.htm)**
     The LxScheduler namespace provides an interface and classes for integrating Salesforce Scheduler with external calendars.
 -   **[Messaging Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm)**
-    The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.
+    The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.
 -   **[Metadata Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_Metadata.htm)**
     The Metadata namespace provides classes and methods for working with custom metadata in Salesforce
 -   **[PlaceQuote Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_placequote.htm)**
@@ -127,6 +129,8 @@ In API version 51.0 and earlier, Apex Reference information was included in the 
     The Process namespace provides an interface and classes for passing data between your organization and a flow.
 -   **[QuickAction Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_QuickAction.htm)**
     The QuickAction namespace provides classes and methods for quick actions.
+-   **[renew\_assets\_summary Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_renew_assets_summary.htm)**
+    The renew\_assets\_summary namespace provides classes that retrieve details about renewable assets to create renewal opportunities.
 -   **[Reports Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_Reports.htm)**
     The Reports namespace provides classes for accessing the same data as is available in the Salesforce Reports and Dashboards REST API.
 -   **[RevSignaling Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_RevSignaling.htm)**
@@ -137,6 +141,8 @@ In API version 51.0 and earlier, Apex Reference information was included in the 
     Provides objects and methods for handling content in enhanced Messaging channels.
 -   **[RulesAppln Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_rulesappln.htm)**
     The RulesAppln namespace contains output classes that store details about a rules-based application of payments and credits.
+-   **[runtime\_industries\_cpq Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_runtime_industries_cpq.htm)**
+    The runtime\_industries\_cpq namespace provides classes and methods to search products or to manage products, catalogs, and categories.
 -   **[runtime\_industries\_insurance Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_runtime_industries_insurance.htm)**
     The runtime\_industries\_insurance namespace provides options classes for insurance operations, such as creating and updating insurance quotes, generating insurance clauses, and running insurance rating.
 -   **[Schema Namespace](atlas.en-us.apexref.meta/apexref/apex_namespace_Schema.htm)**

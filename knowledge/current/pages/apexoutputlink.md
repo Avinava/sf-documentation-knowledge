@@ -5,7 +5,7 @@ topic: apexoutputlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.836Z
+lastCollected: 2026-04-07T09:04:58.021Z
 estimatedTokens: 1843
 keywords: [apex, outputLink, link, URL, component, rendered, HTML, anchor, tag, href, attribute, equivalent, <apex, outputLink>, text]
 ---

@@ -5,7 +5,7 @@ topic: product-requirement-specification-item-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.998Z
+lastCollected: 2026-04-07T09:04:22.417Z
 estimatedTokens: 504
 keywords: [Product, Requirement, Specification, Item, Output, representation, items, version]
 ---

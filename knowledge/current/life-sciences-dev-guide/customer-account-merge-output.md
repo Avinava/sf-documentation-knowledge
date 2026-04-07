@@ -5,7 +5,7 @@ topic: customer-account-merge-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.842Z
+lastCollected: 2026-04-07T09:04:06.629Z
 estimatedTokens: 201
 keywords: [Customer, Account, Merge, Output, representation, successful, operation]
 ---

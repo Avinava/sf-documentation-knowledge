@@ -5,7 +5,7 @@ topic: enable-voice-call-transfers-using-omni-channel-flows-and-partner-telephon
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.086Z
+lastCollected: 2026-04-07T09:06:18.605Z
 estimatedTokens: 597
 keywords: [Enable, Voice, Call, Transfers, Omni-Channel, Flows, Partner, Telephony, Configure, feature, via, Salesforce]
 ---

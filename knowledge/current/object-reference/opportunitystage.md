@@ -5,7 +5,7 @@ topic: opportunitystage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.627Z
+lastCollected: 2026-04-07T09:04:45.407Z
 estimatedTokens: 946
 keywords: [OpportunityStage, stage, Opportunity, sales, pipeline, New, Lead, Negotiating, Pending, Closed, Calls, Usage]
 ---

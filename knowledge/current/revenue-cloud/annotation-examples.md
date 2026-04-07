@@ -5,7 +5,7 @@ topic: annotation-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:15.747Z
+lastCollected: 2026-04-07T09:01:57.455Z
 estimatedTokens: 844
 keywords: [Annotation, Examples, Constraint, Modeling, Language, CML, annotations, labels, add, parts, model, variables, relationships, constraints, control]
 ---

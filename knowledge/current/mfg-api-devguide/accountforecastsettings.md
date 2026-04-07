@@ -5,7 +5,7 @@ topic: accountforecastsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:55.134Z
+lastCollected: 2026-04-07T09:04:22.601Z
 estimatedTokens: 2595
 keywords: [AccountForecastSettings, settings, define, generation, account, forecasts, their, display, account’s, record, periods, forecast, edited, formula, definitions]
 ---

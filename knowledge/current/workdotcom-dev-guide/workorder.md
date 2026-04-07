@@ -5,7 +5,7 @@ topic: workorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.588Z
+lastCollected: 2026-04-07T09:06:19.363Z
 estimatedTokens: 233
 keywords: [WorkOrder, service, work, performed, customer, Work.com, adds, new, custom, associated, Shift, Manager, facility, plan, API]
 ---

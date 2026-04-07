@@ -1,8 +1,8 @@
 ---
 domain: salesforce-reports-enhanced-reports-tab-tipsheet
 name: Using the Reports Tab
-documentCount: 0
-lastGenerated: 2026-04-05T00:23:55.520Z
+documentCount: 1
+lastGenerated: 2026-04-07T09:06:38.445Z
 ---
 
 # Using the Reports Tab — Knowledge Index
@@ -13,6 +13,7 @@ lastGenerated: 2026-04-05T00:23:55.520Z
 
 | File | Title | Type | Description |
 |---|---|---|---|
+| [reports-tab.md](./reports-tab.md) | Reports Tab | help-article | The Reports tab is the central hub for Salesforce Reports and Dashboards. |
 
 ## How to Use
 

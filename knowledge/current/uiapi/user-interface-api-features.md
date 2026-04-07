@@ -5,8 +5,8 @@ topic: user-interface-api-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:20.044Z
-estimatedTokens: 404
+lastCollected: 2026-04-07T09:06:15.543Z
+estimatedTokens: 408
 keywords: [User, API, Features, work, various, Salesforce]
 ---
 
@@ -18,7 +18,7 @@ keywords: [User, API, Features, work, various, Salesforce]
 
 Learn to use User Interface API to work with various Salesforce features.
 
-Build Salesforce UI for records, actions, and favorites.
+Build Salesforce UI for actions, apps, favorites, list views, and records.
 
 -   **[Work with Records](atlas.en-us.uiapi.meta/uiapi/ui_api_features_records.htm)**
     Use User Interface API to build UI that lets users create, read, update, and delete Salesforce records. Let’s look at two of the trickier aspects of the API: how to work with child relationships, and how to upload binary files to records.

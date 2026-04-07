@@ -5,7 +5,7 @@ topic: lifesciproductacctrstrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:46.490Z
+lastCollected: 2026-04-07T09:04:11.002Z
 estimatedTokens: 821
 keywords: [LifeSciProductAcctRstrc, product, limitations, account, restrictions, help, facilitate, compliance, detailing, sampling, regulations, company, policies, API, version]
 ---

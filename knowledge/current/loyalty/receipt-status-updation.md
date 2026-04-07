@@ -5,7 +5,7 @@ topic: receipt-status-updation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.649Z
+lastCollected: 2026-04-07T09:04:19.307Z
 estimatedTokens: 550
 keywords: [Receipt, Status, Updation, reward, points, transaction, journal, line, item, Resource, HTTP, Input, Sample, Output]
 ---

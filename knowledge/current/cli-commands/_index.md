@@ -1,8 +1,8 @@
 ---
 domain: cli-commands
 name: SF CLI Commands
-documentCount: 27
-lastGenerated: 2026-04-05T00:23:54.669Z
+documentCount: 28
+lastGenerated: 2026-04-07T09:06:34.066Z
 ---
 
 # SF CLI Commands — Knowledge Index
@@ -42,6 +42,7 @@ lastGenerated: 2026-04-05T00:23:54.669Z
 | [sf.md](./sf.md) | sf | release-note | Commands to manage Salesforce DX projects, create and manage scratch orgs and sa |
 | [sobject-commands.md](./sobject-commands.md) | sobject Commands | developer-guide | Display the metadata for a standard or custom object or a Tooling API object. |
 | [template-commands.md](./template-commands.md) | template Commands | api-reference | Generate a simple Analytics template. |
+| [ui-bundle-commands.md](./ui-bundle-commands.md) | ui-bundle Commands | help-article | Preview a UI bundle locally and in real-time, without deploying it to your org. |
 
 ## How to Use
 

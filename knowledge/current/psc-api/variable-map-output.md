@@ -5,7 +5,7 @@ topic: variable-map-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.327Z
+lastCollected: 2026-04-07T09:05:10.061Z
 estimatedTokens: 84
 keywords: [Variable, Map, Output, representation, input, variables, expression, version]
 ---

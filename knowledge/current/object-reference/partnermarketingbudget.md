@@ -5,8 +5,8 @@ topic: partnermarketingbudget
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.319Z
-estimatedTokens: 1242
+lastCollected: 2026-04-07T09:04:46.171Z
+estimatedTokens: 1235
 keywords: [PartnerMarketingBudget, budget, funds, channel, partners, selling, marketing, products, services, API, version, 41.0, later, Calls, Associated]
 ---
 
@@ -32,8 +32,8 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Description | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDescription of the budget. |
 | EndDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDate when the budget is no longer available. |
 | IsIgnoreValidation | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionWhen enabled, ignores restrictions related to the child objects connected to the budget. Note that individual totals for allocation amounts, request amounts, and claims amounts cannot exceed the total of their parent budget. Field is default off (false) on create. Once enabled (true), this field cannot be disabled. This field is available in API version 44.0 and later. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionID of the owner of the budget. |
 | StartDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDate when the budget becomes available. |
 | Title | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionTitle of the budget. |

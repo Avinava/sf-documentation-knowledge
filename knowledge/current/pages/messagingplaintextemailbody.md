@@ -5,7 +5,7 @@ topic: messagingplaintextemailbody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.801Z
+lastCollected: 2026-04-07T09:04:57.981Z
 estimatedTokens: 233
 keywords: [messaging, plainTextEmailBody, plain, text, non-HTML, version, email, Attributes]
 ---

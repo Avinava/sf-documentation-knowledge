@@ -5,7 +5,7 @@ topic: loyalty-clubs-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.090Z
+lastCollected: 2026-04-07T09:04:18.578Z
 estimatedTokens: 1295
 keywords: [Loyalty, Clubs, Data, Model, interest-based, membership, initiatives, designed, provide, exclusive, benefits, privileges, customers]
 ---

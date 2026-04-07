@@ -5,7 +5,7 @@ topic: run-unit-test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.244Z
+lastCollected: 2026-04-07T09:02:33.420Z
 estimatedTokens: 2604
 keywords: [Run, Unit, Test, verify, functionality, Apex, code, execute, tests, Developer, Console, Setup, Salesforce, extensions, Visual]
 ---

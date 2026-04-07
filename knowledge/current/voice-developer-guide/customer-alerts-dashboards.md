@@ -5,7 +5,7 @@ topic: customer-alerts-dashboards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.495Z
+lastCollected: 2026-04-07T09:06:17.679Z
 estimatedTokens: 479
 keywords: [Customer, Alerts, Dashboards, Salesforce, two, CloudWatch, custom, monitor, potential, issues, contact, center, Service, Cloud, Voice]
 ---

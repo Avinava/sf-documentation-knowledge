@@ -5,7 +5,7 @@ topic: billingtreatmentitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.581Z
+lastCollected: 2026-04-07T09:04:35.783Z
 estimatedTokens: 1825
 keywords: [BillingTreatmentItem, billing, treatment, item, how, order, item's, total, amount, distributed, schedules, over, course, lifecycle, Subscription]
 ---

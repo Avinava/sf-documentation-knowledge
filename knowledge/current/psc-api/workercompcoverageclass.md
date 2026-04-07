@@ -5,7 +5,7 @@ topic: workercompcoverageclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.194Z
+lastCollected: 2026-04-07T09:05:15.296Z
 estimatedTokens: 1084
 keywords: [WorkerCompCoverageClass, compensation, coverage, worker, belongs, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

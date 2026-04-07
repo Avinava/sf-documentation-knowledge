@@ -5,8 +5,8 @@ topic: carebenefitverifyrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.232Z
-estimatedTokens: 3433
+lastCollected: 2026-04-07T09:04:09.660Z
+estimatedTokens: 3437
 keywords: [CareBenefitVerifyRequest, verification, benefits, API, version, 53.0, later, Calls, Associated, Objects]
 ---
 
@@ -39,7 +39,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | InitialFillDuration | TypedoublePropertiesFilter, Nillable, SortDescriptionThe initial fill duration of the authorized prescription.This field is available in API version 62.0 and later with the Manage Pharmacy Benefits Verification permission set. |
 | InitialFillQuantity | TypedoublePropertiesFilter, Nillable, SortDescriptionThe initial fill quantity of the authorized prescription.This field is available in API version 62.0 and later with the Manage Pharmacy Benefits Verification permission set. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | MemberPlanId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionIdentifies the member plan that includes the benefit item being verified.This field is a relationship field.Relationship NameMemberPlanRelationship TypeLookupRefers ToMemberPlan |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionThe name of the care benefit verification request. |
 | OriginalPrescriptionId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe original prescription associated with the care benefit verify request.This field is a polymorphic relationship field.This field is available in API version 61.0 and later with the Manage Pharmacy Benefits Verification permission set.Relationship NameOriginalPrescriptionRelationship TypeLookupRefers ToMedicationRequest |
@@ -50,7 +50,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | PriorityCodeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe priority code associated with the care benefit verify request.This field is a relationship field.This field is available in API version 61.0 and later with the Manage Pharmacy Benefits Verification permission set.Relationship NamePriorityCodeRelationship TypeLookupRefers ToCodeSet |
 | ProviderId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe provider of the care benefit verify request.This field is a polymorphic relationship field.This field is available in API version 61.0 and later with the Manage Pharmacy Benefits Verification permission set.Relationship NameProviderRelationship TypeLookupRefers ToAccount, HealthcareProvider |
 | RelatedCareBnftVerifyRequestId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe original care benefit verify request from which the current request is cloned.This field is a relationship field.This field is available in API version 62.0 and later.Relationship NameRelatedCareBnftVerifyRequestRefers ToCareBenefitVerifyRequest |
-| Request | TypetextareaPropertiesNillableDescriptionThe JSON request body sent to an external system for care benefit verification. |
+| Request | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe JSON request body sent to an external system for care benefit verification. |
 | RequestDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionDate of verification request. |
 | RequestedById | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionPerson or organization requesting verification.This field is a relationship field.Relationship NameRequestedByRelationship TypeLookupRefers ToUser |
 | RequesterId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe requester associated with the care benefit verify request.This field is a polymorphic relationship field.This field is available in API version 61.0 and later with the Manage Pharmacy Benefits Verification permission set.Relationship NameRequesterRelationship TypeLookupRefers ToAccount, HealthcareProvider |

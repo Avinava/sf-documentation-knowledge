@@ -5,7 +5,7 @@ topic: sessionhijackingeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.282Z
+lastCollected: 2026-04-07T09:05:06.916Z
 estimatedTokens: 3210
 keywords: [SessionHijackingEventStore, Tracks, unauthorized, users, gain, ownership, Salesforce, user’s, session, stolen, identifier, detect, event, evaluates, how]
 ---

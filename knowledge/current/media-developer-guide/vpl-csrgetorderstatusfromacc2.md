@@ -5,7 +5,7 @@ topic: vpl-csrgetorderstatusfromacc2
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.208Z
+lastCollected: 2026-04-07T09:04:21.296Z
 estimatedTokens: 101
 keywords: [VPL-CSRGetOrderStatusfromAcc2, Omnistudio, Data, Mapper, agent, console, extract, order, status, account, Sample, Input, Output]
 ---

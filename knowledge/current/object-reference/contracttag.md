@@ -5,7 +5,7 @@ topic: contracttag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.351Z
+lastCollected: 2026-04-07T09:04:37.966Z
 estimatedTokens: 356
 keywords: [ContractTag, Associates, word, short, phrase, Contract, Calls, Usage]
 ---

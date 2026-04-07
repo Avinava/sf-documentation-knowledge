@@ -5,7 +5,7 @@ topic: format-dataset-fields-and-field-values-with-xmd
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.767Z
+lastCollected: 2026-04-07T09:03:16.237Z
 estimatedTokens: 806
 keywords: [Dataset, XMD, topics, explore, common, uses, Almost, functionality, now, CRM, Analytics, dashboards, lenses]
 ---

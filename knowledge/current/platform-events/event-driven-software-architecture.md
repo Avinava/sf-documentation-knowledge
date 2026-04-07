@@ -5,8 +5,8 @@ topic: event-driven-software-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.850Z
-estimatedTokens: 732
+lastCollected: 2026-04-07T09:05:05.196Z
+estimatedTokens: 729
 keywords: [Event-Driven, Software, Architecture, message-driven, consists, event, producers, consumers, channels, suitable, large, distributed, systems, because, decouples]
 ---
 
@@ -53,4 +53,4 @@ In comparison, systems in an event-based model obtain information and can react 
 
 Platform event messages are published to the event bus, where they’re stored temporarily. You can retrieve stored event messages from the event bus using Pub/Sub API . Each event message contains the Replay ID field, which identifies the event in the stream and enables replaying the stream after a specific event. For more information, see [Event Message Durability](https://developer.salesforce.com/docs/platform/pub-sub-api/guide/event-message-durability.html) in the Pub/Sub API Developer Guide.
 
-![Event-based software architecture diagram](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fsalesforce_event_bus.png&folder=platform_events)
+![Event-based software architecture diagram](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fsalesforce_event_bus.png&folder=platform_events)

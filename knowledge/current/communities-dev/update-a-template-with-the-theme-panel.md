@@ -5,7 +5,7 @@ topic: update-a-template-with-the-theme-panel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.265Z
+lastCollected: 2026-04-07T09:03:39.681Z
 estimatedTokens: 288
 keywords: [Template, Theme, Panel, Experience, Builder, simplest, way, change, look, Administrators, quickly, style, entire, sites, panels]
 ---

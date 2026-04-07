@@ -5,7 +5,7 @@ topic: workreward
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:19.821Z
+lastCollected: 2026-04-07T09:04:53.107Z
 estimatedTokens: 926
 keywords: [WorkReward, store, reward, codes, tied, Fund, Funds, least, record, Calls, Special, Access, Rules, Additional, Considerations]
 ---
@@ -54,13 +54,13 @@ This object has the following associated objects. Unless noted, they are availab
 
 History is available for tracked fields of the object.
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 [WorkRewardOwnerSharingRule](atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_ownersharingrule.htm "StandardObjectNameOwnerSharingRule is the model for all owner sharing rule objects associated with standard objects. These objects represent a rule for sharing a standard object with users other than the owner.")
 
 Sharing rules are available for the object.
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 [WorkRewardShare](atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 

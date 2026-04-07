@@ -5,7 +5,7 @@ topic: install-trusted-unsigned-plugins-automatically
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.086Z
+lastCollected: 2026-04-07T09:06:14.248Z
 estimatedTokens: 366
 keywords: [Install, Trusted, Unsigned, Plugins, Automatically, plugin, command, Salesforce, CLI, verifies, digital, installs, Otherwise, doesn't, until]
 ---

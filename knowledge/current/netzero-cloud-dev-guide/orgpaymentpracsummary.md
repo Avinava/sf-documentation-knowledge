@@ -5,7 +5,7 @@ topic: orgpaymentpracsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.567Z
+lastCollected: 2026-04-07T09:04:28.445Z
 estimatedTokens: 2014
 keywords: [OrgPaymentPracSummary, payment, practice, external, parties, organization, discloses, part, ESRS, Business, conduct, API, version, 65.0, later]
 ---

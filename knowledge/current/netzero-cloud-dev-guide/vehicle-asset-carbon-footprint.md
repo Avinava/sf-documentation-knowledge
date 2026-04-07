@@ -5,7 +5,7 @@ topic: vehicle-asset-carbon-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.810Z
+lastCollected: 2026-04-07T09:04:26.375Z
 estimatedTokens: 1973
 keywords: [Vehicle, Asset, Carbon, Footprint, total, emissions, vehicles, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide]
 ---

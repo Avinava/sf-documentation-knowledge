@@ -5,7 +5,7 @@ topic: using-the-streaming-api-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.295Z
+lastCollected: 2026-04-07T09:05:04.239Z
 estimatedTokens: 307
 keywords: [Streaming, API, Event, Canvas, SDK, sfdc.streamingapi, lets, define, app, associate, channel, subscribe, receive, notifications]
 ---

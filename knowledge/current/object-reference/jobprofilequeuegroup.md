@@ -5,7 +5,7 @@ topic: jobprofilequeuegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.382Z
+lastCollected: 2026-04-07T09:04:42.719Z
 estimatedTokens: 541
 keywords: [JobProfileQueueGroup, mapping, Queue, JobProfile, configurations, capacity, plans, Workforce, Engagement, API, version, 53.0, later, Calls, Special]
 ---

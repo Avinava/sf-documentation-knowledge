@@ -5,7 +5,7 @@ topic: globalvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.278Z
+lastCollected: 2026-04-07T09:02:41.128Z
 estimatedTokens: 706
 keywords: [GlobalValueSet, metadata, picklist, shared, custom, isn’t, itself, contrast, ValueSet, extends, inherits, fullName, File, Suffix, Directory]
 ---

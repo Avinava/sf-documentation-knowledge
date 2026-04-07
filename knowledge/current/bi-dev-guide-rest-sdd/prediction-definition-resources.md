@@ -5,7 +5,7 @@ topic: prediction-definition-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:05.444Z
+lastCollected: 2026-04-07T09:03:12.556Z
 estimatedTokens: 1114
 keywords: [Prediction, Definition, Resources, model, trying, predict, Salesforce, entity, associated, unique, certain, attributes, modified]
 ---

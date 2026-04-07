@@ -5,7 +5,7 @@ topic: getting-started
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:30.105Z
+lastCollected: 2026-04-07T09:02:07.007Z
 estimatedTokens: 1124
 keywords: [Getting, Started, understand, prerequisites, Data, Cloud, API, libraries, SDKs, Familiarize, Yourself, Sources, Connected, App, Acquire]
 ---

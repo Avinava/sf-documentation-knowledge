@@ -5,8 +5,8 @@ topic: products-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.089Z
-estimatedTokens: 1361
+lastCollected: 2026-04-07T09:03:39.259Z
+estimatedTokens: 1411
 keywords: [Products, POST, catalog, category, subcategory, API, composite, Product, Discovery]
 ---
 
@@ -33,7 +33,7 @@ Resource example
 
 Available version
 
-60.0
+66.0
 
 HTTP methods
 
@@ -78,20 +78,20 @@ Properties
 
 Response body for POST
 
-CPQ Base List
+[CPQ Base List](atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_cpq_base_list_output.htm "Output representation of the list of catalogs, categories, or products based on the request.")
 
 ## Code Examples
 
 ```
-/connect/cpq/products
+/connect/consumer/products
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products
+https://yourInstance.salesforce.com/services/data/v66.0/connect/consumer/products
 ```
 
 ```
-{
+"productListRequest": {
   "correlationId": "eeaa1db2-f371-4227-a886-c77e2f66ce1d",
   "limit": 60,
   "cursor": "MTAwMDAwMDAwNg==",
@@ -154,3 +154,15 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products
   }
 }
 ```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_additional_fields_input.htm)
+- Filter
+                      Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_filter_input.htm)
+- Related
+                        Object Filter Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_related_object_filter_input.htm)
+- User Context Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_user_context_input.htm)
+- CPQ Base List (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_cpq_base_list_output.htm)

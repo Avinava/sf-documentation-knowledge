@@ -5,7 +5,7 @@ topic: onchattransferredout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.442Z
+lastCollected: 2026-04-07T09:03:04.297Z
 estimatedTokens: 197
 keywords: [onChatTransferredOut, Registers, function, call, engaged, chat, transferred, another, agent, API, version, 29.0, later, Arguments, Sample]
 ---

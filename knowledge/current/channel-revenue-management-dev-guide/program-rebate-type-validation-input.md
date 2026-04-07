@@ -5,7 +5,7 @@ topic: program-rebate-type-validation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.878Z
+lastCollected: 2026-04-07T09:03:19.071Z
 estimatedTokens: 105
 keywords: [Program, Rebate, Validation, Input, initiate, type's, setup, configuration]
 ---

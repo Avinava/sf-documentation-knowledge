@@ -5,7 +5,7 @@ topic: identity-verification-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.559Z
+lastCollected: 2026-04-07T09:05:10.500Z
 estimatedTokens: 244
 keywords: [Identity, Verification, Data, Model, configuring, process, verify, caller, their, requests, processed, call, center, agent]
 ---

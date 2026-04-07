@@ -5,7 +5,7 @@ topic: handling-bubbled-or-captured-application-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.831Z
+lastCollected: 2026-04-07T09:04:13.932Z
 estimatedTokens: 989
 keywords: [Handling, Bubbled, Captured, Application, Events, Event, propagation, rules, determine, components, containment, hierarchy, handle, bubble, capture]
 ---

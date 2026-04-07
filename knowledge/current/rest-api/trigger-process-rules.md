@@ -5,7 +5,7 @@ topic: trigger-process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.422Z
+lastCollected: 2026-04-07T09:02:34.709Z
 estimatedTokens: 156
 keywords: [Trigger, Process, Rules, resource, associated, evaluated, regardless, evaluation, criteria, IDs, records, Triggers, active, workflow, REST]
 ---

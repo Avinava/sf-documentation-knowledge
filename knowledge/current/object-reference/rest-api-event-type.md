@@ -5,7 +5,7 @@ topic: rest-api-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:09.579Z
+lastCollected: 2026-04-07T09:04:40.671Z
 estimatedTokens: 2049
 keywords: [REST, API, Event, events, contain, REST-specific, requests]
 ---

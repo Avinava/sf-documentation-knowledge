@@ -5,7 +5,7 @@ topic: record-count-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:41.483Z
+lastCollected: 2026-04-07T09:02:36.398Z
 estimatedTokens: 176
 keywords: [Record, Count, result, Results, sObject]
 ---

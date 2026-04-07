@@ -5,7 +5,7 @@ topic: performance-tuning-for-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.573Z
+lastCollected: 2026-04-07T09:05:00.638Z
 estimatedTokens: 337
 keywords: [Performance, Tuning, Visualforce, Pages, aspect, mobile, caching, mechanism, help, tune, Resources]
 ---

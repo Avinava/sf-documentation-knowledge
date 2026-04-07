@@ -6,7 +6,7 @@ topic: what-is-salesforce-lightning
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.037Z
+lastCollected: 2026-04-07T09:04:14.216Z
 estimatedTokens: 400
 keywords: [Salesforce, Lightning, includes, Component, Framework, exciting, tools, developers, easier, build, responsive, applications, any, device]
 ---

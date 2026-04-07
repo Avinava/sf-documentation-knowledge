@@ -5,7 +5,7 @@ topic: chasitoraddcustomeventlistener
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:52.872Z
+lastCollected: 2026-04-07T09:03:02.791Z
 estimatedTokens: 330
 keywords: [chasitor.addCustomEventListener, Registers, function, call, custom, event, received, chat, window, API, version, 29.0, later, Arguments, Sample]
 ---

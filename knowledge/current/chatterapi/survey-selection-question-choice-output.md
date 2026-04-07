@@ -5,7 +5,7 @@ topic: survey-selection-question-choice-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:21.289Z
+lastCollected: 2026-04-07T09:03:36.207Z
 estimatedTokens: 143
 keywords: [Survey, Selection, Question, Choice, Output, rating, multiple, question’s]
 ---

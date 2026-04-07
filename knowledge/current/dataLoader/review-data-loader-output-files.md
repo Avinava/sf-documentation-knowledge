@@ -5,7 +5,7 @@ topic: review-data-loader-output-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.345Z
+lastCollected: 2026-04-07T09:03:41.364Z
 estimatedTokens: 420
 keywords: [Review, Data, Loader, Output, Files, import, export, generates, two, CSV, contain, results, operation, file, begins]
 ---

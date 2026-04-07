@@ -5,7 +5,7 @@ topic: taxengines-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.198Z
+lastCollected: 2026-04-07T09:03:16.869Z
 estimatedTokens: 674
 keywords: [TaxEngines, tax, engine, implements, calculating, clearing, in-memory, entities, previous, call, legal, references, resetSObjectListofIds, resetLegalEntityReferences, calculateTax]
 ---

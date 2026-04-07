@@ -5,7 +5,7 @@ topic: use-images-uploaded-as-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.063Z
+lastCollected: 2026-04-07T09:04:25.367Z
 estimatedTokens: 789
 keywords: [Images, Uploaded, Resources, packaging, stylesheets, JavaScript, files, Lightning, web, components, Salesforce, customization, features]
 ---

@@ -5,7 +5,7 @@ topic: secure-coding-cross-site-scripting
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.476Z
+lastCollected: 2026-04-07T09:05:28.059Z
 estimatedTokens: 14196
 keywords: [Secure, Coding, Cross, Site, Scripting, Cross-site, XSS, prevalent, security, threat, attackers, inject, malicious, scripts, web]
 ---

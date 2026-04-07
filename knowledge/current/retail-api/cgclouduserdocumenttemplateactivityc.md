@@ -5,7 +5,7 @@ topic: cgclouduserdocumenttemplateactivityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.359Z
+lastCollected: 2026-04-07T09:05:21.996Z
 estimatedTokens: 1046
 keywords: [Stores, relationship, daily, report, template, user, activity, API, version, 54.0, later, cgcloud, _User, _Document, _Template]
 ---

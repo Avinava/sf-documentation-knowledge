@@ -5,7 +5,7 @@ topic: understand-apex-behavior-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.394Z
+lastCollected: 2026-04-07T09:04:24.424Z
 estimatedTokens: 598
 keywords: [Understand, Apex, Behavior, Offline, Additional, features, built, offline-enabled, apps, allow, app, including, Lightning, web, components]
 ---

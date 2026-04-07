@@ -7,7 +7,7 @@ topic: create-an-external-client-app-for-apple-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:35.682Z
+lastCollected: 2026-04-07T09:05:15.944Z
 estimatedTokens: 669
 keywords: [External, Client, App, Apple, iOS, Connected, apps, creation, restricted, Spring, ‘26, continue, However, recommend, instead]
 ---

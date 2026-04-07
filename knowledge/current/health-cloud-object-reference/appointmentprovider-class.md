@@ -5,7 +5,7 @@ topic: appointmentprovider-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.268Z
+lastCollected: 2026-04-07T09:03:51.760Z
 estimatedTokens: 1147
 keywords: [AppointmentProvider, additional, care, provider, appointment, appointmentTypeCode, careProviderId, npi, practitionerFacilityId, serviceTypeCode, sourceFacilityId, sourcePractitionerId, sourceSystem]
 ---

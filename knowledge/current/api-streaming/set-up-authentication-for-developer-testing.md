@@ -5,7 +5,7 @@ topic: set-up-authentication-for-developer-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.179Z
+lastCollected: 2026-04-07T09:03:04.877Z
 estimatedTokens: 265
 keywords: [Authentication, Developer, Testing, authorization, simple, recommended, code, quickly, However, recommend, OAuth, 2.0, production, environment, robust]
 ---

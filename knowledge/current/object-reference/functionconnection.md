@@ -5,7 +5,7 @@ topic: functionconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.877Z
+lastCollected: 2026-04-07T09:04:42.190Z
 estimatedTokens: 514
 keywords: [FunctionConnection, connection, org, Salesforce, Functions, API, version, 52.0, later, Calls, Usage]
 ---

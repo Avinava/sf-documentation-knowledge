@@ -5,7 +5,7 @@ topic: package-and-package-version-object-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.208Z
+lastCollected: 2026-04-07T09:05:02.837Z
 estimatedTokens: 527
 keywords: [Package, Version, License, Management, App, LMA, includes, custom, objects, display, 1GP, 2GP, you’ve, listed, AppExchange]
 ---

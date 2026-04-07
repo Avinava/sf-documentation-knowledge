@@ -5,7 +5,7 @@ topic: voicecallrecording
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:19.251Z
+lastCollected: 2026-04-07T09:04:52.398Z
 estimatedTokens: 1122
 keywords: [VoiceCallRecording, call, recording, Service, Cloud, Voice, Sales, Dialer, recordings, Amazon, Connect, Partner, Telephony, stored, buckets]
 ---

@@ -5,7 +5,7 @@ topic: site-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.251Z
+lastCollected: 2026-04-07T09:02:18.759Z
 estimatedTokens: 13703
 namespace: System
 keywords: [Site, Creates, Salesforce, Experience, Cloud, user, account, associates, changePassword, newPassword, verifyNewPassword, oldPassword, Usage, createExternalUser, accountId]

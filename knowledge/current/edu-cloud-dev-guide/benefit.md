@@ -5,7 +5,7 @@ topic: benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.955Z
+lastCollected: 2026-04-07T09:03:43.685Z
 estimatedTokens: 270
 keywords: [Benefit, benefits, associated, program, API, version, 57.0, later, Calls]
 ---

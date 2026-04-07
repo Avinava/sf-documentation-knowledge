@@ -5,8 +5,8 @@ topic: claim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.704Z
-estimatedTokens: 2233
+lastCollected: 2026-04-07T09:03:48.837Z
+estimatedTokens: 2231
 keywords: [Claim, claims, life, auto, home, Calls, Associated, Objects]
 ---
 
@@ -31,7 +31,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | ApprovedAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe amount that was approved for the repair of damages based on an agent's inspection. |
 | AssessmentDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date on which the claim was officially assessed. |
 | CaseId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the case that created the claim. |
-| ClaimLossDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date and time when the incident took place.Available in API version 66.0 and later. |
+| ClaimLossDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date on which the incident took place.Available in API version 66.0 and later. |
 | ClaimReason | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reason for initiating the claim. |
 | ClaimReasonType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe category that the claim reason belongs to. For example, natural disaster, accident. |
 | ClaimType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of the claim. For example, home, auto, annuity, life, or workers’ compensation. |

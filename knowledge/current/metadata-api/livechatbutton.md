@@ -5,7 +5,7 @@ topic: livechatbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.953Z
+lastCollected: 2026-04-07T09:02:41.800Z
 estimatedTokens: 2079
 keywords: [LiveChatButton, Chat, deployment’s, settings, button, customers, click, agent, window, label, appears, pre-chat, form, begins, extends]
 ---

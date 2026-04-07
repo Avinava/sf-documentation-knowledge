@@ -5,7 +5,7 @@ topic: add-a-loyalty-program-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.201Z
+lastCollected: 2026-04-07T09:04:18.791Z
 estimatedTokens: 260
 keywords: [Add, Loyalty, Program, Management, Receipt, Scanner, Kit, unlocked, package, custom, label, store]
 ---

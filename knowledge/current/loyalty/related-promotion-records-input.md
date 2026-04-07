@@ -5,7 +5,7 @@ topic: related-promotion-records-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.998Z
+lastCollected: 2026-04-07T09:04:17.167Z
 estimatedTokens: 170
 keywords: [Promotion, Records, Input, representation, decides, cloned, associated, new]
 ---
@@ -23,4 +23,4 @@ Properties
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | relatedObject​ApiName | String | API name of the promotion's related object whose records associated with the existing promotion must be cloned for the new promotion. | Small, 61.0 | 61.0 |
-| relatedObject​PromotionFieldName | String | The name of the Promotion field in the related object whose record has to be cloned and associated with the new promotion. | Small, 61.0 | 61.0 |
+| relatedObject​Promotion​FieldName | String | The name of the Promotion field in the related object whose record has to be cloned and associated with the new promotion. | Small, 61.0 | 61.0 |

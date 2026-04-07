@@ -5,7 +5,7 @@ topic: vpls360csr-formatproductlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.287Z
+lastCollected: 2026-04-07T09:04:21.450Z
 estimatedTokens: 116
 keywords: [vpls360Csr-FormatProductList, Omnistudio, Data, Mapper, agent, console, transform, product, change, base, pack, flow, Sample, Input, Output]
 ---

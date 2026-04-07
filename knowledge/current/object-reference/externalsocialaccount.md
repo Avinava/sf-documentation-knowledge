@@ -5,7 +5,7 @@ topic: externalsocialaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.951Z
+lastCollected: 2026-04-07T09:04:41.123Z
 estimatedTokens: 1026
 keywords: [ExternalSocialAccount, managed, social, media, account, network, Facebook, Twitter, API, version, 29.0, later, Calls, Usage]
 ---

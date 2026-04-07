@@ -5,7 +5,7 @@ topic: field-history-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:45.235Z
+lastCollected: 2026-04-07T09:05:29.171Z
 estimatedTokens: 2539
 keywords: [History, Tracking, select, certain, track, show, Audit, Trail, turned, off, Salesforce, retains, data, months, via]
 ---

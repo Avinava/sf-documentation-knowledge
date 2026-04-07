@@ -5,7 +5,7 @@ topic: action-link-group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.531Z
+lastCollected: 2026-04-07T09:03:24.462Z
 estimatedTokens: 280
 keywords: [Action, Link, Group, including, state, context, user]
 ---

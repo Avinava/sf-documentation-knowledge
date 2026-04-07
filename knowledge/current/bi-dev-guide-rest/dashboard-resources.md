@@ -5,7 +5,7 @@ topic: dashboard-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.609Z
+lastCollected: 2026-04-07T09:03:09.528Z
 estimatedTokens: 1115
 keywords: [Dashboard, Resources, Analytics, dashboards, allow, users, continuously, monitor, key, metrics, their, business, manage, collections, individual]
 ---

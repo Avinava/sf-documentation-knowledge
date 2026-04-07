@@ -5,7 +5,7 @@ topic: custom-domains
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.866Z
+lastCollected: 2026-04-07T09:03:26.249Z
 estimatedTokens: 151
 keywords: [Custom, Domains, org, domain, own, https, www.example.com, serves, content, Experience, Cloud, sites, Salesforce]
 ---

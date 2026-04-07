@@ -5,7 +5,7 @@ topic: develop-app-documentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.730Z
+lastCollected: 2026-04-07T09:05:00.871Z
 estimatedTokens: 326
 keywords: [Develop, App, Documentation, help, subscribers, provide, how, configure, customize]
 ---

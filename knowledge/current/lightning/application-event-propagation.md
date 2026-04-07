@@ -5,7 +5,7 @@ topic: application-event-propagation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.835Z
+lastCollected: 2026-04-07T09:04:13.938Z
 estimatedTokens: 1175
 keywords: [Application, Event, Propagation, framework, supports, capture, bubble, phases, events, similar, DOM, handling, patterns, provide, opportunity]
 ---

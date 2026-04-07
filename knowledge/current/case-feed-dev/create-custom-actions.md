@@ -5,7 +5,7 @@ topic: create-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.311Z
+lastCollected: 2026-04-07T09:03:18.136Z
 estimatedTokens: 1220
 keywords: [Custom, Actions, Visualforce, pages, Case, Feed, Map, Local, Search, action, lets, agents, look, customer’s, location]
 ---

@@ -5,7 +5,7 @@ topic: attach-a-policy-to-the-iam-role
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.260Z
+lastCollected: 2026-04-07T09:04:18.874Z
 estimatedTokens: 509
 keywords: [Attach, Policy, IAM, Role, Identity, Access, Management, bucket, Policies, define, actions, roles, users]
 ---

@@ -5,8 +5,8 @@ topic: install-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:19.166Z
-estimatedTokens: 3952
+lastCollected: 2026-04-07T09:06:14.321Z
+estimatedTokens: 3950
 keywords: [Install, Salesforce, CLI, computer, operating, system-specific, artifacts, pkg, macOS, TAR, files, npm, Windows, File, Older]
 ---
 
@@ -38,8 +38,8 @@ Choose one method to install on your computer. For example, don’t install on m
 
 Install Salesforce CLI on macOS with a .pkg file.
 
-1.  Open the [Salesforce CLI download page](https://developer.salesforce.com/tools/salesforcecli) in your browser and click **macOS**.
-2.  Click the download button that applies to the processor of your macOS computer.
+1.  Open the [Salesforce CLI download page](https://developer.salesforce.com/tools/salesforcecli) in your browser.
+2.  Under **macOS**, click the download link that applies to the processor of your macOS computer.
 
     For example, if your processor is Apple Silicon, click **Download for macOS (Apple Silicon)**, which downloads an sf-arm64.pkg file.
 
@@ -57,8 +57,8 @@ Install Salesforce CLI on macOS with a .pkg file.
 
 Install Salesforce CLI on Windows with an .exe file.
 
-1.  Open the [Salesforce CLI download page](https://developer.salesforce.com/tools/salesforcecli) in your browser and click **Windows**.
-2.  Click the download button that applies to the architecture of your Windows computer.
+1.  Open the [Salesforce CLI download page](https://developer.salesforce.com/tools/salesforcecli) in your browser.
+2.  Under **Windows**, click the download link that applies to the architecture of your Windows computer.
 
     For example, if you're using a 64-bit version of the Windows operating system that's built for the x86-64 architecture, click **Download for Windows x64**, which downloads an sf-x64.exe file.
 

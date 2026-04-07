@@ -5,7 +5,7 @@ topic: declaring-a-remote-method-with-interface-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.781Z
+lastCollected: 2026-04-07T09:04:59.430Z
 estimatedTokens: 443
 namespace: RemoteController
 keywords: [Declaring, Remote, declare, @RemoteAction, instead, restricted, concrete, classes, package, provider, associated, subscriber, orgs, call, Visualforce]

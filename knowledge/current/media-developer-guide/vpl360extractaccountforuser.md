@@ -5,7 +5,7 @@ topic: vpl360extractaccountforuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.862Z
+lastCollected: 2026-04-07T09:04:20.788Z
 estimatedTokens: 149
 keywords: [VPL360_ExtractAccountForUser, Integration, Procedure, fetches, account, address, payment, case, user, VPL360, _ExtractAccountForUser, Sample, Input, Output, Calls]
 ---

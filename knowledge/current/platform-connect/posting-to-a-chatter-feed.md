@@ -5,7 +5,7 @@ topic: posting-to-a-chatter-feed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.345Z
+lastCollected: 2026-04-07T09:05:04.326Z
 estimatedTokens: 196
 keywords: [Posting, Chatter, Feed, code, call, post, item, context, user’s]
 ---

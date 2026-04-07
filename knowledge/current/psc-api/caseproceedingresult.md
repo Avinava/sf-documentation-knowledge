@@ -5,7 +5,7 @@ topic: caseproceedingresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.462Z
+lastCollected: 2026-04-07T09:05:13.248Z
 estimatedTokens: 310
 keywords: [CaseProceedingResult, outcome, legal, case, participant, API, version, 58.0, later]
 ---

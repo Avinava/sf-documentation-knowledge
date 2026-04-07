@@ -5,7 +5,7 @@ topic: analyticsvizfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:47.043Z
+lastCollected: 2026-04-07T09:05:31.718Z
 estimatedTokens: 423
 keywords: [AnalyticsVizField, Tableau, viusalization, API, version, 65.0, later]
 ---

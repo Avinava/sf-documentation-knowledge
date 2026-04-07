@@ -5,7 +5,7 @@ topic: wkfslshiftacceptnotificationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.578Z
+lastCollected: 2026-04-07T09:06:19.348Z
 estimatedTokens: 314
 keywords: [wkfsl__ShiftAcceptNotification__c, helper, ensure, employees, don’t, receive, mobile, app, notification, they, assigned, service, appointment, installed, part]
 ---

@@ -5,9 +5,9 @@ topic: partypublication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.088Z
-estimatedTokens: 1252
-keywords: [PartyPublication, party's, publication, Calls, Associated, Objects, API, version, 62.0, later]
+lastCollected: 2026-04-07T09:04:08.330Z
+estimatedTokens: 1386
+keywords: [PartyPublication, party's, publication, Calls, Associated, Objects]
 ---
 
 # PartyPublication
@@ -26,20 +26,20 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 | Field | Details |
 | --- | --- |
-| CitationCount | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe number of citations the publication has. |
-| ImpactFactor | TypedoublePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe number of times the publication is listed. |
+| CitationCount | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe number of citations the publication has. This field is available in Account Management feature in API version 65.0 and later. |
+| ImpactFactor | TypedoublePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe number of times the publication is listed. This field is available in Account Management feature in API version 65.0 and later. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last referenced a record related to this record. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
-| ListingPlatformType | TypemultipicklistPropertiesCreate, Filter, Nillable, UpdateDescriptionThe listing platform the publication is listed on. |
+| ListingPlatformType | TypemultipicklistPropertiesCreate, Filter, Nillable, UpdateDescriptionThe listing platform the publication is listed on. This field is available in Account Management feature in API version 65.0 and later. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionThe name of the party publication. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record.This field is a polymorphic relationship field.Relationship NameOwnerRefers ToGroup, User |
 | PartyId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe ID associated with party publication.This field is a polymorphic relationship field.Relationship NamePartyRefers ToAccount, HealthcareProvider, Individual |
-| PartyRoleType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe role of the author of the publication. Examples include the primary or secondary author. |
-| PublicationCategory | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe publication category of where the publication was published. |
-| PublicationDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date of publication. |
+| PartyRoleType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe role of the author of the publication. Examples include the primary or secondary author. This field is available in Account Management feature in API version 65.0 and later. |
+| PublicationCategory | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe publication category of where the publication was published. This field is available in Account Management feature in API version 65.0 and later. |
+| PublicationDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date from which the publication is available. |
 | PublicationIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe external ID associated with the publication. |
 | PublishedOn | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe source where the publication was published, if it appears in multiple journals. |
-| Status | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThat status of the publication. |
+| Status | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThat status of the publication. This field is available in Account Management feature in API version 65.0 and later. |
 | Summary | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe summary of the publication. |
 | Title | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe full title of the publication. |
 | Url | TypeurlPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe link or URL to the publication. |

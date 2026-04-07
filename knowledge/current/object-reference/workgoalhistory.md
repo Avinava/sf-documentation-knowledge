@@ -5,7 +5,7 @@ topic: workgoalhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.656Z
+lastCollected: 2026-04-07T09:04:52.917Z
 estimatedTokens: 360
 keywords: [WorkGoalHistory, history, changes, WorkGoal, Access, read-only, deprecated, API, version, 35.0, GoalHistory, query, historical, WDC, goals]
 ---
@@ -24,7 +24,7 @@ Represents the history of changes to the values in the fields of a WorkGoal. Acc
 
 #### Note
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 ## Supported Calls
 

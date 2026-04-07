@@ -5,7 +5,7 @@ topic: engagement-signal-metric-collection-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.563Z
+lastCollected: 2026-04-07T09:03:21.393Z
 estimatedTokens: 81
 keywords: [Engagement, Signal, Metric, Collection, Input, wrapper, inputs]
 ---

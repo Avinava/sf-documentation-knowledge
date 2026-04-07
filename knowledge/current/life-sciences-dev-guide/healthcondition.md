@@ -5,8 +5,8 @@ topic: healthcondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.280Z
-estimatedTokens: 2356
+lastCollected: 2026-04-07T09:04:07.228Z
+estimatedTokens: 2280
 keywords: [HealthCondition, clinical, condition, problem, any, clinically, relevant, occurrence, matter, concern, API, version, 51.0, later, Calls]
 ---
 
@@ -84,12 +84,8 @@ Sharing rules are available for the object.
 
 Sharing is available for the object.
 
--   **[HealthConditionDetail](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_healthconditiondetail.htm)**
-    This child object is used to associate body site and laterality codes to HealthCondition records. This object is available in API version 52.0 and later.
-
 ## Related Topics
 
 - HealthConditionChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
 - HealthConditionOwnerSharingRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_ownersharingrule.htm)
 - HealthConditionShare (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm)
-- HealthConditionDetail (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_healthconditiondetail.htm)

@@ -5,7 +5,7 @@ topic: use-managed-packages-to-develop-your-appexchange-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.930Z
+lastCollected: 2026-04-07T09:04:54.988Z
 estimatedTokens: 444
 keywords: [Managed, Packages, Develop, AppExchange, Solution, tool, Salesforce, partners, business, apps, distribute, their, customers, via, suite]
 ---

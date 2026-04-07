@@ -5,7 +5,7 @@ topic: salesforce-security-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.807Z
+lastCollected: 2026-04-07T09:05:28.525Z
 estimatedTokens: 605
 keywords: [Salesforce, Security, Basics, features, help, empower, users, their, jobs, safely, efficiently, limits, exposure, data, act]
 ---

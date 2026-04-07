@@ -5,7 +5,7 @@ topic: payment-scheduler-update-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.506Z
+lastCollected: 2026-04-07T09:01:58.601Z
 estimatedTokens: 141
 keywords: [Payment, Scheduler, Input, representation, status, Active, Canceled, Draft, Inactive]
 ---

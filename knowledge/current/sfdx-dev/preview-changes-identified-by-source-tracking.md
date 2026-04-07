@@ -5,7 +5,7 @@ topic: preview-changes-identified-by-source-tracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.664Z
+lastCollected: 2026-04-07T09:06:13.634Z
 estimatedTokens: 647
 keywords: [Preview, Changes, Identified, Source, Tracking, local, project, target, org, navigate, directory, want, run, commands, display]
 ---

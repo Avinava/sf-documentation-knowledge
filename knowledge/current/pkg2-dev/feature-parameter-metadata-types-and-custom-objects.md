@@ -5,7 +5,7 @@ topic: feature-parameter-metadata-types-and-custom-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.056Z
+lastCollected: 2026-04-07T09:05:03.836Z
 estimatedTokens: 649
 keywords: [Feature, Metadata, Custom, Objects, represented, API, package, records, LMO, hidden, subscriber’s, org, Lifecycle]
 ---

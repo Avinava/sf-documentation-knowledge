@@ -5,8 +5,8 @@ topic: install-the-loyalty-management-receipt-scanner-kit-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.270Z
-estimatedTokens: 314
+lastCollected: 2026-04-07T09:04:18.893Z
+estimatedTokens: 318
 keywords: [Install, Loyalty, Management, Receipt, Scanner, Kit, Unlocked, Package, org, program, members, upload, their, purchase, receipts]
 ---
 
@@ -24,7 +24,7 @@ Install the Loyalty Management Receipt Scanner Kit unlocked package in the org t
 | --- |
 
 
-1.  From your loyalty org, click [Loyalty Management Receipt Scanner Kit Unlocked Package](http://industries.force.com/loyaltyreceiptscanning).
+1.  From your loyalty org, click [Loyalty Management Receipt Scanner Kit Unlocked Package](https://sf-industries.my.salesforce-sites.com/loyaltyreceiptscanning).
 2.  Enter your Salesforce credentials.
 3.  Select the audience for your package.
 4.  Click **Install**.

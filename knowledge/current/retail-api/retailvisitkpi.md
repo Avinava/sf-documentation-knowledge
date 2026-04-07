@@ -5,7 +5,7 @@ topic: retailvisitkpi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.740Z
+lastCollected: 2026-04-07T09:05:22.432Z
 estimatedTokens: 1650
 keywords: [RetailVisitKpi, Capture, actual, visit, against, defined, assessment, indicator, definition, target, API, version, 47.0, later, Calls]
 ---

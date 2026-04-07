@@ -5,7 +5,7 @@ topic: programrebatetypepayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.586Z
+lastCollected: 2026-04-07T09:03:19.952Z
 estimatedTokens: 391
 keywords: [ProgramRebateTypePayout, payout, member, particular, rebate, volume, Jan'19, ABC, enterprises, $560, petrol, engine, $440, API, version]
 ---

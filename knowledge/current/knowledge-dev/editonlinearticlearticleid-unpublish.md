@@ -5,7 +5,7 @@ topic: editonlinearticlearticleid-unpublish
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.411Z
+lastCollected: 2026-04-07T09:04:04.500Z
 estimatedTokens: 107
 keywords: [editOnlineArticle, articleId, unpublish, Creates, draft, article, online, version, new, primary, unpublishes]
 ---

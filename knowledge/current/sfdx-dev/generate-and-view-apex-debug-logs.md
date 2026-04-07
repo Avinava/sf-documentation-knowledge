@@ -5,7 +5,7 @@ topic: generate-and-view-apex-debug-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.244Z
+lastCollected: 2026-04-07T09:06:13.105Z
 estimatedTokens: 300
 keywords: [Generate, View, Apex, Debug, Logs, record, database, operations, system, processes, errors, occur, executing, transaction, running]
 ---

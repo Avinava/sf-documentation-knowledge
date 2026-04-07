@@ -5,7 +5,7 @@ topic: sample-cross-object-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.369Z
+lastCollected: 2026-04-07T09:06:17.465Z
 estimatedTokens: 1092
 keywords: [Sample, Cross, Validation, Rules, Examples, three, opportunity, products, Discounts, Range, Prevent, Changing, Closed, Opportunities, Saving]
 ---

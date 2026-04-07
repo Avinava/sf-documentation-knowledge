@@ -5,8 +5,8 @@ topic: standard-objects-for-retail-execution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:40.674Z
-estimatedTokens: 2437
+lastCollected: 2026-04-07T09:05:22.355Z
+estimatedTokens: 2567
 keywords: [Standard, Objects, Retail, Execution, consumer, goods, data, model, support]
 ---
 
@@ -71,6 +71,10 @@ The consumer goods data model provides objects and fields to support retail exec
     Map store groups to assessment indicator definition, products, and in-store location categories and define targets. Targets are the expected compliance values for each assessment indicator definition, which is a parameter based on which markers of compliance are decided for a task. This object is available in API version 47.0 and later.
 -   **[RetailVisitKpi](atlas.en-us.retail_api.meta/retail_api/sforce_api_objects_retailvisitkpi.htm)**
     Capture the actual information during a visit against the defined assessment indicator definition and target values. This object is available in API version 47.0 and later.
+-   **[SignatureTask](atlas.en-us.retail_api.meta/retail_api/sforce_api_objects_signaturetask.htm)**
+    Represents the signature-related information that a visitor captures as part of a visit. This object is available in API version 50.0 and later.
+-   **[SignatureTaskLineItem](atlas.en-us.retail_api.meta/retail_api/sforce_api_objects_signaturetasklineitem.htm)**
+    Represents a junction between a signature task and a digital signature captured in a visit. This object is available in API version 50.0 and later.
 -   **[StoreActionPlanTemplate](atlas.en-us.retail_api.meta/retail_api/sforce_api_objects_storeactionplantemplate.htm)**
     Associate an action plan template with a store. This object is available in API version 48.0 and later.
 -   **[StoreAssortment](atlas.en-us.retail_api.meta/retail_api/sforce_api_objects_store_assortment.htm)**

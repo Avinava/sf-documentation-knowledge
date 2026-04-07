@@ -5,7 +5,7 @@ topic: create-service-territories
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.979Z
+lastCollected: 2026-04-07T09:05:27.346Z
 estimatedTokens: 190
 keywords: [Service, Territories, branch, locations, represent, call, center, organize, resources, ensure, assigned, appointments, near, home]
 ---

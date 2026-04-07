@@ -5,7 +5,7 @@ topic: commsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.024Z
+lastCollected: 2026-04-07T09:04:08.222Z
 estimatedTokens: 795
 keywords: [CommSubscription, Standard, custom, extend, Communication, Subscription, represent, customer’s, preferences, specific, API, version, 65.0, later, Calls]
 ---

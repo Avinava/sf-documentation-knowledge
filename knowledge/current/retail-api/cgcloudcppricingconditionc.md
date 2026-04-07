@@ -5,7 +5,7 @@ topic: cgcloudcppricingconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.472Z
+lastCollected: 2026-04-07T09:05:19.894Z
 estimatedTokens: 1695
 keywords: [cgcloud__CP_Pricing_Condition__c, holds, pricing, condition, Penny, Perfect, functionality, uses, API, version, 54.0, later, cgcloud, _CP, _Pricing]
 ---

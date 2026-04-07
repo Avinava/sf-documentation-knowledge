@@ -5,7 +5,7 @@ topic: careplanactivitydetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.413Z
+lastCollected: 2026-04-07T09:03:58.527Z
 estimatedTokens: 1074
 keywords: [CarePlanActivityDetail, additional, associated, CarePlanActivity, record, may, outcomes, activity, performers, contributed, reasons, why, necessary, child, API]
 ---

@@ -5,7 +5,7 @@ topic: currencyobjectmeasureshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:55.160Z
+lastCollected: 2026-04-07T09:05:42.075Z
 estimatedTokens: 255
 keywords: [CurrencyObjectMeasure__Share, Sharing, CurrencyObjectMeasure__, CurrencyObjectMeasure, _Share]
 ---

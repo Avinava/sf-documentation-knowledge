@@ -5,7 +5,7 @@ topic: adavailabilitydimensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.346Z
+lastCollected: 2026-04-07T09:04:21.553Z
 estimatedTokens: 1169
 keywords: [AdAvailabilityDimensions, references, specific, records, common, filterable, media, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---

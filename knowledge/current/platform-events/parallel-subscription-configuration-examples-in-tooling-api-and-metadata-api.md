@@ -5,7 +5,7 @@ topic: parallel-subscription-configuration-examples-in-tooling-api-and-metadata-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.931Z
+lastCollected: 2026-04-07T09:05:05.312Z
 estimatedTokens: 787
 keywords: [Parallel, Subscription, Configuration, Examples, Tooling, API, Metadata, Configure, subscriptions, Apex, trigger, PlatformEventSubscriberConfig, EventUuid, Partition, Key]
 ---

@@ -5,7 +5,7 @@ topic: dataclouddandbcompany
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:07.938Z
+lastCollected: 2026-04-07T09:04:38.708Z
 estimatedTokens: 5428
 keywords: [DatacloudDandBCompany, read-only, D&B, company, data, Data.com, API, calls, version, 30.0, later, Usage]
 ---

@@ -5,7 +5,7 @@ topic: pid---patient-identification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.667Z
+lastCollected: 2026-04-07T09:03:56.456Z
 estimatedTokens: 728
 keywords: [PID, Patient, Identification, HL7, segment, maps, ContactPointPhone, Salesforce, V2.3, Clinical, Data, Model, Mapping]
 ---

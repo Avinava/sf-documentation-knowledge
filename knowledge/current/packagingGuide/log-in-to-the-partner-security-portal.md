@@ -5,7 +5,7 @@ topic: log-in-to-the-partner-security-portal
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.291Z
+lastCollected: 2026-04-07T09:04:55.689Z
 estimatedTokens: 526
 keywords: [Log, Partner, Security, Portal, access, Salesforce, ISV, Connect, DevHub, packaging, org, AppExchange, Console, credentials, Logged-in]
 ---

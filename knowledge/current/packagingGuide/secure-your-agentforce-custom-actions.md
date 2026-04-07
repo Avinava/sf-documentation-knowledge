@@ -5,7 +5,7 @@ topic: secure-your-agentforce-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.104Z
+lastCollected: 2026-04-07T09:04:55.325Z
 estimatedTokens: 3781
 keywords: [Secure, Agentforce, Custom, Actions, enable, agents, carry, specialized, tasks, data, retrieval, integration, external, systems, take]
 ---

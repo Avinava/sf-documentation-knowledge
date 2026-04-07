@@ -5,7 +5,7 @@ topic: searchpromotionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.173Z
+lastCollected: 2026-04-07T09:06:06.319Z
 estimatedTokens: 339
 keywords: [SearchPromotionRule, promoted, search, term, keywords, associate, Salesforce, Knowledge, article, user’s, query, includes, associated, results, API]
 ---

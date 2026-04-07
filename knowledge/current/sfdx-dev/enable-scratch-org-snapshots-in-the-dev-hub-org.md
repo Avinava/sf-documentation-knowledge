@@ -5,7 +5,7 @@ topic: enable-scratch-org-snapshots-in-the-dev-hub-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.624Z
+lastCollected: 2026-04-07T09:06:13.569Z
 estimatedTokens: 118
 keywords: [Enable, Scratch, Org, Snapshots, Dev, Hub, snapshot, belong, you’re, orgs]
 ---

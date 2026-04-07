@@ -5,7 +5,7 @@ topic: salestransactionshape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.512Z
+lastCollected: 2026-04-07T09:04:48.810Z
 estimatedTokens: 738
 keywords: [SalesTransactionShape, business, logic, sales, transaction, order, quote, cart, API, version, 57.0, later, Calls, Special, Access]
 ---

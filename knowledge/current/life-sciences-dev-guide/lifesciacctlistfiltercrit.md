@@ -5,7 +5,7 @@ topic: lifesciacctlistfiltercrit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.254Z
+lastCollected: 2026-04-07T09:04:10.737Z
 estimatedTokens: 595
 keywords: [LifeSciAcctListFilterCrit, Stores, rules, conditions, derived, Account, direct, relationship, objects, filter, Life, Sciences, accounts, API, version]
 ---

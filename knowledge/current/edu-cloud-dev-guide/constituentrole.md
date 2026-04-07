@@ -5,7 +5,7 @@ topic: constituentrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.005Z
+lastCollected: 2026-04-07T09:03:43.755Z
 estimatedTokens: 817
 keywords: [ConstituentRole, roles, associated, individual, API, version, 57.0, later, Calls]
 ---

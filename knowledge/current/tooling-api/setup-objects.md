@@ -5,7 +5,7 @@ topic: setup-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:43.491Z
+lastCollected: 2026-04-07T09:02:46.071Z
 estimatedTokens: 4982
 keywords: [Setup, Objects, interact, metadata, declarative, development, own, version, restrict, amount, data, push, app, mobile, phone]
 ---

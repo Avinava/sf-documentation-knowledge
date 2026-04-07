@@ -5,7 +5,7 @@ topic: dashboard-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:01.932Z
+lastCollected: 2026-04-07T09:03:07.272Z
 estimatedTokens: 1073
 keywords: [dashboard, Commands, Manage, Analytics, dashboards, history, Examples, Command, revert]
 ---

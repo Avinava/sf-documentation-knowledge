@@ -5,7 +5,7 @@ topic: cgcloudjobdefinitionlistc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.797Z
+lastCollected: 2026-04-07T09:05:20.261Z
 estimatedTokens: 2738
 keywords: [cgcloud__Job_Definition_List__c, Stores, questions, surveys, carried, respective, call, further, relevant, configurations, API, version, 54.0, later, cgcloud]
 ---

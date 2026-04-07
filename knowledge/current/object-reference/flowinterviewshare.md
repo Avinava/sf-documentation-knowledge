@@ -5,7 +5,7 @@ topic: flowinterviewshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.305Z
+lastCollected: 2026-04-07T09:04:41.548Z
 estimatedTokens: 855
 keywords: [FlowInterviewShare, sharing, entry, FlowInterview, API, version, 33.0, later, Calls, Usage]
 ---

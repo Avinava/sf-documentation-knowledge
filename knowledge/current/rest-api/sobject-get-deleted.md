@@ -5,7 +5,7 @@ topic: sobject-get-deleted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.324Z
+lastCollected: 2026-04-07T09:02:35.459Z
 estimatedTokens: 993
 keywords: [sObject, Deleted, Retrieves, individual, records, timespan, resource, REST, API, version, 29.0, later]
 ---

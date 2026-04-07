@@ -5,7 +5,7 @@ topic: forecastingowneradjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.693Z
+lastCollected: 2026-04-07T09:04:41.970Z
 estimatedTokens: 1951
 keywords: [ForecastingOwnerAdjustment, individual, forecast, user’s, adjustment, their, own, including, territory, forecasts, they, via, ForecastingItem, API, versions]
 ---

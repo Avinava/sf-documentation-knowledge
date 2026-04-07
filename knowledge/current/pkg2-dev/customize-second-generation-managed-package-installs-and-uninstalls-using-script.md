@@ -5,7 +5,7 @@ topic: customize-second-generation-managed-package-installs-and-uninstalls-using
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.037Z
+lastCollected: 2026-04-07T09:05:03.806Z
 estimatedTokens: 415
 keywords: [Customize, Second-Generation, Managed, Package, Installs, Uninstalls, Scripts, 2GP, install, upgrade, specifying, Apex, post, script, run]
 ---

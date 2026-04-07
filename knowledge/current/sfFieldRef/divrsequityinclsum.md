@@ -5,7 +5,7 @@ topic: divrsequityinclsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.313Z
+lastCollected: 2026-04-07T09:05:43.460Z
 estimatedTokens: 458
 keywords: [DivrsEquityInclSum, diversity, governance, bodies, employees, gender, age, group, indicators]
 ---

@@ -5,7 +5,7 @@ topic: get-a-list-of-deleted-records-within-a-given-timeframe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:39.332Z
+lastCollected: 2026-04-07T09:02:34.638Z
 estimatedTokens: 236
 keywords: [Deleted, Records, Timeframe, sObject, resource, Specify, date, time, range, were, written, log, periodically, purged, filtered]
 ---

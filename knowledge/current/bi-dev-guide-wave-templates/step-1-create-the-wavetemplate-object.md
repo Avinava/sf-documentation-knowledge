@@ -5,7 +5,7 @@ topic: step-1-create-the-wavetemplate-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.473Z
+lastCollected: 2026-04-07T09:03:15.749Z
 estimatedTokens: 335
 keywords: [Step, WaveTemplate, Once, you’ve, created, app, serve, source, turn, template, creating, files]
 ---

@@ -5,7 +5,7 @@ topic: openconsoleurl-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.912Z
+lastCollected: 2026-04-07T09:03:03.785Z
 estimatedTokens: 251
 keywords: [openConsoleUrl, Lightning, Experience, Opens, URL, generated, generateConsoleUrl, works, console, apps, isn’t, Web, Components, LWC, Arguments]
 ---

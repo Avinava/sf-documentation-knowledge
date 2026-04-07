@@ -5,7 +5,7 @@ topic: access-controllers-from-visualforce-pages-in-different-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.890Z
+lastCollected: 2026-04-07T09:04:59.582Z
 estimatedTokens: 297
 keywords: [Access, Controllers, Visualforce, Pages, Different, Packages, Apex, controller, package, @namespaceAccessible, annotation, custom, first-generation, packaging, develop]
 ---

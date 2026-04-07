@@ -5,7 +5,7 @@ topic: assessmentstageddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.881Z
+lastCollected: 2026-04-07T09:02:58.416Z
 estimatedTokens: 868
 keywords: [AssessmentStagedData, responses, assessment, questions, user, captures, submits, Discovery, Framework, Data, Capture, Flow, mobile, device, records]
 ---

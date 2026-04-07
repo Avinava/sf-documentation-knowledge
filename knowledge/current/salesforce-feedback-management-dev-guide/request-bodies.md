@@ -5,7 +5,7 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.845Z
+lastCollected: 2026-04-07T09:05:23.943Z
 estimatedTokens: 753
 keywords: [Bodies, know, Salesforce, Feedback, Management, SFM, unAuth, APIs]
 ---

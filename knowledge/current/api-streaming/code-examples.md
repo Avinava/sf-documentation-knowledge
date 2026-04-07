@@ -5,7 +5,7 @@ topic: code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T09:34:00.168Z
+lastCollected: 2026-04-07T09:03:04.861Z
 estimatedTokens: 532
 keywords: [Code, Examples, Check, streaming, events, Java, Aura, components, Visualforce]
 ---

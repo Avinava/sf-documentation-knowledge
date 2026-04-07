@@ -5,7 +5,7 @@ topic: initiate-upgrade-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:19.064Z
+lastCollected: 2026-04-07T09:01:59.654Z
 estimatedTokens: 588
 keywords: [Initiate, Upgrade, POST, amendment, moves, lower-tier, product, higher-tier, change, tracked, linked, asset, actions, quote, order]
 ---

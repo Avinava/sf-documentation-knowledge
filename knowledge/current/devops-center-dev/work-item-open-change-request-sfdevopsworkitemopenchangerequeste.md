@@ -5,7 +5,7 @@ topic: work-item-open-change-request-sfdevopsworkitemopenchangerequeste
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.598Z
+lastCollected: 2026-04-07T09:03:41.709Z
 estimatedTokens: 564
 keywords: [Work, Item, Open, Change, Notifies, subscribers, whenever, pull, opened, API, version, 62.0, later, _devops, _Work]
 ---

@@ -5,7 +5,7 @@ topic: discovery-framework-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.714Z
+lastCollected: 2026-04-07T09:02:55.362Z
 estimatedTokens: 1264
 keywords: [Discovery, Framework, Standard, Objects, associated, their, assessment, questions, forms]
 ---

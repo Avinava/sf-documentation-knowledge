@@ -5,7 +5,7 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.497Z
+lastCollected: 2026-04-07T09:03:18.408Z
 estimatedTokens: 253
 keywords: [Prerequisites, subscribing, change, events, Apex, trigger, debug, logs, select, Account, notifications, Enable]
 ---

@@ -5,7 +5,7 @@ topic: outofoffice
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.208Z
+lastCollected: 2026-04-07T09:04:46.042Z
 estimatedTokens: 489
 keywords: [OutOfOffice, user-set, profile, user, intends, office, API, version, 41.0, later, Calls, Special, Access, Rules, Usage]
 ---

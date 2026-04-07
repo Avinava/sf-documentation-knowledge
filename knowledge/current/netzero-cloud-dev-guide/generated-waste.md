@@ -5,7 +5,7 @@ topic: generated-waste
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.746Z
+lastCollected: 2026-04-07T09:04:26.291Z
 estimatedTokens: 1717
 keywords: [Generated, Waste, operations, treating, end-of-life, products, were, sold]
 ---

@@ -5,7 +5,7 @@ topic: create-a-beta-package-for-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.624Z
+lastCollected: 2026-04-07T09:05:01.933Z
 estimatedTokens: 1860
 keywords: [Beta, Package, First-Generation, Managed, Packages, Follow, procedure, upload, Tooling, API, sample, code, PackageUploadRequest, Developer]
 ---

@@ -5,7 +5,7 @@ topic: loyaltyprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.203Z
+lastCollected: 2026-04-07T09:04:20.038Z
 estimatedTokens: 1035
 keywords: [LoyaltyProgram, loyalty, program, organization, members, tiers, tier, groups, currencies, vouchers, benefits, partners, promotions, transactions, associated]
 ---

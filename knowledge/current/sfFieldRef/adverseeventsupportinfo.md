@@ -5,7 +5,7 @@ topic: adverseeventsupportinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.798Z
+lastCollected: 2026-04-07T09:05:31.405Z
 estimatedTokens: 333
 keywords: [AdverseEventSupportInfo, Supporting, relevant, event, API, version, 61.0, later]
 ---

@@ -5,7 +5,7 @@ topic: careplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.415Z
+lastCollected: 2026-04-07T09:03:56.129Z
 estimatedTokens: 2340
 keywords: [Care​Plan, FHIR, resource, maps, Care​Plan​, Care​PlanDetail​, Care​Plan​Activity, Care​PlanActivityDetail​, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping, CarePlan, Stores, care, plan, associated]
 ---

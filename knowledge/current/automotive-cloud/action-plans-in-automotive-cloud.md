@@ -5,7 +5,7 @@ topic: action-plans-in-automotive-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.663Z
+lastCollected: 2026-04-07T09:03:05.551Z
 estimatedTokens: 352
 keywords: [Action, Plans, Automotive, Cloud, data, model, capture, commonly, repeated, tasks, metrics, partner, visits, vehicles, asset]
 ---

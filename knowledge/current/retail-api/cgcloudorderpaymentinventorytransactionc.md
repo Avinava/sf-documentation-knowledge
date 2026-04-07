@@ -5,7 +5,7 @@ topic: cgcloudorderpaymentinventorytransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.129Z
+lastCollected: 2026-04-07T09:05:20.652Z
 estimatedTokens: 1107
 keywords: [Holds, association, order, payment, template, inventory, transaction, API, version, 54.0, later, cgcloud, _Order, _Payment, _Inventory]
 ---

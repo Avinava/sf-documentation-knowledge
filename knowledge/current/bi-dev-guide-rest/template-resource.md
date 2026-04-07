@@ -5,7 +5,7 @@ topic: template-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.853Z
+lastCollected: 2026-04-07T09:03:09.908Z
 estimatedTokens: 527
 keywords: [Template, Resource, deletes, updates, Analytics, URL, Formats, Version, Postman, Components, HTTP, PUT]
 ---

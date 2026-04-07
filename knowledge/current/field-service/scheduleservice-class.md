@@ -5,7 +5,7 @@ topic: scheduleservice-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:49.119Z
+lastCollected: 2026-04-07T09:03:00.678Z
 estimatedTokens: 2401
 namespace: FSL
 keywords: [ScheduleService, scheduling, service, appointment, best, slot, applied, policy, Usage, schedule, serviceId, scheduleExtended, getAppointmentInsights]

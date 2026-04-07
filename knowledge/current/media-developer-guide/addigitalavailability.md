@@ -5,7 +5,7 @@ topic: addigitalavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.408Z
+lastCollected: 2026-04-07T09:04:21.649Z
 estimatedTokens: 865
 keywords: [AdDigitalAvailability, daily, weekly, monthly, view, offered, booked, forecasted, units, Digital, media, calendar, API, version, 59.0]
 ---

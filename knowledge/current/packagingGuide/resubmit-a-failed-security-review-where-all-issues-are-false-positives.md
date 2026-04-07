@@ -5,7 +5,7 @@ topic: resubmit-a-failed-security-review-where-all-issues-are-false-positives
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.320Z
+lastCollected: 2026-04-07T09:04:55.731Z
 estimatedTokens: 364
 keywords: [Resubmit, Failed, Security, Review, Issues, Positives, receive, results, AppExchange, determine, identified, add, false-positives, document, There’s]
 ---

@@ -5,7 +5,7 @@ topic: discovery-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:31.415Z
+lastCollected: 2026-04-07T09:05:10.280Z
 estimatedTokens: 662
 keywords: [Discovery, Framework, data, model, helps, manage, every, aspect, questionnaire-driven, collection, cases, users, collect, validate, their]
 ---

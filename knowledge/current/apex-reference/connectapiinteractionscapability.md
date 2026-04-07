@@ -5,7 +5,7 @@ topic: connectapiinteractionscapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:52.036Z
+lastCollected: 2026-04-07T09:02:24.203Z
 estimatedTokens: 243
 keywords: [ConnectApi.InteractionsCapability, feed, element, capability, user, interactions]
 ---

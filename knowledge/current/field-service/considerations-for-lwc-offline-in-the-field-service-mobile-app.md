@@ -5,7 +5,7 @@ topic: considerations-for-lwc-offline-in-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:53:51.128Z
+lastCollected: 2026-04-07T09:03:02.629Z
 estimatedTokens: 359
 keywords: [Considerations, LWC, Offline, Service, Mobile, App, apply, run, components]
 ---

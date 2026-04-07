@@ -5,7 +5,7 @@ topic: considerations-for-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:38:42.382Z
+lastCollected: 2026-04-07T09:02:31.775Z
 estimatedTokens: 499
 keywords: [Considerations, Apex, Connector, Framework, Understand, limits, creating, Salesforce, Connect, custom, adapters]
 ---

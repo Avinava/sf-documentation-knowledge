@@ -5,7 +5,7 @@ topic: cgcloudconditionsearchrulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.303Z
+lastCollected: 2026-04-07T09:05:19.698Z
 estimatedTokens: 916
 keywords: [cgcloud__Condition_Search_Rule__c, Holds, attributes, Condition, Search, Rule, API, version, 55.0, later, cgcloud, _Condition, _Search, _Rule, Calls]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudpromotionproductsharec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.602Z
+lastCollected: 2026-04-07T09:05:21.148Z
 estimatedTokens: 961
 keywords: [cgcloud__Promotion_Product_Share__c, holds, categories, assigned, promotion, API, version, 54.0, later, cgcloud, _Promotion, _Product, _Share, Calls, Associated]
 ---

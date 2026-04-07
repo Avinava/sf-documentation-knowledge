@@ -5,7 +5,7 @@ topic: use-location-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.099Z
+lastCollected: 2026-04-07T09:04:25.414Z
 estimatedTokens: 884
 keywords: [Location, Mobile, Device, Lightning, web, component, device’s, features, determine, current, association, person, holding, access, moment]
 ---

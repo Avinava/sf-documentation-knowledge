@@ -5,7 +5,7 @@ topic: data-types-supported-by-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.352Z
+lastCollected: 2026-04-07T09:03:41.372Z
 estimatedTokens: 848
 keywords: [Data, Loader, supports]
 ---

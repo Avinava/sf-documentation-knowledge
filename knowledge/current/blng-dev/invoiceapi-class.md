@@ -5,7 +5,7 @@ topic: invoiceapi-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.048Z
+lastCollected: 2026-04-07T09:03:16.693Z
 estimatedTokens: 695
 keywords: [InvoiceAPI, API, Apex, Salesforce, Billing, call, cancel, rebill, invoice, credit, Usage, creditInvoice, invoiceId, action]
 ---

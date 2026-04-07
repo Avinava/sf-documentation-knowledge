@@ -5,7 +5,7 @@ topic: uiformularule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.355Z
+lastCollected: 2026-04-07T09:04:51.247Z
 estimatedTokens: 396
 keywords: [UiFormulaRule, filters, define, conditions, under, component, displays, Lightning, API, version, 47.0, later, Calls]
 ---

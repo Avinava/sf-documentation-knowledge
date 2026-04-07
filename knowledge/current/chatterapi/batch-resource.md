@@ -5,7 +5,7 @@ topic: batch-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.653Z
+lastCollected: 2026-04-07T09:03:24.579Z
 estimatedTokens: 1404
 keywords: [Batch, Resource, subrequests, send, server, improve, application’s, performance, bodies, HTTP, statuses, subrequest, counts, against, rate]
 ---

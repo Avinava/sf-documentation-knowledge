@@ -5,7 +5,7 @@ topic: survey-thank-you-page-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.535Z
+lastCollected: 2026-04-07T09:05:23.479Z
 estimatedTokens: 222
 keywords: [Survey, Thank, Output, representation]
 ---

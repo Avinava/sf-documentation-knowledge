@@ -5,7 +5,7 @@ topic: searchlayout
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:16.711Z
+lastCollected: 2026-04-07T09:04:49.058Z
 estimatedTokens: 647
 keywords: [SearchLayout, search, layout, defined, API, version, 35.0, later, Calls, Special, Access, Rules, Usage]
 ---

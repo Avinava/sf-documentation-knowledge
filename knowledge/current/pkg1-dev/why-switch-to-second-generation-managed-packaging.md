@@ -5,7 +5,7 @@ topic: why-switch-to-second-generation-managed-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.756Z
+lastCollected: 2026-04-07T09:05:02.121Z
 estimatedTokens: 1184
 keywords: [Why, Switch, Second-Generation, Managed, Packaging, You’ve, first-generation, packages, develop, apps, you’re, probably, pretty, familiar, works]
 ---

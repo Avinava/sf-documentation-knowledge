@@ -5,7 +5,7 @@ topic: duplicatejobmatchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.270Z
+lastCollected: 2026-04-07T09:04:39.137Z
 estimatedTokens: 310
 keywords: [DuplicateJobMatchingRule, MatchingRule, DuplicateJob, sharing, corresponding, DuplicateJobMatchingRuleDefinition, Calls, Special, Access, Rules]
 ---

@@ -6,7 +6,7 @@ topic: give-customers-the-option-to-transfer-to-sms-in-the-interactive-voice-res
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.576Z
+lastCollected: 2026-04-07T09:06:17.803Z
 estimatedTokens: 2667
 keywords: [Give, Customers, Option, Transfer, SMS, Interactive, Voice, IVR, builds, created, “Link, New, Case, Call, Record”]
 ---

@@ -5,7 +5,7 @@ topic: alternativepaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:04.233Z
+lastCollected: 2026-04-07T09:04:34.280Z
 estimatedTokens: 2706
 keywords: [AlternativePaymentMethod, payment, isn’t, cash, debit, card, credit, aren’t, defined, CardPaymentMethod, DigitalWallet, objects, Examples, alternative, include]
 ---

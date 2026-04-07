@@ -5,7 +5,7 @@ topic: uninstall-a-first-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.605Z
+lastCollected: 2026-04-07T09:05:01.905Z
 estimatedTokens: 745
 keywords: [Uninstall, First-Generation, Managed, Package, org, Setup, components, including, any, deprecated, were, previously, associated, deleted]
 ---

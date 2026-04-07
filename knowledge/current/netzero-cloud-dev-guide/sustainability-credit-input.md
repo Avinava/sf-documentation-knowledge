@@ -5,7 +5,7 @@ topic: sustainability-credit-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.269Z
+lastCollected: 2026-04-07T09:04:25.647Z
 estimatedTokens: 400
 keywords: [Sustainability, Credit, Input, representation, associated, carbon, project]
 ---

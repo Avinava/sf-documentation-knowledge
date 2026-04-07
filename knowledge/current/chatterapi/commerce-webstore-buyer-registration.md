@@ -5,7 +5,7 @@ topic: commerce-webstore-buyer-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.164Z
+lastCollected: 2026-04-07T09:03:25.264Z
 estimatedTokens: 375
 keywords: [Commerce, Webstore, Buyer, Registration, Lets, guest, shopper, register, account, merchant, resource, one-click, checkout, Salesforce, Payments]
 ---

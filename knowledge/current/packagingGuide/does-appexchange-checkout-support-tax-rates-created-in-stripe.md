@@ -5,7 +5,7 @@ topic: does-appexchange-checkout-support-tax-rates-created-in-stripe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.328Z
+lastCollected: 2026-04-07T09:04:54.007Z
 estimatedTokens: 66
 keywords: [AppExchange, Checkout, support, tax, rates, created, Stripe, Although, doesn’t, Salesforce, internally, manages, including, sales, value-added]
 ---

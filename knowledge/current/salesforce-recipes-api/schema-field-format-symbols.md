@@ -5,7 +5,7 @@ topic: schema-field-format-symbols
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.981Z
+lastCollected: 2026-04-07T09:05:25.876Z
 estimatedTokens: 116
 keywords: [Schema, Symbols, node, recipe]
 ---

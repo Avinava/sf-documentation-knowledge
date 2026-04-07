@@ -5,7 +5,7 @@ topic: create-routes-for-specific-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.831Z
+lastCollected: 2026-04-07T09:04:20.744Z
 estimatedTokens: 1026
 keywords: [Routes, Specific, Users, StartAdvancedOptimizationForUsers, Apex, creates, assigned, any, active, Salesforce, Maps, Advanced, visit, plan, leverage]
 ---

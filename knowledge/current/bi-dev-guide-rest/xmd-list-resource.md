@@ -5,7 +5,7 @@ topic: xmd-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.906Z
+lastCollected: 2026-04-07T09:03:09.996Z
 estimatedTokens: 332
 keywords: [Xmd, Resource, resources, version, dataset, main, system, user, view, asset, Xmds, refer, API, URL, Formats]
 ---

@@ -5,7 +5,7 @@ topic: electricity-emissions-factor-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.589Z
+lastCollected: 2026-04-07T09:04:26.106Z
 estimatedTokens: 2372
 keywords: [Electricity, Emissions, Factor, factors, convert, usage, CO₂e, CO₂, CH₄, N₂O, record, holds, data, breakdown, sources]
 ---

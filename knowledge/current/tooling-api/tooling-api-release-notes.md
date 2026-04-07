@@ -5,7 +5,7 @@ topic: tooling-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T07:53:46.873Z
+lastCollected: 2026-04-07T09:02:49.531Z
 estimatedTokens: 147
 keywords: [Tooling, API, Release, Notes, Salesforce, recent, updates, changes]
 ---

@@ -5,7 +5,7 @@ topic: labelsite
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.383Z
+lastCollected: 2026-04-07T09:05:00.323Z
 estimatedTokens: 160
 keywords: [$Label.Site, merge, standard, Sites, label, Visualforce, labels, label’s, message, displays, according, user’s, language, locale, can’t]
 ---

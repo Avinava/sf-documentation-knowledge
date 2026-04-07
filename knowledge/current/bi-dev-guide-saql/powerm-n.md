@@ -6,7 +6,7 @@ topic: powerm-n
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.452Z
+lastCollected: 2026-04-07T09:03:14.142Z
 estimatedTokens: 102
 keywords: [power, raised, nth, any, numeric, range, -1e308, 1e308, function, foreach, statement]
 ---

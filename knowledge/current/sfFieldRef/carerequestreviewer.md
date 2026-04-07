@@ -5,7 +5,7 @@ topic: carerequestreviewer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.382Z
+lastCollected: 2026-04-07T09:05:38.608Z
 estimatedTokens: 430
 keywords: [CareRequestReviewer, care, reviewer, including, status, end, review, reviewer’s, notes, date, item, drug, diagnosis, associated]
 ---

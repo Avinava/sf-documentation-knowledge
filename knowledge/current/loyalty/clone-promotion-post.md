@@ -5,8 +5,8 @@ topic: clone-promotion-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.063Z
-estimatedTokens: 352
+lastCollected: 2026-04-07T09:04:17.254Z
+estimatedTokens: 354
 keywords: [Clone, Promotion, POST, along, associated, records]
 ---
 
@@ -43,7 +43,7 @@ Properties
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | additional​FieldValues | Map<String, String> | Details of the promotion's additional fields. | Optional | 61.0 |
-| doesReuse​EngagementAttributes | Boolean | Indicates whether the new promotion uses the engagement attributes created for the source promotion to track customers' promotion usage (true) or (not). Engagement reuse can result in shared limits. | Optional | 61.0 |
+| does​Reuse​Engagement​Attributes | Boolean | Indicates whether the new promotion uses the engagement attributes created for the source promotion to track customers' promotion usage (true) or not (false). Engagement reuse can result in shared limits. | Optional | 61.0 |
 | endDateTime | String | End date and time of the new promotion. | Required | 61.0 |
 | name | String | Name of the new promotion. | Required | 61.0 |
 | promotionCode | String | Code of the new promotion. | Optional | 61.0 |

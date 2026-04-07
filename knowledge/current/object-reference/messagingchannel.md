@@ -5,7 +5,7 @@ topic: messagingchannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:12.793Z
+lastCollected: 2026-04-07T09:04:44.332Z
 estimatedTokens: 2345
 keywords: [MessagingChannel, communication, channel, end, user, send, message, agent, SMS, number, Facebook, another, messaging, API, version]
 ---

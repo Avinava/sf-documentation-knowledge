@@ -5,7 +5,7 @@ topic: loanapplicantliability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.747Z
+lastCollected: 2026-04-07T09:05:52.267Z
 estimatedTokens: 314
 keywords: [LoanApplicantLiability, junction, borrower, loan, application, liability, API, version, 47.0, later]
 ---

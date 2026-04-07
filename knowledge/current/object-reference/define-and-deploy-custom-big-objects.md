@@ -5,7 +5,7 @@ topic: define-and-deploy-custom-big-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:03.157Z
+lastCollected: 2026-04-07T09:04:32.981Z
 estimatedTokens: 1909
 keywords: [Define, Deploy, Custom, Big, Objects, Metadata, API, Setup, view, add, you’ve, deployed, can’t, edit, index]
 ---

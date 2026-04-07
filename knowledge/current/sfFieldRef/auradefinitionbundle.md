@@ -5,7 +5,7 @@ topic: auradefinitionbundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.096Z
+lastCollected: 2026-04-07T09:05:34.346Z
 estimatedTokens: 371
 namespace: NamespacePrefix
 keywords: [AuraDefinitionBundle, Lightning, Aura, component, definition, bundle, application, resources, API, version, 32.0, later]

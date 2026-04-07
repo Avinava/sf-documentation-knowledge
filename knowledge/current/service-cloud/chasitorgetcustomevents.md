@@ -5,7 +5,7 @@ topic: chasitorgetcustomevents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:52.879Z
+lastCollected: 2026-04-07T09:03:02.802Z
 estimatedTokens: 344
 keywords: [chasitor.getCustomEvents, Retrieves, custom, events, received, chat, window, session, API, version, 29.0, later, Sample, Code–Visualforce]
 ---

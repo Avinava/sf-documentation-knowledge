@@ -5,7 +5,7 @@ topic: lifecycle-of-storable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.655Z
+lastCollected: 2026-04-07T09:04:13.687Z
 estimatedTokens: 599
 keywords: [Lifecycle, Storable, Actions, image, sequence, callback, execution, Cache, Miss, Hit]
 ---

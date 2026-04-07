@@ -5,7 +5,7 @@ topic: advanced-provider-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.467Z
+lastCollected: 2026-04-07T09:04:06.017Z
 estimatedTokens: 453
 keywords: [Advanced, Provider, Search, Facilitate, three, distinct, account, searches, Healthcare, HCP, Organization, HCO, license-based, API, processes]
 ---

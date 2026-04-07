@@ -5,7 +5,7 @@ topic: learningpathwaytemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.481Z
+lastCollected: 2026-04-07T09:03:44.360Z
 estimatedTokens: 788
 keywords: [LearningPathwayTemplate, template, learner, apply, planned, learning, path, API, version, 61.0, later, Calls, Associated, Objects]
 ---

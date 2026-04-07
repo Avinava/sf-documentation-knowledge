@@ -5,7 +5,7 @@ topic: loyalty-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:52.085Z
+lastCollected: 2026-04-07T09:04:18.573Z
 estimatedTokens: 5624
 keywords: [Loyalty, Management, Standard, Objects, data, model, manage, programs, organization, partners, members, track, activities, reward, promotions]
 ---

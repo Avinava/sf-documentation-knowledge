@@ -5,7 +5,7 @@ topic: tips-and-considerations-for-configuring-aura-components-for-experience-bu
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:23.248Z
+lastCollected: 2026-04-07T09:03:39.651Z
 estimatedTokens: 1402
 keywords: [Tips, Considerations, Configuring, Aura, Components, Experience, Builder, Keep, guidelines, mind, creating, component, bundles, sites, Attributes]
 ---

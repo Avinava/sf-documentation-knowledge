@@ -5,7 +5,7 @@ topic: privacysessionrecordfailure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.790Z
+lastCollected: 2026-04-07T09:06:00.296Z
 estimatedTokens: 375
 keywords: [PrivacySessionRecordFailure, error, messages, encountered, policy, job, executions, Privacy, Center, API, version, 59.0, later]
 ---

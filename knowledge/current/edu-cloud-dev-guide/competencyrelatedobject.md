@@ -5,7 +5,7 @@ topic: competencyrelatedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.991Z
+lastCollected: 2026-04-07T09:03:43.738Z
 estimatedTokens: 630
 keywords: [CompetencyRelatedObject, junction, competency, another, API, version, 64.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: extlrecshrcnctaccnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.974Z
+lastCollected: 2026-04-07T09:04:41.161Z
 estimatedTokens: 304
 keywords: [ExtlRecShrCnctAccnt, association, account, external, record, share, connection, Partner, Connect, API, version, 62.0, later, Calls, Special]
 ---

@@ -5,7 +5,7 @@ topic: benefit-verification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.709Z
+lastCollected: 2026-04-07T09:03:52.415Z
 estimatedTokens: 351
 keywords: [Benefit, Verification, resources, verify, health, benefits, covered, patient's, insurer, call, center, agent, view, coverages, record]
 ---

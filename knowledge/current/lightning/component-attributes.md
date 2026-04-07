@@ -5,7 +5,7 @@ topic: component-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.055Z
+lastCollected: 2026-04-07T09:04:12.813Z
 estimatedTokens: 922
 keywords: [Component, Attributes, member, variables, Apex, They, typed, specific, instance, referenced, component's, markup, expression, enable, components]
 ---

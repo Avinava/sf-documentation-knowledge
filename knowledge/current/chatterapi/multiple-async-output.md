@@ -5,7 +5,7 @@ topic: multiple-async-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:19.790Z
+lastCollected: 2026-04-07T09:03:33.685Z
 estimatedTokens: 298
 keywords: [Multiple, Async, Output, IDs, asynchronous, background, operations, includes, operation, regardless, whether, calls, made, external, payment]
 ---

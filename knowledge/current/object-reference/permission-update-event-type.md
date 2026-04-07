@@ -5,7 +5,7 @@ topic: permission-update-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.505Z
+lastCollected: 2026-04-07T09:04:40.586Z
 estimatedTokens: 801
 keywords: [Permission, Event, events, represent, changes, user, permissions, setup, entity, access, occur, profiles, tracks, clone, change]
 ---

@@ -5,7 +5,7 @@ topic: examples-use-google-tag-manager-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.540Z
+lastCollected: 2026-04-07T09:03:45.817Z
 estimatedTokens: 830
 keywords: [Examples, Google, Tag, Manager, LWR, Sites, track, customer, interactions, site, single-page, application, <x-oasis-script>, privileged, script]
 ---

@@ -5,7 +5,7 @@ topic: adserveraccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.718Z
+lastCollected: 2026-04-07T09:04:22.047Z
 estimatedTokens: 518
 keywords: [AdServerAccount, junction, account, server, API, version, 54.0, later, Calls, Associated, Objects]
 ---

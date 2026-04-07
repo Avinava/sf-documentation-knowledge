@@ -5,7 +5,7 @@ topic: refrigerantemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.777Z
+lastCollected: 2026-04-07T09:04:28.656Z
 estimatedTokens: 989
 keywords: [RefrigerantEmssnFctr, warming, potential, individual, refrigerants, compares, atmospheric, radiative, forcing, molecule, refrigerant, carbon, dioxide, API, version]
 ---

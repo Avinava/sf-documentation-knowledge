@@ -5,7 +5,7 @@ topic: accreditation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.647Z
+lastCollected: 2026-04-07T09:05:14.689Z
 estimatedTokens: 1343
 keywords: [Accreditation, professional, accreditations, facility, joint, commission, accredits, general, acute, care, hospital, Calls, Associated, Objects]
 ---

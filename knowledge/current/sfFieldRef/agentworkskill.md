@@ -5,7 +5,7 @@ topic: agentworkskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.877Z
+lastCollected: 2026-04-07T09:05:31.507Z
 estimatedTokens: 384
 keywords: [AgentWorkSkill, skill, route, work, assignment, agent, reporting, result, routing, decision, API, version, 42.0, later]
 ---

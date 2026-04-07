@@ -5,7 +5,7 @@ topic: wishlistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.203Z
+lastCollected: 2026-04-07T09:06:11.737Z
 estimatedTokens: 243
 keywords: [WishlistItem, item, Wishlist, store, built, B2B, Commerce, Lightning]
 ---

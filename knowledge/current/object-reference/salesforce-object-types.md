@@ -5,7 +5,7 @@ topic: salesforce-object-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:03.338Z
+lastCollected: 2026-04-07T09:04:33.225Z
 estimatedTokens: 847
 keywords: [Salesforce, Platform, refer, whether, standard, custom, schema, determined, created, However, continued, evolve, there, now, objects]
 ---

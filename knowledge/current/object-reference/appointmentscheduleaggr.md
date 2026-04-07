@@ -5,7 +5,7 @@ topic: appointmentscheduleaggr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.695Z
+lastCollected: 2026-04-07T09:04:34.808Z
 estimatedTokens: 654
 keywords: [AppointmentScheduleAggr, Records, utilization, service, resource, date, Load, Balancing, appointment, assignment, policy, API, version, 52.0, later]
 ---

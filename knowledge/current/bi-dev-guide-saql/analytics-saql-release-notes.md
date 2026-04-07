@@ -5,7 +5,7 @@ topic: analytics-saql-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:06.725Z
+lastCollected: 2026-04-07T09:03:14.581Z
 estimatedTokens: 149
 keywords: [Analytics, SAQL, Release, Notes, Salesforce, recent, updates, changes]
 ---

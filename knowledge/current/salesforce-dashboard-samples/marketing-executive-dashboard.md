@@ -5,7 +5,7 @@ topic: marketing-executive-dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.229Z
+lastCollected: 2026-04-07T09:05:23.006Z
 estimatedTokens: 509
 keywords: [Marketing, Executive, Dashboard, executives, directors, VPs, they, creating, efficient, campaigns, generating, converting, leads, Highlights, Tips]
 ---

@@ -5,7 +5,7 @@ topic: input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.571Z
+lastCollected: 2026-04-07T09:02:55.212Z
 estimatedTokens: 120
 keywords: [Input, Classes, Decision, Apex, Record, Alerts, Engagements]
 ---

@@ -5,7 +5,7 @@ topic: trade-promotion-management-transformation-engine-workflows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:36.516Z
+lastCollected: 2026-04-07T09:05:17.102Z
 estimatedTokens: 2320
 keywords: [Trade, Promotion, Management, Transformation, Engine, Workflows, workflow, comprises, APEX, callable, apply, transformations, input, JSON, output]
 ---

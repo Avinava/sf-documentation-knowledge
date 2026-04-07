@@ -5,7 +5,7 @@ topic: platformactionlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.986Z
+lastCollected: 2026-04-07T09:02:15.174Z
 estimatedTokens: 928
 namespace: Metadata
 keywords: [PlatformActionList, actions, their, order, display, Salesforce, mobile, action, bar, layout, Usage, actionListContext, platformActionListItems, relatedSourceEntity, clone]

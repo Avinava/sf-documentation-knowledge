@@ -5,7 +5,7 @@ topic: attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:05.185Z
+lastCollected: 2026-04-07T09:04:35.389Z
 estimatedTokens: 2108
 keywords: [Attachment, file, User, uploaded, attached, parent, Calls, Usage]
 ---

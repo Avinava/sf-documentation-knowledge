@@ -5,7 +5,7 @@ topic: careplanactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.345Z
+lastCollected: 2026-04-07T09:03:57.340Z
 estimatedTokens: 2517
 keywords: [CarePlanActivity, planned, action, that’s, part, care, plan, knowledge, campaigns, physiotherapy, appointments, medication, regimens, etc, child, activity, CarePlan, API, version, 56.0]
 ---

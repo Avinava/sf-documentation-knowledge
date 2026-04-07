@@ -5,7 +5,7 @@ topic: devopsenvironmenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.063Z
+lastCollected: 2026-04-07T09:05:43.139Z
 estimatedTokens: 264
 keywords: [DevopsEnvironmentHistory, History, tracked, DevopsEnvironment]
 ---

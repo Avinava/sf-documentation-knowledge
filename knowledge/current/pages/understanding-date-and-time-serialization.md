@@ -5,7 +5,7 @@ topic: understanding-date-and-time-serialization
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:23.749Z
+lastCollected: 2026-04-07T09:04:59.373Z
 estimatedTokens: 187
 keywords: [Understanding, Date, Time, Serialization, serialized, epoch, passed, via, Visualforce, remoting, Datetime]
 ---

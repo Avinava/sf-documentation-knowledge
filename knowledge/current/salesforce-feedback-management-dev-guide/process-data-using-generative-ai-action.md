@@ -5,7 +5,7 @@ topic: process-data-using-generative-ai-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.324Z
+lastCollected: 2026-04-07T09:05:23.163Z
 estimatedTokens: 352
 keywords: [Process, Data, Generative, Action, Einstein, perform, Natural, Language, Processing, NLP, summarize, text, extract, key, phrases]
 ---

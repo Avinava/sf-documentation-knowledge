@@ -5,7 +5,7 @@ topic: survey-responses-using-invitation-configurations-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.827Z
+lastCollected: 2026-04-07T09:03:26.181Z
 estimatedTokens: 959
 keywords: [Survey, Responses, Invitation, Configurations, POST, PATCH, configuration, initiate, process, submitting, making, Submit, Special, Access, Rules]
 ---

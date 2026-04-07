@@ -5,7 +5,7 @@ topic: deploy-source-from-your-project-to-the-scratch-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.344Z
+lastCollected: 2026-04-07T09:06:13.229Z
 estimatedTokens: 1652
 keywords: [Deploy, Source, Project, Scratch, Org, changing, sync, changes, deploying, changed, start, command, Preview, Deployment, Select]
 ---

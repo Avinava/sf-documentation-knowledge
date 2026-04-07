@@ -5,7 +5,7 @@ topic: forecastingcustomdata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.499Z
+lastCollected: 2026-04-07T09:05:46.540Z
 estimatedTokens: 397
 keywords: [ForecastingCustomData, forecast, data, external, sources, display, forecasts, risk, year’s, revenue, API, version, 58.0, later]
 ---

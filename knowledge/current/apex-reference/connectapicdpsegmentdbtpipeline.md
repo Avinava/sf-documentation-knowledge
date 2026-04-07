@@ -5,7 +5,7 @@ topic: connectapicdpsegmentdbtpipeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:50.050Z
+lastCollected: 2026-04-07T09:02:22.635Z
 estimatedTokens: 89
 keywords: [ConnectApi.CdpSegmentDbtPipeline, Segment, dbt, pipeline]
 ---

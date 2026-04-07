@@ -5,7 +5,7 @@ topic: accreditation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.942Z
+lastCollected: 2026-04-07T09:03:56.892Z
 estimatedTokens: 1415
 keywords: [Accreditation, professional, accreditations, facility, joint, commission, accredits, general, acute, care, hospital, Calls, Associated, Objects]
 ---
@@ -37,7 +37,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | LastFullSurveyDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDate of the last full survey completed by accrediting body. |
 | LastOnsiteSurveyDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDate that accrediting body was last onsite. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the accreditation. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | PractitionerId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionPractitioner that this accreditation is associated with. |

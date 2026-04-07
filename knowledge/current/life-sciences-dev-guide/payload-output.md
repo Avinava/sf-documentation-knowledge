@@ -5,7 +5,7 @@ topic: payload-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.884Z
+lastCollected: 2026-04-07T09:04:06.707Z
 estimatedTokens: 120
 keywords: [Payload, Output, representation, communicated, recipient]
 ---

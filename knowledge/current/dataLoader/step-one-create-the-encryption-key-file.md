@@ -5,7 +5,7 @@ topic: step-one-create-the-encryption-key-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.164Z
+lastCollected: 2026-04-07T09:03:41.091Z
 estimatedTokens: 622
 keywords: [Step, Encryption, Key, File, Data, Loader, command, line, there's, user, Therefore, provide, enter, text, named]
 ---

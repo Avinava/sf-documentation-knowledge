@@ -5,7 +5,7 @@ topic: finserv-task-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.907Z
+lastCollected: 2026-04-07T09:03:47.896Z
 estimatedTokens: 234
 keywords: [FinServ, Task, Custom, associated, client, extend, standard, Financial, Services, Cloud]
 ---

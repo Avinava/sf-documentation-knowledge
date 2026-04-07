@@ -5,7 +5,7 @@ topic: introducing-sql-for-crm-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.144Z
+lastCollected: 2026-04-07T09:03:15.192Z
 estimatedTokens: 348
 keywords: [Introducing, SQL, CRM, Analytics, query, language, lets, execute, queries, against, datasets, Structured, typically, working, data]
 ---

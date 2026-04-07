@@ -5,7 +5,7 @@ topic: salestransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.368Z
+lastCollected: 2026-04-07T09:04:33.263Z
 estimatedTokens: 605
 keywords: [SalesTransaction, business, logic, sales, transaction, order, cart, API, version, 55.0, later, Calls, Special, Access, Rules]
 ---

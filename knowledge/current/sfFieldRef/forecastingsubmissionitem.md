@@ -5,7 +5,7 @@ topic: forecastingsubmissionitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.598Z
+lastCollected: 2026-04-07T09:05:46.704Z
 estimatedTokens: 348
 keywords: [ForecastingSubmissionItem, forecast, category, submitted, API, version, 62.0, later]
 ---

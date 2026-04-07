@@ -5,7 +5,7 @@ topic: step-3-walk-through-the-java-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:09.300Z
+lastCollected: 2026-04-07T09:02:43.355Z
 estimatedTokens: 989
 keywords: [Step, Walk, Java, Sample, Code, imported, WSDL, files, build, client, applications, Metadata, API, good, starting]
 ---

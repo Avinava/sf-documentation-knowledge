@@ -5,7 +5,7 @@ topic: documentgenerationprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.495Z
+lastCollected: 2026-04-07T09:05:43.757Z
 estimatedTokens: 580
 keywords: [DocumentGenerationProcess, Supports, server-side, document, generation, requests, responses, API, version, 56.0, later]
 ---

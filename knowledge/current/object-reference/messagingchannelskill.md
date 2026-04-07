@@ -5,7 +5,7 @@ topic: messagingchannelskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.798Z
+lastCollected: 2026-04-07T09:04:44.342Z
 estimatedTokens: 223
 keywords: [MessagingChannelSkill, Junction, association, MessagingChannel, Skill, API, version, 45.0, later, Calls]
 ---

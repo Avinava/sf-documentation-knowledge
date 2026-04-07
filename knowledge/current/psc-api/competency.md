@@ -5,7 +5,7 @@ topic: competency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.472Z
+lastCollected: 2026-04-07T09:05:13.262Z
 estimatedTokens: 791
 keywords: [Competency, skill, subject, matter, expertise, behavior, job, role, API, version, 64.0, later, Calls, Special, Access]
 ---

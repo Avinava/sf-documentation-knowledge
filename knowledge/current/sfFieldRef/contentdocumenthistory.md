@@ -5,7 +5,7 @@ topic: contentdocumenthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.087Z
+lastCollected: 2026-04-07T09:05:40.790Z
 estimatedTokens: 272
 keywords: [ContentDocumentHistory, history, document, versions, 17.0, later]
 ---

@@ -5,7 +5,7 @@ topic: enrollmenteligibilitycriteriahistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.385Z
+lastCollected: 2026-04-07T09:05:44.969Z
 estimatedTokens: 281
 keywords: [EnrollmentEligibilityCriteriaHistory, History, tracked, EnrollmentEligibilityCriteria]
 ---

@@ -5,7 +5,7 @@ topic: geolocationbasedaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.416Z
+lastCollected: 2026-04-07T09:05:47.855Z
 estimatedTokens: 480
 keywords: [GeolocationBasedAction, geolocation-based, action, that’s, triggered, user, enters, exits, area, associated, API, version, 61.0, later]
 ---

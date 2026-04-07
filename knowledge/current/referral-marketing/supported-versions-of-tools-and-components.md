@@ -5,7 +5,7 @@ topic: supported-versions-of-tools-and-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.044Z
+lastCollected: 2026-04-07T09:05:16.480Z
 estimatedTokens: 253
 keywords: [Versions, Tools, Components, Referral, Mobile, SDK, works, iOS, 15.0+, Android, 8.0+, Install]
 ---

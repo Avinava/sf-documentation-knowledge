@@ -5,7 +5,7 @@ topic: can-i-use-the-environment-hub-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.817Z
+lastCollected: 2026-04-07T09:04:54.790Z
 estimatedTokens: 35
 keywords: [Environment, Hub, Lightning, Experience, Yes, Salesforce, Classic, support]
 ---

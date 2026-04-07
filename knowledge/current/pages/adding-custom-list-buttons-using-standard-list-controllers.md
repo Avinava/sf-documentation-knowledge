@@ -6,7 +6,7 @@ topic: adding-custom-list-buttons-using-standard-list-controllers
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:23.373Z
+lastCollected: 2026-04-07T09:04:58.809Z
 estimatedTokens: 743
 keywords: [Adding, Custom, Buttons, Standard, Controllers, addition, overriding, links, link, pages, controller, search, results, any, allow]
 ---

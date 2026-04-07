@@ -5,7 +5,7 @@ topic: conversions-that-generate-a-change-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.561Z
+lastCollected: 2026-04-07T09:03:18.508Z
 estimatedTokens: 297
 keywords: [Conversions, Generate, Change, Event, converting, custom, another, isn’t, compatible, data, lost, records, corresponding, generated, affected]
 ---

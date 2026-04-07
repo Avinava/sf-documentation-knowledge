@@ -5,7 +5,7 @@ topic: personalization-recommender-sort-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.467Z
+lastCollected: 2026-04-07T09:03:22.926Z
 estimatedTokens: 142
 keywords: [Personalization, Recommender, Sort, Criteria, Input, rule-based, recommenders]
 ---

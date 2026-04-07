@@ -5,7 +5,7 @@ topic: bayeux-protocol-cometd-and-long-polling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.161Z
+lastCollected: 2026-04-07T09:03:04.852Z
 estimatedTokens: 438
 keywords: [Bayeux, Protocol, CometD, Long, Polling, Streaming, API, uses]
 ---

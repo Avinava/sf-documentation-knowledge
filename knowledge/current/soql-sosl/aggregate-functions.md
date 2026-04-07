@@ -5,7 +5,7 @@ topic: aggregate-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.622Z
+lastCollected: 2026-04-07T09:06:14.968Z
 estimatedTokens: 614
 keywords: [Aggregate, Functions, GROUP, clause, SOQL, queries, generate, reports, analysis, include, AVG, COUNT, MIN, MAX, SUM]
 ---

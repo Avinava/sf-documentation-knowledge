@@ -5,7 +5,7 @@ topic: handling-streaming-api-errors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.483Z
+lastCollected: 2026-04-07T09:03:05.261Z
 estimatedTokens: 1347
 keywords: [Handling, Streaming, API, Errors, common, how, handle, client, Authentication, Unknown, Error, Resource, Limit, Validation, Handshake]
 ---

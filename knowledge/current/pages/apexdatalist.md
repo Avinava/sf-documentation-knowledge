@@ -5,7 +5,7 @@ topic: apexdatalist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.363Z
+lastCollected: 2026-04-07T09:04:57.383Z
 estimatedTokens: 1055
 keywords: [apex, dataList, ordered, unordered, defined, iterating, over, data, <apex, dataList>, component, how, item, appear, include]
 ---

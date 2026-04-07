@@ -5,7 +5,7 @@ topic: cgcloudboapitransactionlogc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.235Z
+lastCollected: 2026-04-07T09:05:19.603Z
 estimatedTokens: 1662
 keywords: [cgcloud__BO_API_Transaction_Log__c, stores, Business, API, Transaction, Log, collection, promotions, created, updated, under, via, Promotion, Creation, version]
 ---

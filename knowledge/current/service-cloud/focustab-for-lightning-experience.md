@@ -5,7 +5,7 @@ topic: focustab-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.706Z
+lastCollected: 2026-04-07T09:03:03.590Z
 estimatedTokens: 456
 keywords: [focusTab, Lightning, Experience, Focuses, workspace, tab, subtab, works, console, apps, Arguments, LWC, Sample, Code, Aura]
 ---

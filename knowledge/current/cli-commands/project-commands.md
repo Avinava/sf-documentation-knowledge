@@ -5,7 +5,7 @@ topic: project-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:11.180Z
+lastCollected: 2026-04-07T09:01:54.700Z
 estimatedTokens: 22507
 keywords: [project, Commands, Convert, metadata, retrieved, via, API, source, Salesforce, projects, mdapi, Examples, Flags, Aliases, source-behavior]
 ---
@@ -239,7 +239,7 @@ Output directory to store the Metadata API–formatted files in.
 
 Type: option
 
-Default value: metadataPackage\_1774470121757
+Default value: metadataPackage\_1775058857833
 
 \-n | \--package-name PACKAGE-NAME
 

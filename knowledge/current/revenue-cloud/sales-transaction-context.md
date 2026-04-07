@@ -5,7 +5,7 @@ topic: sales-transaction-context
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:21.737Z
+lastCollected: 2026-04-07T09:02:01.679Z
 estimatedTokens: 156
 keywords: [Sales, Transaction, Context, Output, representation, associated]
 ---

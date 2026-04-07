@@ -5,7 +5,7 @@ topic: skillrequirement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.850Z
+lastCollected: 2026-04-07T09:05:27.160Z
 estimatedTokens: 832
 keywords: [SkillRequirement, skill, particular, task, Salesforce, Scheduler, requirements, added, work, API, version, 38.0, later, Calls, Special]
 ---

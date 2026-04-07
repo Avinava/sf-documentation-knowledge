@@ -5,7 +5,7 @@ topic: salesforce-object-search-language-sosl
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:19.846Z
+lastCollected: 2026-04-07T09:06:15.263Z
 estimatedTokens: 1004
 keywords: [Salesforce, Search, Language, SOSL, construct, text-based, queries, against, index, Performance, Considerations, Navigating, Document]
 ---

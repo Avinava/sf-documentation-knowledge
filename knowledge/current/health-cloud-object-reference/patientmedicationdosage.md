@@ -5,7 +5,7 @@ topic: patientmedicationdosage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:34.547Z
+lastCollected: 2026-04-07T09:03:54.972Z
 estimatedTokens: 1868
 keywords: [PatientMedicationDosage, dosage, medication, primarily, add, MedicationStatement, MedicationRequest, MedicationDispense, records, API, version, 51.0, later, Calls, Usage]
 ---

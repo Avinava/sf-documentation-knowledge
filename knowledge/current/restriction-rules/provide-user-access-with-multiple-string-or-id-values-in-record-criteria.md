@@ -5,7 +5,7 @@ topic: provide-user-access-with-multiple-string-or-id-values-in-record-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.380Z
+lastCollected: 2026-04-07T09:05:16.893Z
 estimatedTokens: 213
 keywords: [Provide, User, Access, Multiple, Record, Criteria, restriction, rule, active, users, records, whose, Name__c, matches, rule’s]
 ---

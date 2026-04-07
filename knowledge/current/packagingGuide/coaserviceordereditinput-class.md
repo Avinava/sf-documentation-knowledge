@@ -5,7 +5,7 @@ topic: coaserviceordereditinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.253Z
+lastCollected: 2026-04-07T09:04:53.859Z
 estimatedTokens: 156
 keywords: [COA_ServiceOrderEditInput, Wrapper, input, passed, edit, operation, COA, _ServiceOrderEditInput]
 ---

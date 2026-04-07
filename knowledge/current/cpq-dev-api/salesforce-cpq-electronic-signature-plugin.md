@@ -5,7 +5,7 @@ topic: salesforce-cpq-electronic-signature-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.778Z
+lastCollected: 2026-04-07T09:03:40.471Z
 estimatedTokens: 89
 keywords: [Salesforce, CPQ, Electronic, Plugin, lets, developers, add, functionality, their, orgs, useful, organizations, wish, streamline, processes]
 ---

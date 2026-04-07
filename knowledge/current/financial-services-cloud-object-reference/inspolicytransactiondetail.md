@@ -5,8 +5,8 @@ topic: inspolicytransactiondetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.621Z
-estimatedTokens: 1056
+lastCollected: 2026-04-07T09:03:49.930Z
+estimatedTokens: 1376
 keywords: [InsPolicyTransactionDetail, insurance, policy, transaction, API, version, 55.0, later, Calls, Associated, Objects]
 ---
 
@@ -26,11 +26,17 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 | Field | Details |
 | --- | --- |
+| Commission | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe commission component of the transaction for the coverage, asset, or participant record. |
+| Fee | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe fee component of the transaction for the coverage, asset, or participant record. |
 | InsurancePolicyTransactionId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe insurance policy transaction associated with the insurance policy transaction detail.This is a relationship field.Relationship NameInsurancePolicyTransactionRelationship TypeLookupRefers ToInsurancePolicyTransaction |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last accessed this record, a record related to this record, or a list view. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the insurance policy transaction detail record. |
+| ParentTransactionDetailId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe parent transaction detail associated with the transaction detail.This field is a relationship field.Relationship NameParentTransactionDetailRefers ToInsPolicyTransactionDetail |
+| Premium | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe premium component of the transaction for the coverage, asset, or participant record. |
+| PriorTransactionDetailId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reference transaction detail to which the current transaction detail is linked.This field is a relationship field.Relationship NamePriorTransactionDetailRefers ToInsPolicyTransactionDetail |
 | ReferenceObjectId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe coverage, insured item, or participant record associated with the insurance policy transaction detail.This is a polymorphic relationship field.Relationship NameReferenceObjectRelationship TypeLookupRefers ToInsurancePolicyAsset, InsurancePolicyCoverage, InsurancePolicyParticipant |
+| Tax | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe tax component of the transaction for the coverage, asset, or participant record. |
 
 ## Associated Objects
 

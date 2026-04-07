@@ -5,7 +5,7 @@ topic: loyaltyprogrammbrpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.234Z
+lastCollected: 2026-04-07T09:04:20.078Z
 estimatedTokens: 751
 keywords: [LoyaltyProgramMbrPromotion, promotions, applied, loyalty, program, member, Tracks, enrollment, status, promotion, progress, API, version, 51.0, later]
 ---

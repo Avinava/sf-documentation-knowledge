@@ -5,7 +5,7 @@ topic: oci-inventory-levels-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.221Z
+lastCollected: 2026-04-07T09:03:32.748Z
 estimatedTokens: 142
 keywords: [OCI, Inventory, Levels, Output, data]
 ---

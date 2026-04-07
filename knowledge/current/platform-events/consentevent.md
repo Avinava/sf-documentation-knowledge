@@ -5,7 +5,7 @@ topic: consentevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.435Z
+lastCollected: 2026-04-07T09:05:05.972Z
 estimatedTokens: 628
 keywords: [ConsentEvent, Notifies, subscribers, changes, consent, contact, core, objects, API, version, 50.0, later, Calls, Subscription, Channel]
 ---

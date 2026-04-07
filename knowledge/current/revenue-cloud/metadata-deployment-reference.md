@@ -5,7 +5,7 @@ topic: metadata-deployment-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:22.207Z
+lastCollected: 2026-04-07T09:02:02.011Z
 estimatedTokens: 773
 keywords: [Metadata, Deployment, know, sequence, associated]
 ---

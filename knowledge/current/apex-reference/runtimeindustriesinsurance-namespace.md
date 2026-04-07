@@ -5,7 +5,7 @@ topic: runtimeindustriesinsurance-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:31.774Z
+lastCollected: 2026-04-07T09:02:30.003Z
 estimatedTokens: 361
 namespace: The
 keywords: [runtime_industries_insurance, options, classes, insurance, operations, creating, updating, quotes, generating, clauses, running, rating, runtime, _industries, _insurance]

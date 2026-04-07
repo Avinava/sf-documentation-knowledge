@@ -5,7 +5,7 @@ topic: automate-time-sheet-creation-capture-omni-status-change-and-calculate-shr
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.669Z
+lastCollected: 2026-04-07T09:06:19.484Z
 estimatedTokens: 964
 keywords: [Automate, Time, Sheet, Creation, Capture, Omni, Status, Change, Calculate, Shrinkage, basic, automation, Log, agents, Omni-Channel]
 ---

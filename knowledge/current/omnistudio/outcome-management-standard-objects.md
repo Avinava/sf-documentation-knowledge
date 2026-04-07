@@ -5,7 +5,7 @@ topic: outcome-management-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.083Z
+lastCollected: 2026-04-07T09:02:57.661Z
 estimatedTokens: 823
 keywords: [Outcome, Management, Standard, Objects, data, model, define, measure, evaluate, organization’s, strategy]
 ---

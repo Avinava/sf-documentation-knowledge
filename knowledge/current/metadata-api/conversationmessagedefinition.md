@@ -5,7 +5,7 @@ topic: conversationmessagedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:04.807Z
+lastCollected: 2026-04-07T09:02:38.577Z
 estimatedTokens: 3737
 keywords: [ConversationMessageDefinition, messaging, component, Enhanced, channel, In-App, Web, session, Parent, File, Suffix, Directory, Location, Version, ConversationMessageConstant]
 ---

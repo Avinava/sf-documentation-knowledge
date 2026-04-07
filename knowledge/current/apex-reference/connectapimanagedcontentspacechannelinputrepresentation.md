@@ -5,7 +5,7 @@ topic: connectapimanagedcontentspacechannelinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:47.175Z
+lastCollected: 2026-04-07T09:02:20.398Z
 estimatedTokens: 203
 keywords: [Channel, add, remove, managed, content, space]
 ---

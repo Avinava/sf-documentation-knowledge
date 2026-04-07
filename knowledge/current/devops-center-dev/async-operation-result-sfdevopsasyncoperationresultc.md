@@ -5,7 +5,7 @@ topic: async-operation-result-sfdevopsasyncoperationresultc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.413Z
+lastCollected: 2026-04-07T09:03:41.480Z
 estimatedTokens: 791
 keywords: [Async, Operation, Result, sf_devops__Async_Operation_Result__c, communication, bridge, Heroku, app, DevOps, Center, creates, instance, delegates, certain, asynchronous]
 ---

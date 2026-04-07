@@ -5,7 +5,7 @@ topic: supported-salesforce-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:05.961Z
+lastCollected: 2026-04-07T09:02:39.725Z
 estimatedTokens: 664
 keywords: [Salesforce, Editions, Metadata, API, organization, Enterprise, Edition, Unlimited, Performance, Developer, you’re, customer, want, upgrade, contact]
 ---

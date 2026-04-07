@@ -5,7 +5,7 @@ topic: adorderitemdeliveryfrequency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.493Z
+lastCollected: 2026-04-07T09:04:21.764Z
 estimatedTokens: 704
 keywords: [AdOrderItemDeliveryFrequency, frequency, order, item, served, API, version, 64.0, later, Calls, Associated, Objects]
 ---

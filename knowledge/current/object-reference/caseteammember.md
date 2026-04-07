@@ -5,7 +5,7 @@ topic: caseteammember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:06.346Z
+lastCollected: 2026-04-07T09:04:36.729Z
 estimatedTokens: 519
 keywords: [CaseTeamMember, case, team, member, works, users, help, resolve, Calls, Special, Access, Rules]
 ---

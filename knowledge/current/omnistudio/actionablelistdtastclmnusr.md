@@ -5,7 +5,7 @@ topic: actionablelistdtastclmnusr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.611Z
+lastCollected: 2026-04-07T09:02:58.158Z
 estimatedTokens: 1235
 keywords: [ActionableListDtastClmnUsr, user, preference, actionable, dataset, column, API, version, 59.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: launch-channel-order-app-guided-onboarding
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.665Z
+lastCollected: 2026-04-07T09:04:54.560Z
 estimatedTokens: 273
 keywords: [Launch, Channel, Order, App, Guided, Onboarding, COA, setup, tasks, efficiently, in-app, experience, walks, assigning, permission]
 ---

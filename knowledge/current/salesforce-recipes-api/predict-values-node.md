@@ -5,7 +5,7 @@ topic: predict-values-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.898Z
+lastCollected: 2026-04-07T09:05:25.733Z
 estimatedTokens: 119
 keywords: [Predict, Node, missing, recipe]
 ---

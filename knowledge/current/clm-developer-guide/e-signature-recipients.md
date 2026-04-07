@@ -5,7 +5,7 @@ topic: e-signature-recipients
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:22.331Z
+lastCollected: 2026-04-07T09:03:38.014Z
 estimatedTokens: 174
 keywords: [E-signature, Recipients]
 ---

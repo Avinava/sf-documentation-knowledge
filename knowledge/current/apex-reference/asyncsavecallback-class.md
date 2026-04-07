@@ -5,7 +5,7 @@ topic: asyncsavecallback-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.396Z
+lastCollected: 2026-04-07T09:02:14.477Z
 estimatedTokens: 554
 namespace: DataSource
 keywords: [AsyncSaveCallback, callback, Database.insertAsync, Database.updateAsync, references, Salesforce, calls, remote, operation, completed, compensating, transaction, completion, context, insert]

@@ -5,7 +5,7 @@ topic: create-your-amazon-s3-bucket
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.323Z
+lastCollected: 2026-04-07T09:04:18.921Z
 estimatedTokens: 135
 keywords: [Amazon, Bucket, store, receipt, images, any, data, AWS]
 ---

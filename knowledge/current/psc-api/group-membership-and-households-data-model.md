@@ -5,8 +5,8 @@ topic: group-membership-and-households-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.526Z
-estimatedTokens: 140
+lastCollected: 2026-04-07T09:05:12.003Z
+estimatedTokens: 137
 keywords: [Group, Membership, Households, Data, Model, objects, relationships, memberships, known, party, relationship, groups]
 ---
 
@@ -22,6 +22,6 @@ Learn about the objects and relationships used for group memberships, also known
 | --- |
 
 
-![Objects used for group membership.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fgroup_membership_and_households%2Fimages%2Fpsc_data_model_248_party_relationship_groups.png&folder=psc_api)
+![Objects used for group membership.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fgroup_membership_and_households%2Fimages%2Fpsc_data_model_248_party_relationship_groups.png&folder=psc_api)
 
 To view a larger version, right-click or Ctrl+click the image and select **Open Image in New Tab**.

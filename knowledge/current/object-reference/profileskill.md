@@ -5,7 +5,7 @@ topic: profileskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.526Z
+lastCollected: 2026-04-07T09:04:47.544Z
 estimatedTokens: 895
 keywords: [ProfileSkill, profile, skill, user’s, professional, knowledge, record, organization, users, associated, ProfileSkillUser, Calls, Usage, Objects]
 ---

@@ -5,7 +5,7 @@ topic: apexsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T07:46:03.466Z
+lastCollected: 2026-04-07T09:02:37.267Z
 estimatedTokens: 1587
 namespace: Metadata
 keywords: [ApexSettings, Apex-related, org, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]

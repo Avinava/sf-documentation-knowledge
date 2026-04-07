@@ -5,7 +5,7 @@ topic: deploy-apex-using-devops-center
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:42.883Z
+lastCollected: 2026-04-07T09:02:32.182Z
 estimatedTokens: 164
 keywords: [Deploy, Apex, DevOps, Center, Salesforce, improved, experience, around, change, release, management, Build, pipeline, configure, promote]
 ---

@@ -5,7 +5,7 @@ topic: orgmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.153Z
+lastCollected: 2026-04-07T09:04:45.975Z
 estimatedTokens: 452
 keywords: [OrgMetric, feature, metric, Salesforce, Optimizer, evaluates, API, version, 47.0, later, Calls, Special, Access, Rules]
 ---

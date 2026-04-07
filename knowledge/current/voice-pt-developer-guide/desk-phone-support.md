@@ -5,7 +5,7 @@ topic: desk-phone-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.910Z
+lastCollected: 2026-04-07T09:06:18.325Z
 estimatedTokens: 1964
 keywords: [Desk, Phone, Support, telephony, provider, supports, phones, reps, outbound, calls, answer, inbound, their, decline, initiate]
 ---

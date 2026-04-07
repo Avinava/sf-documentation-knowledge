@@ -5,7 +5,7 @@ topic: process-configuration-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.704Z
+lastCollected: 2026-04-07T09:05:17.374Z
 estimatedTokens: 425
 keywords: [Process, Configuration, Settings, executing, API, system, reads, Setting, Custom, order, define, it’s, behavior]
 ---

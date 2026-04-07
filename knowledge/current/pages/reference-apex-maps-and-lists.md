@@ -5,7 +5,7 @@ topic: reference-apex-maps-and-lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.505Z
+lastCollected: 2026-04-07T09:04:59.012Z
 estimatedTokens: 413
 keywords: [Apex, Maps, Visualforce, pages, dynamic, bindings, Map, data, their, markup, Unresolved, References]
 ---

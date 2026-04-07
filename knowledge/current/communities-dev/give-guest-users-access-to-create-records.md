@@ -5,7 +5,7 @@ topic: give-guest-users-access-to-create-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.296Z
+lastCollected: 2026-04-07T09:03:39.731Z
 estimatedTokens: 1174
 keywords: [Give, Guest, Users, Access, Records, configure, user, profile, include, desired, Record, IDs, Creation, Apex, Flow]
 ---

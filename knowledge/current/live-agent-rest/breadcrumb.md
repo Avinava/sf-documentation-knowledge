@@ -5,7 +5,7 @@ topic: breadcrumb
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.252Z
+lastCollected: 2026-04-07T09:04:16.081Z
 estimatedTokens: 142
 keywords: [Breadcrumb, URL, Web, chat, visitor, viewing, chats, agent, determine]
 ---

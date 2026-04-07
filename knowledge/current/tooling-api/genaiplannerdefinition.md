@@ -5,7 +5,7 @@ topic: genaiplannerdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:45.204Z
+lastCollected: 2026-04-07T09:02:47.758Z
 estimatedTokens: 608
 keywords: [GenAiPlannerDefinition, agent, planner, service, uses, large, language, model, LLM, reasoning, strategy, decompose, task, smaller, subtasks]
 ---

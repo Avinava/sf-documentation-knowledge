@@ -5,7 +5,7 @@ topic: actionableeventsubtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.904Z
+lastCollected: 2026-04-07T09:03:05.902Z
 estimatedTokens: 501
 keywords: [ActionableEventSubtype, subtype, external, internal, event, that's, processed, Actionable, Orchestration, framework, trigger, different, actions, API, version]
 ---

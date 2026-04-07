@@ -5,7 +5,7 @@ topic: invocable-actions-custom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.731Z
+lastCollected: 2026-04-07T09:05:16.028Z
 estimatedTokens: 39
 keywords: [Invocable, Actions, Custom, statically, invoked, basic, action]
 ---

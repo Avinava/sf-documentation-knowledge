@@ -5,7 +5,7 @@ topic: external-data-source-callout-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.164Z
+lastCollected: 2026-04-07T09:04:40.229Z
 estimatedTokens: 1175
 keywords: [External, Data, Source, Callout, Event, events, represent, callouts, via, Salesforce, Connect, adapters, Amazon, DynamoDB, Athena]
 ---

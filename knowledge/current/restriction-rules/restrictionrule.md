@@ -5,8 +5,8 @@ topic: restrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.354Z
-estimatedTokens: 691
+lastCollected: 2026-04-07T09:05:16.850Z
+estimatedTokens: 692
 keywords: [RestrictionRule, restriction, rule, scoping, enforcementType, Restrict, access, users, designated, records, restricting, extends, Metadata, inherits, fullName, EnforcementType, SOAP, API, Calls, REST]
 ---
 

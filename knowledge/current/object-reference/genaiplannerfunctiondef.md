@@ -5,7 +5,7 @@ topic: genaiplannerfunctiondef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.924Z
+lastCollected: 2026-04-07T09:04:42.242Z
 estimatedTokens: 190
 keywords: [GenAiPlannerFunctionDef, relationship, agent, planner, service, actions, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---

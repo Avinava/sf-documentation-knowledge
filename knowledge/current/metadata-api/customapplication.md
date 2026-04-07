@@ -5,7 +5,7 @@ topic: customapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:04.971Z
+lastCollected: 2026-04-07T09:02:38.737Z
 estimatedTokens: 7760
 namespace: PackageApp
 keywords: [CustomApplication, custom, standard, application, API, version, 29.0, earlier, tab, references, logo, extends, Metadata, inherits, fullName]

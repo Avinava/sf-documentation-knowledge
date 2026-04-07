@@ -5,7 +5,7 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.742Z
+lastCollected: 2026-04-07T09:03:20.159Z
 estimatedTokens: 637
 keywords: [TransactionJournal, transactions, processed, rebate, program, order, line, units, $1200, member, ABC, enterprises, API, version, 51.0]
 ---

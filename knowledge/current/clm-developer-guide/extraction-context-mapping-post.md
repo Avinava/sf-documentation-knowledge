@@ -5,7 +5,7 @@ topic: extraction-context-mapping-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:22.356Z
+lastCollected: 2026-04-07T09:03:38.054Z
 estimatedTokens: 228
 keywords: [Extraction, Context, Mapping, POST, context-mapping, show, how, extracted, data, associated, Salesforce]
 ---

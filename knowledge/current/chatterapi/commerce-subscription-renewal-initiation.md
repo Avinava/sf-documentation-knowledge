@@ -5,7 +5,7 @@ topic: commerce-subscription-renewal-initiation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.087Z
+lastCollected: 2026-04-07T09:03:25.163Z
 estimatedTokens: 637
 keywords: [Commerce, Subscription, Renewal, Initiation, Renew, active, API, registered, shoppers]
 ---

@@ -5,7 +5,7 @@ topic: configure-default-package-versions-for-api-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.715Z
+lastCollected: 2026-04-07T09:05:00.848Z
 estimatedTokens: 1071
 keywords: [Configure, Package, Versions, API, Calls, specify, enterprise, partner]
 ---

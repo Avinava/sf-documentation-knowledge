@@ -1,21 +1,21 @@
 ---
-title: "productrequired"
+title: "ProductRequired"
 domain: health-cloud-object-reference
 topic: productrequired
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.173Z
+lastCollected: 2026-04-07T09:03:58.212Z
 estimatedTokens: 792
-keywords: [productrequired, product, needed, visit, Calls, Usage, Associated, Objects]
+keywords: [ProductRequired, product, needed, visit, Calls, Usage, Associated, Objects]
 ---
 
-# productrequired
+# ProductRequired
 
 > Represents a product that is needed to complete a
     visit.
 
-# productrequired
+# ProductRequired
 
 Represents a product that is needed to complete a visit.
 

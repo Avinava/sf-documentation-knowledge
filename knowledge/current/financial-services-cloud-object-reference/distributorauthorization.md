@@ -5,7 +5,7 @@ topic: distributorauthorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.044Z
+lastCollected: 2026-04-07T09:03:49.297Z
 estimatedTokens: 1319
 keywords: [DistributorAuthorization, official, authorization, insurance, company, granting, distributor, permission, act, agent, API, version, 48.0, later, Calls]
 ---

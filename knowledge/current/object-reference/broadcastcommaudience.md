@@ -5,7 +5,7 @@ topic: broadcastcommaudience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:05.663Z
+lastCollected: 2026-04-07T09:04:35.887Z
 estimatedTokens: 1664
 keywords: [BroadcastCommAudience, audience, broadcast, communication, sent, API, version, 56.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

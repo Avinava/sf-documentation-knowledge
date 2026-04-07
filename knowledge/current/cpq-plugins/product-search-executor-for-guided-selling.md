@@ -5,7 +5,7 @@ topic: product-search-executor-for-guided-selling
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.993Z
+lastCollected: 2026-04-07T09:03:40.818Z
 estimatedTokens: 255
 keywords: [Product, Search, Executor, Guided, Selling, plugin, filters, results, prompt, sales, rep’s, input, consists, Visualforce, controller]
 ---

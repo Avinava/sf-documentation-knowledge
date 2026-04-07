@@ -5,7 +5,7 @@ topic: salestrxndecompositionevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.813Z
+lastCollected: 2026-04-07T09:02:05.566Z
 estimatedTokens: 364
 keywords: [SalesTrxnDecompositionEvent, Notifies, decomposition, process, status, changes, API, version, 66.0, later, Calls, Subscribers, Streaming, Subscription, Channel]
 ---

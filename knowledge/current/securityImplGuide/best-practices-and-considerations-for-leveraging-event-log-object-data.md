@@ -5,7 +5,7 @@ topic: best-practices-and-considerations-for-leveraging-event-log-object-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.636Z
+lastCollected: 2026-04-07T09:05:28.282Z
 estimatedTokens: 749
 keywords: [Best, Practices, Considerations, Leveraging, Event, Log, Data, It’s, understand, recommended, limitations, framework, tips, ensure, queries]
 ---

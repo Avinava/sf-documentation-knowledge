@@ -5,7 +5,7 @@ topic: listviewevent-policies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.744Z
+lastCollected: 2026-04-07T09:05:28.427Z
 estimatedTokens: 481
 keywords: [ListViewEvent, Policies, View, event, monitor, data, viewed, downloaded, views, Salesforce, Classic, Lightning, Experience, API, Policy]
 ---

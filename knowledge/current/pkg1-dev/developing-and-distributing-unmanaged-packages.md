@@ -5,7 +5,7 @@ topic: developing-and-distributing-unmanaged-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.542Z
+lastCollected: 2026-04-07T09:05:01.809Z
 estimatedTokens: 411
 keywords: [Developing, Distributing, Unmanaged, Packages, open-source, projects, developers, one-time, drop, applications, require, customization, installation]
 ---

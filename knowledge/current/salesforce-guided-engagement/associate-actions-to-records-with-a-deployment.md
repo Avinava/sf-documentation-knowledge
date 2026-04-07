@@ -5,7 +5,7 @@ topic: associate-actions-to-records-with-a-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.913Z
+lastCollected: 2026-04-07T09:05:24.057Z
 estimatedTokens: 2299
 keywords: [Associate, Actions, Records, Deployment, Recommendations, show, open, phone, screen, popups, chats, views, lets, Best, Action]
 ---

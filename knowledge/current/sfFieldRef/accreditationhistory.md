@@ -5,7 +5,7 @@ topic: accreditationhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.125Z
+lastCollected: 2026-04-07T09:05:30.446Z
 estimatedTokens: 260
 keywords: [AccreditationHistory, History, tracked, Accreditation]
 ---

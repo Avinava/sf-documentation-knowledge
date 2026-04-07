@@ -5,7 +5,7 @@ topic: successresult-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.133Z
+lastCollected: 2026-04-07T09:02:28.132Z
 estimatedTokens: 359
 namespace: EventBus
 keywords: [SuccessResult, result, Apex, publish, callback, event, publishing, succeeded, onSuccess, EventPublishSuccessCallback, getEventUuids]

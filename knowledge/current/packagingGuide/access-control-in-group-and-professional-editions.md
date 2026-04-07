@@ -5,7 +5,7 @@ topic: access-control-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.793Z
+lastCollected: 2026-04-07T09:04:54.759Z
 estimatedTokens: 161
 keywords: [Access, Control, Group, Professional, Editions, Edition, doesn’t, support, field-level, security, custom, profiles, manage, layout, instead]
 ---

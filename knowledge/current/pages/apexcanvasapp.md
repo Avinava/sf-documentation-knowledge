@@ -5,7 +5,7 @@ topic: apexcanvasapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.189Z
+lastCollected: 2026-04-07T09:04:57.128Z
 estimatedTokens: 1386
 keywords: [apex, canvasApp, Renders, canvas, app, identified, developerName, namespacePrefix, applicationName, pair, attribute, precedence, developer, organization, doesn't]
 ---

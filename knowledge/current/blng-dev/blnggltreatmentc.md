@@ -5,7 +5,7 @@ topic: blnggltreatmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.300Z
+lastCollected: 2026-04-07T09:03:17.030Z
 estimatedTokens: 893
 keywords: [blng__GLTreatment__c, lookups, credit, General, Ledger, account, debit, establish, relationship, transaction, accounts, blng, _GLTreatment, Calls]
 ---

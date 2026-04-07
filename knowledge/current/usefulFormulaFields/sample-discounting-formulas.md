@@ -5,7 +5,7 @@ topic: sample-discounting-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.272Z
+lastCollected: 2026-04-07T09:06:17.342Z
 estimatedTokens: 338
 keywords: [Sample, Discounting, Formulas, calculate, discount, amounts, Maintenance, Services, Opportunity, Amount, Rounded, Approval]
 ---

@@ -5,7 +5,7 @@ topic: api-end-of-life-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.170Z
+lastCollected: 2026-04-07T09:03:04.865Z
 estimatedTokens: 243
 keywords: [API, End-of-Life, Policy, Check, retiring, versions, Streaming, deprecated, retired]
 ---

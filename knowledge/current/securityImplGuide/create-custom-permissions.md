@@ -5,7 +5,7 @@ topic: create-custom-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.620Z
+lastCollected: 2026-04-07T09:05:28.261Z
 estimatedTokens: 278
 keywords: [Custom, Permissions, give, users, access, processes, apps]
 ---

@@ -5,7 +5,7 @@ topic: srcpredjobstatuschgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.307Z
+lastCollected: 2026-04-07T09:06:07.908Z
 estimatedTokens: 369
 keywords: [SrcPredJobStatusChgEvent, Notifies, subscribers, Data, Cloud, prediction, job’s, status, changed, API, version, 50.0, later]
 ---

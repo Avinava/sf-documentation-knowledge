@@ -5,7 +5,7 @@ topic: apexchart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.198Z
+lastCollected: 2026-04-07T09:04:57.138Z
 estimatedTokens: 1075
 namespace: MyNamespace.MyChart
 keywords: [apex, chart, Visualforce, general, characteristics, including, size, data, binding, Attributes]

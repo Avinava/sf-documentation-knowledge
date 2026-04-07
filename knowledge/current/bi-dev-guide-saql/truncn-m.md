@@ -6,7 +6,7 @@ topic: truncn-m
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.469Z
+lastCollected: 2026-04-07T09:03:14.171Z
 estimatedTokens: 119
 keywords: [trunc, numeric, expression, truncated, decimal, places, negative, case, function, left, point, omitted, place, any, real]
 ---

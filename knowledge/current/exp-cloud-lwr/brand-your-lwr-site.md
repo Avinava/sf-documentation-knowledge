@@ -5,7 +5,7 @@ topic: brand-your-lwr-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.543Z
+lastCollected: 2026-04-07T09:03:45.823Z
 estimatedTokens: 895
 keywords: [Brand, LWR, Site, Build, sites, consistently, match, new, Lightning, Web, Runtime, design, system, includes, base]
 ---

@@ -5,7 +5,7 @@ topic: checking-job-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.233Z
+lastCollected: 2026-04-07T09:05:18.152Z
 estimatedTokens: 229
 keywords: [Checking, Job, Status, CSV, Export, API, scheduled, uses, csvGuid, input, Path, Query, Sample, Queued, Ready]
 ---

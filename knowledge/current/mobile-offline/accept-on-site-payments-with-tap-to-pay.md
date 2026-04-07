@@ -5,7 +5,7 @@ topic: accept-on-site-payments-with-tap-to-pay
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.148Z
+lastCollected: 2026-04-07T09:04:25.488Z
 estimatedTokens: 707
 keywords: [Accept, On-Site, Payments, Tap-to-Pay, Lightning, web, component, mobile, device, let, customers, capability, plug-in, pay, workers]
 ---

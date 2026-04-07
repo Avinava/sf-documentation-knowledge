@@ -5,8 +5,8 @@ topic: durable-generic-streaming-sample
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.194Z
-estimatedTokens: 1167
+lastCollected: 2026-04-07T09:03:04.897Z
+estimatedTokens: 1154
 keywords: [Durable, Generic, Streaming, Sample, Visualforce, how, replay, options, subscribe, receive, event, notifications, Channel, Generate, Events]
 ---
 
@@ -28,7 +28,7 @@ Create a StreamingChannel object by using the Salesforce UI.
 1.  Log in to your Developer Edition org.
 2.  If you’re using Salesforce Classic, under All Tabs (+), select **Streaming Channels**. If you’re using Lightning Experience, from the App Launcher, select **All Items**, and then click **Streaming Channels**.
 3.  On the Streaming Channels page, click **New** to create a streaming channel.
-4.  Enter /u/TestStreaming in **Streaming Channel Name** and add an optional description. Your new Streaming Channel page looks something like this:![Screenshot of a new streaming channel](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_test_channel.png&folder=api_streaming)
+4.  Enter /u/TestStreaming in **Streaming Channel Name** and add an optional description. Your new Streaming Channel page looks something like this:![Screenshot of a new streaming channel](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_test_channel.png&folder=api_streaming)
 5.  Click **Save**. You now have a streaming channel that clients can subscribe to for notifications.
 
 StreamingChannel is a regular, creatable Salesforce object, so you can also create one programmatically using Apex or a data API like the SOAP API or REST API, or using a tool such as the Developer Console. For more information, see [Reference: StreamingChannel](atlas.en-us.api_streaming.meta/api_streaming/streamingChannel.htm).
@@ -63,7 +63,7 @@ This Visualforce sample is part of the Durable Streaming Demo app.
 
     The Notifications section is updated and shows only the last five events starting from replay ID 6.
 
-    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_vfsample_replay_messages_from_6.png&folder=api_streaming)
+    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_vfsample_replay_messages_from_6.png&folder=api_streaming)
 
 6.  To receive only the events that are sent after you subscribe, enter \-1 in the **Replay From Id** field. Then click **Update Subscription**.
 
@@ -73,13 +73,13 @@ This Visualforce sample is part of the Durable Streaming Demo app.
 
     The Notifications section is updated with the new events and doesn’t show the old events.
 
-    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_vfsample_replay_messages_new_events.png&folder=api_streaming)
+    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_vfsample_replay_messages_new_events.png&folder=api_streaming)
 
 8.  Switch the replay option back to -2.
 
     The page displays all events, including events that were sent earlier.
 
-    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fapi_streaming_vfsample_replay_messages_all.png&folder=api_streaming)
+    ![Visualforce sample that generates and replays past events](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fapi_streaming_vfsample_replay_messages_all.png&folder=api_streaming)
 
 ## Related Topics
 

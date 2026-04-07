@@ -5,7 +5,7 @@ topic: connect-rest-api-request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.900Z
+lastCollected: 2026-04-07T09:03:20.376Z
 estimatedTokens: 153
 keywords: [Connect, REST, API, Bodies, perform, POST, PATCH, PUT, pass, query, formatted, either, XML, JSON, chapter]
 ---

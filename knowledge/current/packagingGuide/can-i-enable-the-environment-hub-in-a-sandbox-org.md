@@ -5,7 +5,7 @@ topic: can-i-enable-the-environment-hub-in-a-sandbox-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.841Z
+lastCollected: 2026-04-07T09:04:54.826Z
 estimatedTokens: 48
 keywords: [enable, Environment, Hub, sandbox, org, can’t, production, users, access]
 ---

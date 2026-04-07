@@ -5,7 +5,7 @@ topic: implement-a-queue-management-visitor-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.510Z
+lastCollected: 2026-04-07T09:06:19.242Z
 estimatedTokens: 284
 keywords: [Implement, Queue, Management, Visitor, Experience, Let, patrons, join, digital, wait-list, keep, tabs, facility, occupancy, product]
 ---

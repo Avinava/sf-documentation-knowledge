@@ -5,7 +5,7 @@ topic: svccatalogfulfillflowitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.534Z
+lastCollected: 2026-04-07T09:02:49.185Z
 estimatedTokens: 879
 keywords: [SvcCatalogFulfillFlowItem, variable, fulfillment, flow, Service, Catalog, accept, input, API, version, 53.0, 56.0, SOAP, Calls, REST]
 ---

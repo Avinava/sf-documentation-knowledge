@@ -5,7 +5,7 @@ topic: loanapplicantasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.944Z
+lastCollected: 2026-04-07T09:03:50.306Z
 estimatedTokens: 497
 keywords: [LoanApplicantAsset, junction, borrower, loan, application, asset, API, version, 47.0, later, Calls, Associated, Objects]
 ---

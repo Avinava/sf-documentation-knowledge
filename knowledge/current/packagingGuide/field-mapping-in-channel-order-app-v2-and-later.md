@@ -5,7 +5,7 @@ topic: field-mapping-in-channel-order-app-v2-and-later
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.652Z
+lastCollected: 2026-04-07T09:04:54.540Z
 estimatedTokens: 511
 keywords: [Mapping, Channel, Order, App, Later, COA, retired, service, detail, you’re, upgrading, v1.39, earlier, how, map]
 ---

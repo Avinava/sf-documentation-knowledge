@@ -5,7 +5,7 @@ topic: lifesciemailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:46.318Z
+lastCollected: 2026-04-07T09:04:10.807Z
 estimatedTokens: 2305
 keywords: [LifeSciEmailTemplate, collection, pre-designed, approved, email, templates, end, users, send, healthcare, professionals, HCPs, help, consistent, professional]
 ---

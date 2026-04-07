@@ -5,7 +5,7 @@ topic: userservicepresence
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.008Z
+lastCollected: 2026-04-07T09:04:52.092Z
 estimatedTokens: 1374
 keywords: [UserServicePresence, presence, user’s, real-time, status, API, version, 32.0, later, Calls, Special, Access, Rules, Usage, Associated]
 ---

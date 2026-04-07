@@ -5,7 +5,7 @@ topic: format-date-pattern-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.274Z
+lastCollected: 2026-04-07T09:05:24.658Z
 estimatedTokens: 115
 keywords: [Date, Pattern, Input, conversion]
 ---

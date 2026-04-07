@@ -5,7 +5,7 @@ topic: what-are-custom-controllers-and-controller-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.279Z
+lastCollected: 2026-04-07T09:04:58.668Z
 estimatedTokens: 434
 keywords: [Custom, Controllers, Controller, Extensions, Apex, implements, logic, leveraging, standard, want, Visualforce, run, entirely, system, mode]
 ---

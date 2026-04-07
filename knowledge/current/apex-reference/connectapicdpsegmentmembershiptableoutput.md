@@ -5,7 +5,7 @@ topic: connectapicdpsegmentmembershiptableoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:50.078Z
+lastCollected: 2026-04-07T09:02:22.653Z
 estimatedTokens: 128
 keywords: [Data, segment, membership]
 ---

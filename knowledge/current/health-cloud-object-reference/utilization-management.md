@@ -5,7 +5,7 @@ topic: utilization-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:35.038Z
+lastCollected: 2026-04-07T09:03:55.639Z
 estimatedTokens: 1283
 keywords: [Utilization, Management, health, insurance, plan's, process, interfacing, plan, members, contracted, medical, providers, interpret, administer, explain]
 ---

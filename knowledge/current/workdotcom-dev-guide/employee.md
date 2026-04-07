@@ -5,7 +5,7 @@ topic: employee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.272Z
+lastCollected: 2026-04-07T09:06:18.865Z
 estimatedTokens: 2847
 keywords: [Employee, company, organization, API, version, 48.0, later, 49.0, supports, reports, criteria-based, sharing, rules, history, tracking, Work.com, uses, standard, track, users]
 ---

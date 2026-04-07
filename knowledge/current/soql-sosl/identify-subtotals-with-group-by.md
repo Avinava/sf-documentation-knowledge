@@ -5,7 +5,7 @@ topic: identify-subtotals-with-group-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.748Z
+lastCollected: 2026-04-07T09:06:15.128Z
 estimatedTokens: 717
 keywords: [Identify, Subtotals, GROUP, ROLLUP, CUBE, clause, SOQL, query, add, whether, row, subtotal, GROUPING, fieldName, function]
 ---

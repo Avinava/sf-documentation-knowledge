@@ -5,7 +5,7 @@ topic: integrate-your-custom-apps-into-the-chatter-publisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.293Z
+lastCollected: 2026-04-07T09:04:13.171Z
 estimatedTokens: 1561
 keywords: [Integrate, Custom, Apps, Chatter, Publisher, Rich, API, developers, attach, any, payload, feed, item, uses, Lightning]
 ---

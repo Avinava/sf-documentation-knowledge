@@ -5,7 +5,7 @@ topic: deploydetails
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:44.442Z
+lastCollected: 2026-04-07T09:02:46.949Z
 estimatedTokens: 198
 keywords: [DeployDetails, complex, detailed, XML, any, compile, errors, reported, asynchronous, defined, ContainerAsyncRequest, Replaces, JSON, CompilerErrors, Tooling]
 ---

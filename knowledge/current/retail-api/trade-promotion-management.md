@@ -5,7 +5,7 @@ topic: trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.814Z
+lastCollected: 2026-04-07T09:05:17.505Z
 estimatedTokens: 667
 keywords: [Trade, Promotion, Management, TPM, helps, oversee, promotions, run, retailers, planning, completion, ensure, achieves, objectives, streamline]
 ---

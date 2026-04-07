@@ -5,8 +5,8 @@ topic: subscribe-to-platform-event-messages-with-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:28.135Z
-estimatedTokens: 1146
+lastCollected: 2026-04-07T09:05:05.558Z
+estimatedTokens: 1139
 keywords: [Subscribe, Platform, Event, Messages, Flows, Launch, resume, running, instances, interviews, received, Subscribed, receive, published, Apex]
 ---
 
@@ -25,7 +25,7 @@ Launch flows or resume running instances of flows, called interviews, when platf
 
 Create a platform event–triggered flow. From the Start element, choose a platform event whose event messages trigger the flow to run.
 
-![Choose a platform event for the platform event triggered flow](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fflow_pe_triggered_choose_event_start.png&folder=platform_events)
+![Choose a platform event for the platform event triggered flow](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fflow_pe_triggered_choose_event_start.png&folder=platform_events)
 
 As you build the flow, you can use the field values from the platform event message by referencing the $Record global variable.
 
@@ -42,7 +42,7 @@ To configure an autolaunched flow to subscribe to a platform event at run time, 
 
 This Pause element is set up to resume a flow interview when a vendor response event message is received (1). The order number in the event message must match the flow’s orderNumber variable value, and the order status must be Shipped (2). When the flow interview resumes, the vendorResponse record variable is populated with the data from the event message (3).
 
-![Screenshot of resume event configuration](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fvpm_event_subscribe_vendorresponse.png&folder=platform_events)
+![Screenshot of resume event configuration](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fvpm_event_subscribe_vendorresponse.png&folder=platform_events)
 
 ## Flow and Platform Event Considerations
 

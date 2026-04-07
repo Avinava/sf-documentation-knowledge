@@ -5,7 +5,7 @@ topic: watchlist-item-metadata-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:02.920Z
+lastCollected: 2026-04-07T09:03:08.693Z
 estimatedTokens: 307
 keywords: [Watchlist, Item, Metadata, Input, Analytics]
 ---

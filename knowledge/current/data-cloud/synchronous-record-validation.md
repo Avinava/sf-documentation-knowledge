@@ -5,7 +5,7 @@ topic: synchronous-record-validation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:29.910Z
+lastCollected: 2026-04-07T09:02:06.875Z
 estimatedTokens: 382
 keywords: [Synchronous, Record, Validation, Quickly, validate, payloads, synchronously, development, mode, commit, records, lake]
 ---

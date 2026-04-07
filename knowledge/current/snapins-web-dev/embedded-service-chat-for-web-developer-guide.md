@@ -5,7 +5,7 @@ topic: embedded-service-chat-for-web-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.412Z
+lastCollected: 2026-04-07T09:06:14.698Z
 estimatedTokens: 1008
 keywords: [Embedded, Service, Chat, Web, Developer, Improve, functionality, deployment, customizing, code, snippet, adding, HTML, JavaScript, Lightning]
 ---

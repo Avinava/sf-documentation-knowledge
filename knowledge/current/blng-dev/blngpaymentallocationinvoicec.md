@@ -5,7 +5,7 @@ topic: blngpaymentallocationinvoicec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.459Z
+lastCollected: 2026-04-07T09:03:17.224Z
 estimatedTokens: 931
 keywords: [blng__PaymentAllocationInvoice__c, allocation, payments, specific, invoices, track, manage, how, applied, outstanding, ensuring, accurate, financial, records, reporting]
 ---

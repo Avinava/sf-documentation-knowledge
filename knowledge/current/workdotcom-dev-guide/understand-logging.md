@@ -5,7 +5,7 @@ topic: understand-logging
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.456Z
+lastCollected: 2026-04-07T09:06:19.138Z
 estimatedTokens: 810
 keywords: [Understand, Logging, Work.com, captures, errors, exceptions, originate, Workplace, Command, Center, Wellness, Check, adds, log, messages]
 ---

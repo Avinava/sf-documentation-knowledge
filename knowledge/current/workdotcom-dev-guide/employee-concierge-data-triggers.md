@@ -5,7 +5,7 @@ topic: employee-concierge-data-triggers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.519Z
+lastCollected: 2026-04-07T09:06:19.261Z
 estimatedTokens: 443
 keywords: [Employee, Concierge, Data, Triggers, managed, package, installed, Case, objects, added, recommend, settings, Trigger, Impact, Enabling]
 ---

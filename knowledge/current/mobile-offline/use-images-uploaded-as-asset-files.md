@@ -5,7 +5,7 @@ topic: use-images-uploaded-as-asset-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.047Z
+lastCollected: 2026-04-07T09:04:25.354Z
 estimatedTokens: 769
 keywords: [Images, Uploaded, Asset, Files, modern, alternative, resources, ideal, throughout, components, apps—for, user, elements, icons—or, otherwise]
 ---

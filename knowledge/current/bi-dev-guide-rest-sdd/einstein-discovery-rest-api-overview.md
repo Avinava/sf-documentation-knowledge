@@ -5,7 +5,7 @@ topic: einstein-discovery-rest-api-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:05.073Z
+lastCollected: 2026-04-07T09:03:11.947Z
 estimatedTokens: 436
 keywords: [Einstein, Discovery, REST, API, access, features, predictions, models, stories, programmatically]
 ---

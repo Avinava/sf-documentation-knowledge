@@ -5,7 +5,7 @@ topic: partnerstageddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.438Z
+lastCollected: 2026-04-07T09:03:19.778Z
 estimatedTokens: 1435
 keywords: [PartnerStagedData, data, partners, point, sale, reported, inventory, stored, further, processing, downstream, processes, tracking, reconciliation, ship]
 ---

@@ -5,7 +5,7 @@ topic: using-mashups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.036Z
+lastCollected: 2026-04-07T09:05:24.273Z
 estimatedTokens: 336
 keywords: [Mashups, approach, reducing, amount, data, Salesforce, maintain, large, different, application, needed, refers, arrangement, mashup, because]
 ---

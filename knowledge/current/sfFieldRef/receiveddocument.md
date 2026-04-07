@@ -5,7 +5,7 @@ topic: receiveddocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.657Z
+lastCollected: 2026-04-07T09:06:04.158Z
 estimatedTokens: 404
 keywords: [ReceivedDocument, operation, performed, document, rotating, splitting, text, extraction]
 ---

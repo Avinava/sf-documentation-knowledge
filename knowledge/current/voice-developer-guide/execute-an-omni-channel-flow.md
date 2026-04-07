@@ -5,7 +5,7 @@ topic: execute-an-omni-channel-flow
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.816Z
+lastCollected: 2026-04-07T09:06:18.181Z
 estimatedTokens: 672
 keywords: [Execute, Omni-Channel, Flow, Executes, route, voice, calls, passes, call, Salesforce, VoiceCallId, telephony, vendor, ContactId, rep]
 ---

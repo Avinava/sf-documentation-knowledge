@@ -5,7 +5,7 @@ topic: care-plan-template-goal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.773Z
+lastCollected: 2026-04-07T09:05:09.174Z
 estimatedTokens: 127
 keywords: [Care, Plan, Template, Goal, Output, representation]
 ---

@@ -5,7 +5,7 @@ topic: isfilterhiddenquote-fieldname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.571Z
+lastCollected: 2026-04-07T09:03:40.146Z
 estimatedTokens: 195
 keywords: [isFilterHidden, quote, fieldName, Determines, visibility, filter, hide, let, users, Salesforce, CPQ, calls, implemented, search, input]
 ---

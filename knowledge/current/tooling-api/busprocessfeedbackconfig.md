@@ -5,7 +5,7 @@ topic: busprocessfeedbackconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.055Z
+lastCollected: 2026-04-07T09:02:46.570Z
 estimatedTokens: 1333
 keywords: [BusProcessFeedbackConfig, configuration, feedback, collection, triggers, against, pre-determined, conditions, gather, API, version, 51.0, later, SOAP, Calls]
 ---

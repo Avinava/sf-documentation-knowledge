@@ -5,7 +5,7 @@ topic: flow-for-b2b-referral-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.744Z
+lastCollected: 2026-04-07T09:05:16.044Z
 estimatedTokens: 247
 keywords: [Flow, B2B, Referral, Management, metadata, associated, application, users, series, pages, query, records, database, execute, logic]
 ---

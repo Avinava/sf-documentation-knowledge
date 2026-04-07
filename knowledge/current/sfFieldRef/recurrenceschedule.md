@@ -5,7 +5,7 @@ topic: recurrenceschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.872Z
+lastCollected: 2026-04-07T09:06:04.511Z
 estimatedTokens: 428
 keywords: [RecurrenceSchedule, recurrence, schedule, benefit, Program, Management, API, version, 57.0, later]
 ---

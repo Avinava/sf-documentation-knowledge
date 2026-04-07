@@ -5,7 +5,7 @@ topic: apexremoteobjects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.035Z
+lastCollected: 2026-04-07T09:04:58.307Z
 estimatedTokens: 542
 namespace: String
 keywords: [apex, remoteObjects, component, along, child, <apex, remoteObjectModel>, remoteObjectField>, components, specify, sObjects, access, Visualforce, Remote, Objects]

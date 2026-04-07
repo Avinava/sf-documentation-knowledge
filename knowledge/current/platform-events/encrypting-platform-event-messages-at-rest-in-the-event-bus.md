@@ -6,8 +6,8 @@ topic: encrypting-platform-event-messages-at-rest-in-the-event-bus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.764Z
-estimatedTokens: 1262
+lastCollected: 2026-04-07T09:05:05.020Z
+estimatedTokens: 1259
 keywords: [Encrypting, Platform, Event, Messages, Rest, Bus, increased, security, enable, encryption, they’re, stored, Shield, org, Decrypting]
 ---
 
@@ -63,7 +63,7 @@ To enable encryption of platform event messages at rest, generate an event bus t
 2.  In the Key Management Table, select **Event Bus**.
 3.  Click **Generate Tenant Secret** or, to upload a customer-supplied tenant secret, click **Bring Your Own Key**.
 
-    ![Generate a tenant secret in the Key Management page](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fpe-encryption-eventbus.png&folder=platform_events)
+    ![Generate a tenant secret in the Key Management page](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fpe-encryption-eventbus.png&folder=platform_events)
 
     ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=platform_events)
 

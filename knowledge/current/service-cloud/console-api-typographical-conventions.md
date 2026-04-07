@@ -5,7 +5,7 @@ topic: console-api-typographical-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:54.867Z
+lastCollected: 2026-04-07T09:03:04.704Z
 estimatedTokens: 457
 keywords: [Console, API, Typographical, Conventions, code, examples, Courier, font, italics, brackets, mean]
 ---

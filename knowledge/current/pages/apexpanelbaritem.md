@@ -5,7 +5,7 @@ topic: apexpanelbaritem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.974Z
+lastCollected: 2026-04-07T09:04:58.188Z
 estimatedTokens: 754
 keywords: [apex, panelBarItem, <apex, panelBar>, expand, retract, user, clicks, expanded, content, panelBarItem>, retracted, displays, Attributes]
 ---

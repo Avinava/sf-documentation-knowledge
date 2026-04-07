@@ -5,7 +5,7 @@ topic: retrieving-managed-or-unmanaged-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.131Z
+lastCollected: 2026-04-07T09:03:41.043Z
 estimatedTokens: 210
 keywords: [Retrieving, Managed, Unmanaged, Packages, Ant, Migration, Tool, retired, Spring, ’24, continues, function, future, API, versions]
 ---

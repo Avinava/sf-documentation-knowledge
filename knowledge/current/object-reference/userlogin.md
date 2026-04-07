@@ -5,7 +5,7 @@ topic: userlogin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.826Z
+lastCollected: 2026-04-07T09:04:51.873Z
 estimatedTokens: 341
 keywords: [UserLogin, settings, affect, user’s, ability, log, organization, access, UserPermissions.ManageUsers, permission, API, version, 29.0, later, Calls]
 ---

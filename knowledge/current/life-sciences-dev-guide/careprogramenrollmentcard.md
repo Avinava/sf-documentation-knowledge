@@ -5,7 +5,7 @@ topic: careprogramenrollmentcard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.400Z
+lastCollected: 2026-04-07T09:04:09.860Z
 estimatedTokens: 1098
 keywords: [CareProgramEnrollmentCard, care, program, membership, card, includes, number, enrollment, code, Calls, Associated, Objects]
 ---
@@ -30,7 +30,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CardNumber | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique card number for a care program. Often a membership number or enrollment code on a physical card assigned to the care program enrollee. |
 | CareProgramEnrolleeId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe care program enrollee with whom this care program card is associated. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescriptionName for the care program enrollment card. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSystem from which the record was sourced. |

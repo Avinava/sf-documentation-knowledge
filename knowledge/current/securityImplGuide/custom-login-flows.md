@@ -5,7 +5,7 @@ topic: custom-login-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.616Z
+lastCollected: 2026-04-07T09:05:28.255Z
 estimatedTokens: 487
 keywords: [Custom, Login, Flows, flow, directs, users, process, they, access, Salesforce, org, Experience, Cloud, site, control]
 ---

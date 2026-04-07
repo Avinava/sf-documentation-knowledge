@@ -5,7 +5,7 @@ topic: lightning-web-components-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:48.122Z
+lastCollected: 2026-04-07T09:02:49.553Z
 estimatedTokens: 180
 keywords: [Lightning, Web, Components, Developer, Build, two, programming, models, original, model, Aura]
 ---

@@ -5,7 +5,7 @@ topic: recommendation-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:15.988Z
+lastCollected: 2026-04-07T09:01:57.609Z
 estimatedTokens: 659
 keywords: [Recommendation, Rule, recommend, keyword, Constraint, Modeling, Language, CML, display, suggestions, products, Product, Configurator, condition, under]
 ---

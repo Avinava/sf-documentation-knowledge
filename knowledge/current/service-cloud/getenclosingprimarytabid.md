@@ -5,7 +5,7 @@ topic: getenclosingprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.338Z
+lastCollected: 2026-04-07T09:03:03.240Z
 estimatedTokens: 273
 keywords: [getEnclosingPrimaryTabId, current, primary, tab, works, subtab, navigation, custom, console, components, API, version, 20.0, later, Arguments]
 ---

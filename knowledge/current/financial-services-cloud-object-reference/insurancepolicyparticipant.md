@@ -5,8 +5,8 @@ topic: insurancepolicyparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.742Z
-estimatedTokens: 2314
+lastCollected: 2026-04-07T09:03:50.076Z
+estimatedTokens: 2811
 keywords: [InsurancePolicyParticipant, junction, associates, InsurancePolicy, Account, participants, insurance, policy, include, owners, beneficiaries, Calls, Associated, Objects]
 ---
 
@@ -29,9 +29,12 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Field | Details |
 | --- | --- |
 | BeneficiarySharePercentage | TypepercentPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe percentage of the total benefits that goes to the nominee. |
+| BillingTreatmentId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies how the Subscription Management bills an insurance policy participant.This field is a relationship field.Relationship NameBillingTreatmentRefers ToBillingTreatment |
 | EffectiveDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date from which the participant is active on the policy. |
 | EffectiveFromDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date from when the participant becomes active on the policy. |
 | EffectiveToDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date after when the participant becomes inactive on the policy. |
+| EmployeeContribution | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe employee contribution towards the insurance premium value for the participant. |
+| EmployerContribution | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe employer contribution towards the insurance premium value for the participant. |
 | ExpirationDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date from which the participant is inactive on the policy. |
 | InsurancePolicyId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe ID of the insurance policy. |
 | IsActiveParticipant | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the participant is an active participant on the policy. The default value is False. |
@@ -41,11 +44,14 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
 | LegalGuardianId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe legal guardian of the minor beneficiary. This can be a business account or a person account. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescriptionAn auto-generated number assigned to this record. |
+| OriginalParticipantId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the first instance of a specific participant that's used to track it across policy versions created through lifecycle events.This field is a relationship field.Relationship NameOriginalParticipantRefers ToInsurancePolicyParticipant |
 | ParticipantCode | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique code of the insurance policy participant across all the policy versions. |
 | ParticipantName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the participant of the insurance policy. |
 | PrimaryParticipantAccountId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the primary participant's account. |
 | PrimaryParticipantContactId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the primary participant's contact. |
+| PriorParticipantId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reference participant form before the policy was endorsed or renewed.This field is a relationship field.Relationship NamePriorParticipantRefers ToInsurancePolicyParticipant |
 | ProductId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe product associated with the participant.This field is a relationship field. |
+| ProductSellingModelId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIndicates whether the insurance policy coverage is sold as a one-time sale or an installment-based sale.This field is a relationship field.Relationship NameProductSellingModelRefers ToProductSellingModel |
 | RelatedInsPolicyParticipantId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe related insurance policy participant.This field is a relationship field. |
 | RelatedParticipantAccountId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the related participant's account. |
 | RelatedParticipantContactId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the related participant's contact. |
@@ -53,9 +59,11 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Role | TypemultipicklistPropertiesCreate, Filter, UpdateDescriptionThe roles that the participant has in the policy. For example, owner, beneficiary, driver. |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the source system this record was obtained from. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of this record in the source system. |
+| StandardCommissionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total commission expected for the policy participant across the full policy term. |
 | StandardFeeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected fee for the policy over the policy period. This field is available from API version 51.0 and later. |
 | StandardPremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected premium for the policy over the policy period. This field is available from API version 51.0 and later. |
 | StandardTaxAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected tax on the policy over the policy period. This field is available from API version 51.0 and later. |
+| TermCommissionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe commission amount for the policy participant, prorated based on the participant’s effective dates within the policy. |
 | TermFeeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected fee for the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |
 | TermPremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected premium for the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |
 | TermTaxAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected tax on the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |

@@ -5,7 +5,7 @@ topic: understanding-relationship-names-custom-objects-and-custom-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:19.558Z
+lastCollected: 2026-04-07T09:06:14.882Z
 estimatedTokens: 625
 keywords: [Understanding, Relationship, Custom, Objects, participate, queries, Salesforce, ensures, associated, remain, unique, standard, now, future, Having]
 ---

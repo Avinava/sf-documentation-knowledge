@@ -5,7 +5,7 @@ topic: insplcylimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.148Z
+lastCollected: 2026-04-07T09:05:50.249Z
 estimatedTokens: 333
 keywords: [InsPlcyLimit, data, that's, base, track, insurance, policy, consumption, API, version, 65.0, later]
 ---

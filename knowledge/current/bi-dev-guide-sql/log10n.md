@@ -5,7 +5,7 @@ topic: log10n
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.195Z
+lastCollected: 2026-04-07T09:03:15.277Z
 estimatedTokens: 78
 keywords: [log10, base, logarithm, number, any, positive, non-zero, numeric, range, 1.797e308]
 ---

@@ -5,7 +5,7 @@ topic: articletype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:03.584Z
+lastCollected: 2026-04-07T09:02:37.379Z
 estimatedTokens: 1699
 keywords: [ArticleType, metadata, associated, article, Declarative, File, Suffix, Directory, Location, Version, ArticleTypeChannelDisplay, ArticleTypeTemplate, Sample, Definitions, Wildcard]
 ---

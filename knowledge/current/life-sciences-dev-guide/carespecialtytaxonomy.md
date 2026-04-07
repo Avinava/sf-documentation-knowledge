@@ -5,7 +5,7 @@ topic: carespecialtytaxonomy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.584Z
+lastCollected: 2026-04-07T09:04:10.040Z
 estimatedTokens: 749
 keywords: [CareSpecialtyTaxonomy, junction, CareSpecialty, CareTaxonomy, API, version, 52.0, later, Calls, Associated, Objects]
 ---

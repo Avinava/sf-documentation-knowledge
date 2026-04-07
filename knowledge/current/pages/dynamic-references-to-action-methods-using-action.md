@@ -5,7 +5,7 @@ topic: dynamic-references-to-action-methods-using-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.482Z
+lastCollected: 2026-04-07T09:04:58.969Z
 estimatedTokens: 730
 keywords: [Dynamic, References, Action, $Action, variable, dynamically, actions, specific, record, likely, way, URL, perform]
 ---

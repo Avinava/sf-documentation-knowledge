@@ -5,8 +5,8 @@ topic: promotiontacticrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.577Z
-estimatedTokens: 444
+lastCollected: 2026-04-07T09:05:17.180Z
+estimatedTokens: 443
 keywords: [Promotion.TacticRecord, APEX, wrapper, Promotion, Tactic, SObject, Records, instance, wraps, Record, parent, TPM_Promotion, provide, manipulate, order]
 ---
 
@@ -34,9 +34,9 @@ The following are methods for TPM\_Promotion.TacticRecord.
 
 -   **[global Set<Id> getEffectiveBrands](atlas.en-us.retail_api.meta/retail_api/TPM_PromotionTacticRecord.htm#method_TPM_Promotion.TacticRecord)**
     Returns the read only list of effective brands of the tactic.
--   **[global Set<Id> getEffectiveCategories](atlas.en-us.retail_api.meta/retail_api/TPM_PromotionTacticRecord.htm#unique_2146249290)**
+-   **[global Set<Id> getEffectiveCategories](atlas.en-us.retail_api.meta/retail_api/TPM_PromotionTacticRecord.htm#unique_1874337856)**
     Returns the read only list of effective categories of the tactic.
--   **[global TPM\_ProductFilter getProductFilter](atlas.en-us.retail_api.meta/retail_api/TPM_PromotionTacticRecord.htm#unique_1983150672)**
+-   **[global TPM\_ProductFilter getProductFilter](atlas.en-us.retail_api.meta/retail_api/TPM_PromotionTacticRecord.htm#unique_737987782)**
     Returns the Product filter of the tactic.
 
 ### global Set<Id> getEffectiveBrands

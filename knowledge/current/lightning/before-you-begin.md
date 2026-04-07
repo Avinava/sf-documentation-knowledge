@@ -5,7 +5,7 @@ topic: before-you-begin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.382Z
+lastCollected: 2026-04-07T09:04:14.743Z
 estimatedTokens: 401
 keywords: [Begin, work, Lightning, apps, components, Developer, Edition, org]
 ---

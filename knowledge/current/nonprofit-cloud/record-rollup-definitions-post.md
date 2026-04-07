@@ -5,7 +5,7 @@ topic: record-rollup-definitions-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.898Z
+lastCollected: 2026-04-07T09:04:30.076Z
 estimatedTokens: 314
 keywords: [Record, Rollup, Definitions, POST, results, specific, aggregation, definition, Sort, data, arrange, ascending, descending, order]
 ---

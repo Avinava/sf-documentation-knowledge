@@ -5,7 +5,7 @@ topic: cli-deprecation-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:02.129Z
+lastCollected: 2026-04-07T09:03:07.499Z
 estimatedTokens: 315
 keywords: [CLI, Deprecation, Policy, Salesforce, deprecates, commands, flags, underlying, API, changes]
 ---

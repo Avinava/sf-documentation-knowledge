@@ -5,7 +5,7 @@ topic: gift-transaction-linked-designations-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.048Z
+lastCollected: 2026-04-07T09:03:42.480Z
 estimatedTokens: 90
 keywords: [Gift, Transaction, Linked, Designations, Output, representation]
 ---

@@ -5,7 +5,7 @@ topic: rest-api-for-converting-invoice-lines-with-negative-balances
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.880Z
+lastCollected: 2026-04-07T09:03:17.674Z
 estimatedTokens: 493
 keywords: [REST, API, Converting, Invoice, Lines, Negative, Balances, service, blng__NegativeInvoiceToCreditNoteAction, evaluate, invoices, bulk, credit, notes, containing]
 ---

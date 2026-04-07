@@ -5,7 +5,7 @@ topic: geofencingservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.978Z
+lastCollected: 2026-04-07T09:04:25.305Z
 estimatedTokens: 153
 keywords: [GeofencingService, Here’s, basic, Lightning, web, component, uses, device’s, biometrics, capabilities, verify, device, ownership]
 ---

@@ -5,7 +5,7 @@ topic: frgthaulingemssnfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.190Z
+lastCollected: 2026-04-07T09:04:28.031Z
 estimatedTokens: 1391
 keywords: [FrgtHaulingEmssnFctr, emissions, factors, scope, freight, hauling, API, version, 54.0, later, Calls, Associated, Objects]
 ---

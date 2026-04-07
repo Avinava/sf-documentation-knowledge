@@ -5,7 +5,7 @@ topic: clean-rule-data-service-metrics-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.707Z
+lastCollected: 2026-04-07T09:03:30.405Z
 estimatedTokens: 156
 keywords: [Clean, Rule, Data, Service, Metrics, Collection, services, associated, active, integration, rules, organization]
 ---

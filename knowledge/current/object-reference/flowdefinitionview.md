@@ -5,7 +5,7 @@ topic: flowdefinitionview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.256Z
+lastCollected: 2026-04-07T09:04:41.492Z
 estimatedTokens: 4114
 keywords: [FlowDefinitionView, flow, definition, API, version, 46.0, later, Calls, Usage]
 ---

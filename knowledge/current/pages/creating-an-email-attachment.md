@@ -5,7 +5,7 @@ topic: creating-an-email-attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.554Z
+lastCollected: 2026-04-07T09:04:59.077Z
 estimatedTokens: 647
 keywords: [Creating, Email, Attachment, want, add, few, lines, code, custom, controller, attachments, Blob, file, Apex, Messaging.EmailFileAttachment]
 ---

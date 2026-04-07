@@ -5,8 +5,8 @@ topic: intelligent-sales
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.099Z
-estimatedTokens: 1576
+lastCollected: 2026-04-07T09:03:54.455Z
+estimatedTokens: 1591
 keywords: [Intelligent, Sales, Help, team, plan, execute, visits, manage, inventory]
 ---
 
@@ -27,10 +27,10 @@ Help your sales team plan and execute sales visits and manage field inventory wi
 
 For more details and a larger image, visit the [Data Model Gallery](https://developer.salesforce.com/docs/platform/data-models/guide/intelligent-sales.html "HTML (New Window)").
 
+-   **[ActionPlanTemplate](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_actionplantemplate.htm)**
+    Represents the instance of an action plan template. In Life Sciences cloud, this object is available in API version 65.0 and later.This object is available in API version 44.0 and later.
 -   **[ActionPlanTemplateItem](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_actionplantemplateitem.htm)**
     Represents the instance of an item on an action plan template version. This object is available in API version 44.0 and later.
--   **[actionplantemplate](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_actionplantemplate.htm)**
-    Defines a template for different assessment tasks in a visit. This object is available in API version 49.0 and later.
 -   **[Address](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_address.htm)**
     Represents a mailing, billing, or home address.
 -   **[AssessmentTask](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_assessmenttask.htm)**
@@ -49,11 +49,11 @@ For more details and a larger image, visit the [Data Model Gallery](https://deve
     Represents the stock of a particular product at a particular location in field service, such as all bolts stored in your main warehouse.
 -   **[ProductRequest](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_sforce_api_objects_productrequest.htm)**
     Represents a device request made as part of a care program.
--   **[ProductRequestLineItem](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_sforce_api_objects_productrequestlineitem.htm)**
+-   **[ProductRequestLineItem](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_productrequestlineitem.htm)**
     A junction object between ProductRequest and ProductTransfer This object is available in API version 50.0 and later.
--   **[productrequired](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_productrequired.htm)**
+-   **[ProductRequired](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_productrequired.htm)**
     Represents a product that is needed to complete a visit.
--   **[producttransfer](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_producttransfer.htm)**
+-   **[ProductTransfer](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_producttransfer.htm)**
     Represents the transfer of inventory between locations in field service.
 -   **[RecordAction](atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_recordaction.htm)**
     Represents a relationship between a record and an action, such as a flow. Create a RecordAction for every action that you want to associate with a particular record. Available in API version 42.0 and later.
@@ -76,8 +76,8 @@ For more details and a larger image, visit the [Data Model Gallery](https://deve
 
 ## Related Topics
 
+- ActionPlanTemplate (atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_actionplantemplate.htm)
 - ActionPlanTemplateItem (atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_actionplantemplateitem.htm)
-- actionplantemplate (atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_actionplantemplate.htm)
 - Address (atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_address.htm)
 - AssessmentTask (atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_assessmenttask.htm)
 - Pricebook2 (atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_pricebook2.htm)

@@ -5,7 +5,7 @@ topic: bldgenrgyintensityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:50.147Z
+lastCollected: 2026-04-07T09:05:35.697Z
 estimatedTokens: 270
 keywords: [BldgEnrgyIntensityHistory, History, tracked, BldgEnrgyIntensity]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudboapioutputentityc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.214Z
+lastCollected: 2026-04-07T09:05:19.580Z
 estimatedTokens: 898
 keywords: [cgcloud__BO_API_Output_Entity__c, stores, output, entities, Business, API, version, 54.0, later, cgcloud, _BO, _API, _Output, _Entity, Calls]
 ---

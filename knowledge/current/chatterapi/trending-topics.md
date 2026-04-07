@@ -5,7 +5,7 @@ topic: trending-topics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.774Z
+lastCollected: 2026-04-07T09:03:28.992Z
 estimatedTokens: 366
 keywords: [Trending, Topics, top, five, org]
 ---

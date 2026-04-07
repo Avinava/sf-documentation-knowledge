@@ -5,7 +5,7 @@ topic: insurance-plans-eligibility-check-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.263Z
+lastCollected: 2026-04-07T09:04:02.763Z
 estimatedTokens: 481
 keywords: [Insurance, Plans, Eligibility, Check, POST, PATCH, Evaluate, product, configuration, rules, group, census, member, their, selected]
 ---
@@ -91,7 +91,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/census-management/group-census-members/0r6RM0000000h1pYAA/enrollment-rules/actions/invoke
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/census-management/group-census-members/0r6RM0000000h1pYAA/enrollment-rules/actions/invoke
 ```
 
 ```

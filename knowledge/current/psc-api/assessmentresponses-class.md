@@ -5,8 +5,8 @@ topic: assessmentresponses-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.510Z
-estimatedTokens: 719
+lastCollected: 2026-04-07T09:05:07.241Z
+estimatedTokens: 716
 namespace: PublicSectrSltn
 keywords: [AssessmentResponses, store, dynamic, assessment, responses, Sector, Solutions, AssessmentQuestionResponse, standard, objects, Usage, Special, Access, Rules, storeResponses]
 ---
@@ -35,7 +35,7 @@ Specify the implemented Apex class name in the Remote Actions section of the Omn
 
 This screenshot shows the Apex class name and its method as specified in the Omniscript Remote Action Properties section:
 
-![A representation of Remote Actions in OmniScript in your Salesforce org.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapex%2Freference%2Fns_PublicSectrSltn%2Fimages%2Fremote_actions_omniscript.png&folder=psc_api)
+![A representation of Remote Actions in OmniScript in your Salesforce org.](/docs/resources/img/en-us/260.0?doc_id=apex%2Freference%2Fns_PublicSectrSltn%2Fimages%2Fremote_actions_omniscript.png&folder=psc_api)
 
 ## Special Access Rules
 

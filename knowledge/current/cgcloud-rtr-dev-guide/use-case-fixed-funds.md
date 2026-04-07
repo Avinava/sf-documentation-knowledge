@@ -5,7 +5,7 @@ topic: use-case-fixed-funds
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.461Z
+lastCollected: 2026-04-07T09:03:18.359Z
 estimatedTokens: 1367
 keywords: [Case, Fixed, Funds, custom, datasource, include, fund, KPI, Real, Time, Report, RTR, result, aggregated, category]
 ---

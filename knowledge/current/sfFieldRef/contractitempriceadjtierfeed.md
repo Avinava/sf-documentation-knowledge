@@ -5,7 +5,7 @@ topic: contractitempriceadjtierfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.387Z
+lastCollected: 2026-04-07T09:05:41.186Z
 estimatedTokens: 393
 keywords: [ContractItemPriceAdjTierFeed, Feed, tracking, ContractItemPriceAdjTier]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudpackagesettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:39.290Z
+lastCollected: 2026-04-07T09:05:20.801Z
 estimatedTokens: 850
 keywords: [cgcloud__Package_Setting__c, custom, setting, helps, manage, dynamic, namespaces, API, version, 54.0, later, cgcloud, _Package, _Setting, Calls]
 ---

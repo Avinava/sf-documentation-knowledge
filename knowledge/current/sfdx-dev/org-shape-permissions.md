@@ -5,7 +5,7 @@ topic: org-shape-permissions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.602Z
+lastCollected: 2026-04-07T09:06:13.536Z
 estimatedTokens: 372
 keywords: [Org, Shape, Permissions, Salesforce, admin, Dev, Hub, assign, users, plan, shapes, scratch, orgs, already, permission]
 ---

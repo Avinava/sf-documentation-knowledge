@@ -5,7 +5,7 @@ topic: courseofrgrubriccriterion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.111Z
+lastCollected: 2026-04-07T09:03:43.907Z
 estimatedTokens: 930
 keywords: [CourseOfrgRubricCriterion, activity, rubric, criterion, course, offering, API, version, 65.0, later, Calls, Associated, Objects]
 ---

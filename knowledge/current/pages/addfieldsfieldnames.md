@@ -5,7 +5,7 @@ topic: addfieldsfieldnames
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.525Z
+lastCollected: 2026-04-07T09:04:56.037Z
 estimatedTokens: 229
 keywords: [addFields, fieldNames, Visualforce, loaded, accessible, referenced, markup, adds, controller, explicitly, access, well, Usage]
 ---

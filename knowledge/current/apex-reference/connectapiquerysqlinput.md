@@ -5,7 +5,7 @@ topic: connectapiquerysqlinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:47.730Z
+lastCollected: 2026-04-07T09:02:20.851Z
 estimatedTokens: 407
 keywords: [ConnectApi.QuerySqlInput, input, SQL, query]
 ---

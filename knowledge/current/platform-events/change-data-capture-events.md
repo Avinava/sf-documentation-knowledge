@@ -5,7 +5,7 @@ topic: change-data-capture-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.895Z
+lastCollected: 2026-04-07T09:05:05.257Z
 estimatedTokens: 1085
 keywords: [Change, Data, Capture, Events, Salesforce, publishes, represent, changes, records, include, record, creation, updates, deletion, undeletion]
 ---

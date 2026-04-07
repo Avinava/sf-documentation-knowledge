@@ -5,7 +5,7 @@ topic: tpm-promotion-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.098Z
+lastCollected: 2026-04-07T09:05:22.819Z
 estimatedTokens: 7503
 keywords: [tpm-promotion, Component, LWC, service, loads, TPM, promotion, exposing, state, events, keep, components, sync, changes, provided]
 ---

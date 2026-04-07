@@ -5,7 +5,7 @@ topic: best-practices-for-investigating-report-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.927Z
+lastCollected: 2026-04-07T09:05:28.728Z
 estimatedTokens: 994
 keywords: [Best, Practices, Investigating, Report, Anomalies, Keep, tips, mind, investigate, unusual, user, behavior, They, help, require]
 ---

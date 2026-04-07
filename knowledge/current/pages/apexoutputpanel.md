@@ -5,7 +5,7 @@ topic: apexoutputpanel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.845Z
+lastCollected: 2026-04-07T09:04:58.036Z
 estimatedTokens: 1089
 keywords: [apex, outputPanel, content, grouped, together, rendered, HTML, <span>, tag, <div>, neither, <apex, outputPanel>, group, components]
 ---

@@ -5,7 +5,7 @@ topic: caseteamtemplatemember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:52.779Z
+lastCollected: 2026-04-07T09:05:39.120Z
 estimatedTokens: 287
 keywords: [CaseTeamTemplateMember, member, predefined, case, team, group, users, helps, resolve, cases]
 ---

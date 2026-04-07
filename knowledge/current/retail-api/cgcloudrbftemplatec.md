@@ -5,7 +5,7 @@ topic: cgcloudrbftemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:39.778Z
+lastCollected: 2026-04-07T09:05:21.343Z
 estimatedTokens: 2117
 keywords: [cgcloud__RBF_Template__c, Creation, template, Rate-based, Funding, RBF, records, API, version, 54.0, later, cgcloud, _RBF, _Template, Calls]
 ---

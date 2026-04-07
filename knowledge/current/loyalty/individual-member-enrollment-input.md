@@ -5,8 +5,8 @@ topic: individual-member-enrollment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.903Z
-estimatedTokens: 750
+lastCollected: 2026-04-07T09:04:17.033Z
+estimatedTokens: 753
 keywords: [Individual, Member, Enrollment, Input, representation, creating, person, account, Loyalty, Program, record]
 ---
 
@@ -33,21 +33,21 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| additionalMember​FieldValues | Map<String, String> | The custom attributes of the member in the loyalty program member record.KeysValues | Required | 55.0 |
-| associatedContactDetails | Loyalty Contact Input | The person account record details of the individual type member. | Required | 55.0 |
-| canReceivePartner​Promotions | Boolean | Indicates whether the member can receive partner promotions for the program (true) or not (false). | Optional | 55.0 |
-| canReceivePromotions | Boolean | Indicates whether the loyalty program member can receive promotions. | Optional | 55.0 |
-| createTransaction​Journals | Boolean | Indicates whether to create the transaction journal records (true) or not (false) :The transaction journal records are created to:Credit points to the member for enrolling.Credit points to the member who has referred the new member. | Optional | 55.0 |
-| enrollmentChannel | String | The channel used to by loyalty program member to enroll in to the loyalty program. Possible values are:PosWebEmailCallCenterSocialMobileStoreFranchisePartnerPrint | Optional | 55.0 |
-| enrollmentDate | Date | The date on which the loyalty program member is enrolled in to the loyalty program.The format is: YYYY-MM-DDTHH:mm:ss. For example: 2020-09-08T00:00:00.This field must be provided in the org’s configured timezone, not in Central UTC. The system doesn't convert this value from UTC to org timezone internally. In other words, the provided datetime already represents the correct org-local enrollment date and time. | Required | 55.0 |
+| additional​Member​FieldValues | Map<String, String> | The custom attributes of the member in the loyalty program member record.KeysValues | Required | 55.0 |
+| associatedContact​Details | Loyalty Contact Input | The person account record details of the individual type member. | Required | 55.0 |
+| can​Receive​Partner​Promotions | Boolean | Indicates whether the member can receive partner promotions for the program (true) or not (false). | Optional | 55.0 |
+| can​Receive​Promotions | Boolean | Indicates whether the loyalty program member can receive promotions. | Optional | 55.0 |
+| create​Transaction​Journals | Boolean | Indicates whether to create the transaction journal records (true) or not (false).The transaction journal records are created to:Credit points to the member for enrolling.Credit points to the member who has referred the new member. | Optional | 55.0 |
+| enrollment​Channel | String | The channel used to by loyalty program member to enroll in to the loyalty program. Possible values are:PosWebEmailCallCenterSocialMobileStoreFranchisePartnerPrint | Optional | 55.0 |
+| enrollment​Date | Date | The date on which the loyalty program member is enrolled in to the loyalty program.The format is: YYYY-MM-DDTHH:mm:ss. For example: 2020-09-08T00:00:00.This field must be provided in the org’s configured timezone, not in Central UTC. The system doesn't convert this value from UTC to org timezone internally. In other words, the provided datetime already represents the correct org-local enrollment date and time. | Required | 55.0 |
 | memberStatus | String | The status of the loyalty program member. Possible values are:ActiveInactiveCustom | Required | 55.0 |
-| membershipEndDate | String | The date on which the loyalty program member's membership ends. | Optional | 55.0 |
-| membershipNumber | String | The unique membership number of the loyalty program member. | Required | 55.0 |
+| membership​EndDate | String | The date on which the loyalty program member's membership ends. | Optional | 55.0 |
+| membership​Number | String | The unique membership number of the loyalty program member. | Required | 55.0 |
 | referredBy | String | The membership number of the loyalty program member who has referred the member. | Optional | 55.0 |
-| referredByMemberReferralCode | String | The referral code of the loyalty program member who has referred the member. | Optional | 57.0 |
-| relatedCorporate​MembershipNumber | String | External corporate membership number of the member. | Optional | 55.0 |
-| transactionJournal​StatementFrequency | String | The frequency at which transaction journal statements must be delivered to the member. Possible values are:MonthlyQuarterly | Optional | 55.0 |
-| transactionJournal​StatementMethod | String | The method used to deliver transaction journal statements to the member. Possible values are:MailEmail | Optional | 55.0 |
+| referred​ByMember​ReferralCode | String | The referral code of the loyalty program member who has referred the member. | Optional | 57.0 |
+| related​Corporate​MembershipNumber | String | External corporate membership number of the member. | Optional | 55.0 |
+| transaction​JournalStatement​Frequency | String | The frequency at which transaction journal statements must be delivered to the member. Possible values are:MonthlyQuarterly | Optional | 55.0 |
+| transaction​JournalStatement​Method | String | The method used to deliver transaction journal statements to the member. Possible values are:MailEmail | Optional | 55.0 |
 
 ## Code Examples
 

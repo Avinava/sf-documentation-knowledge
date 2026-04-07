@@ -5,7 +5,7 @@ topic: sellerproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.489Z
+lastCollected: 2026-04-07T09:03:06.728Z
 estimatedTokens: 626
 keywords: [SellerProduct, products, associated, seller, insight, product, availability, production, seller's, role, sales, service, API, version, 65.0]
 ---

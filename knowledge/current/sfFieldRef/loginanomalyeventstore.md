@@ -5,7 +5,7 @@ topic: loginanomalyeventstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.990Z
+lastCollected: 2026-04-07T09:05:52.616Z
 estimatedTokens: 456
 keywords: [LoginAnomalyEventStore, Stores, records, data, access, anomalies, caused, potentially, malicious, login, actions, API, version, 64.0, later]
 ---

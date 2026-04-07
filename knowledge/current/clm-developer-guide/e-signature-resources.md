@@ -5,7 +5,7 @@ topic: e-signature-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.273Z
+lastCollected: 2026-04-07T09:03:37.936Z
 estimatedTokens: 557
 keywords: [E-signature, Resources, Manage, Salesforce, Contracts, process, Users, view, documents, sent, recipients, envelope, status, notification, settings]
 ---

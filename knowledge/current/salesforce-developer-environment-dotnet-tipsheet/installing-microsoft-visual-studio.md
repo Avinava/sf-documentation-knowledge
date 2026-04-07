@@ -5,7 +5,7 @@ topic: installing-microsoft-visual-studio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.273Z
+lastCollected: 2026-04-07T09:05:23.081Z
 estimatedTokens: 328
 keywords: [Installing, Microsoft, Visual, Studio, You’ll, install, Salesforce, APIs, development, environment, robust, NET, applications]
 ---

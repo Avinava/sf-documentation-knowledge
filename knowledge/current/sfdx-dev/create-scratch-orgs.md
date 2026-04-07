@@ -5,7 +5,7 @@ topic: create-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.374Z
+lastCollected: 2026-04-07T09:06:13.272Z
 estimatedTokens: 1775
 keywords: [Scratch, Orgs, Easily, spin, org, open, directly, command, line, Ways, View, Creation, Progress, Salesforce, Release]
 ---

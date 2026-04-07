@@ -5,7 +5,7 @@ topic: digitalwallet
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:56.216Z
+lastCollected: 2026-04-07T09:05:43.332Z
 estimatedTokens: 797
 keywords: [DigitalWallet, customer’s, digital, wallet, service, Salesforce, Payments, payment, source, processing, gateway, API, version, 48.0, later]
 ---

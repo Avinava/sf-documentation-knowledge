@@ -5,7 +5,7 @@ topic: experience-cloud-sites-moderation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.665Z
+lastCollected: 2026-04-07T09:03:25.939Z
 estimatedTokens: 1412
 keywords: [Experience, Cloud, Sites, Moderation, Resources, whether, user, flagged, file, inappropriate, flags, files, audit, statistics, site]
 ---

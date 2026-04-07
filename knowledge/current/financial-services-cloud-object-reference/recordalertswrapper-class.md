@@ -5,7 +5,7 @@ topic: recordalertswrapper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:27.932Z
+lastCollected: 2026-04-07T09:03:46.435Z
 estimatedTokens: 210
 keywords: [RecordAlertsWrapper, callable, fetch, Record, Alert, data, Financial, Services, Cloud, group, results, Account, Category, Usage]
 ---

@@ -5,7 +5,7 @@ topic: custom-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.983Z
+lastCollected: 2026-04-07T09:05:02.513Z
 estimatedTokens: 1118
 keywords: [Custom, Interactions, understand, features, components, subscriber, interacted, how, they, flow, user, journey, Apex, enums, Successful]
 ---

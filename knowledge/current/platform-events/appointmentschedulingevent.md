@@ -5,7 +5,7 @@ topic: appointmentschedulingevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.283Z
+lastCollected: 2026-04-07T09:05:05.787Z
 estimatedTokens: 674
 keywords: [AppointmentSchedulingEvent, Notifies, subscribers, appointment, schedule, added, updated, deleted, API, version, 50.0, later, Calls, Special, Access]
 ---

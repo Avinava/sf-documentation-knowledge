@@ -5,7 +5,7 @@ topic: cgcloudcpsearchstrategyc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.523Z
+lastCollected: 2026-04-07T09:05:19.954Z
 estimatedTokens: 1283
 keywords: [cgcloud__CP_Search_Strategy__c, search, strategy, complex, pricing, conditions, API, version, 54.0, later, cgcloud, _CP, _Search, _Strategy, Calls]
 ---

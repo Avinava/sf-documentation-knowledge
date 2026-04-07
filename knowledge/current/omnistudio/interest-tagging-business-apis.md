@@ -5,7 +5,7 @@ topic: interest-tagging-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:53.778Z
+lastCollected: 2026-04-07T09:02:56.437Z
 estimatedTokens: 655
 keywords: [Interest, Tagging, Business, APIs, give, users, seamless, API, experience, Tags]
 ---

@@ -5,7 +5,7 @@ topic: apex-publish-callback-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.027Z
+lastCollected: 2026-04-07T09:05:05.380Z
 estimatedTokens: 1225
 keywords: [Apex, Publish, Callback, result, asynchronous, operation, completes, final, ready, system, implement, two, interfaces, EventBus.EventPublishFailureCallback, failed]
 ---

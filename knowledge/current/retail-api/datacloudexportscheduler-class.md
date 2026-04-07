@@ -5,7 +5,7 @@ topic: datacloudexportscheduler-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.714Z
+lastCollected: 2026-04-07T09:05:17.390Z
 estimatedTokens: 378
 keywords: [DataCloudExportScheduler, trigger, data, cloud, process, processing, service, new, cgcloud.DataCloudExportScheduler, List<String>, tables, Usage]
 ---

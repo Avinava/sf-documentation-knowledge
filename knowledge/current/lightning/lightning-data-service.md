@@ -5,7 +5,7 @@ topic: lightning-data-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.664Z
+lastCollected: 2026-04-07T09:04:13.704Z
 estimatedTokens: 1768
 keywords: [Lightning, Data, Service, load, edit, record, component, requiring, Apex, code, handles, sharing, rules, field-level, security]
 ---

@@ -5,7 +5,7 @@ topic: lead-events-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:21.040Z
+lastCollected: 2026-04-07T09:04:55.168Z
 estimatedTokens: 409
 keywords: [Lead, Events, AppExchange, Marketplace, Analytics, how, activities, contribute, listing, compare, number, generated, demo, views, versus]
 ---

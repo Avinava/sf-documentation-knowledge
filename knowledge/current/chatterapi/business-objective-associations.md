@@ -5,7 +5,7 @@ topic: business-objective-associations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.373Z
+lastCollected: 2026-04-07T09:03:29.905Z
 estimatedTokens: 106
 keywords: [Business, Objective, Associations, Association]
 ---

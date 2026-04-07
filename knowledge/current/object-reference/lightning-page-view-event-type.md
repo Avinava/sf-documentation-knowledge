@@ -5,7 +5,7 @@ topic: lightning-page-view-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.373Z
+lastCollected: 2026-04-07T09:04:40.443Z
 estimatedTokens: 2741
 keywords: [Lightning, View, Event, events, represent, occurred, Experience, Salesforce, mobile, app, page's, load, time, EventLogFile, API]
 ---

@@ -5,7 +5,7 @@ topic: catalogedapiartifactversioninfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-04-07T07:46:04.317Z
+lastCollected: 2026-04-07T09:02:38.083Z
 estimatedTokens: 266
 keywords: [CatalogedApiArtifactVersionInfo, API, version, Catalog, that’s, referenced, entities, Parent, File, Suffix, Directory, Location, Declarative, Metadata, Sample]
 ---

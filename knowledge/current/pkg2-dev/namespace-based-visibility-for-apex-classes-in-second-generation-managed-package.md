@@ -5,7 +5,7 @@ topic: namespace-based-visibility-for-apex-classes-in-second-generation-managed-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.097Z
+lastCollected: 2026-04-07T09:05:03.898Z
 estimatedTokens: 695
 keywords: [Namespace-Based, Visibility, Apex, Classes, Second-Generation, Managed, Packages, @NamespaceAccessible, package, annotation, interfaces, defined, aren’t, accessible, they]
 ---

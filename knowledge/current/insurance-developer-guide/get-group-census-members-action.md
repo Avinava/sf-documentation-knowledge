@@ -5,8 +5,8 @@ topic: get-group-census-members-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.619Z
-estimatedTokens: 641
+lastCollected: 2026-04-07T09:04:00.080Z
+estimatedTokens: 640
 keywords: [Group, Census, Members, Action, member, records, content, document, asynchronous, bulk, item, record, REST, HTTP, Inputs]
 ---
 
@@ -27,7 +27,7 @@ This action is available in API version 66.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/getGroupCensusMembers
+/services/data/v/actions/standard/getGroupCensusMembers
 
 Formats
 

@@ -5,7 +5,7 @@ topic: migrate-deprecated-metadata-from-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.806Z
+lastCollected: 2026-04-07T09:06:13.866Z
 estimatedTokens: 205
 keywords: [Migrate, Deprecated, Metadata, Unlocked, Packages, deprecate, package, move, new, install, production, org]
 ---

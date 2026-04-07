@@ -5,7 +5,7 @@ topic: manage-appexchange-checkout-subscriptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.335Z
+lastCollected: 2026-04-07T09:04:54.019Z
 estimatedTokens: 441
 keywords: [Manage, AppExchange, Checkout, Subscriptions, Handle, common, customer, requests, viewing, payment, history, adding, removing, licenses, canceling]
 ---

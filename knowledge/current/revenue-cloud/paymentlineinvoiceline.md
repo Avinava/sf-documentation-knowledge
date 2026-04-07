@@ -5,7 +5,7 @@ topic: paymentlineinvoiceline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:26.408Z
+lastCollected: 2026-04-07T09:02:04.671Z
 estimatedTokens: 1357
 keywords: [PaymentLineInvoiceLine, payment, line, that's, applied, unapplied, invoice, API, version, 64.0, later, Calls, Special, Access, Rules]
 ---

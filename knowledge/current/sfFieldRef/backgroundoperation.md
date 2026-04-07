@@ -5,7 +5,7 @@ topic: backgroundoperation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.373Z
+lastCollected: 2026-04-07T09:05:34.717Z
 estimatedTokens: 529
 keywords: [BackgroundOperation, background, operation, asynchronous, job, queue, API, version, 35.0, later]
 ---

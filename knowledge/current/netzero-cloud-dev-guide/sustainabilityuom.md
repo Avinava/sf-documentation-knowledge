@@ -5,8 +5,8 @@ topic: sustainabilityuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.444Z
-estimatedTokens: 578
+lastCollected: 2026-04-07T09:04:25.924Z
+estimatedTokens: 637
 keywords: [SustainabilityUom, unit, measure, UOM, custom, fuel, org, Track, consumption, emission, results, flexibility, add, Parent, File, additional, defined, customer, API, version]
 ---
 
@@ -54,6 +54,7 @@ DELETE, GET, HEAD, PATCH, POST, Query
    <isProtected>false</isProtected>
    <isStationaryAssetUom>false</isStationaryAssetUom>
    <isVehicleAssetUom>false</isVehicleAssetUom>
+   <isWasteUom>true</isWasteUom>
    <masterLabel>Grams</masterLabel>
    <unitType>Weight</unitType>
 </SustainabilityUom>

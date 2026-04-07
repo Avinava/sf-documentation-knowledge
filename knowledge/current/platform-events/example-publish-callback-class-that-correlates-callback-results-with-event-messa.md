@@ -5,7 +5,7 @@ topic: example-publish-callback-class-that-correlates-callback-results-with-even
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.034Z
+lastCollected: 2026-04-07T09:05:05.387Z
 estimatedTokens: 336
 keywords: [Publish, Callback, Correlates, Results, Event, Messages, implementation, how, retry, publishing, failed, events, It’s, trigger, Order]
 ---

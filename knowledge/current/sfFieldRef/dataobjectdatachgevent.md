@@ -5,7 +5,7 @@ topic: dataobjectdatachgevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:55.738Z
+lastCollected: 2026-04-07T09:05:42.729Z
 estimatedTokens: 457
 keywords: [DataObjectDataChgEvent, Notifies, subscribers, action, Data, Cloud, API, version, 53.0, later]
 ---

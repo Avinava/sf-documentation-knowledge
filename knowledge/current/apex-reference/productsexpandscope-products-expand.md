@@ -5,7 +5,7 @@ topic: productsexpandscope-products-expand
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:41.311Z
+lastCollected: 2026-04-07T09:02:13.168Z
 estimatedTokens: 395
 keywords: [productsExpand, scope, products, expand, Fetches, expanded, product, aren’t, found, sObject, variable, reasons, added, output, supports]
 ---

@@ -5,7 +5,7 @@ topic: setredirectcoderedirectcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.698Z
+lastCollected: 2026-04-07T09:04:56.384Z
 estimatedTokens: 602
 keywords: [setRedirectCode, redirectCode, HTTP, redirect, code, PageReference, setRedirect]
 ---

@@ -5,7 +5,7 @@ topic: how-does-a-post-install-script-work
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.659Z
+lastCollected: 2026-04-07T09:05:00.767Z
 estimatedTokens: 892
 keywords: [How, Post, Install, Script, Work, Apex, implements, InstallHandler]
 ---

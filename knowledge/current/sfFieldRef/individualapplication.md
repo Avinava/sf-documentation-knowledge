@@ -5,7 +5,7 @@ topic: individualapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:00.974Z
+lastCollected: 2026-04-07T09:05:49.999Z
 estimatedTokens: 691
 keywords: [IndividualApplication, application, form, submitted, individual, organization, API, version, 50.0, later]
 ---

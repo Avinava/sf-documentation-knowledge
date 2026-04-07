@@ -5,7 +5,7 @@ topic: crm-analytics-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.440Z
+lastCollected: 2026-04-07T09:03:07.931Z
 estimatedTokens: 1840
 keywords: [CRM, Analytics, Configuration, Now, Lightning, Web, Component, code, ready, it’s, time, bring, dashboard, Basic, Advanced]
 ---

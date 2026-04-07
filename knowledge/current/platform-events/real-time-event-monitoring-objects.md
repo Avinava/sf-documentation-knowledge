@@ -5,7 +5,7 @@ topic: real-time-event-monitoring-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.914Z
+lastCollected: 2026-04-07T09:05:05.283Z
 estimatedTokens: 666
 keywords: [Real-Time, Event, Monitoring, Objects, Check, standard, platform, pairs, events, corresponding, store, data, Salesforce, Help]
 ---

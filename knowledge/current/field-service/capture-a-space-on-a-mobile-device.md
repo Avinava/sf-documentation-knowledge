@@ -5,7 +5,7 @@ topic: capture-a-space-on-a-mobile-device
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:49.433Z
+lastCollected: 2026-04-07T09:03:00.977Z
 estimatedTokens: 457
 keywords: [Capture, Space, Mobile, Device, Lightning, web, component, LWC, uses, SpaceCapture, plugin, model, room, created, interactively]
 ---

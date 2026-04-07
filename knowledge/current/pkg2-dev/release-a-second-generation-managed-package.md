@@ -5,7 +5,7 @@ topic: release-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.034Z
+lastCollected: 2026-04-07T09:05:03.801Z
 estimatedTokens: 265
 keywords: [Release, Second-Generation, Managed, Package, new, version, marked, beta, created, develop, may, several, versions, ready, released]
 ---

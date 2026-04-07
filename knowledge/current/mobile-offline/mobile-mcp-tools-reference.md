@@ -5,7 +5,7 @@ topic: mobile-mcp-tools-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.547Z
+lastCollected: 2026-04-07T09:04:24.668Z
 estimatedTokens: 947
 keywords: [Mobile, MCP, Tools, LWC, offline, device-native, capability, development, part, mobile-core, toolsets, Core]
 ---

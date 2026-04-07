@@ -5,7 +5,7 @@ topic: benefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.881Z
+lastCollected: 2026-04-07T09:04:19.608Z
 estimatedTokens: 621
 keywords: [Benefit, benefits, associated, loyalty, program, mapped, members, tier, rules, API, version, 51.0, later, Calls]
 ---

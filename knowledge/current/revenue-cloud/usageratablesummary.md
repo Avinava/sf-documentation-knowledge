@@ -5,8 +5,8 @@ topic: usageratablesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:28.382Z
-estimatedTokens: 1722
+lastCollected: 2026-04-07T09:02:05.881Z
+estimatedTokens: 1735
 keywords: [UsageRatableSummary, aggregation, usage, summaries, calculate, rate, overages, charged, API, version, 63.0, later, Calls, Associated, Objects]
 ---
 
@@ -47,7 +47,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | RatingRequestId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID that invokes the rating service that's used to rate the usage ratable summary.This field is a relationship field.Relationship NameRatingRequestRefers ToRatingRequest |
 | SourceUsageResourceId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe usage resource that’s rated in tokens when usage ratable summary is created. This field is available in API version 65.0 and later.This field is a relationship field.Relationship NameSourceUsageResourceRefers ToUsageResource |
 | StartDateTime | TypedateTimePropertiesCreate, Filter, Sort, UpdateDescriptionThe start date and time of the ratable period. |
-| Status | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe status of the ratable summary.Valid values are:NewRatingCompleteRatingFailedSummaryCreatedInactive—Available in API version 65.0 and later. |
+| Status | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe status of the ratable summary.Valid values are:NewRatingCompleteRatingFailedSummaryCreatedInactive—Available in API version 65.0 and later.InProgress—Available in API version 66.0 and later. |
 | TierQuantity | TypedoublePropertiesCreate, Filter, Sort, UpdateDescriptionThe quantity that impacts the net unit rate of a usage entitlement. |
 | TierQuantityUomId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe unit of measure for the tier quantity.This field is a relationship field.Relationship NameTierQuantityUomRefers ToUnitOfMeasure |
 | TotalAmount | TypedoublePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total amount after calculating the overage based on the net unit rate. |

@@ -5,7 +5,7 @@ topic: advaccountforecastperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.549Z
+lastCollected: 2026-04-07T09:05:31.061Z
 estimatedTokens: 254
 keywords: [AdvAccountForecastPeriod, periods, advanced, account, forecasting, applied]
 ---

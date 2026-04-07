@@ -5,7 +5,7 @@ topic: navigation-and-messaging-with-the-sforceone-object-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.473Z
+lastCollected: 2026-04-07T09:05:00.462Z
 estimatedTokens: 2364
 keywords: [Navigation, Messaging, sforce.one, Salesforce, Platform, includes, event, mechanism, exposed, Visualforce, JavaScript, It’s, any, appears, mobile]
 ---

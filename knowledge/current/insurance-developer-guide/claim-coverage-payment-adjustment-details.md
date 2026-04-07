@@ -5,7 +5,7 @@ topic: claim-coverage-payment-adjustment-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.386Z
+lastCollected: 2026-04-07T09:04:02.943Z
 estimatedTokens: 128
 keywords: [Claim, Coverage, Payment, Adjustment, Output, representation]
 ---

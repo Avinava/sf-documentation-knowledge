@@ -5,7 +5,7 @@ topic: create-a-custom-channel-and-add-real-time-event-monitoring-events-with-to
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.748Z
+lastCollected: 2026-04-07T09:05:04.999Z
 estimatedTokens: 1146
 keywords: [Custom, Channel, Add, Real-Time, Event, Monitoring, Events, Tooling, API, named, Event_Monitoring_Channel__chn, eventType, PlatformEventChannel, two, members]
 ---

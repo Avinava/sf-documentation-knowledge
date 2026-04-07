@@ -5,7 +5,7 @@ topic: flowinterviewlogentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.283Z
+lastCollected: 2026-04-07T09:04:41.525Z
 estimatedTokens: 496
 keywords: [FlowInterviewLogEntry, log, specific, element, that’s, executed, screen, flow, interview, instance, running, previously, run, API, version]
 ---

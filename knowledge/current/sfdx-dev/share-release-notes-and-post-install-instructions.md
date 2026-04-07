@@ -5,7 +5,7 @@ topic: share-release-notes-and-post-install-instructions
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:18.844Z
+lastCollected: 2026-04-07T09:06:13.923Z
 estimatedTokens: 276
 keywords: [Share, Release, Notes, Post-Install, Instructions, what’s, new, changed, released, unlocked, package, users]
 ---

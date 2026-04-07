@@ -5,7 +5,7 @@ topic: create-an-authentication-provider-registration-handler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:31.844Z
+lastCollected: 2026-04-07T09:03:51.310Z
 estimatedTokens: 1286
 keywords: [Authentication, Provider, Registration, Handler, Apex, users, log, third-party, app, external, sign-on, SSO, creates, updates, their]
 ---

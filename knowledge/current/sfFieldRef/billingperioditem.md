@@ -5,7 +5,7 @@ topic: billingperioditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.968Z
+lastCollected: 2026-04-07T09:05:35.439Z
 estimatedTokens: 442
 keywords: [BillingPeriodItem, payment, period, subscription, billing, item, pass, invoice, line, Management, API, version, 55.0, later]
 ---

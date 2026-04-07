@@ -5,8 +5,8 @@ topic: insurancepolicysurcharge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.753Z
-estimatedTokens: 1567
+lastCollected: 2026-04-07T09:03:50.094Z
+estimatedTokens: 2024
 keywords: [InsurancePolicySurcharge, charges, calculated, insurance, policy, assets, coverages, participants, region, API, version, 51.0, later, Calls, Associated]
 ---
 
@@ -29,6 +29,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Field | Details |
 | --- | --- |
 | ApplicableObjectType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the item on which the surcharge was applied.Possible values are:InsurancePolicyAsset—Insurance Policy AssetInsurancePolicyCoverage—Insurance Policy CoverageInsurancePolicyParticipant—Insurance Policy Participant |
+| BillingTreatmentId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe rules that determine how an insurance policy surcharge is billed. For example, advance or arrears.This field is a relationship field.Relationship NameBillingTreatmentRefers ToBillingTreatment |
 | InsurancePolicyAssetId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe insurance policy asset associated with the surcharge. |
 | InsurancePolicyCoverageId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe insurance policy coverage associated with the surcharge. |
 | InsurancePolicyId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe insurance policy associated with the surcharge. |
@@ -39,10 +40,15 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the insurance policy surcharge. |
+| OriginalSurchargeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the first instance of a specific surcharge record (tax or fee) that's used to track it across policy versions created through lifecycle events.This field is a relationship field.Relationship NameOriginalSurchargeRefers ToInsurancePolicySurcharge |
+| ParentSurchargeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe parent surcharge record that this surcharge is associated with. For example, a Tax surcharge is associated with a Fee surcharge.This field is a relationship field.Relationship NameParentSurchargeRefers ToInsurancePolicySurcharge |
+| PriorSurchargeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reference surcharge form before the policy was endorsed or renewed.This field is a relationship field.Relationship NamePriorSurchargeRefers ToInsurancePolicySurcharge |
 | ProductSurchargeId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe product surcharge associated with an insurance policy surcharge.This field is a relationship field. |
+| ProductSellingModelId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies the type of payments. Possible values include one time or installment.This field is a relationship field.Relationship NameProductSellingModelRefers ToProductSellingModel |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the system from which this insurance policy surcharge was obtained. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionThe ID of the insurance policy surcharge record in the source system. This field is unique within your organization. |
 | SurchargeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe surcharge amount calculated for an insurance policy, insurance policy asset, insurance policy coverage, or an insurance policy participant. This surcharge is calculated based on the tax and fee structure defined for products or can be retrieved from a source system. |
+| TaxTreatmentId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies how the taxes are calculated, applied, and reported for billing transactions.This field is a relationship field.Relationship NameTaxTreatmentRefers ToTaxTreatment |
 | TermSurchargeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe surcharge amount calculated for the duration of an insurance policy, insurance policy asset, insurance policy coverage, or insurance policy participant. |
 | Type | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the type of surcharge.Possible values are:FeeTax |
 

@@ -5,7 +5,7 @@ topic: voice-root-email-address-accept-update
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:17.021Z
+lastCollected: 2026-04-07T09:03:29.390Z
 estimatedTokens: 220
 keywords: [Voice, Root, Email, Address, Accept, change, AWS, user, that's, associated, account, resource, Service, Cloud, Amazon]
 ---

@@ -5,7 +5,7 @@ topic: intelligent-document-automation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.817Z
+lastCollected: 2026-04-07T09:03:54.020Z
 estimatedTokens: 435
 keywords: [Intelligent, Document, Automation, data, objects, simplify, management, process, reduce, manual, entry, patients, right, care, services]
 ---

@@ -5,7 +5,7 @@ topic: crm-analytics-asset-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.951Z
+lastCollected: 2026-04-07T09:05:02.469Z
 estimatedTokens: 520
 keywords: [CRM, Analytics, Asset, Interactions, record, package, usage, log, custom_entity_type, AnalyticsDashboard, AnalyticsLens, AnalyticsRecipe, interaction, packaged, assets]
 ---

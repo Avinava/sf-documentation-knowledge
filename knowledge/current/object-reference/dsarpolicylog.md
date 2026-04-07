@@ -5,7 +5,7 @@ topic: dsarpolicylog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.254Z
+lastCollected: 2026-04-07T09:04:39.116Z
 estimatedTokens: 910
 keywords: [DsarPolicyLog, history, Data, Subject, Access, DSAR, policy, execution, requests, log, records, status, results, executed, policies]
 ---

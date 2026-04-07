@@ -5,7 +5,7 @@ topic: cgcloudsignaturetemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.979Z
+lastCollected: 2026-04-07T09:05:21.581Z
 estimatedTokens: 1520
 keywords: [cgcloud__Signature_Template__c, Stores, template, that's, flow, steps, API, version, 54.0, later, cgcloud, _Signature, _Template, Calls, Associated]
 ---

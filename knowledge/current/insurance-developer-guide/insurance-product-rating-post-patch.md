@@ -5,7 +5,7 @@ topic: insurance-product-rating-post-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.314Z
+lastCollected: 2026-04-07T09:04:02.833Z
 estimatedTokens: 648
 keywords: [Insurance, Product, Rating, POST, PATCH, Rate, products, ratings, quoting, processes]
 ---
@@ -93,7 +93,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/product-rating
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/product-rating
 ```
 
 ```

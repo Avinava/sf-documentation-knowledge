@@ -5,7 +5,7 @@ topic: connectapidocumentinfoattributeswrapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.986Z
+lastCollected: 2026-04-07T09:03:46.519Z
 estimatedTokens: 118
 keywords: [Input, representation, supporting, document, complaint]
 ---

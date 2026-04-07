@@ -5,7 +5,7 @@ topic: additional-fields-map-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.659Z
+lastCollected: 2026-04-07T09:04:01.810Z
 estimatedTokens: 101
 keywords: [Additional, Map, Input, representation, AdditionalFieldsMapValue, wrapper, that's, child, AdditionalFieldsMap]
 ---

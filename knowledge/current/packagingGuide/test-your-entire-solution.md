@@ -5,7 +5,7 @@ topic: test-your-entire-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.373Z
+lastCollected: 2026-04-07T09:04:55.783Z
 estimatedTokens: 1910
 keywords: [Test, Entire, Solution, full, scope, manual, testing, automated, security, scanner, tools, perform, scans, include, external]
 ---

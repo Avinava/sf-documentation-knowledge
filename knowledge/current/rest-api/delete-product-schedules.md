@@ -5,7 +5,7 @@ topic: delete-product-schedules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.589Z
+lastCollected: 2026-04-07T09:02:35.681Z
 estimatedTokens: 119
 keywords: [Product, Schedules, installments, revenue, quantity, schedule, opportunity, products, Deleting, fires, triggers, resource, REST, API, version]
 ---

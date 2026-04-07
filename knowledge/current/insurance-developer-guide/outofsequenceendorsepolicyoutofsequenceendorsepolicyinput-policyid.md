@@ -6,7 +6,7 @@ topic: outofsequenceendorsepolicyoutofsequenceendorsepolicyinput-policyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:39.023Z
+lastCollected: 2026-04-07T09:04:00.653Z
 estimatedTokens: 324
 keywords: [OutOfSequenceEndorsePolicy, OutOfSequenceEndorsePolicyInput, policyId, out-of-sequence, endorsement, insurance, policy, API, Version, Requires, Chatter]
 ---

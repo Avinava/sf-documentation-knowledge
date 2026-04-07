@@ -5,7 +5,7 @@ topic: landingpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.531Z
+lastCollected: 2026-04-07T09:04:42.881Z
 estimatedTokens: 1964
 keywords: [LandingPage, Account, Engagement, landing, web, visitor, reaches, clicking, link, advertisement, pages, created, synced, Salesforce, Lightning]
 ---

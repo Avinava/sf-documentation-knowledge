@@ -5,7 +5,7 @@ topic: using-the-inboundemail-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.802Z
+lastCollected: 2026-04-07T09:02:31.214Z
 estimatedTokens: 530
 keywords: [InboundEmail, every, email, Apex, service, domain, receives, Salesforce, creates, separate, contents, attachments, classes, implement, Messaging.InboundEmailHandler]
 ---

@@ -5,7 +5,7 @@ topic: shipment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:50.795Z
+lastCollected: 2026-04-07T09:03:02.312Z
 estimatedTokens: 2366
 keywords: [Shipment, transport, inventory, service, order, items, Management, Calls, Special, Access, Rules, Associated, Objects]
 ---

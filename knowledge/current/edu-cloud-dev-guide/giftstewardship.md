@@ -5,7 +5,7 @@ topic: giftstewardship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.255Z
+lastCollected: 2026-04-07T09:03:42.822Z
 estimatedTokens: 885
 keywords: [GiftStewardship, stewardship, gift, contact, organization, isn't, donor, API, version, 65.0, later, Calls, Special, Access, Rules]
 ---

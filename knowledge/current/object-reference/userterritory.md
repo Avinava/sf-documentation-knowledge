@@ -5,7 +5,7 @@ topic: userterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.037Z
+lastCollected: 2026-04-07T09:04:52.126Z
 estimatedTokens: 760
 keywords: [UserTerritory, User, assigned, Territory, Calls, Special, Access, Rules, Usage]
 ---

@@ -5,7 +5,7 @@ topic: create-custom-content-layout-components-for-experience-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.153Z
+lastCollected: 2026-04-07T09:04:12.949Z
 estimatedTokens: 750
 keywords: [Custom, Content, Layout, Components, Experience, Builder, includes, several, ready-to-use, layouts, define, regions, two-column, ratio, However]
 ---

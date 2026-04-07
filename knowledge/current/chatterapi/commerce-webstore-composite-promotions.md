@@ -5,7 +5,7 @@ topic: commerce-webstore-composite-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.993Z
+lastCollected: 2026-04-07T09:03:25.030Z
 estimatedTokens: 1242
 keywords: [Commerce, Webstore, Composite, Promotions, new, promotion, associated, objects, including, segments, qualifiers, targets, translations, API, created]
 ---

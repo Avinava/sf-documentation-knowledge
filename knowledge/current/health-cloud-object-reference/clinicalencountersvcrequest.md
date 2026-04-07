@@ -5,7 +5,7 @@ topic: clinicalencountersvcrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.313Z
+lastCollected: 2026-04-07T09:03:54.716Z
 estimatedTokens: 791
 keywords: [ClinicalEncounterSvcRequest, service, requests, clinical, encounter, child, ClinicalEncounter, API, version, 51.0, later, Calls, Usage, Associated, Objects]
 ---

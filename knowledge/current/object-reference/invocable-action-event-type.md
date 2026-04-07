@@ -5,8 +5,8 @@ topic: invocable-action-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.250Z
-estimatedTokens: 574
+lastCollected: 2026-04-07T09:04:40.327Z
+estimatedTokens: 750
 keywords: [Invocable, Action, Event, events, capture, calls, Salesforce, Actions, particularly, useful, monitor, invoked, Agentforce, flows, API]
 ---
 
@@ -29,6 +29,7 @@ For details about event monitoring, see the [Trailhead Event Monitoring module](
 | ACTION_NAME | TypeStringDescriptionName of the action. |
 | ACTION_TYPE | TypeStringDescriptionInvocableActionType being referenced. |
 | ACTION_VERSION | TypeStringDescriptionThe invocable action version. |
+| AGENT_ACTION | TypeStringDescriptionThe API name of the agent action that invoked the action. This field is available in API version 66.0 or later. |
 | API_CALLER | TypeStringDescriptionIdentifier of the API caller. This is only populated when the action is invoked from a REST API call |
 | BOT_IDENTIFIER | TypestringDescriptionThe ID of the bot. |
 | BOT_SESSION_IDENTIFIER | TypestringDescriptionThe bot session ID. |
@@ -36,8 +37,11 @@ For details about event monitoring, see the [Trailhead Event Monitoring module](
 | EVENT_TYPE | TypeStringDescriptionThe type of event. The value is always InvocableAction. |
 | FLOW_PROCESS_TYPE | TypeStringDescriptionThe process type of the calling flow. |
 | FLOW_VERSION_ID | TypeStringDescriptionThe ID of the version of the calling flow. |
+| INVOCATION_SOURCE | TypeStringDescriptionIndicates the source type that invoked the action. Valid values are:Agent ActionApexBotFlowInternalPrompt TemplateRESTThis field is available in API version 66.0 or later. |
+| INVOKING_APEX_CLASS_NAME | TypeStringDescriptionThe fully qualified name of the Apex class that invoked the action. This field is available in API version 66.0 or later. |
 | ORGANIZATION_ID | TypeIdDescriptionThe number of invoked requests. |
 | PLANNER_IDENTIFIER | TypestringDescriptionThe ID of the agent planner. |
+| PROMPT_TEMPLATE | TypestringDescriptionThe API name of the prompt template that invoked the action. This field is available in API version 66.0 or later. |
 | REQUEST_COUNT | TypeNumberDescriptionThe number of invoked requests. |
 | REQUEST_ID | TypeStringDescriptionThe unique ID of a single transaction. A transaction can contain one or more events. Each event in a given transaction has the same REQUEST_ID. |
 | TIMESTAMP | TypeStringDescriptionThe access time of Salesforce services in GMT. |

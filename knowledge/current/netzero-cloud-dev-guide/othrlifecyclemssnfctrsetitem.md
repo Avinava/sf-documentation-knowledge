@@ -5,7 +5,7 @@ topic: othrlifecyclemssnfctrsetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.643Z
+lastCollected: 2026-04-07T09:04:28.521Z
 estimatedTokens: 4173
 keywords: [OthrLifecyclEmssnFctrSetItem, individual, emissions, factor, fuel, calculate, occur, throughout, lifecycle, extraction, end-of-life, stationary, vehicle, assets, electricity]
 ---

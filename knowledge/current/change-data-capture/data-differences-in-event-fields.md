@@ -5,7 +5,7 @@ topic: data-differences-in-event-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.514Z
+lastCollected: 2026-04-07T09:03:18.434Z
 estimatedTokens: 1647
 keywords: [Data, Differences, Event, updated, text, sent, diff, SHA-256, hash, unified]
 ---

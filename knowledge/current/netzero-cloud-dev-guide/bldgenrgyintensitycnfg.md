@@ -5,7 +5,7 @@ topic: bldgenrgyintensitycnfg
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.447Z
+lastCollected: 2026-04-07T09:04:29.406Z
 estimatedTokens: 854
 keywords: [BldgEnrgyIntensityCnfg, setup, mapping, Building, Energy, Intensity, Record, internal, enums, primarily, calculations, across, different, API, version]
 ---

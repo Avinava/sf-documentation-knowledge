@@ -5,7 +5,7 @@ topic: custodyitemrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.529Z
+lastCollected: 2026-04-07T09:05:13.333Z
 estimatedTokens: 940
 keywords: [CustodyItemRelation, relationship, custody, item, context, it’s, held, case, proceeding, API, version, 59.0, later, Calls, Special]
 ---

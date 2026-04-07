@@ -6,7 +6,7 @@ topic: target-a-specific-release-for-your-second-generation-managed-packages-dur
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.151Z
+lastCollected: 2026-04-07T09:05:03.987Z
 estimatedTokens: 346
 keywords: [Target, Specific, Release, Second-Generation, Managed, Packages, Salesforce, Transitions, major, specify, preview, previous, creating, package, version]
 ---

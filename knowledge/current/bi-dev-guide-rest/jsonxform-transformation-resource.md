@@ -5,7 +5,7 @@ topic: jsonxform-transformation-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.757Z
+lastCollected: 2026-04-07T09:03:09.759Z
 estimatedTokens: 279
 keywords: [JsonXform, Transformation, Resource, Performs, JSON, invoking, rules, expressions, document, transformed, REST, isn't, saved, server, service]
 ---

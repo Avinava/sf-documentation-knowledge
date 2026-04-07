@@ -5,7 +5,7 @@ topic: buyercriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:05.800Z
+lastCollected: 2026-04-07T09:04:36.064Z
 estimatedTokens: 1264
 keywords: [BuyerCriteria, buyer, context, qualifier, locale, any, groups, Market, API, version, 58.0, later, Calls, Usage, Associated]
 ---

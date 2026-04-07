@@ -5,7 +5,7 @@ topic: apexcomponentmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.736Z
+lastCollected: 2026-04-07T09:02:46.284Z
 estimatedTokens: 1108
 keywords: [ApexComponentMember, working, copy, Visualforce, component, editing, saving, compiling, MetadataContainer, SOAP, API, Calls, Special, Access, Rules]
 ---

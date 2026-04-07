@@ -5,7 +5,7 @@ topic: constraint-modeling-language-cml-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-05T00:23:15.839Z
+lastCollected: 2026-04-07T09:01:57.507Z
 estimatedTokens: 2938
 keywords: [Constraint, Modeling, Language, CML, Best, Practices, prevent, performance, degradation, unexpected, behaviors, engine, executes, code, follow]
 ---

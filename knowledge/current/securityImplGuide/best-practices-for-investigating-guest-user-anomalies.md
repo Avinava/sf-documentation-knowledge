@@ -5,7 +5,7 @@ topic: best-practices-for-investigating-guest-user-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.941Z
+lastCollected: 2026-04-07T09:05:28.749Z
 estimatedTokens: 1011
 keywords: [Best, Practices, Investigating, Guest, User, Anomalies, Keep, tips, mind, investigate, unusual, behavior, require, well-informed, evaluation]
 ---

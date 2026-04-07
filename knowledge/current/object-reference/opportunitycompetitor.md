@@ -5,7 +5,7 @@ topic: opportunitycompetitor
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.499Z
+lastCollected: 2026-04-07T09:04:45.250Z
 estimatedTokens: 359
 keywords: [OpportunityCompetitor, competitor, Opportunity, Calls, Usage]
 ---

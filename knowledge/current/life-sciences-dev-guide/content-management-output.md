@@ -5,7 +5,7 @@ topic: content-management-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.744Z
+lastCollected: 2026-04-07T09:04:06.438Z
 estimatedTokens: 179
 keywords: [Content, Management, Output, job, status, any, associated, messages, APIs]
 ---

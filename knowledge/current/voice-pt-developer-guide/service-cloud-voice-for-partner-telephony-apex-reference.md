@@ -5,7 +5,7 @@ topic: service-cloud-voice-for-partner-telephony-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.964Z
+lastCollected: 2026-04-07T09:06:18.407Z
 estimatedTokens: 3052
 keywords: [Service, Cloud, Voice, Partner, Telephony, Apex, uses, several, classes, _cloud, _voice.ContactCenterInfo, _voice.IntelligenceServiceProvider, _voice.IntelligenceServiceRequest, _voice.IntelligenceServiceResponse, _voice.IntelligenceSignalType]
 ---

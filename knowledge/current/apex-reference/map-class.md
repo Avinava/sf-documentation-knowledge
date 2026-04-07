@@ -5,7 +5,7 @@ topic: map-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.896Z
+lastCollected: 2026-04-07T09:02:28.915Z
 estimatedTokens: 3898
 namespace: System
 keywords: [Map, collection, Usage, Map<T1, T2>, mapToCopy, Map<ID, sObject>, recordList, clear, clone, containsKey, key, deepClone, equals]

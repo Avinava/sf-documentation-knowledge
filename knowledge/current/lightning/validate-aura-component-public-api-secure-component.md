@@ -5,7 +5,7 @@ topic: validate-aura-component-public-api-secure-component-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.036Z
+lastCollected: 2026-04-07T09:04:12.777Z
 estimatedTokens: 461
 keywords: [Validate, Aura, Component, API, secure-component, rule, validates, framework, functions]
 ---

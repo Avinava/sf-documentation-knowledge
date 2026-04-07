@@ -5,7 +5,7 @@ topic: notificationaction-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.179Z
+lastCollected: 2026-04-07T09:02:28.201Z
 estimatedTokens: 630
 namespace: Reports
 keywords: [NotificationAction, Implement, trigger, custom, Apex, conditions, report, notification, met, Usage, execute, context, Implementation]

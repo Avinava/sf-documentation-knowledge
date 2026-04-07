@@ -5,7 +5,7 @@ topic: to-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.435Z
+lastCollected: 2026-04-07T09:03:24.338Z
 estimatedTokens: 1264
 keywords: [Feed, Resources, containing, @mentions, context, user, posts, others, made, user's, URL, Elements]
 ---

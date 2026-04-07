@@ -5,7 +5,7 @@ topic: publishevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.371Z
+lastCollected: 2026-04-07T09:05:29.388Z
 estimatedTokens: 994
 keywords: [publishEvent, Publishes, event, Salesforce, payload, verified, ensure, it’s, correct, published, publish, desk, phone, directly, partner]
 ---

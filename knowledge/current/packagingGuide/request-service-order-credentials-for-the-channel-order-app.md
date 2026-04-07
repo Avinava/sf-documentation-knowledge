@@ -5,7 +5,7 @@ topic: request-service-order-credentials-for-the-channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.724Z
+lastCollected: 2026-04-07T09:04:54.657Z
 estimatedTokens: 596
 keywords: [Service, Order, Credentials, Channel, App, connect, COA, Salesforce, Help, consist, unique, username, API, key, activation]
 ---

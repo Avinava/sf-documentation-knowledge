@@ -5,7 +5,7 @@ topic: flowrecordversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.408Z
+lastCollected: 2026-04-07T09:05:46.416Z
 estimatedTokens: 728
 keywords: [FlowRecordVersion, version, flow, API, 58.0, later]
 ---

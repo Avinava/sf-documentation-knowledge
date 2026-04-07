@@ -5,7 +5,7 @@ topic: metadatawarningsheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:43.170Z
+lastCollected: 2026-04-07T09:02:45.814Z
 estimatedTokens: 121
 keywords: [MetadataWarningsHeader, save, metadata, warnings, Version, Calls]
 ---

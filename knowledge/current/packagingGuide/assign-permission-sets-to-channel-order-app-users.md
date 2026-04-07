@@ -5,7 +5,7 @@ topic: assign-permission-sets-to-channel-order-app-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.750Z
+lastCollected: 2026-04-07T09:04:54.706Z
 estimatedTokens: 244
 keywords: [Assign, Permission, Channel, Order, App, Users, you’re, upgrading, COA, later, give, team, members, access, User]
 ---

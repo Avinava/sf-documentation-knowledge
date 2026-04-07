@@ -5,7 +5,7 @@ topic: flowinterviewownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.297Z
+lastCollected: 2026-04-07T09:04:41.540Z
 estimatedTokens: 658
 keywords: [FlowInterviewOwnerSharingRule, rules, sharing, FlowInterview, users, owner, API, version, 33.0, later, Calls, Usage]
 ---

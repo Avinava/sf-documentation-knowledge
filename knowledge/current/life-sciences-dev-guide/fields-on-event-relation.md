@@ -5,7 +5,7 @@ topic: fields-on-event-relation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.065Z
+lastCollected: 2026-04-07T09:04:08.302Z
 estimatedTokens: 334
 keywords: [Event, Relation, Life, Sciences, Cloud, extend, standard, represent, person, user, lead, contact, resource, conference, room]
 ---

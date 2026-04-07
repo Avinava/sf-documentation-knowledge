@@ -5,8 +5,8 @@ topic: security-requirements-for-appexchange-partners-and-solutions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.210Z
-estimatedTokens: 1658
+lastCollected: 2026-04-07T09:04:55.547Z
+estimatedTokens: 1918
 keywords: [Security, Requirements, AppExchange, Partners, Solutions, Effective, Date, August, Salesforce, Partner, you’re, responsible, implementing, maintaining, comprehensive]
 ---
 
@@ -55,6 +55,10 @@ If your Partner Application is a Tableau Accelerator, you must also follow the r
 
 If your Partner Application is an Agentforce solution, you must also follow the requirements described in [Secure Your Agentforce Solution](atlas.en-us.packagingGuide.meta/packagingGuide/secure_agentforce.htm "All Agentforce solutions listed on AppExchange must adhere to these requirements."). These Agentforce specific requirements are in addition to the General AppExchange Requirements.
 
+## Connected App and External Client App Security Requirements
+
+If your Partner Application includes a Connected App and/or an External Client App (ECA), you must also follow the requirements described in [Secure Your Connected Apps and External Client Apps](atlas.en-us.packagingGuide.meta/packagingGuide/secure_code_ac_eca.htm "These requirements apply to any Connected App or External Client App (ECA) that is included or used in connection with a Partner Application, provided or created by the Partner, and in use by more than two customer production orgs."). These Connect App and ECA specific requirements are in addition to the General AppExchange Requirements.
+
 ## Security Requirements Topics
 
 -   **[Security Policy Requirements](atlas.en-us.packagingGuide.meta/packagingGuide/secure_code_security_policy_requirements.htm)**
@@ -67,6 +71,8 @@ If your Partner Application is an Agentforce solution, you must also follow the 
     All Tableau Accelerators listed on AppExchange must adhere to these requirements.
 -   **[Secure Your Agentforce Solution](atlas.en-us.packagingGuide.meta/packagingGuide/secure_agentforce.htm)**
     All Agentforce solutions listed on AppExchange must adhere to these requirements.
+-   **[Secure Your Connected Apps and External Client Apps](atlas.en-us.packagingGuide.meta/packagingGuide/secure_code_ac_eca.htm)**
+    These requirements apply to any Connected App or External Client App (ECA) that is included or used in connection with a Partner Application, provided or created by the Partner, and in use by more than two customer production orgs.
 
 ## Related Topics
 
@@ -76,4 +82,5 @@ If your Partner Application is an Agentforce solution, you must also follow the 
 - Secure Your Tableau Accelerator (atlas.en-us.packagingGuide.meta/packagingGuide/secure_code_tableau.htm)
 - Secure Your Agentforce
           Solution (atlas.en-us.packagingGuide.meta/packagingGuide/secure_agentforce.htm)
+- Secure Your Connected Apps and External Client Apps (atlas.en-us.packagingGuide.meta/packagingGuide/secure_code_ac_eca.htm)
 - Secure Your Agentforce Solution (atlas.en-us.packagingGuide.meta/packagingGuide/secure_agentforce.htm)

@@ -5,7 +5,7 @@ topic: personlanguage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.556Z
+lastCollected: 2026-04-07T09:03:54.985Z
 estimatedTokens: 1135
 keywords: [PersonLanguage, preference, person’s, language, API, version, 51.0, later, Calls, Usage, Associated, Objects]
 ---

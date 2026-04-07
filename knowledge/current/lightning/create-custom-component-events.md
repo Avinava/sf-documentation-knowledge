@@ -5,7 +5,7 @@ topic: create-custom-component-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.854Z
+lastCollected: 2026-04-07T09:04:13.963Z
 estimatedTokens: 218
 keywords: [Custom, Component, Events, event, <aura, event>, tag, evt, resource, contain, attributes, fired, handled]
 ---

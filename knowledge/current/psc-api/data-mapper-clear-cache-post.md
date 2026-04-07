@@ -5,8 +5,8 @@ topic: data-mapper-clear-cache-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.376Z
-estimatedTokens: 290
+lastCollected: 2026-04-07T09:05:08.572Z
+estimatedTokens: 401
 keywords: [Data, Mapper, Clear, Cache, POST, execution, mappers]
 ---
 
@@ -17,6 +17,12 @@ keywords: [Data, Mapper, Clear, Cache, POST, execution, mappers]
 # Data Mapper Clear Cache (POST)
 
 Clear the execution cache for the specified data mappers.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=psc_api)
+
+#### Note
+
+When using the Data Mapper (DM) Connect API, HTTP callouts cannot be executed in the same transaction. This is because these APIs perform an implicit DML operation through the underlying Connect API framework. If a callout is required, it must be executed in a separate transaction, for example by using an asynchronous mechanism such as @future.
 
 Resource
 

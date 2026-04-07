@@ -5,7 +5,7 @@ topic: insurance-product-clause-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.659Z
+lastCollected: 2026-04-07T09:04:03.402Z
 estimatedTokens: 228
 keywords: [Insurance, Product, Clause, Output, representation]
 ---

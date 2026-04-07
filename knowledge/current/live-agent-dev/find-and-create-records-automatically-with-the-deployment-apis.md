@@ -5,7 +5,7 @@ topic: find-and-create-records-automatically-with-the-deployment-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.062Z
+lastCollected: 2026-04-07T09:04:15.791Z
 estimatedTokens: 622
 keywords: [Records, Automatically, Deployment, APIs, API, search, Salesforce, records—like, case, contact, account, lead—automatically, agent, begins, chat]
 ---

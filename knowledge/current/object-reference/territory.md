@@ -5,7 +5,7 @@ topic: territory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.126Z
+lastCollected: 2026-04-07T09:04:50.932Z
 estimatedTokens: 1154
 keywords: [Territory, flexible, collection, accounts, users, least, access, regardless, owns, Sales, Territories, enabled, Calls, Special, Rules]
 ---
@@ -36,7 +36,7 @@ Standard and partner users can access this object. Users assigned to the Manage 
 | CaseAccessLevel | TypepicklistPropertiesCreate, Filter, Nillable, Group, Sort, UpdateDescriptionCase access level granted to users assigned to this territory. |
 | ContactAccessLevel | TypepicklistPropertiesFilter, Group, Nillable, SortDescriptionA value that represents the type of access granted to the target Group, UserRole, or User for any associated contacts. The possible values are:NoneReadEditNoteWhen DefaultContactAccess is set to “Controlled by Parent,” you can’t create or update this field. |
 | Description | TypestringPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionA description of the territory that is 1,000 characters or less. |
-| DeveloperName | TypestringPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object’s name in a managed package and the changes are reflected in a subscriber’s organization. Corresponds to Territory Name in the user interface.This field is available in API version 24.0 and later.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
+| DeveloperName | TypestringPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object's name in a managed package and the changes are reflected in a subscriber's organization. Corresponds to Territory Name in the user interface.This field is available in API version 24.0 and later.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
 | ForecastUserId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionID of the Forecast Manager, who is the user to whom forecasts from this territory’s child territories roll up. |
 | MayForecastManagerShare | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the forecast manager can manually share their own forecast. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionA name for the territory. Limit is 80 characters. Corresponds to Label on the user interface. |

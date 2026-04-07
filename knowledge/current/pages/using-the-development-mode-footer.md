@@ -5,7 +5,7 @@ topic: using-the-development-mode-footer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.254Z
+lastCollected: 2026-04-07T09:05:00.168Z
 estimatedTokens: 1793
 keywords: [Development, Mode, Footer, enabled, view, edit, content, navigating, URL, named, HelloWorld, Salesforce, instance, MyDomain_login_URL, enter]
 ---

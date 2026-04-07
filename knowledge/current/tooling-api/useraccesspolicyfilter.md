@@ -5,7 +5,7 @@ topic: useraccesspolicyfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.675Z
+lastCollected: 2026-04-07T09:02:49.338Z
 estimatedTokens: 692
 keywords: [UserAccessPolicyFilter, user, criteria, filter, access, policy, API, version, 57.0, later, SOAP, Calls, REST, Special, Rules]
 ---

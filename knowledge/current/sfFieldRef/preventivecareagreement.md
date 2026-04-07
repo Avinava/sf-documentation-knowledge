@@ -5,7 +5,7 @@ topic: preventivecareagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.496Z
+lastCollected: 2026-04-07T09:05:59.910Z
 estimatedTokens: 363
 keywords: [PreventiveCareAgreement, payment, terms, contracts, Preventive, Care, Fee, Agreement]
 ---

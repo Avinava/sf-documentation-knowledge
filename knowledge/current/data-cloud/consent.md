@@ -5,7 +5,7 @@ topic: consent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:28.936Z
+lastCollected: 2026-04-07T09:02:06.270Z
 estimatedTokens: 336
 keywords: [Consent, Salesforce, Interactions, SDK, designed, respect, user, privacy, doesn’t, store, transmit, data, collected, until, granted]
 ---

@@ -5,7 +5,7 @@ topic: scheduled-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.849Z
+lastCollected: 2026-04-07T09:03:08.561Z
 estimatedTokens: 256
 keywords: [Scheduled, Item, Input, base, schedule, data, refresh]
 ---

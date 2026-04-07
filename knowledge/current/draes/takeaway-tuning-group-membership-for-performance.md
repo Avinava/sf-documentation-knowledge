@@ -5,7 +5,7 @@ topic: takeaway-tuning-group-membership-for-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.630Z
+lastCollected: 2026-04-07T09:03:41.756Z
 estimatedTokens: 290
 keywords: [Takeaway, Tuning, Group, Membership, Performance, Understand, characteristics, various, maintenance, operations, you’re, performing, Always, test, substantial]
 ---

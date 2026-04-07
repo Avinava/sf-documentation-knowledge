@@ -5,7 +5,7 @@ topic: carbon-credit-allocation-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.829Z
+lastCollected: 2026-04-07T09:04:26.404Z
 estimatedTokens: 291
 keywords: [Carbon, Credit, Allocation, Item, emissions, activity]
 ---

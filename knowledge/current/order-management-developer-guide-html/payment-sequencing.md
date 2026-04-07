@@ -5,7 +5,7 @@ topic: payment-sequencing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.152Z
+lastCollected: 2026-04-07T09:04:53.651Z
 estimatedTokens: 3311
 keywords: [Payment, Sequencing, ensuring, funds, refunds, orders, include, multiple, control, sequence, apply, amounts, order, partially, paid]
 ---

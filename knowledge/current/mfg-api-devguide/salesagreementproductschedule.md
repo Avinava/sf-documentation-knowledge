@@ -5,7 +5,7 @@ topic: salesagreementproductschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.220Z
+lastCollected: 2026-04-07T09:04:24.180Z
 estimatedTokens: 2042
 keywords: [SalesAgreementProductSchedule, quantity, amount, pricing, product, category, particular, schedule, sales, agreement, API, version, 47.0, later, Calls]
 ---

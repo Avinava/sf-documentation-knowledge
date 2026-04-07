@@ -5,7 +5,7 @@ topic: claim-coverage-payment-detail-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.105Z
+lastCollected: 2026-04-07T09:04:02.527Z
 estimatedTokens: 645
 keywords: [Claim, Coverage, Payment, Detail, PATCH, Modify, record, loss, expense]
 ---
@@ -81,7 +81,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/claims/0Zkxx0000000001CAA/coverages/0kPxx0000000001CAA/payment-details/0l2xx0000000001CAA
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/claims/0Zkxx0000000001CAA/coverages/0kPxx0000000001CAA/payment-details/0l2xx0000000001CAA
 ```
 
 ```

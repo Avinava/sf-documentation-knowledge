@@ -5,8 +5,8 @@ topic: transaction-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:23.493Z
-estimatedTokens: 1312
+lastCollected: 2026-04-07T09:02:02.898Z
+estimatedTokens: 1314
 keywords: [Transaction, Management, Business, APIs, fetch, instant, pricing, data, quote, order]
 ---
 
@@ -26,7 +26,7 @@ This table lists the available Transaction Management resources.
 | /connect/revenue-management/assets/actions/amend (POST) | Initiate and execute the amendment of a quote or an order. |
 | /connect/revenue-management/assets/actions/cancel (POST) | Initiate and execute the cancellation of an asset. |
 | /connect/revenue-management/assets/actions/renew (POST) | Initiate and execute the renewal of an asset. |
-| /industries/cpq/quotes/actions/get-instant-price (POST) | Fetch instant pricing data on the quote or order line data grid and associated summary component. It offers capabilities to either create a context or update the existing one based on the provided context ID. |
+| /industries/cpq/quotes/actions/get-instant-price (POST) | Fetch instant pricing data on the quote or order line data grid and associated summary component. This API offers capabilities to either create a context or update the existing one based on the provided context ID. |
 | /commerce/sales-orders/actions/place (POST) | Place orders with integrated pricing, configuration, and validation, and manage them throughout their entire lifecycle. Additionally, update an order or insert order items. |
 | /commerce/quotes/actions/place (POST) | Create a quote to discover and price products and services. Additionally, insert, update, or delete a quote line item. |
 | /connect/revenue-management/sales-transaction-contexts/resourceId/actions/ramp-deal-create (POST) | Create a ramp deal for a customer on a product. Sales reps can use ramp deals to provide yearly deals to a customer, resulting in long-term revenue and customer relationship. A customer can create, update, or view multiple segments of periods for their subscription term with different attributes for each segment. |

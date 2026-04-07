@@ -5,7 +5,7 @@ topic: defining-and-using-tokens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.964Z
+lastCollected: 2026-04-07T09:04:15.641Z
 estimatedTokens: 467
 keywords: [Defining, Tokens, token, name-value, pair, specify, <aura, token>, component, Define, bundle, components’, CSS, styles, resources]
 ---

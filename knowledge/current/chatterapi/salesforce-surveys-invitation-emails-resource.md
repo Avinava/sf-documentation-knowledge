@@ -5,7 +5,7 @@ topic: salesforce-surveys-invitation-emails-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.710Z
+lastCollected: 2026-04-07T09:03:28.887Z
 estimatedTokens: 937
 keywords: [Salesforce, Surveys, Invitation, Emails, Resource, Email, survey, invitations, participants, leads, contacts, users, org, Either, link]
 ---

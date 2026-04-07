@@ -5,7 +5,7 @@ topic: use-custom-fonts-in-your-experience-builder-site
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.273Z
+lastCollected: 2026-04-07T09:03:39.693Z
 estimatedTokens: 618
 keywords: [Custom, Fonts, Experience, Builder, Site, Upload, resources, primary, throughout, you’ve, font, file, zip]
 ---

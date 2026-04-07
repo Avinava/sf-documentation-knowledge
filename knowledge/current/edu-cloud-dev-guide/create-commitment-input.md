@@ -5,7 +5,7 @@ topic: create-commitment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.755Z
+lastCollected: 2026-04-07T09:03:41.950Z
 estimatedTokens: 129
 keywords: [Commitment, Input, representation, commitments]
 ---
@@ -140,6 +140,7 @@ Properties
 
 ## Related Topics
 
-- Create Commitment Request Input[] (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_requests_create_commitment_request.htm)
+- Create
+                        Commitment Request Input[] (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_requests_create_commitment_request.htm)
 - Processing
                         Options Details Input (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_requests_processing_options_detail.htm)

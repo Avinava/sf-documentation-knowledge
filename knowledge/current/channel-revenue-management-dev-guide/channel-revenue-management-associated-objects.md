@@ -5,7 +5,7 @@ topic: channel-revenue-management-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.169Z
+lastCollected: 2026-04-07T09:03:19.470Z
 estimatedTokens: 535
 keywords: [Channel, Revenue, Management, Associated, Objects, standard, their]
 ---

@@ -5,7 +5,7 @@ topic: entitlementcontact
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.699Z
+lastCollected: 2026-04-07T09:04:39.688Z
 estimatedTokens: 337
 keywords: [EntitlementContact, Contact, eligible, receive, customer, support, via, Entitlement, API, version, 18.0, later, Calls, Usage]
 ---

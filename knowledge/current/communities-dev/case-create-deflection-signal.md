@@ -5,7 +5,7 @@ topic: case-create-deflection-signal
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.255Z
+lastCollected: 2026-04-07T09:03:39.663Z
 estimatedTokens: 914
 keywords: [Case, Deflection, Signal, lightningcommunity, deflectionSignal, event, fired, Aura, site, user, deflected, away, creating, customer, views]
 ---

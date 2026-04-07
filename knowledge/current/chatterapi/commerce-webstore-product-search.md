@@ -5,7 +5,7 @@ topic: commerce-webstore-product-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.502Z
+lastCollected: 2026-04-07T09:03:25.711Z
 estimatedTokens: 1033
 keywords: [Commerce, Webstore, Product, Search, products]
 ---

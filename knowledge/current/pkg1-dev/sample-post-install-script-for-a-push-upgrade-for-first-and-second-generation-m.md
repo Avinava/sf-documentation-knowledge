@@ -6,7 +6,7 @@ topic: sample-post-install-script-for-a-push-upgrade-for-first--and-second-gener
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.663Z
+lastCollected: 2026-04-07T09:05:01.988Z
 estimatedTokens: 420
 keywords: [Sample, Post, Install, Script, Push, Upgrade, First-, Second-Generation, Managed, Packages, Automate, assignment, new, components, users]
 ---

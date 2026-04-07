@@ -5,7 +5,7 @@ topic: accountbrand
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.888Z
+lastCollected: 2026-04-07T09:05:30.132Z
 estimatedTokens: 497
 keywords: [AccountBrand, brand, Partner, Account, API, version, 43.0, later]
 ---

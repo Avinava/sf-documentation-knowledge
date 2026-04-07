@@ -5,7 +5,7 @@ topic: coaserviceordersubmitinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.268Z
+lastCollected: 2026-04-07T09:04:53.889Z
 estimatedTokens: 158
 keywords: [COA_ServiceOrderSubmitInput, Wrapper, input, passed, submit, operation, COA, _ServiceOrderSubmitInput]
 ---

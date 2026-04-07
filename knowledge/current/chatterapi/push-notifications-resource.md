@@ -5,7 +5,7 @@ topic: push-notifications-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.951Z
+lastCollected: 2026-04-07T09:03:27.815Z
 estimatedTokens: 382
 keywords: [Push, Notifications, Resource, Send, mobile, notification, client, apps, users’, devices, accessible, session, established, app, developed]
 ---

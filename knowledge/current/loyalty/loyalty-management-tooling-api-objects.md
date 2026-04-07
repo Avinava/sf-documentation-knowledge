@@ -5,7 +5,7 @@ topic: loyalty-management-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.352Z
+lastCollected: 2026-04-07T09:04:18.963Z
 estimatedTokens: 181
 keywords: [Loyalty, Management, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---

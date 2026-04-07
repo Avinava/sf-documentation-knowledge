@@ -5,7 +5,7 @@ topic: access-token
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.586Z
+lastCollected: 2026-04-07T09:05:23.568Z
 estimatedTokens: 134
 keywords: [Access, Token, enable, survey, invitation, creation, gather, feedback, unauthenticated, participants]
 ---

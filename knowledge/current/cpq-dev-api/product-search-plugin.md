@@ -5,7 +5,7 @@ topic: product-search-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.824Z
+lastCollected: 2026-04-07T09:03:40.541Z
 estimatedTokens: 225
 keywords: [Product, Search, Plugin, Salesforce, CPQ, implement, customize, results, Guided, Selling, vary, slightly, implementations]
 ---

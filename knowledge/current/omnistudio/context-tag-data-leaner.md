@@ -5,7 +5,7 @@ topic: context-tag-data-leaner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:50.876Z
+lastCollected: 2026-04-07T09:02:53.435Z
 estimatedTokens: 244
 keywords: [Context, Tag, Data, Leaner, Output, representation, stores, metadata, reconstruct, index, references, instead, full, path, strings]
 ---

@@ -5,7 +5,7 @@ topic: messagingdeliveryerror
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.820Z
+lastCollected: 2026-04-07T09:04:44.368Z
 estimatedTokens: 721
 keywords: [MessagingDeliveryError, log, triggered, outbound, failures, verify, failed, API, version, 44.0, later, Calls]
 ---

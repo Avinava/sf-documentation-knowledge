@@ -5,7 +5,7 @@ topic: loyaltytiereligibilitysrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.106Z
+lastCollected: 2026-04-07T09:04:18.608Z
 estimatedTokens: 362
 keywords: [LoyaltyTierEligibilitySrc, customer, groups, eligible, club, membership, API, version, 64.0, later, Calls]
 ---

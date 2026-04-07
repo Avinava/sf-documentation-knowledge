@@ -5,7 +5,7 @@ topic: environment-sfdevopsenvironmentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.478Z
+lastCollected: 2026-04-07T09:03:41.569Z
 estimatedTokens: 1633
 keywords: [Environment, sf_devops__Environment__c, connection, DevOps, Center, currently, Salesforce, org, Developers, development, environments, their, work, pipeline, stage]
 ---

@@ -5,7 +5,7 @@ topic: naming-conventions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.962Z
+lastCollected: 2026-04-07T09:02:31.364Z
 estimatedTokens: 212
 keywords: [Naming, Conventions, recommend, Java, standards, classes, start, capital, letter, lowercase, verb, variable, meaningful]
 ---

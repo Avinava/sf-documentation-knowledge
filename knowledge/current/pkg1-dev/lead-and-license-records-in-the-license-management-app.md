@@ -5,7 +5,7 @@ topic: lead-and-license-records-in-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.444Z
+lastCollected: 2026-04-07T09:05:01.649Z
 estimatedTokens: 483
 keywords: [Lead, License, Records, Management, App, time, customer, installs, managed, package, LMA, creates]
 ---

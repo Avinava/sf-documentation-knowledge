@@ -6,7 +6,7 @@ topic: manage-data-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.632Z
+lastCollected: 2026-04-07T09:03:45.954Z
 estimatedTokens: 830
 keywords: [Manage, Data, LWR, Sites, understand, how, visitor, engagement, sent, Cloud, best, tailor, tools, specific, needs]
 ---

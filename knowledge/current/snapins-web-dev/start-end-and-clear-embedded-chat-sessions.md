@@ -5,7 +5,7 @@ topic: start-end-and-clear-embedded-chat-sessions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.288Z
+lastCollected: 2026-04-07T09:06:14.515Z
 estimatedTokens: 1182
 keywords: [Start, End, Clear, Embedded, Chat, Sessions, Three, APIs, allow, Service, code, snippet, version, 5.0, later]
 ---

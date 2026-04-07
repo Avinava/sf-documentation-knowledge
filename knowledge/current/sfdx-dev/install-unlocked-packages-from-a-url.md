@@ -5,7 +5,7 @@ topic: install-unlocked-packages-from-a-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.792Z
+lastCollected: 2026-04-07T09:06:13.837Z
 estimatedTokens: 349
 keywords: [Install, Unlocked, Packages, URL, CLI, browser, similar, how, managed]
 ---

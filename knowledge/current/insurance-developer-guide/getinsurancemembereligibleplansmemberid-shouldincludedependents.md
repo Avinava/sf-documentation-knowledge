@@ -5,7 +5,7 @@ topic: getinsurancemembereligibleplansmemberid-shouldincludedependents
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.922Z
+lastCollected: 2026-04-07T09:04:00.502Z
 estimatedTokens: 235
 keywords: [getInsuranceMemberEligiblePlans, memberId, shouldIncludeDependents, enrollment, plans, group, census, member, their, dependents, eligible, API, Version, Requires, Chatter]
 ---

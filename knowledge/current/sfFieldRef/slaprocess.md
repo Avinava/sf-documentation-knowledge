@@ -5,7 +5,7 @@ topic: slaprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.178Z
+lastCollected: 2026-04-07T09:06:07.734Z
 estimatedTokens: 370
 keywords: [SlaProcess, entitlement, process, associated, API, version, 19.0, later]
 ---

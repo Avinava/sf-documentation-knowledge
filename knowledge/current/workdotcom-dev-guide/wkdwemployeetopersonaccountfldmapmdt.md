@@ -5,7 +5,7 @@ topic: wkdwemployeetopersonaccountfldmapmdt
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.529Z
+lastCollected: 2026-04-07T09:06:19.277Z
 estimatedTokens: 553
 keywords: [mapping, creating, person, account, records, employee, Concierge, custom, metadata, orgs, installed, API, version, 51.0, later]
 ---

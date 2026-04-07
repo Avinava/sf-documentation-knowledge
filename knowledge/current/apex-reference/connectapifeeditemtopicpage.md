@@ -5,7 +5,7 @@ topic: connectapifeeditemtopicpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:25.940Z
+lastCollected: 2026-04-07T09:02:21.354Z
 estimatedTokens: 191
 keywords: [ConnectApi.FeedItemTopicPage, Feed, item, topic]
 ---

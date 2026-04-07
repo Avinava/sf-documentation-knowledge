@@ -5,7 +5,7 @@ topic: css-for-rtl-languages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:47.986Z
+lastCollected: 2026-04-07T09:04:12.697Z
 estimatedTokens: 783
 keywords: [CSS, RTL, Languages, Language, setting, Salesforce, right-to-left, framework, automatically, flips, left, border-left, right, border-right, respectively]
 ---

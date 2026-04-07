@@ -5,7 +5,7 @@ topic: salesforce-crm-party-income-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:31.856Z
+lastCollected: 2026-04-07T09:02:08.159Z
 estimatedTokens: 305
 keywords: [Salesforce, CRM, Party, Income, Mappings, data, PartyIncome, DLO, found, Financial, Services, Cloud, bundle, Connector, Usage]
 ---

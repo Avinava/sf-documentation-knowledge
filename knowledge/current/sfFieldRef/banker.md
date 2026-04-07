@@ -5,7 +5,7 @@ topic: banker
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:49.425Z
+lastCollected: 2026-04-07T09:05:34.759Z
 estimatedTokens: 371
 keywords: [Banker, business, unit, member, assigned, role, branch, API, version, 51.0, later]
 ---

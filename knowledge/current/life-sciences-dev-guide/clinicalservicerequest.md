@@ -5,8 +5,8 @@ topic: clinicalservicerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.190Z
-estimatedTokens: 2980
+lastCollected: 2026-04-07T09:04:07.110Z
+estimatedTokens: 2888
 keywords: [ClinicalServiceRequest, requests, procedure, diagnostic, service, needs, planned, proposed, performed, part, patient’s, healthcare, API, version, 51.0]
 ---
 
@@ -101,9 +101,6 @@ Sharing is available for the object.
 
 Change events are available for the object.
 
--   **[ClinicalServiceRequestDetail](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalServiceRequestDetail.htm)**
-    Associates records from different objects to a clinical service request record to add more information to it. This is a multi-object junction object. This object is available in API version 51.0 and later.
-
 ## Related Topics
 
 - ClinicalServiceRequestFeed (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_feed.htm)
@@ -111,4 +108,3 @@ Change events are available for the object.
 - ClinicalServiceRequestOwnerSharingRule (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_ownersharingrule.htm)
 - ClinicalServiceRequestShare (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_share.htm)
 - ClinicalServiceRequestChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
-- ClinicalServiceRequestDetail (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_ClinicalServiceRequestDetail.htm)

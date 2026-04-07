@@ -5,7 +5,7 @@ topic: smart-data-discovery-scikit-learn-102-model-runtime-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.299Z
+lastCollected: 2026-04-07T09:03:12.372Z
 estimatedTokens: 101
 keywords: [Smart, Data, Discovery, Scikit, Model, Runtime, Input, identify, v1.0.2]
 ---

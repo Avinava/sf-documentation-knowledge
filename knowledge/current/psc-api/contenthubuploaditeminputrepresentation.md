@@ -5,7 +5,7 @@ topic: contenthubuploaditeminputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.445Z
+lastCollected: 2026-04-07T09:05:07.147Z
 estimatedTokens: 141
 keywords: [ContentHubUploadItemInputRepresentation, instance]
 ---

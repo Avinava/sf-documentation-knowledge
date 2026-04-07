@@ -5,7 +5,7 @@ topic: actvplatformfieldvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:03.119Z
+lastCollected: 2026-04-07T09:02:36.958Z
 estimatedTokens: 561
 keywords: [ActvPlatformFieldValue, ActivationPlatformFields, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample, Definition]
 ---

@@ -5,7 +5,7 @@ topic: referencing-an-existing-page-with-apexinclude
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.243Z
+lastCollected: 2026-04-07T09:05:00.152Z
 estimatedTokens: 418
 keywords: [Referencing, <apex, include>, duplicating, components, Custom, better, suited, reusable, segments, code]
 ---

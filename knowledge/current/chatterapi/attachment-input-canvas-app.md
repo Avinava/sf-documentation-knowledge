@@ -5,7 +5,7 @@ topic: attachment-input-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.984Z
+lastCollected: 2026-04-07T09:03:20.495Z
 estimatedTokens: 386
 keywords: [Attachment, Input, Canvas, App]
 ---

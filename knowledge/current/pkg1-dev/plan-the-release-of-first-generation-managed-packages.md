@@ -5,7 +5,7 @@ topic: plan-the-release-of-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.704Z
+lastCollected: 2026-04-07T09:05:00.834Z
 estimatedTokens: 790
 keywords: [Plan, Release, First-Generation, Managed, Packages, Releasing, package, similar, any, program, software, development]
 ---

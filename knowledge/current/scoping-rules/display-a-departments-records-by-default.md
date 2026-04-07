@@ -5,7 +5,7 @@ topic: display-a-departments-records-by-default
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.281Z
+lastCollected: 2026-04-07T09:05:27.827Z
 estimatedTokens: 104
 keywords: [Display, Department’s, Records, scoping, rule, displays, contact, associated, particular, department, user, works, dynamically, matches, owner's]
 ---

@@ -7,7 +7,7 @@ topic: best-practices-for-writing-and-maintaining-enhanced-transaction-security-
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:44.674Z
+lastCollected: 2026-04-07T09:05:28.332Z
 estimatedTokens: 1422
 keywords: [Best, Practices, Writing, Maintaining, Enhanced, Transaction, Security, Policies, policy, management, isn’t, always, easy, especially, sure]
 ---

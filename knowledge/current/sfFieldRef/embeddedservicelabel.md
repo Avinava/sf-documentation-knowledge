@@ -5,7 +5,7 @@ topic: embeddedservicelabel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.877Z
+lastCollected: 2026-04-07T09:05:44.300Z
 estimatedTokens: 249
 keywords: [EmbeddedServiceLabel, customized, label, Embedded, Chat, Appointment, Management.This, API, version, 44.0, later]
 ---

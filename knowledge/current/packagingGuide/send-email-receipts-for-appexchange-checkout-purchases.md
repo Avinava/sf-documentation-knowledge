@@ -5,7 +5,7 @@ topic: send-email-receipts-for-appexchange-checkout-purchases
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.384Z
+lastCollected: 2026-04-07T09:04:54.097Z
 estimatedTokens: 99
 keywords: [Send, Email, Receipts, AppExchange, Checkout, Purchases, customers, Stripe, dashboard]
 ---

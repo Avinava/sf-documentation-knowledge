@@ -5,7 +5,7 @@ topic: webcartadjustmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.120Z
+lastCollected: 2026-04-07T09:06:11.611Z
 estimatedTokens: 468
 keywords: [WebCartAdjustmentGroup, Group, price, adjustments, cart, API, version, 52.0, later]
 ---

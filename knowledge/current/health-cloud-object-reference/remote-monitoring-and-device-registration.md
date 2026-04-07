@@ -5,7 +5,7 @@ topic: remote-monitoring-and-device-registration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.775Z
+lastCollected: 2026-04-07T09:03:55.287Z
 estimatedTokens: 383
 keywords: [Remote, Monitoring, Device, Registration, data, model, objects, managing, collected, devices, issued, patients, program, members, smart]
 ---

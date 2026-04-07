@@ -5,7 +5,7 @@ topic: apexflash
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.434Z
+lastCollected: 2026-04-07T09:04:57.481Z
 estimatedTokens: 535
 keywords: [apex, flash, movie, rendered, HTML, embed, tags, Attributes]
 ---

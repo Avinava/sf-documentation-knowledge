@@ -5,7 +5,7 @@ topic: connectors-call-coaching-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.945Z
+lastCollected: 2026-04-07T09:03:30.771Z
 estimatedTokens: 137
 keywords: [Connectors, Call, Coaching, Status, Current, Einstein, Conversation, Insights, partner]
 ---

@@ -5,7 +5,7 @@ topic: requirements-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.119Z
+lastCollected: 2026-04-07T09:03:04.801Z
 estimatedTokens: 451
 keywords: [Requirements, Limitations, access, Salesforce, Place, Order, REST, API, establish, secure, OAuth, session]
 ---

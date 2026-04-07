@@ -5,7 +5,7 @@ topic: javascript-remoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.407Z
+lastCollected: 2026-04-07T09:02:32.668Z
 estimatedTokens: 660
 keywords: [JavaScript, Remoting, Visualforce, call, Apex, controllers, pages, complex, dynamic, behavior, isn’t, possible, standard, AJAX, components]
 ---

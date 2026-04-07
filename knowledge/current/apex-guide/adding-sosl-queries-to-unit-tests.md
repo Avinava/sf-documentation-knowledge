@@ -5,7 +5,7 @@ topic: adding-sosl-queries-to-unit-tests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.117Z
+lastCollected: 2026-04-07T09:02:33.309Z
 estimatedTokens: 522
 keywords: [Adding, SOSL, Queries, Unit, Tests, ensure, test, always, behave, predictable, way, any, Salesforce, Search, Language]
 ---

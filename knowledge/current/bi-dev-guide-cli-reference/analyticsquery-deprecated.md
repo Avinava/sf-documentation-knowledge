@@ -5,7 +5,7 @@ topic: analyticsquery-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:02.048Z
+lastCollected: 2026-04-07T09:03:07.404Z
 estimatedTokens: 873
 keywords: [analytics, query, Deprecated, Execute, Examples, Command]
 ---

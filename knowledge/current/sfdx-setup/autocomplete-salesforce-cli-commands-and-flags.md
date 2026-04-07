@@ -5,7 +5,7 @@ topic: autocomplete-salesforce-cli-commands-and-flags
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.038Z
+lastCollected: 2026-04-07T09:06:14.180Z
 estimatedTokens: 933
 keywords: [Autocomplete, Salesforce, CLI, Commands, Flags, quickly, exact, command, flag, want, execute, Configure]
 ---

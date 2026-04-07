@@ -5,7 +5,7 @@ topic: multiorgpostcallanalysistriggerfunction-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.788Z
+lastCollected: 2026-04-07T09:06:18.135Z
 estimatedTokens: 203
 keywords: [MultiorgPostCallAnalysisTriggerFunction, Lambda, Function, automatically, sentiment, data, contact, center’s, Amazon, bucket, post, call, analysis]
 ---

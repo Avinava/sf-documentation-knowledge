@@ -5,7 +5,7 @@ topic: contentfolderlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.110Z
+lastCollected: 2026-04-07T09:04:37.670Z
 estimatedTokens: 266
 keywords: [ContentFolderLink, association, library, root, folder, API, version, 34.0, later, Calls, Special, Access, Rules]
 ---

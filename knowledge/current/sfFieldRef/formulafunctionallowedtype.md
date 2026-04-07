@@ -5,7 +5,7 @@ topic: formulafunctionallowedtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.629Z
+lastCollected: 2026-04-07T09:05:46.750Z
 estimatedTokens: 227
 keywords: [FormulaFunctionAllowedType, functions, formula, context, API, version, 48.0, later]
 ---

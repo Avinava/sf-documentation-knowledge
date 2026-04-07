@@ -5,7 +5,7 @@ topic: considerations-for-configuring-components-for-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.223Z
+lastCollected: 2026-04-07T09:04:13.069Z
 estimatedTokens: 782
 keywords: [Considerations, Configuring, Components, Flows, configure, Aura, component, flow, determine, whether, screens, actions, understand, how, map]
 ---

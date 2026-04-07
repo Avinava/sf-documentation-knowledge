@@ -5,7 +5,7 @@ topic: insurance-quote-config-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.759Z
+lastCollected: 2026-04-07T09:04:01.972Z
 estimatedTokens: 233
 keywords: [Insurance, Quote, Config, Options, Input, representation, line, item, objects]
 ---

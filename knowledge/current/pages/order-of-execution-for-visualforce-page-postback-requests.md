@@ -5,7 +5,7 @@ topic: order-of-execution-for-visualforce-page-postback-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.332Z
+lastCollected: 2026-04-07T09:04:58.740Z
 estimatedTokens: 953
 keywords: [Order, Execution, Visualforce, Postback, Requests, how, interacts, controller, extension, custom]
 ---

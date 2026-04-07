@@ -5,7 +5,7 @@ topic: personlifeevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:31.412Z
+lastCollected: 2026-04-07T09:03:50.775Z
 estimatedTokens: 1416
 keywords: [PersonLifeEvent, life, events, individual, marriage, birth, child, birthday, engagement, Calls, Associated, Objects]
 ---

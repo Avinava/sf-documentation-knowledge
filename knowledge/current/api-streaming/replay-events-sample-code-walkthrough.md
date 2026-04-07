@@ -5,7 +5,7 @@ topic: replay-events-sample-code-walkthrough
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.220Z
+lastCollected: 2026-04-07T09:03:04.936Z
 estimatedTokens: 940
 keywords: [Replay, Events, Sample, Code, Walkthrough, how, register, CometD, extension, JavaScript, Replaying, cometdReplayExtension]
 ---

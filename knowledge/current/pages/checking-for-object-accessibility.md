@@ -5,7 +5,7 @@ topic: checking-for-object-accessibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.412Z
+lastCollected: 2026-04-07T09:04:58.868Z
 estimatedTokens: 249
 keywords: [Checking, Accessibility, user, insufficient, privileges, view, any, Visualforce, uses, controller, render, inaccessible, avoid, error, ensure]
 ---

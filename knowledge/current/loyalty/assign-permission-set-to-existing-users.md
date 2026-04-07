@@ -5,7 +5,7 @@ topic: assign-permission-set-to-existing-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:52.219Z
+lastCollected: 2026-04-07T09:04:18.819Z
 estimatedTokens: 340
 keywords: [Assign, Permission, Users, admins, install, Loyalty, Management, Receipt, Scanner, Kit, unlocked, package, their, org, new]
 ---

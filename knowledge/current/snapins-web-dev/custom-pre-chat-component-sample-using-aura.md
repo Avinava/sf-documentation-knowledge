@@ -5,7 +5,7 @@ topic: custom-pre-chat-component-sample-using-aura
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.385Z
+lastCollected: 2026-04-07T09:06:14.664Z
 estimatedTokens: 356
 keywords: [Custom, Pre-Chat, Component, Sample, Aura, code, examples, controller, helper]
 ---

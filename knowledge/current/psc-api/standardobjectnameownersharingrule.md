@@ -5,8 +5,8 @@ topic: standardobjectnameownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.726Z
-estimatedTokens: 790
+lastCollected: 2026-04-07T09:05:12.342Z
+estimatedTokens: 789
 keywords: [StandardObjectNameOwnerSharingRule, model, owner, sharing, rule, objects, associated, standard, represent, users, Calls, Special, Access, Rules]
 ---
 
@@ -42,7 +42,7 @@ For specific special access rules, if any, see the documentation for the standar
 | --- | --- |
 | AccessLevel | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionDetermines the level of access users have to records. Values are:Read (read only)Edit (read/write) |
 | Description | TypetextareaPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionDescription of the sharing rule. Maximum length is 1000 characters. |
-| DeveloperName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object’s name in a managed package and the changes are reflected in a subscriber’s organization.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
+| DeveloperName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object’s name in a managed package and the changes are reflected in a subscriber’s organization.When creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
 | GroupId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionID of the source group. Records that are owned by users in the source group trigger the rule to give access. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionLabel of the sharing rule as it appears in the UI. Maximum length is 80 characters. |
 | UserOrGroupId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionID of the user or group that you are granting access to. |

@@ -5,7 +5,7 @@ topic: claimitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.054Z
+lastCollected: 2026-04-07T09:05:39.461Z
 estimatedTokens: 569
 keywords: [ClaimItem, claim, items, collision, damage, roadside, assistance, rental, care, their, coverage]
 ---

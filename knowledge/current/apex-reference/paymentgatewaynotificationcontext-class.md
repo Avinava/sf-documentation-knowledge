@@ -5,7 +5,7 @@ topic: paymentgatewaynotificationcontext-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:44.112Z
+lastCollected: 2026-04-07T09:02:16.751Z
 estimatedTokens: 468
 namespace: CommercePayments
 keywords: [PaymentGatewayNotificationContext, Wraps, gateway, notification, Usage, getPaymentGatewayNotificationRequest]

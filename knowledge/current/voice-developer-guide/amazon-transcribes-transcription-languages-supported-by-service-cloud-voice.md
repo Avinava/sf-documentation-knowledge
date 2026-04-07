@@ -5,7 +5,7 @@ topic: amazon-transcribes-transcription-languages-supported-by-service-cloud-voi
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.886Z
+lastCollected: 2026-04-07T09:06:18.281Z
 estimatedTokens: 237
 keywords: [Amazon, Transcribe's, Transcription, Languages, Service, Cloud, Voice, supports, multiple]
 ---

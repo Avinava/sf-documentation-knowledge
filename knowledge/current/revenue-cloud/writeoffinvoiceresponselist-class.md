@@ -5,7 +5,7 @@ topic: writeoffinvoiceresponselist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.590Z
+lastCollected: 2026-04-07T09:01:55.533Z
 estimatedTokens: 1039
 namespace: InvoiceWriteOff
 keywords: [WriteOffInvoiceResponseList, store, invoices, written, off]

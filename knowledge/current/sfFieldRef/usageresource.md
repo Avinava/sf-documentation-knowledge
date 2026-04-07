@@ -5,7 +5,7 @@ topic: usageresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.871Z
+lastCollected: 2026-04-07T09:06:10.046Z
 estimatedTokens: 429
 keywords: [UsageResource, entitlement, granted, user, party, provider, data, storage, computing, power, bandwidth, any, product, service, Additionally]
 ---

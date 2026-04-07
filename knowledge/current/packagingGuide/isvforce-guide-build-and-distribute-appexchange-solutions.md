@@ -5,8 +5,8 @@ topic: isvforce-guide-build-and-distribute-appexchange-solutions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.967Z
-estimatedTokens: 1137
+lastCollected: 2026-04-07T09:04:55.033Z
+estimatedTokens: 1396
 keywords: [ISVforce, Build, Distribute, AppExchange, Solutions, thriving, Salesforce, business, independent, software, vendor, ISV, Start, joining, Partner]
 ---
 
@@ -35,6 +35,8 @@ Build a thriving Salesforce business as an independent software vendor (ISV). St
     \[Effective Date: August 9, 2023\] At Salesforce, nothing is more important than the trust of our customers. Trust requires security. Learn how to prepare for and pass the AppExchange security review.
 -   **[Manage Your AppExchange Listings](atlas.en-us.packagingGuide.meta/packagingGuide/packaging_distributing.htm)**
     Create listings for the solutions you distribute on AppExchange. Set up a company profile for your AppExchange business. Connect your Salesforce business and development orgs, solutions, and trials to the Partner Console. Configure default license settings for your managed packages. Collect leads when customers interact with your listings. Track listing performance and package usage with analytics.
+-   **[Manage Offers and Orders with the Partner Marketplace](atlas.en-us.packagingGuide.meta/packagingGuide/partner_marketplace_intro.htm)**
+    The Partner Marketplace delivers a complete buying experience powered entirely by Salesforce. It offers several major benefits for you—our partners and your customers. Customers get a cohesive purchasing and billing journey, orchestrated within the Salesforce Platform, which means fewer manual steps for everyone. Automating the selling journey creates opportunities for your teams to shift focus from administration to innovation. For partners, your team can focus on innovation and efficiency, which often translates directly to growth. By automating provisioning and payment collection, we simultaneously reduce operational overhead and minimize liability. Best of all, the Partner Marketplace unlocks new revenue potential. With a wider range of pricing models, you can create more compelling customer offers, including options for consumption-based selling and permission set licenses.
 -   **[Sell on AppExchange with Checkout](atlas.en-us.packagingGuide.meta/packagingGuide/appexchange_checkout_sell.htm)**
     Accept credit card payments and bank transfers directly from your listing with AppExchange Checkout. Transform your sales and revenue data into insights and actions with the Checkout Management App.
 -   **[Report Orders to Salesforce with the Channel Order App](atlas.en-us.packagingGuide.meta/packagingGuide/coa_intro.htm)**
@@ -53,6 +55,6 @@ Build a thriving Salesforce business as an independent software vendor (ISV). St
 - Security Requirements for AppExchange Partners and Solutions (atlas.en-us.packagingGuide.meta/packagingGuide/security_review_create_secure_solution.htm)
 - Pass the AppExchange Security Review (atlas.en-us.packagingGuide.meta/packagingGuide/security_review_guidelines.htm)
 - Manage Your AppExchange Listings (atlas.en-us.packagingGuide.meta/packagingGuide/packaging_distributing.htm)
+- Manage Offers and Orders with the Partner Marketplace (atlas.en-us.packagingGuide.meta/packagingGuide/partner_marketplace_intro.htm)
 - Sell on AppExchange with Checkout (atlas.en-us.packagingGuide.meta/packagingGuide/appexchange_checkout_sell.htm)
 - Report Orders to Salesforce with the Channel Order App (atlas.en-us.packagingGuide.meta/packagingGuide/coa_intro.htm)
-- Provide Free Trials of Your AppExchange Solution (atlas.en-us.packagingGuide.meta/packagingGuide/trialforce.htm)

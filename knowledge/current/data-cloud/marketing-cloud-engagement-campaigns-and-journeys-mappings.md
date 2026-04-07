@@ -5,7 +5,7 @@ topic: marketing-cloud-engagement-campaigns-and-journeys-mappings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:33.446Z
+lastCollected: 2026-04-07T09:02:09.100Z
 estimatedTokens: 1111
 keywords: [Marketing, Cloud, Engagement, Campaigns, Journeys, Mappings, data, stream, deployed, starter, bundle, automatically, maps, model, objects]
 ---

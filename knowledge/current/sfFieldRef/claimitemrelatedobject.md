@@ -5,7 +5,7 @@ topic: claimitemrelatedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.077Z
+lastCollected: 2026-04-07T09:05:39.489Z
 estimatedTokens: 363
 keywords: [ClaimItemRelatedObject, relationship, claim, item, attributes, referenced, relevant, product, API, version, 65.0, later]
 ---

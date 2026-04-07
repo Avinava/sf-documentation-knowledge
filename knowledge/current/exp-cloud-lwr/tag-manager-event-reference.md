@@ -5,7 +5,7 @@ topic: tag-manager-event-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.629Z
+lastCollected: 2026-04-07T09:03:45.949Z
 estimatedTokens: 530
 keywords: [Tag, Manager, Event, includes, specifications, Experience, examples, understand, structure, Cloud, interaction, events, mapped, Website, Engagement]
 ---

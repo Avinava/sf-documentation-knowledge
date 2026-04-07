@@ -5,7 +5,7 @@ topic: fields-on-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.061Z
+lastCollected: 2026-04-07T09:04:08.289Z
 estimatedTokens: 1005
 keywords: [Event, Life, Sciences, Cloud, extend, standard, represent, calendar, user, task, records, collectively, referred, activities, Calls]
 ---

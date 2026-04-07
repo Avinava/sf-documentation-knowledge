@@ -5,7 +5,7 @@ topic: unmerge-memberships-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.058Z
+lastCollected: 2026-04-07T09:04:18.542Z
 estimatedTokens: 471
 keywords: [Unmerge, Memberships, Action, Unmerges, loyalty, program, member, records, Merged, status, membership, previously, Merge, record, created]
 ---

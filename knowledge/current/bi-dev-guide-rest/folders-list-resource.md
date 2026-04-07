@@ -5,7 +5,7 @@ topic: folders-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.741Z
+lastCollected: 2026-04-07T09:03:09.730Z
 estimatedTokens: 1156
 keywords: [Folders, Resource, collection, apps, creates, Analytics, app, folder, dataset, lenses, dashboard, URL, Formats, Version, Postman]
 ---

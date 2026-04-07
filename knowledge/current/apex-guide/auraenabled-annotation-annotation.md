@@ -5,7 +5,7 @@ topic: auraenabled-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.586Z
+lastCollected: 2026-04-07T09:02:31.001Z
 estimatedTokens: 356
 keywords: [AuraEnabled, Annotation, @AuraEnabled, client-side, server-side, access, Apex, controller, Providing, Lightning, components, web, Aura, Versioned, Behavior]
 ---

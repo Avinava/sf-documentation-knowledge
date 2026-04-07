@@ -5,7 +5,7 @@ topic: methods-for-the-utility-bar-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.345Z
+lastCollected: 2026-04-07T09:03:04.201Z
 estimatedTokens: 1934
 keywords: [Utility, Bar, Lightning, Experience, houses, Aura, components, web, providing, users, quick, access, tools, they, often]
 ---

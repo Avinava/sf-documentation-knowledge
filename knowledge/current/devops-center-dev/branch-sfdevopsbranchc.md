@@ -5,7 +5,7 @@ topic: branch-sfdevopsbranchc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.428Z
+lastCollected: 2026-04-07T09:03:41.501Z
 estimatedTokens: 942
 keywords: [Branch, sf_devops__Branch__c, Stores, state, source, control, repository, version, system, VCS, DevOps, Center, model, child, lives]
 ---

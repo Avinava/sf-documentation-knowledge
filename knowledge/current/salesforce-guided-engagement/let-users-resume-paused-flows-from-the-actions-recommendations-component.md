@@ -5,7 +5,7 @@ topic: let-users-resume-paused-flows-from-the-actions-recommendations-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.898Z
+lastCollected: 2026-04-07T09:05:24.035Z
 estimatedTokens: 636
 keywords: [Let, Users, Resume, Paused, Flows, Actions, Recommendations, Component, configure, Process, Automation, Settings, allow, pause, Show]
 ---

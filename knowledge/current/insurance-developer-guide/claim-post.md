@@ -5,7 +5,7 @@ topic: claim-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.072Z
+lastCollected: 2026-04-07T09:04:02.480Z
 estimatedTokens: 562
 keywords: [Claim, POST]
 ---
@@ -78,7 +78,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/claims
+https://yourInstance.salesforce.com/services/data/v/connect/claims
 ```
 
 ```

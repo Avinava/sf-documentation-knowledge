@@ -5,7 +5,7 @@ topic: composite-promotion-target-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.625Z
+lastCollected: 2026-04-07T09:03:23.187Z
 estimatedTokens: 333
 keywords: [Composite, Promotion, Target, Input, representation]
 ---

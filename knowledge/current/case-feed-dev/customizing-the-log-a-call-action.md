@@ -5,7 +5,7 @@ topic: customizing-the-log-a-call-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.353Z
+lastCollected: 2026-04-07T09:03:18.192Z
 estimatedTokens: 1076
 keywords: [Customizing, Log, Call, Action, Stellar, Wireless, mobile, phone, provider, several, high-volume, centers, agents, rewarded, solving]
 ---

@@ -5,7 +5,7 @@ topic: documentclausehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.427Z
+lastCollected: 2026-04-07T09:05:43.661Z
 estimatedTokens: 171
 keywords: [DocumentClauseHistory, History, tracked, DocumentClause]
 ---

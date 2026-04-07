@@ -5,8 +5,8 @@ topic: opportunitycontactrolesuggestioninsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.512Z
-estimatedTokens: 633
+lastCollected: 2026-04-07T09:04:45.266Z
+estimatedTokens: 626
 keywords: [OpportunityContactRoleSuggestionInsight, suggestion, new, opportunity, contact, role, API, versions, 45.0, later, Calls, Special, Access, Rules, Usage]
 ---
 
@@ -36,8 +36,8 @@ To add or decline opportunity contact role suggestions, users need a Sales Cloud
 | CurrencyIsoCode | TypepicklistPropertiesDefaulted on create, Filter, Group, Restricted picklist, SortDescriptionAvailable only for orgs with the multicurrency feature enabled. Contains the ISO code for any currency allowed by the organization. |
 | Division | TypepicklistPropertiesDefaulted on create, Filter, Group, Restricted picklist, SortDescriptionThe division of the suggested opportunity contact role. |
 | LastOperationUserId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe ID of the user who last performed a related operation. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OpportunityId | TypereferencePropertiesFilter, Group, SortDescriptionThe ID of the related opportunity. |
 | RationaleLabel | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe reason why this is a suggested opportunity contact role. |
 | Role | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe role of the suggested opportunity contact role. |

@@ -5,7 +5,7 @@ topic: forecastingcolumndefinitionlocalization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.610Z
+lastCollected: 2026-04-07T09:04:41.866Z
 estimatedTokens: 1205
 keywords: [ForecastingColumnDefinitionLocalization, translated, custom, calculated, column, data, label, Translation, Workbench, enabled, organization, API, version, 56.0, later]
 ---

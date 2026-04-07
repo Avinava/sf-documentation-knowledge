@@ -5,7 +5,7 @@ topic: boardcertification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.148Z
+lastCollected: 2026-04-07T09:04:09.576Z
 estimatedTokens: 1303
 keywords: [BoardCertification, practitioner's, board, certifications, board-certified, cardiology, cardiovascular, disease, Calls, Associated, Objects]
 ---
@@ -35,7 +35,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | EffectiveTo | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date on which this certification is no longer effective. |
 | ExpirationDate | TypedatePropertiesCreate, Filter, Group, Nillable, UpdateDescriptionExpiration date of the board certification. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the provider. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |
 | PractitionerId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionPractitioner that this certification is associated with. |

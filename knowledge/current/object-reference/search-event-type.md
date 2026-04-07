@@ -5,7 +5,7 @@ topic: search-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.592Z
+lastCollected: 2026-04-07T09:04:40.687Z
 estimatedTokens: 755
 keywords: [Search, Event, events, contain, user’s, query, searches, app, including, Experience, Cloud, sites, included, However, unauthenticated]
 ---

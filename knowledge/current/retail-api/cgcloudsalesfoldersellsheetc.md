@@ -5,7 +5,7 @@ topic: cgcloudsalesfoldersellsheetc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.834Z
+lastCollected: 2026-04-07T09:05:21.416Z
 estimatedTokens: 1111
 keywords: [cgcloud__Sales_Folder_Sell_Sheet__c, stores, relationship, sales, folder, sell, sheet, API, version, 54.0, later, cgcloud, _Sales, _Folder, _Sell]
 ---

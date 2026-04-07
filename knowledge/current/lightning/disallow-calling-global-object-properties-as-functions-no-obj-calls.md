@@ -5,7 +5,7 @@ topic: disallow-calling-global-object-properties-as-functions-no-obj-calls-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.992Z
+lastCollected: 2026-04-07T09:04:15.679Z
 estimatedTokens: 133
 keywords: [Disallow, Calling, Functions, no-obj-calls, Prevents, Math, JSON, Reflect, objects, though, they, were, disallowed, follows, ECMAScript]
 ---

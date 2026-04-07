@@ -5,7 +5,7 @@ topic: with-pricebookid
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.964Z
+lastCollected: 2026-04-07T09:06:15.437Z
 estimatedTokens: 56
 keywords: [PricebookId, Filters, product, search, results, price, book]
 ---

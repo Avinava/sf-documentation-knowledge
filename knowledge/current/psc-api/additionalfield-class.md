@@ -5,7 +5,7 @@ topic: additionalfield-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.516Z
+lastCollected: 2026-04-07T09:05:07.251Z
 estimatedTokens: 359
 keywords: [AdditionalField, created, updated, target, fieldName, fieldValue]
 ---

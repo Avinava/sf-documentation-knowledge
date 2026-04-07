@@ -5,7 +5,7 @@ topic: sustnmaterialusesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.260Z
+lastCollected: 2026-04-07T09:04:29.215Z
 estimatedTokens: 1391
 keywords: [SustnMaterialUseSummary, circular, economy, company, discloses, part, ESRS, Resource, API, version, 65.0, later, Calls, Associated, Objects]
 ---

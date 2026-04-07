@@ -5,7 +5,7 @@ topic: load-the-contacts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.922Z
+lastCollected: 2026-04-07T09:04:14.066Z
 estimatedTokens: 1551
 namespace: ContactController
 keywords: [Load, Contacts, Apex, controller, bridge, connects, components, Salesforce, data]

@@ -6,7 +6,7 @@ topic: why-doesnt-the-number-of-license-records-in-the-license-management-app-ma
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.015Z
+lastCollected: 2026-04-07T09:04:55.121Z
 estimatedTokens: 313
 keywords: [Why, Doesn’t, Number, License, Records, Management, App, Match, Installs, AppExchange, Marketplace, Analytics, cases, LMA, closely]
 ---

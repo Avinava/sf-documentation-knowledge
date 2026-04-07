@@ -5,7 +5,7 @@ topic: eventsubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:06.308Z
+lastCollected: 2026-04-07T09:02:40.071Z
 estimatedTokens: 588
 keywords: [EventSubscription, subscription, event, Removed, API, version, 46.0, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---

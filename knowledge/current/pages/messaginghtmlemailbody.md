@@ -5,7 +5,7 @@ topic: messaginghtmlemailbody
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.797Z
+lastCollected: 2026-04-07T09:04:57.975Z
 estimatedTokens: 226
 keywords: [messaging, htmlEmailBody, HTML, version, email, Attributes]
 ---

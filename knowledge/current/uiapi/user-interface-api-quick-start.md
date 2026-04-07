@@ -5,7 +5,7 @@ topic: user-interface-api-quick-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.146Z
+lastCollected: 2026-04-07T09:06:15.669Z
 estimatedTokens: 857
 keywords: [User, API, Quick, Start, Postman, desktop, app, web-based, easily, explore, test, Salesforce, APIs, against, orgs]
 ---

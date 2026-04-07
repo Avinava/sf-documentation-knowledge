@@ -5,7 +5,7 @@ topic: providervisitdtlproductmsg
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.061Z
+lastCollected: 2026-04-07T09:04:11.634Z
 estimatedTokens: 1162
 keywords: [ProviderVisitDtlProductMsg, delivered, messages, reactions, health, care, provider, products, discussed, visit, API, version, 65.0, later, Calls]
 ---

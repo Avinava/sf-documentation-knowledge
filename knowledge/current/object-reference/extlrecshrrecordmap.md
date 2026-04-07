@@ -5,7 +5,7 @@ topic: extlrecshrrecordmap
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.018Z
+lastCollected: 2026-04-07T09:04:41.215Z
 estimatedTokens: 856
 keywords: [ExtlRecShrRecordMap, lead, opportunity, mapped, partner, vendor, Connect, API, version, 62.0, later, Calls, Special, Access, Rules]
 ---

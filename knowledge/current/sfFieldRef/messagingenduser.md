@@ -5,7 +5,7 @@ topic: messagingenduser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.214Z
+lastCollected: 2026-04-07T09:05:54.353Z
 estimatedTokens: 555
 keywords: [MessagingEndUser, address—such, phone, number, Facebook, page—communicating, Messaging, channel, API, version, 40.0, later]
 ---

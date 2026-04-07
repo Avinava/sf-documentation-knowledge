@@ -5,25 +5,28 @@ topic: productrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.527Z
-estimatedTokens: 1263
-keywords: [ProductRequest, device, made, part, care, program, Calls, Special, Access, Rules, Standard, custom, extend, Product, represent, sample, orders, API, version, 65.0]
+lastCollected: 2026-04-07T09:04:11.380Z
+estimatedTokens: 1483
+keywords: [ProductRequest, device, made, part, care, program, Standard, custom, extend, Product, represent, sample, orders, API, version]
 ---
 
 # ProductRequest
 
-> Represents a device request made as part of a care
-    program.
+> Represents a device request made as part of a care program. Standard and custom fields extend the standard Product Request object to
+      represent information about sample orders. This object is available in API version 65.0 and
+      later in Samples Management feature.
 
 # ProductRequest
 
-Represents a device request made as part of a care program.
+Represents a device request made as part of a care program. Standard and custom fields extend the standard Product Request object to represent information about sample orders. This object is available in API version 65.0 and later in Samples Management feature.
 
 ## Supported Calls
 
 create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), undelete(), update(), upsert()
 
 ## Special Access Rules
+
+The access rules is required for Intelligent Sales feature in Life Sciences cloud.
 
 Field Service must be enabled.
 
@@ -38,6 +41,7 @@ Authenticated external users can create and update ProductRequest objects.
 | CaseId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe case associated with the product request.This is a relationship field.Relationship NameCaseRelationship TypeLookupRefers ToCase |
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionA text field for details not recorded in the provided fields. |
 | DestinationLocationId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionWhere the product is delivered.This is a relationship field.Relationship NameDestinationLocationRelationship TypeLookupRefers ToLocation |
+| DestinationLocationUserId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe primary user of the destination location associated with the product request.This field is a relationship field. It is available in API version 65.0 and later in Samples Management feature.Relationship NameDestinationLocationUserRefers ToUser |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date when the product request was last modified. Its label in the user interface is Last Modified Date. |
 | LastModifiedById | TypereferencePropertiesAggregatable, Defaulted on create, Filter, Group, SortDescriptionID of the user who last updated this object. |
 | NeedByDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionDate the product must be delivered by. |
@@ -55,5 +59,6 @@ Authenticated external users can create and update ProductRequest objects.
 | ShipmentType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of shipment. The picklist includes the following values by default:NoneRushOvernightNext Business DayPick Up |
 | SourceLocationId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe location the product is shipped from.This is a relationship field.Relationship NameSourceLocationRelationship TypeLookupRefers ToLocation |
 | Status | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionStatus of the product transfer. |
+| UrgencyLevel | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies the level of urgency associated with the product request. This field is available in API version 65.0 and later in Samples Management feature. |
 | WorkOrderId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe work order that the product request is related to.This is a relationship field.Relationship NameWorkOrderRelationship TypeLookupRefers ToWorkOrder |
 | WorkOrderLineItemId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe work order line item that the product request is related to.This is a relationship field.Relationship NameWorkOrderLineItemRelationship TypeLookupRefers ToWorkOrderLineItem |

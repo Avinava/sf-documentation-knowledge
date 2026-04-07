@@ -5,7 +5,7 @@ topic: chattersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:04.389Z
+lastCollected: 2026-04-07T09:02:38.157Z
 estimatedTokens: 2018
 keywords: [ChatterSettings, org’s, settings, their, Chatter, instance, enabled, org, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---

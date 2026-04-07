@@ -6,7 +6,7 @@ topic: create-a-routing-configuration-and-queue-for-external-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.959Z
+lastCollected: 2026-04-07T09:04:53.325Z
 estimatedTokens: 245
 keywords: [Routing, Configuration, Queue, External, requires, separate, Omni-Channel, objects, define, behavior, assign, work, reps]
 ---

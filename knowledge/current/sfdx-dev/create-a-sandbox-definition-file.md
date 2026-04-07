@@ -5,7 +5,7 @@ topic: create-a-sandbox-definition-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.358Z
+lastCollected: 2026-04-07T09:06:13.247Z
 estimatedTokens: 1140
 keywords: [Sandbox, Definition, File, Salesforce, CLI, define, configuration, blueprint, different, files, development, process, Sample]
 ---

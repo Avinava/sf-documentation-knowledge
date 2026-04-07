@@ -5,8 +5,8 @@ topic: template-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:11.309Z
-estimatedTokens: 8070
+lastCollected: 2026-04-07T09:01:54.779Z
+estimatedTokens: 9428
 keywords: [template, Commands, Generate, simple, Analytics, Examples, Flags, Aliases, apex, trigger, digital-experience, site, Developer, Preview, flexipage]
 ---
 
@@ -42,6 +42,8 @@ Collection of Salesforce templates.
     Generate a Salesforce DX project.
 -   **[template generate static-resource](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_static-resource_unified)**
     Generate a static resource.
+-   **[template generate ui-bundle](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_ui-bundle_unified)**
+    Generate a UI bundle, which contains the code and metadata to build a UI experience that uses non-native Salesforce frameworks, such as React.
 -   **[template generate visualforce component](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_visualforce_component_unified)**
     Generate a Visualforce Component.
 -   **[template generate visualforce page](atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference_template_commands_unified.htm#cli_reference_template_generate_visualforce_page_unified)**
@@ -649,7 +651,7 @@ Optional
 
 Template to use for file creation.
 
-Supplied parameter values or default values are filled into a copy of the template.
+Supplied parameter values or default values are filled into a copy of the template. For Lightning Web Components, if this flag isn't specified, the CLI command automatically selects the template based on the "defaultLwcLanguage" field in the DX project's "sfdx-project.json" file.
 
 Type: option
 
@@ -723,6 +725,12 @@ Generate a Lightning web component bundle in the "force-app/main/default/lwc" di
 
 ```
 
+Generate a TypeScript Lightning Web Component:
+
+```
+
+```
+
 ### Flags
 
 \--json
@@ -757,11 +765,11 @@ Optional
 
 Template to use for file creation.
 
-Supplied parameter values or default values are filled into a copy of the template.
+Supplied parameter values or default values are filled into a copy of the template. For Lightning Web Components, if this flag isn't specified, the CLI command automatically selects the template based on the "defaultLwcLanguage" field in the DX project's "sfdx-project.json" file.
 
 Type: option
 
-Permissible values are: default, analyticsDashboard, analyticsDashboardWithStep
+Permissible values are: default, analyticsDashboard, analyticsDashboardWithStep, typescript
 
 Default value: default
 
@@ -863,7 +871,7 @@ Optional
 
 Template to use for file creation.
 
-Supplied parameter values or default values are filled into a copy of the template.
+Supplied parameter values or default values are filled into a copy of the template. For Lightning Web Components, if this flag isn't specified, the CLI command automatically selects the template based on the "defaultLwcLanguage" field in the DX project's "sfdx-project.json" file.
 
 Type: option
 
@@ -957,7 +965,7 @@ Optional
 
 Template to use for file creation.
 
-Supplied parameter values or default values are filled into a copy of the template.
+Supplied parameter values or default values are filled into a copy of the template. For Lightning Web Components, if this flag isn't specified, the CLI command automatically selects the template based on the "defaultLwcLanguage" field in the DX project's "sfdx-project.json" file.
 
 Type: option
 
@@ -1051,7 +1059,7 @@ Optional
 
 Template to use for file creation.
 
-Supplied parameter values or default values are filled into a copy of the template.
+Supplied parameter values or default values are filled into a copy of the template. For Lightning Web Components, if this flag isn't specified, the CLI command automatically selects the template based on the "defaultLwcLanguage" field in the DX project's "sfdx-project.json" file.
 
 Type: option
 
@@ -1125,6 +1133,12 @@ Generate a project with the minimum files and directories:
 
 ```
 
+Generate a project in which the Lightning Web Components use TypeScript rather than the default JavaScript:
+
+```
+
+```
+
 ### Flags
 
 \--json
@@ -1185,13 +1199,13 @@ The standard template provides a complete force-app directory structure so you k
 
 The analytics template provides similar files and the force-app/main/default/waveTemplates directory.
 
-The reactb2e and reactb2x templates provide React-based project scaffolding for B2E and B2X web application use cases.
+The reactinternalapp and reactexternalapp templates provide React-based project scaffolding for internal and external UI bundle use cases.
 
 The agent template provides project scaffolding for building Agentforce agents and includes a sample agent called Local Info Agent.
 
 Type: option
 
-Permissible values are: standard, empty, analytics, reactb2e, reactb2x, agent
+Permissible values are: standard, empty, analytics, reactinternalapp, reactexternalapp, agent
 
 Default value: standard
 
@@ -1236,6 +1250,18 @@ Generate a manifest (package.xml) for change-set based development.
 Generates a default manifest (package.xml) for fetching Apex, Visualforce, Lightning components, and static resources.
 
 Type: boolean
+
+\--lwc-language LWC-LANGUAGE
+
+Optional
+
+Language of the Lightning Web Components. If not specified, "javascript" is used.
+
+When set to \`'typescript'\`, generates TypeScript configuration files (tsconfig.json, package.json with TypeScript dependencies, and TypeScript-aware ESLint config). When you deploy the TypeScript-based Lightning Web Components, the TypeScript files are first compiled locally for validation and then the \`.ts\` files are deployed to your org for server-side type stripping.
+
+Type: option
+
+Permissible values are: javascript, typescript
 
 \--api-version API-VERSION
 
@@ -1354,6 +1380,118 @@ Type: option
 ```
 
 ```
+
+## template generate ui-bundle
+
+Generate a UI bundle, which contains the code and metadata to build a UI experience that uses non-native Salesforce frameworks, such as React.
+
+### Description for template generate ui-bundle
+
+Salesforce provides native UI frameworks, such as Lighting Web Components (LWC), to build applications that run on the Salesforce Platform. But you can also use non-native JavaScript- or TypeScript-based UI frameworks, such as React, to build a UI experience for the Salesforce Platform and that you can launch from the App Launcher.
+
+These non-native UI experiences are defined by the "UIBundle" metadata type in your DX project. Use this command to generate the required DX project structure and files. For example, when you run this command and specify the name MyUiBundle, then the files are generated into a "uiBundles/MyUiBundle" directory. Use the --output-dir flag to specify a different directory.
+
+Use the --template flag for generating the files to get started with a speciic UI framework, such as React. Check out the README.md file in the generated "uiBundles/<bundlename>" directory for more information about the template.
+
+### Examples for template generate ui-bundle
+
+Generate a UI bundle called MyUiBundle in the current directory:
+
+```
+
+```
+
+Generate a React-based UI bundle:
+
+```
+
+```
+
+Generate the React-based UI bundle in the "force-app/main/default/uiBundles" directory:
+
+```
+
+```
+
+### Flags
+
+\--json
+
+Optional
+
+Format output as json.
+
+Type: boolean
+
+\--flags-dir FLAGS-DIR
+
+Optional
+
+Import flag values from a directory.
+
+Type: option
+
+\-n | \--name NAME
+
+Required
+
+API name of the generated UI bundle.
+
+This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores.
+
+Type: option
+
+\-t | \--template TEMPLATE
+
+Optional
+
+Template to use when creating the files for a specific UI framework.
+
+Supplied parameter values or default values are filled into a copy of the template.
+
+Type: option
+
+Permissible values are: default, reactbasic
+
+Default value: default
+
+\-l | \--label LABEL
+
+Optional
+
+Master label for the UI bundle.
+
+If not specified, the label is derived from the name.
+
+Type: option
+
+\-d | \--output-dir OUTPUT-DIR
+
+Optional
+
+Directory into which the files are created.
+
+The location can be an absolute path or relative to the current working directory.
+
+If not specified, the command reads your sfdx-project.json and defaults to "uiBundles" directory within your default package directory. When running outside a Salesforce DX project, defaults to the current directory.
+
+\*\*Important:\*\* This command automatically ensures the output directory ends with "uiBundles". If your specified path doesn't end with "uiBundles", it's automatically appended. The UI bundle is created at "<output-dir>/<name>".
+
+\*\*Examples:\*\*
+
+\- "--output-dir force-app/main/default" → Creates a UI bundle at "force-app/main/default/uiBundles/MyUiBundle/"
+
+\- "--output-dir force-app/main/default/uiBundles" → Creates a UI bundle at "force-app/main/default/uiBundles/MyUiBundle/" (no change)
+
+Type: option
+
+\--api-version API-VERSION
+
+Optional
+
+Override the api version used for api requests made by this command
+
+Type: option
 
 ## template generate visualforce component
 

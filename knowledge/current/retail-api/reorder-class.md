@@ -5,7 +5,7 @@ topic: reorder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.477Z
+lastCollected: 2026-04-07T09:05:17.042Z
 estimatedTokens: 619
 keywords: [RE_Order, Apex, programmatic, access, retail, order, sObject, sObjects, _Order, Implementation, getOrder, getOrderItems, List<RE, _Order.Record>, append]
 ---

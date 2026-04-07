@@ -5,7 +5,7 @@ topic: userappmenucustomization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.986Z
+lastCollected: 2026-04-07T09:06:10.175Z
 estimatedTokens: 324
 keywords: [UserAppMenuCustomization, individual, user’s, settings, items, app, menu, Launcher, API, version, 35.0, later]
 ---

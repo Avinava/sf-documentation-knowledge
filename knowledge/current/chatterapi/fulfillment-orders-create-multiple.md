@@ -5,7 +5,7 @@ topic: fulfillment-orders-create-multiple
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.501Z
+lastCollected: 2026-04-07T09:03:28.568Z
 estimatedTokens: 481
 keywords: [Fulfillment, Orders, Multiple, FulfillmentOrders, OrderDeliveryGroups]
 ---

@@ -5,7 +5,7 @@ topic: cgcsyncsyncclientregistrationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.654Z
+lastCollected: 2026-04-07T09:05:18.816Z
 estimatedTokens: 509
 keywords: [cgc_sync__Sync_Client_Registration__c, Stores, Consumer, Goods, Cloud, offline, mobile, app, device, synchronization, Salesforce, initiated, API, version, 61.0]
 ---

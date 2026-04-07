@@ -5,8 +5,8 @@ topic: getaccountsandcontacts-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.581Z
-estimatedTokens: 760
+lastCollected: 2026-04-07T09:05:07.346Z
+estimatedTokens: 757
 namespace: PublicSectrSltn
 keywords: [GetAccountsAndContacts, person, accounts, business, contacts, Special, Access, Rules, Usage, invokeMethod, methodName, input, output, options]
 ---
@@ -38,7 +38,7 @@ Specify the Apex class name in the Remote Actions section of the OmniScript page
 
 This screenshot shows how to specify the Apex class name in Remote Actions:
 
-![A representation of Remote Actions in OmniScript in your Salesforce org.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapex%2Freference%2Fns_PublicSectrSltn%2Fimages%2Fpsc-get-accounts-and-contacts.png&folder=psc_api)
+![A representation of Remote Actions in OmniScript in your Salesforce org.](/docs/resources/img/en-us/260.0?doc_id=apex%2Freference%2Fns_PublicSectrSltn%2Fimages%2Fpsc-get-accounts-and-contacts.png&folder=psc_api)
 
 -   **[GetAccountsAndContacts Methods](atlas.en-us.psc_api.meta/psc_api/apex_class_publicsectrsltn_GetAccountsAndContacts.htm#apex_publicsectrsltn_GetAccountsAndContacts_methods)**
 

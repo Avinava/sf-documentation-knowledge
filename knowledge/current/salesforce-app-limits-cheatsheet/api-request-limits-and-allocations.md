@@ -5,8 +5,8 @@ topic: api-request-limits-and-allocations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.189Z
-estimatedTokens: 2735
+lastCollected: 2026-04-07T09:05:22.944Z
+estimatedTokens: 2729
 keywords: [API, Limits, Allocations, apply, Salesforce, Platform, SOAP, REST, APIs, any, built, frameworks, unless, noted, otherwise]
 ---
 
@@ -14,12 +14,11 @@ keywords: [API, Limits, Allocations, apply, Salesforce, Platform, SOAP, REST, AP
 
 > These limits and allocations apply to Salesforce Platform SOAP and REST APIs and any
 		other API built on those frameworks, unless noted otherwise. For information about limits on
-		other Salesforce APIs, such as Connect REST API, visit that specific
-		documentation.
+		other Salesforce APIs, visit that specific documentation.
 
 # API Request Limits and Allocations
 
-These limits and allocations apply to Salesforce Platform SOAP and REST APIs and any other API built on those frameworks, unless noted otherwise. For information about limits on other Salesforce APIs, such as Connect REST API, visit that specific documentation.
+These limits and allocations apply to Salesforce Platform SOAP and REST APIs and any other API built on those frameworks, unless noted otherwise. For information about limits on other Salesforce APIs, visit that specific documentation.
 
 To maintain optimum performance and ensure that the Lightning Platform API is available to all our customers, Salesforce balances transaction loads by imposing three types of limits:
 
@@ -44,7 +43,7 @@ There isn’t a limit on the number of concurrent requests shorter than 20 secon
 
 ## API Timeout Limits
 
-The timeout limit for REST and SOAP API calls is 10 minutes, except for any query call. The timeout for query calls is set by the SOQL limits. For details on SOQL limits, visit SOQL and SOSL Limits for Search Queries. For timeout limits on calls made using other Salesforce APIs, such as the Connect REST API and Bulk APIs, visit the specific documentation for those APIs.
+The timeout limit for REST and SOAP API calls is 10 minutes, except for any query call. The timeout for query calls is set by the SOQL limits. For details on SOQL limits, visit SOQL and SOSL Limits for Search Queries. For timeout limits on calls made using other Salesforce APIs, such as the Bulk APIs, visit the specific documentation for those APIs.
 
 If a request exceeds this limit, the API returns a REQUEST\_RUNNING\_TOO\_LONG status code (for SOAP API) or a QUERY\_TIMEOUT exception code (for REST API).
 
@@ -75,7 +74,7 @@ For Experience Cloud limits, see [Experience Cloud User Licenses](https://help.s
 
 Load, performance, and other system issues can prevent you from using your entire allocation of calls in a 24–hour period.
 
-APIs that count toward this allocation include the Lightning Platform REST API, the Lightning Platform SOAP API, Bulk API, and Bulk API 2.0. API calls issued by certain Salesforce connected apps (for example, the Salesforce mobile app) don’t count. To determine which APIs affect the allocation, see Monitoring Your API Usage.
+APIs that count toward this allocation include the Lightning Platform REST API, the Lightning Platform SOAP API, Bulk API, Bulk API 2.0, and most Connect REST APIs. API calls issued by certain Salesforce connected apps (for example, the Salesforce mobile app) don’t count. To determine which APIs affect the allocation, see Monitoring Your API Usage.
 
 Calls that include DebuggingHeader have a separate allocation limit of 1,000 calls per 24-hour period. These calls can continue to be made after the total request limit for an org is reached.
 

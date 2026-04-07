@@ -5,7 +5,7 @@ topic: problemdefrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.809Z
+lastCollected: 2026-04-07T09:06:00.324Z
 estimatedTokens: 310
 keywords: [ProblemDefRelationship, junction, problem, definition, API, version, 64.0, later]
 ---

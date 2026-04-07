@@ -5,8 +5,8 @@ topic: affinityscoredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.202Z
-estimatedTokens: 903
+lastCollected: 2026-04-07T09:03:42.758Z
+estimatedTokens: 902
 keywords: [AffinityScoreDefinition, affinity, calculations, analyze, categorize, contacts, marketing, purposes, Parent, File, Suffix, Directory, Location, Version, Special]
 ---
 
@@ -35,7 +35,7 @@ AffinityScoreDefinition components have the suffix .affinityScoreDefinition and 
 
 ## Version
 
-AffinityScoreDefinition components are available in API version 66.0 and later.
+AffinityScoreDefinition components are available in API version and later.
 
 ## Special Access Rules
 
@@ -192,6 +192,6 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
         <members>*</members>
         <name>AffinityScoreDefinition</name>
     </types>
-    <version>66.0</version>
+    <version></version>
 </Package>
 ```

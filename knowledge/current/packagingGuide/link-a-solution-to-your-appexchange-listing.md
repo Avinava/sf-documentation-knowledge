@@ -5,7 +5,7 @@ topic: link-a-solution-to-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.460Z
+lastCollected: 2026-04-07T09:04:54.217Z
 estimatedTokens: 605
 keywords: [Link, Solution, AppExchange, Listing, tool, marketing, distributing, customers, Search, connected, solutions, select, want, add]
 ---

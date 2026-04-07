@@ -5,7 +5,7 @@ topic: tenantsecuritypolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.029Z
+lastCollected: 2026-04-07T09:04:50.794Z
 estimatedTokens: 1056
 keywords: [TenantSecurityPolicy, Stores, security, policies, created, deployed, Center, Define, Deploy, subscribers, API, version, 54.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: commercewishlist-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:40.053Z
+lastCollected: 2026-04-07T09:02:12.416Z
 estimatedTokens: 9205
 namespace: ConnectApi
 keywords: [CommerceWishlist, Add, item, wishlist, context, user, addItemToWishlist, webstoreId, wishlistId, wishlistItemInput, API, Version, Requires, Chatter, Usage]

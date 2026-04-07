@@ -5,7 +5,7 @@ topic: tpm-promotion-header-lwc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.106Z
+lastCollected: 2026-04-07T09:05:22.833Z
 estimatedTokens: 528
 keywords: [TPM, Promotion, LWC, tpm-promotion-header-component, service, component, access, layer, part, managed, package]
 ---

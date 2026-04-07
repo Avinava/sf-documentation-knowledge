@@ -5,7 +5,7 @@ topic: add-a-support-app-to-employee-workspace-with-employee-concierge
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.522Z
+lastCollected: 2026-04-07T09:06:19.265Z
 estimatedTokens: 343
 keywords: [Add, Support, App, Employee, Workspace, Concierge, searchable, knowledge, base, ticketing, system, site, includes, Agent, Desk]
 ---

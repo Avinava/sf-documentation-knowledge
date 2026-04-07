@@ -5,7 +5,7 @@ topic: bundlebasedadjustmentfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:50.558Z
+lastCollected: 2026-04-07T09:05:36.273Z
 estimatedTokens: 391
 keywords: [BundleBasedAdjustmentFeed, Feed, tracking, BundleBasedAdjustment]
 ---

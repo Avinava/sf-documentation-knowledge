@@ -5,7 +5,7 @@ topic: recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:50.028Z
+lastCollected: 2026-04-07T09:02:52.668Z
 estimatedTokens: 480
 keywords: [Recommendations, Einstein, Best, Action, now, work, actionable, steps, unified, synchronized, view, real-time, score, predictions]
 ---

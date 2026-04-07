@@ -5,7 +5,7 @@ topic: salestransactionitemshape
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:16.507Z
+lastCollected: 2026-04-07T09:04:48.798Z
 estimatedTokens: 3396
 keywords: [SalesTransactionItemShape, business, logic, sales, transaction, shape, item, order, API, version, 57.0, later, Calls, Special, Access]
 ---

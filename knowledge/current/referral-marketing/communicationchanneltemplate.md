@@ -5,7 +5,7 @@ topic: communicationchanneltemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.105Z
+lastCollected: 2026-04-07T09:05:16.554Z
 estimatedTokens: 514
 keywords: [CommunicationChannelTemplate, template, different, communication, channels, API, version, 63.0, later, B2C, referral, programs, Calls]
 ---

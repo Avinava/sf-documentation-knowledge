@@ -5,8 +5,8 @@ topic: flowtestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.507Z
-estimatedTokens: 658
+lastCollected: 2026-04-07T09:04:41.769Z
+estimatedTokens: 710
 keywords: [FlowTestResult, results, flow, test, associated, version, API, 55.0, later, Calls, Special, Access, Rules, Objects]
 ---
 
@@ -37,7 +37,7 @@ To view test run details, you must have the View All Data user permission. You c
 | FlowVersionViewId | TypestringPropertiesFilter, Nillable, SortDescriptionThe ID of the flow version associated with the flow test result.This is a relationship field.Relationship NameFlowVersionViewRelationship TypeLookupRefers ToFlowVersionView |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionThe name of the flow test result. |
 | OwnerId | TypereferencePropertiesFilter, Group, SortDescriptionThe ID of the user who owns this test result.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
-| Result | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionSpecifies the flow test result.Possible values are:ErrorFailPass |
+| Result | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionSpecifies the flow test result.Possible values are:ErrorFailPassSkip—The test run was skipped because the test doesn’t exist for that flow version. This value appears only when you trigger tests by using Salesforce CLI. This value is available in API version 66.0 and later. |
 | TestEndDateTime | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date and time when the flow test ended. |
 | TestStartDateTime | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date and time when the flow test started. |
 

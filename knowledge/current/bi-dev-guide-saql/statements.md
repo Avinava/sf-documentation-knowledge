@@ -5,7 +5,7 @@ topic: statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.839Z
+lastCollected: 2026-04-07T09:03:14.726Z
 estimatedTokens: 408
 keywords: [Statements, SAQL, query, loads, input, data, operates, outputs, result, made, statement, stream, operation, output]
 ---

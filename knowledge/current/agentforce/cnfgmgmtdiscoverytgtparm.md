@@ -5,7 +5,7 @@ topic: cnfgmgmtdiscoverytgtparm
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:35.318Z
+lastCollected: 2026-04-07T09:02:10.181Z
 estimatedTokens: 620
 keywords: [CnfgMgmtDiscoveryTgtParm, definition, control, refine, cloud, infrastructure, scans, imported, items, virtual, machines, ports, host, API, version]
 ---

@@ -5,7 +5,7 @@ topic: collaborationgrouprecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.590Z
+lastCollected: 2026-04-07T09:04:37.033Z
 estimatedTokens: 493
 keywords: [CollaborationGroupRecord, records, associated, Chatter, groups, Calls, Objects]
 ---

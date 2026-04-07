@@ -5,7 +5,7 @@ topic: considerations-for-installing-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:24.228Z
+lastCollected: 2026-04-07T09:03:41.179Z
 estimatedTokens: 1173
 keywords: [Considerations, Installing, Data, Loader, download, install, understand, installation, login, release, own, operating, systems, hardware, requirements]
 ---

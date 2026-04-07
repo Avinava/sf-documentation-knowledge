@@ -5,7 +5,7 @@ topic: scheduling
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.521Z
+lastCollected: 2026-04-07T09:05:26.719Z
 estimatedTokens: 86
 keywords: [Scheduling, Salesforce, Scheduler, REST, resources, corresponding, URIs, resource, API, version, 45.0, later]
 ---

@@ -5,7 +5,7 @@ topic: webstoremessagecontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.463Z
+lastCollected: 2026-04-07T09:04:52.668Z
 estimatedTokens: 503
 keywords: [WebStoreMessageContent, assocation, managed, content, message, record, CMS, web, store, along, attributes, specify, application, intent, API]
 ---

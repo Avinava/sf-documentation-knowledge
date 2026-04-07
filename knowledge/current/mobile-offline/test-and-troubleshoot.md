@@ -5,7 +5,7 @@ topic: test-and-troubleshoot
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.530Z
+lastCollected: 2026-04-07T09:04:24.643Z
 estimatedTokens: 321
 keywords: [Test, Troubleshoot, MAGE, app, action, virtual, device, simulator, emulator, Validate, Best, Practices]
 ---

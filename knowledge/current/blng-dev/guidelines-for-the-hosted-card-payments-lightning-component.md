@@ -5,7 +5,7 @@ topic: guidelines-for-the-hosted-card-payments-lightning-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:08.870Z
+lastCollected: 2026-04-07T09:03:17.661Z
 estimatedTokens: 236
 keywords: [Guidelines, Hosted, Card, Payments, Lightning, Component, wrapper, design, payment, consider]
 ---

@@ -5,7 +5,7 @@ topic: transaction-management-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:22.585Z
+lastCollected: 2026-04-07T09:02:02.264Z
 estimatedTokens: 162
 keywords: [Transaction, Management, Metadata, deployment, Revenue, Cloud, including, setup, paths, configuration]
 ---

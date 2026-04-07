@@ -5,7 +5,7 @@ topic: internaldataconnector
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.586Z
+lastCollected: 2026-04-07T09:02:41.447Z
 estimatedTokens: 12
 keywords: [InternalDataConnector, internal]
 ---

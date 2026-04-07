@@ -5,7 +5,7 @@ topic: regauthorizationtypeproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.981Z
+lastCollected: 2026-04-07T09:06:04.672Z
 estimatedTokens: 349
 keywords: [RegAuthorizationTypeProduct, association, authorization, product, API, version, 49.0, later]
 ---

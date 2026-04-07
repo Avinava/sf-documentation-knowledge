@@ -5,7 +5,7 @@ topic: fulfillmentorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:58.755Z
+lastCollected: 2026-04-07T09:05:46.939Z
 estimatedTokens: 1215
 keywords: [FulfillmentOrder, group, products, fees, delivery, charges, order, share, fulfillment, location, recipient, FulfillmentOrderLineItems, belonging, associated, OrderItemSummary]
 ---

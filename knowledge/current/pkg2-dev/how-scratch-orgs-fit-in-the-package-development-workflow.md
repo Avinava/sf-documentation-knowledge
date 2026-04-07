@@ -5,7 +5,7 @@ topic: how-scratch-orgs-fit-in-the-package-development-workflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.102Z
+lastCollected: 2026-04-07T09:05:02.665Z
 estimatedTokens: 1038
 keywords: [How, Scratch, Orgs, Fit, Package, Development, Workflow, essential, tool, developing, testing, app, want, help, continuous]
 ---

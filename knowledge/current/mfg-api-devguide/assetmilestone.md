@@ -5,7 +5,7 @@ topic: assetmilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.599Z
+lastCollected: 2026-04-07T09:04:23.295Z
 estimatedTokens: 1146
 keywords: [AssetMilestone, key, events, lifecycle, asset, manufacturing, registration, resale, API, version, 58.0, later, Calls]
 ---

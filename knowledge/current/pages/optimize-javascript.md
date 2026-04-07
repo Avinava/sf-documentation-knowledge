@@ -6,7 +6,7 @@ topic: optimize-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.897Z
+lastCollected: 2026-04-07T09:04:56.700Z
 estimatedTokens: 582
 keywords: [Optimize, JavaScript, ensure, efficient, delivery, client, Visualforce, pages, Optimized, improves, caching, reduces, load, times]
 ---

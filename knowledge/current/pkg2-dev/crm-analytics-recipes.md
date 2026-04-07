@@ -5,7 +5,7 @@ topic: crm-analytics-recipes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.854Z
+lastCollected: 2026-04-07T09:05:02.316Z
 estimatedTokens: 648
 keywords: [CRM, Analytics, Recipes, org, AppExchange, App, building, environment, country-codes, dataset, two, produce, subscriber, info, aggregate]
 ---

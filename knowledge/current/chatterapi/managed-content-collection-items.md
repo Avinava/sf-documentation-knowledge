@@ -5,7 +5,7 @@ topic: managed-content-collection-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.431Z
+lastCollected: 2026-04-07T09:03:33.111Z
 estimatedTokens: 360
 keywords: [Managed, Content, Collection, Items]
 ---

@@ -5,8 +5,8 @@ topic: email-class-base-email-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.828Z
-estimatedTokens: 1555
+lastCollected: 2026-04-07T09:02:18.382Z
+estimatedTokens: 1660
 namespace: Messaging
 keywords: [Email, Base, common, mass, Usage, setBccSender, bcc, setReplyTo, replyAddress, setTemplateID, templateId, setSaveAsActivity, saveAsActivity, setSenderDisplayName, displayName]
 ---
@@ -24,13 +24,15 @@ Contains base email methods common to both single and mass email.
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## Usage
 
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=apexref)
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexref)
 
-#### Note
+#### Important
+
+Sending an email by using Apex requires domain-level and user-level email verification. System-generated emails also require verification of the From email address. Email delivery fails if any of these verifications is incomplete. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 If templates are not being used, all email content must be in plain text, HTML, or both.Visualforce email templates cannot be used for mass email.
 

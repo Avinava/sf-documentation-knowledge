@@ -5,7 +5,7 @@ topic: acadrgstrapplnevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.180Z
+lastCollected: 2026-04-07T09:05:05.626Z
 estimatedTokens: 240
 keywords: [AcadRgstrApplnEvent, resources, apply, academic, term, registration, timeline, enrollment, API, version, 65.0, later, Calls]
 ---

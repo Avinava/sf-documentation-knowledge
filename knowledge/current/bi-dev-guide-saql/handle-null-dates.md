@@ -5,7 +5,7 @@ topic: handle-null-dates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.578Z
+lastCollected: 2026-04-07T09:03:14.364Z
 estimatedTokens: 50
 keywords: [Handle, Dates, filter]
 ---

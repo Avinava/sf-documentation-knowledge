@@ -5,7 +5,7 @@ topic: update-usage-of-a-favorite
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.354Z
+lastCollected: 2026-04-07T09:06:15.988Z
 estimatedTokens: 98
 keywords: [Usage, Favorite, individual, Increments, accessCount, lastAccessDate, current, system, time]
 ---

@@ -5,7 +5,7 @@ topic: territorymgmtobjectconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.176Z
+lastCollected: 2026-04-07T09:04:51.006Z
 estimatedTokens: 325
 keywords: [TerritoryMgmtObjectConfig, territory, management, settings, defaults, particular, API, version, 56.0, later, Calls, Special, Access, Rules]
 ---

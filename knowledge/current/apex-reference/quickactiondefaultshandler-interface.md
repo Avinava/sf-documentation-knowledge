@@ -5,7 +5,7 @@ topic: quickactiondefaultshandler-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.951Z
+lastCollected: 2026-04-07T09:02:27.896Z
 estimatedTokens: 1462
 namespace: QuickAction
 keywords: [QuickActionDefaultsHandler, QuickAction.QuickActionDefaultsHandler, lets, specify, standard, Email, Send, actions, case, feed, address, BCC, subject, action, pre-populate]

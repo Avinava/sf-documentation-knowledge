@@ -5,7 +5,7 @@ topic: work-with-individual-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.191Z
+lastCollected: 2026-04-07T09:06:13.029Z
 estimatedTokens: 879
 keywords: [Work, Individual, Records, Everyone’s, process, unique, don’t, always, data, teammates, want, modify, quickly, record, commands]
 ---

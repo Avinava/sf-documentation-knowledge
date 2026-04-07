@@ -1,0 +1,43 @@
+---
+title: "FileTransferLocation"
+domain: mc-apis
+topic: filetransferlocation
+apiVersion: 67.0
+release: summer-26-v67
+docType: developer-guide
+lastCollected: 2026-04-07T09:06:21.851Z
+estimatedTokens: 455
+keywords: [FileTransferLocation, location, part, file, transfer, activity, import, refer, external, FTP, site, Marketing, Cloud's, enhanced, created]
+---
+
+# FileTransferLocation
+
+> The FileTransferLocation object specifies the location used as part of a file transfer activity or import. The FileTransferLocation object can refer to an external FTP site or Marketing Cloud's enhanced FTP site. This location must be created inside Marketing Cloud, and it cannot be included as part
+
+# FileTransferLocation
+
+The FileTransferLocation object specifies the location used as part of a file transfer activity or import. The FileTransferLocation object can refer to an external FTP site or Marketing Cloud's enhanced FTP site. This location must be created inside Marketing Cloud, and it cannot be included as part of a retrieve call. Use this object's external ID as part of a file transfer activity or an import definition.
+
+## Properties
+
+| Name | Data Type | Description |
+| --- | --- | --- |
+| Client | ClientID | Specifies the account ownership and context of an object. |
+| CorrelationID | xsd:string | Identifies correlation of objects across several requests. |
+| CreatedDate | xsd:dateTime | Read-only date and time of the object's creation. |
+| CustomerKey | xsd:string | User-supplied unique identifier for an object within an object type. This property corresponds to the external key assigned to an object in Marketing Cloud. |
+| ID | xsd:int | Read-only identifier for an object. Some objects use the ObjectID property as the Marketing Cloud unique ID. |
+| ModifiedDate | Nullable`1 | Indicates the last time object information was modified. |
+| ObjectID | xsd:string | System-controlled, read-only text string identifier for object. |
+| ObjectState | xsd:string | Reserved for future use. |
+| Owner | Owner | Describes account ownership of subscriber in an on-your-behalf account. |
+| PartnerKey | xsd:string | Unique identifier provided by partner for an object. This property is accessible only via API. |
+| PartnerProperties | APIProperty[] | A collection of metadata supplied by the client and stored by the system. These properties are accessible only via API. |
+
+## Related Items
+
+[Create an Import Definition](atlas.en-us.noversion.mc-apis.meta/mc-apis/creating_an_import_definition.htm)
+
+## Related Topics
+
+- Create an Import Definition (atlas.en-us.noversion.mc-apis.meta/mc-apis/creating_an_import_definition.htm)

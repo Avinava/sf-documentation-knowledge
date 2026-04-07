@@ -5,7 +5,7 @@ topic: schedulingruleparameter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:16.624Z
+lastCollected: 2026-04-07T09:04:48.948Z
 estimatedTokens: 365
 keywords: [SchedulingRuleParameter, scheduling, rule, associated, API, version, 52.0, later, Calls, Special, Access, Rules]
 ---

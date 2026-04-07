@@ -5,7 +5,7 @@ topic: bulk-ingestion-walkthrough
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:28.884Z
+lastCollected: 2026-04-07T09:02:06.234Z
 estimatedTokens: 844
 keywords: [Bulk, Ingestion, Walkthrough, guides, steps, loading, records]
 ---

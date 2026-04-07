@@ -5,7 +5,7 @@ topic: credit-memo-line-unapply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.030Z
+lastCollected: 2026-04-07T09:01:58.251Z
 estimatedTokens: 118
 keywords: [Credit, Memo, Line, Unapply, Input, representation, invoice]
 ---

@@ -5,7 +5,7 @@ topic: story-query-diagnostic-insights
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.151Z
+lastCollected: 2026-04-07T09:03:13.648Z
 estimatedTokens: 300
 keywords: [Story, Query, Diagnostic, Insights]
 ---

@@ -5,7 +5,7 @@ topic: user-message-recipient-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:13.003Z
+lastCollected: 2026-04-07T09:03:23.795Z
 estimatedTokens: 111
 keywords: [User, Message, Recipient, Input]
 ---

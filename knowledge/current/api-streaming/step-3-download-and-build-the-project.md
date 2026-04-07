@@ -5,7 +5,7 @@ topic: step-3-download-and-build-the-project
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.277Z
+lastCollected: 2026-04-07T09:03:05.018Z
 estimatedTokens: 898
 keywords: [Step, Download, Build, Project, run, connector, examples, Java, source, files]
 ---

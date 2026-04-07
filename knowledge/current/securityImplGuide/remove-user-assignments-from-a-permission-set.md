@@ -6,7 +6,7 @@ topic: remove-user-assignments-from-a-permission-set
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.848Z
+lastCollected: 2026-04-07T09:05:28.597Z
 estimatedTokens: 220
 keywords: [Remove, User, Assignments, Permission, any, assignment, users]
 ---

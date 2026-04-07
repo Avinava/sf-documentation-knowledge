@@ -5,7 +5,7 @@ topic: change-event-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:09.504Z
+lastCollected: 2026-04-07T09:03:18.418Z
 estimatedTokens: 132
 keywords: [Change, Event, Considerations, Keep, mind, allocations, subscribing, events]
 ---

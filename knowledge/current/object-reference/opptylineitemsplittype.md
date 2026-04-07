@@ -5,7 +5,7 @@ topic: opptylineitemsplittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.646Z
+lastCollected: 2026-04-07T09:04:45.435Z
 estimatedTokens: 893
 keywords: [OpptyLineItemSplitType, opportunity, product, split, API, version, 58.0, later, Calls, Usage]
 ---

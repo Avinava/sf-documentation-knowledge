@@ -5,7 +5,7 @@ topic: enhanced-usage-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.883Z
+lastCollected: 2026-04-07T09:05:05.241Z
 estimatedTokens: 3281
 keywords: [Enhanced, Usage, Metrics, API, version, 58.0, later, enable, granular, data, time, segments, PlatformEventUsageMetric, queries, break]
 ---

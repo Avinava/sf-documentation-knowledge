@@ -5,7 +5,7 @@ topic: billing-fields-on-taxrate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.403Z
+lastCollected: 2026-04-07T09:01:57.264Z
 estimatedTokens: 914
 keywords: [Billing, TaxRate, Standard, extend, represent, tax, rate, transaction, that's, determined, applicable, code, country, API, version]
 ---

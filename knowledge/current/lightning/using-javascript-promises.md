@@ -5,7 +5,7 @@ topic: using-javascript-promises
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.176Z
+lastCollected: 2026-04-07T09:04:14.413Z
 estimatedTokens: 1149
 keywords: [JavaScript, Promises, ES6, code, simplify, handles, success, failure, asynchronous, calls, chains, together, multiple, Promise, Chaining]
 ---

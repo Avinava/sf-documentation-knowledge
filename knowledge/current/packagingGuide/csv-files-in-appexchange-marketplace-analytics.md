@@ -5,7 +5,7 @@ topic: csv-files-in-appexchange-marketplace-analytics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.986Z
+lastCollected: 2026-04-07T09:04:55.058Z
 estimatedTokens: 1020
 keywords: [CSV, Files, AppExchange, Marketplace, Analytics, export, data, comma-separated, creates, separate, file, dashboard, visualization, Activity, Source]
 ---

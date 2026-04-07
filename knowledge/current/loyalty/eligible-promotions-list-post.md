@@ -5,8 +5,8 @@ topic: eligible-promotions-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.071Z
-estimatedTokens: 682
+lastCollected: 2026-04-07T09:04:17.262Z
+estimatedTokens: 683
 keywords: [Eligible, Promotions, POST, their, associated, rewards, cart, line, items, Special, Access, Rules]
 ---
 
@@ -47,7 +47,7 @@ Request body for POST
 
 Root XML tag
 
-CartInputMapRepresentation
+CartInput​MapRepresentation
 
 JSON examples
 
@@ -57,7 +57,7 @@ Here’s an example of the details of a customer’s cart whose eligible promoti
 
 #### Note
 
-Provide contactId to retrieve campaigns related to a Person Account.
+Provide contactId to retrieve promotions related to a Person Account.
 
 ```
 
@@ -80,13 +80,13 @@ Properties
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | cart | Map<String, Object> | Fields configured in the Cart and CartLine nodes of the CartDetailGetEligiblePromotion context service definition in your org. These fields represent the details of a cart and its line items whose eligible promotions are to be fetched.To get eligible promotions associated with a loyalty program member’s cart, the required parameters are:membershipNumber or loyaltyProgramMemberIdcurrencyISOCodeFor other eligible promotions, the required parameters are:contactId, contactLastName, or contactEmailcurrencyISOCodeAlong with the required parameters, provide specific details of a cart, such as the total transaction amount, and the cart line item details, such as the line item quantity and amount, the product ID or name, the product catalog ID or name, the product code, and the product stock keeping unit. | Required | 60.0 |
-| contextInstanceId | String | ID of the context instance. | Optional | 65.0 |
+| context​InstanceId | String | ID of the context instance. | Optional | 65.0 |
 
 Request parameters for POST
 
 | Parameter Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| ruleLibraryApiName | String | API Name of an active Rule Library with the usage type as Global Promotion Management. This parameter allows the API to check the eligibility of the cart against the Promotions associated with the specified Rule Library.This parameter is required if there are multiple active rule libraries configured with the Usage Type as Global Promotion Management. | Optional | 59.0 |
+| ruleLibrary​ApiName | String | API Name of an active Rule Library with the usage type as Global Promotion Management. This parameter allows the API to check the eligibility of the cart against the Promotions associated with the specified Rule Library.This parameter is required if there are multiple active rule libraries configured with the Usage Type as Global Promotion Management. | Optional | 59.0 |
 
 Response body for POST
 

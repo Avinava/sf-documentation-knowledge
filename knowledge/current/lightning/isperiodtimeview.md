@@ -5,7 +5,7 @@ topic: isperiodtimeview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.568Z
+lastCollected: 2026-04-07T09:04:15.031Z
 estimatedTokens: 79
 keywords: [isPeriodTimeView, Deprecated, Checks, datetime, pattern, uses, 24-hour, 12-hour, time, view]
 ---

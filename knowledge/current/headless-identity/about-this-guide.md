@@ -5,7 +5,7 @@ topic: about-this-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.898Z
+lastCollected: 2026-04-07T09:03:51.393Z
 estimatedTokens: 263
 keywords: [walks, end-to-end, Headless, Identity, implementation, completing, Salesforce, setup, calling, API, designed, single-page, app, client]
 ---

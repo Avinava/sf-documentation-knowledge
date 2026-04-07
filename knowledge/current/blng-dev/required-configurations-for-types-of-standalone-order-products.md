@@ -5,7 +5,7 @@ topic: required-configurations-for-types-of-standalone-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.908Z
+lastCollected: 2026-04-07T09:03:17.711Z
 estimatedTokens: 681
 keywords: [Configurations, Standalone, Order, Products, orders, require, provide, otherwise, come, CPQ, quote, collection, topics, showing, their]
 ---

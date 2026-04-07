@@ -5,7 +5,7 @@ topic: eventpublishfailurecallback-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.121Z
+lastCollected: 2026-04-07T09:02:28.116Z
 estimatedTokens: 650
 namespace: EventBus
 keywords: [EventPublishFailureCallback, Implement, track, platform, event, messages, failed, publish, onFailure, final, result, asynchronous, operation, becomes, Usage]

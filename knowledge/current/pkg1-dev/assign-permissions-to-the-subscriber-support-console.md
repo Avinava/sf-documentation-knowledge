@@ -5,7 +5,7 @@ topic: assign-permissions-to-the-subscriber-support-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.439Z
+lastCollected: 2026-04-07T09:05:01.640Z
 estimatedTokens: 313
 keywords: [Assign, Permissions, Subscriber, Support, Console, permission, provide, users, access]
 ---

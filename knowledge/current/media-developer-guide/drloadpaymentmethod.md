@@ -5,7 +5,7 @@ topic: drloadpaymentmethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.026Z
+lastCollected: 2026-04-07T09:04:21.030Z
 estimatedTokens: 99
 keywords: [DRLoadPaymentMethod, Omnistudio, Data, Mapper, loads, payment, record, Sample, Input, Output]
 ---

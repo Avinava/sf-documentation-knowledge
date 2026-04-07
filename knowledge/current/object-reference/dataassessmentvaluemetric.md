@@ -5,7 +5,7 @@ topic: dataassessmentvaluemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.843Z
+lastCollected: 2026-04-07T09:04:38.608Z
 estimatedTokens: 502
 keywords: [DataAssessmentValueMetric, Summarizes, number, matched, account, records, Data.com, records.This, API, version, 37.0, later, Calls]
 ---

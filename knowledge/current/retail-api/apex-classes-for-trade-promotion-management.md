@@ -5,7 +5,7 @@ topic: apex-classes-for-trade-promotion-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.712Z
+lastCollected: 2026-04-07T09:05:17.385Z
 estimatedTokens: 2169
 keywords: [Apex, Classes, Trade, Promotion, Management]
 ---

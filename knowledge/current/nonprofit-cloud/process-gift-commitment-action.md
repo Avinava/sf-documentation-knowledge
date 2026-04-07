@@ -5,7 +5,7 @@ topic: process-gift-commitment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.601Z
+lastCollected: 2026-04-07T09:04:29.598Z
 estimatedTokens: 258
 keywords: [Process, Gift, Commitment, Action, Updates, status, relevant, statuses, associated, transactions, current, schedule, REST, HTTP, Inputs]
 ---

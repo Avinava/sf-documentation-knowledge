@@ -5,7 +5,7 @@ topic: change-events-for-person-accounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.702Z
+lastCollected: 2026-04-07T09:03:18.760Z
 estimatedTokens: 981
 keywords: [Change, Events, Person, Accounts, Because, account, record, combines, contact, changing, results, two, provided, objects, selected]
 ---

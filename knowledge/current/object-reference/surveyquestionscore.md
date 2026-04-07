@@ -5,7 +5,7 @@ topic: surveyquestionscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.549Z
+lastCollected: 2026-04-07T09:04:50.124Z
 estimatedTokens: 1176
 keywords: [SurveyQuestionScore, aggregate, responses, question, date, multiple, choice, picklist, radio, ranking, rating, scoring, slider, Net, Promoter]
 ---

@@ -5,7 +5,7 @@ topic: request-a-callback
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.803Z
+lastCollected: 2026-04-07T09:06:18.162Z
 estimatedTokens: 332
 keywords: [Callback, Creates, voice, call, Omni-Channel, Unified, Routing, enabled, URI, HTTP]
 ---

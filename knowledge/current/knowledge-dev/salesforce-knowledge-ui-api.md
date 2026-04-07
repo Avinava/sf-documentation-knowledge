@@ -5,7 +5,7 @@ topic: salesforce-knowledge-ui-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.537Z
+lastCollected: 2026-04-07T09:04:04.724Z
 estimatedTokens: 326
 keywords: [Salesforce, Knowledge, API, Retrieve, data, metadata, records, help, build, Lightning, Experience, mobile, custom, web, app]
 ---

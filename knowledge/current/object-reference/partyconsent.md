@@ -4,9 +4,9 @@ domain: object-reference
 topic: partyconsent
 apiVersion: 67.0
 release: summer-26-v67
-docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.354Z
-estimatedTokens: 1233
+docType: api-reference
+lastCollected: 2026-04-07T09:04:46.218Z
+estimatedTokens: 1443
 keywords: [PartyConsent, consent, preferences, individual, API, version, 48.0, later, Calls, Associated, Objects]
 ---
 
@@ -31,6 +31,9 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CaptureContactPointType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionRequired. Indicates how you captured consent.Possible values are:EmailMailingAddressPhoneSocialWeb |
 | CaptureDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionRequired. Date when consent was captured. |
 | CaptureSource | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionRequired. Indicates how you captured consent. For example, a website or online form. |
+| DoubleConsentCaptureDate | TypedateTimePropertiesFilter, Group, Nillable, SortDescriptionThe specific date and time the consent was confirmed for the data subject via a secondary verification method (for example, clicking a link in a confirmation email). Essential for high-standard Double Opt-In audit trails. |
+| EffectiveFrom | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date the data subject's consent becomes valid. Use this field to track the beginning of the legal period for which the party has agreed to data processing or communication. |
+| EffectiveTo | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date the data subject's consent expires or is scheduled to end. This field helps automate compliance by identifying when consent should no longer be honored. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionName of the party consent record. |

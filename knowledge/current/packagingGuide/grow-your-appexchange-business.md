@@ -5,7 +5,7 @@ topic: grow-your-appexchange-business
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.427Z
+lastCollected: 2026-04-07T09:04:54.168Z
 estimatedTokens: 255
 keywords: [Grow, AppExchange, Business, listing, best, practices, Collect, leads, customers, interact, how, search, works, Optimize, boost]
 ---

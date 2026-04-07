@@ -5,7 +5,7 @@ topic: feed-item-attachment-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.728Z
+lastCollected: 2026-04-07T09:03:31.994Z
 estimatedTokens: 285
 keywords: [Feed, Item, Attachment, Approval]
 ---

@@ -5,7 +5,7 @@ topic: create-developer-hub-and-namespace-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.057Z
+lastCollected: 2026-04-07T09:06:18.567Z
 estimatedTokens: 811
 keywords: [Developer, Hub, Orgs, Linking, org, lets, Salesforce, Experience, develop, second-generation, package]
 ---

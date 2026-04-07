@@ -5,8 +5,8 @@ topic: inboundemailbinaryattachment-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.776Z
-estimatedTokens: 929
+lastCollected: 2026-04-07T09:02:18.322Z
+estimatedTokens: 928
 namespace: Messaging
 keywords: [InboundEmail.BinaryAttachment, InboundEmail, stores, binary, attachments, Usage, fileName, mimeTypeSubType]
 ---
@@ -24,7 +24,7 @@ An InboundEmail object stores binary attachments in an InboundEmail.BinaryAttach
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
 
 ## Usage
 

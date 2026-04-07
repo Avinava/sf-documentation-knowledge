@@ -5,7 +5,7 @@ topic: inspolicycoveragebenefit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.582Z
+lastCollected: 2026-04-07T09:03:49.873Z
 estimatedTokens: 974
 keywords: [InsPolicyCoverageBenefit, insurance, policy, coverage, benefits, API, version, later, Calls, Associated, Objects]
 ---

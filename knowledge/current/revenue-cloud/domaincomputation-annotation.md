@@ -5,7 +5,7 @@ topic: domaincomputation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.635Z
+lastCollected: 2026-04-07T09:01:57.392Z
 estimatedTokens: 3753
 keywords: [domainComputation, Annotation, CML, how, domain, model, element, determined, either, fixed, computing, dynamically, configuration, Configurator, Result]
 ---

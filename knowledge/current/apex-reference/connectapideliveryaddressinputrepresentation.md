@@ -5,7 +5,7 @@ topic: connectapideliveryaddressinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:46.562Z
+lastCollected: 2026-04-07T09:02:19.893Z
 estimatedTokens: 212
 keywords: [Delivery, address]
 ---

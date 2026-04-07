@@ -5,7 +5,7 @@ topic: differences-in-behavior-in-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.783Z
+lastCollected: 2026-04-07T09:03:46.198Z
 estimatedTokens: 552
 keywords: [Differences, Behavior, LWR, Sites, templates, Experience, Cloud, things, work, little, differently, Aura]
 ---

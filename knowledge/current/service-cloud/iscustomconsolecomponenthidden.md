@@ -5,7 +5,7 @@ topic: iscustomconsolecomponenthidden
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.464Z
+lastCollected: 2026-04-07T09:03:03.355Z
 estimatedTokens: 244
 keywords: [isCustomConsoleComponentHidden, Determines, application-level, custom, console, component, window, hidden, API, version, 32.0, later, 31.0, earlier, isCustomConsoleComponentWindowHidden]
 ---

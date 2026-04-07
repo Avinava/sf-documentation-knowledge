@@ -5,7 +5,7 @@ topic: encrypt-from-the-command-line
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.273Z
+lastCollected: 2026-04-07T09:03:41.251Z
 estimatedTokens: 327
 keywords: [Encrypt, Command, Line, Data, Loader, offers, encryption, utility, secure, passwords, configuration, files, handle, directly, transit]
 ---

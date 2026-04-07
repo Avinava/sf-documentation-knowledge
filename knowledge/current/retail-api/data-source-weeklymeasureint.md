@@ -5,7 +5,7 @@ topic: data-source-weeklymeasureint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.326Z
+lastCollected: 2026-04-07T09:05:18.391Z
 estimatedTokens: 58
 keywords: [Data, Source, WeeklyMeasureInt, sample, code, snippets, integration, metadata, JSON, datasources, configuration, payload]
 ---

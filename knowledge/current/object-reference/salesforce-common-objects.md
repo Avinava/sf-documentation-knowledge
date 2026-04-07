@@ -5,7 +5,7 @@ topic: salesforce-common-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:03.293Z
+lastCollected: 2026-04-07T09:04:33.168Z
 estimatedTokens: 877
 keywords: [Salesforce, Common, Objects, any, standard, org, cloud, They, don’t, require, special, licensing, Original, Platform, Base]
 ---

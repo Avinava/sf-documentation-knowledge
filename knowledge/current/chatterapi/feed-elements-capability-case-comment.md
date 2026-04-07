@@ -5,7 +5,7 @@ topic: feed-elements-capability-case-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.145Z
+lastCollected: 2026-04-07T09:03:26.633Z
 estimatedTokens: 208
 keywords: [Feed, Elements, Capability, Case, Comment, Access, element]
 ---

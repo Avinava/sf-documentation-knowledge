@@ -5,7 +5,7 @@ topic: gifttransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:25.595Z
+lastCollected: 2026-04-07T09:03:43.230Z
 estimatedTokens: 3028
 keywords: [GiftTransaction, completed, transaction, gift, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

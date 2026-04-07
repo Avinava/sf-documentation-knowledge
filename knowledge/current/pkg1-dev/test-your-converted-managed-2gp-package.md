@@ -5,7 +5,7 @@ topic: test-your-converted-managed-2gp-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.487Z
+lastCollected: 2026-04-07T09:05:01.720Z
 estimatedTokens: 327
 keywords: [Test, Converted, Managed, 2GP, Package, migrate, subscribers, strongly, recommend, install, newly, new, scratch, org, functionality]
 ---

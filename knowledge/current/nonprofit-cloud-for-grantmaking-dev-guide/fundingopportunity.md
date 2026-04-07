@@ -5,7 +5,7 @@ topic: fundingopportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:03.078Z
+lastCollected: 2026-04-07T09:04:32.885Z
 estimatedTokens: 1245
 keywords: [FundingOpportunity, pool, money, distribution, specific, purpose, API, version, 57.0, later, Calls, Special, Access, Rules, Associated]
 ---

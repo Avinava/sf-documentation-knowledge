@@ -6,7 +6,7 @@ topic: display-flow-stages-with-a-progress-indicator-on-the-flow-screen
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.220Z
+lastCollected: 2026-04-07T09:04:13.064Z
 estimatedTokens: 988
 keywords: [Display, Flow, Stages, Progress, Indicator, Screen, track, runtime, adding, custom, component, flow’s, screens, displays, active]
 ---

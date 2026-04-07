@@ -5,7 +5,7 @@ topic: setcustomconsolecomponentbuttoniconurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.733Z
+lastCollected: 2026-04-07T09:03:04.581Z
 estimatedTokens: 216
 keywords: [setCustomConsoleComponentButtonIconUrl, button, icon, URL, application-level, custom, console, component, that’s, API, version, 25.0, later, Arguments, Sample]
 ---

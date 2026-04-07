@@ -5,8 +5,8 @@ topic: actionplantemplateversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.965Z
-estimatedTokens: 799
+lastCollected: 2026-04-07T09:04:33.946Z
+estimatedTokens: 795
 keywords: [ActionPlanTemplateVersion, version, action, plan, template, API, 44.0, later, Calls, Associated, Objects]
 ---
 
@@ -27,7 +27,7 @@ create()delete()describeLayout()describeSObjects()getDeleted()getUpdated()query(
 
 | Field Name | Details |
 | --- | --- |
-| ActionPlanTemplateId | TypereferencePropertiesCreate, Filter, Group, Sort, Filter, Group, SortDescriptionThe ID of the action plan template this version represents. |
+| ActionPlanTemplateId | TypereferencePropertiesCreate, Filter, Group, Sort, GroupDescriptionThe ID of the action plan template this version represents. |
 | ActivationDateTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort,DescriptionThe date and time at which this version became active. |
 | InactivationDateTime | TypedateTimePropertiesCreate, Filter, Nillable, SortDescriptionThe date and time at which this version became inactive. |
 | IsLocked | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether this action plan template version is locked or not. The default value is false. |

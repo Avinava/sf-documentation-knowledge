@@ -5,8 +5,8 @@ topic: assessmenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.051Z
-estimatedTokens: 1173
+lastCollected: 2026-04-07T09:03:57.015Z
+estimatedTokens: 1172
 keywords: [AssessmentTask, Perform, activities, patient, registration, order, authorization, capture, Special, Access, Rules, Calls, Associated, Objects]
 ---
 
@@ -32,7 +32,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Field | Details |
 | --- | --- |
 | AssessmentTaskDefinitionId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe assessment task definition that is referenced for the task. This field is a relationship field.Relationship NameAssessmentTaskDefinitionRefers ToAssessmentTaskDefinition |
-| AssignedToId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionRepresents the user that's assigned the task. This field is a polymorphic relationship field.In Health Cloud, this field and is available in API version 58.0 and later.Relationship NameAssignedToRelationship TypeLookupRefers ToUser |
+| AssignedToId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionRepresents the user that's assigned the task. This field is a polymorphic relationship field.In Health Cloud, this field is available in API version 58.0 and later.Relationship NameAssignedToRelationship TypeLookupRefers ToUser |
 | Description | TypetextareaPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionDescription of task that has to be performed at the store. |
 | EndTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time when the assessment task is completed. |
 | IsRequired | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicate whether a task must be completed to complete a visit. The default value is False.In Health Cloud, this field is available in API version 48.0 and later. |

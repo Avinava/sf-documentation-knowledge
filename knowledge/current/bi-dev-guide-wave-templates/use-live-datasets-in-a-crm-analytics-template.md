@@ -5,7 +5,7 @@ topic: use-live-datasets-in-a-crm-analytics-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:07.705Z
+lastCollected: 2026-04-07T09:03:16.137Z
 estimatedTokens: 697
 keywords: [Live, Datasets, CRM, Analytics, Template, liveConnection, attribute, bring, connections, Snowflake, source, tables, Creating, app, generates]
 ---

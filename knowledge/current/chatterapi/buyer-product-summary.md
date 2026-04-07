@@ -5,7 +5,7 @@ topic: buyer-product-summary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.403Z
+lastCollected: 2026-04-07T09:03:29.953Z
 estimatedTokens: 294
 keywords: [Buyer, Product, Summary, Output, representation]
 ---

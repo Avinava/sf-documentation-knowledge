@@ -5,7 +5,7 @@ topic: set-up-call-transcription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.564Z
+lastCollected: 2026-04-07T09:06:17.787Z
 estimatedTokens: 482
 keywords: [Call, Transcription, convert, conversations, text, real-time, transcripts, appear, voice, record, real, time, Service, Cloud, supports]
 ---

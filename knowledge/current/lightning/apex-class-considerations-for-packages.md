@@ -5,7 +5,7 @@ topic: apex-class-considerations-for-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.005Z
+lastCollected: 2026-04-07T09:04:12.732Z
 estimatedTokens: 609
 keywords: [Apex, Considerations, Packages, Keep, mind, develop, classes, Test, Coverage, Grant, User, Access, Usage, Subscriber, Orgs]
 ---

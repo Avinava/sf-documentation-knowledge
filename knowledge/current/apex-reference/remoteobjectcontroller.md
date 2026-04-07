@@ -5,7 +5,7 @@ topic: remoteobjectcontroller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.707Z
+lastCollected: 2026-04-07T09:02:18.239Z
 estimatedTokens: 1973
 namespace: System
 keywords: [RemoteObjectController, access, standard, Visualforce, Remote, Objects, operations, override, Usage, del, recordIds, retrieve, criteria]

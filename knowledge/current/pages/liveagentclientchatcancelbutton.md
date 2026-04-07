@@ -5,7 +5,7 @@ topic: liveagentclientchatcancelbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.690Z
+lastCollected: 2026-04-07T09:04:57.814Z
 estimatedTokens: 205
 keywords: [liveAgent, clientChatCancelButton, button, chat, window, visitor, clicks, cancel, session, Attributes]
 ---

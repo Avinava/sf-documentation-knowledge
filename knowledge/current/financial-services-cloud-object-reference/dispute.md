@@ -5,7 +5,7 @@ topic: dispute
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:29.946Z
+lastCollected: 2026-04-07T09:03:49.190Z
 estimatedTokens: 1416
 keywords: [Dispute, involves, multiple, disputed, transactions, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

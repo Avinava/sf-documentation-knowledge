@@ -5,7 +5,7 @@ topic: forms-fields-and-labels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.881Z
+lastCollected: 2026-04-07T09:04:12.537Z
 estimatedTokens: 485
 keywords: [Forms, Labels, Input, components, designed, easy, assign, form, build, programmatic, relationship, textual, label, placeholder, component]
 ---

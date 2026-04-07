@@ -5,7 +5,7 @@ topic: blngpaymenttermsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.555Z
+lastCollected: 2026-04-07T09:03:17.341Z
 estimatedTokens: 276
 keywords: [blng__PaymentTerms__c, period, customers, pay, invoiced, order, product, blng, _PaymentTerms, Calls]
 ---

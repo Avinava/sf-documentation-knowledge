@@ -5,7 +5,7 @@ topic: net-zero-cloud-calculations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.872Z
+lastCollected: 2026-04-07T09:04:26.461Z
 estimatedTokens: 1714
 keywords: [Net, Zero, Cloud, Calculations, performs, background, summarize, carbon, footprint, calculated, know, double-check, determine, whether, any]
 ---

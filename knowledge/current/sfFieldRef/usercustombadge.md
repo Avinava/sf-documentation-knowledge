@@ -5,7 +5,7 @@ topic: usercustombadge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.010Z
+lastCollected: 2026-04-07T09:06:10.213Z
 estimatedTokens: 288
 keywords: [UserCustomBadge, custom, badge, user, API, version, 38.0, later]
 ---

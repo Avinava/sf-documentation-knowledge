@@ -5,7 +5,7 @@ topic: make-a-custom-lightning-web-component-screen-size-responsive
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.728Z
+lastCollected: 2026-04-07T09:03:46.111Z
 estimatedTokens: 856
 keywords: [Custom, Lightning, Web, Component, Screen-Size, Responsive, enhanced, LWR, sites, assign, separate, desktop, mobile, tablet, versions]
 ---

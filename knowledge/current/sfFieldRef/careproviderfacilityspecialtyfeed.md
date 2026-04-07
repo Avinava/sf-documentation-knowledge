@@ -5,7 +5,7 @@ topic: careproviderfacilityspecialtyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.147Z
+lastCollected: 2026-04-07T09:05:38.349Z
 estimatedTokens: 367
 keywords: [CareProviderFacilitySpecialtyFeed, Feed, tracking, CareProviderFacilitySpecialty]
 ---

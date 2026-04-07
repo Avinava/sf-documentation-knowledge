@@ -5,7 +5,7 @@ topic: enable-source-tracking-in-sandboxes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.009Z
+lastCollected: 2026-04-07T09:06:14.133Z
 estimatedTokens: 1127
 keywords: [Enable, Source, Tracking, Sandboxes, enabling, Developer, Pro, Salesforce, tooling, automatically, track, new, changed, deleted, metadata]
 ---

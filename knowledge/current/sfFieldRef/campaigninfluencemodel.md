@@ -5,7 +5,7 @@ topic: campaigninfluencemodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.175Z
+lastCollected: 2026-04-07T09:05:37.092Z
 estimatedTokens: 460
 namespace: NamespacePrefix
 keywords: [CampaignInfluenceModel, read-only, campaign, influence, model, Customizable, models, group, CampaignInfluence, records, created, specific, triggers, workflows, define]

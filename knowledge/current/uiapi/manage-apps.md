@@ -5,7 +5,7 @@ topic: manage-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.032Z
+lastCollected: 2026-04-07T09:06:15.523Z
 estimatedTokens: 820
 keywords: [Manage, Apps, app, collection, items, work, together, serve, particular, function, Salesforce, come, two, flavors, Classic]
 ---

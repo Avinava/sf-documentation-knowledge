@@ -5,7 +5,7 @@ topic: logineventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.939Z
+lastCollected: 2026-04-07T09:05:06.535Z
 estimatedTokens: 3938
 keywords: [LoginEventStream, tracks, login, activity, users, log, Salesforce, API, version, 46.0, later, Calls, Subscribers, Subscription, Channel]
 ---
@@ -70,7 +70,7 @@ No
 | HttpMethod | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe HTTP method of the login request; possible values are GET, POST, and Unknown. |
 | LoginGeoId | TypestringPropertiesNillableDescriptionThe Salesforce ID of the LoginGeo object associated with the login user’s IP address. For example, 04FB000001TvhiPMAR. |
 | LoginHistoryId | TypereferencePropertiesNillableDescriptionTracks a user session so you can correlate user activity with a particular login instance. This field is also available on the LoginHistory, AuthSession, and LoginHistory objects, making it easier to trace events back to a user’s original authentication. For example, 0YaB000002knVQLKA2. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | LoginLatitude | TypedoublePropertiesNillableDescriptionThe latitude where the user’s IP address is physically located.This field is available in API version 47.0 and later.NoteDue to the nature of geolocation technology, the accuracy of this field can vary. |
 | LoginLongitude | TypedoublePropertiesNillableDescriptionThe longitude where the user’s IP address is physically located.This field is available in API version 47.0 and later.NoteDue to the nature of geolocation technology, the accuracy of this field can vary. |
 | LoginSubType | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe type of login flow used. See the LoginSubType field of LoginHistory in the Object Reference guide for the list of possible values.Label is Login Subtype. |

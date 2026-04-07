@@ -5,7 +5,7 @@ topic: partnernetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.327Z
+lastCollected: 2026-04-07T09:04:46.180Z
 estimatedTokens: 938
 keywords: [PartnerNetworkConnection, Salesforce, connection, organizations, Calls, Special, Access, Rules, Usage]
 ---

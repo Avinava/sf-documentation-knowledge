@@ -5,7 +5,7 @@ topic: academicsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.760Z
+lastCollected: 2026-04-07T09:03:43.455Z
 estimatedTokens: 1041
 keywords: [AcademicSession, Records, course, offering, period, time, periods, institution’s, calendar, whether, semesters, quarters, trimesters, terms, API]
 ---

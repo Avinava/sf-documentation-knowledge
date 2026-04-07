@@ -5,7 +5,7 @@ topic: decision-matrix-variable-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:48.639Z
+lastCollected: 2026-04-07T09:02:51.211Z
 estimatedTokens: 94
 keywords: [Decision, Matrix, Variable, Input, representation, variables, passed, lookup]
 ---

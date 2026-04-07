@@ -5,7 +5,7 @@ topic: create-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.025Z
+lastCollected: 2026-04-07T09:05:03.790Z
 estimatedTokens: 543
 keywords: [Second-Generation, Managed, Package, top-level, container, holds, app, associated, you’re, ready, test, share, Salesforce, CLI, command]
 ---

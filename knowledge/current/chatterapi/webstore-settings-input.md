@@ -5,7 +5,7 @@ topic: webstore-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:13.027Z
+lastCollected: 2026-04-07T09:03:23.834Z
 estimatedTokens: 345
 keywords: [Webstore, Settings, Input, associate, asynchronous, product, import, job]
 ---

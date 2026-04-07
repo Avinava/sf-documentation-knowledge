@@ -5,7 +5,7 @@ topic: flow-for-financial-services-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.948Z
+lastCollected: 2026-04-07T09:03:47.950Z
 estimatedTokens: 612
 keywords: [Flow, Financial, Services, Cloud, metadata, associated, application, navigates, users, series, screens, query, records, database, execute]
 ---

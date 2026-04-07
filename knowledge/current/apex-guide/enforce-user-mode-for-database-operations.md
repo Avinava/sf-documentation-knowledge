@@ -5,7 +5,7 @@ topic: enforce-user-mode-for-database-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.817Z
+lastCollected: 2026-04-07T09:02:31.230Z
 estimatedTokens: 1868
 keywords: [Enforce, User, Mode, Database, Operations, run, rather, system, SOQL, SOSL, queries, special, keywords, DML, overloads]
 ---

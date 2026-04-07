@@ -5,7 +5,7 @@ topic: audit-and-monitor-your-organizations-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.100Z
+lastCollected: 2026-04-07T09:05:28.984Z
 estimatedTokens: 416
 keywords: [Audit, Monitor, Organization’s, Security, Track, login, history, setup, changes, address, auditing, data, retention, compliance, obligations]
 ---

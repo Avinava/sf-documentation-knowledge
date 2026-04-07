@@ -5,7 +5,7 @@ topic: build-a-custom-navigation-model-for-your-flow-screens
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.199Z
+lastCollected: 2026-04-07T09:04:13.036Z
 estimatedTokens: 375
 keywords: [Build, Custom, Navigation, Model, Flow, Screens, Since, Aura, components, access, screen’s, actions, fully, customize, how]
 ---

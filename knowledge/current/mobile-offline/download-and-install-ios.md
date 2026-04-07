@@ -5,7 +5,7 @@ topic: download-and-install-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.494Z
+lastCollected: 2026-04-07T09:04:24.586Z
 estimatedTokens: 463
 keywords: [Download, Install, iOS, mobile, development, tools, running, getting, started, Test, Harness, virtual, devices, breeze]
 ---

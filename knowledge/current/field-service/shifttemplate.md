@@ -5,7 +5,7 @@ topic: shifttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:50.777Z
+lastCollected: 2026-04-07T09:03:02.293Z
 estimatedTokens: 1001
 keywords: [ShiftTemplate, template, creating, shifts, API, version, 51.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

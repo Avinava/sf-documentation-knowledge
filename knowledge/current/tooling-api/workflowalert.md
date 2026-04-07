@@ -5,7 +5,7 @@ topic: workflowalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.791Z
+lastCollected: 2026-04-07T09:02:49.448Z
 estimatedTokens: 624
 keywords: [WorkflowAlert, workflow, alert, email, generated, rule, approval, process, sent, designated, recipients, SOAP, Calls, REST, HTTP]
 ---

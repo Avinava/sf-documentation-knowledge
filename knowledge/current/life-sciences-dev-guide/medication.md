@@ -5,8 +5,8 @@ topic: medication
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.303Z
-estimatedTokens: 1409
+lastCollected: 2026-04-07T09:04:07.254Z
+estimatedTokens: 1325
 keywords: [Medication, detailed, different, medications, API, version, 51.0, later, Calls, Additional, Objects, Associated, ​Medication, medication, FHIR, resource, maps, Salesforce​, V4​.0, Clinical]
 ---
 
@@ -65,11 +65,7 @@ This object has the following associated objects. If the API version isn’t spe
 
 Change events are available for the object.
 
--   **[MedicinalIngredient](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_medicinalingredient.htm)**
-    MedicinalIngredient is a child object of Medication that represents substances or drugs that are used as ingredients in the medication. This object is available in API version 52.0 and later.
-
 ## Related Topics
 
 - MedicationChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)
-- MedicinalIngredient (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_medicinalingredient.htm)
 - Medication (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_r4_api_objects_Medication.htm)

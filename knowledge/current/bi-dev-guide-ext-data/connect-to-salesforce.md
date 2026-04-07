@@ -5,7 +5,7 @@ topic: connect-to-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.138Z
+lastCollected: 2026-04-07T09:03:07.514Z
 estimatedTokens: 288
 keywords: [Connect, Salesforce, preparing, data, files, step, loading, external, CRM, Analytics, organization, standard, APIs]
 ---

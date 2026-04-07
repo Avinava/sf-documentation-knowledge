@@ -5,7 +5,7 @@ topic: ideastandardsetcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:53.264Z
+lastCollected: 2026-04-07T09:02:30.064Z
 estimatedTokens: 1108
 namespace: ApexPages
 keywords: [IdeaStandardSetController, objects, offer, Ideas-specific, functionality, addition, provided, StandardSetController, Usage, Instantiation, Displaying, Profile, Top, Recent, Popular]

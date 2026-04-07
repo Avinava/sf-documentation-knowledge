@@ -5,7 +5,7 @@ topic: before-you-begin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.311Z
+lastCollected: 2026-04-07T09:03:39.755Z
 estimatedTokens: 904
 keywords: [Begin, developing, custom, Experience, Builder, sites, ensure, you’re, familiar, Lightning, Resources, Development, Cloud]
 ---

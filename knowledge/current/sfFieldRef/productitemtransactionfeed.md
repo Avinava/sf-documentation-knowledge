@@ -5,7 +5,7 @@ topic: productitemtransactionfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:09.565Z
+lastCollected: 2026-04-07T09:06:01.288Z
 estimatedTokens: 364
 keywords: [ProductItemTransactionFeed, Feed, tracking, ProductItemTransaction]
 ---

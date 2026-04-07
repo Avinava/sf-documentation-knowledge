@@ -5,7 +5,7 @@ topic: cgcloudpromotionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:39.553Z
+lastCollected: 2026-04-07T09:05:21.092Z
 estimatedTokens: 6339
 keywords: [cgcloud__Promotion__c, Promotion, activity, user, includes, definition, prices, time, segment, API, version, 54.0, later, cgcloud, _Promotion]
 ---

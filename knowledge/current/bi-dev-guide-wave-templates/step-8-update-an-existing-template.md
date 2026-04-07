@@ -5,7 +5,7 @@ topic: step-8-update-an-existing-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.701Z
+lastCollected: 2026-04-07T09:03:16.132Z
 estimatedTokens: 1012
 keywords: [Step, Template, changing, source, app’s, dashboards, lenses, datasets, CRM, Analytics, Studio, Updating, Asset, Version]
 ---

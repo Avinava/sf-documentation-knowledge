@@ -5,7 +5,7 @@ topic: conversationentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.420Z
+lastCollected: 2026-04-07T09:04:38.048Z
 estimatedTokens: 1861
 keywords: [ConversationEntry, message, event, voice, call, messaging, session, schema, conversation, entries, legacy, chat, Refer, Off-Core, Model]
 ---

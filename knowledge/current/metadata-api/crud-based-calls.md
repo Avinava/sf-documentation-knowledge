@@ -5,7 +5,7 @@ topic: crud-based-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:04.888Z
+lastCollected: 2026-04-07T09:02:38.657Z
 estimatedTokens: 504
 keywords: [CRUD-Based, Calls, work, metadata, components, manner, similar, how, synchronous, API, enterprise, WSDL, act, upon, objects]
 ---

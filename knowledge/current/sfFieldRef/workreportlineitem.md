@@ -5,7 +5,7 @@ topic: workreportlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.573Z
+lastCollected: 2026-04-07T09:06:12.212Z
 estimatedTokens: 611
 keywords: [WorkReportLineItem, measure, work, performed, contractor, business, consumer, location, program, API, version, 59.0, later]
 ---

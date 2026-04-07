@@ -5,7 +5,7 @@ topic: enhancednotessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:06.211Z
+lastCollected: 2026-04-07T09:02:39.978Z
 estimatedTokens: 470
 keywords: [EnhancedNotesSettings, org’s, enhanced, settings, enabling, notes, tasks, notes.This, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---

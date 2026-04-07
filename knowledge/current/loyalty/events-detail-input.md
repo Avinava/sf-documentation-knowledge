@@ -5,7 +5,7 @@ topic: events-detail-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.894Z
+lastCollected: 2026-04-07T09:04:17.023Z
 estimatedTokens: 150
 keywords: [Events, Detail, Input, representation, customer, event, eligible, promotion]
 ---

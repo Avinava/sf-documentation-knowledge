@@ -5,7 +5,7 @@ topic: cart-summary-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.616Z
+lastCollected: 2026-04-07T09:03:30.270Z
 estimatedTokens: 119
 keywords: [Cart, Summary, Result, calculating]
 ---

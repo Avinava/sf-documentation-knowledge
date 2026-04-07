@@ -5,7 +5,7 @@ topic: set-your-external-organization-wide-sharing-defaults
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.118Z
+lastCollected: 2026-04-07T09:05:29.015Z
 estimatedTokens: 1018
 keywords: [External, Organization-Wide, Sharing, Defaults, enable, different, access, level, users]
 ---

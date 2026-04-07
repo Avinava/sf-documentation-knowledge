@@ -5,7 +5,7 @@ topic: cgcloudorderitemc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.060Z
+lastCollected: 2026-04-07T09:05:20.574Z
 estimatedTokens: 3262
 keywords: [cgcloud__Order_Item__c, Stores, order, item, API, version, 54.0, later, cgcloud, _Order, _Item, Calls, Associated, Objects]
 ---

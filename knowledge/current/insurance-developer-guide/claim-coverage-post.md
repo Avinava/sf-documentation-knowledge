@@ -5,7 +5,7 @@ topic: claim-coverage-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.078Z
+lastCollected: 2026-04-07T09:04:02.488Z
 estimatedTokens: 484
 keywords: [Claim, Coverage, POST, record]
 ---
@@ -78,7 +78,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/claims/0Zkxx000000001dEAA/coverages
+https://yourInstance.salesforce.com/services/data/v/connect/claims/0Zkxx000000001dEAA/coverages
 ```
 
 ```

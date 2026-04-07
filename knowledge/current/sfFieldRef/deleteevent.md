@@ -5,7 +5,7 @@ topic: deleteevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.026Z
+lastCollected: 2026-04-07T09:05:43.091Z
 estimatedTokens: 247
 keywords: [DeleteEvent, record, soft, deleted, Search, API, version, 48.0, removed, 50.0]
 ---

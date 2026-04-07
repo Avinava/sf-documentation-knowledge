@@ -5,7 +5,7 @@ topic: connectapiapplycreditresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:14.590Z
+lastCollected: 2026-04-07T09:01:56.688Z
 estimatedTokens: 143
 keywords: [ConnectApi.ApplyCreditResult, Connect, API, representation, credit, memo, apply, output, result]
 ---

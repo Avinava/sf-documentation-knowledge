@@ -5,7 +5,7 @@ topic: pgmbasedhlthrskadjfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.239Z
+lastCollected: 2026-04-07T09:05:59.541Z
 estimatedTokens: 539
 keywords: [PgmBasedHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, their, eligibility, certain, benefits, programs, instance, Medicaid, API]
 ---

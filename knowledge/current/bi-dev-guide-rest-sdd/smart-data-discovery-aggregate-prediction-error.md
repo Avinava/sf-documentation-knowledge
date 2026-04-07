@@ -5,7 +5,7 @@ topic: smart-data-discovery-aggregate-prediction-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.699Z
+lastCollected: 2026-04-07T09:03:12.963Z
 estimatedTokens: 158
 keywords: [Smart, Data, Discovery, Aggregate, Prediction, Error, Einstein]
 ---

@@ -5,7 +5,7 @@ topic: interest-tags-and-categories-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.559Z
+lastCollected: 2026-04-07T09:05:08.835Z
 estimatedTokens: 217
 keywords: [Interest, Tags, Categories, POST, simultaneously, Associate, specific, records]
 ---

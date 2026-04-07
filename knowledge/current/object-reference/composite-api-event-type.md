@@ -5,7 +5,7 @@ topic: composite-api-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.018Z
+lastCollected: 2026-04-07T09:04:40.063Z
 estimatedTokens: 815
 keywords: [Composite, API, Event, events, contain, requests, generated, graph, call, version, 64.0, later]
 ---

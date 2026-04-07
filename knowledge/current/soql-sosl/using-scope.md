@@ -5,7 +5,7 @@ topic: using-scope
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.812Z
+lastCollected: 2026-04-07T09:06:15.219Z
 estimatedTokens: 547
 keywords: [SCOPE, clause, SOQL, query, records, limit, objects, user, owns, user’s, territory]
 ---

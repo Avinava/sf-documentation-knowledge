@@ -5,7 +5,7 @@ topic: intelligent-appointment-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.937Z
+lastCollected: 2026-04-07T09:03:54.215Z
 estimatedTokens: 1134
 keywords: [Intelligent, Appointment, Management, Health, Cloud, integrates, customer’s, system, provide, patient, booking, experience, Salesforce, call, center]
 ---

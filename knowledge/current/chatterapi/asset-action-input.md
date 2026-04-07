@@ -5,7 +5,7 @@ topic: asset-action-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.130Z
+lastCollected: 2026-04-07T09:03:20.707Z
 estimatedTokens: 296
 keywords: [Asset, Action, Input, consumed, Customer, Lifecycle, Management, change, made, lifecycle-managed, specifically, difference, quantity, amount, monthly]
 ---

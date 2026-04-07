@@ -5,8 +5,8 @@ topic: cart-line-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.310Z
-estimatedTokens: 425
+lastCollected: 2026-04-07T09:04:17.564Z
+estimatedTokens: 429
 keywords: [Cart, Line, initial, amount, adjusted, price, applied, discounts, promotions, items]
 ---
 
@@ -28,15 +28,15 @@ This example shows a sample response.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| appliedCartLinePromotionDetails | Applied Cart Line Promotion Details[] | Details of the line or cross line promotions applied. | Big, 65.0 | 65.0 |
-| cartLineItemAmountAfterDiscount | Double | Updated price of the line items after the current promotions are applied. | Big, 65.0 | 65.0 |
-| cartLineItemAmountBeforeDiscount | Double | Price of the line item before the current promotions are applied. | Big, 65.0 | 65.0 |
-| cartLineItemId | String | The ID of cart line item on which promotions are applied. | Big, 65.0 | 65.0 |
-| cartLineItemQuantity | Integer | Quantity of the cart line item on which promotions are applied. | Big, 65.0 | 65.0 |
-| cartLineProduct | String | Product on which promotions are applied. | Big, 65.0 | 65.0 |
-| totalCartLineItemDiscountAmount | Double | Total amount of discounts applied to the line item, including discount from applied line or cross line promotions. and cart line. The distributed amount is only from cart level promotions. | Big, 65.0 | 65.0 |
-| totalCartLinePromotionsDiscountAmount | Double | Total amount of discount from all line or cross line promotions. | Big, 65.0 | 65.0 |
-| totalCartPromotionsDistributedDiscountAmount | Double | The prorated amount of the total monetary discount from cart promotions that a discount distribution service applies to an individual line item. | Big, 65.0 | 65.0 |
+| applied​CartLine​PromotionDetails | Applied Cart Line Promotion Details[] | Details of the line or cross line promotions applied. | Big, 65.0 | 65.0 |
+| cartLine​ItemAmount​AfterDiscount | Double | Updated price of the line items after the current promotions are applied. | Big, 65.0 | 65.0 |
+| cartLine​ItemAmount​BeforeDiscount | Double | Price of the line item before the current promotions are applied. | Big, 65.0 | 65.0 |
+| cartLine​ItemId | String | The ID of cart line item on which promotions are applied. | Big, 65.0 | 65.0 |
+| cartLine​ItemQuantity | Integer | Quantity of the cart line item on which promotions are applied. | Big, 65.0 | 65.0 |
+| cartLine​Product | String | Product on which promotions are applied. | Big, 65.0 | 65.0 |
+| totalCart​LineItem​DiscountAmount | Double | Total amount of discounts applied to the line item, including discount from applied line or cross line promotions. and cart line. The distributed amount is only from cart level promotions. | Big, 65.0 | 65.0 |
+| totalCart​LinePromotions​DiscountAmount | Double | Total amount of discount from all line or cross line promotions. | Big, 65.0 | 65.0 |
+| totalCart​Promotions​Distributed​DiscountAmount | Double | The prorated amount of the total monetary discount from cart promotions that a discount distribution service applies to an individual line item. | Big, 65.0 | 65.0 |
 
 ## Code Examples
 

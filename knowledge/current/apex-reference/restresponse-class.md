@@ -5,7 +5,7 @@ topic: restresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.996Z
+lastCollected: 2026-04-07T09:02:29.014Z
 estimatedTokens: 1640
 namespace: System
 keywords: [RestResponse, pass, data, Apex, RESTful, Web, service, HTTP, Usage, responseBody, statusCode, Status, Codes, addHeader]

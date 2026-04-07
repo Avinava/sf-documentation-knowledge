@@ -5,7 +5,7 @@ topic: create-commitment-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.678Z
+lastCollected: 2026-04-07T09:04:29.722Z
 estimatedTokens: 129
 keywords: [Commitment, Input, representation, commitments]
 ---
@@ -140,6 +140,7 @@ Properties
 
 ## Related Topics
 
-- Create Commitment Request Input[] (atlas.en-us.nonprofit_cloud.meta/nonprofit_cloud/connect_requests_create_commitment_request.htm)
+- Create
+                        Commitment Request Input[] (atlas.en-us.nonprofit_cloud.meta/nonprofit_cloud/connect_requests_create_commitment_request.htm)
 - Processing
                         Options Details Input (atlas.en-us.nonprofit_cloud.meta/nonprofit_cloud/connect_requests_processing_options_detail.htm)

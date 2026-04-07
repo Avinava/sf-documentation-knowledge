@@ -5,7 +5,7 @@ topic: create-and-configure-a-lightning-web-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.723Z
+lastCollected: 2026-04-07T09:04:24.939Z
 estimatedTokens: 1925
 keywords: [Configure, Lightning, Web, Component, you’ll, basic, named, demoLWCAction, displays, “Hello, World!”, message, screen, Deploy, Salesforce]
 ---

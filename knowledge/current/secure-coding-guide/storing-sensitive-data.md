@@ -5,7 +5,7 @@ topic: storing-sensitive-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.547Z
+lastCollected: 2026-04-07T09:05:28.146Z
 estimatedTokens: 3950
 keywords: [Storing, Sensitive, Data, Understand, how, employ, robust, encryption, access, secure, storage, solutions, protect, Hardcoded, Secrets]
 ---

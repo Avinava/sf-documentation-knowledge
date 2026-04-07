@@ -5,7 +5,7 @@ topic: sharingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:10.159Z
+lastCollected: 2026-04-07T09:02:44.302Z
 estimatedTokens: 1135
 keywords: [SharingSet, sharing, access, mapping, grants, portal, community, users, objects, associated, their, accounts, contacts, File, Suffix]
 ---

@@ -5,7 +5,7 @@ topic: application-form-product-wrap-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:50.383Z
+lastCollected: 2026-04-07T09:02:53.038Z
 estimatedTokens: 141
 keywords: [Application, Form, Product, Wrap, Result, Output, representation, wrapper]
 ---

@@ -5,7 +5,7 @@ topic: datadetectpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:07.976Z
+lastCollected: 2026-04-07T09:04:38.755Z
 estimatedTokens: 531
 keywords: [DataDetectPolicy, sensitive, data, searched, scan, DataDetect, policies, apply, filters, select, specific, objects, scanned, API, version]
 ---

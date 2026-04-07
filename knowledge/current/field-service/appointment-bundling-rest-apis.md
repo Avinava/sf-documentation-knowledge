@@ -5,7 +5,7 @@ topic: appointment-bundling-rest-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.608Z
+lastCollected: 2026-04-07T09:03:01.131Z
 estimatedTokens: 723
 keywords: [Appointment, Bundling, REST, APIs, bundles, remove, bundle, members, start, automated, process, creating, unbundle, Limitations]
 ---

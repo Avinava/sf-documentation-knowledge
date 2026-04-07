@@ -5,7 +5,7 @@ topic: useremailpreferredperson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.792Z
+lastCollected: 2026-04-07T09:04:51.823Z
 estimatedTokens: 681
 keywords: [UserEmailPreferredPerson, mapping, user’s, preferred, record, email, address, multiple, records, match, field.This, API, version, 44.0, later]
 ---
@@ -13,8 +13,8 @@ keywords: [UserEmailPreferredPerson, mapping, user’s, preferred, record, email
 # UserEmailPreferredPerson
 
 > Represents a mapping for a user’s preferred record for an email
-         address when multiple records match an email field.This object is available in API version 44.0
-					and later.
+			address when multiple records match an email field.This object is available in API
+		version 44.0 and later.
 
 # UserEmailPreferredPerson
 

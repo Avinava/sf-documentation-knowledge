@@ -5,7 +5,7 @@ topic: mobiledeviceappregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.447Z
+lastCollected: 2026-04-07T09:05:54.671Z
 estimatedTokens: 590
 keywords: [MobileDeviceAppRegistration, provided, mobile, device, registration, event, app, uses, Engagement, SDK, API, version, 65.0, later]
 ---

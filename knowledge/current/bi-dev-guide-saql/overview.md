@@ -5,7 +5,7 @@ topic: overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:06.630Z
+lastCollected: 2026-04-07T09:03:14.440Z
 estimatedTokens: 593
 keywords: [SAQL, Salesforce, Analytics, Query, Language, access, data, CRM, dataset, uses, behind, scenes, lenses, dashboards, explorer]
 ---

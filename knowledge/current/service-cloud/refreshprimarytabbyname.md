@@ -5,7 +5,7 @@ topic: refreshprimarytabbyname
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.592Z
+lastCollected: 2026-04-07T09:03:04.441Z
 estimatedTokens: 350
 keywords: [refreshPrimaryTabByName, Refreshes, primary, tab, including, subtabs, can't, refresh, URLs, external, pages, Visualforce, API, version, 22.0]
 ---

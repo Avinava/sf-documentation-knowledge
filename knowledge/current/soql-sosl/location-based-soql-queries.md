@@ -5,7 +5,7 @@ topic: location-based-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:19.522Z
+lastCollected: 2026-04-07T09:06:14.833Z
 estimatedTokens: 2337
 keywords: [Location-Based, SOQL, Queries, let, compare, query, location, stored, Salesforce, calculate, distance, two, warehouse, store, fixed]
 ---

@@ -5,8 +5,8 @@ topic: quoteitemtaxitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.887Z
-estimatedTokens: 441
+lastCollected: 2026-04-07T09:04:47.993Z
+estimatedTokens: 475
 keywords: [QuoteItemTaxItem, tax, applied, quote, line, item, API, version, 55.0, later, Calls, Special, Access, Rules]
 ---
 
@@ -21,11 +21,11 @@ The tax that is applied to a quote line item. This object is available in API ve
 
 ## Supported Calls
 
-describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve()
+create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), update(), upsert()
 
 ## Special Access Rules
 
-This object is available if Subscription Management is enabled in your org.
+This object is available if Subscription Management is enabled in your org. This object is also available in Enterprise, Unlimited, and Developer Editions of Revenue Cloud.
 
 ## Fields
 

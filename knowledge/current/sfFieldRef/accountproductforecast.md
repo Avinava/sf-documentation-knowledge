@@ -5,7 +5,7 @@ topic: accountproductforecast
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.018Z
+lastCollected: 2026-04-07T09:05:30.304Z
 estimatedTokens: 603
 keywords: [AccountProductForecast, cumulative, planned, quantities, opportunities, orders, sales, agreement, product, across, periods, rolling, time, period]
 ---

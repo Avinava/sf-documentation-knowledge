@@ -5,7 +5,7 @@ topic: claim-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.714Z
+lastCollected: 2026-04-07T09:03:48.854Z
 estimatedTokens: 800
 keywords: [Claim, Case, junction, associates, enabled, Many-to-Many, Relationships, org, pref, Calls, Associated, Objects]
 ---

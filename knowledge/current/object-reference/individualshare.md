@@ -5,7 +5,7 @@ topic: individualshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.230Z
+lastCollected: 2026-04-07T09:04:42.547Z
 estimatedTokens: 832
 keywords: [IndividualShare, access, levels, data, privacy, record, along, explanation, level, because, own, IndividualAccessLevel, RowCause, Owner, API]
 ---

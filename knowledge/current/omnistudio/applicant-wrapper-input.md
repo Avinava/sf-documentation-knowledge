@@ -5,7 +5,7 @@ topic: applicant-wrapper-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:48.260Z
+lastCollected: 2026-04-07T09:02:50.822Z
 estimatedTokens: 288
 keywords: [Applicant, Wrapper, Input, representation, applicants, associated, application, form]
 ---

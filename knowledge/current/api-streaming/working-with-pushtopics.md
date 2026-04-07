@@ -5,7 +5,7 @@ topic: working-with-pushtopics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.545Z
+lastCollected: 2026-04-07T09:03:05.370Z
 estimatedTokens: 533
 keywords: [Working, PushTopics, PushTopic, record, corresponds, channel, CometD, prefixed, topic, MyPushTopic, Bayeux, client, receive, streamed, events]
 ---

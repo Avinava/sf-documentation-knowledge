@@ -5,7 +5,7 @@ topic: best-practices-for-conditional-markup
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.077Z
+lastCollected: 2026-04-07T09:04:12.840Z
 estimatedTokens: 588
 keywords: [Best, Practices, Conditional, Markup, <aura, if>, tag, preferred, approach, conditionally, display, there, alternatives, Consider, performance]
 ---

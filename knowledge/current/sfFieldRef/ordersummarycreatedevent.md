@@ -5,7 +5,7 @@ topic: ordersummarycreatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.075Z
+lastCollected: 2026-04-07T09:05:56.853Z
 estimatedTokens: 216
 keywords: [OrderSummaryCreatedEvent, Notifies, subscribers, creation, order, summary, record, event, trigger, flows, processes, workflow]
 ---

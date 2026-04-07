@@ -5,7 +5,7 @@ topic: rulename
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:48.903Z
+lastCollected: 2026-04-07T09:03:00.496Z
 estimatedTokens: 75
 keywords: [ruleName, rule, blocking, slot, there]
 ---

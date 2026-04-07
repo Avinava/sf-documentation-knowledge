@@ -5,7 +5,7 @@ topic: healthcarefacilitynetwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.206Z
+lastCollected: 2026-04-07T09:03:58.247Z
 estimatedTokens: 1788
 keywords: [HealthcareFacilityNetwork, junction, identifying, insurance, network, location, business, entity, part, participation, records, stored, Calls, Associated, Objects]
 ---
@@ -38,7 +38,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | HighestValidAge | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIndicates the highest age of patient that this facility network is applicable for. |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the record is active. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | LowestValidAge | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIndicates the lowest age of patient that this facility network is applicable for. |
 | Name | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionName of the facility network record. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record. |

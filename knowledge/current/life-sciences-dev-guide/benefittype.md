@@ -5,7 +5,7 @@ topic: benefittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.017Z
+lastCollected: 2026-04-07T09:04:08.214Z
 estimatedTokens: 638
 keywords: [BenefitType, benefits, Financial, Assistance, Program, care, enrollee, API, version, 51.0, later, Calls, Associated, Objects]
 ---

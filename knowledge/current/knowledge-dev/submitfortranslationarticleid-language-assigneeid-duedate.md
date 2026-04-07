@@ -5,7 +5,7 @@ topic: submitfortranslationarticleid-language-assigneeid-duedate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.431Z
+lastCollected: 2026-04-07T09:04:04.533Z
 estimatedTokens: 133
 keywords: [submitForTranslation, articleId, language, assigneeId, dueDate, Submits, article, translation, assigns, user, due, date, submittal, new, draft]
 ---

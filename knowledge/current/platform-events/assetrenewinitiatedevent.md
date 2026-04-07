@@ -5,7 +5,7 @@ topic: assetrenewinitiatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.330Z
+lastCollected: 2026-04-07T09:05:05.847Z
 estimatedTokens: 693
 keywords: [AssetRenewInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-renew, REST, successful, event, renewal, order]
 ---

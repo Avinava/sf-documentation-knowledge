@@ -5,7 +5,7 @@ topic: custom-file-download-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:44.002Z
+lastCollected: 2026-04-07T09:02:33.208Z
 estimatedTokens: 416
 keywords: [Custom, File, Download, Examples, Apex, customize, behavior, files, upon, attempted, assume, downloaded, customization, API, version]
 ---

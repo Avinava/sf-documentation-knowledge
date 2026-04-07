@@ -5,7 +5,7 @@ topic: standard-actions-and-overrides-basics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.450Z
+lastCollected: 2026-04-07T09:04:13.366Z
 estimatedTokens: 497
 keywords: [Standard, Actions, Overrides, Basics, There, six, custom, objects, Tab, View, Edit, New, Salesforce, Classic, distinct]
 ---

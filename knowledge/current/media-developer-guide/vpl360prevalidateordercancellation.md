@@ -5,7 +5,7 @@ topic: vpl360prevalidateordercancellation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.901Z
+lastCollected: 2026-04-07T09:04:20.839Z
 estimatedTokens: 167
 keywords: [VPL360_PreValidateOrderCancellation, Integration, Procedure, determine, whether, order, eligible, cancellation, VPL360, _PreValidateOrderCancellation, Sample, Input, Output, Calls]
 ---

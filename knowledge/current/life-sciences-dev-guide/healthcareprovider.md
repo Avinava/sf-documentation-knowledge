@@ -5,15 +5,15 @@ topic: healthcareprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.028Z
+lastCollected: 2026-04-07T09:04:10.508Z
 estimatedTokens: 3297
 keywords: [HealthcareProvider, business-level, healthcare, organization, practitioner, Special, Access, Rules, Calls, Associated, Objects]
 ---
 
 # HealthcareProvider
 
-> Represents business-level details about the healthcare organization or
-      the practitioner.
+> Represents business-level details about the healthcare organization or the
+    practitioner.
 
 # HealthcareProvider
 

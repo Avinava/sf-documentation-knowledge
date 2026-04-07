@@ -5,7 +5,7 @@ topic: transaction-management-fields-on-quote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:23.657Z
+lastCollected: 2026-04-07T09:02:03.011Z
 estimatedTokens: 1166
 keywords: [Transaction, Management, Quote, Standard, custom, extend, represent, quotes, API, version, 60.0, later, Special, Access, Rules]
 ---

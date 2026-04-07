@@ -5,7 +5,7 @@ topic: cgcloudpromotionhurdleexpressionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:39.596Z
+lastCollected: 2026-04-07T09:05:21.142Z
 estimatedTokens: 1340
 keywords: [cgcloud__Promotion_Hurdle_Expression__c, New, stores, expression, API, version, 54.0, later, cgcloud, _Promotion, _Hurdle, _Expression, Calls, Associated, Objects]
 ---

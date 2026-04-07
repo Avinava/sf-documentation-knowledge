@@ -5,7 +5,7 @@ topic: referencing-a-static-resource-in-visualforce-markup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.150Z
+lastCollected: 2026-04-07T09:04:59.991Z
 estimatedTokens: 490
 keywords: [Referencing, Resource, Visualforce, Markup]
 ---

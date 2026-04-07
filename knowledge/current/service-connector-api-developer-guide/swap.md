@@ -5,7 +5,7 @@ topic: swap
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.457Z
+lastCollected: 2026-04-07T09:05:29.543Z
 estimatedTokens: 147
 keywords: [swap, call, another, occurs, participant, hold, resumed, placed]
 ---

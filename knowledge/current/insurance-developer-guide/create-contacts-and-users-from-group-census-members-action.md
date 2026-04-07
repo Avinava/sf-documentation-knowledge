@@ -5,8 +5,8 @@ topic: create-contacts-and-users-from-group-census-members-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.522Z
-estimatedTokens: 671
+lastCollected: 2026-04-07T09:03:59.949Z
+estimatedTokens: 670
 keywords: [Contacts, Users, Group, Census, Members, Action, portal, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -30,7 +30,7 @@ The org must have Digital Insurance Group Benefits enabled. To use this action, 
 
 URI
 
-/services/data/v66.0/actions/standard/createCtctUsrFrGrpCens
+/services/data/v/actions/standard/createCtctUsrFrGrpCens
 
 Formats
 

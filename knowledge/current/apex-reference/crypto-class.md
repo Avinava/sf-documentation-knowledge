@@ -5,7 +5,7 @@ topic: crypto-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.143Z
+lastCollected: 2026-04-07T09:02:18.651Z
 estimatedTokens: 13924
 namespace: ID
 keywords: [Crypto, Computes, unique, digital, input, blob, algorithm, supplied, certificate, key, pair, Usage, Encryption, Algorithms, Signing]

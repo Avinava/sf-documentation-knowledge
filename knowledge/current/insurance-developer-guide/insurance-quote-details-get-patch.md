@@ -5,7 +5,7 @@ topic: insurance-quote-details-get-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.332Z
+lastCollected: 2026-04-07T09:04:02.857Z
 estimatedTokens: 900
 keywords: [Insurance, Quote, PATCH]
 ---
@@ -109,11 +109,11 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/quotes/0Q0DR0000000xFw0AI
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/quotes/0Q0DR0000000xFw0AI
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/quotes/0Q0DR0000000xFw0AI?contextId=0000000i18tq18g002917545349255616564529f415d45c4b1b1ea08747a2195&filter[ProductSpec][eq]=InsuredItem&filter[DYN__Auto_Value][gt]=60000&returnChildrenNodes=true&includeClause=true
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/quotes/0Q0DR0000000xFw0AI?contextId=0000000i18tq18g002917545349255616564529f415d45c4b1b1ea08747a2195&filter[ProductSpec][eq]=InsuredItem&filter[DYN__Auto_Value][gt]=60000&returnChildrenNodes=true&includeClause=true
 ```
 
 ```

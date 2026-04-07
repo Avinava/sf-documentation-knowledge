@@ -5,7 +5,7 @@ topic: vpl360csrbasepackagechange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.143Z
+lastCollected: 2026-04-07T09:04:21.194Z
 estimatedTokens: 184
 keywords: [VPL360_CSRBasePackageChange, Integration, Procedure, adds, assets, order, disconnects, base, asset, user, changes, package, VPL360, _CSRBasePackageChange, Sample]
 ---

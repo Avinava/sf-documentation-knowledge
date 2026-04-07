@@ -5,7 +5,7 @@ topic: flowtestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.431Z
+lastCollected: 2026-04-07T09:05:46.448Z
 estimatedTokens: 408
 keywords: [FlowTestResult, results, flow, test, associated, version, API, 55.0, later]
 ---

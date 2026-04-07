@@ -5,7 +5,7 @@ topic: a-simple-charting-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.985Z
+lastCollected: 2026-04-07T09:04:56.848Z
 estimatedTokens: 398
 keywords: [Simple, Charting, Visualforce, chart, requires, container, component, encloses, least, data, series, optionally, add, additional, components]
 ---

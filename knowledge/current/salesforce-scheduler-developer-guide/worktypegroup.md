@@ -5,8 +5,8 @@ topic: worktypegroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.919Z
-estimatedTokens: 711
+lastCollected: 2026-04-07T09:05:27.251Z
+estimatedTokens: 697
 keywords: [WorkTypeGroup, grouping, work, categorize, appointments, Salesforce, Scheduler, API, version, 45.0, later, Calls, Special, Access, Rules]
 ---
 
@@ -33,13 +33,13 @@ Salesforce Scheduler must be enabled.
 | Field | Details |
 | --- | --- |
 | AdditionalInformation | TypemultipicklistPropertiesCreate, Filter, Nillable, UpdateDescriptionAdditional information about the types of appointments this work type group represents. |
-| Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionA description of this work type group. |
-| GroupType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe category of this work type group. Possible values are:Default—A non-capacity group of work types used in Salesforce Scheduler. |
-| IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether this work type group can be used for appointment scheduling. |
+| Description | TypetextareaProperties, Nillable,DescriptionA description of this work type group. |
+| GroupType | TypepicklistPropertiesCreate, , , Group, Restricted picklist, Sort,DescriptionThe category of this work type group. Possible values are:Default—A non-capacity group of work types used in Salesforce Scheduler. |
+| IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort,DescriptionIndicates whether this work type group can be used for appointment scheduling. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date and time that the current user last viewed a record related to this object. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this object. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of this work type group. |
-| OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who created this record.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
+| OwnerId | TypereferenceProperties, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who created this record.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
 
 ## Associated Objects
 

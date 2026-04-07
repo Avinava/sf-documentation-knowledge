@@ -5,7 +5,7 @@ topic: filters-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.216Z
+lastCollected: 2026-04-07T09:03:07.624Z
 estimatedTokens: 348
 keywords: [filters, key, included, dashboard, separate, node, configurable, filter, apply, layouts, specify, whether, widget, add, step, query, Although, steps, user, manually]
 ---

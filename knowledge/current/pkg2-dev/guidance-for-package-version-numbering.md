@@ -5,7 +5,7 @@ topic: guidance-for-package-version-numbering
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.116Z
+lastCollected: 2026-04-07T09:05:02.691Z
 estimatedTokens: 932
 keywords: [Guidance, Package, Version, Numbering, versions, evolve, managed, release, subsequent, breaking, users, Every, fixed, snapshot, contents]
 ---

@@ -5,7 +5,7 @@ topic: datarow-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:21.897Z
+lastCollected: 2026-04-07T09:02:16.192Z
 estimatedTokens: 1370
 namespace: VisualEditor
 keywords: [DataRow, item, picklist, Lightning, component, label, selected, clone, compareTo, getLabel, getValue, isSelected]

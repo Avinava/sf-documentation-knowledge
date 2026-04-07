@@ -5,7 +5,7 @@ topic: cms-digital-asset-management-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.804Z
+lastCollected: 2026-04-07T09:03:24.781Z
 estimatedTokens: 441
 keywords: [CMS, Digital, Asset, Management, Provider, DAM, instance]
 ---

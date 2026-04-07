@@ -5,7 +5,7 @@ topic: serviceintegrationprovider-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:48.004Z
+lastCollected: 2026-04-07T09:02:50.554Z
 estimatedTokens: 1047
 keywords: [ServiceIntegrationProvider, Implement, integration, framework, Continuation, Usage, getCalloutRequest, requestId, params, attributes, getCalloutResponse, httpResponseList, state, getProviderAttributes]
 ---

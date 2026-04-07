@@ -5,7 +5,7 @@ topic: forecastingfiltercondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.651Z
+lastCollected: 2026-04-07T09:04:41.921Z
 estimatedTokens: 710
 keywords: [ForecastingFilterCondition, custom, filter, condition, logic, including, excluding, data, opportunity, forecasts, API, version, 54.0, later, Calls]
 ---

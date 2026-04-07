@@ -5,7 +5,7 @@ topic: step-four-create-the-configuration-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.156Z
+lastCollected: 2026-04-07T09:03:41.080Z
 estimatedTokens: 911
 keywords: [Step, Four, Configuration, File, process-conf.xml, Data, Loader, requires, process, <bean>, refers, insert, upsert, export, Therefore]
 ---

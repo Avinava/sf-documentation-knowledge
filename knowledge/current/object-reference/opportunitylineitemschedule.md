@@ -5,7 +5,7 @@ topic: opportunitylineitemschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.567Z
+lastCollected: 2026-04-07T09:04:45.330Z
 estimatedTokens: 1693
 keywords: [OpportunityLineItemSchedule, quantity, revenue, distribution, delivery, dates, particular, OpportunityLineItem, Calls, Allowed, Usage, Products, Schedules, Enabled, Effects]
 ---

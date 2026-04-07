@@ -5,7 +5,7 @@ topic: field-set-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.473Z
+lastCollected: 2026-04-07T09:04:03.080Z
 estimatedTokens: 156
 keywords: [Output, representation, collection, associated, specific]
 ---

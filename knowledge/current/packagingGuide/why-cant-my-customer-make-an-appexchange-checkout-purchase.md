@@ -5,7 +5,7 @@ topic: why-cant-my-customer-make-an-appexchange-checkout-purchase
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.309Z
+lastCollected: 2026-04-07T09:04:53.963Z
 estimatedTokens: 92
 keywords: [Why, can't, customer, AppExchange, Checkout, purchase, clicks, Now, listing, verify, logged, Salesforce, org, supports, paid]
 ---

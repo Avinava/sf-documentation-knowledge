@@ -5,7 +5,7 @@ topic: get-engagement-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.021Z
+lastCollected: 2026-04-07T09:05:27.419Z
 estimatedTokens: 649
 keywords: [Engagement, Channels, channel, medium, Phone, Video, Person, service, resources, meet, customers]
 ---

@@ -5,7 +5,7 @@ topic: patienthealthreaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:07.041Z
+lastCollected: 2026-04-07T09:05:58.127Z
 estimatedTokens: 327
 keywords: [PatientHealthReaction, patient’s, adverse, reaction, allergy, intolerance, immunization, API, version, 51.0, later]
 ---

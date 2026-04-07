@@ -5,7 +5,7 @@ topic: follow-pre-chat-code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T09:36:19.437Z
+lastCollected: 2026-04-07T09:06:14.728Z
 estimatedTokens: 1084
 keywords: [Follow, Pre-Chat, Code, Examples, stage, contacts, avoid, attaching, records, transcripts, attach, record, override, specific, org]
 ---

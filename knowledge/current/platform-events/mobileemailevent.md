@@ -5,7 +5,7 @@ topic: mobileemailevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.969Z
+lastCollected: 2026-04-07T09:05:06.566Z
 estimatedTokens: 756
 keywords: [MobileEmailEvent, Tracks, users’, email, activity, Salesforce, mobile, app, Enhanced, Security, API, version, 47.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: actionableeventtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.910Z
+lastCollected: 2026-04-07T09:03:05.909Z
 estimatedTokens: 728
 keywords: [ActionableEventType, external, internal, event, that's, processed, Actionable, Orchestration, framework, trigger, different, actions, API, version, 62.0]
 ---

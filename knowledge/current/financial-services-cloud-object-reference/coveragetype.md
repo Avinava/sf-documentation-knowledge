@@ -5,7 +5,7 @@ topic: coveragetype
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:29.899Z
+lastCollected: 2026-04-07T09:03:49.129Z
 estimatedTokens: 1840
 keywords: [CoverageType, coverage, liability, earthquake, collision, damage, enabled, Access, Master, org, pref, Calls, Associated, Objects]
 ---

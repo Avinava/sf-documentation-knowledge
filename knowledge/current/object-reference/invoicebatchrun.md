@@ -5,7 +5,7 @@ topic: invoicebatchrun
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.328Z
+lastCollected: 2026-04-07T09:04:42.653Z
 estimatedTokens: 2788
 keywords: [InvoiceBatchRun, batch, processing, job, Subscription, Management, Billing, Revenue, Cloud, invoice, run, schedules, meet, criteria, processed]
 ---

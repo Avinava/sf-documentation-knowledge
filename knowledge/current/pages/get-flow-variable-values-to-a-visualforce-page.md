@@ -5,7 +5,7 @@ topic: get-flow-variable-values-to-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.617Z
+lastCollected: 2026-04-07T09:04:59.169Z
 estimatedTokens: 462
 keywords: [Flow, Variable, Visualforce, Once, you’ve, embedded, markup, variables, record, display, collection, individual, contained]
 ---

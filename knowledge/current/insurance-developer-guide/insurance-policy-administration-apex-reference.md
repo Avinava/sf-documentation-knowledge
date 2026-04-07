@@ -5,7 +5,7 @@ topic: insurance-policy-administration-apex-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.946Z
+lastCollected: 2026-04-07T09:04:03.891Z
 estimatedTokens: 181
 namespace: ConnectApi
 keywords: [Insurance, Policy, Administration, Apex, strongly, typed, object-oriented, programming, language, developers, execute, flow, transaction, control, statements]

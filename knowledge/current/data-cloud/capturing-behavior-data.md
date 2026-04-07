@@ -5,7 +5,7 @@ topic: capturing-behavior-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:29.051Z
+lastCollected: 2026-04-07T09:02:06.349Z
 estimatedTokens: 695
 keywords: [Capturing, Behavior, Data, Cloud, Module, Engagement, Mobile, SDK, collection, granular, customer’s, app, interactions, event, tracking]
 ---

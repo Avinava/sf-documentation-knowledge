@@ -5,7 +5,7 @@ topic: user-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:16.999Z
+lastCollected: 2026-04-07T09:03:29.358Z
 estimatedTokens: 163
 keywords: [User, Resources, Change, status, conversation, post, crop, photo, recent, feed, item]
 ---

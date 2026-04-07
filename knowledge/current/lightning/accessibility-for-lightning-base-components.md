@@ -5,7 +5,7 @@ topic: accessibility-for-lightning-base-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.871Z
+lastCollected: 2026-04-07T09:04:12.521Z
 estimatedTokens: 168
 keywords: [Accessibility, Lightning, Base, Components, explains, features]
 ---

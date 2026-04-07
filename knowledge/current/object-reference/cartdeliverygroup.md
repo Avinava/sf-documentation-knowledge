@@ -5,7 +5,7 @@ topic: cartdeliverygroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:06.134Z
+lastCollected: 2026-04-07T09:04:36.441Z
 estimatedTokens: 2664
 keywords: [CartDeliveryGroup, shipping, delivery, items, order, against, store, built, B2B, Commerce, D2C, API, version, 49.0, later]
 ---

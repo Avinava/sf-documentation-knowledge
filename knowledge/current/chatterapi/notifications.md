@@ -5,7 +5,7 @@ topic: notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.987Z
+lastCollected: 2026-04-07T09:03:27.865Z
 estimatedTokens: 990
 keywords: [Notifications, context, user, Mark, unread, seen, unseen]
 ---

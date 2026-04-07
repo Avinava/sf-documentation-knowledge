@@ -5,8 +5,8 @@ topic: articletype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.554Z
-estimatedTokens: 1479
+lastCollected: 2026-04-07T09:04:04.742Z
+estimatedTokens: 1474
 keywords: [ArticleType, metadata, associated, article, Declarative, File, Suffix, Directory, Location, Version, ArticleTypeChannelDisplay, ArticleTypeTemplate, Sample, Definitions, Wildcard]
 ---
 
@@ -61,7 +61,7 @@ Sets the article-type template for a specific channel. If not specified, the def
 | Field Name | Field Type | Description |
 | --- | --- | --- |
 | channel | string | Specifies the channel where the article-type template applies:AllChannels: all the available channels.App: the Articles tab in Salesforce Knowledge.Pkb: the public knowledge base.Csp: the Customer Portal.Prm: the partner portal. |
-| page | string | Represents the name of the custom Visualforce page used as a custom article-type template. Use this field when you select Page in the template field. |
+| page | string | Represents the name of the custom Visualforce page used as a custom article-type template. Use this field when you select template |
 | template | string | Indicates the article-type template used for the specified channel:Page: custom Visualforce page. When specifying this value, you must also set the page field with the Visualforce page name.Tab: display the sections you defined in the layout as tabs.Toc: display the sections you defined in the layout as table of content. |
 
 ## Declarative Metadata Sample Definitions

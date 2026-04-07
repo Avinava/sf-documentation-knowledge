@@ -5,7 +5,7 @@ topic: creating-a-canvas-app-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.230Z
+lastCollected: 2026-04-07T09:05:04.124Z
 estimatedTokens: 126
 keywords: [Creating, Canvas, App, Event, code, how, call, publish, you’re, prefaced, namespace.eventName]
 ---

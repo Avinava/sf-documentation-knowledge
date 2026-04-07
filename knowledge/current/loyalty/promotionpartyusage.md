@@ -5,7 +5,7 @@ topic: promotionpartyusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.490Z
+lastCollected: 2026-04-07T09:04:20.351Z
 estimatedTokens: 1060
 keywords: [PromotionPartyUsage, number, times, promotion, customer, API, version, 60.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

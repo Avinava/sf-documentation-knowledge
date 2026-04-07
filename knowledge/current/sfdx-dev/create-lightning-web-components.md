@@ -5,7 +5,7 @@ topic: create-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.235Z
+lastCollected: 2026-04-07T09:06:13.090Z
 estimatedTokens: 539
 keywords: [Lightning, Web, Components, Salesforce, CLI, local, project, generated, files, live, lwc, directory, package]
 ---

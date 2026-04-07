@@ -5,7 +5,7 @@ topic: matchingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:08.108Z
+lastCollected: 2026-04-07T09:02:41.987Z
 estimatedTokens: 844
 keywords: [MatchingRule, matching, rule, identify, duplicate, records, File, Suffix, Directory, Location, Version, MatchingRuleItem, Declarative, Metadata, Sample]
 ---

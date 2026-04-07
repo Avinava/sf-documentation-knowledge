@@ -5,8 +5,8 @@ topic: productcatalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.302Z
-estimatedTokens: 644
+lastCollected: 2026-04-07T09:04:47.265Z
+estimatedTokens: 642
 keywords: [ProductCatalog, container, holds, Product, Category, hierarchy, API, version, 55.0, later, Calls, Special, Access, Rules]
 ---
 
@@ -31,7 +31,7 @@ You must have the Industries, Retail, or B2B Commerce license.
 | Field | Details |
 | --- | --- |
 | CatalogCode | TypetextPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionA unique ID associated with the catalog. Maximum size is 80 alphanumeric characters. |
-| CatalogType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe category of an entry in the catalog. These categories can be customized. Examples include: sellable products, services, parts, technical services, or technical resources. |
+| CatalogType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe category of an entry in the catalog.Possible values are:SalesServiceProcess—Service ProcessThe default value is Sales. |
 | CurrencyIsoCode | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionPossible values are:EUR—EuroUSD—U.S. DollarThe default value is USD. |
 | Description | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe description of the category. |
 | EffectiveEndDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe date after which the catalog is unavailable to end users. |

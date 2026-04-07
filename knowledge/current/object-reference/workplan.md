@@ -5,8 +5,8 @@ topic: workplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.793Z
-estimatedTokens: 1267
+lastCollected: 2026-04-07T09:04:53.071Z
+estimatedTokens: 1261
 keywords: [WorkPlan, work, plan, order, line, item, API, version, 52.0, later, Calls, Special, Access, Rules, Associated]
 ---
 
@@ -33,8 +33,8 @@ Field Service must be enabled.
 | --- | --- |
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe description of the work plan. |
 | ExecutionOrder | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe order in which the work plan is executed. Only positive values or null are supported. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the work plan. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who created the work plan.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
 | ParentRecordId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the work order, work order line item, or change request that the work plan is associated with. Available in API version 54.0 and later.This field is a polymorphic relationship field.Relationship NameParentRecordRelationship TypeLookupRefers ToChangeRequest, WorkOrder, WorkOrderLineItem |

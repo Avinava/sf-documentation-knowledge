@@ -5,7 +5,7 @@ topic: oauth-20-authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.257Z
+lastCollected: 2026-04-07T09:05:04.171Z
 estimatedTokens: 950
 keywords: [OAuth, 2.0, Authorization, Canvas, supports, web, server, flow, user-agent, Connected, Apps]
 ---

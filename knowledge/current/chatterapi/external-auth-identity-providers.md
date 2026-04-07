@@ -5,7 +5,7 @@ topic: external-auth-identity-providers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.855Z
+lastCollected: 2026-04-07T09:03:27.676Z
 estimatedTokens: 726
 keywords: [External, Auth, Identity, Providers, org, provider]
 ---

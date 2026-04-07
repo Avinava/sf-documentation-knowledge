@@ -5,7 +5,7 @@ topic: design-with-lightning-web-components-to-look-like-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:51.154Z
+lastCollected: 2026-04-07T09:03:02.653Z
 estimatedTokens: 732
 keywords: [Design, Lightning, Web, Components, Look, Salesforce, Elevate, service, operations, visually, cohesive, mobile, experiences, app, seamlessly]
 ---

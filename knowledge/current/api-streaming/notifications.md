@@ -5,7 +5,7 @@ topic: notifications
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.413Z
+lastCollected: 2026-04-07T09:03:05.145Z
 estimatedTokens: 334
 keywords: [Notifications, record, created, updated, event, evaluated, against, PushTopic, query, notification, generated, message, sent, channel, result]
 ---

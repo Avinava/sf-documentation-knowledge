@@ -5,7 +5,7 @@ topic: book-service-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.952Z
+lastCollected: 2026-04-07T09:05:27.299Z
 estimatedTokens: 574
 keywords: [Book, Service, Appointments, appointment, booked, Salesforce, Scheduler, service-appointments, API]
 ---

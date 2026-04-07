@@ -5,7 +5,7 @@ topic: insurancebrokeragefamily-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.828Z
+lastCollected: 2026-04-07T09:04:00.379Z
 estimatedTokens: 93
 namespace: ConnectApi
 keywords: [InsuranceBrokerageFamily, Manage, policy, lifecycle, brokerage, commissions, plan, benefits]

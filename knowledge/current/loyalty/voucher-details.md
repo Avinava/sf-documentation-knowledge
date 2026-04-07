@@ -5,8 +5,8 @@ topic: voucher-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.740Z
-estimatedTokens: 255
+lastCollected: 2026-04-07T09:04:18.124Z
+estimatedTokens: 256
 keywords: [Voucher, that's, issued, customer]
 ---
 
@@ -35,7 +35,7 @@ This example shows a sample response.
 | productId | String | The ID of the product in the voucher issued. | Big, 65.0 | 65.0 |
 | promotionId | String | The ID of the promotion associated with the voucher. | Big, 65.0 | 65.0 |
 | voucherCode | String | Code of the voucher issued. | Big, 65.0 | 65.0 |
-| voucherDefinitionName | String | Name of the voucher definition. | Big, 65.0 | 65.0 |
+| voucher​DefinitionName | String | Name of the voucher definition. | Big, 65.0 | 65.0 |
 | voucherId | String | The ID of the voucher issued. | Big, 65.0 | 65.0 |
 
 ## Code Examples

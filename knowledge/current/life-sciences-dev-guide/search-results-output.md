@@ -5,7 +5,7 @@ topic: search-results-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.894Z
+lastCollected: 2026-04-07T09:04:06.725Z
 estimatedTokens: 163
 keywords: [Search, Results, Output, representation, provider]
 ---

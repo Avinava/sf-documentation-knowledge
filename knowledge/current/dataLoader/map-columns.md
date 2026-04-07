@@ -5,7 +5,7 @@ topic: map-columns
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.245Z
+lastCollected: 2026-04-07T09:03:41.211Z
 estimatedTokens: 734
 keywords: [Map, Columns, running, Data, Loader, batch, mode, command, line, file, maps, Salesforce, access, objects]
 ---

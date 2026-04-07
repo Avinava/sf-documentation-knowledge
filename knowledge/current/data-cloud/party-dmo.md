@@ -5,7 +5,7 @@ topic: party-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:33.771Z
+lastCollected: 2026-04-07T09:02:09.297Z
 estimatedTokens: 951
 keywords: [Party, DMO, dealing, Provided, Financial, Services, Cloud, Data, Kit, API, version, later, Category, Primary, Subject]
 ---

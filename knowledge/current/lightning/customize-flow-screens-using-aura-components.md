@@ -5,7 +5,7 @@ topic: customize-flow-screens-using-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.188Z
+lastCollected: 2026-04-07T09:04:13.013Z
 estimatedTokens: 640
 keywords: [Customize, Flow, Screens, Aura, Components, look, feel, screen, build, custom, component, Configure, design, resource, they’re]
 ---

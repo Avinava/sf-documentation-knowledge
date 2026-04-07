@@ -5,7 +5,7 @@ topic: care-diagnosis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.654Z
+lastCollected: 2026-04-07T09:04:06.278Z
 estimatedTokens: 1156
 keywords: [Care, Diagnosis, Associated, including, code, diagnoses]
 ---

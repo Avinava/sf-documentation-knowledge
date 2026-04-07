@@ -5,7 +5,7 @@ topic: leadstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.664Z
+lastCollected: 2026-04-07T09:04:43.025Z
 estimatedTokens: 741
 keywords: [LeadStatus, status, Lead, record, Open, Qualified, Converted, Calls, Usage]
 ---

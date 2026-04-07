@@ -5,7 +5,7 @@ topic: loyaltyprogramcurrencytier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.227Z
+lastCollected: 2026-04-07T09:04:20.069Z
 estimatedTokens: 445
 keywords: [LoyaltyProgramCurrencyTier, Repesents, junction, non-qualifying, loyalty, program, currency, tier, API, version, 61.0, later, Calls, Special, Access]
 ---

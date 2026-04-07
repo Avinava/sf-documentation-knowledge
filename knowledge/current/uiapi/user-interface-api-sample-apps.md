@@ -5,7 +5,7 @@ topic: user-interface-api-sample-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.087Z
+lastCollected: 2026-04-07T09:06:15.605Z
 estimatedTokens: 131
 keywords: [User, API, Sample, Apps, We’ve, built, two, records, open-source, GitHub]
 ---

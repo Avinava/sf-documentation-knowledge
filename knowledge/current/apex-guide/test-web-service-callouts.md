@@ -5,7 +5,7 @@ topic: test-web-service-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.532Z
+lastCollected: 2026-04-07T09:02:30.952Z
 estimatedTokens: 991
 keywords: [Test, Web, Service, Callouts, Generated, code, saved, Apex, containing, invoke, calling, deploy, package, accompanying, 75%]
 ---

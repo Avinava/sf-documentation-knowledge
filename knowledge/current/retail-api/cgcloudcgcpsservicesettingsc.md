@@ -5,7 +5,7 @@ topic: cgcloudcgcpsservicesettingsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:38.279Z
+lastCollected: 2026-04-07T09:05:19.658Z
 estimatedTokens: 899
 keywords: [cgcloud__CGCPS_Service_Settings__c, custom, setting, either, enable, disable, CGCPS, service, data, mocking, develop, non-CGCPS, service-enabled, orgs, API]
 ---

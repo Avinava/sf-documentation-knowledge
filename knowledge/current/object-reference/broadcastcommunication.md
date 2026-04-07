@@ -5,7 +5,7 @@ topic: broadcastcommunication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:05.673Z
+lastCollected: 2026-04-07T09:04:35.902Z
 estimatedTokens: 1332
 keywords: [BroadcastCommunication, broadcast, communication, incident, API, version, 56.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

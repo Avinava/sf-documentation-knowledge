@@ -5,7 +5,7 @@ topic: apex-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:42.017Z
+lastCollected: 2026-04-07T09:02:31.416Z
 estimatedTokens: 1286
 keywords: [Apex, similar, variable, however, additional, things, code, it’s, accessed, validate, data, change, made, prompt, action]
 ---

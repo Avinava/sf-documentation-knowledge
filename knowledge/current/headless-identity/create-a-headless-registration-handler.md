@@ -5,7 +5,7 @@ topic: create-a-headless-registration-handler
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.870Z
+lastCollected: 2026-04-07T09:03:51.349Z
 estimatedTokens: 259
 keywords: [Headless, Registration, Handler, Apex, configure, Experience, Cloud, settings, Login]
 ---

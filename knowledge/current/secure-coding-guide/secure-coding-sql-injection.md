@@ -5,7 +5,7 @@ topic: secure-coding-sql-injection
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.538Z
+lastCollected: 2026-04-07T09:05:28.136Z
 estimatedTokens: 3771
 keywords: [Secure, Coding, SQL, Injection, Understand, how, SOQL, works, Queries, Sample, Vulnerability, Application, Vulnerable, Alternate, Ensure]
 ---

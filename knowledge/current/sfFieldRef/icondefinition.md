@@ -5,7 +5,7 @@ topic: icondefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:00.618Z
+lastCollected: 2026-04-07T09:05:49.488Z
 estimatedTokens: 249
 keywords: [IconDefinition, icon-related, metadata, custom, tab, API, version, 43.0, later]
 ---

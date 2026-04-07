@@ -5,7 +5,7 @@ topic: manage-features-in-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.052Z
+lastCollected: 2026-04-07T09:05:03.830Z
 estimatedTokens: 838
 keywords: [Manage, Features, Second-Generation, Managed, Packages, Take, License, Management, App, LMA, step, further, extending, Feature, FMA]
 ---

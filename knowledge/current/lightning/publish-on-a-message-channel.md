@@ -5,7 +5,7 @@ topic: publish-on-a-message-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.301Z
+lastCollected: 2026-04-07T09:04:14.612Z
 estimatedTokens: 663
 keywords: [Publish, Message, Channel, include, lightning, messageChannel, component, Aura, component's, controller, file]
 ---

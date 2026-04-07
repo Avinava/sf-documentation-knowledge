@@ -5,7 +5,7 @@ topic: submit-a-record-for-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:39.401Z
+lastCollected: 2026-04-07T09:02:34.697Z
 estimatedTokens: 194
 keywords: [Submit, Record, Approval, Process, Approvals, resource, collection, records, call, array, requests]
 ---

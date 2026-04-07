@@ -5,8 +5,8 @@ topic: productinventorybatchsearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.943Z
-estimatedTokens: 2026
+lastCollected: 2026-04-07T09:04:23.805Z
+estimatedTokens: 2209
 keywords: [ProductInventoryBatchSearchableField, production, batch, data, inventory, search, including, item, specific, location, serves, basis, Criteria-Based, Filter, combines]
 ---
 
@@ -29,6 +29,8 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 | Field | Details |
 | --- | --- |
+| BatchUniqueIdentificationNumber | TypetextPropertiesFilter, Group, SortDescriptionThe unique identification number of the batch. |
+| BatchItemRemainingQuantity | TypedoublePropertiesFilter, Group, SortDescriptionThe quantity of the product items remaining in the batch. |
 | Product2 | TypereferencePropertiesFilter, Group, SortDescriptionThe product record associated with the record. |
 | ProductName | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe name of the product related to a product item. |
 | TotalQuantityUnitOfMeasure | TypetextPropertiesCreate, Nillable, UpdateDescriptionSpecifies the unit of measure for the total quantity at location. |
@@ -39,10 +41,12 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | ModelName | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe model name of a product item. |
 | ModelYear | TypeindPropertiesFilter, Group, SortDescriptionThe model year of a product item. |
 | ProductCode | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe product code for identifying a product item. |
+| IsBatchItemActive | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionIndicates whether the product batch item status is active. |
 | IsProductSerialized | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionIndicates whether the product related to a product item is a serialized product (true) or not (false). |
 | UniversalProductCode | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe universal product code that's used to track the product item. |
 | ManufacturerPartNumber | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe unique number assigned by the manufacturer to identify a product item. |
 | ProductName | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe name of the product related to a product item. |
+| ProductBatchItemAssignee | TypereferencePropertiesCreate, Nillable, UpdateDescriptionThe assignee associated with the product batch item. |
 | ProductDescription | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe description of a product item. |
 | ProductFamily | TypetextPropertiesCreate, Nillable, UpdateDescriptionSpecifies the product family to which a product item belongs. |
 | ProductLineCode | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe product line category of a product item. |
@@ -52,6 +56,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | HarmonizedSystemCode | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe harmonized system code that's assigned to the product item. |
 | IsEnvrPrtcRegCompliant | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionIndicates whether the product item is compliant with environment protection regulations (true) or not (false). |
 | InventoryLocation | TypereferencePropertiesFilter, Group, SortDescriptionThe location record associated with the record. |
+| InventoryLocationCoordinates | TypelocationPropertiesFilter, Group, SortDescriptionThe latitude and longitude of the inventory location. |
 | InventoryLocationName | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe name inventory location for a product item. |
 | InvLocationCoord | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe latitude and longitude coordinates of an inventory location for a product item. |
 | InventoryLocationType | TypetextPropertiesCreate, Nillable, UpdateDescriptionThe type of an inventory location for a product item. |

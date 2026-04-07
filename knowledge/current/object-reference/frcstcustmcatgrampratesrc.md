@@ -5,7 +5,7 @@ topic: frcstcustmcatgrampratesrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.784Z
+lastCollected: 2026-04-07T09:04:42.086Z
 estimatedTokens: 461
 keywords: [FrcstCustmCatgRampRateSrc, total, contract, custom, bulk, adjustments, API, version, 63.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: what-is-headless-identity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:32.033Z
+lastCollected: 2026-04-07T09:03:51.543Z
 estimatedTokens: 1068
 keywords: [Headless, Identity, Salesforce, gives, ability, separate, back-end, authentication, processes, front-end, experiences, calling, APIs, power, Customer]
 ---

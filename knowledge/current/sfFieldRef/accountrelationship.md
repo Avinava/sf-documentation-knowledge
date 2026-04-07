@@ -5,7 +5,7 @@ topic: accountrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.034Z
+lastCollected: 2026-04-07T09:05:30.323Z
 estimatedTokens: 359
 keywords: [AccountRelationship, relationship, two, accounts, API, version, 45.0, later]
 ---

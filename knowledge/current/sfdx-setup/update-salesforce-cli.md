@@ -5,7 +5,7 @@ topic: update-salesforce-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:19.261Z
+lastCollected: 2026-04-07T09:06:14.476Z
 estimatedTokens: 1365
 keywords: [Salesforce, CLI, want, ensure, you’re, running, latest, version, manually, Determine, How, Installed, Installer, npm, Happens]
 ---

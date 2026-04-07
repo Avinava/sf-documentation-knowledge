@@ -5,7 +5,7 @@ topic: leaddailymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.629Z
+lastCollected: 2026-04-07T09:04:42.980Z
 estimatedTokens: 1847
 keywords: [LeadDailyMetric, daily, engagement, metrics, lead, API, version, 52.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: eventwhorelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.814Z
+lastCollected: 2026-04-07T09:04:40.962Z
 estimatedTokens: 638
 keywords: [EventWhoRelation, relationship, event, lead, contacts, derived, filtered, version, EventRelation, IsParent, IsWhat, doesn’t, represent, relationships, invitees]
 ---

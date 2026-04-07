@@ -5,7 +5,7 @@ topic: mentions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:41.149Z
+lastCollected: 2026-04-07T09:02:13.079Z
 estimatedTokens: 3927
 namespace: ConnectApi
 keywords: [Mentions, Access, mention, “@”, character, followed, user, group, mentioned, they, receive, notification, getMentionCompletions, communityId, contextId]

@@ -5,7 +5,7 @@ topic: lightningloggereventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:11.780Z
+lastCollected: 2026-04-07T09:04:43.161Z
 estimatedTokens: 1443
 keywords: [LightningLoggerEventLog, Lightning, Logger, Event, Log, observed, component, logs, API, version, 61.0, later, Calls, Special, Access]
 ---

@@ -5,7 +5,7 @@ topic: organization-wide-sharing-defaults
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.165Z
+lastCollected: 2026-04-07T09:05:29.070Z
 estimatedTokens: 730
 keywords: [Organization-Wide, Sharing, Defaults, Define, access, users, records, they, don't, own, settings, separately, custom, objects, standard]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudrbfcategoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.754Z
+lastCollected: 2026-04-07T09:05:21.309Z
 estimatedTokens: 883
 keywords: [cgcloud__RBF_Category__c, Junction, Rate, Funding, Product, driving, RBF, association, API, version, 54.0, later, cgcloud, _RBF, _Category]
 ---

@@ -5,7 +5,7 @@ topic: access-a-mobile-devices-biometrics-capabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.863Z
+lastCollected: 2026-04-07T09:04:25.141Z
 estimatedTokens: 680
 keywords: [Access, Mobile, Device’s, Biometrics, Capabilities, Lightning, web, component, functionality, prompt, user, confirm, their, identity, biometrics-related]
 ---

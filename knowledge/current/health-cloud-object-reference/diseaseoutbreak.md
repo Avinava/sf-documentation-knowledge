@@ -5,7 +5,7 @@ topic: diseaseoutbreak
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.925Z
+lastCollected: 2026-04-07T09:03:55.497Z
 estimatedTokens: 1532
 keywords: [DiseaseOutbreak, disease, outbreak, monitored, health, organization, API, version, 64.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: whats-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.114Z
+lastCollected: 2026-04-07T09:05:03.927Z
 estimatedTokens: 570
 keywords: [What’s, Second-Generation, Managed, Package, goal, build, app, distribute, AppExchange, you’ll, packages, Packaging, container, fill, metadata]
 ---

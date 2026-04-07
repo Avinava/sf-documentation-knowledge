@@ -5,7 +5,7 @@ topic: sample-experience-cloud-site-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.353Z
+lastCollected: 2026-04-07T09:06:17.442Z
 estimatedTokens: 483
 keywords: [Sample, Experience, Cloud, Site, Validation, Rules, rule, examples, various, cases, preventing, offensive, language, questions, replies]
 ---

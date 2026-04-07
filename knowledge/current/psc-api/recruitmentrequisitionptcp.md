@@ -5,7 +5,7 @@ topic: recruitmentrequisitionptcp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.410Z
+lastCollected: 2026-04-07T09:05:14.384Z
 estimatedTokens: 1040
 keywords: [RecruitmentRequisitionPtcp, user, group, participants, access, recruitment, requisition, API, version, 62.0, later, Calls, Special, Rules, Associated]
 ---

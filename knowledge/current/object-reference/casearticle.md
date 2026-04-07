@@ -5,7 +5,7 @@ topic: casearticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:06.262Z
+lastCollected: 2026-04-07T09:04:36.581Z
 estimatedTokens: 538
 keywords: [CaseArticle, association, Case, KnowledgeArticle, API, version, 20.0, later, Calls, Special, Access, Rules, Usage]
 ---

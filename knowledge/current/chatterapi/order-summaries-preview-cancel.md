@@ -5,7 +5,7 @@ topic: order-summaries-preview-cancel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.555Z
+lastCollected: 2026-04-07T09:03:28.650Z
 estimatedTokens: 695
 keywords: [Order, Summaries, Preview, Cancel, Retrieve, expected, change, canceling, OrderItemSummaries, OrderSummary, actually, executing]
 ---

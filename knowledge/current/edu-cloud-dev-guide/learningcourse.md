@@ -5,8 +5,8 @@ topic: learningcourse
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:26.438Z
-estimatedTokens: 1417
+lastCollected: 2026-04-07T09:03:44.305Z
+estimatedTokens: 1487
 keywords: [LearningCourse, course, that’s, learning, framework, API, version, 57.0, later, Calls, Associated, Objects]
 ---
 
@@ -33,6 +33,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CipCode | TypestringPropertiesFilter, Group, Nillable, SortDescriptionClassification of Instructional Programming code that identifies the program or field of study. |
 | CourseLevelDescription | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Nillable, Sort, UpdateDescriptionThe general type or level of instruction provided throughout the course.Possible values are:Accepted as high school equivalentAdvancedAdvanced PlacementBasicCareer and Technical EducationCollege-levelCore SubjectDual CreditEnglish Language LearnerGeneralGifted and TalentedGraduation CreditHonorsInternational BaccalaureateOtherRemedialStudents with disabilitiesUntracked |
 | CourseNumber | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe number that identifies the level of the course and helps organize the course catalog. |
+| CourseType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the type of the learning course. For example, Lab, Lecture, Exam, and Practice are possible course types.Possible values are:DrillExamLabLectureRecitation |
 | CurrencyIsoCode | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe ISO code for the currency.Possible values are:GBP—British PoundUSD—U.S. DollarThe default value is USD. |
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe description of the Learning Course. |
 | Duration | TypedoublePropertiesFilter, Nillable, SortDescriptionThe allocated length of time for completion of the Learning Course. |

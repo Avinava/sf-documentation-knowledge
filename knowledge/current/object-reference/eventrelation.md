@@ -5,7 +5,7 @@ topic: eventrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.813Z
+lastCollected: 2026-04-07T09:04:39.815Z
 estimatedTokens: 3074
 keywords: [EventRelation, person, user, lead, contact, resource, conference, room, invited, event, lets, add, remove, invitees, API]
 ---

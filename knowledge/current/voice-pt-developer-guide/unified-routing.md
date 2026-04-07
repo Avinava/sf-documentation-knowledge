@@ -5,7 +5,7 @@ topic: unified-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.213Z
+lastCollected: 2026-04-07T09:06:18.784Z
 estimatedTokens: 1633
 keywords: [Unified, Routing, lets, Salesforce, handle, inbound, outbound, voice, calls, skills-based, call, transfers, reps, Configure, admins]
 ---

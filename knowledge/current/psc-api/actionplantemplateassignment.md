@@ -5,7 +5,7 @@ topic: actionplantemplateassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.815Z
+lastCollected: 2026-04-07T09:05:12.456Z
 estimatedTokens: 940
 keywords: [ActionPlanTemplateAssignment, junction, action, plant, template's, version, target, associated, API, 56.0, later, Calls, Objects]
 ---

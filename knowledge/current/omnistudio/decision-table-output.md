@@ -5,7 +5,7 @@ topic: decision-table-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.056Z
+lastCollected: 2026-04-07T09:02:53.623Z
 estimatedTokens: 179
 keywords: [Decision, Output, representation]
 ---

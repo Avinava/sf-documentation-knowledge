@@ -5,7 +5,7 @@ topic: privacyobjectsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.103Z
+lastCollected: 2026-04-07T09:04:47.025Z
 estimatedTokens: 1374
 keywords: [PrivacyObjectSession, status, processed, past, ongoing, scheduled, policy, jobs, Privacy, Center, API, version, 59.0, later, Calls]
 ---

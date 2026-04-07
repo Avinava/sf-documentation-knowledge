@@ -5,7 +5,7 @@ topic: cgcloudaccountproductprofilec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:38.005Z
+lastCollected: 2026-04-07T09:05:19.306Z
 estimatedTokens: 1730
 keywords: [cgcloud__Account_Product_Profile__c, stores, statistical, profiles, indicate, distribution, weekly, data, customer, category, API, version, 54.0, later, cgcloud]
 ---

@@ -5,7 +5,7 @@ topic: security-considerations-for-flow-design
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:44.403Z
+lastCollected: 2026-04-07T09:05:27.983Z
 estimatedTokens: 1226
 keywords: [Security, Considerations, Flow, Design, Plan, securely, implement, manage, flows, Develop, Subflows, Appropriate, Execution, Context, Apex]
 ---

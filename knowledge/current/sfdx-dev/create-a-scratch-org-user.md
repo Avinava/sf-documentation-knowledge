@@ -5,7 +5,7 @@ topic: create-a-scratch-org-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.377Z
+lastCollected: 2026-04-07T09:06:13.277Z
 estimatedTokens: 321
 keywords: [Scratch, Org, User, Although, orgs, were, designed, developer, sometimes, users, test, different, profiles, permission]
 ---

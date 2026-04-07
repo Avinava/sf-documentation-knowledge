@@ -5,7 +5,7 @@ topic: apex-inline-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.863Z
+lastCollected: 2026-04-07T09:04:39.871Z
 estimatedTokens: 77
 keywords: [Apex, Inline, Event, reserved, future, API, version, 66.0, later]
 ---

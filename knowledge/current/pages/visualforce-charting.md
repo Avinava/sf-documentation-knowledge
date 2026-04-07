@@ -5,7 +5,7 @@ topic: visualforce-charting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.909Z
+lastCollected: 2026-04-07T09:04:56.723Z
 estimatedTokens: 559
 keywords: [Visualforce, Charting, collection, components, provide, simple, intuitive, way, charts, pages, custom, Why, Alternatives]
 ---

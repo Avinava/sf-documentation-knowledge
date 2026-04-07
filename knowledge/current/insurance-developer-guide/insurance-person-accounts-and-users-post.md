@@ -5,8 +5,8 @@ topic: insurance-person-accounts-and-users-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.148Z
-estimatedTokens: 746
+lastCollected: 2026-04-07T09:04:02.593Z
+estimatedTokens: 749
 keywords: [Insurance, Person, Accounts, Users, POST, portal, group, census, members, Account, linking, appropriate, policy, association, corresponding]
 ---
 
@@ -86,7 +86,7 @@ Response body for POST
 
 #### See Also
 
--   [*Insurance*: Configure Group Benefits Enrollment](https://help.salesforce.com/s/articleView?id=ind.insurance_group_benefits_core_enrollment_configure_intro.htm&language=en_US "Insurance: Configure Group Benefits Enrollment - HTML (New Window)")
+-   [*Salesforce Help*: Configure Group Benefits Enrollment](https://help.salesforce.com/s/articleView?id=ind.insurance_group_benefits_core_enrollment_configure_intro.htm&language=en_US "Salesforce Help: Configure Group Benefits Enrollment - HTML (New Window)")
 
 ## Code Examples
 
@@ -95,7 +95,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/accounts?createPortalUsers=false
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/accounts?createPortalUsers=false
 ```
 
 ```

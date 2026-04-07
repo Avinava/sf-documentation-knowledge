@@ -5,7 +5,7 @@ topic: use-case-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.672Z
+lastCollected: 2026-04-07T09:06:19.488Z
 estimatedTokens: 385
 keywords: [Case, Examples, Extend, Workforce, Engagement, implementation, how, automate, time, sheet, creation, bot, communicate, agent, schedules]
 ---

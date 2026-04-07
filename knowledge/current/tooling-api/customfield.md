@@ -5,7 +5,7 @@ topic: customfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.238Z
+lastCollected: 2026-04-07T09:02:46.743Z
 estimatedTokens: 589
 keywords: [CustomField, custom, stores, data, unique, organization, Includes, access, associated, Salesforce, Metadata, API, version, 28.0, later]
 ---

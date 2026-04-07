@@ -5,7 +5,7 @@ topic: considerations-for-using-real-time-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:45.023Z
+lastCollected: 2026-04-07T09:05:28.869Z
 estimatedTokens: 1144
 keywords: [Considerations, Real-Time, Event, Monitoring, Keep, mind, Salesforce, Classic, versus, Lightning, Experience, Enhanced, Transaction, Security, Recommended]
 ---

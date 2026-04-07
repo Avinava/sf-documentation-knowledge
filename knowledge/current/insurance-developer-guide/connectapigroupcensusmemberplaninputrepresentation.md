@@ -5,7 +5,7 @@ topic: connectapigroupcensusmemberplaninputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.210Z
+lastCollected: 2026-04-07T09:04:00.960Z
 estimatedTokens: 147
 keywords: [Input, representation, plan, that's, associated, group, census, member]
 ---

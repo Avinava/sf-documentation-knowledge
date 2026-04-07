@@ -5,7 +5,7 @@ topic: adlinearavailability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.418Z
+lastCollected: 2026-04-07T09:04:21.668Z
 estimatedTokens: 932
 keywords: [AdLinearAvailability, daily, weekly, monthly, view, offered, booked, forecasted, units, Linear, media, calendar, API, version, 59.0]
 ---

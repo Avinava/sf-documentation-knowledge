@@ -5,7 +5,7 @@ topic: introduction-to-nonprofit-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.909Z
+lastCollected: 2026-04-07T09:04:31.251Z
 estimatedTokens: 96
 keywords: [Introduction, Nonprofit, Cloud, fund, deliver, measure, impact, integrated, platform, Nurture, relationships, break, down, silos, teams]
 ---

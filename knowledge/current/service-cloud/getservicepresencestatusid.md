@@ -5,7 +5,7 @@ topic: getservicepresencestatusid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.431Z
+lastCollected: 2026-04-07T09:03:03.324Z
 estimatedTokens: 232
 keywords: [getServicePresenceStatusId, Retrieves, agent’s, current, presence, status, API, versions, 32.0, later, Arguments, Sample, Code–Visualforce]
 ---

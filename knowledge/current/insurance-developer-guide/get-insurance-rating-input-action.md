@@ -5,8 +5,8 @@ topic: get-insurance-rating-input-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.642Z
-estimatedTokens: 378
+lastCollected: 2026-04-07T09:04:00.113Z
+estimatedTokens: 377
 keywords: [Insurance, Rating, Input, Action, data, products, support, pricing, calculations, coverage, analysis, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 66.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/getInsuranceRatingInput
+/services/data/v/actions/standard/getInsuranceRatingInput
 
 Formats
 

@@ -5,7 +5,7 @@ topic: digitallendingpostintakerecordswrapper-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:47.938Z
+lastCollected: 2026-04-07T09:02:50.491Z
 estimatedTokens: 110
 keywords: [DigitalLendingPostIntakeRecordsWrapper, includes, invoke, actions]
 ---

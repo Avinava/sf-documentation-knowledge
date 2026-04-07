@@ -5,23 +5,24 @@ topic: lookup-values
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.952Z
-estimatedTokens: 298
-keywords: [Lookup, Records, relationship, organized]
+lastCollected: 2026-04-07T09:06:16.879Z
+estimatedTokens: 342
+keywords: [Lookup, Records, organized, metadata, relationship]
 ---
 
 # Lookup Values
 
-> Records in a lookup relationship, organized by object
-    type.
+> Records, organized by object type, and metadata in a lookup
+      relationship.
 
 # Lookup Values
 
-Records in a lookup relationship, organized by object type.
+Records, organized by object type, and metadata in a lookup relationship.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
 | lookupResults | Map <String, Record Collection> | A map of object API names to Record Collection response bodies containing the lookup results for that object type. | Small, 41.0 | 41.0 |
+| metadata | Map <String, Lookup Metadata> | A map of object API names to Lookup Metadata response bodies containing the metadata results. | Small, 55.0 | 55.0 |
 
 #### See Also
 
@@ -32,5 +33,6 @@ Records in a lookup relationship, organized by object type.
 ## Related Topics
 
 - Record Collection (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_record_collection.htm)
+- Lookup Metadata (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_metadata.htm)
 - Get Lookup Field Suggestions (atlas.en-us.uiapi.meta/uiapi/ui_api_resources_lookup_get.htm)
 - Get Lookup Field Suggestions With POST (atlas.en-us.uiapi.meta/uiapi/ui_api_resources_lookup_post.htm)

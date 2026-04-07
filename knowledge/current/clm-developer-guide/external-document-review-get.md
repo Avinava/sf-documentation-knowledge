@@ -5,7 +5,7 @@ topic: external-document-review-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:22.348Z
+lastCollected: 2026-04-07T09:03:38.036Z
 estimatedTokens: 168
 keywords: [External, Document, Review, Retrieve, latest, contract, version]
 ---

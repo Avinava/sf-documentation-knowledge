@@ -5,7 +5,7 @@ topic: use-lightning-web-components-instead-of-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.020Z
+lastCollected: 2026-04-07T09:04:14.189Z
 estimatedTokens: 250
 keywords: [Lightning, Web, Components, instead, Aura, perform, better, easier, develop, However, may, because, LWC, doesn’t, yet]
 ---

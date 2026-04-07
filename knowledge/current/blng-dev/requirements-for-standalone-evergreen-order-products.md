@@ -5,7 +5,7 @@ topic: requirements-for-standalone-evergreen-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.930Z
+lastCollected: 2026-04-07T09:03:17.739Z
 estimatedTokens: 358
 keywords: [Requirements, Standalone, Evergreen, Order, Products, monthly, product, API, Salesforce, Lightning, Classic]
 ---

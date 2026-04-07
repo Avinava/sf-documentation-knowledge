@@ -5,7 +5,7 @@ topic: orderdeliverymethodfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:05.724Z
+lastCollected: 2026-04-07T09:05:56.396Z
 estimatedTokens: 362
 keywords: [OrderDeliveryMethodFeed, Feed, tracking, OrderDeliveryMethod]
 ---

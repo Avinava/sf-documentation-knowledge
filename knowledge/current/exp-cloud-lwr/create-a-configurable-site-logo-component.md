@@ -5,7 +5,7 @@ topic: create-a-configurable-site-logo-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.595Z
+lastCollected: 2026-04-07T09:03:45.891Z
 estimatedTokens: 427
 keywords: [Configurable, Site, Logo, Component, --dxp-s-site-logo-path, --dxp-s-site-logo-url, styling, hooks, easily, add, pages, Images, tab, Theme, panel]
 ---

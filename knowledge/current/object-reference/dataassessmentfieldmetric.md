@@ -5,7 +5,7 @@ topic: dataassessmentfieldmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.832Z
+lastCollected: 2026-04-07T09:04:38.593Z
 estimatedTokens: 617
 keywords: [DataAssessmentFieldMetric, summary, statistics, matched, blank, differing, account, records, org, compared, Data.com, API, version, 37.0, later]
 ---

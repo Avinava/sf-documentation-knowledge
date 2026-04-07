@@ -5,7 +5,7 @@ topic: careproviderafflroleconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:47.703Z
+lastCollected: 2026-04-07T09:04:12.320Z
 estimatedTokens: 787
 keywords: [CareProviderAfflRoleConfig, affiliations, healthcare, provider, affiliation, hospital, API, version, 59.0, later, SOAP, Calls, REST]
 ---
@@ -43,5 +43,5 @@ DELETE, GET, HEAD, PATCH, POST, Query
 | FullName | TypestringPropertiesCreate, Group, NillableDescriptionThe full name of the associated CareProviderAfflRoleConfig type in Metadata API. The full name can include a namespace prefix.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
 | Language | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe language of the Care Provider Affiliation Role Configuration.Possible values are:da—Danishde—Germanen_US—Englishes—Spanishes_MX—Spanish (Mexico)fi—Finnishfr—Frenchit—Italianja—Japaneseko—Koreannl_NL—Dutchno—Norwegianpt_BR—Portuguese (Brazil)ru—Russiansv—Swedishth—Thaizh_CN—Chinese (Simplified)zh_TW—Chinese (Traditional) |
 | MasterLabel | TypestringPropertiesFilter, Group, SortDescriptionLabel for the affiliation. In the UI, this field is Care Provider Affiliation Role Configuration. |
-| Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionThe CareProviderAfflRoleConfig’s metadata..Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
+| Metadata | TypecomplexvaluePropertiesCreate, Nillable, UpdateDescriptionThe CareProviderAfflRoleConfig’s metadata.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
 | ProviderRole | TypestringPropertiesFilter, Group, Nillable, SortDescriptionRequired.The role of the healthcare provider in relation to the affiliate. |

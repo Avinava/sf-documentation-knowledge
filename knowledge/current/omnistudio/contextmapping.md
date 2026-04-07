@@ -5,7 +5,7 @@ topic: contextmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:57.310Z
+lastCollected: 2026-04-07T09:02:59.884Z
 estimatedTokens: 460
 keywords: [ContextMapping, mapping, attributes, nodes, objects, API, version, 59.0, later, SOAP, Calls, REST]
 ---

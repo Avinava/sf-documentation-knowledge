@@ -5,7 +5,7 @@ topic: actionvisibility
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.962Z
+lastCollected: 2026-04-07T09:03:56.934Z
 estimatedTokens: 788
 keywords: [ActionVisibility, serves, junction, connect, Account, Contact, objects, define, visibility, rules, actions, Dynamic, Unified, Health, Scoring]
 ---

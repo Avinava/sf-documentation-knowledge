@@ -5,8 +5,8 @@ topic: place-sales-transaction-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.057Z
-estimatedTokens: 1470
+lastCollected: 2026-04-07T09:03:39.222Z
+estimatedTokens: 1455
 keywords: [Place, Sales, Transaction, POST, order, quote, integrated, pricing, configuration, Additionally, insert, line, items, calculate, estimated]
 ---
 
@@ -42,7 +42,7 @@ Resource example
 
 Available version
 
-63.0
+66.0
 
 HTTP methods
 
@@ -58,7 +58,7 @@ This is a sample request to create a sales transaction for a quote. This example
 
 ```
 
-This sample request assigns a TransactionProcessingType record to a quote without any additional preferences. In this example, the TransactionType value for a record is set to a TransactionProcessingType record. See TransactionProcessingType tooling object for more details.
+This sample request assigns a TransactionProcessingType record to a quote without any additional preferences. In this example, the TransactionType value for a record is set to a TransactionProcessingType record.
 
 ```
 
@@ -112,10 +112,6 @@ This is a sample request to save changes to a ramp deal by using context ID. The
 
 ```
 
-To see examples that specify actions to create ramp deals for groups, see Group Ramp Action Input.
-
-To see examples that apply to usage-based products, see Usage-Based Product Input.
-
 Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
@@ -130,20 +126,20 @@ Properties
 
 Response body for POST
 
-Place Sales Transaction
+[Place Sales Transaction](atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_place_sales_transaction_output.htm "Output representation of the request to create a sales transaction.")
 
 ## Code Examples
 
 ```
-/connect/rev/sales-transaction/actions/place
+/connect/consumer/place
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/rev/sales-transaction/actions/place
+https://yourInstance.salesforce.com/services/data/v66.0/connect/consumer/place
 ```
 
 ```
-{
+"placeSalesTransactionRequest": {
   "pricingPref": "System",
   "catalogRatesPref": "Skip",
   "configurationPref": {
@@ -282,3 +278,11 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/rev/sales-transa
   }
 }
 ```
+
+## Related Topics
+
+- Configurator Preference Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_configurator_preference_input.htm)
+- Context Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_context_info_input.htm)
+- Object Graph Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_object_graph_input.htm)
+- Place Sales
+              Transaction (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_responses_place_sales_transaction_output.htm)

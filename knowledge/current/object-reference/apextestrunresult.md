@@ -5,7 +5,7 @@ topic: apextestrunresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:04.561Z
+lastCollected: 2026-04-07T09:04:34.646Z
 estimatedTokens: 739
 keywords: [ApexTestRunResult, summary, test, were, run, particular, Apex, job, API, version, 37.0, later, Calls, Special, Access]
 ---

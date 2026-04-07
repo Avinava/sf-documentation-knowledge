@@ -5,7 +5,7 @@ topic: service-cloud-connector-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.351Z
+lastCollected: 2026-04-07T09:05:29.361Z
 estimatedTokens: 690
 keywords: [Service, Cloud, Connector, API, partner, telephony, Contact, Center, CCaaS, system, Salesforce, org, pass, receive, events]
 ---

@@ -5,7 +5,7 @@ topic: show-accessibility-details-on-your-appexchange-listing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.503Z
+lastCollected: 2026-04-07T09:04:54.289Z
 estimatedTokens: 353
 keywords: [Show, Accessibility, AppExchange, Listing, built, solution, mind, tell, customers, adding, Accessible, badge, add, provide, link]
 ---

@@ -5,7 +5,7 @@ topic: namedcredential
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:13.071Z
+lastCollected: 2026-04-07T09:04:44.725Z
 estimatedTokens: 2351
 keywords: [NamedCredential, named, credential, URL, callout, endpoint, authentication, definition, simplify, setup, authenticated, callouts, API, version, 33.0]
 ---

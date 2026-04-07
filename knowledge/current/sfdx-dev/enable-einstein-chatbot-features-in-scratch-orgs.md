@@ -5,7 +5,7 @@ topic: enable-einstein-chatbot-features-in-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.998Z
+lastCollected: 2026-04-07T09:06:14.115Z
 estimatedTokens: 179
 keywords: [Enable, Einstein, Chatbot, Features, Scratch, Orgs, Turn, Dev, Hub, eliminate, manual, steps, enabling, feature, accept]
 ---

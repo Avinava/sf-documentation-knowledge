@@ -5,7 +5,7 @@ topic: using-background-utility-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:53.522Z
+lastCollected: 2026-04-07T09:03:03.413Z
 estimatedTokens: 391
 keywords: [Background, Utility, Items, Implement, lightning, backgroundUtilityItem, component, fires, responds, events, rendering, bar]
 ---

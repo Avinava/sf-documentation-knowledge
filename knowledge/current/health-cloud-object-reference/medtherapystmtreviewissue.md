@@ -5,7 +5,7 @@ topic: medtherapystmtreviewissue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.680Z
+lastCollected: 2026-04-07T09:03:58.881Z
 estimatedTokens: 754
 keywords: [MedTherapyStmtReviewIssue, junction, Medication, Therapy, Statement, Review, Clinical, Detected, Issue, objects, API, version, 56.0, later, Calls]
 ---

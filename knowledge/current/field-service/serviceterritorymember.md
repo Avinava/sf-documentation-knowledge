@@ -5,7 +5,7 @@ topic: serviceterritorymember
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:50.732Z
+lastCollected: 2026-04-07T09:03:02.248Z
 estimatedTokens: 1702
 keywords: [ServiceTerritoryMember, service, resource, assigned, territory, Salesforce, Scheduler, Workforce, Engagement, API, version, 38.0, later, Calls, Special]
 ---

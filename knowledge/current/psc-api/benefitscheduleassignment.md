@@ -5,7 +5,7 @@ topic: benefitscheduleassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.361Z
+lastCollected: 2026-04-07T09:05:11.738Z
 estimatedTokens: 506
 keywords: [BenefitScheduleAssignment, junction, Benefit, Schedule, Assignment, objects, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: refresh-actuals-calculation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:55.207Z
+lastCollected: 2026-04-07T09:04:22.697Z
 estimatedTokens: 370
 keywords: [Refresh, Actuals, Calculation, Action, calculations, sales, agreements, current, past, periods, REST, HTTP, Inputs, Usage]
 ---

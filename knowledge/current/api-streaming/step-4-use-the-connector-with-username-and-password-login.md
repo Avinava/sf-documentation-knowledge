@@ -5,7 +5,7 @@ topic: step-4-use-the-connector-with-username-and-password-login
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.254Z
+lastCollected: 2026-04-07T09:03:04.986Z
 estimatedTokens: 795
 keywords: [Step, Connector, Username, Password, Login, Now, you’ve, downloaded, built, EMP, connect, CometD, subscribe, PushTopic]
 ---

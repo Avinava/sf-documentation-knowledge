@@ -5,7 +5,7 @@ topic: vpl360assetfetch
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.101Z
+lastCollected: 2026-04-07T09:04:21.129Z
 estimatedTokens: 116
 keywords: [VPL360_AssetFetch, Integration, Procedure, fetches, assets, products, ordered, logged, subscriber, VPL360, _AssetFetch, Sample, Input, Output, Calls]
 ---

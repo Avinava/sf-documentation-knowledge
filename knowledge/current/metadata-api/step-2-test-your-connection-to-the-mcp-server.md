@@ -5,7 +5,7 @@ topic: step-2-test-your-connection-to-the-mcp-server
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:08.127Z
+lastCollected: 2026-04-07T09:02:42.006Z
 estimatedTokens: 221
 keywords: [Step, Test, Connection, MCP, Server, simple, prompts, client’s, Salesforce, API, Context, configured]
 ---

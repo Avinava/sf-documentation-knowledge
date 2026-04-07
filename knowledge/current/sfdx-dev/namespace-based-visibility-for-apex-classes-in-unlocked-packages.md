@@ -5,7 +5,7 @@ topic: namespace-based-visibility-for-apex-classes-in-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.723Z
+lastCollected: 2026-04-07T09:06:13.720Z
 estimatedTokens: 433
 keywords: [Namespace-Based, Visibility, Apex, Classes, Unlocked, Packages, @namespaceAccessible, package, annotation, interfaces, defined, aren’t, accessible, they, share]
 ---

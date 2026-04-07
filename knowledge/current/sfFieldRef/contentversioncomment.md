@@ -5,7 +5,7 @@ topic: contentversioncomment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.227Z
+lastCollected: 2026-04-07T09:05:40.980Z
 estimatedTokens: 231
 keywords: [ContentVersionComment, comment, version, file, API, 42.0, later]
 ---

@@ -5,7 +5,7 @@ topic: experiencebundle-for-experience-builder-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.343Z
+lastCollected: 2026-04-07T09:03:39.811Z
 estimatedTokens: 1978
 keywords: [ExperienceBundle, Experience, Builder, Sites, metadata, text-based, representations, different, settings, components, pages, branding, themes, site, Whether]
 ---
@@ -110,8 +110,8 @@ If you’re not familiar with Salesforce DX, check out these great resources.
 
 #### See Also
 
--   [*Blog Post:* ExperienceBundle & Salesforce DX: A Developer’s Dream for Coding Lighting Communities](https://developer.salesforce.com/blogs/2020/02/experiencebundle-salesforce-dx-a-developers-dream-for-coding-lighting-communities.html "Blog Post: ExperienceBundle & Salesforce DX: A Developer’s Dream for
-    Coding Lighting Communities - HTML (New Window)")
+-   [*Blog Post:* ExperienceBundle & Salesforce DX: A Developer’s Dream for Coding Lightning Communities](https://developer.salesforce.com/blogs/2020/02/experiencebundle-salesforce-dx-a-developers-dream-for-coding-lighting-communities.html "Blog Post: ExperienceBundle & Salesforce DX: A Developer’s Dream for
+    Coding Lightning Communities - HTML (New Window)")
 
 -   [*Metadata API Developer Guide*: ExperienceBundle](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_experiencebundle.htm "Metadata API Developer Guide: ExperienceBundle - HTML (New Window)")
 

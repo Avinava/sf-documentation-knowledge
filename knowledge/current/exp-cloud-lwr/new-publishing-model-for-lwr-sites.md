@@ -5,7 +5,7 @@ topic: new-publishing-model-for-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.799Z
+lastCollected: 2026-04-07T09:03:46.225Z
 estimatedTokens: 481
 keywords: [New, Publishing, Model, LWR, Sites, Experience, Cloud, take, advantage, paradigm, components, frozen, site, published, served]
 ---

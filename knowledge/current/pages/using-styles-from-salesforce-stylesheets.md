@@ -5,7 +5,7 @@ topic: using-styles-from-salesforce-stylesheets
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.227Z
+lastCollected: 2026-04-07T09:05:00.131Z
 estimatedTokens: 541
 keywords: [Styles, Salesforce, Stylesheets, uses, different, css, files, throughout, application, ensure, every, tab, conforms, look, feel]
 ---

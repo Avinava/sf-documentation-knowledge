@@ -5,7 +5,7 @@ topic: managedcontent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.648Z
+lastCollected: 2026-04-07T09:05:53.563Z
 estimatedTokens: 443
 keywords: [ManagedContent, managed, content, Salesforce, CMS, workspace, Experience, Cloud, site, channel, instance, record, consistent, identifier, variants]
 ---

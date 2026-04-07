@@ -5,7 +5,7 @@ topic: enabling-canvas-personal-apps-within-an-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.459Z
+lastCollected: 2026-04-07T09:05:04.535Z
 estimatedTokens: 490
 keywords: [Enabling, Canvas, Personal, Apps, Organization, administrator, whether, users, install, attempting, app, verify, enabled]
 ---

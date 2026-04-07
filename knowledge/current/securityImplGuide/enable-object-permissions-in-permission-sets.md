@@ -5,7 +5,7 @@ topic: enable-object-permissions-in-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.833Z
+lastCollected: 2026-04-07T09:05:28.574Z
 estimatedTokens: 376
 keywords: [Enable, Permissions, Permission, determine, base-level, access, users, edit, records, recommended, feature, managing]
 ---

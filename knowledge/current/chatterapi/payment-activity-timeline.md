@@ -5,7 +5,7 @@ topic: payment-activity-timeline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.467Z
+lastCollected: 2026-04-07T09:03:27.109Z
 estimatedTokens: 129
 keywords: [Payment, Activity, Timeline, Retrieve, intent, chronologically, key, events, relating, place, users, source, truth]
 ---

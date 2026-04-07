@@ -5,7 +5,7 @@ topic: clone-sales-transaction-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:18.397Z
+lastCollected: 2026-04-07T09:01:59.251Z
 estimatedTokens: 407
 keywords: [Clone, Sales, Transaction, POST, quote, order, line, item, record, records, configurations]
 ---

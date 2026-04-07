@@ -5,7 +5,7 @@ topic: filter-your-stream-of-change-events-with-channels
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.595Z
+lastCollected: 2026-04-07T09:03:18.564Z
 estimatedTokens: 765
 keywords: [Filter, Stream, Change, Events, Channels, Receive, event, messages, match, predefined, channel, subscribers, fewer, delivered, processing]
 ---

@@ -5,7 +5,7 @@ topic: commerce-webstore-cart-evaluate-shipping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.217Z
+lastCollected: 2026-04-07T09:03:25.332Z
 estimatedTokens: 422
 keywords: [Commerce, Webstore, Cart, Evaluate, Shipping, costs]
 ---

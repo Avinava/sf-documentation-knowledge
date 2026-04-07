@@ -5,7 +5,7 @@ topic: array-variable-type-for-variablesjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.434Z
+lastCollected: 2026-04-07T09:03:15.678Z
 estimatedTokens: 79
 keywords: [Array, Variable, variables.json, ArrayType, wizard, question, accepts, multiple, selections, user, choices, Define, minimum, maximum, number]
 ---

@@ -5,7 +5,7 @@ topic: loyaltyapiinterface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.542Z
+lastCollected: 2026-04-07T09:04:19.179Z
 estimatedTokens: 1070
 keywords: [LoyaltyAPIInterface, creating, formatting, sending, REST, requests, Salesforce, service, stores, API, call, definitions, Loyalty, Summary]
 ---

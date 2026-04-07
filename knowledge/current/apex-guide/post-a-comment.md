@@ -5,7 +5,7 @@ topic: post-a-comment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:44.673Z
+lastCollected: 2026-04-07T09:02:33.816Z
 estimatedTokens: 90
 keywords: [Post, Comment, Call]
 ---

@@ -5,7 +5,7 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.184Z
+lastCollected: 2026-04-07T09:05:18.066Z
 estimatedTokens: 394
 keywords: [Resources, Here’s, Consumer, Goods, Business, API]
 ---

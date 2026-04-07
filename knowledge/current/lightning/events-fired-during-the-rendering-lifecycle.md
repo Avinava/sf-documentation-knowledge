@@ -5,7 +5,7 @@ topic: events-fired-during-the-rendering-lifecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.304Z
+lastCollected: 2026-04-07T09:04:13.185Z
 estimatedTokens: 1565
 keywords: [Events, Fired, Rendering, Lifecycle, component, instantiated, rendered, rerendered, rerenders, there’s, programmatic, change, requires, rerender, browser]
 ---

@@ -5,7 +5,7 @@ topic: set-the-width-height-and-base-font-size
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.471Z
+lastCollected: 2026-04-07T09:06:14.779Z
 estimatedTokens: 603
 keywords: [Width, Height, Base, Font, Size, Change, sizes, chat, window, code, snippet, match, websites, requirements]
 ---

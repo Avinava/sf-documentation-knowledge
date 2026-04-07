@@ -5,7 +5,7 @@ topic: prepare-to-distribute-your-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:27.044Z
+lastCollected: 2026-04-07T09:05:03.818Z
 estimatedTokens: 691
 keywords: [Prepare, Distribute, Second-Generation, Managed, Package, release, version, ensure, understand, code, coverage, requirements, logistics, how, publish]
 ---

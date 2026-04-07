@@ -5,7 +5,7 @@ topic: calculate-rebate-amount-and-upsert-payout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.065Z
+lastCollected: 2026-04-07T09:03:19.323Z
 estimatedTokens: 272
 keywords: [Calculate, Rebate, Amount, Upsert, Payout, aggregate, record, REST, HTTP, Inputs, Outputs, Usage]
 ---

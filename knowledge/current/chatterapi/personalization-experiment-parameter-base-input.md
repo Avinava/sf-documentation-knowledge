@@ -5,7 +5,7 @@ topic: personalization-experiment-parameter-base-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:12.396Z
+lastCollected: 2026-04-07T09:03:22.800Z
 estimatedTokens: 111
 keywords: [Personalization, Experiment, Base, Input, engagement, signal]
 ---

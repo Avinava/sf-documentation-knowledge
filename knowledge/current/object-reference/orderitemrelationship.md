@@ -5,7 +5,7 @@ topic: orderitemrelationship
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:13.885Z
+lastCollected: 2026-04-07T09:04:45.712Z
 estimatedTokens: 1482
 keywords: [OrderItemRelationship, relationship, order, products, API, version, 58.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

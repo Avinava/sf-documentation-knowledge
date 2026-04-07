@@ -5,8 +5,8 @@ topic: cancel-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.498Z
-estimatedTokens: 213
+lastCollected: 2026-04-07T09:03:59.922Z
+estimatedTokens: 212
 keywords: [Cancel, Insurance, Policy, Action, user, inputs, represent, REST, HTTP, Outputs]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 63.0 and later.
 
 **URI**
 
-/services/data/v66.0/actions/standard/cancelInsurancePolicy
+/services/data/v/actions/standard/cancelInsurancePolicy
 
 **Formats**
 

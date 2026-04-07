@@ -5,7 +5,7 @@ topic: making-api-calls-from-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.044Z
+lastCollected: 2026-04-07T09:04:14.229Z
 estimatedTokens: 527
 keywords: [Making, API, Calls, Components, can’t, third-party, APIs, client-side, code, Add, remote, site, Trusted, URL, Content]
 ---

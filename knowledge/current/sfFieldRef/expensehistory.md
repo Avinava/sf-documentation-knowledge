@@ -5,7 +5,7 @@ topic: expensehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.590Z
+lastCollected: 2026-04-07T09:05:45.290Z
 estimatedTokens: 253
 keywords: [ExpenseHistory, History, tracked, Expense]
 ---

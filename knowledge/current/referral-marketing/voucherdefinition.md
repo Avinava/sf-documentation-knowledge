@@ -5,7 +5,7 @@ topic: voucherdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.344Z
+lastCollected: 2026-04-07T09:05:16.839Z
 estimatedTokens: 1886
 keywords: [VoucherDefinition, voucher, template, definition, issue, vouchers, advocates, their, referred, parties, API, version, 59.0, later, Calls]
 ---

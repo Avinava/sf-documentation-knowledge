@@ -5,7 +5,7 @@ topic: giftactuarialentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:25.237Z
+lastCollected: 2026-04-07T09:03:42.801Z
 estimatedTokens: 1374
 keywords: [GiftActuarialEntry, foundational, data, calculating, future, planned, gift, including, life, expectancy, discount, rates, API, version, 65.0]
 ---

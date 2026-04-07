@@ -5,7 +5,7 @@ topic: submit-cart-for-an-exchange-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.111Z
+lastCollected: 2026-04-07T09:04:53.581Z
 estimatedTokens: 849
 keywords: [Submit, Cart, Exchange, Order, you’ve, previewed, it’s, almost, time, There, few, considerations, keep, mind, creating]
 ---

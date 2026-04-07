@@ -5,7 +5,7 @@ topic: choose-a-sign-up-form-hosting-option
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.450Z
+lastCollected: 2026-04-07T09:04:55.906Z
 estimatedTokens: 183
 keywords: [Choose, Sign-Up, Form, Hosting, Option, serves, registration, prospective, customers, sign, trials, Review]
 ---

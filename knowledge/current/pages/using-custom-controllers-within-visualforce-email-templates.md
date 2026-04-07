@@ -5,7 +5,7 @@ topic: using-custom-controllers-within-visualforce-email-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:23.584Z
+lastCollected: 2026-04-07T09:04:59.122Z
 estimatedTokens: 719
 keywords: [Custom, Controllers, Visualforce, Email, Templates, leverage, render, highly, customized, content, include, component, template, uses, controller]
 ---

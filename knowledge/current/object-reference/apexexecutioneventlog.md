@@ -5,7 +5,7 @@ topic: apexexecutioneventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:04.452Z
+lastCollected: 2026-04-07T09:04:34.514Z
 estimatedTokens: 1363
 keywords: [ApexExecutionEventLog, Apex, Execution, event, logs, contain, classes, API, version, 55.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: decision-matrix-columns-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.824Z
+lastCollected: 2026-04-07T09:05:09.258Z
 estimatedTokens: 86
 keywords: [Decision, Matrix, Columns, Output, representation]
 ---

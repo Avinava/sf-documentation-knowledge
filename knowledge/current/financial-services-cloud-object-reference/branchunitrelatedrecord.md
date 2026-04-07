@@ -5,7 +5,7 @@ topic: branchunitrelatedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.627Z
+lastCollected: 2026-04-07T09:03:48.750Z
 estimatedTokens: 798
 keywords: [BranchUnitRelatedRecord, record, case, account, associated, attributed, branch, unit, API, version, 51.0, later, Calls, Objects]
 ---

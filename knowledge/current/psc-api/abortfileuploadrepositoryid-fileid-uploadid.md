@@ -5,7 +5,7 @@ topic: abortfileuploadrepositoryid-fileid-uploadid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:29.437Z
+lastCollected: 2026-04-07T09:05:07.133Z
 estimatedTokens: 110
 keywords: [abortFileUpload, repositoryId, fileId, uploadId, cancel, file, upload, invoked, specifically, aborting, multi-part, uploads, external, storage]
 ---

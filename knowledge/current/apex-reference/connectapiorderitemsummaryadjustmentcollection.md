@@ -5,7 +5,7 @@ topic: connectapiorderitemsummaryadjustmentcollection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.272Z
+lastCollected: 2026-04-07T09:02:25.265Z
 estimatedTokens: 84
 keywords: [Collection, adjustments, order, item, summaries]
 ---

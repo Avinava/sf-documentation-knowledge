@@ -5,18 +5,18 @@ topic: engagementtopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.083Z
+lastCollected: 2026-04-07T09:03:58.114Z
 estimatedTokens: 1361
 keywords: [EngagementTopic, topics, discussed, customer, attendees, engagement, initiates, interaction, calling, service, representative, inquire, insurance, claim, topic]
 ---
 
 # EngagementTopic
 
-> Represents information about the
-         topics discussed by a customer and other attendees during an engagement. For example, when
-         a customer initiates an engagement interaction by calling a service representative to
-         inquire about an insurance claim, the topic of the engagement is Claim. This object is
-      available in API version 55.0 and later.
+> Represents information about the topics discussed by
+      a customer and other attendees during an engagement. For example, when a customer initiates an
+      engagement interaction by calling a service representative to inquire about an insurance
+      claim, the topic of the engagement is Claim. This object is available in API version 55.0 and
+      later.
 
 # EngagementTopic
 

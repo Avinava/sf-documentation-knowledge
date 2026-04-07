@@ -5,7 +5,7 @@ topic: fulfillment-order-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:11.776Z
+lastCollected: 2026-04-07T09:03:21.752Z
 estimatedTokens: 465
 keywords: [Fulfillment, Order, Input, OrderDeliveryGroupSummary, delivery, recipient, groups, assign, FulfillmentOrders, group, OrderItemSummaries, match, share, location, creates]
 ---

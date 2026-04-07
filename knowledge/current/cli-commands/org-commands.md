@@ -5,8 +5,8 @@ topic: org-commands
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:10.803Z
-estimatedTokens: 22444
+lastCollected: 2026-04-07T09:01:54.473Z
+estimatedTokens: 22446
 keywords: [org, Commands, Assign, permission, users, permset, Examples, Flags, permsetlicense, agent-user, sandbox, Aliases, scratch, shape, snapshot]
 ---
 
@@ -271,15 +271,25 @@ By default, this command:
 
 \- Assigns the user the "Einstein Agent User" profile.
 
-\- Assigns the user these required permission sets: AgentforceServiceAgentBase, AgentforceServiceAgentUser, EinsteinGPTPromptTemplateUser.
+\- Assigns the user these required permission sets: AgentforceServiceAgentBase, AgentforceServiceAgentUser,
+
+EinsteinGPTPromptTemplateUser
 
 \- Checks that the user licenses required by the profile and permission sets are available in your org.
 
-The generated user doesn't have a password. You can’t log into Salesforce using the agent user's username. Only Salesforce users with admin permissions can view or edit an agent user in Setup.
+The generated user doesn't have a password. You can’t log into Salesforce using the agent user's username. Only
 
-To assign additional permission sets or licenses after the user was created, use the "org assign permset" or "org assign permsetlicense" commands.
+Salesforce users with admin permissions can view or edit an agent user in Setup.
 
-When the command completes, it displays a summary of what it did, including the new agent user's username and ID, the available licenses associated with the Einstein Agent User profile, and the profile and permission sets assigned to the agent user.
+To assign additional permission sets or licenses after the user was created, use the "org assign permset" or "org assign
+
+permsetlicense" commands.
+
+When the command completes, it displays a summary of what it did, including the new agent user's username and ID, the
+
+available licenses associated with the Einstein Agent User profile, and the profile and permission sets assigned to the
+
+agent user.
 
 ### Examples for org create agent-user
 
@@ -289,13 +299,17 @@ Create an agent user with an auto-generated username; create the user in the org
 
 ```
 
-Create an agent user by specifying a base username pattern; to make the username unique, the command appends a unique identifier:
+Create an agent user by specifying a base username pattern; to make the username unique, the command appends a unique
+
+identifier:
 
 ```
 
 ```
 
-Create an agent user with an auto-generated username but the custom name "Service Agent"; create the user in your default org:
+Create an agent user with an auto-generated username but the custom name "Service Agent"; create the user in your
+
+default org:
 
 ```
 
@@ -341,7 +355,11 @@ Optional
 
 Base username pattern. A unique ID is appended to ensure global uniqueness of the usename.
 
-Specify a base username in email format, such as "service-agent@corp.com". The command then appends a 12-character globally unique ID (GUID) to the name before the "@" sign, which ensures that the username is globally unique across all Salesforce orgs and sandboxes.
+Specify a base username in email format, such as "service-agent@corp.com". The command then appends a 12-character
+
+globally unique ID (GUID) to the name before the "@" sign, which ensures that the username is globally unique across all
+
+Salesforce orgs and sandboxes.
 
 For example, if you specify "service-agent@corp.com", then the username might be "service-agent.a1b2c3d4e5f6@corp.com".
 

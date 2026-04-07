@@ -5,7 +5,7 @@ topic: standardcontrollercontrollersobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.533Z
+lastCollected: 2026-04-07T09:04:56.049Z
 estimatedTokens: 75
 keywords: [StandardController, controllerSObject, Creates, new, instance, ApexPages.StandardController, standard, custom]
 ---

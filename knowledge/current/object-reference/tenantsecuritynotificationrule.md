@@ -5,7 +5,7 @@ topic: tenantsecuritynotificationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.014Z
+lastCollected: 2026-04-07T09:04:50.775Z
 estimatedTokens: 1209
 keywords: [TenantSecurityNotificationRule, Stores, alert, configured, Security, Center, Alerts, feature, notify, recipients, changes, made, settings, subscribers, API]
 ---

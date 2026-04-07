@@ -5,7 +5,7 @@ topic: standardsetcontroller-constructors
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.556Z
+lastCollected: 2026-04-07T09:04:56.099Z
 estimatedTokens: 149
 keywords: [StandardSetController]
 ---

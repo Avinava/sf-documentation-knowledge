@@ -5,7 +5,7 @@ topic: acctmgrperiodictargetdstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.057Z
+lastCollected: 2026-04-07T09:04:22.511Z
 estimatedTokens: 2473
 keywords: [AcctMgrPeriodicTargetDstr, target, period, account, manager, foreign, key, either, distribution, twelve, periods, corresponding, hold, API, version]
 ---

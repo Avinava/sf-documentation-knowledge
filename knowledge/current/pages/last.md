@@ -5,7 +5,7 @@ topic: last
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.589Z
+lastCollected: 2026-04-07T09:04:56.168Z
 estimatedTokens: 117
 keywords: [Changes, records, controller]
 ---

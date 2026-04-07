@@ -5,8 +5,8 @@ topic: endorse-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.785Z
-estimatedTokens: 1194
+lastCollected: 2026-04-07T09:04:03.625Z
+estimatedTokens: 1197
 keywords: [Endorse, Policy, endorsement, known, Mid-Term, Adjustment, MTA, process, making, modifications, active, insurance, term, Common, include, change, changes, version, premiums, user]
 ---
 
@@ -32,7 +32,7 @@ Make sure you have these details.
 
 This diagram outlines the sequence of endorsing a policy, where any changes are initially processed through a quote to assess the pricing impact.
 
-![A flow diagram representing the sequence of endorsing a policy based on a quote.](/docs/resources/img/en-us/260.0?doc_id=insurance%2Fimages%2Fendorse_policy_with_salesforce_quote.png&folder=insurance_developer_guide)
+![A flow diagram representing the sequence of endorsing a policy based on a quote.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Finsurance%2Fimages%2Fendorse_policy_with_salesforce_quote.png&folder=insurance_developer_guide)
 
 1.  **Get Policy Context**—Use the policy ID to get the context either by:
     -   Making a GET request on the [Insurance Policy Details](https://developer.salesforce.com/docs/atlas.en-us.260.0.insurance_developer_guide.meta/insurance_developer_guide/connect_resources_get_policy.htm "HTML (New Window)") Connect API, or

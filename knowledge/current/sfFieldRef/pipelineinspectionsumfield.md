@@ -5,7 +5,7 @@ topic: pipelineinspectionsumfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:08.332Z
+lastCollected: 2026-04-07T09:05:59.698Z
 estimatedTokens: 335
 keywords: [PipelineInspectionSumField, opportunity, aggregate, Pipeline, Inspection, metrics, view, API, version, 56.0, later]
 ---

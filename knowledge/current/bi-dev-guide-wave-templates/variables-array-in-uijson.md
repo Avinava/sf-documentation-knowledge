@@ -5,7 +5,7 @@ topic: variables-array-in-uijson
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.720Z
+lastCollected: 2026-04-07T09:03:16.162Z
 estimatedTokens: 281
 keywords: [Variables, Array, ui.json, display, question, users, conditionally, optionally, disabled, case, answer, found, computed, Apex, accommodate]
 ---

@@ -5,7 +5,7 @@ topic: returning-fields-in-the-record-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.321Z
+lastCollected: 2026-04-07T09:05:04.285Z
 estimatedTokens: 489
 keywords: [Returning, Record, <apex, canvasApp>, component, display, canvas, app, Visualforce, associated, placed, layout, specify, entityFields, attribute]
 ---

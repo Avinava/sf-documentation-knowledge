@@ -5,7 +5,7 @@ topic: crm-analytics-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:06.893Z
+lastCollected: 2026-04-07T09:03:14.810Z
 estimatedTokens: 4947
 keywords: [CRM, Analytics, Lightning, Web, Components, retrieve, data, metadata, assets, execute, queries, schedule, syncs, recipes, dataflows]
 ---

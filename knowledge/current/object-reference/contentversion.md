@@ -5,7 +5,7 @@ topic: contentversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.219Z
+lastCollected: 2026-04-07T09:04:37.805Z
 estimatedTokens: 7596
 keywords: [ContentVersion, specific, version, document, Salesforce, CRM, content, Files, versions, 17.0, later, documents, 20.0, Calls, Special]
 ---

@@ -6,7 +6,7 @@ topic: if-a-customers-credit-card-payment-is-declined-in-appexchange-checkout-do
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.312Z
+lastCollected: 2026-04-07T09:04:53.976Z
 estimatedTokens: 80
 keywords: [customer's, credit, card, payment, declined, AppExchange, Checkout, their, license, become, inactive, Stripe, settings, determine, happens]
 ---

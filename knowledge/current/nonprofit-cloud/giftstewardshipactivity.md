@@ -5,7 +5,7 @@ topic: giftstewardshipactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.190Z
+lastCollected: 2026-04-07T09:04:30.435Z
 estimatedTokens: 1175
 keywords: [GiftStewardshipActivity, activity, carried, part, gift, stewardship, API, version, 65.0, later, Calls, Associated, Objects]
 ---

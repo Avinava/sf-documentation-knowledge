@@ -5,7 +5,7 @@ topic: unifiedactivityrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.437Z
+lastCollected: 2026-04-07T09:04:51.348Z
 estimatedTokens: 397
 keywords: [UnifiedActivityRelation, relationship, activity, record, that’s, target, topic, opportunity, account, reports, dashboards, Winter, ’24, release, later]
 ---

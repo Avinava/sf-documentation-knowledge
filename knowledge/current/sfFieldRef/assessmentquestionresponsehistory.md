@@ -5,7 +5,7 @@ topic: assessmentquestionresponsehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.312Z
+lastCollected: 2026-04-07T09:05:33.370Z
 estimatedTokens: 278
 keywords: [AssessmentQuestionResponseHistory, History, tracked, AssessmentQuestionResponse]
 ---

@@ -5,7 +5,7 @@ topic: context-data-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.878Z
+lastCollected: 2026-04-07T09:01:58.162Z
 estimatedTokens: 86
 keywords: [Context, Data, Input, representation]
 ---

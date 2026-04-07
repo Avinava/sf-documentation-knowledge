@@ -5,7 +5,7 @@ topic: using-software-that-has-known-vulnerabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.174Z
+lastCollected: 2026-04-07T09:04:55.486Z
 estimatedTokens: 428
 keywords: [Software, Known, Vulnerabilities, documented, common, exposures, CVE, cases, security, vulnerability, solution, test, deploy, patches, soon]
 ---

@@ -5,7 +5,7 @@ topic: deploying-apex-to-a-sandbox-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:43.331Z
+lastCollected: 2026-04-07T09:02:32.594Z
 estimatedTokens: 328
 keywords: [Deploying, Apex, Sandbox, Organization, Sandboxes, copies, Salesforce, org, separate, environments, development, testing, training, compromising, data]
 ---

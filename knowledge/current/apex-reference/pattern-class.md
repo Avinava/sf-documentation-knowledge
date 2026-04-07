@@ -5,7 +5,7 @@ topic: pattern-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.057Z
+lastCollected: 2026-04-07T09:02:18.575Z
 estimatedTokens: 2010
 namespace: System
 keywords: [Pattern, compiled, representation, regular, expression, compile, regExp, matcher, stringtoMatch, matches, Usage, quote, yourString, split, limit]

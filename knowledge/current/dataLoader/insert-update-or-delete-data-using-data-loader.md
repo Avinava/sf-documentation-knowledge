@@ -5,7 +5,7 @@ topic: insert-update-or-delete-data-using-data-loader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.222Z
+lastCollected: 2026-04-07T09:03:41.171Z
 estimatedTokens: 1299
 keywords: [Insert, Data, Loader, wizards, add, modify, records, upsert, wizard, combines, inserting, updating, record, file, matches]
 ---

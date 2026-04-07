@@ -5,7 +5,7 @@ topic: eventlogfile-supported-event-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:09.623Z
+lastCollected: 2026-04-07T09:04:40.725Z
 estimatedTokens: 6646
 keywords: [EventLogFile, Event, EventType, supports, events, common, CPU_TIME, RUN_TIME, zero, depending, how, generated, feature, Sometimes, three]
 ---

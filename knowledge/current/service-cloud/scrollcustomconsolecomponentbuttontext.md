@@ -5,7 +5,7 @@ topic: scrollcustomconsolecomponentbuttontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.671Z
+lastCollected: 2026-04-07T09:03:04.523Z
 estimatedTokens: 334
 keywords: [scrollCustomConsoleComponentButtonText, Scrolls, button’s, text, application-level, custom, console, component, that’s, API, version, 25.0, later, isn’t, Lightning]
 ---

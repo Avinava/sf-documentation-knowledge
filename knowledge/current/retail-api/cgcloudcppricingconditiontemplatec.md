@@ -5,7 +5,7 @@ topic: cgcloudcppricingconditiontemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:38.515Z
+lastCollected: 2026-04-07T09:05:19.944Z
 estimatedTokens: 2304
 keywords: [pricing, condition, template, define, calculated, step, calculation, schema, API, version, 54.0, later, cgcloud, _CP, _Pricing]
 ---

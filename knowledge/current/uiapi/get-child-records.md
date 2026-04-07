@@ -5,7 +5,7 @@ topic: get-child-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.057Z
+lastCollected: 2026-04-07T09:06:15.559Z
 estimatedTokens: 943
 keywords: [Child, Records, User, API, several, resources, include, their, responses, record, relationships, huge, negative, effect, performance, relationship, Relationships, connections, detail, parent]
 ---

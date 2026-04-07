@@ -5,7 +5,7 @@ topic: get-configuration-item-history
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:34.975Z
+lastCollected: 2026-04-07T09:02:09.973Z
 estimatedTokens: 974
 keywords: [Configuration, Item, History, Perform, paginated, retrieval, audit, trail, specific, changes, including, field-level, modifications, timestamps, user]
 ---

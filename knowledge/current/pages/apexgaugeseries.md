@@ -5,7 +5,7 @@ topic: apexgaugeseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.470Z
+lastCollected: 2026-04-07T09:04:57.522Z
 estimatedTokens: 793
 keywords: [apex, gaugeSeries, data, series, progress, along, specific, metric, minimum, specify, collection, label, pair, gauge, level]
 ---

@@ -5,7 +5,7 @@ topic: using-in-javascript-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.102Z
+lastCollected: 2026-04-07T09:04:59.908Z
 estimatedTokens: 666
 namespace: SObjectModel
 keywords: [JavaScript, models, generated, Remote, Objects, components, provide, API, functions, app, save, back, Salesforce, base, model]

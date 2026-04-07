@@ -5,7 +5,7 @@ topic: caseteamtemplaterecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.783Z
+lastCollected: 2026-04-07T09:05:39.129Z
 estimatedTokens: 287
 keywords: [CaseTeamTemplateRecord, linking, Case, CaseTeamTemplate, objects, assign, predefined, team, customer, inquiry, record, point, ParentId, TeamTemplateId]
 ---

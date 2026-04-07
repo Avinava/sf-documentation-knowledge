@@ -5,7 +5,7 @@ topic: timeline-error
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.291Z
+lastCollected: 2026-04-07T09:05:10.007Z
 estimatedTokens: 93
 keywords: [Timeline, Error, Output, representation]
 ---

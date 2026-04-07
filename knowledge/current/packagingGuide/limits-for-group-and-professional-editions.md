@@ -5,7 +5,7 @@ topic: limits-for-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.764Z
+lastCollected: 2026-04-07T09:04:54.727Z
 estimatedTokens: 186
 keywords: [Limits, Group, Professional, Editions, Salesforce, restrict, number, apps, objects, tabs, various, Edition]
 ---

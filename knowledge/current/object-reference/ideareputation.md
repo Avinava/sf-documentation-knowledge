@@ -5,7 +5,7 @@ topic: ideareputation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.136Z
+lastCollected: 2026-04-07T09:04:42.441Z
 estimatedTokens: 553
 keywords: [IdeaReputation, collection, statistics, scores, derived, user’s, activity, Ideas, zone, internal, organization, API, version, 28.0, later]
 ---

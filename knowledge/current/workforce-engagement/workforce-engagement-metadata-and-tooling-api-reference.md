@@ -5,7 +5,7 @@ topic: workforce-engagement-metadata-and-tooling-api-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.679Z
+lastCollected: 2026-04-07T09:06:19.500Z
 estimatedTokens: 336
 keywords: [Workforce, Engagement, Metadata, Tooling, API, enable, gain, access, components, objects]
 ---

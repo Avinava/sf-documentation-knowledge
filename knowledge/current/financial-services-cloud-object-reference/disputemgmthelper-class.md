@@ -5,7 +5,7 @@ topic: disputemgmthelper-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:27.900Z
+lastCollected: 2026-04-07T09:03:46.369Z
 estimatedTokens: 199
 keywords: [DisputeMgmtHelper, callable, provide, data, helper, functions, Transaction, Dispute, Management, OmniScript, raising, creating, merchant, alert]
 ---

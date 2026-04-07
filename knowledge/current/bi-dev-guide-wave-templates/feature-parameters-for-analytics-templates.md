@@ -5,7 +5,7 @@ topic: feature-parameters-for-analytics-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.536Z
+lastCollected: 2026-04-07T09:03:15.867Z
 estimatedTokens: 437
 keywords: [Feature, Analytics, Templates, control, behavior, template-to-app, process, CRM, apps, defined, metadata, deployed, part, managed, package]
 ---

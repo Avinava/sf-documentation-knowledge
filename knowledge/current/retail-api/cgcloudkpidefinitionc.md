@@ -5,7 +5,7 @@ topic: cgcloudkpidefinitionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:38.936Z
+lastCollected: 2026-04-07T09:05:20.439Z
 estimatedTokens: 5344
 keywords: [cgcloud__KPI_Definition__c, measure, derived, current, KPI_Set, json, file, API, version, 54.0, later, cgcloud, _KPI, _Definition, Calls]
 ---

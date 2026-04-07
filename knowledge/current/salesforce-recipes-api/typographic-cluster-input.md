@@ -5,7 +5,7 @@ topic: typographic-cluster-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.547Z
+lastCollected: 2026-04-07T09:05:25.131Z
 estimatedTokens: 155
 keywords: [Typographic, Cluster, Input, configuration, algorithm]
 ---

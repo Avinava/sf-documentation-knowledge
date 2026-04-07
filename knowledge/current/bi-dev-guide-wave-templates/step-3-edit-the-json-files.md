@@ -5,7 +5,7 @@ topic: step-3-edit-the-json-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.499Z
+lastCollected: 2026-04-07T09:03:15.802Z
 estimatedTokens: 1515
 keywords: [Step, Edit, JSON, Files, source, app, looks, fantastic, widgets, rendered, beautifully, their, dashboards, template, gives]
 ---

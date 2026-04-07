@@ -5,7 +5,7 @@ topic: contactsservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.937Z
+lastCollected: 2026-04-07T09:04:25.243Z
 estimatedTokens: 401
 keywords: [ContactsService, Here’s, minimal, Lightning, web, component, uses, select, on-device, contacts, process, contact, data]
 ---

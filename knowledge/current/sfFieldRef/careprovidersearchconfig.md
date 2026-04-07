@@ -5,7 +5,7 @@ topic: careprovidersearchconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.162Z
+lastCollected: 2026-04-07T09:05:38.368Z
 estimatedTokens: 342
 keywords: [CareProviderSearchConfig, appear, provider, search, results, specify, arbitrary, objects, source, made, target, API, version, 48.0, later]
 ---

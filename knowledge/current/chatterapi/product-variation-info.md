@@ -5,8 +5,8 @@ topic: product-variation-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.614Z
-estimatedTokens: 187
+lastCollected: 2026-04-07T09:03:35.122Z
+estimatedTokens: 212
 keywords: [Product, Variation, Info, attributes, metadata, mappings, attribute, combinations, IDs]
 ---
 
@@ -23,6 +23,7 @@ Product variation attributes, metadata, and mappings of attribute combinations t
 | --- | --- | --- | --- | --- |
 | attributesTo​ProductMappings | Product Attributes to Product Entry[] | List ordered by ProductAttribute.Sequence values that map the attribute value combinations to the variation product ID. | Small, 50.0 | 50.0 |
 | variationAttribute​Info | Map<String, Product Attribute Info> | Map of field API name to product attribute information. | Small, 51.0 | 51.0 |
+| variation​Count | Integer | Total count of available product variations. | Small, 66.0 | 66.0 |
 
 #### See Also
 

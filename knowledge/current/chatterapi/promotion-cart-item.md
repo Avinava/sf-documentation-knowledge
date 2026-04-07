@@ -5,7 +5,7 @@ topic: promotion-cart-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.664Z
+lastCollected: 2026-04-07T09:03:35.195Z
 estimatedTokens: 712
 keywords: [Promotion, Cart, Item, adjustments]
 ---

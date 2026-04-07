@@ -5,7 +5,7 @@ topic: lightning-component-code-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T09:35:27.222Z
+lastCollected: 2026-04-07T09:05:04.108Z
 estimatedTokens: 1106
 keywords: [Lightning, Component, Code, Examples, show, how, <force, canvasApp>, applicationName, developerName, namespacePrefix, Detail, Standard]
 ---

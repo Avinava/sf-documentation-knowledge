@@ -6,7 +6,7 @@ topic: api-error-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.019Z
+lastCollected: 2026-04-07T09:03:42.427Z
 estimatedTokens: 91
 keywords: [API, Error, Output, representation]
 ---

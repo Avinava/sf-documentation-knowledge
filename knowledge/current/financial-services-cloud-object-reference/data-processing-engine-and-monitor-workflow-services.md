@@ -5,8 +5,8 @@ topic: data-processing-engine-and-monitor-workflow-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:28.713Z
-estimatedTokens: 475
+lastCollected: 2026-04-07T09:03:47.667Z
+estimatedTokens: 472
 keywords: [Data, Processing, Engine, Monitor, Workflow, Services, helps, transform, that's, Salesforce, org, write, back, transformation, results]
 ---
 
@@ -29,7 +29,7 @@ Data Processing Engine helps you transform data that's available in your Salesfo
 
 Here's the data model for Data Processing Engine and Monitor Workflow Services:
 
-![Data model diagram of Data Processing Enginr and Monitor Workflow Services.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffsc_api%2Fimages%2Fdpe_data_model.png&folder=financial_services_cloud_object_reference)
+![Data model diagram of Data Processing Enginr and Monitor Workflow Services.](/docs/resources/img/en-us/260.0?doc_id=fsc_api%2Fimages%2Fdpe_data_model.png&folder=financial_services_cloud_object_reference)
 
 Here is the list of developer resources you can use for Data Processing Engine:
 

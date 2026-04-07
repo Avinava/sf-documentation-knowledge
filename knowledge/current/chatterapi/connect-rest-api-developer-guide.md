@@ -5,8 +5,8 @@ topic: connect-rest-api-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.853Z
-estimatedTokens: 788
+lastCollected: 2026-04-07T09:03:37.050Z
+estimatedTokens: 834
 namespace: ConnectApi
 keywords: [Connect, REST, API, Developer, Integrate, mobile, apps, intranet, sites, third-party, web, applications, Salesforce, Responses, localized]
 ---
@@ -46,7 +46,7 @@ Many Connect REST API resource actions are exposed as static methods on Apex cla
 -   **[Connect REST API Resources](atlas.en-us.chatterapi.meta/chatterapi/connect_resources_overview.htm)**
     Connect REST API resources are sometimes called endpoints.
 -   **[Chatter REST API Resources](atlas.en-us.chatterapi.meta/chatterapi/connect_chatter_resources_overview.htm)**
-    These REST API resources require Chatter and can have different rate limit allocations.
+    These REST API resources require Chatter and have a per user, per application, per hour rate limit. This rate limit is different from other Connect REST API resources. When you exceed the rate limit, Chatter REST API resources return a 503 Service Unavailable error code.
 -   **[Connect REST API Request Bodies](atlas.en-us.chatterapi.meta/chatterapi/connect_requests.htm)**
     To perform a POST, PATCH, or PUT request, pass query parameters or create a request body formatted in either XML or JSON. This chapter lists the request bodies. The query parameters are listed with each resource.
 -   **[Connect REST API Response Bodies](atlas.en-us.chatterapi.meta/chatterapi/connect_responses.htm)**

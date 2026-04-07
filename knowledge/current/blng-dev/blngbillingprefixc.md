@@ -5,7 +5,7 @@ topic: blngbillingprefixc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.253Z
+lastCollected: 2026-04-07T09:03:16.967Z
 estimatedTokens: 340
 keywords: [blng__BillingPrefix__c, prefix, appended, billing-related, records, storage, purposes, blng, _BillingPrefix, Calls]
 ---

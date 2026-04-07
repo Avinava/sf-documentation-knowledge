@@ -5,7 +5,7 @@ topic: connectors-stats
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.094Z
+lastCollected: 2026-04-07T09:03:10.340Z
 estimatedTokens: 120
 keywords: [Connectors, Stats, statistics, Analytics]
 ---

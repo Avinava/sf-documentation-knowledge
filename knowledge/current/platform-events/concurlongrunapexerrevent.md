@@ -5,7 +5,7 @@ topic: concurlongrunapexerrevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.427Z
+lastCollected: 2026-04-07T09:05:05.963Z
 estimatedTokens: 1230
 keywords: [ConcurLongRunApexErrEvent, Notifies, subscribers, errors, occur, Salesforce, org, exceeds, concurrent, long-running, Apex, limit, high, volume, events]
 ---

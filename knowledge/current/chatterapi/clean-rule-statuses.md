@@ -5,7 +5,7 @@ topic: clean-rule-statuses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.737Z
+lastCollected: 2026-04-07T09:03:24.695Z
 estimatedTokens: 99
 keywords: [Clean, Rule, Statuses, active, data, integration, rules, record]
 ---

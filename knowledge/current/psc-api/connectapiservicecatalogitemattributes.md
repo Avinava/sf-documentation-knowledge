@@ -5,7 +5,7 @@ topic: connectapiservicecatalogitemattributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.690Z
+lastCollected: 2026-04-07T09:05:07.518Z
 estimatedTokens: 98
 keywords: [ConnectApi.ServiceCatalogItemAttributes, Output, Service, Catalog, Item, Attribute, records]
 ---

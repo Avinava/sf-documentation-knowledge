@@ -5,7 +5,7 @@ topic: template-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:04.653Z
+lastCollected: 2026-04-07T09:03:11.302Z
 estimatedTokens: 184
 keywords: [Template, Release, Notes, Analytics]
 ---

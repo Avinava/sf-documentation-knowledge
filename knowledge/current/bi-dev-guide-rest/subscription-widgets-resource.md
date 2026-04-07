@@ -5,7 +5,7 @@ topic: subscription-widgets-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.837Z
+lastCollected: 2026-04-07T09:03:09.884Z
 estimatedTokens: 193
 keywords: [Subscription, Widgets, Resource, widget]
 ---

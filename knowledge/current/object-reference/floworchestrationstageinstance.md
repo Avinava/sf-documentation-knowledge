@@ -5,8 +5,8 @@ topic: floworchestrationstageinstance
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.362Z
-estimatedTokens: 968
+lastCollected: 2026-04-07T09:04:41.609Z
+estimatedTokens: 1056
 keywords: [FlowOrchestrationStageInstance, run-time, instance, stage, orchestration, read-only, API, version, 53.0, later, Calls, Special, Access, Rules, Associated]
 ---
 
@@ -21,7 +21,7 @@ Represents a run-time instance of a stage in a run-time instance of an orchestra
 
 ## Supported Calls
 
-describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve()
+create(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), update(), upsert()
 
 ## Special Access Rules
 
@@ -31,12 +31,13 @@ If sharing rules are defined for FlowOrchestrationStageInstance, they determine 
 
 | Field | Details |
 | --- | --- |
-| Label | TypestringPropertiesFilter, Group, SortDescriptionThe label for the flow orchestration stage instance. This label helps users and administrators differentiate between step instances from the same orchestration. |
-| Name | TypestringPropertiesFilter, Group, idLookup, SortDescriptionThe API name for the flow orchestration stage instance. |
-| OrchestrationInstanceId | TypereferencePropertiesFilter, Group, SortDescriptionThe ID of the FlowOrchestrationInstance associated with the orchestration stage instance.This field is a relationship field.Relationship NameOrchestrationInstanceRelationship TypeLookupRefers ToFlowOrchestrationInstance |
-| OwnerId | TypereferencePropertiesFilter, Group, Sort, UpdateDescriptionThe ID of the automated process user. This field is available in API version 56.0 and later.Relationship NameOwnerRelationship TypeLookupRefers ToUser |
-| Position | TypeintPropertiesFilter, Group, SortDescriptionFor internal use only. |
-| Status | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionThe run status of the orchestration stage instance. Valid values are:Completed—The stage instance completed.Discontinued—The stage was in progress or completed when the orchestration instance encountered an error.Error—The stage instance encountered an error, an instance of a background step within the stage encountered and error, or an autolaunched flow called by a background step within the stage encountered an error.InProgress—The stage instance is in progress.Suspended—The stage was in progress when the orchestration instance was manually suspended. |
+| Label | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe label for the flow orchestration stage instance. This label helps users and administrators differentiate between step instances from the same orchestration. |
+| Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe API name for the flow orchestration stage instance. |
+| OrchestrationInstanceId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe ID of the FlowOrchestrationInstance associated with the orchestration stage instance.This field is a relationship field.Relationship NameOrchestrationInstanceRelationship TypeLookupRefers ToFlowOrchestrationInstance |
+| OrchestrationName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe API name of flow orchestration stage instance. This field is available in API version 66.0 and later. |
+| OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the automated process user. This field is available in API version 56.0 and later.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
+| Position | TypeintPropertiesCreate, Filter, Group, Sort, UpdateDescriptionFor internal use only. |
+| Status | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe run status of the orchestration stage instance. Valid values are:Completed—The stage instance completed.Discontinued—The stage was in progress or completed when the orchestration instance encountered an error.Error—The stage instance encountered an error, an instance of a background step within the stage encountered and error, or an autolaunched flow called by a background step within the stage encountered an error.InProgress—The stage instance is in progress.Suspended—The stage was in progress when the orchestration instance was manually suspended. |
 
 ## Associated Objects
 

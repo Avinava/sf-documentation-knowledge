@@ -5,7 +5,7 @@ topic: billingschedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:05.535Z
+lastCollected: 2026-04-07T09:04:35.734Z
 estimatedTokens: 2100
 keywords: [BillingSchedule, Stores, order, item, invoicing, process, API, version, 55.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: consumer-sales-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.115Z
+lastCollected: 2026-04-07T09:03:39.410Z
 estimatedTokens: 314
 keywords: [Consumer, Sales, Standard, Objects, adds, Salesforce, features, represent, specific, business-to-consumer, B2C]
 ---

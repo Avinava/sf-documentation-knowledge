@@ -5,7 +5,7 @@ topic: managing-package-version-settings-for-visualforce-pages-and-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.898Z
+lastCollected: 2026-04-07T09:04:59.595Z
 estimatedTokens: 770
 keywords: [Managing, Package, Version, Settings, Visualforce, Pages, Components, markup, references, installed, managed, packages, referenced, saved, aid]
 ---

@@ -5,7 +5,7 @@ topic: remote-process-invocationrequest-and-reply
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.286Z
+lastCollected: 2026-04-07T09:04:04.342Z
 estimatedTokens: 4018
 keywords: [Remote, Process, Invocation—Request, Reply, Salesforce, track, leads, manage, pipeline, opportunities, capture, order, convert, customers, system]
 ---

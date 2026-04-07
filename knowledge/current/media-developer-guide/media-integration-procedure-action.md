@@ -5,7 +5,7 @@ topic: media-integration-procedure-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.846Z
+lastCollected: 2026-04-07T09:04:20.764Z
 estimatedTokens: 488
 keywords: [Media, Integration, Procedure, Action, Call, Salesforce, Flow, process, content, Special, Access, Rules, REST, HTTP, Inputs]
 ---

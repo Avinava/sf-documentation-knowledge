@@ -5,7 +5,7 @@ topic: locationservice-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.113Z
+lastCollected: 2026-04-07T09:04:25.433Z
 estimatedTokens: 316
 keywords: [LocationService, Here’s, basic, Lightning, web, component, user’s, current, location, displays, map]
 ---

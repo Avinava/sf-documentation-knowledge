@@ -5,8 +5,8 @@ topic: packagesubscriber
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.270Z
-estimatedTokens: 927
+lastCollected: 2026-04-07T09:04:46.116Z
+estimatedTokens: 1097
 keywords: [PackageSubscriber, installation, package, org, managed, unlocked, packages, developed, you’re, logged, Calls, Special, Access, Rules, Usage]
 ---
 
@@ -40,8 +40,11 @@ For unlocked packages, push upgrades are enabled by default.
 
 | Field Name | Details |
 | --- | --- |
+| CustomUpgradeType | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionThe type of push upgrade customization.Possible values are:BlockedBySubscriber—Blocked By SubscriberNoneThe default value is None. |
+| HasRestrictionEnabled | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the subscriber org has blocked push upgrades.The default value is false. |
 | InstalledStatus | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIf the package is installed in the org, the value is i. |
 | InstanceName | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe instance that hosts the subscriber org. |
+| IsCustomUpgradeAllowed | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the package developer has allowed a subscriber to opt into customized push upgrades.The default value is false. |
 | MetadataPackageId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe package ID. Package Ids have a prefix of 033. This field is available in API version 49.0 and later. |
 | MetadataPackageVersionId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe 18-character package version ID starting with 04t. |
 | OrgKey | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe 15-character ID that represents the Salesforce org. |

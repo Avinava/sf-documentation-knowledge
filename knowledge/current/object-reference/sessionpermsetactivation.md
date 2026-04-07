@@ -5,7 +5,7 @@ topic: sessionpermsetactivation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:16.986Z
+lastCollected: 2026-04-07T09:04:49.394Z
 estimatedTokens: 672
 keywords: [SessionPermSetActivation, permission, assignment, activated, individual, user, session, inserted, activation, event, fires, allowing, settings, apply, user’s]
 ---

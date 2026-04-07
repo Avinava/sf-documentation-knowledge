@@ -5,7 +5,7 @@ topic: menus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.889Z
+lastCollected: 2026-04-07T09:04:12.548Z
 estimatedTokens: 227
 keywords: [Menus, menu, dropdown, trigger, visibility, items, accessible, lightning, buttonMenu, Provide, text, label, assistive, specify, menuItem]
 ---

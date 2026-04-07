@@ -5,7 +5,7 @@ topic: cgcsyncsynchistoryc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.701Z
+lastCollected: 2026-04-07T09:05:18.871Z
 estimatedTokens: 1260
 keywords: [cgc_sync__Sync_History__c, Stores, every, sync, that's, performed, mobile, app, along, status, associated, Key, Performance, Indicators, KPIs]
 ---

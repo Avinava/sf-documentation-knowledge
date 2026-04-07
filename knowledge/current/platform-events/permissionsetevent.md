@@ -5,7 +5,7 @@ topic: permissionsetevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.075Z
+lastCollected: 2026-04-07T09:05:06.683Z
 estimatedTokens: 2874
 keywords: [PermissionSetEvent, Tracks, changes, permission, groups, event, initiates, added, removed, containing, critical, assigned, unassigned, API, version]
 ---
@@ -55,7 +55,7 @@ No
 | HasExternalUsers | TypebooleanPropertiesNillableDescriptionWhen true, external users are impacted by the operation that triggered a permission change. The default value is false. |
 | ImpactedUserIds | TypejsonPropertiesNillableDescriptionA comma-separated list of IDs of the users affected by the event. A maximum of 1,000 user IDs are included.For example, if a permission set assigned to two users is updated, the users’ IDs are recorded in this field. |
 | LoginHistoryId | TypereferencePropertiesNillableDescriptionTracks a user session so you can correlate user activity with a particular series of permission set events. This field is also available in the LoginEvent, AuthSession, and LoginHistory objects, making it easier to trace events back to a user’s original authentication. For example, 0YaB000002knVQLKA2.This is a relationship field.Relationship NameLoginHistoryRelationship TypeLookupRefers ToLoginHistory |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | Operation | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe type of operation that triggers a permission change.Possible values are:AssignedToUsers—A permission set or permission set group is assigned to one or more users.CriticalPerms—This deprecated value indicates the critical permissions are enabled.PermsDisabled—Permissions are disabled.PermsEnabled—Permissions are enabled.UnassignedFromUsers—A permission set or permission set group is unassigned from one or more users. |
 | ParentIdList | TypejsonPropertiesNillableDescriptionThe IDs of the affected permission sets or permission set groups. |
 | ParentNameList | TypejsonPropertiesNillableDescriptionThe names of the affected permission sets or permission set groups. |

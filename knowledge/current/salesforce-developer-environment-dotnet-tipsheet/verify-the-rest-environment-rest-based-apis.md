@@ -6,7 +6,7 @@ topic: verify-the-rest-environment-rest-based-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.265Z
+lastCollected: 2026-04-07T09:05:23.069Z
 estimatedTokens: 513
 keywords: [Verify, REST, Environment, REST-Based, APIs, developer, simple, test, application, Visual, Studio]
 ---

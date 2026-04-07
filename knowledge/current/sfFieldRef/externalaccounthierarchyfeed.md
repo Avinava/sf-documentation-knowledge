@@ -5,7 +5,7 @@ topic: externalaccounthierarchyfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.758Z
+lastCollected: 2026-04-07T09:05:45.539Z
 estimatedTokens: 393
 keywords: [ExternalAccountHierarchyFeed, Feed, tracking, ExternalAccountHierarchy]
 ---

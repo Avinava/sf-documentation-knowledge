@@ -5,7 +5,7 @@ topic: party-profile-risk-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:49.169Z
+lastCollected: 2026-04-07T09:02:51.763Z
 estimatedTokens: 295
 keywords: [Party, Profile, Risk, Input, representation]
 ---

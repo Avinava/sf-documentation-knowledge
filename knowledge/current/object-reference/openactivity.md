@@ -5,7 +5,7 @@ topic: openactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.441Z
+lastCollected: 2026-04-07T09:04:45.178Z
 estimatedTokens: 3424
 keywords: [OpenActivity, read-only, open, activities—future, events, tasks—related, includes, activities, contacts, phone, calls, organization, uses, Salesforce, CRM]
 ---
@@ -116,6 +116,7 @@ LIMIT 1
 
 ## Related Topics
 
-- ID Field Type (atlas.en-us.object_reference.meta/object_reference/field_types.htm)
+- ID Field
+            Type (atlas.en-us.object_reference.meta/object_reference/field_types.htm)
 - EmailMessage (atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_emailmessage.htm)
 - Task (atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_task.htm)

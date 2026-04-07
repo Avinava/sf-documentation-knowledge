@@ -5,7 +5,7 @@ topic: channel-order-app-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.713Z
+lastCollected: 2026-04-07T09:04:54.633Z
 estimatedTokens: 249
 keywords: [Channel, Order, App, Permission, control, access, COA, User, Admin, determine, how, users, interact, objects, features]
 ---

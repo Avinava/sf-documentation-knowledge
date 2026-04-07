@@ -5,7 +5,7 @@ topic: grantmaking-tooling-api-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.788Z
+lastCollected: 2026-04-07T09:04:32.520Z
 estimatedTokens: 268
 keywords: [Grantmaking, Tooling, API, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve, smaller, pieces]
 ---

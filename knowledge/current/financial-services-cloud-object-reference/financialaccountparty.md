@@ -5,7 +5,7 @@ topic: financialaccountparty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.021Z
+lastCollected: 2026-04-07T09:03:48.033Z
 estimatedTokens: 1368
 keywords: [FinancialAccountParty, role, played, person, organization, involved, financial, account, beneficiary, owner, trustee, API, version, 61.0, later]
 ---

@@ -5,7 +5,7 @@ topic: settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.327Z
+lastCollected: 2026-04-07T09:04:16.249Z
 estimatedTokens: 301
 keywords: [Settings, Retrieves, Chat, deployment, that’s, associated, session, establish, visitor’s]
 ---

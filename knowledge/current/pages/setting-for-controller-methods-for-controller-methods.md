@@ -5,7 +5,7 @@ topic: setting-for-controller-methods-for-controller-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.339Z
+lastCollected: 2026-04-07T09:04:58.754Z
 estimatedTokens: 441
 keywords: [Setting, Controller, Visualforce, limitations, Apex, ReadOnly, annotation, itself, isn’t, read-only, mode]
 ---

@@ -5,7 +5,7 @@ topic: surveys-for-authenticated-participants
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.581Z
+lastCollected: 2026-04-07T09:05:23.559Z
 estimatedTokens: 321
 keywords: [Surveys, Authenticated, Participants, Salesforce, Feedback, Management, SFM, APIs, survey, invitations, enable, responses]
 ---

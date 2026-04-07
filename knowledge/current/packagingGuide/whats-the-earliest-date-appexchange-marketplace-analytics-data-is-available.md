@@ -5,7 +5,7 @@ topic: whats-the-earliest-date-appexchange-marketplace-analytics-data-is-availab
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.005Z
+lastCollected: 2026-04-07T09:04:55.096Z
 estimatedTokens: 50
 keywords: [What’s, Earliest, Date, AppExchange, Marketplace, Analytics, Data, activity, occurred, listing, August, later]
 ---

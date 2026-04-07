@@ -5,7 +5,7 @@ topic: serialize-hierarchical-context-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:43.829Z
+lastCollected: 2026-04-07T09:04:07.939Z
 estimatedTokens: 236
 keywords: [Serialize, Hierarchical, Context, Data, Serializes, Apex, embeddedai__RecordApexRepresentation, records, passed, input, prompt, template, generates, summary, REST]
 ---

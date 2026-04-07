@@ -5,7 +5,7 @@ topic: validations-for-aura-component-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:49.981Z
+lastCollected: 2026-04-07T09:04:15.660Z
 estimatedTokens: 404
 keywords: [Validations, Aura, Component, Code, Validate, ensure, compatibility, APIs, best, practices, avoidance, anti-patterns, There, several, ways]
 ---

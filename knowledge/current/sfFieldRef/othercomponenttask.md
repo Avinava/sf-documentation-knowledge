@@ -5,7 +5,7 @@ topic: othercomponenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.194Z
+lastCollected: 2026-04-07T09:05:57.002Z
 estimatedTokens: 339
 keywords: [OtherComponentTask, component, task, performed, visit, customers, launch, components, framework, API, version, 50.0, later]
 ---

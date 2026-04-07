@@ -5,7 +5,7 @@ topic: download-provider-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.544Z
+lastCollected: 2026-04-07T09:04:06.121Z
 estimatedTokens: 272
 keywords: [Download, Provider, POST, Health, Care, data, external, system, Salesforce, org, search, performed]
 ---

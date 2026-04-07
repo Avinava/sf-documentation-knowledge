@@ -5,7 +5,7 @@ topic: custom-recommendation-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:12.670Z
+lastCollected: 2026-04-07T09:03:23.250Z
 estimatedTokens: 337
 keywords: [Custom, Recommendation, Definition, Input]
 ---

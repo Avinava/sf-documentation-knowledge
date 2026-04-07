@@ -5,7 +5,7 @@ topic: communicating-with-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.895Z
+lastCollected: 2026-04-07T09:04:14.029Z
 estimatedTokens: 1163
 keywords: [Communicating, Events, framework, uses, event-driven, programming, write, handlers, respond, they, occur, may, triggered, user, interaction]
 ---

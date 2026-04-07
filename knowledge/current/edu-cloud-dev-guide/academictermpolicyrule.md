@@ -5,7 +5,7 @@ topic: academictermpolicyrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.791Z
+lastCollected: 2026-04-07T09:03:43.493Z
 estimatedTokens: 717
 keywords: [AcademicTermPolicyRule, junction, Academic, Term, Expression, objects, policy, rule, API, version, 63.0, later, Calls, Associated]
 ---

@@ -5,7 +5,7 @@ topic: health-insurance
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.106Z
+lastCollected: 2026-04-07T09:03:54.466Z
 estimatedTokens: 1192
 keywords: [Health, Insurance, data, model, objects, managing, ways, care, paid, participants, employment, coverage, dependents, manage, benefits]
 ---

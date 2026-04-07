@@ -5,7 +5,7 @@ topic: getallquotegroup-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.952Z
+lastCollected: 2026-04-07T09:03:45.011Z
 estimatedTokens: 79
 keywords: [getAll_QuoteGroup, API, custom, quote, groups, sales, getAll, _QuoteGroup, URI, HTTP]
 ---

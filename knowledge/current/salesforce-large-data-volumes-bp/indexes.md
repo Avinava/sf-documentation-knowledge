@@ -5,8 +5,8 @@ topic: indexes
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:42.010Z
-estimatedTokens: 2062
+lastCollected: 2026-04-07T09:05:24.222Z
+estimatedTokens: 2056
 keywords: [Indexes, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any, effect, customer, implementations]
 ---
 
@@ -60,7 +60,7 @@ To create custom indexes for other field types, including standard fields, conta
 
 The Salesforce multitenant architecture makes the underlying data table for custom fields unsuitable for indexing. To overcome this limitation, the platform creates an index table that contains a copy of the data, along with information about the data types.
 
-![Index table and copy of data](/docs/resources/img/en-us/260.0?doc_id=cce%2Fldv_deployments%2Fimages%2Fldv_deployments_index_table.png&folder=salesforce_large_data_volumes_bp)
+![Index table and copy of data](/docs/resources/img/en-us/260.0?doc_id=images%2Fldv_deployments_index_table.png&folder=salesforce_large_data_volumes_bp)
 
 The platform builds a standard database index on this index table. The index table places upper limits on the number of records that an indexed search can effectively return.
 

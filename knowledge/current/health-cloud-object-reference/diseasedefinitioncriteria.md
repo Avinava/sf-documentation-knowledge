@@ -5,7 +5,7 @@ topic: diseasedefinitioncriteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.897Z
+lastCollected: 2026-04-07T09:03:55.465Z
 estimatedTokens: 819
 keywords: [DiseaseDefinitionCriteria, disease, definition, criteria, clinical, laboratory, epidemiologic, linkage, diagnose, diseases, API, version, 64.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: lens-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.782Z
+lastCollected: 2026-04-07T09:03:09.795Z
 estimatedTokens: 479
 keywords: [Lens, Resources, Analytics, lenses, how, users, view, data, dataset, basis, building, any, dashboard, allow, manage]
 ---

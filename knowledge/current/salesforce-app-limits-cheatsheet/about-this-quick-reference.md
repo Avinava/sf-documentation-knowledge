@@ -5,7 +5,7 @@ topic: about-this-quick-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.153Z
+lastCollected: 2026-04-07T09:05:22.901Z
 estimatedTokens: 320
 keywords: [Quick, common, limits, allocations, Salesforce, doesn’t, cover, contain, don’t, apply, org, Stated, aren’t, promise, resource]
 ---

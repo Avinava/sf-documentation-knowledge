@@ -5,7 +5,7 @@ topic: gap-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.646Z
+lastCollected: 2026-04-07T09:03:18.645Z
 estimatedTokens: 1253
 keywords: [Gap, Events, Salesforce, sometimes, instead, change, inform, subscribers, errors, it’s, possible, generate, event, record, doesn’t]
 ---

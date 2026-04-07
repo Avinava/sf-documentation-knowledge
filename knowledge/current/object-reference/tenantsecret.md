@@ -5,7 +5,7 @@ topic: tenantsecret
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:17.825Z
+lastCollected: 2026-04-07T09:04:50.490Z
 estimatedTokens: 2519
 keywords: [TenantSecret, stores, encrypted, organization-specific, key, fragment, that’s, primary, secret, KDF, seed, produce, org-specific, data, encryption]
 ---

@@ -5,7 +5,7 @@ topic: get-started-with-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.846Z
+lastCollected: 2026-04-07T09:04:54.834Z
 estimatedTokens: 358
 keywords: [Started, Environment, Hub, Configure, users, company, access, app, manage, member, orgs, connect, SSO, user, mappings]
 ---

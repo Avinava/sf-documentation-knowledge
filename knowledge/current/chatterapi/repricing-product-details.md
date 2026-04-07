@@ -5,7 +5,7 @@ topic: repricing-product-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.596Z
+lastCollected: 2026-04-07T09:03:28.716Z
 estimatedTokens: 388
 keywords: [Repricing, Product, web, store]
 ---

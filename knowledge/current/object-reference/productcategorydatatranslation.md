@@ -5,7 +5,7 @@ topic: productcategorydatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:15.313Z
+lastCollected: 2026-04-07T09:04:47.284Z
 estimatedTokens: 507
 keywords: [ProductCategoryDataTranslation, translated, data, stored, ProductCategory, record’s, API, version, 46.0, later, Calls, Special, Access, Rules, Usage]
 ---

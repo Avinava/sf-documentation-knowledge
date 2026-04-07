@@ -5,7 +5,7 @@ topic: quarterlastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.583Z
+lastCollected: 2026-04-07T09:03:14.376Z
 estimatedTokens: 27
 keywords: [quarter_last_day, date, day, quarter, specific, _last, _day]
 ---

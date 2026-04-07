@@ -5,7 +5,7 @@ topic: apextestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:47.236Z
+lastCollected: 2026-04-07T09:05:31.921Z
 estimatedTokens: 393
 namespace: TestNamespace
 keywords: [ApexTestResult, result, Apex, test, execution, API, version, 23.0, later]

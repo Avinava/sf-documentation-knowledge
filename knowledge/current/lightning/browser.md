@@ -5,7 +5,7 @@ topic: browser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.937Z
+lastCollected: 2026-04-07T09:04:14.085Z
 estimatedTokens: 426
 keywords: [$Browser, provider, hardware, operating, system, browser, accessing, application]
 ---

@@ -5,7 +5,7 @@ topic: out-of-sequence-endorse-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.713Z
+lastCollected: 2026-04-07T09:04:03.501Z
 estimatedTokens: 128
 keywords: [Out-of-Sequence, Endorse, Policy, Output, representation, sequence, endorsement, process]
 ---

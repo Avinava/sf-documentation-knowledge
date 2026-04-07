@@ -5,7 +5,7 @@ topic: flow-for-digital-lending
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:52.667Z
+lastCollected: 2026-04-07T09:02:55.311Z
 estimatedTokens: 278
 keywords: [Flow, Digital, Lending, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---

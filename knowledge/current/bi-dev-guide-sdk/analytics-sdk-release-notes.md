@@ -5,7 +5,7 @@ topic: analytics-sdk-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:06.899Z
+lastCollected: 2026-04-07T09:03:14.825Z
 estimatedTokens: 176
 keywords: [Analytics, SDK, Release, Notes, Salesforce, recent, updates, changes]
 ---

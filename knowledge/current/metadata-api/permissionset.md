@@ -5,7 +5,7 @@ topic: permissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:08.841Z
+lastCollected: 2026-04-07T09:02:42.827Z
 estimatedTokens: 5038
 keywords: [PermissionSet, permissions, that's, grant, access, users, changing, their, profile, reassigning, profiles, permission, deny, Declarative, Metadata]
 ---

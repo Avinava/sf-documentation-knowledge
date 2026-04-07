@@ -5,7 +5,7 @@ topic: emailrelay
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.402Z
+lastCollected: 2026-04-07T09:04:39.341Z
 estimatedTokens: 1206
 keywords: [EmailRelay, configuration, sending, email, relay, routes, sent, Salesforce, company’s, servers, API, version, 43.0, later, Calls]
 ---

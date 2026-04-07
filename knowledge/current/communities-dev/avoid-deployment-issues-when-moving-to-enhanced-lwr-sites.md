@@ -5,7 +5,7 @@ topic: avoid-deployment-issues-when-moving-to-enhanced-lwr-sites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:23.334Z
+lastCollected: 2026-04-07T09:03:39.795Z
 estimatedTokens: 894
 keywords: [Avoid, Deployment, Issues, Moving, Enhanced, LWR, Sites, Winter, ’24, longer, disable, content, platform, introduced, ’23]
 ---

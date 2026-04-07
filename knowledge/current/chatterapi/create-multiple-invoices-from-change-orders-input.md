@@ -5,7 +5,7 @@ topic: create-multiple-invoices-from-change-orders-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.439Z
+lastCollected: 2026-04-07T09:03:21.185Z
 estimatedTokens: 265
 keywords: [Multiple, Invoices, Change, Orders, Input, Data]
 ---

@@ -5,7 +5,7 @@ topic: portaldelegablepermissionset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.943Z
+lastCollected: 2026-04-07T09:04:46.833Z
 estimatedTokens: 317
 keywords: [PortalDelegablePermissionSet, base, platform, store, permission, assigned, delegated, portal, external, user, admin, DPUA, users, API, version]
 ---

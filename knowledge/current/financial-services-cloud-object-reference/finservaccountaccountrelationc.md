@@ -5,7 +5,7 @@ topic: finservaccountaccountrelationc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.291Z
+lastCollected: 2026-04-07T09:03:48.361Z
 estimatedTokens: 1030
 keywords: [FinServ_AccountAccountRelation__c, relationship, two, accounts, household, business, account, FinServ, _AccountAccountRelation, Calls]
 ---
@@ -50,4 +50,4 @@ To avoid DML errors on insert, read-only access at minimum is required for all f
 | ShareholderType__c | TypemultipicklistPropertiesCreate, Filter, Nillable, UpdateDescriptionSpecifies the type of the shareholder.Possible values are:ShareholdingVoting RightsBeneficiary of a TrustSole ProprietorPartner |
 | SourceSystemId__c | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionID that uniquely identifies the relationship in an external data source. |
 | StartDate__c | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDate when the relationship started. |
-| TotalSharePercent__c | TypepercentPropertiesCreate, Filter, Nillable,Sort, UpdateDescriptionThe total percentage of shares owned by the stakeholder, combining both direct and indirect ownership. |
+| TotalSharePercent__c | TypepercentPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total percentage of shares owned by the stakeholder, combining both direct and indirect ownership. |

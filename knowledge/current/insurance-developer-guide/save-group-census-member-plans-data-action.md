@@ -5,8 +5,8 @@ topic: save-group-census-member-plans-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.734Z
-estimatedTokens: 488
+lastCollected: 2026-04-07T09:04:00.246Z
+estimatedTokens: 487
 keywords: [Save, Group, Census, Member, Plans, Data, Action, Validate, new, members, Special, Access, Rules, REST, HTTP]
 ---
 
@@ -31,7 +31,7 @@ To use this invocable action, you must have Digital Insurance Group Benefits Cen
 
 URI
 
-/services/data/v66.0/actions/standard/saveGrpCensusMbrPlansData
+/services/data/v/actions/standard/saveGrpCensusMbrPlansData
 
 Formats
 

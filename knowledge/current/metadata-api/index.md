@@ -5,7 +5,7 @@ topic: index
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:07.465Z
+lastCollected: 2026-04-07T09:02:41.319Z
 estimatedTokens: 775
 keywords: [Index, defined, custom, big, metadata, define, composite, primary, key, extends, inherits, fullName, File, Suffix, Directory]
 ---

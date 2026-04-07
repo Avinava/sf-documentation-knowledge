@@ -5,7 +5,7 @@ topic: example-responses-to-false-positives-in-a-security-review-failure-report
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.226Z
+lastCollected: 2026-04-07T09:04:55.577Z
 estimatedTokens: 390
 keywords: [Responses, Positives, Security, Review, Failure, Report, how, document, listed, Salesforce, It’s, written, support, retest, submission]
 ---

@@ -5,7 +5,7 @@ topic: direct-store-delivery
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.695Z
+lastCollected: 2026-04-07T09:05:17.353Z
 estimatedTokens: 109
 keywords: [Direct, Store, Delivery, DSD, supply, chain, model, manufacturer, sells, goods, directly, retailers, process, orders, payments]
 ---

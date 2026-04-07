@@ -5,7 +5,7 @@ topic: retrievalsummarydefobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:12.624Z
+lastCollected: 2026-04-07T09:06:05.572Z
 estimatedTokens: 290
 keywords: [RetrievalSummaryDefObject, stores, rollup, definitions, retrieval, definition, API, version, 61.0, later]
 ---

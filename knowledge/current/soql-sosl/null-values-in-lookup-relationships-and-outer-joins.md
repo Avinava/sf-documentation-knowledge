@@ -6,7 +6,7 @@ topic: null-values-in-lookup-relationships-and-outer-joins
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.575Z
+lastCollected: 2026-04-07T09:06:14.901Z
 estimatedTokens: 378
 keywords: [Lookup, Relationships, Outer, Joins, Relationship, SOQL, queries, records, relevant, foreign, key, join]
 ---

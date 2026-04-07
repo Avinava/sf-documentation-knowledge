@@ -5,7 +5,7 @@ topic: payment-gateway-core-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.921Z
+lastCollected: 2026-04-07T09:03:16.493Z
 estimatedTokens: 618
 keywords: [Payment, Gateway, Core, Classes, references, receive, transaction, Salesforce, Billing, They, can't, modified]
 ---

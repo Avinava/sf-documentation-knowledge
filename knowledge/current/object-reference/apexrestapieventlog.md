@@ -5,7 +5,7 @@ topic: apexrestapieventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:04.509Z
+lastCollected: 2026-04-07T09:04:34.583Z
 estimatedTokens: 1718
 keywords: [ApexRestApiEventLog, Apex, REST, API, event, logs, capture, every, version, 55.0, later, Calls, Special, Access, Rules]
 ---

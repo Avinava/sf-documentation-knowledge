@@ -5,7 +5,7 @@ topic: opportunitypartner
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.544Z
+lastCollected: 2026-04-07T09:05:56.159Z
 estimatedTokens: 355
 keywords: [OpportunityPartner, partner, relationship, Account, Opportunity, record, created, automatically]
 ---

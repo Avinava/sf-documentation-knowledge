@@ -5,7 +5,7 @@ topic: social-posts-intents-recall-publish-approval
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.692Z
+lastCollected: 2026-04-07T09:03:28.867Z
 estimatedTokens: 126
 keywords: [Social, Posts, Intents, Recall, Publish, Approval, post]
 ---

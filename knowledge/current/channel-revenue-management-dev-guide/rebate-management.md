@@ -5,7 +5,7 @@ topic: rebate-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:10.112Z
+lastCollected: 2026-04-07T09:03:19.385Z
 estimatedTokens: 669
 keywords: [Rebate, Management, programs, define, incentive, structure, benefits, corresponding, qualification, thresholds]
 ---

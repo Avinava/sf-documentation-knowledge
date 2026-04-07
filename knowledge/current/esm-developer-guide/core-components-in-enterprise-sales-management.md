@@ -5,7 +5,7 @@ topic: core-components-in-enterprise-sales-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.918Z
+lastCollected: 2026-04-07T09:03:44.945Z
 estimatedTokens: 745
 keywords: [Core, Components, Enterprise, Sales, Management, library, reusable, building, blocks, implementation, handle, specific, functions, across, various]
 ---

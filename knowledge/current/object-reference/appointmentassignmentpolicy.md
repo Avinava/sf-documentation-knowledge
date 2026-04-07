@@ -5,7 +5,7 @@ topic: appointmentassignmentpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:04.689Z
+lastCollected: 2026-04-07T09:04:34.801Z
 estimatedTokens: 525
 keywords: [AppointmentAssignmentPolicy, Stores, resource, assignment, rules, API, version, 52.0, later, Calls]
 ---

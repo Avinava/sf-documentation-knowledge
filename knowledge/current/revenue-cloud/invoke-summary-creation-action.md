@@ -5,7 +5,7 @@ topic: invoke-summary-creation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:11.977Z
+lastCollected: 2026-04-07T09:01:55.169Z
 estimatedTokens: 377
 keywords: [Invoke, Summary, Creation, Action, service, creates, various, summaries, usage, ratable, liable, amount, zero, checks, updates]
 ---

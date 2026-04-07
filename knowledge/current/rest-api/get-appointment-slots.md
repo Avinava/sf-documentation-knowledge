@@ -5,7 +5,7 @@ topic: get-appointment-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.922Z
+lastCollected: 2026-04-07T09:02:35.137Z
 estimatedTokens: 1775
 keywords: [Appointment, Slots, time, resource, work, group, service, territories]
 ---

@@ -5,7 +5,7 @@ topic: best-practices-for-rendering-pdf-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:22.133Z
+lastCollected: 2026-04-07T09:04:57.047Z
 estimatedTokens: 457
 keywords: [Best, Practices, Rendering, PDF, Files, Visualforce, file, great, way, share, Salesforce, organization, consider]
 ---

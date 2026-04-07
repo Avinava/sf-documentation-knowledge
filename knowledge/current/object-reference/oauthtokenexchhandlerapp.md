@@ -5,7 +5,7 @@ topic: oauthtokenexchhandlerapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.329Z
+lastCollected: 2026-04-07T09:04:45.025Z
 estimatedTokens: 456
 keywords: [OauthTokenExchHandlerApp, enablement, settings, specific, Salesforce, connected, app, external, client, that’s, enabled, token, exchange, handler, multiple]
 ---

@@ -5,7 +5,7 @@ topic: floworchestrationworkitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:10.398Z
+lastCollected: 2026-04-07T09:04:41.646Z
 estimatedTokens: 2357
 keywords: [FlowOrchestrationWorkItem, work, item, associated, run-time, instance, interactive, step, orchestration, API, version, 54.0, later, Calls, Special]
 ---

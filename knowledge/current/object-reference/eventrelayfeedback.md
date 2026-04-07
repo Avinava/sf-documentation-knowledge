@@ -5,7 +5,7 @@ topic: eventrelayfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.799Z
+lastCollected: 2026-04-07T09:04:40.942Z
 estimatedTokens: 1193
 keywords: [EventRelayFeedback, execution, state, event, relay, Salesforce, Amazon, EventBridge, platform, events, change, data, capture, Query, status]
 ---

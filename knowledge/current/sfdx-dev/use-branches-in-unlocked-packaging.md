@@ -5,7 +5,7 @@ topic: use-branches-in-unlocked-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.854Z
+lastCollected: 2026-04-07T09:06:13.943Z
 estimatedTokens: 563
 keywords: [Branches, Unlocked, Packaging, Development, teams, their, source, control, system, SCS, often, build, package, versions, metadata]
 ---

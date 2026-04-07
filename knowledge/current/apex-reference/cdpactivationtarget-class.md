@@ -5,7 +5,7 @@ topic: cdpactivationtarget-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:35.844Z
+lastCollected: 2026-04-07T09:02:10.494Z
 estimatedTokens: 1709
 namespace: ConnectApi
 keywords: [CdpActivationTarget, Data, activation, targets, createActivationTarget, input, API, Version, Requires, Chatter, getActivationTarget, activationTargetId, getActivationTargets, getActivationTargetsPaginated, batchSize]

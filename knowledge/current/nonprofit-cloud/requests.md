@@ -5,7 +5,7 @@ topic: requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.624Z
+lastCollected: 2026-04-07T09:04:29.628Z
 estimatedTokens: 121
 keywords: [Requests, Here’s, Case, Management, Business, API, bodies, Program, Record, Rollup, Definitions, APIs]
 ---

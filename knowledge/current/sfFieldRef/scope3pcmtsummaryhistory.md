@@ -5,7 +5,7 @@ topic: scope3pcmtsummaryhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.094Z
+lastCollected: 2026-04-07T09:06:06.219Z
 estimatedTokens: 270
 keywords: [Scope3PcmtSummaryHistory, History, tracked, Scope3PcmtSummary]
 ---

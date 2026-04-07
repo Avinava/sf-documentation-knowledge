@@ -5,7 +5,7 @@ topic: vehicleassetenrgyuse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.374Z
+lastCollected: 2026-04-07T09:04:29.328Z
 estimatedTokens: 3606
 keywords: [VehicleAssetEnrgyUse, fuel, consumption, vehicles, API, version, 54.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: datausepurpose
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.046Z
+lastCollected: 2026-04-07T09:04:08.264Z
 estimatedTokens: 245
 keywords: [DataUsePurpose, Standard, custom, extend, Data, Purpose, represent, reason, contacting, prospect, customer, API, version, 65.0, later]
 ---

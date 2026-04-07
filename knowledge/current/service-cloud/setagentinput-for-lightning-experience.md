@@ -5,7 +5,7 @@ topic: setagentinput-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.013Z
+lastCollected: 2026-04-07T09:03:03.892Z
 estimatedTokens: 237
 keywords: [setAgentInput, Lightning, Experience, text, agent's, box, showing, typing, indicators, works, console, apps, Arguments, argumentObj]
 ---

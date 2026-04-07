@@ -6,7 +6,7 @@ topic: schedule-appointments-with-a-dummy-resource-and-reassign-to-actual-resour
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.007Z
+lastCollected: 2026-04-07T09:05:27.397Z
 estimatedTokens: 553
 keywords: [Schedule, Appointments, Dummy, Resource, Reassign, Actual, Resources, how, concurrent, later, scenarios, scheduled, assigned, wealth, management]
 ---

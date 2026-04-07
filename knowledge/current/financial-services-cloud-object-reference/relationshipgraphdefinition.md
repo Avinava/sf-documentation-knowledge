@@ -5,7 +5,7 @@ topic: relationshipgraphdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.213Z
+lastCollected: 2026-04-07T09:03:48.259Z
 estimatedTokens: 718
 keywords: [RelationshipGraphDefinition, definition, graph, configure, organization, traverse, hierarchies, record, giving, glimpse, how, business, works, Parent, File, API, version]
 ---

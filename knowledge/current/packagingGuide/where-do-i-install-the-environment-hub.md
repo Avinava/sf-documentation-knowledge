@@ -5,7 +5,7 @@ topic: where-do-i-install-the-environment-hub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.842Z
+lastCollected: 2026-04-07T09:04:54.829Z
 estimatedTokens: 110
 keywords: [install, Environment, Hub, you’re, ISV, partner, already, installed, Business, Org]
 ---

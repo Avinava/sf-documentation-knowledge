@@ -5,7 +5,7 @@ topic: deployment-sfdevopsdeploymente
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.460Z
+lastCollected: 2026-04-07T09:03:41.542Z
 estimatedTokens: 490
 keywords: [Deployment, sf_devops__Deployment__e, Notifies, subscribers, work, item’s, metadata, deployed, pipeline, stage, API, version, 62.0, later, _devops]
 ---

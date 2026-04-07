@@ -5,7 +5,7 @@ topic: gift-commitment-transaction-matching-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.027Z
+lastCollected: 2026-04-07T09:04:30.236Z
 estimatedTokens: 94
 keywords: [Gift, Commitment, Transaction, Matching, Output, representation, transactions]
 ---

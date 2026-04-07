@@ -5,7 +5,7 @@ topic: runselectedmacro
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.657Z
+lastCollected: 2026-04-07T09:03:04.504Z
 estimatedTokens: 187
 keywords: [runSelectedMacro, Executes, selected, macro, widget, API, version, 36.0, later, isn’t, Lightning, Console, Arguments, Sample, Code–Visualforce]
 ---

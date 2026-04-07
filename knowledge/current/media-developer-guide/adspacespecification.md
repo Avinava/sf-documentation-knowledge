@@ -5,7 +5,7 @@ topic: adspacespecification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.809Z
+lastCollected: 2026-04-07T09:04:22.158Z
 estimatedTokens: 1915
 keywords: [AdSpaceSpecification, specific, place, group, places, creative, served, API, version, 54.0, later, Calls, Associated, Objects]
 ---

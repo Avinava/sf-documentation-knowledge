@@ -5,7 +5,7 @@ topic: transittime
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.749Z
+lastCollected: 2026-04-07T09:03:20.174Z
 estimatedTokens: 783
 keywords: [TransitTime, expected, duration, movement, locations, business, transit, time, inventory, move, two, API, version, 65.0, later]
 ---

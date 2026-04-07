@@ -5,7 +5,7 @@ topic: feed-elements-batch-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.111Z
+lastCollected: 2026-04-07T09:03:26.575Z
 estimatedTokens: 727
 keywords: [Feed, Elements, Batch, Post, binary, files, version, 35.0, earlier]
 ---

@@ -5,7 +5,7 @@ topic: deactivating-a-push-topic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.305Z
+lastCollected: 2026-04-07T09:03:05.063Z
 estimatedTokens: 54
 keywords: [Deactivating, Push, Topic, temporarily, deactivate, PushTopic, rather, deleting, setting, isActive]
 ---

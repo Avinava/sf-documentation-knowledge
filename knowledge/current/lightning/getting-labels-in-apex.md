@@ -5,7 +5,7 @@ topic: getting-labels-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.204Z
+lastCollected: 2026-04-07T09:04:14.454Z
 estimatedTokens: 605
 keywords: [Getting, Labels, Apex, retrieve, label, code, component, JavaScript, Custom, Passing, Retrieving, System.Label]
 ---

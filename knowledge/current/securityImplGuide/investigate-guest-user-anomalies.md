@@ -5,7 +5,7 @@ topic: investigate-guest-user-anomalies
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.951Z
+lastCollected: 2026-04-07T09:05:28.768Z
 estimatedTokens: 593
 keywords: [Investigate, Guest, User, Anomalies, It's, often, necessary, further, anomaly, determine, data, breach, occurred, rule, benign]
 ---

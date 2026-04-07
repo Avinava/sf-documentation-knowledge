@@ -5,7 +5,7 @@ topic: actionplantmplitmassessmentind
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.852Z
+lastCollected: 2026-04-07T09:05:12.497Z
 estimatedTokens: 349
 keywords: [ActionPlanTmplItmAssessmentInd, action, plan, template, items, assessment, indicator, definitions, associated, Calls]
 ---

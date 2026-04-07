@@ -5,7 +5,7 @@ topic: cgcsyncsyncmobileappcomponentc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.744Z
+lastCollected: 2026-04-07T09:05:18.923Z
 estimatedTokens: 409
 keywords: [cgc_sync__Sync_Mobile_App_Component__c, settings, different, customizable, components, theme, API, version, 53.0, later, cgc, _sync, _Mobile, _App, _Component]
 ---

@@ -5,7 +5,7 @@ topic: group-by-rollup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.790Z
+lastCollected: 2026-04-07T09:03:14.660Z
 estimatedTokens: 1403
 keywords: [group-by, rollup, subclause, creates, displays, aggregations, grouped, data, output, column, order, query, case, Statements]
 ---

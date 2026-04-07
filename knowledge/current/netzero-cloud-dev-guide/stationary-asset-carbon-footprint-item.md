@@ -5,7 +5,7 @@ topic: stationary-asset-carbon-footprint-item
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.576Z
+lastCollected: 2026-04-07T09:04:26.091Z
 estimatedTokens: 1246
 keywords: [Stationary, Asset, Carbon, Footprint, Item, total, tCO₂e, emissions, individual, fuel, child, records, record, automatically, generated]
 ---

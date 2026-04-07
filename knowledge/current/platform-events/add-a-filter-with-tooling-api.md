@@ -5,7 +5,7 @@ topic: add-a-filter-with-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.830Z
+lastCollected: 2026-04-07T09:05:05.162Z
 estimatedTokens: 693
 keywords: [Add, Filter, Tooling, API, channel, PlatformEventChannel, specify, version, 56.0, later]
 ---

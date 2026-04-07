@@ -5,7 +5,7 @@ topic: rest-resources-for-unit-testing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.297Z
+lastCollected: 2026-04-07T09:02:45.891Z
 estimatedTokens: 473
 keywords: [REST, Resources, Unit, Testing, Retrieve, execute, Apex, flow, tests, place, view, Test, Discovery, API, asynchronously]
 ---

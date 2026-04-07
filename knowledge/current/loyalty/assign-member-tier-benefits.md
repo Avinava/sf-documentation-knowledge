@@ -5,7 +5,7 @@ topic: assign-member-tier-benefits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.919Z
+lastCollected: 2026-04-07T09:04:18.368Z
 estimatedTokens: 205
 keywords: [Assign, Member, Tier, Benefits, loyalty, program, members, their, member’s, associated, Benefit, Action, REST, HTTP, Inputs]
 ---

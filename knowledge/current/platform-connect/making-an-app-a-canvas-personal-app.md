@@ -5,7 +5,7 @@ topic: making-an-app-a-canvas-personal-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.456Z
+lastCollected: 2026-04-07T09:05:04.530Z
 estimatedTokens: 559
 keywords: [Making, App, Canvas, Personal, enable, process, involves, ensuring, org, preference, active, activating, setting, app's, Detail]
 ---

@@ -5,7 +5,7 @@ topic: vpls360csr-updatephone
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.329Z
+lastCollected: 2026-04-07T09:04:21.521Z
 estimatedTokens: 135
 keywords: [vpls360csr-UpdatePhone, Omnistudio, Data, Mapper, loads, updates, phone, number, user, IDs, updated, records, Sample, Input, Output]
 ---

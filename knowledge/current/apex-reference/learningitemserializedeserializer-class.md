@@ -5,7 +5,7 @@ topic: learningitemserializedeserializer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.654Z
+lastCollected: 2026-04-07T09:02:18.175Z
 estimatedTokens: 1428
 keywords: [LearningItemSerializeDeserializer, Serializes, deserializes, content, associated, custom, exercise, migrating, Enablement, program, org, another, Usage, deserialize, serializedOutput]
 ---

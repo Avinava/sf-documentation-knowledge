@@ -5,7 +5,7 @@ topic: which-package-types-can-your-package-depend-on
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.040Z
+lastCollected: 2026-04-07T09:05:03.814Z
 estimatedTokens: 531
 keywords: [Package, Depend, second-generation, managed, packaging, 2GP, unlocked, let, easily, develop, small, interdependent, packages, share, logic]
 ---

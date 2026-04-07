@@ -5,7 +5,7 @@ topic: show-the-top-and-bottom-quartile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:06.302Z
+lastCollected: 2026-04-07T09:03:13.869Z
 estimatedTokens: 214
 keywords: [Show, Top, Bottom, Quartile, SAQL, calculate, percentiles, data, Deal, Size, Country]
 ---

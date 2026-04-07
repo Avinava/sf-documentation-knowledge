@@ -6,7 +6,7 @@ topic: increase-performance-of-the-contactlensprocessor-lambda-function
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.638Z
+lastCollected: 2026-04-07T09:06:17.910Z
 estimatedTokens: 541
 keywords: [Increase, Performance, ContactLensProcessor, Lambda, Function, contact, center, 11.1, above, enable, Lens, AWS, SSM, extension, fetch]
 ---

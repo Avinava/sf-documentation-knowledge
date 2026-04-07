@@ -5,7 +5,7 @@ topic: set-up-authorization-with-oauth-20
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.187Z
+lastCollected: 2026-04-07T09:03:04.885Z
 estimatedTokens: 837
 keywords: [Authorization, OAuth, 2.0, Setting, requires, configuration, user, locations, any, steps, unfamiliar, consult, REST, API, Developer]
 ---

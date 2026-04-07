@@ -6,7 +6,7 @@ topic: best-practices-for-controllers-and-controller-extensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:22.113Z
+lastCollected: 2026-04-07T09:04:57.012Z
 estimatedTokens: 444
 keywords: [Best, Practices, Controllers, Controller, Extensions, extension, extends, standard, logic, doesn’t, execute, system, mode, Instead, executes]
 ---

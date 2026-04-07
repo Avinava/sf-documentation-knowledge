@@ -5,7 +5,7 @@ topic: uninstall-a-second-generation-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.082Z
+lastCollected: 2026-04-07T09:05:03.876Z
 estimatedTokens: 895
 keywords: [Uninstall, Second-Generation, Managed, Package, org, Salesforce, CLI, Setup, packages, components, including, any, deprecated, were, previously]
 ---

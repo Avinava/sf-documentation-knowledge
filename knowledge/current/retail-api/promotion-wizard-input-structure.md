@@ -5,7 +5,7 @@ topic: promotion-wizard-input-structure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.472Z
+lastCollected: 2026-04-07T09:05:17.035Z
 estimatedTokens: 684
 keywords: [Promotion, Wizard, Input, Structure, document, SmartUI, generates, initializing, new, metadata-driven, extracts, user, clicked, launching, order]
 ---

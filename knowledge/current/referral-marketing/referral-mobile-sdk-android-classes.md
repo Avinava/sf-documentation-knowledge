@@ -5,7 +5,7 @@ topic: referral-mobile-sdk-android-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.995Z
+lastCollected: 2026-04-07T09:05:16.404Z
 estimatedTokens: 172
 keywords: [Referral, Mobile, SDK, Android, Classes, organize, SDK’s, functionality, data, structures, developing, apps, provide, components, services]
 ---

@@ -5,7 +5,7 @@ topic: listviewchart
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:12.290Z
+lastCollected: 2026-04-07T09:04:43.733Z
 estimatedTokens: 610
 keywords: [ListViewChart, graphical, chart, that’s, Salesforce, Android, iOS, mobile, web, views, aggregates, data, filtered, view, currently]
 ---

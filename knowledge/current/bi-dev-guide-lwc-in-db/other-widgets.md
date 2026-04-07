@@ -5,7 +5,7 @@ topic: other-widgets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.453Z
+lastCollected: 2026-04-07T09:03:07.949Z
 estimatedTokens: 1991
 keywords: [Widgets, Hello, World, simplified, scenario, common, real, cases, custom, data, visualization, selection, widget, better, practice]
 ---

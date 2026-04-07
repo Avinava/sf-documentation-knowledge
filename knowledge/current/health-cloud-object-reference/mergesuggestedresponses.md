@@ -5,7 +5,7 @@ topic: mergesuggestedresponses
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.636Z
+lastCollected: 2026-04-07T09:03:52.304Z
 estimatedTokens: 135
 keywords: [mergeSuggestedResponses, Merges, suggestion, sources]
 ---

@@ -5,7 +5,7 @@ topic: initiate-downgrade-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:19.037Z
+lastCollected: 2026-04-07T09:01:59.641Z
 estimatedTokens: 570
 keywords: [Initiate, Downgrade, POST, amendment, moves, higher-tier, product, lower-tier, change, tracked, linked, asset, actions, quote, order]
 ---

@@ -5,7 +5,7 @@ topic: lightning-platform-query-optimizer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:42.015Z
+lastCollected: 2026-04-07T09:05:24.235Z
 estimatedTokens: 1703
 keywords: [Lightning, Platform, Query, Optimizer, Salesforce, multitenant, architecture, uses, underlying, database, way, system’s, can’t, effectively, optimize]
 ---

@@ -5,8 +5,8 @@ topic: promotion-reward-application-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.987Z
-estimatedTokens: 251
+lastCollected: 2026-04-07T09:04:17.154Z
+estimatedTokens: 252
 keywords: [Promotion, Reward, Application, Input, transaction, journals, includes, created, promotions, applied, along, rewards, any, aren't, everything]
 ---
 
@@ -31,8 +31,8 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| journalCreationMode | String | Specifies whether to create a transaction journal record and, if so, where to store the data. | Optional | 66.0 |
-| shouldCheck​CouponUsageLimit | Boolean | Indicates whether the API must execute the Coupon Usage Increase API to verify the coupon usage count and increase the redemption usage count of the specified coupon code (true) or not (false). | Optional | 65.0 |
+| journal​CreationMode | String | Specifies whether to create a transaction journal record and, if so, where to store the data. | Optional | 66.0 |
+| shouldCheck​CouponUsage​Limit | Boolean | Indicates whether the API must execute the Coupon Usage Increase API to verify the coupon usage count and increase the redemption usage count of the specified coupon code (true) or not (false). | Optional | 65.0 |
 | transaction​JournalList | List<Map<String, Object>> | The list of transaction journals to create. | Required | 65.0 |
 
 ## Code Examples

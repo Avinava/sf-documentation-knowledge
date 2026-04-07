@@ -5,7 +5,7 @@ topic: customizing-the-portal-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.365Z
+lastCollected: 2026-04-07T09:03:18.202Z
 estimatedTokens: 842
 keywords: [Customizing, Portal, Action, Wellness, Group, healthcare, company, support, agents, three, tiers, wanted, customize, reduce, amount]
 ---

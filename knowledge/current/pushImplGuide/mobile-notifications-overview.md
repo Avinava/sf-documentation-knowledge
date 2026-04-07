@@ -5,7 +5,7 @@ topic: mobile-notifications-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:35.712Z
+lastCollected: 2026-04-07T09:05:15.992Z
 estimatedTokens: 1939
 keywords: [Mobile, Notifications, Lightning, Platform, allow, app, developers, notify, their, customers, business, events, occur, customers’, orgs]
 ---

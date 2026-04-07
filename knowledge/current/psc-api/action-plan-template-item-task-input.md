@@ -5,7 +5,7 @@ topic: action-plan-template-item-task-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.804Z
+lastCollected: 2026-04-07T09:05:07.692Z
 estimatedTokens: 234
 keywords: [Action, Plan, Template, Item, Task, Input, representation, assigned]
 ---

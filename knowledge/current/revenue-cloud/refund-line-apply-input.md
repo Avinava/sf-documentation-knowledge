@@ -5,7 +5,7 @@ topic: refund-line-apply-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.813Z
+lastCollected: 2026-04-07T09:01:58.813Z
 estimatedTokens: 187
 keywords: [Refund, Line, Apply, Input, representation, transaction, outlines, including, amount, payment, credit, memo, record, applied]
 ---

@@ -5,7 +5,7 @@ topic: connect-your-telephony-system-to-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.993Z
+lastCollected: 2026-04-07T09:06:18.454Z
 estimatedTokens: 798
 keywords: [Connect, Telephony, System, Salesforce, demo, connector, quick, effective, way, communicating, org, uses, API]
 ---

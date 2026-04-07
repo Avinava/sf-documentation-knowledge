@@ -5,7 +5,7 @@ topic: field-service-data-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:49.494Z
+lastCollected: 2026-04-07T09:03:01.028Z
 estimatedTokens: 922
 keywords: [Service, Data, Objects, suite, standard, custom, Salesforce, relate, different, ways, serve, foundation, managed, package, mobile]
 ---

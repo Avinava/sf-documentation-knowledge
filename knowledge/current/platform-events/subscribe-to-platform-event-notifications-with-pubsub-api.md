@@ -5,7 +5,7 @@ topic: subscribe-to-platform-event-notifications-with-pubsub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.145Z
+lastCollected: 2026-04-07T09:05:05.574Z
 estimatedTokens: 1052
 keywords: [Subscribe, Platform, Event, Notifications, Pub, Sub, API, messages, external, client, integrate, systems, Simplify, development, publish]
 ---

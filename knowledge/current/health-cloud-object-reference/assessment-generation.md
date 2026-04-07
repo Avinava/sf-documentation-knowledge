@@ -5,7 +5,7 @@ topic: assessment-generation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:33.849Z
+lastCollected: 2026-04-07T09:03:54.099Z
 estimatedTokens: 328
 keywords: [Assessment, Generation, leverages, Einstein, generative, capabilities, questions, efficiently, extracting, question, complex, source, documents, innovation, combined]
 ---

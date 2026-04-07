@@ -5,7 +5,7 @@ topic: css-overrides-migration-for-the-record-banner-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.381Z
+lastCollected: 2026-04-07T09:03:39.861Z
 estimatedTokens: 250
 keywords: [CSS, Overrides, Migration, Record, Banner, Component, plan, continue, custom, migrate, forward, template, Detail, Label]
 ---

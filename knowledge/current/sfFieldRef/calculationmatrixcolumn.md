@@ -5,7 +5,7 @@ topic: calculationmatrixcolumn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:50.939Z
+lastCollected: 2026-04-07T09:05:36.779Z
 estimatedTokens: 416
 namespace: Namespace
 keywords: [CalculationMatrixColumn, column, Decision, Matrix, label, API, version, 53.0, later]

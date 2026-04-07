@@ -5,7 +5,7 @@ topic: service-process-studio-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.679Z
+lastCollected: 2026-04-07T09:05:12.280Z
 estimatedTokens: 194
 keywords: [Service, Process, Studio, Connect, APIs, API, extended, Case, includes, custom, data, customer, fee, reversal, address]
 ---

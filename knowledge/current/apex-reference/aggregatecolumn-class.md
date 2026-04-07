@@ -5,7 +5,7 @@ topic: aggregatecolumn-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.421Z
+lastCollected: 2026-04-07T09:02:17.884Z
 estimatedTokens: 833
 namespace: Reports
 keywords: [AggregateColumn, describing, summary, Record, Count, Sum, Average, Max, Min, custom, formulas, Includes, label, data, grouping]

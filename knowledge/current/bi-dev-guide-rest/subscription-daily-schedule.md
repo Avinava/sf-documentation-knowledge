@@ -5,7 +5,7 @@ topic: subscription-daily-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.603Z
+lastCollected: 2026-04-07T09:03:11.216Z
 estimatedTokens: 98
 keywords: [Subscription, Daily, Schedule, execute, Analytics]
 ---

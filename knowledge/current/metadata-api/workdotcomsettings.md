@@ -5,7 +5,7 @@ topic: workdotcomsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:02.886Z
+lastCollected: 2026-04-07T09:02:36.710Z
 estimatedTokens: 606
 keywords: [WorkDotComSettings, WorkDotCom, settings, extends, Metadata, inherits, fullName, Version, Declarative, Sample, Definition]
 ---

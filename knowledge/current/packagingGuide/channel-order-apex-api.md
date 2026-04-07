@@ -5,7 +5,7 @@ topic: channel-order-apex-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.627Z
+lastCollected: 2026-04-07T09:04:54.496Z
 estimatedTokens: 313
 namespace: The
 keywords: [Channel, Order, Apex, API, submit, orders, Salesforce, programmatically, classes, provided, CHANNEL_ORDERS]

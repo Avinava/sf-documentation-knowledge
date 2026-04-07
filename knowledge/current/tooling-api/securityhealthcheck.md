@@ -5,7 +5,7 @@ topic: securityhealthcheck
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.383Z
+lastCollected: 2026-04-07T09:02:49.026Z
 estimatedTokens: 394
 keywords: [SecurityHealthCheck, org’s, Health, Check, score, how, well, security, settings, comply, Salesforce-recommended, baseline, standard, users, “View]
 ---

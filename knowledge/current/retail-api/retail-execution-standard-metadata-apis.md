@@ -5,7 +5,7 @@ topic: retail-execution-standard-metadata-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.900Z
+lastCollected: 2026-04-07T09:05:17.641Z
 estimatedTokens: 146
 keywords: [Retail, Execution, Standard, Metadata, APIs, API, access, entities, feature, settings, customize, user]
 ---

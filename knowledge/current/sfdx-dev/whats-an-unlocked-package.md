@@ -5,7 +5,7 @@ topic: whats-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.893Z
+lastCollected: 2026-04-07T09:06:13.952Z
 estimatedTokens: 701
 keywords: [What’s, Unlocked, Package, you’re, new, packaging, think, container, fill, metadata, features, customizations, schema, packages, help]
 ---

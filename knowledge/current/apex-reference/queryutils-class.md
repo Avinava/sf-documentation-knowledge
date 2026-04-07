@@ -5,7 +5,7 @@ topic: queryutils-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.538Z
+lastCollected: 2026-04-07T09:02:14.629Z
 estimatedTokens: 2506
 namespace: DataSource
 keywords: [QueryUtils, helper, locally, filter, sort, apply, limit, offset, clauses, data, rows, provided, convenience, early, development]

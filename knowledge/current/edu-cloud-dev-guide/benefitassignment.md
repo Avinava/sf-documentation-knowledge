@@ -5,7 +5,7 @@ topic: benefitassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.958Z
+lastCollected: 2026-04-07T09:03:43.696Z
 estimatedTokens: 219
 keywords: [BenefitAssignment, enrollment, individual, benefit, API, version, 57.0, later, Calls]
 ---

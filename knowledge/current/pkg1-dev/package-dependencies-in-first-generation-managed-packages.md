@@ -5,7 +5,7 @@ topic: package-dependencies-in-first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.642Z
+lastCollected: 2026-04-07T09:05:00.736Z
 estimatedTokens: 1064
 keywords: [Package, Dependencies, First-Generation, Managed, Packages, created, component, references, another, permission, preference]
 ---

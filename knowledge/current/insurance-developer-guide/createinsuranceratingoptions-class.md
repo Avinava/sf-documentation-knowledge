@@ -5,7 +5,7 @@ topic: createinsuranceratingoptions-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:39.060Z
+lastCollected: 2026-04-07T09:04:00.703Z
 estimatedTokens: 1927
 keywords: [CreateInsuranceRatingOptions, options, creating, insurance, rating, control, pricing, execution, configuration, rules, data, context, JSON, product, results]
 ---

@@ -5,7 +5,7 @@ topic: schedule-adhoc-promotion-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.867Z
+lastCollected: 2026-04-07T09:05:17.588Z
 estimatedTokens: 155
 keywords: [Schedule, Adhoc, Promotion, Calculation, Schedules, off-platform, ad-hoc, transaction]
 ---

@@ -5,7 +5,7 @@ topic: enablemodal-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.181Z
+lastCollected: 2026-04-07T09:03:04.039Z
 estimatedTokens: 222
 keywords: [enableModal, Lightning, Experience, Toggles, modal, mode, utility, overlay, blocks, users, console, panel, visible, Web, Components]
 ---

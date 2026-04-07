@@ -5,7 +5,7 @@ topic: contractgroupplangroupclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.881Z
+lastCollected: 2026-04-07T09:03:49.109Z
 estimatedTokens: 1216
 keywords: [ContractGroupPlanGroupClass, association, Contract, Group, Plan, entity, define, classes, contributions, level, API, version, 56.0, later, Calls]
 ---

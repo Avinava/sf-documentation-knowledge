@@ -5,7 +5,7 @@ topic: giftcommitment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.524Z
+lastCollected: 2026-04-07T09:04:30.812Z
 estimatedTokens: 2741
 keywords: [GiftCommitment, commitment, made, donor, API, version, 59.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: einstein-visit-activity-recommendation-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.045Z
+lastCollected: 2026-04-07T09:05:17.875Z
 estimatedTokens: 226
 keywords: [Einstein, Visit, Activity, Recommendation, Standard, Objects, data, model, contain, task, requests, recommendations, supports, sales, managers]
 ---

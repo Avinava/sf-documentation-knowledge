@@ -5,7 +5,7 @@ topic: emailtemplatemonthlymetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.482Z
+lastCollected: 2026-04-07T09:04:39.426Z
 estimatedTokens: 3056
 keywords: [EmailTemplateMonthlyMetric, monthly, engagement, metrics, email, template, API, version, 53.0, later, Calls, Special, Access, Rules]
 ---

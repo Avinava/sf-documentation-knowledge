@@ -5,7 +5,7 @@ topic: benefitaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.472Z
+lastCollected: 2026-04-07T09:04:19.094Z
 estimatedTokens: 837
 keywords: [BenefitAction, action, triggered, automatically, benefit.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, benefit, API, version, 51.0, later]
 ---

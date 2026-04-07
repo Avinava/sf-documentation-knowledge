@@ -5,7 +5,7 @@ topic: vehicleassetemssnsrc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.335Z
+lastCollected: 2026-04-07T09:04:29.299Z
 estimatedTokens: 2697
 keywords: [VehicleAssetEmssnSrc, assets, mobile, nature, energy, recorded, source, greenhouse, gas, emissions, API, version, 54.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: workforcecapacityunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.627Z
+lastCollected: 2026-04-07T09:04:52.876Z
 estimatedTokens: 1331
 keywords: [WorkforceCapacityUnit, number, resources, allocated, needed, specific, work, items, timestamp, duration, API, version, 51.0, later, Calls]
 ---

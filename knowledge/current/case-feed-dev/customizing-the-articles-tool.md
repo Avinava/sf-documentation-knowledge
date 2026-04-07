@@ -5,7 +5,7 @@ topic: customizing-the-articles-tool
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.280Z
+lastCollected: 2026-04-07T09:03:18.099Z
 estimatedTokens: 1155
 keywords: [Customizing, Articles, Tool, lets, support, agents, browse, Salesforce, Knowledge, whether, attached, case, share, relevant, customers]
 ---

@@ -5,8 +5,8 @@ topic: create-a-streaming-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.294Z
-estimatedTokens: 557
+lastCollected: 2026-04-07T09:03:05.047Z
+estimatedTokens: 554
 keywords: [Streaming, Channel, new, StreamingChannel, Salesforce]
 ---
 
@@ -23,7 +23,7 @@ You must have the proper Streaming API permissions enabled in your organization.
 1.  Log in to your Developer Edition organization.
 2.  If you’re using Salesforce Classic, under All Tabs (+), select **Streaming Channels**. If you’re using Lightning Experience, from the App Launcher, select **All Items**, and then click **Streaming Channels**.
 3.  On the Streaming Channels page, click **New** to create a streaming channel.
-4.  Enter /u/notifications/ExampleUserChannel in **Streaming Channel Name**, and an optional description. Your new Streaming Channel page should look something like this:![Screenshot of a new streaming channel](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fapi_streaming%2Fimages%2Fnew_streaming_channel.png&folder=api_streaming)
+4.  Enter /u/notifications/ExampleUserChannel in **Streaming Channel Name**, and an optional description. Your new Streaming Channel page should look something like this:![Screenshot of a new streaming channel](/docs/resources/img/en-us/260.0?doc_id=api_streaming%2Fimages%2Fnew_streaming_channel.png&folder=api_streaming)
 5.  Select **Save**. You’ve just created a streaming channel that clients can subscribe to for notifications.
 
 StreamingChannel is a regular, creatable Salesforce object, so you can also create one programmatically using Apex or any data API like SOAP API or REST API.

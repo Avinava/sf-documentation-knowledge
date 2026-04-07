@@ -5,7 +5,7 @@ topic: find-routes-with-fewest-splits-using-oci-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:11.742Z
+lastCollected: 2026-04-07T09:03:21.661Z
 estimatedTokens: 441
 keywords: [Routes, Fewest, Splits, OCI, Item, Input, quantity, product, location, group, assigned, fulfill]
 ---

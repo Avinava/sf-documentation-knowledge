@@ -5,7 +5,7 @@ topic: feedpollvote
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.900Z
+lastCollected: 2026-04-07T09:05:45.734Z
 estimatedTokens: 246
 keywords: [FeedPollVote, how, users, voted, poll, posted, feed, API, version, 29.0, later]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudpromotionsalesfolderc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.658Z
+lastCollected: 2026-04-07T09:05:21.213Z
 estimatedTokens: 1455
 keywords: [cgcloud__Promotion_Sales_Folder__c, Junction, Promotion, Sales, folder, API, version, 54.0, later, cgcloud, _Promotion, _Sales, _Folder, Calls, Associated]
 ---

@@ -5,7 +5,7 @@ topic: shiftpatternentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.849Z
+lastCollected: 2026-04-07T09:06:07.264Z
 estimatedTokens: 368
 keywords: [ShiftPatternEntry, links, shift, template, pattern, API, version, 51.0, later]
 ---

@@ -5,7 +5,7 @@ topic: control-flow-statements
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:45.029Z
+lastCollected: 2026-04-07T09:02:34.148Z
 estimatedTokens: 211
 keywords: [Control, Flow, Statements, Apex, if-else, switch, loops, code, execution, generally, executed, line, order, they, appear]
 ---

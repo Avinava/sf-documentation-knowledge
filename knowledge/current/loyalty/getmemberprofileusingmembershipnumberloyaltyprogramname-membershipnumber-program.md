@@ -5,7 +5,7 @@ topic: getmemberprofileusingmembershipnumberloyaltyprogramname-membershipnumber-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.466Z
+lastCollected: 2026-04-07T09:04:16.463Z
 estimatedTokens: 299
 keywords: [getMemberProfileUsingMembershipNumber, loyaltyProgramName, membershipNumber, programCurrencyName, loyalty, program, member, membership, number, API, Version, Requires, Chatter]
 ---

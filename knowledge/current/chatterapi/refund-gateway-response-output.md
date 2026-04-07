@@ -5,7 +5,7 @@ topic: refund-gateway-response-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.884Z
+lastCollected: 2026-04-07T09:03:35.556Z
 estimatedTokens: 283
 keywords: [Refund, Gateway, Output, representation]
 ---

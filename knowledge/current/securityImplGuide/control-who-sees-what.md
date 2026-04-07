@@ -5,7 +5,7 @@ topic: control-who-sees-what
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.088Z
+lastCollected: 2026-04-07T09:05:28.965Z
 estimatedTokens: 2383
 keywords: [Control, Sees, Salesforce, data, sharing, lets, expose, specific, individuals, groups, users, Permission, profiles, provide, object-level]
 ---

@@ -5,7 +5,7 @@ topic: accountplanobjmeascalcdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:02.954Z
+lastCollected: 2026-04-07T09:02:36.772Z
 estimatedTokens: 1024
 keywords: [AccountPlanObjMeasCalcDef, metadata, associated, account, plan, objective, measure, calculation, definition, target, rollup, logic, calculating, current, sales]
 ---

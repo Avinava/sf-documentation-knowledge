@@ -5,7 +5,7 @@ topic: onnewmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.472Z
+lastCollected: 2026-04-07T09:03:04.327Z
 estimatedTokens: 288
 keywords: [onNewMessage, Registers, function, call, new, message, sent, customer, agent, supervisor, API, version, 29.0, later, Arguments]
 ---

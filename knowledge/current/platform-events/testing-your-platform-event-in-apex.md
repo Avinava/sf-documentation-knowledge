@@ -5,7 +5,7 @@ topic: testing-your-platform-event-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.668Z
+lastCollected: 2026-04-07T09:05:04.881Z
 estimatedTokens: 388
 keywords: [Testing, Platform, Event, Apex, Add, tests, test, subscribers, package, deploy, code, including, triggers, production, sufficient]
 ---

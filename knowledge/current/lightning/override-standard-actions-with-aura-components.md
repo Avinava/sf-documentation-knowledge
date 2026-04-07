@@ -5,7 +5,7 @@ topic: override-standard-actions-with-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.446Z
+lastCollected: 2026-04-07T09:04:13.359Z
 estimatedTokens: 624
 keywords: [Override, Standard, Actions, Aura, Components, Add, lightning, actionOverride, component, enable, action, custom, Overriding, customize, org]
 ---

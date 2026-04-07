@@ -5,7 +5,7 @@ topic: sequence-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.722Z
+lastCollected: 2026-04-07T09:01:57.441Z
 estimatedTokens: 2084
 keywords: [sequence, Annotation, execution, configuration, order, elements, Constraint, Modeling, Language, CML, model, Configurator, Result, Settings]
 ---

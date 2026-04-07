@@ -5,7 +5,7 @@ topic: messagingsession
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.241Z
+lastCollected: 2026-04-07T09:05:54.390Z
 estimatedTokens: 730
 keywords: [MessagingSession, session, Messaging, channel, API, version, 47.0, later]
 ---

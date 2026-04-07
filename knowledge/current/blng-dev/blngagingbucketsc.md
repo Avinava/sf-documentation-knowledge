@@ -5,7 +5,7 @@ topic: blngagingbucketsc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.225Z
+lastCollected: 2026-04-07T09:03:16.905Z
 estimatedTokens: 670
 keywords: [blng__AgingBuckets__c, outstanding, invoices, sorted, various, aging, periods, blng, _AgingBuckets, Calls]
 ---

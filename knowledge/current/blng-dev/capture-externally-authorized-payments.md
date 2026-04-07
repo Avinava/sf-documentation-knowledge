@@ -5,7 +5,7 @@ topic: capture-externally-authorized-payments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.886Z
+lastCollected: 2026-04-07T09:03:16.433Z
 estimatedTokens: 1455
 keywords: [Capture, Externally, Authorized, Payments, Authorize, external, system, payment, Salesforce, Billing, Transaction, API, manage, lifecycle, settle]
 ---

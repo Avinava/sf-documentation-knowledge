@@ -5,8 +5,8 @@ topic: locationshippingcarriermethod
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:12.494Z
-estimatedTokens: 484
+lastCollected: 2026-04-07T09:04:43.982Z
+estimatedTokens: 544
 keywords: [LocationShippingCarrierMethod, shipping, carrier, services, associated, location, group, assignment, different, specific, flexibility, customization, process, API, version]
 ---
 
@@ -38,4 +38,5 @@ The LocationShippingCarrierMethod object is available only if the B2B Commerce o
 | LocationSourceId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe location source ID.This is a polymorphic relationship field.Relationship NameLocationSourceRefers ToLocation, LocationGroup |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionName of the shipping carrier service associated with the location or location group. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionID of the user who currently owns this LocationShippingCarrierMethod object. Default value is the user logged in to the API to perform the create.This is a polymorphic relationship field.Relationship NameOwnerRefers ToGroup, User |
+| PickupTime | TypetimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe time when the shipping carrier picks up the order from the associated location or location group. This field is available in API version 66.0 and later. |
 | ShippingCarrierMethodId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionShipping carrier method ID.This is a relationship field.Relationship NameShippingCarrierMethodRefers ToLocation, ShippingCarrierMethod |

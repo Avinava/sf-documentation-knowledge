@@ -5,7 +5,7 @@ topic: samlssoconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:16.553Z
+lastCollected: 2026-04-07T09:04:48.856Z
 estimatedTokens: 2105
 keywords: [SamlSsoConfig, SAML, Sign-On, configuration, Calls, Special, Access, Rules]
 ---

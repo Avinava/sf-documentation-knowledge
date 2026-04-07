@@ -5,7 +5,7 @@ topic: target-a-specific-release-for-your-unlocked-packages-during-salesforce-re
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.847Z
+lastCollected: 2026-04-07T09:06:13.932Z
 estimatedTokens: 342
 keywords: [Target, Specific, Release, Unlocked, Packages, Salesforce, Transitions, major, specify, preview, previous, creating, package, version, Specifying]
 ---

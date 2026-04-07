@@ -5,7 +5,7 @@ topic: contentdoclinkeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.049Z
+lastCollected: 2026-04-07T09:04:37.594Z
 estimatedTokens: 478
 keywords: [ContentDocLinkEventLog, Content, Document, Link, events, contain, sharing, documents, API, version, 65.0, later, Calls, Special, Access]
 ---

@@ -5,7 +5,7 @@ topic: small-sized-partners
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.041Z
+lastCollected: 2026-04-07T09:05:02.590Z
 estimatedTokens: 713
 keywords: [Small-Sized, Partners, manageable, subscriber, bases, two, managed, packages, small, partner’s, total, daily, usage, data, across]
 ---

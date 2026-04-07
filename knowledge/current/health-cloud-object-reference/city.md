@@ -5,7 +5,7 @@ topic: city
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:32.527Z
+lastCollected: 2026-04-07T09:03:52.100Z
 estimatedTokens: 39
 keywords: [city, address, group, visit, scheduled]
 ---

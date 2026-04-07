@@ -5,7 +5,7 @@ topic: publiccomplaint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.469Z
+lastCollected: 2026-04-07T09:04:50.022Z
 estimatedTokens: 2778
 keywords: [PublicComplaint, complaints, submitted, users, API, version, 49.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

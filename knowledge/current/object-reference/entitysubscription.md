@@ -5,7 +5,7 @@ topic: entitysubscription
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.734Z
+lastCollected: 2026-04-07T09:04:39.732Z
 estimatedTokens: 1943
 keywords: [EntitySubscription, subscription, user, record, another, API, version, 34.0, later, Calls, Usage, Sample—SOQL]
 ---

@@ -5,7 +5,7 @@ topic: marketingappextension
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:08.089Z
+lastCollected: 2026-04-07T09:02:41.951Z
 estimatedTokens: 1415
 keywords: [MarketingAppExtension, integration, third-party, app, service, work, prospects, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---

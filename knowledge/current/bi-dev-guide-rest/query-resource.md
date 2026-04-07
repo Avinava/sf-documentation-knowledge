@@ -5,7 +5,7 @@ topic: query-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.792Z
+lastCollected: 2026-04-07T09:03:09.812Z
 estimatedTokens: 500
 keywords: [Query, Resource, Executes, written, Salesforce, Analytics, Language, SAQL, SQL, CRM, Postman]
 ---

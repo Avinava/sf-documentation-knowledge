@@ -5,7 +5,7 @@ topic: billingmilestoneplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:24.567Z
+lastCollected: 2026-04-07T09:02:03.602Z
 estimatedTokens: 1348
 keywords: [BillingMilestonePlanItem, specific, billing, milestone, plan, that’s, manage, track, completion, certain, deliverables, stages, API, version, 63.0]
 ---

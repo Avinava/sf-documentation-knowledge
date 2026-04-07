@@ -5,7 +5,7 @@ topic: prepare-to-install-an-appexchange-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.572Z
+lastCollected: 2026-04-07T09:03:05.411Z
 estimatedTokens: 187
 keywords: [Prepare, Install, AppExchange, Package, verify, it's, compatible, Salesforce, implementation, checking, technical, requirements, Optionally, determine, supports]
 ---

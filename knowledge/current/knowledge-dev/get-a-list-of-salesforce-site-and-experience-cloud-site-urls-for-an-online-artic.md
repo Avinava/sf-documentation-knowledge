@@ -6,7 +6,7 @@ topic: get-a-list-of-salesforce-site-and-experience-cloud-site-urls-for-an-onlin
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.484Z
+lastCollected: 2026-04-07T09:04:04.632Z
 estimatedTokens: 252
 keywords: [Salesforce, Site, Experience, Cloud, URLs, Online, Article, Sites, visible, knowledge, base, partners, customers, API, creates]
 ---

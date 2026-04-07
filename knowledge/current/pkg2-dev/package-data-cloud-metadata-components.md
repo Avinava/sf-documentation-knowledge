@@ -5,7 +5,7 @@ topic: package-data-cloud-metadata-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.087Z
+lastCollected: 2026-04-07T09:05:02.645Z
 estimatedTokens: 854
 keywords: [Package, Data, Cloud, Metadata, Components, Utilize, power, apps, including, managed, packages, Working, unique, requirements, Review]
 ---

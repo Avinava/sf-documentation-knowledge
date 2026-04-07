@@ -5,7 +5,7 @@ topic: standard-object-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.087Z
+lastCollected: 2026-04-07T09:04:30.319Z
 estimatedTokens: 96
 keywords: [Standard, Output, representation, gift, transactions]
 ---

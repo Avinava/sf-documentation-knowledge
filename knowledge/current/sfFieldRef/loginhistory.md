@@ -5,7 +5,7 @@ topic: loginhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:03.056Z
+lastCollected: 2026-04-07T09:05:52.694Z
 estimatedTokens: 480
 keywords: [LoginHistory, login, history, successful, failed, attempts, organizations, enabled, portals, API, version, 21.0, later]
 ---

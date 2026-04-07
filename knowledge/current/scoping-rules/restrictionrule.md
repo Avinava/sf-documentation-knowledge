@@ -5,8 +5,8 @@ topic: restrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.261Z
-estimatedTokens: 690
+lastCollected: 2026-04-07T09:05:27.802Z
+estimatedTokens: 691
 keywords: [RestrictionRule, restriction, rule, scoping, enforcementType, Restrict, access, users, designated, records, restricting, extends, Metadata, inherits, fullName, EnforcementType, SOAP, API, Calls, REST]
 ---
 
@@ -40,7 +40,7 @@ Only users with the View Restriction and Scoping Rules permission can view restr
 | Field | Details |
 | --- | --- |
 | Description | TypetextareaPropertiesFilter, Group, Nillable, SortDescriptionRequired. The description of the rule. |
-| DeveloperName | TypestringPropertiesFilter, Group, SortDescriptionThe unique name for the RestrictionRule object.This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. This field is automatically generated, but you can supply your own value if you create the record using the API.NoteOnly users with View DeveloperName OR View Setup and Configuration permission can view, group, sort, and filter this field. |
+| DeveloperName | TypestringPropertiesFilter, Group, SortDescriptionThe unique name for the RestrictionRule object.This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. This field is automatically generated, but you can supply your own value if you create the record using the API.Only users with View DeveloperName OR View Setup and Configuration permission can view, group, sort, and filter this field. |
 | EnforcementType | TypepicklistPropertiesDefaulted on create, Filter, Group, Restricted picklist, SortDescriptionRequired. The type of rule.Possible values are:FieldRestrict—Don’t use.Restrict—Restriction rule.Scoping—Scoping rule. |
 | FullName | TypestringPropertiesCreate, Group, NillableDescriptionRequired. The full name of the associated RestrictionRule in Metadata API. The full name can include a namespaceprefix.Query this field only if the query result contains no more than one record. Otherwise, an error is returned. If more than one record exists, use multiple queries to retrieve the records. This limit protects performance. |
 | IsActive | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the rule is active (true) or not (false). The default value is false. |

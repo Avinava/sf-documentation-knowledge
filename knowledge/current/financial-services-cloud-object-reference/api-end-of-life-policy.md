@@ -5,8 +5,8 @@ topic: api-end-of-life-policy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.773Z
-estimatedTokens: 315
+lastCollected: 2026-04-07T09:03:47.748Z
+estimatedTokens: 316
 keywords: [API, End-of-Life, Policy, Salesforce, committed, supporting, version, minimum, three, years, date, release, order, mature, improve]
 ---
 
@@ -25,7 +25,7 @@ Salesforce notifies customers who use an API version scheduled for deprecation a
 
 | Salesforce API Versions | Version Support Status | Version Retirement Info |
 | --- | --- | --- |
-| Versions 31.0 through | Supported. |  |
+| Versions 31.0 through 66.0 | Supported. |  |
 | Versions 21.0 through 30.0 | As of Summer ’25, these versions are retired and unavailable. | Salesforce Platform API Versions 21.0 through 30.0 Retirement |
 | Versions 7.0 through 20.0 | As of Summer ’22, these versions are retired and unavailable. | Salesforce Platform API Versions 7.0 through 20.0 Retirement |
 

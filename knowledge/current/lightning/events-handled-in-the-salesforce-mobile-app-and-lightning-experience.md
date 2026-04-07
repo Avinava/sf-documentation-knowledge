@@ -6,7 +6,7 @@ topic: events-handled-in-the-salesforce-mobile-app-and-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.902Z
+lastCollected: 2026-04-07T09:04:14.037Z
 estimatedTokens: 844
 keywords: [Events, Handled, Salesforce, Mobile, App, Lightning, Experience, handle, fire, Aura, component, Customizing, Client-Side, Logic, Standalone]
 ---

@@ -5,7 +5,7 @@ topic: profilepasswordpolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.137Z
+lastCollected: 2026-04-07T09:02:43.182Z
 estimatedTokens: 908
 keywords: [ProfilePasswordPolicy, profile’s, password, policies, Profile, override, org-wide, users, retrieve, extends, Metadata, inherits, fullName, File, Suffix]
 ---

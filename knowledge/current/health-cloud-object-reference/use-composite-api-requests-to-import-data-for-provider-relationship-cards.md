@@ -5,7 +5,7 @@ topic: use-composite-api-requests-to-import-data-for-provider-relationship-cards
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.142Z
+lastCollected: 2026-04-07T09:03:54.525Z
 estimatedTokens: 520
 keywords: [Composite, API, Requests, Import, Data, Provider, Relationship, Cards, you’re, setting, show, practitioner, link, multiple, records]
 ---

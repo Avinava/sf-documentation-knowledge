@@ -5,7 +5,7 @@ topic: ui-telemetry-navigation-timing-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.675Z
+lastCollected: 2026-04-07T09:04:40.793Z
 estimatedTokens: 3790
 keywords: [Telemetry, Navigation, Timing, Event, events, capture, network, performance, metrics, extends, Resource, includes, requests, initiated, either]
 ---

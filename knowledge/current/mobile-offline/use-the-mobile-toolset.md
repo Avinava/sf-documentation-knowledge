@@ -5,7 +5,7 @@ topic: use-the-mobile-toolset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.559Z
+lastCollected: 2026-04-07T09:04:24.685Z
 estimatedTokens: 1918
 keywords: [mobile, Toolset, tools, assist, creating, Lightning, web, components, integrate, device-native, capabilities, calendar, access, contact, document]
 ---

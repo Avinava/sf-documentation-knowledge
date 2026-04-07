@@ -5,7 +5,7 @@ topic: checkout-management-app-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:20.560Z
+lastCollected: 2026-04-07T09:04:54.386Z
 estimatedTokens: 348
 keywords: [Checkout, Management, App, Best, Practices, Follow, guidelines, CMA]
 ---

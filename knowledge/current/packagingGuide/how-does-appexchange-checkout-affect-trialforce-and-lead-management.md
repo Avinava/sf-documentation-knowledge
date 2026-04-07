@@ -5,7 +5,7 @@ topic: how-does-appexchange-checkout-affect-trialforce-and-lead-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.315Z
+lastCollected: 2026-04-07T09:04:53.983Z
 estimatedTokens: 75
 keywords: [How, AppExchange, Checkout, affect, Trialforce, lead, management, doesn’t, configuration, manage, leads, However, customer, signs, trial]
 ---

@@ -5,7 +5,7 @@ topic: dashboard-saved-view-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.597Z
+lastCollected: 2026-04-07T09:03:09.511Z
 estimatedTokens: 319
 keywords: [Dashboard, Saved, View, Resource, deletes, updates, URL, Formats, Version, Components, HTTP, PATCH]
 ---

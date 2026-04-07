@@ -5,7 +5,7 @@ topic: salesforce-crm-email-message-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:30.831Z
+lastCollected: 2026-04-07T09:02:07.491Z
 estimatedTokens: 367
 keywords: [Salesforce, CRM, Email, Message, Mapping, data, mappings, EmailMessage, DLO, found, Services, bundle, Connector, Cloud, Usage]
 ---

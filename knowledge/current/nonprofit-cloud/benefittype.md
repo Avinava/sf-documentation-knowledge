@@ -5,7 +5,7 @@ topic: benefittype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.969Z
+lastCollected: 2026-04-07T09:04:31.313Z
 estimatedTokens: 464
 keywords: [BenefitType, benefit, delivered, conjunction, units, measure, report, how, much, organization, delivers, across, programs, Program, Management]
 ---

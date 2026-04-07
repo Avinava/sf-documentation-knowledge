@@ -5,7 +5,7 @@ topic: orgmetricscanresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.160Z
+lastCollected: 2026-04-07T09:05:56.960Z
 estimatedTokens: 447
 keywords: [OrgMetricScanResult, data, item, associated, feature’s, results, Salesforce, Optimizer, evaluation, Custom, Limit, feature, flagged, approaching, API]
 ---

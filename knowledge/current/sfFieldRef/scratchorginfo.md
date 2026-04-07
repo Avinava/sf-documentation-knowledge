@@ -5,7 +5,7 @@ topic: scratchorginfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.133Z
+lastCollected: 2026-04-07T09:06:06.267Z
 estimatedTokens: 791
 namespace: Namespace
 keywords: [ScratchOrgInfo, scratch, org, audit, log, keep, creation, deletion, API, version, 41.0, later]

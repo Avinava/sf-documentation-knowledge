@@ -5,7 +5,7 @@ topic: cgclouduserdocumenttemplatec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.351Z
+lastCollected: 2026-04-07T09:05:21.988Z
 estimatedTokens: 1773
 keywords: [cgcloud__User_Document_Template__c, Stores, daily, report, template, reports, API, version, 54.0, later, cgcloud, _User, _Document, _Template, Calls]
 ---

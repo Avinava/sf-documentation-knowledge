@@ -5,8 +5,8 @@ topic: recalculate-adjustments-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.691Z
-estimatedTokens: 276
+lastCollected: 2026-04-07T09:04:00.183Z
+estimatedTokens: 275
 keywords: [Recalculate, Adjustments, Action, adjusted, amount, claim, loss, item, maximum, that’s, allowed, insurance, policy, REST, HTTP]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 66.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/recalculateAdjustments
+/services/data/v/actions/standard/recalculateAdjustments
 
 Formats
 

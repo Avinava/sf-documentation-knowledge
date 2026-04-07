@@ -5,7 +5,7 @@ topic: billingaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:49.826Z
+lastCollected: 2026-04-07T09:05:35.224Z
 estimatedTokens: 1031
 keywords: [BillingAccount, customer's, billing, backend, system, maintain, bill, frequency, autopay, API, version, 62.0, later]
 ---

@@ -5,7 +5,7 @@ topic: locationwaitlist
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.510Z
+lastCollected: 2026-04-07T09:04:44.001Z
 estimatedTokens: 815
 keywords: [LocationWaitlist, queue, created, specific, location, Multiple, queues, sales, agent, standard, vulnerable, groups, party, people, represented]
 ---

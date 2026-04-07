@@ -5,7 +5,7 @@ topic: replace-strings-in-code-before-deploying-or-packaging
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:18.977Z
+lastCollected: 2026-04-07T09:06:14.052Z
 estimatedTokens: 2523
 keywords: [Replace, Strings, Code, Deploying, Packaging, Automatically, metadata, source, files, specific, right, deploy, org, package, version]
 ---

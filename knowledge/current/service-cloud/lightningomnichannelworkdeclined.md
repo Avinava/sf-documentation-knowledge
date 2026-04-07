@@ -5,7 +5,7 @@ topic: lightningomnichannelworkdeclined
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:53.093Z
+lastCollected: 2026-04-07T09:03:02.986Z
 estimatedTokens: 148
 keywords: [lightning, omniChannelWorkDeclined, agent, declined, work, assignment]
 ---

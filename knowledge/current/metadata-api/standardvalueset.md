@@ -5,7 +5,7 @@ topic: standardvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:10.300Z
+lastCollected: 2026-04-07T09:02:44.455Z
 estimatedTokens: 689
 keywords: [StandardValueSet, standard, picklist, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
 ---

@@ -5,7 +5,7 @@ topic: payment-method-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:33.917Z
+lastCollected: 2026-04-07T09:02:09.363Z
 estimatedTokens: 1386
 keywords: [Payment, DMO, way, customer, pays, transaction, API, Category, Primary, Subject, Area, Key, Label, Relationships]
 ---

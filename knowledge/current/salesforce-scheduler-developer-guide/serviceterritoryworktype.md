@@ -5,7 +5,7 @@ topic: serviceterritoryworktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.808Z
+lastCollected: 2026-04-07T09:05:27.109Z
 estimatedTokens: 582
 keywords: [ServiceTerritoryWorkType, relationship, ServiceTerritory, WorkType, Salesforce, Scheduler, appointments, API, version, 45.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: productqualification
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.259Z
+lastCollected: 2026-04-07T09:02:05.193Z
 estimatedTokens: 1003
 keywords: [ProductQualification, qualification, rules, products, determine, product, qualifies, users, user, context, API, version, 60.0, later, Calls]
 ---

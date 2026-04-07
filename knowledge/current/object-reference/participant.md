@@ -5,7 +5,7 @@ topic: participant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:14.275Z
+lastCollected: 2026-04-07T09:04:46.122Z
 estimatedTokens: 341
 keywords: [Participant, ConversationParticipant, new, referenced, time, created, API, version, 57.0, later, Calls]
 ---

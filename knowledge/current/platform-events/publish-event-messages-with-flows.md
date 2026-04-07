@@ -5,8 +5,8 @@ topic: publish-event-messages-with-flows
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.073Z
-estimatedTokens: 351
+lastCollected: 2026-04-07T09:05:05.455Z
+estimatedTokens: 347
 keywords: [Publish, Event, Messages, Flows, Salesforce, app, part, user, interaction, automated, process, Apex, workflow, action]
 ---
 
@@ -38,7 +38,7 @@ For example, here’s how to configure a Create Records element that publishes a
     | Printer Model | XZO-5 |
     | Serial Number | 12345 |
     | Ink Status | Low |
-    ![Create Records element in Flow Builder](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fvpm_event_publish_low_ink.png&folder=platform_events)
+    ![Create Records element in Flow Builder](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fvpm_event_publish_low_ink.png&folder=platform_events)
 
 5.  Save and activate the flow.
 

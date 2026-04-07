@@ -5,7 +5,7 @@ topic: lnn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.190Z
+lastCollected: 2026-04-07T09:03:15.267Z
 estimatedTokens: 80
 keywords: [base, Euler's, number, logarithm, any, positive, non-zero, numeric, range, 1.797e308]
 ---

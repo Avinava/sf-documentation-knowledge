@@ -5,7 +5,7 @@ topic: loanapplicantaddress
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.936Z
+lastCollected: 2026-04-07T09:03:50.295Z
 estimatedTokens: 1190
 keywords: [LoanApplicantAddress, borrower's, co-borrower's, current, address, API, version, XX.0, later, Calls, Associated, Objects]
 ---

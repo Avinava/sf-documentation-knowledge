@@ -5,8 +5,8 @@ topic: life-sciences-cloud-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:43.630Z
-estimatedTokens: 951
+lastCollected: 2026-04-07T09:04:07.613Z
+estimatedTokens: 1083
 keywords: [Life, Sciences, Cloud, end-to-end, purpose-built, platform, industry, spanning, clinical, medical, commercial, domains, includes, developer, resources]
 ---
 
@@ -20,7 +20,9 @@ keywords: [Life, Sciences, Cloud, end-to-end, purpose-built, platform, industry,
 
 Life Sciences Cloud is an end-to-end, purpose-built platform for the life sciences industry spanning clinical to medical to commercial domains. This guide includes the available developer resources for Life Sciences Cloud.
 
--   **[Life Sciences Cloud Data Model](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_sforce_api_objects.htm)**
+-   **[Life Sciences Cloud Data Models](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_data_models_overview.htm)**
+    Life Sciences Cloud uses a suite of standard Salesforce objects to structure and store data related to Clinical Engagement, Customer Engagement, Patient Engagement, MedTech Commercial Engagement and other features. To better understand how features work, it helps to look at the data models, which are graphical representations of collections of objects and their relationships.
+-   **[Life Sciences Cloud Standard Objects](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_sforce_api_objects.htm)**
     Life Sciences Cloud provides a rich set of objects to store and access specialized Life Sciences information.
 -   **[Life Sciences Cloud Fields on Standard Objects](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_custom_fields.htm)**
     Life Sciences Cloud adds fields to some standard Salesforce objects to represent information about individuals. These fields are available only in orgs where Life Sciences Cloud is enabled.
@@ -50,7 +52,8 @@ Life Sciences Cloud is an end-to-end, purpose-built platform for the life scienc
 
 ## Related Topics
 
-- Life Sciences Cloud Data Model (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_sforce_api_objects.htm)
+- Life Sciences Cloud Data Models (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_data_models_overview.htm)
+- Life Sciences Cloud Standard Objects (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_sforce_api_objects.htm)
 - Life Sciences Cloud Fields on Standard Objects (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_custom_fields.htm)
 - StandardValueSet Names and Standard Picklist Fields (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_standardvalueset_names.htm)
 - Life Sciences Cloud Platform Events (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_platform_events_parent.htm)
@@ -59,4 +62,3 @@ Life Sciences Cloud is an end-to-end, purpose-built platform for the life scienc
 - Apex Reference (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/ls_apex_reference.htm)
 - Life Sciences Cloud Standard Invocable Actions (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lifesciences_invocable_actions_parent.htm)
 - Life Sciences Cloud Tooling API Objects (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_tooling_api_parent.htm)
-- Life Sciences Cloud Metadata Types (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_metadata_types.htm)

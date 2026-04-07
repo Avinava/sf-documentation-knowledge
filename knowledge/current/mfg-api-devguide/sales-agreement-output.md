@@ -5,7 +5,7 @@ topic: sales-agreement-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.015Z
+lastCollected: 2026-04-07T09:04:22.444Z
 estimatedTokens: 96
 keywords: [Sales, Agreement, Output, representation, conversion, result]
 ---

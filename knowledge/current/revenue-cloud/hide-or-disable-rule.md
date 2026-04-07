@@ -5,7 +5,7 @@ topic: hide-or-disable-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.938Z
+lastCollected: 2026-04-07T09:01:57.573Z
 estimatedTokens: 650
 keywords: [Hide, Disable, Rule, uses, keyword, conditionally, remove, element, selection, menu, preserve, preventing, user, Hiding, Disabling]
 ---

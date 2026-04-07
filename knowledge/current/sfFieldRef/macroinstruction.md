@@ -5,7 +5,7 @@ topic: macroinstruction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.527Z
+lastCollected: 2026-04-07T09:05:53.400Z
 estimatedTokens: 392
 keywords: [MacroInstruction, instruction, macro, specify, interacts, context, publisher, works, operation, action, performs, target, macro’s, actions]
 ---

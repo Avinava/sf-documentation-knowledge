@@ -5,7 +5,7 @@ topic: materialitytopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.496Z
+lastCollected: 2026-04-07T09:04:28.362Z
 estimatedTokens: 846
 keywords: [MaterialityTopic, possible, topic, materiality, assessment, API, version, 59.0, later, Calls, Associated, Objects]
 ---

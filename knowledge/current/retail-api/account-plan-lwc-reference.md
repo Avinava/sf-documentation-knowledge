@@ -5,7 +5,7 @@ topic: account-plan-lwc-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.030Z
+lastCollected: 2026-04-07T09:05:22.742Z
 estimatedTokens: 2187
 keywords: [Account, Plan, LWC, tpm-account-plan, service, component, loads, TPM, exposing, state, events, keep, components, sync, changes]
 ---

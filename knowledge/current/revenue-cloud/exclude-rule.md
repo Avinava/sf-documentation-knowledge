@@ -5,7 +5,7 @@ topic: exclude-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.899Z
+lastCollected: 2026-04-07T09:01:57.547Z
 estimatedTokens: 286
 keywords: [Exclude, Rule, automatically, remove, specific, relationship, certain, condition, met]
 ---

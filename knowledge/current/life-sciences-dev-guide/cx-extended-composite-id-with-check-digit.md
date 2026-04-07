@@ -5,7 +5,7 @@ topic: cx---extended-composite-id-with-check-digit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.614Z
+lastCollected: 2026-04-07T09:04:08.954Z
 estimatedTokens: 192
 keywords: [Extended, Composite, Check, Digit, HL7, segment, maps, Identifier, Salesforce, V2.3, Clinical, Data, Model, Mapping]
 ---

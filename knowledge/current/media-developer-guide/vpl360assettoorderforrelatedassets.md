@@ -5,7 +5,7 @@ topic: vpl360assettoorderforrelatedassets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.108Z
+lastCollected: 2026-04-07T09:04:21.140Z
 estimatedTokens: 169
 keywords: [VPL360_AssetToOrderForRelatedAssets, Integration, Procedure, converts, asset, order, assets, account, VPL360, _AssetToOrderForRelatedAssets, Sample, Input, Output, Calls]
 ---

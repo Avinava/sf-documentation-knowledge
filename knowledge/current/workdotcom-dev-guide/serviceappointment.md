@@ -5,7 +5,7 @@ topic: serviceappointment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.538Z
+lastCollected: 2026-04-07T09:06:19.290Z
 estimatedTokens: 544
 keywords: [ServiceAppointment, shifts, workplace, confirmed, service, resources, appointments, linked, planned, occupancy, resource, person, API, version, 38.0]
 ---

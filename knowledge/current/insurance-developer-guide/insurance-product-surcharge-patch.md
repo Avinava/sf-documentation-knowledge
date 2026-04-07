@@ -5,7 +5,7 @@ topic: insurance-product-surcharge-patch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.320Z
+lastCollected: 2026-04-07T09:04:02.841Z
 estimatedTokens: 472
 keywords: [Insurance, Product, Surcharge, PATCH, fetch, root]
 ---
@@ -72,7 +72,7 @@ Response body for PATCH
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/product-surcharges/productSurchargeId
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/product-surcharges/productSurchargeId
 ```
 
 ```

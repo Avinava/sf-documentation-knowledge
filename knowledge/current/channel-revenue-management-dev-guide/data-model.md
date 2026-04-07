@@ -5,8 +5,8 @@ topic: data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.823Z
-estimatedTokens: 234
+lastCollected: 2026-04-07T09:03:18.969Z
+estimatedTokens: 231
 keywords: [Data, Model, Processing, Engine, Batch, Management, Monitor, Workflow, Servics, share, Let's, objects, relationships, shared]
 ---
 
@@ -28,4 +28,4 @@ Data Processing Engine, Batch Management, and Monitor Workflow Servics share a d
 
 Here's the data model:
 
-![Data Processing Engine, Batch Management, and Monitor Workflow Services data model.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fimages%2Fbatch_data_model.png&folder=channel_revenue_management_dev_guide)
+![Data Processing Engine, Batch Management, and Monitor Workflow Services data model.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fimages%2Fbatch_data_model.png&folder=channel_revenue_management_dev_guide)

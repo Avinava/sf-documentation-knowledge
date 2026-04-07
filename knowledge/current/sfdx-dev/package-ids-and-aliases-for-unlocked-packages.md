@@ -5,7 +5,7 @@ topic: package-ids-and-aliases-for-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.828Z
+lastCollected: 2026-04-07T09:06:13.900Z
 estimatedTokens: 502
 keywords: [Package, IDs, Aliases, Unlocked, Packages, lifecycle, versions, identified, alias, version, Salesforce, CLI, creates, stores, sfdx-project.json]
 ---

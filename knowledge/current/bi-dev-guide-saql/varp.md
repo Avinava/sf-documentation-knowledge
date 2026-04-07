@@ -5,7 +5,7 @@ topic: varp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.356Z
+lastCollected: 2026-04-07T09:03:13.971Z
 estimatedTokens: 98
 keywords: [varp, variance, Accepts, measure, input, expressions, Calculate, Population, Deal, Amount]
 ---

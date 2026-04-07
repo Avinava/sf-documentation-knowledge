@@ -5,7 +5,7 @@ topic: batch-invoices-document-generation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:19.071Z
+lastCollected: 2026-04-07T09:01:59.659Z
 estimatedTokens: 302
 keywords: [Batch, Invoices, Document, Generation, POST, Asynchronously, generate, PDF, documents, Draft, Posted, status, associated, invoice, run]
 ---

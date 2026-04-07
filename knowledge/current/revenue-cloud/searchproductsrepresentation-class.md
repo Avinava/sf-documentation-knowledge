@@ -5,7 +5,7 @@ topic: searchproductsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:14.309Z
+lastCollected: 2026-04-07T09:01:56.487Z
 estimatedTokens: 4968
 keywords: [SearchProductsRepresentation, results, product, search, operation, including, products, facets, pagination, total, count, matching, additionalFields, attributeCategories, availabilityDate]
 ---

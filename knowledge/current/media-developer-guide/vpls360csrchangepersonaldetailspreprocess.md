@@ -5,7 +5,7 @@ topic: vpls360csrchangepersonaldetailspreprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.274Z
+lastCollected: 2026-04-07T09:04:21.416Z
 estimatedTokens: 146
 keywords: [Integration, Procedure, agent, console, change, personal, account, vpls360csr, _ChangePersonalDetailsPreProcess, Sample, Input, Output, Calls]
 ---

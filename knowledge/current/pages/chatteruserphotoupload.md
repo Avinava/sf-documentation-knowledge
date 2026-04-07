@@ -5,7 +5,7 @@ topic: chatteruserphotoupload
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.235Z
+lastCollected: 2026-04-07T09:04:57.198Z
 estimatedTokens: 205
 keywords: [chatter, userPhotoUpload, Uploads, user’s, photo, their, profile, component, enable, org, Users, belong, either, Standard, User]
 ---

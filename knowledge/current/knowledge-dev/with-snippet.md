@@ -5,7 +5,7 @@ topic: with-snippet
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.816Z
+lastCollected: 2026-04-07T09:04:05.098Z
 estimatedTokens: 1186
 keywords: [SNIPPET, clause, added, SOSL, query, article, case, feed, idea, searches, search, results, excerpts, below, titles]
 ---

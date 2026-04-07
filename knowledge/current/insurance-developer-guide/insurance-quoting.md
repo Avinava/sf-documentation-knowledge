@@ -5,8 +5,8 @@ topic: insurance-quoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.072Z
-estimatedTokens: 392
+lastCollected: 2026-04-07T09:04:04.105Z
+estimatedTokens: 440
 keywords: [Insurance, Quoting, developer, resources, configure, quotes, quote, line, items]
 ---
 
@@ -32,6 +32,10 @@ Use the Insurance Quoting developer resources to create, update, configure, and 
     Metadata API enables you to access some types and feature settings that you can customize in the user interface.
 -   **[Insurance Quoting Developer Journey](atlas.en-us.insurance_developer_guide.meta/insurance_developer_guide/insurance_quoting_developer_journey.htm)**
     Learn how to use the Insurance Quoting and Rating APIs to build user journeys for creating and updating quotes with Salesforce Flows and Omniscripts. These APIs help you build user journeys for users, such as insurance representatives who use the Salesforce console as well as the policyholders and partners who use the services through community portals.
+
+#### See Also
+
+-   [*Salesforce Help*: Insurance Quoting](https://developer.salesforce.com/docs/atlas.en-us.260.0.insurance_developer_guide.meta/insurance_developer_guide/quote_overview.htm)
 
 ## Related Topics
 

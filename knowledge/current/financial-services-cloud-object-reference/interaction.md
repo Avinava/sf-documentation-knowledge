@@ -5,8 +5,8 @@ topic: interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.845Z
-estimatedTokens: 1301
+lastCollected: 2026-04-07T09:03:50.205Z
+estimatedTokens: 1431
 keywords: [Interaction, phone, call, in-person, meeting, video, conference, two, people, attendees, typically, including, least, representative, customer]
 ---
 
@@ -30,6 +30,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Field | Details |
 | --- | --- |
 | AccountId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the account related to the customer or partner who attended the interaction. |
+| AccountPlanObjectiveId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe account plan objective associated with the interaction.This field is a relationship field.Relationship NameAccountPlanObjectiveRelationship TypeLookupRefers ToAccountPlanObjective |
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe description of the interaction. |
 | EndTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time that the interaction ended. |
 | InteractionType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of interaction.Possible values are:ConferenceEmailIn PersonPhone Call |
@@ -40,6 +41,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of the interaction. |
 | ReferenceIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionThe unique reference ID of the interaction. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the record owner. |
+| RelatedInteractionId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe account plan objective associated with the interaction.Relationship NameRelatedRecordRelationship TypeLookupRefers ToAccountPlanObjective |
 | RelatedRecordId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThis is a polymorphic relationship field.Relationship NameRelatedRecordRelationship TypeLookupRefers ToFinancialDeal, Opportunity |
 | StartTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time that the interaction started. |
 

@@ -5,7 +5,7 @@ topic: identity-verification-connect-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.557Z
+lastCollected: 2026-04-07T09:05:10.496Z
 estimatedTokens: 157
 keywords: [Identity, Verification, Connect, APIs, validate, representative, customer]
 ---

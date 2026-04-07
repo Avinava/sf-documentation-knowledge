@@ -5,7 +5,7 @@ topic: company-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.119Z
+lastCollected: 2026-04-07T09:03:23.953Z
 estimatedTokens: 1364
 keywords: [Company, Feed, Resources, containing, elements, comments, entire, URL]
 ---

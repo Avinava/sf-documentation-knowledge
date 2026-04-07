@@ -5,7 +5,7 @@ topic: conversationalintelligencesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:04.740Z
+lastCollected: 2026-04-07T09:02:38.508Z
 estimatedTokens: 1333
 keywords: [ConversationalIntelligenceSettings, org's, Einstein, Conversation, Insights, settings, whether, enabled, lets, analyze, rep's, call, recordings, gives, optimize]
 ---

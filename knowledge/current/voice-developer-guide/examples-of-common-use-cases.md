@@ -5,7 +5,7 @@ topic: examples-of-common-use-cases
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.608Z
+lastCollected: 2026-04-07T09:06:17.856Z
 estimatedTokens: 1475
 keywords: [Examples, Common, Cases, Salesforce, Amazon, Web, Services, provide, help, started, Service, Cloud, Voice, illustrate, how]
 ---

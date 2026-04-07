@@ -5,7 +5,7 @@ topic: deploymessage-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.861Z
+lastCollected: 2026-04-07T09:02:15.030Z
 estimatedTokens: 2348
 namespace: Metadata
 keywords: [DeployMessage, result, deployment, metadata, component, Usage, changed, columnNumber, componentType, created, createdDate, deleted, fileName, fullName, lineNumber]

@@ -5,7 +5,7 @@ topic: connect-your-trial-template-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.411Z
+lastCollected: 2026-04-07T09:04:54.141Z
 estimatedTokens: 304
 keywords: [Connect, Trial, Template, AppExchange, Partner, Console, plan, offer, trials, solution, listing, Salesforce, org, Trialforce, connected]
 ---

@@ -5,7 +5,7 @@ topic: provideracctproductinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.846Z
+lastCollected: 2026-04-07T09:04:11.438Z
 estimatedTokens: 1141
 keywords: [ProviderAcctProductInfo, specific, healthcare, professionals, organizations, territory, product, levels, segmentation, product-level, rankings, API, version, 65.0, later]
 ---

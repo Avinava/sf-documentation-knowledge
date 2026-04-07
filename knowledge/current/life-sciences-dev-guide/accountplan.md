@@ -5,7 +5,7 @@ topic: accountplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.883Z
+lastCollected: 2026-04-07T09:04:08.008Z
 estimatedTokens: 1176
 keywords: [AccountPlan, Life, Sciences, Cloud, extend, standard, Account, Plan, represent, customers, measurable, objectives, executable, steps, proactively]
 ---

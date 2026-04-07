@@ -5,7 +5,7 @@ topic: vpl360deletecartitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.851Z
+lastCollected: 2026-04-07T09:04:20.770Z
 estimatedTokens: 113
 keywords: [VPL360_DeleteCartItem, Integration, Procedure, item, cart, VPL360, _DeleteCartItem, Sample, Input, Output, Calls, deletes]
 ---

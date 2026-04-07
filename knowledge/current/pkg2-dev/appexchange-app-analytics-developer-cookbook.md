@@ -5,7 +5,7 @@ topic: appexchange-app-analytics-developer-cookbook
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.788Z
+lastCollected: 2026-04-07T09:05:02.188Z
 estimatedTokens: 583
 keywords: [AppExchange, App, Analytics, Developer, Cookbook, Delve, deeper, managed, package, usage, data, creating, key, performance, indicators]
 ---

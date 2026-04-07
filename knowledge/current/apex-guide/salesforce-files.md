@@ -5,7 +5,7 @@ topic: salesforce-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:43.988Z
+lastCollected: 2026-04-07T09:02:33.197Z
 estimatedTokens: 216
 keywords: [Salesforce, Files, Apex, customize, behavior]
 ---

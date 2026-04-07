@@ -5,7 +5,7 @@ topic: orderitemsummarychange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.938Z
+lastCollected: 2026-04-07T09:05:56.675Z
 estimatedTokens: 405
 keywords: [OrderItemSummaryChange, change, OrderItemSummary, usually, reduction, quantity, due, cancel, Corresponds, order, item]
 ---

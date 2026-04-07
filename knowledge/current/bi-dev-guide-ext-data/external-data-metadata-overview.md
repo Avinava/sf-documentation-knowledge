@@ -5,7 +5,7 @@ topic: external-data-metadata-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:02.180Z
+lastCollected: 2026-04-07T09:03:07.575Z
 estimatedTokens: 932
 keywords: [External, Data, Metadata, upload, CRM, Analytics, dataset, sure, prepared, files, CSV, JSON, Limits]
 ---

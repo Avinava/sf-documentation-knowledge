@@ -5,7 +5,7 @@ topic: connectapiinsurancecommissionprocessinginputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.249Z
+lastCollected: 2026-04-07T09:04:01.067Z
 estimatedTokens: 113
 keywords: [Input, representation, insurance, commission, processing, resource, includes, commissionStatementIds, process, data]
 ---

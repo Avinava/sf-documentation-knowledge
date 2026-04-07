@@ -5,7 +5,7 @@ topic: carebarriertypehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.296Z
+lastCollected: 2026-04-07T09:05:37.242Z
 estimatedTokens: 264
 keywords: [CareBarrierTypeHistory, History, tracked, CareBarrierType]
 ---

@@ -5,7 +5,7 @@ topic: ruleterritory2association
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.421Z
+lastCollected: 2026-04-07T09:04:48.693Z
 estimatedTokens: 344
 keywords: [RuleTerritory2Association, record-assignment, rule, association, Account, Sales, Territories, enabled, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: navigation-menu-item-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.863Z
+lastCollected: 2026-04-07T09:03:33.803Z
 estimatedTokens: 71
 keywords: [Navigation, Menu, Item, Collection, items]
 ---

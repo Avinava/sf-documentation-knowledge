@@ -5,7 +5,7 @@ topic: vpl360cancelassetitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.116Z
+lastCollected: 2026-04-07T09:04:21.151Z
 estimatedTokens: 167
 keywords: [VPL360_CancelAssetItem, Integration, Procedure, cancels, asset, item, Future, Dated, Order, FDO, VPL360, _CancelAssetItem, Sample, Input, Output]
 ---

@@ -5,7 +5,7 @@ topic: loyaltymembertier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.118Z
+lastCollected: 2026-04-07T09:05:52.778Z
 estimatedTokens: 396
 keywords: [LoyaltyMemberTier, current, tier, member, across, groups]
 ---

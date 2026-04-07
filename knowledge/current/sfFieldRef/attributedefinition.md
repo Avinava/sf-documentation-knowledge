@@ -5,7 +5,7 @@ topic: attributedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:49.017Z
+lastCollected: 2026-04-07T09:05:34.240Z
 estimatedTokens: 538
 keywords: [AttributeDefinition, product, asset, attribute, hardward, specification, software, detail, API, version, 57.0, later]
 ---

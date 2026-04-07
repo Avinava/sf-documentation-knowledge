@@ -5,7 +5,7 @@ topic: exporting-the-kpis-from-hyperforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:37.050Z
+lastCollected: 2026-04-07T09:05:17.883Z
 estimatedTokens: 355
 namespace: CGCloud
 keywords: [Exporting, KPIs, Hyperforce, how, export, CSV, integration, metadata, configuration, adding, new, report, entry, RTR, Configurations]

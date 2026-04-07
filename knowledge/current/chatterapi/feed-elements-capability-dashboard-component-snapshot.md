@@ -5,7 +5,7 @@ topic: feed-elements-capability-dashboard-component-snapshot
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.179Z
+lastCollected: 2026-04-07T09:03:26.681Z
 estimatedTokens: 246
 keywords: [Feed, Elements, Capability, Dashboard, Component, Snapshot, Access, element]
 ---

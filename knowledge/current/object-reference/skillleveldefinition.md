@@ -5,7 +5,7 @@ topic: skillleveldefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.255Z
+lastCollected: 2026-04-07T09:04:49.752Z
 estimatedTokens: 661
 keywords: [SkillLevelDefinition, skill, acquired, completing, enablement, site, myTrailhead, modules, API, version, 51.0, later, Calls, Special, Access]
 ---

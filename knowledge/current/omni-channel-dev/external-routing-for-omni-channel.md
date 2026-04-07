@@ -5,7 +5,7 @@ topic: external-routing-for-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.947Z
+lastCollected: 2026-04-07T09:04:53.300Z
 estimatedTokens: 430
 keywords: [External, Routing, Omni-Channel, Multiple, options, console, Integrate, third-party, give, support, team, their, work]
 ---

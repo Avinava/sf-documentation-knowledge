@@ -5,7 +5,7 @@ topic: service-cloud-voice-customer-alerts-with-cloudwatch
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.500Z
+lastCollected: 2026-04-07T09:06:17.694Z
 estimatedTokens: 518
 keywords: [Service, Cloud, Voice, Customer, Alerts, CloudWatch, Ensure, implementation, running, properly, Amazon, dashboards, alarms, provide, Monitor]
 ---

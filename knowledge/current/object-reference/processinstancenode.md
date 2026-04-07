@@ -5,7 +5,7 @@ topic: processinstancenode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.212Z
+lastCollected: 2026-04-07T09:04:47.156Z
 estimatedTokens: 727
 keywords: [ProcessInstanceNode, step, instance, approval, process, Compare, ProcessNode, definition, retrieve, history, Calls]
 ---

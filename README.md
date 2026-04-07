@@ -311,38 +311,38 @@ MIT © [Avinava](https://github.com/Avinava)
 | Domain | Description | Status | Files |
 |---|---|---|---|
 | **Salesforce Field Reference Guide** | Use this concise reference to quickly look up details of the standard fields for | ✅ Available | 4817 |
-| **Apex Reference** | Apex class library reference — all system classes and methods | ✅ Available | 4612 |
-| **Connect REST API Developer Guide** | Integrate mobile apps, intranet sites, and third-party web applications with Sal | ✅ Available | 2431 |
-| **Object Reference for the Salesforce Platform** | Get details on standard objects so that you can interface with your Salesforce d | ✅ Available | 1774 |
+| **Apex Reference** | Apex class library reference — all system classes and methods | ✅ Available | 4620 |
+| **Connect REST API Developer Guide** | Integrate mobile apps, intranet sites, and third-party web applications with Sal | ✅ Available | 2465 |
+| **Object Reference for the Salesforce Platform** | Get details on standard objects so that you can interface with your Salesforce d | ✅ Available | 1777 |
 | **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1323 |
 | **OmniStudio** | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures | ✅ Available | 1296 |
 | **Public Sector Solutions Developer Guide** | Use Public Sector Solutions API and developer resources to unify public service  | ✅ Available | 1003 |
-| **Salesforce Health Cloud Developer Guide** | Use the Health Cloud API to configure the Health Cloud console, which helps care | ✅ Available | 832 |
-| **Life Sciences Cloud Developer Guide** | Use the developer resources of Life Sciences Cloud to automate the operations av | ✅ Available | 699 |
+| **Salesforce Health Cloud Developer Guide** | Use the Health Cloud API to configure the Health Cloud console, which helps care | ✅ Available | 833 |
+| **Marketing Cloud API** | Developer documentation for Marketing Cloud APIs | ✅ Available | 809 |
+| **Life Sciences Cloud Developer Guide** | Use the developer resources of Life Sciences Cloud to automate the operations av | ✅ Available | 714 |
 | **Metadata API** | Metadata API — deployment, retrieval, metadata types | ✅ Available | 688 |
 | **Insurance Developer Guide** | Learn more about the developer sources of Insurance to automate the backend work | ✅ Available | 616 |
 | **Visualforce Developer Guide** | Learn how to develop custom user interfaces and apps with Visualforce, a framewo | ✅ Available | 609 |
 | **Apex Developer Guide** | Apex language guide — syntax, triggers, testing, best practices | ✅ Available | 542 |
-| **Financial Services Cloud Developer Guide** | Extend Financial Services Cloud with other Salesforce products using the API and | ✅ Available | 526 |
-| **Consumer Goods Cloud Developer Guide** | Use APIs and developer resources to configure, customize, and extend the capabil | ✅ Available | 522 |
+| **Financial Services Cloud Developer Guide** | Extend Financial Services Cloud with other Salesforce products using the API and | ✅ Available | 527 |
+| **Loyalty Management Developer Guide** | Use Loyalty Management API and developer resources to create personalized loyalt | ✅ Available | 526 |
+| **Consumer Goods Cloud Developer Guide** | Use APIs and developer resources to configure, customize, and extend the capabil | ✅ Available | 524 |
 | **CRM Analytics REST API Developer Guide** | Describes how to send queries directly to CRM Analytics, access datasets that ha | ✅ Available | 519 |
-| **Loyalty Management Developer Guide** | Use Loyalty Management API and developer resources to create personalized loyalt | ✅ Available | 501 |
 | **Lightning Aura Components Developer Guide** | Create Aura components for Salesforce for Android, iOS, and mobile web and Light | ✅ Available | 491 |
+| **Mobile SDK Development Guide** | Build standalone native, React Native, and hybrid mobile apps that access Salesf | ✅ Available | 409 |
 | **Data Cloud** | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available | 400 |
-| **ISVforce Guide** | Plan, build, and sell AppExchange solutions and consulting services. | ✅ Available | 347 |
+| **Programmatic Marketing Content** | Developer documentation for Marketing Cloud Programmatic Content | ✅ Available | 381 |
+| **ISVforce Guide** | Plan, build, and sell AppExchange solutions and consulting services. | ✅ Available | 356 |
 | **Service Cloud** | Service Cloud — cases, knowledge, omni-channel, entitlements | ✅ Available | 344 |
 | **Tooling API** | Tooling API — code coverage, debug logs, custom fields | ✅ Available | 338 |
 | **Einstein Discovery REST API Developer Guide** | Describes how to create and access Einstein Discovery predictions, discovery mod | ✅ Available | 312 |
+| **Education Cloud Developer Guide** | Education Cloud gives you the tools and developer resources you need to support  | ✅ Available | 308 |
 | **REST API** | Salesforce REST API — resources, methods, composite, batch | ✅ Available | 308 |
 | **Nonprofit Cloud Developer Guide** | Use APIs and developer resources to configure, customize, and extend the capabil | ✅ Available | 304 |
-| **Education Cloud Developer Guide** | Education Cloud gives you the tools and developer resources you need to support  | ✅ Available | 301 |
 | **Data Prep Recipe REST API Developer Guide** | Describes how to retrieve, update, and schedule Data Prep recipes. | ✅ Available | 296 |
-| **Net Zero Cloud Developer Guide** | Use Net Zero API and developer resources to integrate a complete sustainability  | ✅ Available | 265 |
-| **User Interface API Developer Guide** | User Interface API enables you to create native mobile apps and custom web apps  | ✅ Available | 257 |
-| **Field Service** | Field Service — work orders, scheduling, mobile, territories | ✅ Available | 247 |
-| *+ 91 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *5,866* |
+| *+ 99 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *6,899* |
 
-*121 domains | 33,386 knowledge files*
+*129 domains | 35,354 knowledge files*
 <!-- INVENTORY:END -->
 
 ---

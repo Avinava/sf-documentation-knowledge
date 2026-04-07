@@ -5,7 +5,7 @@ topic: fhir-human-name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:42.812Z
+lastCollected: 2026-04-07T09:04:06.573Z
 estimatedTokens: 440
 keywords: [FHIR, Human, output, representation, PersonName, record, created, represent, humanName]
 ---

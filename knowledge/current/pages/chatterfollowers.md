@@ -5,7 +5,7 @@ topic: chatterfollowers
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.229Z
+lastCollected: 2026-04-07T09:04:57.187Z
 estimatedTokens: 227
 keywords: [chatter, followers, Displays, record, components, unavailable, Visualforce, pages, Force.com, sites, Ext, versions, less, included, component]
 ---

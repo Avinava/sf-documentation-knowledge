@@ -5,7 +5,7 @@ topic: declinedeventrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.124Z
+lastCollected: 2026-04-07T09:04:38.936Z
 estimatedTokens: 447
 keywords: [DeclinedEventRelation, event, participants, invitees, attendees, status, Declined, API, versions, 29.0, later, Calls, Usage]
 ---

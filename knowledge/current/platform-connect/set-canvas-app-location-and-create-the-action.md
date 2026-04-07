@@ -5,7 +5,7 @@ topic: set-canvas-app-location-and-create-the-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.377Z
+lastCollected: 2026-04-07T09:05:04.384Z
 estimatedTokens: 544
 keywords: [Canvas, App, Location, Action, add, publisher, bar]
 ---

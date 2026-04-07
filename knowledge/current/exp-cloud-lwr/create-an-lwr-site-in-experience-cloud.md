@@ -5,7 +5,7 @@ topic: create-an-lwr-site-in-experience-cloud
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.708Z
+lastCollected: 2026-04-07T09:03:46.080Z
 estimatedTokens: 702
 keywords: [LWR, Site, Experience, Cloud, Select, Build, Own, Microsite, template]
 ---

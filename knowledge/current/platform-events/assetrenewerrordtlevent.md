@@ -5,7 +5,7 @@ topic: assetrenewerrordtlevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.323Z
+lastCollected: 2026-04-07T09:05:05.839Z
 estimatedTokens: 223
 keywords: [AssetRenewErrorDtlEvent, errors, occurred, processing, asset-management, assets, collection, actions, initiate-renew, included, AssetRenewInitiatedEvent, message, can't, subscribe, directly]
 ---

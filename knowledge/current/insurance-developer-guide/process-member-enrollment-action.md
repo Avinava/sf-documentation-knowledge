@@ -5,8 +5,8 @@ topic: process-member-enrollment-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.682Z
-estimatedTokens: 542
+lastCollected: 2026-04-07T09:04:00.170Z
+estimatedTokens: 541
 keywords: [Process, Member, Enrollment, Action, insurance, policies, group, census, members, per, their, selected, plans, REST, HTTP]
 ---
 
@@ -27,7 +27,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/processMemberEnrollment
+/services/data/v/actions/standard/processMemberEnrollment
 
 Formats
 

@@ -5,7 +5,7 @@ topic: clone-and-import-loyalty-management-mobile-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.525Z
+lastCollected: 2026-04-07T09:04:19.153Z
 estimatedTokens: 273
 keywords: [Clone, Import, Loyalty, Management, Mobile, SDK, Android, GitHub, repository, local, copy, development, machine, code, MyNTORewards]
 ---

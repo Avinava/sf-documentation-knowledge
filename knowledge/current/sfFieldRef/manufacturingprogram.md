@@ -5,7 +5,7 @@ topic: manufacturingprogram
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.678Z
+lastCollected: 2026-04-07T09:05:53.607Z
 estimatedTokens: 409
 keywords: [ManufacturingProgram, manufacturing, program, Verican, Account, manufacture, auto, components, their, upcoming, concept, vehicle, staring, 01-Jan-2022, until]
 ---

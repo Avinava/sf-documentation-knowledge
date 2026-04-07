@@ -5,8 +5,8 @@ topic: understand-the-devops-center-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.372Z
-estimatedTokens: 1039
+lastCollected: 2026-04-07T09:03:41.419Z
+estimatedTokens: 1035
 keywords: [Understand, DevOps, Center, Data, Model, consists, custom, objects, created, install, managed, package, org, top, Project]
 ---
 
@@ -26,7 +26,7 @@ For easier reading, this guide typically refers to objects and fields by their l
 
 This diagram shows many of the foundational objects in the DevOps Center object model; not all objects are shown.
 
-![High-level relationship diagram of the foundational custom objects in the DevOps Center object model.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_main.png&folder=devops_center_dev)
+![High-level relationship diagram of the foundational custom objects in the DevOps Center object model.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_main.png&folder=devops_center_dev)
 
 These three objects have direct relationships to the Project object:
 

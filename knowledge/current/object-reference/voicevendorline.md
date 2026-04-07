@@ -5,7 +5,7 @@ topic: voicevendorline
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.309Z
+lastCollected: 2026-04-07T09:04:52.479Z
 estimatedTokens: 589
 keywords: [VoiceVendorLine, user’s, phone, number, reserved, vendor, Calls, Special, Access, Rules, Associated, Objects]
 ---

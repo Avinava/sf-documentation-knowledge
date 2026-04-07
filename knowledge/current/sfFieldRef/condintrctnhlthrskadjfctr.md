@@ -5,7 +5,7 @@ topic: condintrctnhlthrskadjfctr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.711Z
+lastCollected: 2026-04-07T09:05:40.318Z
 estimatedTokens: 543
 keywords: [CondIntrctnHlthRskAdjFctr, Stores, risk, adjustment, factor, patients, members, interacting, conditions, they, diagnosed, status, their, benefits, eligibility]
 ---

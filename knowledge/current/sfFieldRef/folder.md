@@ -5,7 +5,7 @@ topic: folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.458Z
+lastCollected: 2026-04-07T09:05:46.488Z
 estimatedTokens: 330
 namespace: NamespacePrefix
 keywords: [Folder, repository, Dashboard, Document, EmailTemplate, Macro, QuickText, Report, item, contained]

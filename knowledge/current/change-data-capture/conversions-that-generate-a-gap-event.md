@@ -5,7 +5,7 @@ topic: conversions-that-generate-a-gap-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.557Z
+lastCollected: 2026-04-07T09:03:18.499Z
 estimatedTokens: 219
 keywords: [Conversions, Generate, Gap, Event, generated, affected, records, Picklist, change, message, including, record, IDs, GAP_UPDATE]
 ---

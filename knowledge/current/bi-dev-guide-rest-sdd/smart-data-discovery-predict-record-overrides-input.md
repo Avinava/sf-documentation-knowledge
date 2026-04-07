@@ -5,7 +5,7 @@ topic: smart-data-discovery-predict-record-overrides-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.267Z
+lastCollected: 2026-04-07T09:03:12.316Z
 estimatedTokens: 126
 keywords: [Smart, Data, Discovery, Predict, Record, Overrides, Input, Einstein]
 ---

@@ -5,7 +5,7 @@ topic: addqmqgtowccopytoeqbatch-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.855Z
+lastCollected: 2026-04-07T09:03:44.837Z
 estimatedTokens: 55
 keywords: [AddQMQGToWC_CopyToEQBatch, API, Trigger, batch, process, migrate, clone, products, working, cart, enterprise, quote, AddQMQGToWC, _CopyToEQBatch, URI]
 ---

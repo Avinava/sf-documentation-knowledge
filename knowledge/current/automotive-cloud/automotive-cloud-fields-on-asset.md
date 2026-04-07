@@ -5,7 +5,7 @@ topic: automotive-cloud-fields-on-asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.018Z
+lastCollected: 2026-04-07T09:03:06.039Z
 estimatedTokens: 216
 keywords: [Automotive, Cloud, Asset, Standard, extend, represent, physical, item, that’s, manufactured, installed, sold, vehicle, part, car]
 ---

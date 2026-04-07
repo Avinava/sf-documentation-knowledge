@@ -5,7 +5,7 @@ topic: stationary-asset-carbon-footprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.548Z
+lastCollected: 2026-04-07T09:04:26.056Z
 estimatedTokens: 7208
 keywords: [Stationary, Asset, Carbon, Footprint, total, emissions, environmental, attributes, assets, quantifies, effect, atmospheric, warming, represented, metric]
 ---

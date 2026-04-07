@@ -5,8 +5,8 @@ topic: execution-governors-and-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.851Z
-estimatedTokens: 6380
+lastCollected: 2026-04-07T09:04:56.613Z
+estimatedTokens: 6330
 namespace: ConnectApi
 keywords: [Execution, Governors, Limits, addition, core, Apex, governor, email, push, notification, included, later, topic, convenience, Per-Transaction]
 ---
@@ -22,14 +22,14 @@ keywords: [Execution, Governors, Limits, addition, core, Apex, governor, email, 
 
 The Apex limits, or governors, track, and enforce the statistics outlined in the following tables and sections.
 
--   [Per-Transaction Apex Limits](#d3972e17-d3985e77)
--   [Per-Transaction Certified Managed Package Limits](#d3972e17-d3985e79)
--   [Lightning Platform Apex Limits](#d3972e17-d3985e81)
--   [Static Apex Limits](#d3972e17-d3985e84)
--   [Size-Specific Apex Limits](#d3972e17-d3985e86)
--   [Miscellaneous Apex Limits](#d3972e17-d3985e88)
+-   [Per-Transaction Apex Limits](#d3844e17-d3857e77)
+-   [Per-Transaction Certified Managed Package Limits](#d3844e17-d3857e79)
+-   [Lightning Platform Apex Limits](#d3844e17-d3857e81)
+-   [Static Apex Limits](#d3844e17-d3857e84)
+-   [Size-Specific Apex Limits](#d3844e17-d3857e86)
+-   [Miscellaneous Apex Limits](#d3844e17-d3857e88)
 
-In addition to the core Apex governor limits, [email limits](#d3972e17-d3985e90) and [push notification limits](#d3972e17-d3985e92) are also included later in this topic for your convenience.
+In addition to the core Apex governor limits, [email limits](#d3844e17-d3857e90) and [push notification limits](#d3844e17-d3857e92) are also included later in this topic for your convenience.
 
 ## Per-Transaction Apex Limits
 
@@ -219,9 +219,7 @@ The limits in this table aren't specific to an Apex transaction; Lightning Platf
 
 Connect in Apex
 
-For classes in the ConnectApi namespace, every write operation costs one DML statement against the Apex governor limit. ConnectApi method calls are also subject to rate limits. ConnectApi rate limits match Connect REST API rate limits, and have a per user, per namespace, per hour rate limit. When you exceed the rate limit, a ConnectApi.RateLimitException is thrown. Your Apex code must catch and handle this exception.
-
-For migrated orgs and orgs created in Summer ’24 and later, only ConnectApi method calls that require Chatter are subject to the per user, per namespace, per hour rate limit. The documentation for every ConnectApi method indicates whether Chatter is required. ConnectApi method calls that don’t require Chatter count toward the [Salesforce Platform total API request allocations](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm), which are per org and span a 24-hour period.
+For classes in the ConnectApi namespace, every write operation costs one DML statement against the Apex governor limit. ConnectApi method calls are also subject to rate limits. Most ConnectApi method calls count toward the [Salesforce Platform total API request allocations](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm), which are per org and span a 24-hour period. Only ConnectApi method calls that require Chatter are subject to a per user, per namespace, per hour rate limit. The documentation for every ConnectApi method indicates whether Chatter is required. When you exceed the rate limit, a ConnectApi.RateLimitException is thrown. Your Apex code must catch and handle this exception.
 
 Data.com Clean
 

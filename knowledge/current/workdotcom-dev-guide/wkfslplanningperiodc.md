@@ -5,7 +5,7 @@ topic: wkfslplanningperiodc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.568Z
+lastCollected: 2026-04-07T09:06:19.334Z
 estimatedTokens: 490
 keywords: [wkfsl__PlanningPeriod__c, deprecated, Shift, Management, managed, package, version, 3.0, wkfsl__Facility_Plan__c, manage, requests, employee, availability, due, date]
 ---

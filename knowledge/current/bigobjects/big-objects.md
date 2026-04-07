@@ -5,7 +5,7 @@ topic: big-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:07.822Z
+lastCollected: 2026-04-07T09:03:16.333Z
 estimatedTokens: 1023
 keywords: [Big, Objects, stores, manages, massive, amounts, data, Salesforce, platform, archive, bring, datasets, outside, systems, full]
 ---

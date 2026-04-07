@@ -5,7 +5,7 @@ topic: sobjectdescribeoptions-enum
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:29.596Z
+lastCollected: 2026-04-07T09:02:27.372Z
 estimatedTokens: 293
 keywords: [SObjectDescribeOptions, Schema.SObjectDescribeOptions, SObjectType.getDescribe, Usage]
 ---
@@ -22,7 +22,7 @@ A Schema.SObjectDescribeOptions enum value is a parameter in the SObjectType.get
 
 ## Usage
 
-For more information about the method using this enum, see [getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1389787181 "Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.").
+For more information about the method using this enum, see [getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1020400855 "Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.").
 
 ## Enum Values
 
@@ -34,7 +34,7 @@ The following are the values of the Schema.SObjectDescribeOptions enum.
 | DEFERRED | Lazy-load child relationships; do not load all child relationships at the time of first invocation of the method. |
 | FULL | Eager-load all elements of the describe, including child relationships, up-front at the time of method invocation. |
 
-See [getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1389787181 "Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.").
+See [getDescribe(options)](atlas.en-us.apexref.meta/apexref/apex_class_Schema_SObjectType.htm#unique_1020400855 "Returns the describe sObject result for this field; the parameter value determines whether all child relationships are loaded up-front, or not.").
 
 ## Related Topics
 

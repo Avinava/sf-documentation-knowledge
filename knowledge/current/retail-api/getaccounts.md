@@ -5,7 +5,7 @@ topic: getaccounts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.962Z
+lastCollected: 2026-04-07T09:05:17.746Z
 estimatedTokens: 150
 keywords: [getAccounts, accounts, target, promotion, timeframe, calculated, difference, days, original, date, new, Input, Sample, derived, period, defined, input]
 ---

@@ -5,7 +5,7 @@ topic: jobpstnrecruitmentrqs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.005Z
+lastCollected: 2026-04-07T09:05:13.897Z
 estimatedTokens: 823
 keywords: [JobPstnRecruitmentRqs, junction, job, position, recruitment, requisition, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
 ---

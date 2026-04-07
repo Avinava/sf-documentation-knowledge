@@ -5,7 +5,7 @@ topic: insurance-policy-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.967Z
+lastCollected: 2026-04-07T09:04:03.927Z
 estimatedTokens: 718
 keywords: [Insurance, Policy, Standard, Invocable, Actions, manage, endorse, policies]
 ---

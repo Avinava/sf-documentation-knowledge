@@ -5,7 +5,7 @@ topic: workorderhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.718Z
+lastCollected: 2026-04-07T09:04:52.990Z
 estimatedTokens: 353
 keywords: [WorkOrderHistory, history, changes, made, tracked, work, order, API, version, 36.0, later, Calls, Special, Access, Rules]
 ---

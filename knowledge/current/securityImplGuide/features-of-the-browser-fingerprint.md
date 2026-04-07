@@ -5,7 +5,7 @@ topic: features-of-the-browser-fingerprint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.000Z
+lastCollected: 2026-04-07T09:05:28.841Z
 estimatedTokens: 555
 keywords: [Features, Browser, Fingerprint, collection, together, identify, device, Salesforce, uses, build, model, user’s, original, they, logged]
 ---

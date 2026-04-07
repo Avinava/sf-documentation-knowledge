@@ -5,7 +5,7 @@ topic: researchstudy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.604Z
+lastCollected: 2026-04-07T09:03:56.373Z
 estimatedTokens: 1796
 keywords: [ResearchStudy, FHIR, resource, maps, objects, Salesforce, V4.0, Clinical, Data, Model, Mapping]
 ---

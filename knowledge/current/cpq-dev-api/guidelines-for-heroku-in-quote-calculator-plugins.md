@@ -5,7 +5,7 @@ topic: guidelines-for-heroku-in-quote-calculator-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:23.739Z
+lastCollected: 2026-04-07T09:03:40.410Z
 estimatedTokens: 262
 keywords: [Guidelines, Heroku, Quote, Calculator, Plugins, Salesforce, CPQ, call, perform, asynchronous, calculations, write, plugin, review, working]
 ---

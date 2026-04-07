@@ -5,7 +5,7 @@ topic: contextdefinitionversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:57.302Z
+lastCollected: 2026-04-07T09:02:59.876Z
 estimatedTokens: 451
 keywords: [ContextDefinitionVersion, context, definition, version, active, time, API, 59.0, later, SOAP, Calls, REST]
 ---

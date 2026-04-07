@@ -5,7 +5,7 @@ topic: experience-cloud-sites-moderation-user-audit-statistics
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.688Z
+lastCollected: 2026-04-07T09:03:25.970Z
 estimatedTokens: 91
 keywords: [Experience, Cloud, Sites, Moderation, User, Audit, Statistics, site]
 ---

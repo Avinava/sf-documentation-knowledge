@@ -5,7 +5,7 @@ topic: declaring-a-remote-method-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.755Z
+lastCollected: 2026-04-07T09:04:59.382Z
 estimatedTokens: 300
 keywords: [Declaring, Remote, Apex, call, almost, any, JavaScript, remoting, action, needs, conform, simple, rules]
 ---

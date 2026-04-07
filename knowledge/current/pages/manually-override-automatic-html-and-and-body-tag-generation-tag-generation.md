@@ -6,7 +6,7 @@ topic: manually-override-automatic-html-and-and-body-tag-generation-tag-generati
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:23.679Z
+lastCollected: 2026-04-07T09:04:59.259Z
 estimatedTokens: 732
 keywords: [Manually, Override, Automatic, <html>, <body>, Tag, Generation, applyHtmlTag, applyBodyTag, attributes, <apex, page>, suppress, tags, favor]
 ---

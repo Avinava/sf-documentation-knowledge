@@ -5,7 +5,7 @@ topic: set-up-cross-origin-resource-sharing-cors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.859Z
+lastCollected: 2026-04-07T09:03:51.332Z
 estimatedTokens: 339
 keywords: [Cross-Origin, Resource, Sharing, CORS, production, Headless, Identity, features, web, app, enable, communicate, Salesforce, step, isn’t]
 ---

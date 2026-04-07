@@ -5,7 +5,7 @@ topic: running-a-subset-of-tests-in-a-deployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:05.558Z
+lastCollected: 2026-04-07T09:02:39.324Z
 estimatedTokens: 549
 keywords: [Running, Subset, Tests, Deployment, Test, levels, enable, control, over, run, shorten, time, production, deploying, Apex]
 ---

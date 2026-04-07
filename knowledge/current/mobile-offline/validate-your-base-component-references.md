@@ -5,7 +5,7 @@ topic: validate-your-base-component-references
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.192Z
+lastCollected: 2026-04-07T09:04:25.549Z
 estimatedTokens: 1289
 keywords: [Validate, Base, Component, References, components, help, develop, apps, quickly, However, designed, mobile, environments, SLDS, Linter]
 ---

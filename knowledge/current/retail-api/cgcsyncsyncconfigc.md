@@ -5,7 +5,7 @@ topic: cgcsyncsyncconfigc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.688Z
+lastCollected: 2026-04-07T09:05:18.857Z
 estimatedTokens: 2575
 keywords: [cgc_sync__Sync_Config__c, settings, synchronization, engine, client, backend, background, sync, startup, Apex, endpoint, thresholds, API, version, 53.0]
 ---

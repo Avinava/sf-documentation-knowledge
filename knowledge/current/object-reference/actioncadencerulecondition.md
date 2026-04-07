@@ -5,7 +5,7 @@ topic: actioncadencerulecondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.781Z
+lastCollected: 2026-04-07T09:04:33.751Z
 estimatedTokens: 668
 keywords: [ActionCadenceRuleCondition, logic, branch, step, API, version, 48.0, later, Calls, Usage]
 ---

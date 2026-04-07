@@ -5,7 +5,7 @@ topic: test-harness-home-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.515Z
+lastCollected: 2026-04-07T09:04:24.618Z
 estimatedTokens: 721
 keywords: [Test, Harness, Home, Tab, app, base, tool, daily, development, activities, screen, start, log, Salesforce, direct]
 ---

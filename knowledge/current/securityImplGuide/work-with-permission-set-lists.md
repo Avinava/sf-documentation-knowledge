@@ -5,7 +5,7 @@ topic: work-with-permission-set-lists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.860Z
+lastCollected: 2026-04-07T09:05:28.617Z
 estimatedTokens: 1238
 keywords: [Work, Permission, views, help, view, manage, edit, permissions, multiple, time]
 ---

@@ -5,7 +5,7 @@ topic: flow-for-lookup-tables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:53.829Z
+lastCollected: 2026-04-07T09:02:56.480Z
 estimatedTokens: 235
 keywords: [Flow, Lookup, Tables, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---

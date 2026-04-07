@@ -5,7 +5,7 @@ topic: channel-order-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.757Z
+lastCollected: 2026-04-07T09:04:54.716Z
 estimatedTokens: 867
 keywords: [Channel, Order, App, customer, buys, AppExchange, product, requests, changes, subscription, submit, COA, Salesforce, receives, activate]
 ---

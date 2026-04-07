@@ -5,7 +5,7 @@ topic: update-settings-in-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.622Z
+lastCollected: 2026-04-07T09:04:54.486Z
 estimatedTokens: 362
 keywords: [Settings, Checkout, Management, App, Control, customers, team, members, receive, emails, CMA, change, Stripe, account, associated]
 ---

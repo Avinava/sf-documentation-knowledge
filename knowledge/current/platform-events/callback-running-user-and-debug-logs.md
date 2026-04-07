@@ -5,7 +5,7 @@ topic: callback-running-user-and-debug-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.063Z
+lastCollected: 2026-04-07T09:05:05.438Z
 estimatedTokens: 286
 keywords: [Callback, Running, User, Debug, Logs, publish, runs, under, Automated, Process, result, records, created, their, system]
 ---

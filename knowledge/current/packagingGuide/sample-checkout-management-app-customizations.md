@@ -5,7 +5,7 @@ topic: sample-checkout-management-app-customizations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.597Z
+lastCollected: 2026-04-07T09:04:54.441Z
 estimatedTokens: 431
 keywords: [Sample, Checkout, Management, App, Customizations, CMA, powerful, tool, box, better, customize, examples, show, how, modify]
 ---

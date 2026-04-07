@@ -5,7 +5,7 @@ topic: update-an-unlocked-package-version
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.776Z
+lastCollected: 2026-04-07T09:06:13.804Z
 estimatedTokens: 153
 keywords: [Unlocked, Package, Version, command, line, change, exception, can’t, release, status]
 ---

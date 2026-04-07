@@ -5,7 +5,7 @@ topic: device
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.451Z
+lastCollected: 2026-04-07T09:03:56.175Z
 estimatedTokens: 1100
 keywords: [Device, F​HI​R, resource, maps, Asset, ​​Care​Registered​Device​, objects, Salesforce​, V4​.0, ​Clinical, ​Data, ​Model, ​Mapping]
 ---

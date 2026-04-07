@@ -5,8 +5,8 @@ topic: accounting-subledger-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:29.765Z
-estimatedTokens: 119
+lastCollected: 2026-04-07T09:05:07.629Z
+estimatedTokens: 116
 keywords: [Accounting, Subledger, Data, Model, objects, relationships]
 ---
 
@@ -25,4 +25,4 @@ Learn about the objects and relationships within the Accounting Subledger data m
 
 ## Accounting Subledger: Overview
 
-![Accounting Subledger Data Model](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Faccounting_subledger_api%2Fimages%2Fasl_data_model.png&folder=psc_api)
+![Accounting Subledger Data Model](/docs/resources/img/en-us/260.0?doc_id=accounting_subledger_api%2Fimages%2Fasl_data_model.png&folder=psc_api)

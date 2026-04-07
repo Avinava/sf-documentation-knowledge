@@ -5,7 +5,7 @@ topic: chat-visualforce-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:50.141Z
+lastCollected: 2026-04-07T09:04:15.915Z
 estimatedTokens: 1199
 keywords: [Chat, Visualforce, Components, customize, appearance, behavior, windows, liveAgent, clientChatQueuePosition]
 ---

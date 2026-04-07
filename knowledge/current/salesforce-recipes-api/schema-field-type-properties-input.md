@@ -5,7 +5,7 @@ topic: schema-field-type-properties-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.466Z
+lastCollected: 2026-04-07T09:05:24.961Z
 estimatedTokens: 189
 keywords: [Schema, Input, node, recipe]
 ---

@@ -5,7 +5,7 @@ topic: explicitly-resizing-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.273Z
+lastCollected: 2026-04-07T09:05:04.204Z
 estimatedTokens: 177
 keywords: [Explicitly, Resizing, Canvas, App, code, how, call, resize, don’t, specify, height, width, parent, window, attempts]
 ---

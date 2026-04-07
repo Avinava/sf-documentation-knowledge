@@ -5,7 +5,7 @@ topic: order-item-summary-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.084Z
+lastCollected: 2026-04-07T09:03:34.231Z
 estimatedTokens: 133
 keywords: [Order, Item, Summary, Output, OrderItemSummary, failed, FulfillmentOrder, multiple, fulfillment, orders]
 ---

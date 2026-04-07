@@ -5,7 +5,7 @@ topic: donorgiftsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.448Z
+lastCollected: 2026-04-07T09:04:30.731Z
 estimatedTokens: 4790
 keywords: [DonorGiftSummary, gift, summaries, accounts, contacts, API, version, 59.0, later, Calls, Special, Access, Rules, 64.0, Associated, Objects]
 ---

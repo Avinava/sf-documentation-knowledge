@@ -5,7 +5,7 @@ topic: contentdocumentlink
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.087Z
+lastCollected: 2026-04-07T09:04:37.634Z
 estimatedTokens: 2740
 keywords: [ContentDocumentLink, link, Salesforce, CRM, Content, document, file, ContentNote, it's, shared, users, groups, records, libraries, versions]
 ---

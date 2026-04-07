@@ -5,7 +5,7 @@ topic: use-visual-studio-code-to-retrieve-the-template-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.534Z
+lastCollected: 2026-04-07T09:03:15.862Z
 estimatedTokens: 223
 keywords: [Visual, Studio, Code, Retrieve, Template, Files, Pull, metadata, scratch, org, local, workspace, Command, Palette, Source]
 ---

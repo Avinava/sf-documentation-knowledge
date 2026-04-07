@@ -5,7 +5,7 @@ topic: edit-variablesjson
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.522Z
+lastCollected: 2026-04-07T09:03:15.843Z
 estimatedTokens: 1141
 keywords: [Edit, variables.json, file, variables, template-info.json, ui.json, different, rules.json, files, Examples]
 ---

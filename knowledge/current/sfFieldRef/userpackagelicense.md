@@ -5,7 +5,7 @@ topic: userpackagelicense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.161Z
+lastCollected: 2026-04-07T09:06:10.411Z
 estimatedTokens: 283
 keywords: [UserPackageLicense, license, installed, managed, package, assigned, specific, user, API, version, 31.0, later]
 ---

@@ -5,7 +5,7 @@ topic: coursecredittransferappln
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.041Z
+lastCollected: 2026-04-07T09:03:43.792Z
 estimatedTokens: 1686
 keywords: [CourseCreditTransferAppln, course, credit, transfer, application, API, version, 65.0, later, Calls]
 ---

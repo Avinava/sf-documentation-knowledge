@@ -5,7 +5,7 @@ topic: refresh-records-cached-in-durable-store-while-offline
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.392Z
+lastCollected: 2026-04-07T09:04:24.419Z
 estimatedTokens: 585
 keywords: [Refresh, Records, Cached, Durable, Store, Offline, it’s, possible, retrieve, updated, data, Salesforce, client, device, updates]
 ---

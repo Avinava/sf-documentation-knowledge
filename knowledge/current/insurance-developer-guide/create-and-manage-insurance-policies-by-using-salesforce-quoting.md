@@ -5,7 +5,7 @@ topic: create-and-manage-insurance-policies-by-using-salesforce-quoting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.021Z
+lastCollected: 2026-04-07T09:04:04.027Z
 estimatedTokens: 968
 keywords: [Manage, Insurance, Policies, Salesforce, Quoting, how, effectively, Policy, Connect, APIs, along, associated, invocable, actions, build]
 ---

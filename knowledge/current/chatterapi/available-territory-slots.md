@@ -5,7 +5,7 @@ topic: available-territory-slots
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.638Z
+lastCollected: 2026-04-07T09:03:24.569Z
 estimatedTokens: 1194
 keywords: [Territory, Slots, consolidated, availability, service, resource, territories, Slot’s, start, end, time, resources]
 ---

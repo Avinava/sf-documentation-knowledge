@@ -5,7 +5,7 @@ topic: api-detection-event-is-confirmed-malicious
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.966Z
+lastCollected: 2026-04-07T09:05:28.788Z
 estimatedTokens: 660
 keywords: [API, Detection, Event, Confirmed, Malicious, Alan, Salesforce, user, employs, query, Opportunity, extracts, million, records, It’s]
 ---

@@ -5,7 +5,7 @@ topic: lifesciconfigassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:47.747Z
+lastCollected: 2026-04-07T09:04:12.364Z
 estimatedTokens: 872
 keywords: [LifeSciConfigAssignment, assignments, Life, Sciences, configuration, record, child, LifeSciConfigRecord, SOAP, API, Calls, REST]
 ---

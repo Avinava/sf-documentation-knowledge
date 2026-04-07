@@ -5,7 +5,7 @@ topic: userrecordaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.992Z
+lastCollected: 2026-04-07T09:04:52.072Z
 estimatedTokens: 900
 keywords: [UserRecordAccess, user’s, access, records, API, version, 24.0, later, doesn’t, consider, whether, blocked, restriction, rule, Calls]
 ---

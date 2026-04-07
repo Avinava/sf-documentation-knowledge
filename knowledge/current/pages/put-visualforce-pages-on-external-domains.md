@@ -5,7 +5,7 @@ topic: put-visualforce-pages-on-external-domains
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.982Z
+lastCollected: 2026-04-07T09:04:59.725Z
 estimatedTokens: 1147
 keywords: [Put, Visualforce, Pages, External, Domains, frame, content, trusted, domain, enable, clickjack, protection, specify, allow, framing]
 ---

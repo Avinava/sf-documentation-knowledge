@@ -5,7 +5,7 @@ topic: configuration-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.046Z
+lastCollected: 2026-04-07T09:06:14.188Z
 estimatedTokens: 1653
 keywords: [Configuration, Variables, config, current, project, projects, two, kinds, local, apply, computer, specific, override, ones, commands]
 ---

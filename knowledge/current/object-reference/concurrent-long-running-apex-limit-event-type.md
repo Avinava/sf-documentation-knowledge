@@ -5,7 +5,7 @@ topic: concurrent-long-running-apex-limit-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.037Z
+lastCollected: 2026-04-07T09:04:40.083Z
 estimatedTokens: 1168
 keywords: [Concurrent, Long-Running, Apex, Limit, Event, events, contain, requests, org, Salesforce, terminated, reaching, org’s, concurrency, established]
 ---

@@ -5,7 +5,7 @@ topic: example-diagrams-for-channels-and-channel-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.502Z
+lastCollected: 2026-04-07T09:03:18.414Z
 estimatedTokens: 1914
 keywords: [Diagrams, Channels, Channel, Members, Discover, relationship, Entity, Diagram, ERD, understand, benefits, custom, Member, ChangeEvents, Standard]
 ---

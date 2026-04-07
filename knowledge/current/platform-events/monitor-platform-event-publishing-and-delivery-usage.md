@@ -5,7 +5,7 @@ topic: monitor-platform-event-publishing-and-delivery-usage
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:27.891Z
+lastCollected: 2026-04-07T09:05:05.252Z
 estimatedTokens: 2271
 keywords: [Monitor, Platform, Event, Publishing, Delivery, Usage, data, Pub, Sub, API, CometD, clients, empApi, Lightning, components]
 ---

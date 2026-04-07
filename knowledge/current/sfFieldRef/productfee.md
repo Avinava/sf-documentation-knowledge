@@ -5,7 +5,7 @@ topic: productfee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:09.489Z
+lastCollected: 2026-04-07T09:06:01.189Z
 estimatedTokens: 349
 keywords: [ProductFee, base, fee, associated, product, API, version, 61.0, later, Digital, Lending, permission]
 ---

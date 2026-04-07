@@ -5,7 +5,7 @@ topic: datasourcebundledefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.364Z
+lastCollected: 2026-04-07T09:02:46.872Z
 estimatedTokens: 1354
 keywords: [DataSourceBundleDefinition, bundle, streams, user, adds, data, kit, API, version, 52.0, later, SOAP, Calls, REST, Special]
 ---

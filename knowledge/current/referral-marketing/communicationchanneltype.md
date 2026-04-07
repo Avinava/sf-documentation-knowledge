@@ -5,7 +5,7 @@ topic: communicationchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.864Z
+lastCollected: 2026-04-07T09:05:16.235Z
 estimatedTokens: 506
 keywords: [CommunicationChannelType, channel, WhatsApp, Telegram, that's, communication, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, SMS, API, version, 63.0, later]
 ---

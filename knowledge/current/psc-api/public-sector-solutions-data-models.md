@@ -5,7 +5,7 @@ topic: public-sector-solutions-data-models
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:32.539Z
+lastCollected: 2026-04-07T09:05:12.031Z
 estimatedTokens: 871
 keywords: [Sector, Solutions, Data, Models, uses, suite, standard, Salesforce, objects, structure, store, licensing, permitting, inspections, assessments]
 ---

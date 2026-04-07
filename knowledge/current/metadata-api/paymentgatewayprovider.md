@@ -5,7 +5,7 @@ topic: paymentgatewayprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:08.802Z
+lastCollected: 2026-04-07T09:02:42.789Z
 estimatedTokens: 605
 keywords: [PaymentGatewayProvider, metadata, associated, payment, gateway, provider, extends, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
 ---

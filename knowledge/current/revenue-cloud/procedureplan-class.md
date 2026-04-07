@@ -5,7 +5,7 @@ topic: procedureplan-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:12.770Z
+lastCollected: 2026-04-07T09:01:55.636Z
 estimatedTokens: 366
 namespace: RevSignaling
 keywords: [ProcedurePlan, instance, current, pricing, procedure, plan, you're, working, prevStepOutput]

@@ -5,7 +5,7 @@ topic: customizing-the-email-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.323Z
+lastCollected: 2026-04-07T09:03:18.151Z
 estimatedTokens: 1209
 keywords: [Customizing, Email, Action, apex, emailPublisher, component, closes, task, Open, Activities, created, Email-to-Case, inbound, Attributes, Case]
 ---

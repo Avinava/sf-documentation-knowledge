@@ -5,7 +5,7 @@ topic: objectdetailsrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:47.492Z
+lastCollected: 2026-04-07T09:02:50.059Z
 estimatedTokens: 600
 namespace: DataRetrieval
 keywords: [ObjectDetailsRepresentation, Stores, associated, records, data, summarization]

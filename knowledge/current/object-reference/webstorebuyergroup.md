@@ -5,7 +5,7 @@ topic: webstorebuyergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.443Z
+lastCollected: 2026-04-07T09:04:52.639Z
 estimatedTokens: 1024
 keywords: [WebstoreBuyerGroup, Associates, webstore, buyer, group, Supports, dynamically, changing, locales, buyers, shop, orgs, enabled, multiple, languages]
 ---

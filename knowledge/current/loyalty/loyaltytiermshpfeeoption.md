@@ -5,7 +5,7 @@ topic: loyaltytiermshpfeeoption
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.348Z
+lastCollected: 2026-04-07T09:04:20.230Z
 estimatedTokens: 604
 keywords: [LoyaltyTierMshpFeeOption, options, members, pay, tier, club, memberships, API, version, 63.0, later, Calls]
 ---

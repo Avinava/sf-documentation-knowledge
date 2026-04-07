@@ -5,7 +5,7 @@ topic: xml-support
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:44.490Z
+lastCollected: 2026-04-07T09:02:33.645Z
 estimatedTokens: 142
 keywords: [XML, Support, Apex, utility, classes, enable, creation, parsing, content, streams, DOM]
 ---

@@ -5,7 +5,7 @@ topic: attachment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.211Z
+lastCollected: 2026-04-07T09:03:55.885Z
 estimatedTokens: 272
 keywords: [Attachment, FHIR, resource, maps, Salesforce, V4.0, Clinical, Data, Model, Mapping]
 ---

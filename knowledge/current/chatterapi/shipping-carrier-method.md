@@ -5,7 +5,7 @@ topic: shipping-carrier-method
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:12.847Z
+lastCollected: 2026-04-07T09:03:23.541Z
 estimatedTokens: 101
 keywords: [Shipping, Carrier, external, references]
 ---

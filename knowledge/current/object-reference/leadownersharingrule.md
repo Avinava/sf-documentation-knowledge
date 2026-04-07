@@ -5,7 +5,7 @@ topic: leadownersharingrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.651Z
+lastCollected: 2026-04-07T09:04:43.009Z
 estimatedTokens: 870
 keywords: [LeadOwnerSharingRule, rules, sharing, lead, users, owner, Calls, Usage]
 ---

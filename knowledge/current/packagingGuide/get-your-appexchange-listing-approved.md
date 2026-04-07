@@ -5,7 +5,7 @@ topic: get-your-appexchange-listing-approved
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.464Z
+lastCollected: 2026-04-07T09:04:54.224Z
 estimatedTokens: 1001
 keywords: [AppExchange, Listing, Approved, publish, Salesforce, sure, complies, partner, brand, guidelines, program, policies, Sign, Application, Distribution]
 ---

@@ -5,7 +5,7 @@ topic: disputereason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.036Z
+lastCollected: 2026-04-07T09:03:49.287Z
 estimatedTokens: 1333
 keywords: [DisputeReason, reason, transaction, dispute, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

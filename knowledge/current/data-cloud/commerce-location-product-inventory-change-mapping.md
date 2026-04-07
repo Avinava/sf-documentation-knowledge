@@ -5,7 +5,7 @@ topic: commerce-location-product-inventory-change-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:33.665Z
+lastCollected: 2026-04-07T09:02:09.238Z
 estimatedTokens: 422
 keywords: [Commerce, Location, Product, Inventory, Change, Mapping, Omnichannel, connector, Data, Cloud, automatically, maps, source, objects, model]
 ---

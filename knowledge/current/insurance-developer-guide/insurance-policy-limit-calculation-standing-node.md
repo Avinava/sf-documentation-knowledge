@@ -5,7 +5,7 @@ topic: insurance-policy-limit-calculation-standing-node
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.508Z
+lastCollected: 2026-04-07T09:04:03.129Z
 estimatedTokens: 752
 keywords: [Insurance, Policy, Limit, Calculation, Standing, Node, Output, representation]
 ---

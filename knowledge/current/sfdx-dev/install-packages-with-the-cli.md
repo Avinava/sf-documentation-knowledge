@@ -5,7 +5,7 @@ topic: install-packages-with-the-cli
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.787Z
+lastCollected: 2026-04-07T09:06:13.819Z
 estimatedTokens: 1076
 keywords: [Install, Packages, CLI, you’re, working, Salesforce, package, command, scratch, org, target, subscriber, Control, Installation, Timeouts]
 ---

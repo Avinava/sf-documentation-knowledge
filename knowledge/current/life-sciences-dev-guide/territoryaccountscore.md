@@ -5,7 +5,7 @@ topic: territoryaccountscore
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:47.449Z
+lastCollected: 2026-04-07T09:04:12.018Z
 estimatedTokens: 1215
 keywords: [TerritoryAccountScore, Stores, intelligent, provider, scores, help, users, better, recognize, top, accounts, their, territories, API, version]
 ---

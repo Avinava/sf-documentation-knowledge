@@ -5,7 +5,7 @@ topic: accountingperiod
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.088Z
+lastCollected: 2026-04-07T09:05:30.398Z
 estimatedTokens: 354
 keywords: [AccountingPeriod, time, period, businesses, prepare, reports, analyze, performance, billing, transaction, associated, accounting, API, version, 62.0]
 ---

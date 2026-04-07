@@ -5,7 +5,7 @@ topic: service-cloud-connector-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:45.355Z
+lastCollected: 2026-04-07T09:05:29.367Z
 estimatedTokens: 985
 keywords: [Service, Cloud, Connector, API, Release, Notes, recent, changes, made, Updates, Winter, ‘26, Summer, ‘25, Spring]
 ---

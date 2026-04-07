@@ -5,7 +5,7 @@ topic: vpls360notifyuser
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.246Z
+lastCollected: 2026-04-07T09:04:21.358Z
 estimatedTokens: 159
 keywords: [VPLS360_notifyUser, Integration, Procedure, subscriber, email, order, VPLS360, _notifyUser, Sample, Input, Output, Calls]
 ---

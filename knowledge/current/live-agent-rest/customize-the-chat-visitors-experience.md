@@ -5,7 +5,7 @@ topic: customize-the-chat-visitors-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.382Z
+lastCollected: 2026-04-07T09:04:16.342Z
 estimatedTokens: 473
 keywords: [Customize, Chat, Visitors’, Experience, visitor, REST, API, resources, establish, custom, mobile, applications]
 ---

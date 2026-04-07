@@ -5,7 +5,7 @@ topic: push-package-upgrades-to-subscribers
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.658Z
+lastCollected: 2026-04-07T09:05:01.983Z
 estimatedTokens: 822
 keywords: [Push, Package, Upgrades, Subscribers, upgrade, automatically, upgrading, customers, newer, version, feature, ensure, latest, any, number]
 ---

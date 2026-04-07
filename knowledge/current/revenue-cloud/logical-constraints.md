@@ -5,7 +5,7 @@ topic: logical-constraints
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:15.962Z
+lastCollected: 2026-04-07T09:01:57.585Z
 estimatedTokens: 2377
 keywords: [Logical, Constraints, constraint, statement, hold, logically, any, expression, operator, Patterns, Key, Components, Operators, Explanation, How]
 ---

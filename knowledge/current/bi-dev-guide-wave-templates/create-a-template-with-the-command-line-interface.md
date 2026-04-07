@@ -5,7 +5,7 @@ topic: create-a-template-with-the-command-line-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.469Z
+lastCollected: 2026-04-07T09:03:15.739Z
 estimatedTokens: 451
 keywords: [Template, Command, Line, analytics, commands, templates, Salesforce, CLI, manage]
 ---

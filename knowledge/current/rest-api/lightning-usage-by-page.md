@@ -5,7 +5,7 @@ topic: lightning-usage-by-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-07T07:53:40.428Z
+lastCollected: 2026-04-07T09:02:35.548Z
 estimatedTokens: 536
 keywords: [Lightning, Usage, standard, pages, users, viewed, frequently, Experience, resource, REST, API, version, 44.0, later, Considerations]
 ---

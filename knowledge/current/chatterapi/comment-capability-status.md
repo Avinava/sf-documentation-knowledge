@@ -5,7 +5,7 @@ topic: comment-capability-status
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.886Z
+lastCollected: 2026-04-07T09:03:24.898Z
 estimatedTokens: 720
 keywords: [Comment, Capability, Status, Access]
 ---

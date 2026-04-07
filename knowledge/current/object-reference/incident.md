@@ -5,7 +5,7 @@ topic: incident
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:11.187Z
+lastCollected: 2026-04-07T09:04:42.498Z
 estimatedTokens: 1893
 keywords: [Incident, any, unplanned, business, interruption, wide-sweeping, impacts, requires, urgent, fix, documenting, history, registration, closure, API]
 ---

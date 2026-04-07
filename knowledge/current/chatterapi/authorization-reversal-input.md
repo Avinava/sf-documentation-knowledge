@@ -5,7 +5,7 @@ topic: authorization-reversal-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.030Z
+lastCollected: 2026-04-07T09:03:20.553Z
 estimatedTokens: 455
 keywords: [Authorization, Reversal, Input, consumed, service]
 ---

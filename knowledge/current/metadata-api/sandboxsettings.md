@@ -5,7 +5,7 @@ topic: sandboxsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.852Z
+lastCollected: 2026-04-07T09:02:43.928Z
 estimatedTokens: 491
 keywords: [SandboxSettings, Sandbox, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
 ---

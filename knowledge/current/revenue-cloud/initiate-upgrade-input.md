@@ -5,7 +5,7 @@ topic: initiate-upgrade-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.343Z
+lastCollected: 2026-04-07T09:01:58.448Z
 estimatedTokens: 211
 keywords: [Initiate, Upgrade, Input, representation, action, includes, sales, transaction, creates]
 ---

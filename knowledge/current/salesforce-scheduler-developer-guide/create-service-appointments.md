@@ -5,7 +5,7 @@ topic: create-service-appointments
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.974Z
+lastCollected: 2026-04-07T09:05:27.338Z
 estimatedTokens: 613
 keywords: [Service, Appointments, Show, users, appointment—an, appointment, booked, Salesforce, Scheduler—so, review, Scheduler, POST, service-appointments, Connect, API, step, concurrent, scheduling, application, show]
 ---

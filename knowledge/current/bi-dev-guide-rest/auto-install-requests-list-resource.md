@@ -5,7 +5,7 @@ topic: auto-install-requests-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.128Z
+lastCollected: 2026-04-07T09:03:09.006Z
 estimatedTokens: 819
 keywords: [Auto-Install, Requests, Resource, collection, Analytics, embedded, apps, creates, deletes, groups, folder, template, API]
 ---

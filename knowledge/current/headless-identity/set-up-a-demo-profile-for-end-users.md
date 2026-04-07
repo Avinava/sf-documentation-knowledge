@@ -5,7 +5,7 @@ topic: set-up-a-demo-profile-for-end-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:31.874Z
+lastCollected: 2026-04-07T09:03:51.354Z
 estimatedTokens: 353
 keywords: [Demo, Profile, End, Users, Headless, Identity, profiles, define, how, access, data, Salesforce, New, automatically, assigned]
 ---

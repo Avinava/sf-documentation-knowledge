@@ -5,7 +5,7 @@ topic: describeknowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:41.754Z
+lastCollected: 2026-04-07T09:04:05.010Z
 estimatedTokens: 231
 keywords: [describeKnowledge, Retrieves, Knowledge, language, settings, organization, Usage, Sample, Code—Java, Code—C#]
 ---

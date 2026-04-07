@@ -5,7 +5,7 @@ topic: feedrevision
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.110Z
+lastCollected: 2026-04-07T09:04:41.323Z
 estimatedTokens: 672
 keywords: [FeedRevision, Holds, revision, history, specific, feed, item, comment, including, attributes, changed, API, version, 34.0, later]
 ---
@@ -47,7 +47,6 @@ This object tracks the changes made to a feed item or feed comment and stores a 
 
 - IsDeleted (atlas.en-us.object_reference.meta/object_reference/system_fields.htm)
 - reference (atlas.en-us.object_reference.meta/object_reference/field_types.htm)
-- Filter (atlas.en-us.object_reference.meta/object_reference/access_for_fields.htm)
 - Group (atlas.en-us.object_reference.meta/object_reference/access_for_fields.htm)
 - Nillable (atlas.en-us.object_reference.meta/object_reference/access_for_fields.htm)
 - Sort (atlas.en-us.object_reference.meta/object_reference/access_for_fields.htm)

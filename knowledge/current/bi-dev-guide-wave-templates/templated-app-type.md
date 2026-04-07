@@ -5,7 +5,7 @@ topic: templated-app-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:07.425Z
+lastCollected: 2026-04-07T09:03:15.663Z
 estimatedTokens: 1041
 keywords: [Templated, App, you’re, creating, template, standard, users, install, configuration, wizard, CRM, Analytics, Studio, embedded, automatically]
 ---

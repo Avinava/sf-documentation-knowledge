@@ -5,7 +5,7 @@ topic: how-receipt-scanning-works
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.272Z
+lastCollected: 2026-04-07T09:04:18.897Z
 estimatedTokens: 384
 keywords: [How, Receipt, Scanning, Works, Integrate, Loyalty, Management, enhance, brand’s, member, experience, streamline, members, earn, points]
 ---

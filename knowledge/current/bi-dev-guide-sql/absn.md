@@ -5,7 +5,7 @@ topic: absn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.154Z
+lastCollected: 2026-04-07T09:03:15.208Z
 estimatedTokens: 76
 keywords: [abs, absolute, number, numeric, any, real, range, -1.797e308, 1.797e308]
 ---

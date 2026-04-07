@@ -5,7 +5,7 @@ topic: vpls360invoiceinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.242Z
+lastCollected: 2026-04-07T09:04:21.353Z
 estimatedTokens: 112
 keywords: [VPLS360_InvoiceInfo, Integration, Procedure, fetches, stub, data, billing, summary, invoices, VPLS360, _InvoiceInfo, Sample, Input, Output, Calls]
 ---

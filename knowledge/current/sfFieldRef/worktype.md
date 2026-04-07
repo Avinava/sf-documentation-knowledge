@@ -5,7 +5,7 @@ topic: worktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.662Z
+lastCollected: 2026-04-07T09:06:12.328Z
 estimatedTokens: 754
 keywords: [WorkType, work, performed, Service, Lightning, Scheduler, templates, applied, order, line, items, API, version, 38.0, later]
 ---

@@ -5,7 +5,7 @@ topic: oauthtokenexchangehandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:08.546Z
+lastCollected: 2026-04-07T09:02:42.493Z
 estimatedTokens: 1438
 keywords: [OauthTokenExchangeHandler, token, exchange, handler, consists, Apex, OAuth, 2.0, flow, validate, tokens, external, identity, provider, map]
 ---

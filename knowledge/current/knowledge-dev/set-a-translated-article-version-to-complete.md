@@ -5,7 +5,7 @@ topic: set-a-translated-article-version-to-complete
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.478Z
+lastCollected: 2026-04-07T09:04:04.617Z
 estimatedTokens: 110
 keywords: [Translated, Article, Version]
 ---

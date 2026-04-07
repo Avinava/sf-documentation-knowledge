@@ -5,7 +5,7 @@ topic: field-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:03.201Z
+lastCollected: 2026-04-07T09:04:33.042Z
 estimatedTokens: 5101
 keywords: [addition, primitive, data, API, AnyType, Calculated, ComboBox, Currency, DataCategoryGroupReference, Email, JunctionIdList, Multi-Select, Picklist, Percent, Phone]
 ---

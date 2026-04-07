@@ -6,7 +6,7 @@ topic: build-custom-appointment-booking-experiences-using-salesforce-scheduler-a
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.550Z
+lastCollected: 2026-04-07T09:05:26.772Z
 estimatedTokens: 1457
 keywords: [Build, Custom, Appointment, Booking, Experiences, Salesforce, Scheduler, APIs, demonstrates, how, seamless, experience, cases, developers, scheduling]
 ---

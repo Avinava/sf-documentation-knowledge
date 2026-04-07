@@ -5,7 +5,7 @@ topic: loyaltytier
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.323Z
+lastCollected: 2026-04-07T09:04:20.195Z
 estimatedTokens: 1012
 keywords: [LoyaltyTier, tiers, loyalty, program, tier, group, sequential, order, API, version, 51.0, later, Calls, Associated, Objects]
 ---

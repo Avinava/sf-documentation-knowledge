@@ -5,7 +5,7 @@ topic: shift
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:40.759Z
+lastCollected: 2026-04-07T09:05:22.451Z
 estimatedTokens: 2505
 keywords: [Shift, user, API, versions, 65.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

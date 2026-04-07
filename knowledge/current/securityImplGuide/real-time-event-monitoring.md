@@ -5,7 +5,7 @@ topic: real-time-event-monitoring
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.037Z
+lastCollected: 2026-04-07T09:05:28.894Z
 estimatedTokens: 1280
 keywords: [Real-Time, Event, Monitoring, helps, monitor, detect, standard, events, Salesforce, near, store, data, auditing, reporting, purposes]
 ---

@@ -5,7 +5,7 @@ topic: on-demand-document-generation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.440Z
+lastCollected: 2026-04-07T09:01:58.518Z
 estimatedTokens: 309
 keywords: [On-Demand, Document, Generation, Input, representation, generate, comprehensive, record]
 ---

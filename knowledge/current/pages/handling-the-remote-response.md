@@ -5,7 +5,7 @@ topic: handling-the-remote-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.762Z
+lastCollected: 2026-04-07T09:04:59.399Z
 estimatedTokens: 391
 keywords: [Handling, Remote, Handle, call, asynchronously, callback, function]
 ---

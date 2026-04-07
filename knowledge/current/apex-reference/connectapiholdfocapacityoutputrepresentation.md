@@ -5,7 +5,7 @@ topic: connectapiholdfocapacityoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:51.961Z
+lastCollected: 2026-04-07T09:02:24.162Z
 estimatedTokens: 154
 keywords: [hold, fulfillment, order, capacity, locations, correspond, action, call]
 ---

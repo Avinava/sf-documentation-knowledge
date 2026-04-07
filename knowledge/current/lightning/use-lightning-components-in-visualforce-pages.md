@@ -5,7 +5,7 @@ topic: use-lightning-components-in-visualforce-pages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.498Z
+lastCollected: 2026-04-07T09:04:13.433Z
 estimatedTokens: 1385
 keywords: [Lightning, Components, Visualforce, Pages, Add, Aura, combine, features, solutions, Implement, new, functionality, JavaScript, Library, App]
 ---

@@ -5,7 +5,7 @@ topic: custom-domain-cname-for-the-salesforce-cdn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.153Z
+lastCollected: 2026-04-07T09:03:31.098Z
 estimatedTokens: 212
 keywords: [Custom, Domain, CNAME, Salesforce, CDN, canonical, that’s, domains, Saleforce]
 ---

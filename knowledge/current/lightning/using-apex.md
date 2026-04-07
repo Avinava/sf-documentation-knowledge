@@ -5,7 +5,7 @@ topic: using-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:47.943Z
+lastCollected: 2026-04-07T09:04:12.637Z
 estimatedTokens: 740
 keywords: [Apex, write, server-side, code, controllers, test, classes, customize, user, Lightning, Data, Service, SOQL, query, select]
 ---

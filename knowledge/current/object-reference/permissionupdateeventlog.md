@@ -5,7 +5,7 @@ topic: permissionupdateeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.817Z
+lastCollected: 2026-04-07T09:04:46.682Z
 estimatedTokens: 656
 keywords: [PermissionUpdateEventLog, Permission, events, represent, changes, user, permissions, setup, entity, access, occur, profiles, event, tracks, clone]
 ---

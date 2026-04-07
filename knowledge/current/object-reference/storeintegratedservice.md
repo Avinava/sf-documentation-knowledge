@@ -5,7 +5,7 @@ topic: storeintegratedservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.475Z
+lastCollected: 2026-04-07T09:04:50.030Z
 estimatedTokens: 416
 keywords: [StoreIntegratedService, association, integration, store, API, version, 49.0, later, Calls, Special, Access, Rules]
 ---

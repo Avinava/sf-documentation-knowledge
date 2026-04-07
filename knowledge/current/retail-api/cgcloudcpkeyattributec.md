@@ -5,7 +5,7 @@ topic: cgcloudcpkeyattributec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.438Z
+lastCollected: 2026-04-07T09:05:19.856Z
 estimatedTokens: 1380
 keywords: [cgcloud__CP_Key_Attribute__c, key, attribute, determine, complex, pricing, condition, API, version, 54.0, later, cgcloud, _CP, _Key, _Attribute]
 ---

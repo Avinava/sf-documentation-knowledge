@@ -5,7 +5,7 @@ topic: searchresultactionconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.334Z
+lastCollected: 2026-04-07T09:05:11.706Z
 estimatedTokens: 760
 keywords: [SearchResultActionConfig, collection, actions, user, perform, results, criteria-based, search, Parent, File, Suffix, Directory, Location, Version, Special, API, version, 59.0, later, SOAP]
 ---

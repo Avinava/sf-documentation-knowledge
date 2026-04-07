@@ -5,8 +5,8 @@ topic: connect-rest-api-introduction
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:21.863Z
-estimatedTokens: 947
+lastCollected: 2026-04-07T09:03:37.062Z
+estimatedTokens: 958
 keywords: [Connect, REST, API, Introduction, Consider, architecture, rate, limits, how, resources, requests, responses, work]
 ---
 
@@ -24,7 +24,7 @@ Consider the Connect REST API architecture, rate limits, and how the resources, 
 -   **[Connect REST API Architecture](atlas.en-us.chatterapi.meta/chatterapi/intro_architecture.htm)**
     To use Connect REST API, understand a few characteristics of its architecture, like how to authenticate, and which data formats it supports.
 -   **[Connect REST API Limits](atlas.en-us.chatterapi.meta/chatterapi/intro_rate_limits.htm)**
-    Connect REST API requests are subject to rate limits. Connect REST API has a different rate limit than other Salesforce APIs. Connect REST API has a per user, per application, per hour rate limit. When you exceed the rate limit, Connect REST API resources return a 503 Service Unavailable error code.
+    Most Connect REST API requests are subject to the same rate limits as other Salesforce APIs. Only requests to Chatter REST API resources (a subset of Connect REST API resources) are subject to a per user, per application, per hour rate limit. When you exceed the rate limit, Connect REST API resources return a 503 Service Unavailable error code.
 -   **[Build the Resource URL](atlas.en-us.chatterapi.meta/chatterapi/intro_building_url.htm)**
     Access Connect REST API resources by using the URI for your company's instance, combined with version and Experience Cloud site information, and the URI for the resource.
 -   **[Send HTTP Requests](atlas.en-us.chatterapi.meta/chatterapi/intro_using_curl.htm)**

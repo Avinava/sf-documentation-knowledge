@@ -5,7 +5,7 @@ topic: store-hl7-v23-messages-in-salesforce-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.710Z
+lastCollected: 2026-04-07T09:03:56.523Z
 estimatedTokens: 366
 keywords: [Store, HL7, v2.3, Messages, Salesforce, Standard, Objects, Fast, Health, Interoperability, Resources, FHIR, defined, Level, Seven]
 ---

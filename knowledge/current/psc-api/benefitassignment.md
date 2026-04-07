@@ -5,7 +5,7 @@ topic: benefitassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:33.128Z
+lastCollected: 2026-04-07T09:05:12.828Z
 estimatedTokens: 2446
 keywords: [BenefitAssignment, enrollment, individual, business, captured, application, unemployed, raise, requesting, help, government, approved, enrolled, unemployment, insurance]
 ---

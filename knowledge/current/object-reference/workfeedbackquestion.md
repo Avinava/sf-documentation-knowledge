@@ -5,7 +5,7 @@ topic: workfeedbackquestion
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.589Z
+lastCollected: 2026-04-07T09:04:52.831Z
 estimatedTokens: 865
 keywords: [WorkFeedbackQuestion, free-form, text, multiple, choice, question, questions, Calls, Associated, Objects]
 ---
@@ -23,7 +23,7 @@ Represents a free-form text type or multiple choice question within a set of que
 
 #### Note
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 ## Supported Calls
 

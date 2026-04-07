@@ -5,7 +5,7 @@ topic: service-cloud-voice-aura-toolkit-api-conversation-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.766Z
+lastCollected: 2026-04-07T09:06:18.097Z
 estimatedTokens: 1076
 keywords: [Service, Cloud, Voice, Aura, Toolkit, API, Conversation, Events, Listen]
 ---

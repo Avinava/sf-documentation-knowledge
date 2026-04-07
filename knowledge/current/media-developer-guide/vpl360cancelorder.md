@@ -5,7 +5,7 @@ topic: vpl360cancelorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.120Z
+lastCollected: 2026-04-07T09:04:21.157Z
 estimatedTokens: 207
 keywords: [VPL360_CancelOrder, Integration, Procedure, cancels, item, order, progress, reached, point, PONR, VPL360, _CancelOrder, Sample, Input, Output]
 ---

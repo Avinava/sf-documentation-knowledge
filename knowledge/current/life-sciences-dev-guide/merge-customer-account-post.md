@@ -5,7 +5,7 @@ topic: merge-customer-account-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.553Z
+lastCollected: 2026-04-07T09:04:06.132Z
 estimatedTokens: 444
 keywords: [Merge, Customer, Account, POST, Merges, accounts, any, fails, entire, operation, cancelled]
 ---

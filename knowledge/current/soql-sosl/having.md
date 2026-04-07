@@ -5,7 +5,7 @@ topic: having
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.766Z
+lastCollected: 2026-04-07T09:06:15.155Z
 estimatedTokens: 414
 keywords: [HAVING, clause, SOQL, query, filter, results, aggregate, functions]
 ---

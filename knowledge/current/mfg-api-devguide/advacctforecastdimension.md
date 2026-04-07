@@ -5,7 +5,7 @@ topic: advacctforecastdimension
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.527Z
+lastCollected: 2026-04-07T09:04:23.194Z
 estimatedTokens: 564
 keywords: [AdvAcctForecastDimension, dimensions, selected, advanced, account, forecast, API, version, 53.0, later, Calls]
 ---

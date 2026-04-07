@@ -5,7 +5,7 @@ topic: caretask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.766Z
+lastCollected: 2026-04-07T09:03:57.813Z
 estimatedTokens: 1902
 keywords: [CareTask, additional, healthcare-related, task, process, status, beneficiary, tasks, API, version, 61.0, later, Calls, Associated, Objects]
 ---

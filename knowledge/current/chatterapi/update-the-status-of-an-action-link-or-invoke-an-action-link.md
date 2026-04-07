@@ -5,7 +5,7 @@ topic: update-the-status-of-an-action-link-or-invoke-an-action-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.893Z
+lastCollected: 2026-04-07T09:03:37.222Z
 estimatedTokens: 875
 keywords: [Status, Action, Link, Invoke]
 ---

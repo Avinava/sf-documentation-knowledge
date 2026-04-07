@@ -5,7 +5,7 @@ topic: sample-call-center-validation-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.346Z
+lastCollected: 2026-04-07T09:06:17.434Z
 estimatedTokens: 677
 keywords: [Sample, Call, Center, Validation, Rules, requiring, conditional, preventing, cases, reset, restricting, case, status, Conditionally, Require]
 ---

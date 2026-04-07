@@ -5,7 +5,7 @@ topic: portability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:40.607Z
+lastCollected: 2026-04-07T09:02:35.696Z
 estimatedTokens: 155
 keywords: [Portability, resource, compiles, customer, across, objects, identified, creating, policy, Salesforce, Privacy, Center, locate, customers’, personally]
 ---

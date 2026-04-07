@@ -5,7 +5,7 @@ topic: coupon-objects-in-loyalty-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.096Z
+lastCollected: 2026-04-07T09:04:18.593Z
 estimatedTokens: 186
 keywords: [Coupon, Objects, Loyalty, Management, Promotions, access, coupons, manage, redemption, company's, enabled, don't, any, additional, license]
 ---

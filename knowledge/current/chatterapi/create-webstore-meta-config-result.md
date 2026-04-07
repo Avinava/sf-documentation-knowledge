@@ -5,7 +5,7 @@ topic: create-webstore-meta-config-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:18.108Z
+lastCollected: 2026-04-07T09:03:31.029Z
 estimatedTokens: 119
 keywords: [Webstore, Meta, Config, Result, creating, configuration]
 ---

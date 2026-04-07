@@ -5,7 +5,7 @@ topic: connected-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.606Z
+lastCollected: 2026-04-07T09:05:28.243Z
 estimatedTokens: 713
 keywords: [Connected, Apps, app, framework, external, application, integrate, Salesforce, APIs, standard, protocols, SAML, OAuth, OpenID, Connect]
 ---

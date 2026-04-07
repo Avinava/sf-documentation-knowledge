@@ -5,7 +5,7 @@ topic: insurancecontracthistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.356Z
+lastCollected: 2026-04-07T09:05:50.554Z
 estimatedTokens: 266
 keywords: [InsuranceContractHistory, History, tracked, InsuranceContract]
 ---

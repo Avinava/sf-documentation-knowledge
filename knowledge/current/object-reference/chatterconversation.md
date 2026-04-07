@@ -5,7 +5,7 @@ topic: chatterconversation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.499Z
+lastCollected: 2026-04-07T09:04:36.930Z
 estimatedTokens: 335
 keywords: [ChatterConversation, conversation, Chatter, consisting, messages, members, sent, received, API, version, 23.0, later, Calls, Usage]
 ---

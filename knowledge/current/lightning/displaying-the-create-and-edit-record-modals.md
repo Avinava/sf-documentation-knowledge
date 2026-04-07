@@ -5,7 +5,7 @@ topic: displaying-the-create-and-edit-record-modals
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.739Z
+lastCollected: 2026-04-07T09:04:13.792Z
 estimatedTokens: 298
 keywords: [Displaying, Edit, Record, Modals, take, advantage, built-in, events, display, let, records, via, Aura, component]
 ---

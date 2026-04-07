@@ -5,7 +5,7 @@ topic: webcart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.226Z
+lastCollected: 2026-04-07T09:03:39.615Z
 estimatedTokens: 579
 keywords: [WebCart, row, item, online, shopping, cart, store, built, B2B, Commerce, B2C, total, amounts, products, shipping]
 ---

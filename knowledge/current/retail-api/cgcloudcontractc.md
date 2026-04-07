@@ -5,7 +5,7 @@ topic: cgcloudcontractc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.333Z
+lastCollected: 2026-04-07T09:05:19.732Z
 estimatedTokens: 1990
 keywords: [cgcloud__Contract__c, Stores, customer, contract, track, various, agreements, API, version, 54.0, later, cgcloud, _Contract, Calls, Associated]
 ---

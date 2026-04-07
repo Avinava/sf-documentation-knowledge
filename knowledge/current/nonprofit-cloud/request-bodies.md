@@ -5,7 +5,7 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.281Z
+lastCollected: 2026-04-07T09:04:30.542Z
 estimatedTokens: 391
 keywords: [Bodies, Group, Membership, Households, APIs, Fundraising, API]
 ---

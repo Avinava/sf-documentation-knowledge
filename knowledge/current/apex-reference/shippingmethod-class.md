@@ -5,7 +5,7 @@ topic: shippingmethod-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:21.345Z
+lastCollected: 2026-04-07T09:02:15.470Z
 estimatedTokens: 1702
 namespace: RichMessaging
 keywords: [ShippingMethod, shipping, listed, payment, requests, sent, enhanced, Messaging, channels, label, amount, detail, identifier, amountValue, detailValue]

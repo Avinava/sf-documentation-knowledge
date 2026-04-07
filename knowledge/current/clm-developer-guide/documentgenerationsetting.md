@@ -5,7 +5,7 @@ topic: documentgenerationsetting
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:22.789Z
+lastCollected: 2026-04-07T09:03:38.692Z
 estimatedTokens: 1332
 keywords: [DocumentGenerationSetting, org's, settings, automatic, document, generation, templates, API, version, 54.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: strong-customer-authentication-for-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.353Z
+lastCollected: 2026-04-07T09:04:54.055Z
 estimatedTokens: 335
 keywords: [Strong, Customer, Authentication, AppExchange, Checkout, SCA, enhances, security, online, payments, identity, verification, step, how, works]
 ---

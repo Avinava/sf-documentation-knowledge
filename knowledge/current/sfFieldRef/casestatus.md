@@ -5,7 +5,7 @@ topic: casestatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.752Z
+lastCollected: 2026-04-07T09:05:39.087Z
 estimatedTokens: 288
 keywords: [CaseStatus, status, Case, New, Hold, Process]
 ---

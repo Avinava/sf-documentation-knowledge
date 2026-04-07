@@ -5,7 +5,7 @@ topic: request-static-assets-and-post-forms-directly-from-html
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.824Z
+lastCollected: 2026-04-07T09:03:37.008Z
 estimatedTokens: 791
 keywords: [Assets, Post, Forms, Directly, HTML, pages, aren’t, hosted, Salesforce, had, difficulty, displaying, user, group, images]
 ---

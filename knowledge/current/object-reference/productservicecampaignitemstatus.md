@@ -5,7 +5,7 @@ topic: productservicecampaignitemstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:15.484Z
+lastCollected: 2026-04-07T09:04:47.494Z
 estimatedTokens: 605
 keywords: [ProductServiceCampaignItemStatus, status, product, service, campaign, item, API, version, 51.0, later, Calls, Special, Access, Rules, Usage]
 ---

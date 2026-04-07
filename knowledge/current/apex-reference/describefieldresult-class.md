@@ -5,7 +5,7 @@ topic: describefieldresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.760Z
+lastCollected: 2026-04-07T09:02:28.776Z
 estimatedTokens: 9488
 namespace: Schema
 keywords: [DescribeFieldResult, custom, parent, standard, whose, matched, against, child, external, object's, indirect, lookup, relationship, match, determine]

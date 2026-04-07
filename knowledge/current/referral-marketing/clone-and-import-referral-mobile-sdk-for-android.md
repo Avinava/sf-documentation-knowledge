@@ -5,7 +5,7 @@ topic: clone-and-import-referral-mobile-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.998Z
+lastCollected: 2026-04-07T09:05:16.409Z
 estimatedTokens: 439
 keywords: [Clone, Import, Referral, Mobile, SDK, Android, GitHub, repository, copy, code, base, revision, history, local, computer]
 ---

@@ -5,7 +5,7 @@ topic: lens-bundle-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.769Z
+lastCollected: 2026-04-07T09:03:09.778Z
 estimatedTokens: 304
 keywords: [Lens, Bundle, Resource, updates, API, URL, Formats, Version, HTTP, PUT]
 ---

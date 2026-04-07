@@ -5,7 +5,7 @@ topic: livechattranscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:12.407Z
+lastCollected: 2026-04-07T09:04:43.871Z
 estimatedTokens: 2335
 keywords: [LiveChatTranscript, automatically, created, Live, Agent, chat, session, stores, API, version, 24.0, later, Calls, Usage, Associated]
 ---

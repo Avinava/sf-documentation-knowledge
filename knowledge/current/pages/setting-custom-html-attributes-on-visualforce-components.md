@@ -5,7 +5,7 @@ topic: setting-custom-html-attributes-on-visualforce-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:23.666Z
+lastCollected: 2026-04-07T09:04:59.241Z
 estimatedTokens: 887
 keywords: [Setting, Custom, HTML, Attributes, Visualforce, Components, add, arbitrary, “passed, through”, rendered, useful, JavaScript, frameworks, jQuery]
 ---

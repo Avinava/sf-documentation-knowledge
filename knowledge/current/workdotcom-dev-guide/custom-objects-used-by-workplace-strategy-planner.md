@@ -5,7 +5,7 @@ topic: custom-objects-used-by-workplace-strategy-planner
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.607Z
+lastCollected: 2026-04-07T09:06:19.391Z
 estimatedTokens: 486
 keywords: [Custom, Objects, Workplace, Strategy, Planner, managed, package, installs, several, addition, standard, Employee, Location, Crisis, Address]
 ---

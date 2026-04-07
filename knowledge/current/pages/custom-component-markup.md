@@ -5,7 +5,7 @@ topic: custom-component-markup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.040Z
+lastCollected: 2026-04-07T09:04:56.916Z
 estimatedTokens: 316
 keywords: [Custom, Component, Markup, defined, <apex, component>, tag, top-level, definition]
 ---

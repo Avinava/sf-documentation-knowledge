@@ -5,7 +5,7 @@ topic: usermanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:10.875Z
+lastCollected: 2026-04-07T09:02:45.097Z
 estimatedTokens: 2320
 keywords: [UserManagementSettings, selection, user, management, options, appear, Settings, Setup, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---

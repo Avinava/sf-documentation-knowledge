@@ -5,7 +5,7 @@ topic: standardaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.460Z
+lastCollected: 2026-04-07T09:02:49.111Z
 estimatedTokens: 761
 keywords: [StandardAction, buttons, links, actions, standard, custom, API, version, 34.0, later, SOAP, Calls, REST, HTTP]
 ---

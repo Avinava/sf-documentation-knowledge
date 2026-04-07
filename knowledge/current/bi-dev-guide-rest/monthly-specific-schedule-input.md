@@ -5,7 +5,7 @@ topic: monthly-specific-schedule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.798Z
+lastCollected: 2026-04-07T09:03:08.491Z
 estimatedTokens: 153
 keywords: [Monthly, Specific, Schedule, Input, Specify, Analytics, asset, days, fixed, numerical, date]
 ---

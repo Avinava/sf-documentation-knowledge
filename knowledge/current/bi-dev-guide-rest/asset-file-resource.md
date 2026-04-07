@@ -5,7 +5,7 @@ topic: asset-file-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.118Z
+lastCollected: 2026-04-07T09:03:08.992Z
 estimatedTokens: 205
 keywords: [Asset, File, Resource, preview, updates, URL, Formats, Version, HTTP, PUT]
 ---

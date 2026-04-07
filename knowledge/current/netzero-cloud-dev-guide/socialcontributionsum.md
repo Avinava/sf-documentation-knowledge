@@ -5,7 +5,7 @@ topic: socialcontributionsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.948Z
+lastCollected: 2026-04-07T09:04:28.828Z
 estimatedTokens: 2237
 keywords: [SocialContributionSum, social, contributions, made, political, non-political, organizations, belonging, financial, non-financial, categories, API, version, 57.0, later]
 ---

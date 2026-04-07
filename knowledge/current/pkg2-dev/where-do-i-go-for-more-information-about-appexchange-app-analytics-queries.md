@@ -5,7 +5,7 @@ topic: where-do-i-go-for-more-information-about-appexchange-app-analytics-querie
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.937Z
+lastCollected: 2026-04-07T09:05:02.451Z
 estimatedTokens: 211
 keywords: [AppExchange, App, Analytics, Queries, Questions, natural, start, automating, planning, query, strategy, good, solution, review, code]
 ---

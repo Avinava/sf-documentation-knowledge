@@ -5,7 +5,7 @@ topic: user-recommendations-for-a-specific-action-and-object-category
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.894Z
+lastCollected: 2026-04-07T09:03:29.218Z
 estimatedTokens: 1158
 keywords: [User, Recommendations, Specific, Action, Category, Chatter, custom, context]
 ---

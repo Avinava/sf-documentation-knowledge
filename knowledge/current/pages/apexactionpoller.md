@@ -5,7 +5,7 @@ topic: apexactionpoller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.080Z
+lastCollected: 2026-04-07T09:04:56.967Z
 estimatedTokens: 924
 keywords: [apex, actionPoller, timer, AJAX, server, according, time, interval, specify, result, full, partial, Attributes]
 ---

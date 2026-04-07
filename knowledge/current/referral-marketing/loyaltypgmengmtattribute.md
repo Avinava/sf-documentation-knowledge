@@ -5,7 +5,7 @@ topic: loyaltypgmengmtattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.162Z
+lastCollected: 2026-04-07T09:05:16.625Z
 estimatedTokens: 1296
 keywords: [LoyaltyPgmEngmtAttribute, event, that’s, tracked, advocates, engagement, attributes, track, number, times, referred, their, friends, businesses, day]
 ---

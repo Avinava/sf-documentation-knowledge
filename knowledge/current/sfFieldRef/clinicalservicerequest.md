@@ -5,7 +5,7 @@ topic: clinicalservicerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.384Z
+lastCollected: 2026-04-07T09:05:39.890Z
 estimatedTokens: 346
 keywords: [ClinicalServiceRequest, requests, procedure, diagnostic, service, needs, planned, proposed, performed, part, patient’s, healthcare, API, version, 51.0]
 ---

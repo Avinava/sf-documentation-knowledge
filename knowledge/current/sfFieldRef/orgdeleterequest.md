@@ -5,7 +5,7 @@ topic: orgdeleterequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.108Z
+lastCollected: 2026-04-07T09:05:56.899Z
 estimatedTokens: 323
 keywords: [OrgDeleteRequest, developer, edition, org, API, version, 42.0, later, Database.com, editions]
 ---

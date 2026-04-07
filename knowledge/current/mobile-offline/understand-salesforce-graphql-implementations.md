@@ -5,7 +5,7 @@ topic: understand-salesforce-graphql-implementations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.997Z
+lastCollected: 2026-04-07T09:04:25.330Z
 estimatedTokens: 1091
 keywords: [Understand, Salesforce, GraphQL, Implementations, offers, three, different, ways, LWC, developers, their, components, select, depend, specific]
 ---

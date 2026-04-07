@@ -5,7 +5,7 @@ topic: staticdynamicvalmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:35.702Z
+lastCollected: 2026-04-07T09:02:10.417Z
 estimatedTokens: 647
 keywords: [StaticDynamicValMapping, mapping, configuration, dynamic, picklist, source, target, API, version, 65.0, later, SOAP, Calls, REST]
 ---

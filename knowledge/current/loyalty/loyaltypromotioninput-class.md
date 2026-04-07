@@ -5,7 +5,7 @@ topic: loyaltypromotioninput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.571Z
+lastCollected: 2026-04-07T09:04:16.617Z
 estimatedTokens: 124
 namespace: LoyaltyManagement
 keywords: [LoyaltyPromotionInput, retrieve, active, promotions, eligible, transaction, journal]

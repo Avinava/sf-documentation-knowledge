@@ -5,7 +5,7 @@ topic: step-1-create-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.229Z
+lastCollected: 2026-04-07T09:03:04.948Z
 estimatedTokens: 480
 keywords: [Step, Invoice, Statement, user]
 ---

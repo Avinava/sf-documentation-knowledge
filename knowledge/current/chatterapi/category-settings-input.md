@@ -5,7 +5,7 @@ topic: category-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:11.219Z
+lastCollected: 2026-04-07T09:03:20.844Z
 estimatedTokens: 193
 keywords: [Category, Settings, Input, applicable, product, rows, import, csv, file]
 ---

@@ -5,7 +5,7 @@ topic: manage-custom-gift-commitment-schedules-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.665Z
+lastCollected: 2026-04-07T09:03:41.816Z
 estimatedTokens: 272
 keywords: [Manage, Custom, Gift, Commitment, Schedules, Action, Creates, updates, schedule, records, their, associated, transaction, REST, HTTP]
 ---

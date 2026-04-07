@@ -5,7 +5,7 @@ topic: get-field-values-from-an-external-object-record-by-using-the-salesforce-i
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:39.348Z
+lastCollected: 2026-04-07T09:02:34.651Z
 estimatedTokens: 228
 keywords: [External, Record, Salesforce, sObject, Rows, resource, retrieve, Specify, want]
 ---

@@ -5,7 +5,7 @@ topic: exposing-data-with-apex-rest-web-service-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.948Z
+lastCollected: 2026-04-07T09:02:33.162Z
 estimatedTokens: 791
 keywords: [Exposing, Data, Apex, REST, Web, Service, Invoking, custom, always, uses, system, context, Consequently, current, user's]
 ---

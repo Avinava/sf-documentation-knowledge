@@ -5,7 +5,7 @@ topic: scheduletpmaccrualprocesschain-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.020Z
+lastCollected: 2026-04-07T09:05:17.846Z
 estimatedTokens: 460
 keywords: [ScheduleTPMAccrualProcessChain, Apex, initiates, TPM, Accrual, Process, orchestrator, ensuring, export, configuration, successfully, updated, Date, referencedate, List<String>]
 ---

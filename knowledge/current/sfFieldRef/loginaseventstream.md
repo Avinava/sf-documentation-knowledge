@@ -5,7 +5,7 @@ topic: loginaseventstream
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.014Z
+lastCollected: 2026-04-07T09:05:52.644Z
 estimatedTokens: 495
 keywords: [LoginAsEventStream, LoginAsEvent, tracks, admin, logs, another, user, org, Real-Time, Event, Monitoring, captures, events, admins, Experience]
 ---

@@ -5,8 +5,8 @@ topic: save-group-census-members-data-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.728Z
-estimatedTokens: 462
+lastCollected: 2026-04-07T09:04:00.237Z
+estimatedTokens: 461
 keywords: [Save, Group, Census, Members, Data, Action, member, records, primary, IDs, dependent, groups, REST, HTTP, Inputs]
 ---
 
@@ -26,7 +26,7 @@ This action is available in API version 65.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/saveGroupCensusMembersData
+/services/data/v/actions/standard/saveGroupCensusMembersData
 
 Formats
 

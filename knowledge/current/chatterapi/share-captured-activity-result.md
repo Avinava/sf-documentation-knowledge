@@ -5,7 +5,7 @@ topic: share-captured-activity-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.139Z
+lastCollected: 2026-04-07T09:03:29.543Z
 estimatedTokens: 76
 keywords: [Share, Captured, Activity, Result, results, sharing, email, event]
 ---

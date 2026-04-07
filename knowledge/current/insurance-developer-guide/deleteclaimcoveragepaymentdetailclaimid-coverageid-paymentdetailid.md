@@ -5,7 +5,7 @@ topic: deleteclaimcoveragepaymentdetailclaimid-coverageid-paymentdetailid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.864Z
+lastCollected: 2026-04-07T09:04:00.424Z
 estimatedTokens: 260
 keywords: [DeleteClaimCoveragePaymentDetail, claimId, coverageId, paymentDetailId, claim, coverage, payment, detail, record, API, Version, Requires, Chatter]
 ---

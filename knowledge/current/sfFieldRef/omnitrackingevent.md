@@ -5,7 +5,7 @@ topic: omnitrackingevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:05.405Z
+lastCollected: 2026-04-07T09:05:55.971Z
 estimatedTokens: 282
 keywords: [OmniTrackingEvent, Notifies, subscribers, user, interaction, FlexCard, OmniScript, that's, tracked, OmniAnalytics, API, version, 60.0, later]
 ---

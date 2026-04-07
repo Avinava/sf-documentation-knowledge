@@ -5,7 +5,7 @@ topic: recipe-configurations-list-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:42.570Z
+lastCollected: 2026-04-07T09:05:25.170Z
 estimatedTokens: 295
 keywords: [Recipe, Configurations, Resource, updates, collection, Data, Prep, creates, configuration, URL, Formats, Version, HTTP, PATCH, POST]
 ---

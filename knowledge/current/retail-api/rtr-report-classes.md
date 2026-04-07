@@ -5,7 +5,7 @@ topic: rtr-report-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.501Z
+lastCollected: 2026-04-07T09:05:17.082Z
 estimatedTokens: 653
 keywords: [RTR, Report, Classes, report-related, APEX, provide, programmatic, access, TPM, Real, Time, Reporting, data]
 ---

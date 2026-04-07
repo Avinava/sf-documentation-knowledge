@@ -5,7 +5,7 @@ topic: inbound-event-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.822Z
+lastCollected: 2026-04-07T09:03:05.773Z
 estimatedTokens: 239
 keywords: [Inbound, Event, Input, representation, process, incoming, events, telematics, provider]
 ---

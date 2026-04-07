@@ -5,7 +5,7 @@ topic: folderjson-attributes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.543Z
+lastCollected: 2026-04-07T09:03:15.876Z
 estimatedTokens: 449
 keywords: [folder.json, Attributes, file]
 ---

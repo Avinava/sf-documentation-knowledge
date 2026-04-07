@@ -5,7 +5,7 @@ topic: fields-on-productrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.736Z
+lastCollected: 2026-04-07T09:04:07.754Z
 estimatedTokens: 162
 keywords: [ProductRequest, Life, Sciences, Cloud, extend, standard, sample, order, including, destination, user, urgency, level]
 ---

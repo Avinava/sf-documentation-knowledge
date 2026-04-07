@@ -5,7 +5,7 @@ topic: clinicalencounter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.270Z
+lastCollected: 2026-04-07T09:03:54.662Z
 estimatedTokens: 2825
 keywords: [ClinicalEncounter, healthcare, encounter, patient, care, provider, broad, covers, multiple, phases, patient’s, service, experience, way, pre-admission]
 ---

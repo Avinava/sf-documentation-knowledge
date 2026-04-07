@@ -5,7 +5,7 @@ topic: session-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.224Z
+lastCollected: 2026-04-07T09:05:29.157Z
 estimatedTokens: 542
 keywords: [Session, Security, logging, user, establishes, platform, limit, exposure, network, leaves, computer, unattended, logged, limits, risk]
 ---

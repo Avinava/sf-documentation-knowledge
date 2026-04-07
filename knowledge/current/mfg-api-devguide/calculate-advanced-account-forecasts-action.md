@@ -5,7 +5,7 @@ topic: calculate-advanced-account-forecasts-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.917Z
+lastCollected: 2026-04-07T09:04:22.299Z
 estimatedTokens: 291
 keywords: [Calculate, Advanced, Account, Forecasts, Action, formulae, associated, forecast, REST, HTTP, Inputs, Usage]
 ---

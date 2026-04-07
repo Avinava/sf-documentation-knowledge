@@ -5,7 +5,7 @@ topic: asynchronous-report-run-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.959Z
+lastCollected: 2026-04-07T09:04:39.992Z
 estimatedTokens: 2755
 keywords: [Asynchronous, Report, Run, Event, events, created, reporting, requests, scheduled, category, includes, dashboard, refreshes, reports, schedule]
 ---

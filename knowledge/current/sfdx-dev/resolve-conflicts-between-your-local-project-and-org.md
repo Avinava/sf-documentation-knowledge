@@ -5,7 +5,7 @@ topic: resolve-conflicts-between-your-local-project-and-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.660Z
+lastCollected: 2026-04-07T09:06:13.628Z
 estimatedTokens: 553
 keywords: [Resolve, Conflicts, Local, Project, Org, best, practice, exist, components, moving, forward, conflict, manually, overwrite, version]
 ---

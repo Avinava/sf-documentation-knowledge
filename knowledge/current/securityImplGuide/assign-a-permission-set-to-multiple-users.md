@@ -5,7 +5,7 @@ topic: assign-a-permission-set-to-multiple-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.829Z
+lastCollected: 2026-04-07T09:05:28.568Z
 estimatedTokens: 305
 keywords: [Assign, Permission, Multiple, Users, any]
 ---

@@ -5,7 +5,7 @@ topic: processpaymentrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:21.320Z
+lastCollected: 2026-04-07T09:02:15.437Z
 estimatedTokens: 1913
 namespace: RichMessaging
 keywords: [ProcessPaymentRequest, process, payment, transactionIdentifier, paymentData, billingContact, shippingContact, paymentMethod, shippingMethod, contextRecordId]

@@ -5,7 +5,7 @@ topic: refund
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:16.124Z
+lastCollected: 2026-04-07T09:04:48.263Z
 estimatedTokens: 2540
 keywords: [Refund, made, against, payment, API, version, 48.0, later, Calls, Special, Access, Rules]
 ---

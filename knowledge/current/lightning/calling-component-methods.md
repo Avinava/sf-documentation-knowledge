@@ -5,7 +5,7 @@ topic: calling-component-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.125Z
+lastCollected: 2026-04-07T09:04:14.332Z
 estimatedTokens: 813
 keywords: [Calling, Component, <aura, method>, define, part, component's, API, directly, call, component’s, client-side, controller, instead, firing]
 ---

@@ -5,7 +5,7 @@ topic: listemailrecipientsource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.397Z
+lastCollected: 2026-04-07T09:05:51.789Z
 estimatedTokens: 381
 keywords: [ListEmailRecipientSource, email, Salesforce, dynamically, defined, sources, recipient, addresses, record, link, view, campaign, examined, sent, one-to-many]
 ---

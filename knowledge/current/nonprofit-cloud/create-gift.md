@@ -5,7 +5,7 @@ topic: create-gift
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.975Z
+lastCollected: 2026-04-07T09:04:30.169Z
 estimatedTokens: 158
 keywords: [Gift, Output, representation, created, transaction]
 ---

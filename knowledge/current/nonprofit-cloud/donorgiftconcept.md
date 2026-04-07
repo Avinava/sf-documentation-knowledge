@@ -5,7 +5,7 @@ topic: donorgiftconcept
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:01.140Z
+lastCollected: 2026-04-07T09:04:30.380Z
 estimatedTokens: 1392
 keywords: [DonorGiftConcept, initial, idea, proposal, gift, including, donor’s, intent, preliminary, purpose, API, version, 64.0, later, Calls]
 ---

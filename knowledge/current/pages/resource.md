@@ -5,7 +5,7 @@ topic: resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.429Z
+lastCollected: 2026-04-07T09:05:00.394Z
 estimatedTokens: 320
 keywords: [$Resource, merge, referencing, resource, Visualforce, URLFOR, functions, particular, file, archive, Usage, Examples]
 ---

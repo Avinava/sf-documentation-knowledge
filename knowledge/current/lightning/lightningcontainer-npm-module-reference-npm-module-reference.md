@@ -6,7 +6,7 @@ topic: lightningcontainer-npm-module-reference-npm-module-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.505Z
+lastCollected: 2026-04-07T09:04:13.445Z
 estimatedTokens: 310
 keywords: [lightning, container, NPM, Module, included, JavaScript, code, send, receive, messages, custom, Aura, component]
 ---

@@ -5,7 +5,7 @@ topic: crbncreditalloc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.684Z
+lastCollected: 2026-04-07T09:04:27.491Z
 estimatedTokens: 1240
 keywords: [CrbnCreditAlloc, how, carbon, credits, allocated, organization, offset, their, emissions, API, version, 56.0, later, Calls, Associated]
 ---

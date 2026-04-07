@@ -5,7 +5,7 @@ topic: create-an-external-client-app-to-integrate-with-loyalty-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:52.666Z
+lastCollected: 2026-04-07T09:04:19.338Z
 estimatedTokens: 609
 keywords: [External, Client, App, Integrate, Loyalty, Management, Mobile, SDK, access, Salesforce, APIs, enable, secure, integration, API]
 ---

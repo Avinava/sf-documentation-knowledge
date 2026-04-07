@@ -5,7 +5,7 @@ topic: test-harness-debug-tab
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.508Z
+lastCollected: 2026-04-07T09:04:24.608Z
 estimatedTokens: 548
 keywords: [Test, Harness, Debug, Tab, app, developer-centric, tool, inspecting, network, logs, navigating, references, switching, applications, Refs]
 ---

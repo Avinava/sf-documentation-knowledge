@@ -5,7 +5,7 @@ topic: get-started-with-revenue-cloud-developer-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:23.824Z
+lastCollected: 2026-04-07T09:02:03.110Z
 estimatedTokens: 4214
 keywords: [Started, Revenue, Cloud, Developer, Resources, unified, system, automate, CRM, processes, sources, backend, work, support, end-to-end]
 ---

@@ -5,7 +5,7 @@ topic: tenantsecuritytrustediprangetrend
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.095Z
+lastCollected: 2026-04-07T09:04:50.889Z
 estimatedTokens: 1196
 keywords: [TenantSecurityTrustedIpRangeTrend, Stores, changes, trusted, ranges, Security, Center.This, Center, subscribers, API, version, 54.0, later, Calls, Special]
 ---

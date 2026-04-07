@@ -5,7 +5,7 @@ topic: einstein-prompt-template-generations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.287Z
+lastCollected: 2026-04-07T09:03:28.268Z
 estimatedTokens: 509
 keywords: [Einstein, Prompt, Template, Generations, Generates, input, Generated, LLM, provider, resolved, text]
 ---

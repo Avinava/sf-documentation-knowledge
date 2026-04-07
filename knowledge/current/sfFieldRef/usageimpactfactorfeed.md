@@ -5,7 +5,7 @@ topic: usageimpactfactorfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.756Z
+lastCollected: 2026-04-07T09:06:09.892Z
 estimatedTokens: 361
 keywords: [UsageImpactFactorFeed, Feed, tracking, UsageImpactFactor]
 ---

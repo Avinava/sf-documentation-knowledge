@@ -5,7 +5,7 @@ topic: links
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.521Z
+lastCollected: 2026-04-07T09:05:04.640Z
 estimatedTokens: 715
 keywords: [Links, JSON-formatted, containing, URLs, helpful, integrating, canvas, app, enterpriseUrl, calls, Salesforce, enterprise, WSDL, OAuth, Scopes]
 ---

@@ -5,7 +5,7 @@ topic: salesagreementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:55.297Z
+lastCollected: 2026-04-07T09:04:22.826Z
 estimatedTokens: 1920
 keywords: [SalesAgreementSettings, settings, control, display, agreement, terms, metrics, sales, agreements, calculation, actual, quantity, products, approval, File, API]
 ---

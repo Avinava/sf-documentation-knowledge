@@ -5,7 +5,7 @@ topic: personalizationpoint
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.424Z
+lastCollected: 2026-04-07T09:04:33.325Z
 estimatedTokens: 1430
 keywords: [PersonalizationPoint, specific, touch, point, experience, personalization, decision, made, connects, data, space, profile, graph, template, deliver]
 ---

@@ -5,7 +5,7 @@ topic: omniscript
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.197Z
+lastCollected: 2026-04-07T09:03:48.235Z
 estimatedTokens: 2517
 keywords: [OmniScript, Discovery, Framework, guides, users, sales, service, business, processes, customization, discoveryframework, Parent, File, Suffix, Directory]
 ---

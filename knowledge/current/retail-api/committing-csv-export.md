@@ -5,7 +5,7 @@ topic: committing-csv-export
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.237Z
+lastCollected: 2026-04-07T09:05:18.160Z
 estimatedTokens: 356
 keywords: [Committing, CSV, Export, Commit, API, specific, csvGuid, take, new, baseline, future, delta, exports, means, records, Apex, call, commits, full]
 ---

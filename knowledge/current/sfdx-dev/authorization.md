@@ -5,7 +5,7 @@ topic: authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:18.013Z
+lastCollected: 2026-04-07T09:06:12.792Z
 estimatedTokens: 1887
 keywords: [Authorization, refers, logging, org, run, commands, require, access, Creating, CLI, command, automatically, authorizes, authorize, Dev]
 ---

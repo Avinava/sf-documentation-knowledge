@@ -5,7 +5,7 @@ topic: create-a-restriction-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.136Z
+lastCollected: 2026-04-07T09:05:29.039Z
 estimatedTokens: 1022
 keywords: [Restriction, Rule, Control, records, specific, user, group, permitted, applied, data, access, via, org-wide, defaults, sharing]
 ---

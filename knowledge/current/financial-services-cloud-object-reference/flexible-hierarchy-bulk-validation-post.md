@@ -5,7 +5,7 @@ topic: flexible-hierarchy-bulk-validation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:28.439Z
+lastCollected: 2026-04-07T09:03:47.258Z
 estimatedTokens: 501
 keywords: [Flexible, Hierarchy, Bulk, Validation, POST, Validate, multiple, hierarchies, asynchronously, providing, IDs, applying, filter, criteria, selecting]
 ---

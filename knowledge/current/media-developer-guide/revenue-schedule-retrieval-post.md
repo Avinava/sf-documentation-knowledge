@@ -5,7 +5,7 @@ topic: revenue-schedule-retrieval-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.964Z
+lastCollected: 2026-04-07T09:04:20.929Z
 estimatedTokens: 973
 keywords: [Revenue, Schedule, Retrieval, POST, schedules, media, opportunity]
 ---

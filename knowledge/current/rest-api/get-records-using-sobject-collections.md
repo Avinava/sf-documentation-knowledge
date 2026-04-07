@@ -5,7 +5,7 @@ topic: get-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.161Z
+lastCollected: 2026-04-07T09:02:35.337Z
 estimatedTokens: 459
 keywords: [Records, sObject, Collections, sObjects, individual, number, matches, IDs, passed]
 ---

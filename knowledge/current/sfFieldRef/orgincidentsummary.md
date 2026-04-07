@@ -5,7 +5,7 @@ topic: orgincidentsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.125Z
+lastCollected: 2026-04-07T09:05:56.919Z
 estimatedTokens: 492
 keywords: [OrgIncidentSummary, statistics, according, various, categories, incidents, organization, non-compliance, laws, corruptions, health, safety, discrimination, marketing, labeling]
 ---

@@ -5,7 +5,7 @@ topic: dashboard
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.816Z
+lastCollected: 2026-04-07T09:04:38.572Z
 estimatedTokens: 2230
 keywords: [Dashboard, data, custom, reports, visual, components, Access, read-only, API, version, 20.0, later, Calls, Query, Scopes]
 ---

@@ -5,7 +5,7 @@ topic: groups-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:15.508Z
+lastCollected: 2026-04-07T09:03:27.168Z
 estimatedTokens: 760
 keywords: [Groups, Resources, group's, members, photo, organization, group, add, change]
 ---

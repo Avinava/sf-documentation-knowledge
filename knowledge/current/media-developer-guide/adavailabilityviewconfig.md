@@ -5,7 +5,7 @@ topic: adavailabilityviewconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.362Z
+lastCollected: 2026-04-07T09:04:21.575Z
 estimatedTokens: 857
 keywords: [AdAvailabilityViewConfig, configuration, decides, how, Media, Cloud-specific, pages, org, API, version, 59.0, later, Calls, Special, Access]
 ---

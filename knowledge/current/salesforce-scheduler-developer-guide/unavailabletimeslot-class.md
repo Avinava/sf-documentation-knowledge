@@ -5,7 +5,7 @@ topic: unavailabletimeslot-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.214Z
+lastCollected: 2026-04-07T09:05:26.245Z
 estimatedTokens: 577
 namespace: LxScheduler
 keywords: [UnavailableTimeslot, pass, unavailable, time, slots, lxscheduler.ServiceResourceSchedule, Timezones, differ, across, operating, hours, handled, results, always, UTC]

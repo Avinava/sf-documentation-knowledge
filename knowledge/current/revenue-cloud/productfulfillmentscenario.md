@@ -5,7 +5,7 @@ topic: productfulfillmentscenario
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.211Z
+lastCollected: 2026-04-07T09:02:05.156Z
 estimatedTokens: 994
 keywords: [ProductFulfillmentScenario, link, product, corresponding, group, fulfillment, steps, that's, necessary, fulfill, API, version, 61.0, later, Calls]
 ---

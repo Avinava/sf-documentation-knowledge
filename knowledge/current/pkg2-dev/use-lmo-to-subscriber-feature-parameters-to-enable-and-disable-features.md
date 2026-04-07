@@ -6,7 +6,7 @@ topic: use-lmo-to-subscriber-feature-parameters-to-enable-and-disable-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.147Z
+lastCollected: 2026-04-07T09:05:02.743Z
 estimatedTokens: 273
 keywords: [LMO-to-Subscriber, Feature, Enable, Disable, Features, data, flow, direction, LMO, Subscriber, writable, end, read-only, subscriber’s, org]
 ---

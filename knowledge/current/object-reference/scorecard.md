@@ -5,7 +5,7 @@ topic: scorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.656Z
+lastCollected: 2026-04-07T09:04:48.987Z
 estimatedTokens: 630
 keywords: [Scorecard, scorecards, measure, partner, performance, establish, benchmarks, channel, programs, Experience, Cloud, Display, any, report, summary]
 ---

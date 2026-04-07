@@ -5,7 +5,7 @@ topic: reportcomponent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.639Z
+lastCollected: 2026-04-07T09:05:17.265Z
 estimatedTokens: 88
 namespace: CGCloud
 keywords: [ReportComponent, Real, Time, Reporting, RTR, report, component, abstract, can’t, instantiated]

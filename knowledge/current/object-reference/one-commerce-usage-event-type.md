@@ -5,7 +5,7 @@ topic: one-commerce-usage-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.487Z
+lastCollected: 2026-04-07T09:04:40.567Z
 estimatedTokens: 2555
 keywords: [Commerce, Usage, Event, events, capture, instance, EventLogFile, API, version, 51.0, later]
 ---

@@ -5,7 +5,7 @@ topic: knowledgekav
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.434Z
+lastCollected: 2026-04-07T09:04:42.774Z
 estimatedTokens: 2757
 keywords: [Knowledge__kav, access, concrete, Knowledge, article, version, API, 39.0, later, _kav, Calls, Special, Rules]
 ---

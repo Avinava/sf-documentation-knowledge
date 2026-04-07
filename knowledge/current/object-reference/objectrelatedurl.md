@@ -5,7 +5,7 @@ topic: objectrelatedurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.362Z
+lastCollected: 2026-04-07T09:04:45.072Z
 estimatedTokens: 904
 keywords: [ObjectRelatedUrl, URL, slug, Product, Category, B2B, Commerce, D2C, LWR, site, custom, account, contact, enhanced, Experience]
 ---

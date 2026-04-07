@@ -5,7 +5,7 @@ topic: inspolicytransactiondetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:01.258Z
+lastCollected: 2026-04-07T09:05:50.406Z
 estimatedTokens: 387
 keywords: [InsPolicyTransactionDetail, insurance, policy, transaction, API, version, 55.0, later]
 ---

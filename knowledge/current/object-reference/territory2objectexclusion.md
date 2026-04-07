@@ -5,7 +5,7 @@ topic: territory2objectexclusion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.156Z
+lastCollected: 2026-04-07T09:04:50.974Z
 estimatedTokens: 368
 keywords: [Territory2ObjectExclusion, objects, aren’t, included, territory, assignment, rule, runs, they, meet, criteria, API, version, 54.0, later]
 ---

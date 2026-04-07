@@ -5,7 +5,7 @@ topic: svccatalogreqrelateditem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:17.649Z
+lastCollected: 2026-04-07T09:04:50.232Z
 estimatedTokens: 625
 keywords: [SvcCatalogReqRelatedItem, item, Service, Catalog, API, version, 53.0, later, Calls, Special, Access, Rules]
 ---

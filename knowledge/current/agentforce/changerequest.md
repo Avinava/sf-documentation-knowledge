@@ -5,7 +5,7 @@ topic: changerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:35.151Z
+lastCollected: 2026-04-07T09:02:10.077Z
 estimatedTokens: 1200
 keywords: [ChangeRequest, Standard, extend, Agentforce, Service, represent, fix, implemented, issue, API, version, 65.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: adverseeventaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.989Z
+lastCollected: 2026-04-07T09:04:09.403Z
 estimatedTokens: 957
 keywords: [AdverseEventAction, Preventive, actions, contributed, avoiding, adverse, event, Ameliorating, taken, occured, order, reduce, extent, harm, API]
 ---

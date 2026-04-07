@@ -5,7 +5,7 @@ topic: usageresourcepolicy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:28.429Z
+lastCollected: 2026-04-07T09:02:05.913Z
 estimatedTokens: 807
 keywords: [UsageResourcePolicy, policies, applicable, usage, resource, whether, it’s, associated, sellable, product, API, version, later, Calls, Special]
 ---

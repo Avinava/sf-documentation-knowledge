@@ -5,7 +5,7 @@ topic: before-you-start
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.269Z
+lastCollected: 2026-04-07T09:05:27.814Z
 estimatedTokens: 271
 keywords: [Start, scoping, rule, sure, needed, permissions, tools]
 ---

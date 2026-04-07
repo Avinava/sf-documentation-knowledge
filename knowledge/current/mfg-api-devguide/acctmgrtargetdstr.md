@@ -5,7 +5,7 @@ topic: acctmgrtargetdstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.073Z
+lastCollected: 2026-04-07T09:04:22.530Z
 estimatedTokens: 932
 keywords: [AcctMgrTargetDstr, account, product, price, book, associated, manager, target, child, AcctMgrTarget, API, version, 49.0, later, Calls]
 ---

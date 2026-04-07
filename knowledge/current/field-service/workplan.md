@@ -5,7 +5,7 @@ topic: workplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:51.007Z
+lastCollected: 2026-04-07T09:03:02.515Z
 estimatedTokens: 822
 keywords: [WorkPlan, work, plan, order, line, item, API, version, 52.0, later, Calls, Special, Access, Rules, Associated]
 ---

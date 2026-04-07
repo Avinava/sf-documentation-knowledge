@@ -5,7 +5,7 @@ topic: identifying-the-salesforce-style-your-users-see
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.210Z
+lastCollected: 2026-04-07T09:05:00.105Z
 estimatedTokens: 590
 keywords: [Identifying, Salesforce, Style, Users, you’re, creating, Visualforce, it’s, often, useful, know, look, feel, user, expects]
 ---

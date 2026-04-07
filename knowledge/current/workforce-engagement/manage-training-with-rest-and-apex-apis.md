@@ -5,7 +5,7 @@ topic: manage-training-with-rest-and-apex-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:22.676Z
+lastCollected: 2026-04-07T09:06:19.494Z
 estimatedTokens: 429
 keywords: [Manage, Training, REST, Apex, APIs, learning, module, assignments, programmatically, record, objects, API, Examples]
 ---

@@ -5,8 +5,8 @@ topic: rebateclaim
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.642Z
-estimatedTokens: 1907
+lastCollected: 2026-04-07T09:03:20.018Z
+estimatedTokens: 1877
 keywords: [RebateClaim, claim, submitted, end, customer, distributor, ship, debit, program, API, version, 54.0, later, Calls]
 ---
 
@@ -32,7 +32,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | CalculatedAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe calculated rebate claim amount. Available in API version 58.0 and later. |
 | ClaimAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe amount for which rebate is claimed. |
 | ClaimDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date when the claim is submitted by the claimant. |
-| ClaimType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the type of the rebate claim. Available in API version 58.0 and later.Possible values are:PriceProtection—Price ProtectionReversePriceProtection—Reverse Price ProtectionStandardRebate—Standard RebatecThe default value is StandardRebate. |
+| ClaimType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the type of the rebate claim. Available in API version 58.0 and later.Possible values are:ShipAndDebit—Ship and DebitStandardRebate—Standard Rebate |
 | ClaimedByAccountId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe account of the customer or distributor who is submitting the claim.This field is a relationship field.Relationship NameClaimedByAccountRelationship TypeLookupRefers ToAccount |
 | ClaimedByAccountNumber | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reference number of the account of the customer or distributor who is submitting the claim. |
 | CurrencyIsoCode | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionIf multiple currencies are enabled, this field contains the currency ISO code associated with the record.Possible values are:EUR—EuroUSD—U.S. DollarThe default value is EUR. |
@@ -60,4 +60,4 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | ShippedTransactionIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe identifier of the transaction between distributor and end customer or ship to account. Available in API version 58.0 and later. |
 | TotalAdjustmentAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total amount adjusted on the rebate claim. Available in API version 58.0 and later. |
 | TransactionIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique identifier of the transaction between the manufacturer and distributor. Available in API version 58.0 and later. |
-| UsageType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionSpecifies the usage type of the rebate claim.Possible value is:AutomotivePriceProtection—Price ProtectionRebatesThe default value is Rebates. Available in API version 58.0 and later. |
+| UsageType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionSpecifies the usage type of the rebate claim.Possible value is:AutomotiveRebatesThe default value is Rebates. Available in API version 58.0 and later. |

@@ -5,7 +5,7 @@ topic: link-program-member-partner
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.111Z
+lastCollected: 2026-04-07T09:04:17.320Z
 estimatedTokens: 272
 keywords: [Link, Program, Member, Partner, loyalty, Enable, integration, members, ecosystems, allowing, earn, redeem, manage, benefits, across, Output, representation, linkage]
 ---
@@ -53,7 +53,7 @@ Properties
 
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
-| additionalAttributes | Object | Attributes of the member that must be saved in the linkage record. | Optional | 66.0 |
+| additional​Attributes | Object | Attributes of the member that must be saved in the linkage record. | Optional | 66.0 |
 | externalId | String | External ID of the loyalty program member associated with the partner. | Optional | 66.0 |
 
 Response body for POST

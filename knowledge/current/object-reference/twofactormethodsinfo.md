@@ -5,8 +5,8 @@ topic: twofactormethodsinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:18.321Z
-estimatedTokens: 1258
+lastCollected: 2026-04-07T09:04:51.204Z
+estimatedTokens: 1385
 keywords: [TwoFactorMethodsInfo, Stores, identity, verification, user, registered, API, version, 37.0, later, Calls, Special, Access, Rules, Usage]
 ---
 
@@ -53,12 +53,18 @@ To avoid this error, execute DML operations and queries in separate, asynchronou
 
 ## Usage
 
-In API version 34.0 and later, this object was enhanced to help manage high instance counts. A [query()](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_calls_query.htm) call returns up to 500 rows. A [queryMore()](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_calls_querymore.htm)call returns 500 more, up to 2500 total. No more records are returned after 2500.
+In API version 34.0 and later, this object was enhanced to help manage high instance counts. A [query()](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_calls_query.htm) call returns up to 500 rows. A [queryMore()](https://developer.salesforce.com/docs/atlas.en-us.260.0.api.meta/api/sforce_api_calls_querymore.htm)call returns 500 more, up to 2,500 total. No more records are returned after 2,500.
 
-To make sure that you don’t miss any records, issue a COUNT() query in a SELECT clause for TwoFactorMethodInfo. This query gives you the total number of records. If there are more than 2500 records, use these options to manage your results.
+To make sure that you don’t miss any records, issue a COUNT() query in a SELECT clause for TwoFactorMethodInfo. This query gives you the total number of records. If there are more than 2,500 records, use these options to manage your results.
 
--   Divide queries by filtering on fields like UserId to return subsets of less than 2500 records.
--   Use OFFSET to get batches of 2500 records. Start with an OFFSET of 0 and then increment by 2500. If you use this option, we recommend that you also use LIMIT to limit each query to 2500.
+-   Divide queries by filtering on fields like UserId to return subsets of less than 2,500 records.
+-   Use [OFFSET](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_offset.htm) to get batches of 2,000 records. Start with an OFFSET of 0 and then increment by 2,000. If you use this option, we recommend that you also use [LIMIT](https://developer.salesforce.com/docs/atlas.en-us.260.0.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_limit.htm) to limit each query to 2,000.
+
+    ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=object_reference)
+
+    #### Note
+
+    The OFFSET clause is limited to 2,000 rows. Requesting an offset greater than 2,000 results in a NUMBER\_OUTSIDE\_VALID\_RANGE error.
 
     For example, use an initial query with this structure.
 
@@ -66,13 +72,13 @@ To make sure that you don’t miss any records, issue a COUNT() query in a SELEC
 
     ```
 
-    Then, run another query with an offset of 2500.
+    Then, run another query with an offset of 2,000.
 
     ```
 
     ```
 
-    Continue to increase the offset by 2500 until you have results for all records.
+    Continue to increase the offset by 2,000 until you have results for all records.
 
 ## Code Examples
 
@@ -82,9 +88,9 @@ Commit or roll back the work, and then try again.
 ```
 
 ```
-SELECT <desired fields> FROM TwoFactorMethodsInfo LIMIT 2500 OFFSET 0
+SELECT <desired fields> FROM TwoFactorMethodsInfo LIMIT 2000 OFFSET 0
 ```
 
 ```
-SELECT <desired fields> FROM TwoFactorMethodsInfo LIMIT 2500 OFFSET 2500
+SELECT <desired fields> FROM TwoFactorMethodsInfo LIMIT 2000 OFFSET 2000
 ```

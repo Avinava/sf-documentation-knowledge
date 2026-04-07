@@ -5,7 +5,7 @@ topic: oauth-credentials-by-app-id
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.841Z
+lastCollected: 2026-04-07T09:03:26.201Z
 estimatedTokens: 104
 keywords: [OAuth, Credentials, App, consumers, associated, providing]
 ---

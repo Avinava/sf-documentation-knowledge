@@ -5,7 +5,7 @@ topic: salesforce-crm-knowledge-article-engagement-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:31.927Z
+lastCollected: 2026-04-07T09:02:08.212Z
 estimatedTokens: 449
 keywords: [Salesforce, CRM, Knowledge, Article, Engagement, Mapping, data, mappings, KnowledgeArticleView, DLO, created, Views, Ingestion, API, Cloud]
 ---

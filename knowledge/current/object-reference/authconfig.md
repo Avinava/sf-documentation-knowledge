@@ -5,7 +5,7 @@ topic: authconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:05.300Z
+lastCollected: 2026-04-07T09:04:35.519Z
 estimatedTokens: 930
 keywords: [AuthConfig, authentication, options, Domain, Experience, Cloud, site, login, pages, API, version, 32.0, later, Calls, Special]
 ---

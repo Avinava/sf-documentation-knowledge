@@ -5,7 +5,7 @@ topic: service-cloud-voice-lwc-toolkit-api-telephony-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.731Z
+lastCollected: 2026-04-07T09:06:18.051Z
 estimatedTokens: 842
 keywords: [Service, Cloud, Voice, LWC, Toolkit, API, Telephony, Actions, components, context-aware, listening, raising, events, phone, calls]
 ---

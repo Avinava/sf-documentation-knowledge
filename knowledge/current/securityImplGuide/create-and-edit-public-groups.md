@@ -5,7 +5,7 @@ topic: create-and-edit-public-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.612Z
+lastCollected: 2026-04-07T09:05:28.250Z
 estimatedTokens: 1063
 keywords: [Edit, Groups, help, configure, users’, access, records, features, administrators, delegated]
 ---

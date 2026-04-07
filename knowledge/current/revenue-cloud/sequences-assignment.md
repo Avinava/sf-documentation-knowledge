@@ -5,7 +5,7 @@ topic: sequences-assignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:21.841Z
+lastCollected: 2026-04-07T09:02:01.745Z
 estimatedTokens: 166
 keywords: [Sequences, Assignment, Output, representation, status, assigned, sequence, pattern]
 ---

@@ -5,7 +5,7 @@ topic: prodtsvccmpnworktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:55.898Z
+lastCollected: 2026-04-07T09:04:23.752Z
 estimatedTokens: 747
 keywords: [ProdtSvcCmpnWorkType, eligible, work, associated, product, service, campaign, Helps, identify, track, impacted, items, facilitating, efficient, execution]
 ---

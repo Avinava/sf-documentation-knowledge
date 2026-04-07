@@ -5,7 +5,7 @@ topic: gettacticcompensationmodels
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.008Z
+lastCollected: 2026-04-07T09:05:17.825Z
 estimatedTokens: 140
 keywords: [getTacticCompensationModels, compensation, model, tactic, template, defined, record, Input, Sample]
 ---

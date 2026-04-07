@@ -5,7 +5,7 @@ topic: sample-jenkinsfile
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.127Z
+lastCollected: 2026-04-07T09:06:12.942Z
 estimatedTokens: 351
 keywords: [Sample, Jenkinsfile, text, file, definition, Jenkins, Pipeline, how, integrate, Salesforce, CLI, commands, automate, testing, applications]
 ---

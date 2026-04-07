@@ -5,7 +5,7 @@ topic: connect-your-solution-to-the-appexchange-partner-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.409Z
+lastCollected: 2026-04-07T09:04:54.137Z
 estimatedTokens: 463
 keywords: [Connect, Solution, AppExchange, Partner, Console, add, listing, you're, prompted, enter, depends, Salesforce, managed, package, provide]
 ---

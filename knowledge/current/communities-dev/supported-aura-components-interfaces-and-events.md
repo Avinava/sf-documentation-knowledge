@@ -5,7 +5,7 @@ topic: supported-aura-components-interfaces-and-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:23.241Z
+lastCollected: 2026-04-07T09:03:39.640Z
 estimatedTokens: 284
 keywords: [Aura, Components, Interfaces, Events, Aura-based, Experience, Builder, sites, Salesforce, mobile, app, Lightning, Check, what’s, customizing]
 ---

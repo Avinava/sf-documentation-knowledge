@@ -5,7 +5,7 @@ topic: survey-invitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.589Z
+lastCollected: 2026-04-07T09:05:23.574Z
 estimatedTokens: 406
 keywords: [Survey, Invitations, how, API, requests, invoked, Apex]
 ---

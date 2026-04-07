@@ -5,7 +5,7 @@ topic: business-objective-insights-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.086Z
+lastCollected: 2026-04-07T09:03:20.640Z
 estimatedTokens: 102
 keywords: [Business, Objective, Insights, Input, associated, goal]
 ---

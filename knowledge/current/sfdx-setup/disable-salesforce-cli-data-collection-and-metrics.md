@@ -5,7 +5,7 @@ topic: disable-salesforce-cli-data-collection-and-metrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.084Z
+lastCollected: 2026-04-07T09:06:14.243Z
 estimatedTokens: 197
 keywords: [Disable, Salesforce, CLI, Data, Collection, Metrics, collects, usage, telemetry, help, improve, collect, anonymous, plugins, commands]
 ---

@@ -5,7 +5,7 @@ topic: snapshot-index-info
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:21.917Z
+lastCollected: 2026-04-07T09:02:01.806Z
 estimatedTokens: 200
 keywords: [Snapshot, Index, Info, Output, representation]
 ---

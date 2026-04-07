@@ -5,7 +5,7 @@ topic: searchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:32.417Z
+lastCollected: 2026-04-07T09:03:51.947Z
 estimatedTokens: 1387
 keywords: [SearchResult, contract, search, results, tabular, either, object-based, text-based, searchResultHeaders, searchResultRows]
 ---

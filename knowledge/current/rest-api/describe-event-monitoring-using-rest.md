@@ -5,7 +5,7 @@ topic: describe-event-monitoring-using-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:39.304Z
+lastCollected: 2026-04-07T09:02:34.614Z
 estimatedTokens: 151
 keywords: [Describe, Event, Monitoring, REST, sObject, resource, retrieve, metadata, including, URLs, child, relationships]
 ---

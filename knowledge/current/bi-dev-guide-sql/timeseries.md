@@ -5,7 +5,7 @@ topic: timeseries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.313Z
+lastCollected: 2026-04-07T09:03:15.468Z
 estimatedTokens: 731
 keywords: [TIMESERIES, function, predict, future, ones, tracked, over, time, Optionally, choose, prediction, model, confidence, interval, seasonality]
 ---

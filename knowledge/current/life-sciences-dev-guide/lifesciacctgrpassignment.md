@@ -5,7 +5,7 @@ topic: lifesciacctgrpassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.243Z
+lastCollected: 2026-04-07T09:04:10.723Z
 estimatedTokens: 522
 keywords: [LifeSciAcctGrpAssignment, junction, account, actionable, API, version, 65.0, later, Calls]
 ---

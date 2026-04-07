@@ -5,7 +5,7 @@ topic: cgcloudproductconditionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.463Z
+lastCollected: 2026-04-07T09:05:20.995Z
 estimatedTokens: 1320
 keywords: [cgcloud__Product_Condition__c, uses, product-specific, conditions, specifying, product, prices, relevant, simple, order, calculation, API, version, 54.0, later]
 ---

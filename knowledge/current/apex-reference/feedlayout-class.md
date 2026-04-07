@@ -5,7 +5,7 @@ topic: feedlayout-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.893Z
+lastCollected: 2026-04-07T09:02:15.064Z
 estimatedTokens: 2078
 namespace: Metadata
 keywords: [FeedLayout, define, feed, view, feed-based, layout, layouts, Account, Case, Contact, Lead, Opportunity, custom, external, objects]

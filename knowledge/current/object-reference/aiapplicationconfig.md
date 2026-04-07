@@ -5,7 +5,7 @@ topic: aiapplicationconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:04.127Z
+lastCollected: 2026-04-07T09:04:34.155Z
 estimatedTokens: 412
 keywords: [AIApplicationConfig, Additional, prediction, application, API, version, 50.0, later, Calls]
 ---

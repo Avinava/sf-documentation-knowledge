@@ -5,7 +5,7 @@ topic: schedule-fund-calculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.870Z
+lastCollected: 2026-04-07T09:05:17.593Z
 estimatedTokens: 68
 keywords: [Schedule, Fund, Calculation, Enqueues, funds, batch]
 ---

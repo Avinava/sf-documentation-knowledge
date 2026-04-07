@@ -5,7 +5,7 @@ topic: summarizationresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.378Z
+lastCollected: 2026-04-07T09:05:23.245Z
 estimatedTokens: 143
 keywords: [summarizationResult, stores, NLP, Summarization, result, performed, Operation, SurveyLongSummarization, SurveyShortSummarization]
 ---

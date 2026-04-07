@@ -5,7 +5,7 @@ topic: connectapibannercapability
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:49.209Z
+lastCollected: 2026-04-07T09:02:21.999Z
 estimatedTokens: 244
 keywords: [ConnectApi.BannerCapability, feed, element, capability, banner, motif, style]
 ---

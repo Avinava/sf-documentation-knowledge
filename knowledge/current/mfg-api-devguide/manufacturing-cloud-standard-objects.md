@@ -5,8 +5,8 @@ topic: manufacturing-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:55.224Z
-estimatedTokens: 8818
+lastCollected: 2026-04-07T09:04:22.723Z
+estimatedTokens: 9852
 keywords: [Manufacturing, Cloud, Standard, Objects, data, model, manage, sales, agreements, account, forecasts, business, negotiations, planning, integrated]
 ---
 
@@ -90,6 +90,8 @@ Available in: Enterprise, Unlimited, and Developer Editions.
     Represents various industry defined codes in the context of their systems and versions of those systems. This object is available in Manufacturing Cloud in API version 58.0 and later.
 -   **[CodesetRelationship](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_codesetrelationship.htm)**
     Represents a relationship between a codeset and its related codeset. For example, a labor code associated with a fault code. This object is available in Manufacturing Cloud in API version 58.0 and later.
+-   **[DealerProdtSearchableField](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_mfgdealerprodtsearchablefield.htm)**
+    Represents information about dealers selling and, or, servicing products for location-based searches. Helps customers find nearby dealer locations for product purchases and services. This object is available in API version 65.0 and later.
 -   **[EngagementAttendee](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_engagement_attendee.htm)**
     Represents information about an attendee of an engagement. For example, when a customer initiates an engagement interaction by calling a service representative to inquire about an insurance claim, this object stores information about the customer and the service representative. This object is available in API version 55.0 and later
 -   **[EngagementInteraction](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_engagement_interaction.htm)**
@@ -110,6 +112,10 @@ Available in: Enterprise, Unlimited, and Developer Editions.
     Represents the context or purpose for a generic visit task. This object is available in Manufacturing Cloud in API version 56.0 and later.
 -   **[GnrcVstTaskContextRelation](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/mfg_sforce_api_objects_gnrcvsttaskcontextrelation.htm)**
     Represents common attributes used for a visit task and a visit task context. This object is available in Manufacturing Cloud in API version 56.0 and later.
+-   **[GoodsReceivedNote](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_goodsreceivednote.htm)**
+    Represents a record created by the buyer to confirm the delivery of goods from a supplier. It is used to verify that the received items match the purchase order. This object is available in API version 65.0 and later.
+-   **[GoodsReceivedNoteItem](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_goodsreceivednoteitem.htm)**
+    Represents a single line entry on the Goods Received Note (GRN) that details the receiving status of a specific product. It records the total quantity received and indicates how many units were damaged, short-delivered, or received in excess of the purchase order. This object is available in API version 65.0 and later.
 -   **[InventoryCntSerializedProdt](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_inventorycntserializedprodt.htm)**
     Represents a serialized product in an inventory count. This object is available in API version 63.0 and later.
 -   **[InventoryCountAssessment](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_inventorycountassessment.htm)**
@@ -124,6 +130,8 @@ Available in: Enterprise, Unlimited, and Developer Editions.
     Represents the inventory count of a batch of a product at a location. This object is available in API version 55.0 and later.
 -   **[InventoryReplenishmentPolicy](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_inventoryreplenishmentpolicy.htm)**
     Represents a policy for replenishing inventory when the inventory quantity reaches a minimum level. This object is available in API version 63.0 and later.
+-   **[LeadPreferredSeller](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_leadpreferredseller.htm)**
+    Represents the relationship between a lead and the dealer account that the lead selects, or the relationship between a lead and the account that provides the lead. This object is available in API version 65.0 and later.
 -   **[ManufacturingProgram](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_manufacturingprogram.htm)**
     Represents information about a manufacturing program. For example, Verican X program for Verican Account to manufacture auto components for their upcoming concept vehicle, staring from 01-Jan-2022 and valid until 01-Dec-2024. This object is available in API version 55.0 and later.
 -   **[MfgProgramCpntFrcstFact](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_mfgprogramcpntfrcstfact.htm)**
@@ -138,6 +146,8 @@ Available in: Enterprise, Unlimited, and Developer Editions.
     Represents information about the transformation type associated with a manufacturing program template. This object is available in API version 55.0 and later.
 -   **[MfgProgramVariantFrcstFact](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_mfgprogramvariantfrcstfact.htm)**
     Represents information about the generated manufacturing program product variant forecast records. This object is available in API version 55.0 and later.
+-   **[OpportunityPreferredSeller](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_opportunitypreferredseller.htm)**
+    Represents the relationship between an opportunity and a dealer account, or the relationship between an opportunity and the account that provided the lead from which the opportunity was created. This object is available in API version 65.0 and later.
 -   **[ProductConsumed](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productconsumed.htm)**
     Represents an item from your product inventory that was used to complete a work order or work order line item. This object is available in API version 60.0 and later.
 -   **[ProductConsumedState](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productconsumedstate.htm)**
@@ -163,11 +173,11 @@ Available in: Enterprise, Unlimited, and Developer Editions.
 -   **[ProductRequired](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productrequired.htm)**
     Represents a product that is needed to complete a work order or work order line item. This object is available in API version 60.0 and later.
 -   **[ProductRqmtSpec](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productrqmtspec.htm)**
-    Defines a complete set of requirements. It captures key information such as the associated Account and Contact, tracks its overall lifecycle status, and acts as the parent for all related requirement items and their versions.
+    Defines a complete set of requirements. It captures key information such as the associated Account and Contact, tracks its overall lifecycle status, and acts as the parent for all related requirement items and their versions. This object is available in API version 65.0 and later.
 -   **[ProductRqmtSpecItem](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productrqmtspecitem.htm)**
-    Represents a specific and measurable requirement within a requirement specification for a requested product. Defines what must be delivered and how to verify its fulfilment.
+    Represents a specific and measurable requirement within a requirement specification for a requested product. Defines what must be delivered and how to verify its fulfilment. This object is available in API version 65.0 and later.
 -   **[ProductRqmtSpecVersion](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productrqmtspecversion.htm)**
-    Represents a specific, numbered snapshot of a Requirement Specification at a particular time, outlining the purpose, scope, constraints, and validation methods.
+    Represents a specific, numbered snapshot of a Requirement Specification at a particular time, outlining the purpose, scope, constraints, and validation methods. This object is available in API version 65.0 and later.
 -   **[ProductServiceCampaign](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productservicecampaign.htm)**
     Represents a set of activities to be performed for a product service campaign. For example, a recall of products due to potential safety hazards or an upgrade of products to comply with legal regulations. This object is available in API version 61.0 and later.
 -   **[ProductServiceCampaignItem](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productservicecampaignitem.htm)**
@@ -194,6 +204,10 @@ Available in: Enterprise, Unlimited, and Developer Editions.
     Represents an action taken to associate a serialized product with a product transfer. The new state is a result of the action. A product transfer state record is created when serialized products are attached to the product transfer. This object is available in API version 60.0 and later.
 -   **[ProductWarrantyTerm](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_productwarrantyterm.htm)**
     Defines the relationship between a product or product family and a warranty term. This object is available in Manufacturing Cloud in API version 55.0 and later.
+-   **[PurchaseOrder](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_purchaseorder.htm)**
+    Represents the Purchase Order entity that captures a formal request from a Buyer to a Supplier to supply goods or services. It is identified by a unique PurchaseOrderNumber and tracks the order's lifecycle via a StatusCode. It defines commercial terms like the TotalAmount, BillingAccount, and the governing PriceBook. This object is available in API version 65.0 and later.
+-   **[PurchaseOrderItem](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_purchaseorderitem.htm)**
+    Represents an individual line on a parent Purchase Order, detailing a specific product or service being procured. It captures the core transactional data including the Quantity, UnitPrice, a reference to the Product, and the calculated LineTotal. This object is available in API version 65.0 and later.
 -   **[ReturnOrder](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_returnorder.htm)**
     Represents the repair, return, or recall of product items. This object is available in API version 60.0 and later.
 -   **[ReturnOrderLineItem](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_returnorderlineitem.htm)**
@@ -211,9 +225,11 @@ Available in: Enterprise, Unlimited, and Developer Editions.
 -   **[SalesContractLine](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_salescontractline.htm)**
     Stores a contract's product information, including price, quantity, and components covered. This object is available in API version 59.0 and later.
 -   **[SampleRequest](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_samplerequest.htm)**
-    Represents a request for product samples, including customer account details, request date and status.
+    Represents a request for product samples, including customer account details, request date and status. This object is available in API version 65.0 and later.
 -   **[SampleRequestItem](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_samplerequestitem.htm)**
-    Represents information on items associated with a sample request, including details such as product, custom specifications, quantity and price.
+    Represents information on items associated with a sample request, including details such as product, custom specifications, quantity and price. This object is available in API version 65.0 and later.
+-   **[SellerProduct](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_sellerproduct.htm)**
+    Represents information about the products associated with a seller. Provides insight into product availability, production details, and the seller's role for the product, such as for sales or for service. This object is available in API version 65.0 and later.
 -   **[SerializedProduct](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_serializedproduct.htm)**
     Records serial numbers for each product in an inventory. This object is available in API version 60.0 and later.
 -   **[SerializedProductTransaction](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_serializedproducttransaction.htm)**
@@ -226,6 +242,10 @@ Available in: Enterprise, Unlimited, and Developer Editions.
     Represents information about a supplier that a manufacturer procures product parts and components from. This object is available in API version 59.0 and later.
 -   **[SupplierProduct](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_supplierproduct.htm)**
     Represents information about a product that’s procured from a supplier. This object is available in API version 59.0 and later.
+-   **[StockRotationExecution](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_stockrotationexecution.htm)**
+    Represents a stock rotation rebate activity, recording affected inventory and partner information for rebate claim processing. This object is available in API version 65.0 and later.
+-   **[StockRotationExecutionItem](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_stockrotationexecutionitem.htm)**
+    Represents the affected partner inventory in a stock rotation rebate execution, used to determine claim eligibility. This object is available in API version 65.0 and later.
 -   **[Visit](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_visit.htm)**
     Represents information about a visit that a manager schedules for a field rep to perform, usually at distributor, supplier, and partner locations. This object is available in API version 56.0 and later.
 -   **[WarrantyTerm](atlas.en-us.mfg_api_devguide.meta/mfg_api_devguide/sforce_api_objects_warrantyterm.htm)**

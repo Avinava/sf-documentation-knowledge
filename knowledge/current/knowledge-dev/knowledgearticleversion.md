@@ -5,7 +5,7 @@ topic: knowledgearticleversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.910Z
+lastCollected: 2026-04-07T09:04:05.199Z
 estimatedTokens: 3778
 keywords: [KnowledgeArticleVersion, view, standard, article, across, articles, depending, their, version, API, 18.0, later, Calls, Special, Access]
 ---

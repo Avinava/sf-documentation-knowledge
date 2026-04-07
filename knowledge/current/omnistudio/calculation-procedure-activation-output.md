@@ -5,7 +5,7 @@ topic: calculation-procedure-activation-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:50.472Z
+lastCollected: 2026-04-07T09:02:53.128Z
 estimatedTokens: 250
 keywords: [Calculation, Procedure, Activation, Output, representation, version, record]
 ---

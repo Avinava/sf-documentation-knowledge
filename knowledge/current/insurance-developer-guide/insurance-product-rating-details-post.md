@@ -5,7 +5,7 @@ topic: insurance-product-rating-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.241Z
+lastCollected: 2026-04-07T09:04:02.729Z
 estimatedTokens: 511
 keywords: [Insurance, Product, Rating, POST, Generate, input, IDs, generated, API, evaluate, pricing]
 ---
@@ -74,7 +74,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/product-rating/get-rating-input
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/product-rating/get-rating-input
 ```
 
 ```

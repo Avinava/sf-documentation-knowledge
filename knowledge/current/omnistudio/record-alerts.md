@@ -5,7 +5,7 @@ topic: record-alerts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.241Z
+lastCollected: 2026-04-07T09:02:57.792Z
 estimatedTokens: 485
 keywords: [Record, Alerts, system, continuously, monitors, activities, Salesforce, records, generate, perform, action, snooze, time, dismiss]
 ---

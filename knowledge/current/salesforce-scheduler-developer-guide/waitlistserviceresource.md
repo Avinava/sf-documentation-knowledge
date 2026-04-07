@@ -5,7 +5,7 @@ topic: waitlistserviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.892Z
+lastCollected: 2026-04-07T09:05:27.220Z
 estimatedTokens: 698
 keywords: [WaitlistServiceResource, relationship, Waitlist, Service, Resource, Salesforce, Scheduler, API, version, 58.0, later, Calls, Special, Access, Rules]
 ---

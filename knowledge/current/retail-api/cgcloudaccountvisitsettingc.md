@@ -5,7 +5,7 @@ topic: cgcloudaccountvisitsettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.123Z
+lastCollected: 2026-04-07T09:05:19.466Z
 estimatedTokens: 1615
 keywords: [cgcloud__Account_Visit_Setting__c, stores, settings, calls, user, customer, API, version, 54.0, later, cgcloud, _Account, _Visit, _Setting, Associated]
 ---

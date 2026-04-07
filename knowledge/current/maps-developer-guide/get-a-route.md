@@ -5,7 +5,7 @@ topic: get-a-route
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.812Z
+lastCollected: 2026-04-07T09:04:20.715Z
 estimatedTokens: 521
 keywords: [Route, getRoute, Apex, two, waypoints, mode, transportation, travel, time, depends, appears, Salesforce, Maps, users, requested]
 ---

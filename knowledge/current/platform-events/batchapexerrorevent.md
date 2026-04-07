@@ -5,7 +5,7 @@ topic: batchapexerrorevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.347Z
+lastCollected: 2026-04-07T09:05:05.870Z
 estimatedTokens: 825
 keywords: [BatchApexErrorEvent, Notifies, subscribers, errors, exceptions, occur, execution, batch, Apex, API, version, 44.0, later, Calls, Subscription]
 ---

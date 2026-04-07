@@ -5,7 +5,7 @@ topic: configure-response-code-metadata-in-your-payment-gateway-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.903Z
+lastCollected: 2026-04-07T09:03:16.462Z
 estimatedTokens: 651
 keywords: [Configure, Code, Metadata, Payment, Gateway, Package, packages, require, custom, file, communicate, Salesforce, Billing, uses, store]
 ---

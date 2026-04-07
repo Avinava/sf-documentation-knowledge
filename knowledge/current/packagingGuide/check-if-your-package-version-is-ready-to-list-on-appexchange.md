@@ -5,7 +5,7 @@ topic: check-if-your-package-version-is-ready-to-list-on-appexchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.198Z
+lastCollected: 2026-04-07T09:04:55.522Z
 estimatedTokens: 479
 keywords: [Check, Package, Version, Ready, AppExchange, Listing, readiness, whether, managed-released, approved, pass, security, review, org, connected]
 ---

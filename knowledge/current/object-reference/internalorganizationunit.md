@@ -5,7 +5,7 @@ topic: internalorganizationunit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:11.249Z
+lastCollected: 2026-04-07T09:04:42.571Z
 estimatedTokens: 1016
 keywords: [InternalOrganizationUnit, organization, Employee, belongs, API, version, 48.0, later, 49.0, supports, reports, criteria-based, sharing, rules, history]
 ---

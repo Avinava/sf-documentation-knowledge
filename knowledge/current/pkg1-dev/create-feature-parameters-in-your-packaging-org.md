@@ -5,7 +5,7 @@ topic: create-feature-parameters-in-your-packaging-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.348Z
+lastCollected: 2026-04-07T09:05:01.489Z
 estimatedTokens: 377
 keywords: [Feature, Packaging, Org, data, flow, direction]
 ---

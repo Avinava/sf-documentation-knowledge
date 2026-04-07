@@ -5,7 +5,7 @@ topic: sync-sustainability-credit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:57.325Z
+lastCollected: 2026-04-07T09:04:25.740Z
 estimatedTokens: 360
 keywords: [Sync, Sustainability, Credit, Synchronize, organization’s, carbon, footprint, credits, MarketPlace, NetZero, Cloud, API, popluates, SustainabilityCredit, SustainabilityPurchase]
 ---

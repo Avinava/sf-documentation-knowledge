@@ -5,7 +5,7 @@ topic: scratch-org-definition-for-org-shape
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.606Z
+lastCollected: 2026-04-07T09:06:13.542Z
 estimatedTokens: 689
 keywords: [Scratch, Org, Definition, Shape, creation, capture, features, settings, edition, licenses, limits, source, way, don’t, manually]
 ---

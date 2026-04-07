@@ -5,7 +5,7 @@ topic: connectapitopicpage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:29.202Z
+lastCollected: 2026-04-07T09:02:26.754Z
 estimatedTokens: 96
 keywords: [ConnectApi.TopicPage, topics]
 ---

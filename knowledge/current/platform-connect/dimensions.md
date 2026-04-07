@@ -5,7 +5,7 @@ topic: dimensions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.508Z
+lastCollected: 2026-04-07T09:05:04.623Z
 estimatedTokens: 399
 keywords: [Dimensions, JSON-formatted, containing, context, iFrame, canvas, app, appears]
 ---

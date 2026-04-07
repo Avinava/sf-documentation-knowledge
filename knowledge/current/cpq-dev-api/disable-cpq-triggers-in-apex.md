@@ -5,7 +5,7 @@ topic: disable-cpq-triggers-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.649Z
+lastCollected: 2026-04-07T09:03:40.265Z
 estimatedTokens: 343
 keywords: [Disable, CPQ, Triggers, Apex, manually, Salesforce, Billing, application, logic, records, process, helpful, you’re, updating, own]
 ---

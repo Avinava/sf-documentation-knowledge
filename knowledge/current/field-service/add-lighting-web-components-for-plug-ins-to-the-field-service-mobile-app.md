@@ -5,7 +5,7 @@ topic: add-lighting-web-components-for-plug-ins-to-the-field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.419Z
+lastCollected: 2026-04-07T09:03:00.960Z
 estimatedTokens: 1284
 keywords: [Add, Lighting, Web, Components, Plug-Ins, Service, Mobile, App, Enhance, creating, Lightning, LWCs]
 ---

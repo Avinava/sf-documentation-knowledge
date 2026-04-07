@@ -5,7 +5,7 @@ topic: fundraisingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:07.113Z
+lastCollected: 2026-04-07T09:02:40.944Z
 estimatedTokens: 1023
 keywords: [FundraisingConfig, collection, settings, configure, fundraising, product, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules]
 ---

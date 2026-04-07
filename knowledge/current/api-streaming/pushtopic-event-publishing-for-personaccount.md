@@ -5,7 +5,7 @@ topic: pushtopic-event-publishing-for-personaccount
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.441Z
+lastCollected: 2026-04-07T09:03:05.191Z
 estimatedTokens: 112
 keywords: [PushTopic, Event, Publishing, PersonAccount, targets, Account, record, events, changes, Although, internally, composed, Contact, handled, associated]
 ---

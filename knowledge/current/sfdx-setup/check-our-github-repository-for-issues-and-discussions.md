@@ -5,7 +5,7 @@ topic: check-our-github-repository-for-issues-and-discussions
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:19.239Z
+lastCollected: 2026-04-07T09:06:14.436Z
 estimatedTokens: 205
 keywords: [Check, GitHub, Repository, Issues, Discussions, Don't, problem, customers, open-source, community, enter, top-level, Salesforce, CLI]
 ---

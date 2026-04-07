@@ -5,7 +5,7 @@ topic: transactionparameter-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.143Z
+lastCollected: 2026-04-07T09:03:16.801Z
 estimatedTokens: 4373
 keywords: [TransactionParameter, Acts, container, store, calculation-specific, setRequestingInvoiceId, requestingInvoiceId, getRequestingInvoiceId, setCardCodeResponse, cardCodeResponse, getCardCodeResponse, setCardNumber, requestingCreditCardNumber, getCardNumber, setPayment]
 ---

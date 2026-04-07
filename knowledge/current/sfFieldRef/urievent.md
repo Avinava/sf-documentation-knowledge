@@ -5,7 +5,7 @@ topic: urievent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.683Z
+lastCollected: 2026-04-07T09:06:09.780Z
 estimatedTokens: 398
 keywords: [UriEvent, Detects, user, creates, accesses, updates, deletes, record, Salesforce, Classic, Doesn't, detect, operations, Visualforce, views]
 ---

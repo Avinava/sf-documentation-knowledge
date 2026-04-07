@@ -5,7 +5,7 @@ topic: controlling-the-appearance-of-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.911Z
+lastCollected: 2026-04-07T09:04:56.727Z
 estimatedTokens: 235
 keywords: [Controlling, Appearance, Charts, Visualforce, highly, customizable, combine, various, data, series, control, colors, elements, chart, look]
 ---

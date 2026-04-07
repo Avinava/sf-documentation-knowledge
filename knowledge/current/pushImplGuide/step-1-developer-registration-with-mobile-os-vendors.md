@@ -6,7 +6,7 @@ topic: step-1-developer-registration-with-mobile-os-vendors
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:35.692Z
+lastCollected: 2026-04-07T09:05:15.961Z
 estimatedTokens: 1007
 keywords: [Step, Developer, Registration, Mobile, Vendors, asks, vendor, prepared, handle, Salesforce, push, notifications, sent, app, you’ll]
 ---

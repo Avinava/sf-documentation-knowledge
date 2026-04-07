@@ -5,7 +5,7 @@ topic: action-link-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.919Z
+lastCollected: 2026-04-07T09:03:20.394Z
 estimatedTokens: 1686
 keywords: [Action, Link, Definition, Input, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke]
 ---

@@ -5,7 +5,7 @@ topic: visualforce-email-templates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.574Z
+lastCollected: 2026-04-07T09:04:59.108Z
 estimatedTokens: 555
 keywords: [Visualforce, Email, Templates, Developers, administrators, advantage, over, standard, HTML, gives, ability, perform, advanced, operations, data]
 ---

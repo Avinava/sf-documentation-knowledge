@@ -5,7 +5,7 @@ topic: calling-a-server-side-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.583Z
+lastCollected: 2026-04-07T09:04:13.553Z
 estimatedTokens: 1656
 keywords: [Calling, Server-Side, Action, Call, controller, client-side, callback, completed, any, containing, serializable, JSON, data]
 ---

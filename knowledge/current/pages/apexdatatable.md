@@ -5,7 +5,7 @@ topic: apexdatatable
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.384Z
+lastCollected: 2026-04-07T09:04:57.409Z
 estimatedTokens: 2789
 keywords: [apex, dataTable, HTML, that’s, defined, iterating, over, data, displaying, item, per, row, <apex, dataTable>, column]
 ---

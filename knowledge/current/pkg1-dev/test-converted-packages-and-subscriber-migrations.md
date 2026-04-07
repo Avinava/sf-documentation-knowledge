@@ -5,7 +5,7 @@ topic: test-converted-packages-and-subscriber-migrations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.484Z
+lastCollected: 2026-04-07T09:05:01.716Z
 estimatedTokens: 270
 keywords: [Test, Converted, Packages, Subscriber, Migrations, move, 2GP, development, longer, any, new, major, minor, 1GP, versions]
 ---

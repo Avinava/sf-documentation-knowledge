@@ -5,7 +5,7 @@ topic: cmplcontrolversiontest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:56.151Z
+lastCollected: 2026-04-07T09:02:58.691Z
 estimatedTokens: 598
 keywords: [CmplControlVersionTest, association, Compliance, Control, Version, Test, API, 66.0, later, Calls, Associated, Objects]
 ---

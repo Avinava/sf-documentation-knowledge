@@ -5,7 +5,7 @@ topic: omnistudio
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:54.954Z
+lastCollected: 2026-04-07T09:02:57.542Z
 estimatedTokens: 447
 keywords: [Omnistudio, suite, services, components, data, model, objects, combine, Industry, Cloud, applications, guided, interactions, Salesforce, org]
 ---

@@ -5,7 +5,7 @@ topic: running-javascript-in-the-salesforce-domain
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.151Z
+lastCollected: 2026-04-07T09:04:55.440Z
 estimatedTokens: 483
 namespace: REQUIRESCRIPT
 keywords: [Running, JavaScript, Salesforce, Domain, code, multiple, vendors, run, origin, prevent, interference, vendor, sandboxed, Don’t, attempt]

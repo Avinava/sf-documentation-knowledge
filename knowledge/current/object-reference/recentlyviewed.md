@@ -5,8 +5,8 @@ topic: recentlyviewed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.010Z
-estimatedTokens: 1343
+lastCollected: 2026-04-07T09:04:48.136Z
+estimatedTokens: 1336
 keywords: [RecentlyViewed, records, views, current, user, recently, viewed, referenced, viewing, record, API, version, 29.0, later, Calls]
 ---
 
@@ -46,7 +46,7 @@ RecentlyViewed records for users who are members of several communities can’t 
 | Id | TypeIDPropertiesDefaulted on create, Filter, Group, SortDescriptionThe ID of the recently viewed record or list view. |
 | IsActive | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the recently viewed record is an active user (true) or not (false). This field contains a value only if the recently viewed record is a user. |
 | LastName | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe last name on the record. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, Sort, UpdateDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are:Viewing or opening a record.Selecting a record in a lookup search or related list search. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, Sort, UpdateDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly.Viewing or opening a record.Selecting a record in a lookup search or related list search. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, Sort, UpdateDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | Name | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe name on the recently viewed record or list view. If the recently viewed record is a user, contact, or lead, the value is a concatenation of the firstname and lastname field values. |
 | NetworkId | TypereferencePropertiesFilter,Group, Nillable, SortDescriptionID of the Experience Cloud site that this group is part of. This field is available only if digital experiences is enabled in your org.You can add a NetworkId only when creating a group. You can’t change or add a NetworkId for an existing group. This field is available in API version 27.0 and later. |

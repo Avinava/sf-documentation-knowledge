@@ -5,7 +5,7 @@ topic: member-points-balance-change
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.531Z
+lastCollected: 2026-04-07T09:04:17.833Z
 estimatedTokens: 143
 keywords: [Member, Points, Balance, Change, Output, representation]
 ---

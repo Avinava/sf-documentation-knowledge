@@ -5,7 +5,7 @@ topic: attribute-definition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-05T00:23:19.845Z
+lastCollected: 2026-04-07T09:02:00.221Z
 estimatedTokens: 983
 keywords: [Attribute, Definition, Output, representation]
 ---

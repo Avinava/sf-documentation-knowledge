@@ -5,7 +5,7 @@ topic: json-parsing
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:43.442Z
+lastCollected: 2026-04-07T09:02:32.701Z
 estimatedTokens: 389
 keywords: [JSON, Parsing, JSONParser, parse, JSON-encoded, content, enable, JSON-formatted, that's, call, external, service, web, callout, Deserialize]
 ---

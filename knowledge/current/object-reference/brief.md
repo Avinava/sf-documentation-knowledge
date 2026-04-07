@@ -5,7 +5,7 @@ topic: brief
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:05.625Z
+lastCollected: 2026-04-07T09:04:35.840Z
 estimatedTokens: 814
 keywords: [Brief, marketing, that’s, positioning, grounding, campaign, Agentforce, help, best, fits, goals, requirements, API, version, 61.0]
 ---

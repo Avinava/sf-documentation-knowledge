@@ -5,7 +5,7 @@ topic: engagementsignalcmpndmetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.670Z
+lastCollected: 2026-04-07T09:04:39.651Z
 estimatedTokens: 961
 keywords: [EngagementSignalCmpndMetric, rate, metric, measures, ratio, two, engagement, signal, metrics, product, orders, views, calculate, conversion, email]
 ---

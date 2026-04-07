@@ -5,7 +5,7 @@ topic: recruitmentrequisitionloc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.402Z
+lastCollected: 2026-04-07T09:05:14.376Z
 estimatedTokens: 798
 keywords: [RecruitmentRequisitionLoc, junction, recruitment, requisition, location, API, version, 62.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

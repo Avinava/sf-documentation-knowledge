@@ -5,71 +5,50 @@ topic: retrieve-and-update-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.334Z
+lastCollected: 2026-04-07T09:05:27.879Z
 estimatedTokens: 387
 keywords: [Retrieve, deploy, calls, move, metadata, XML, files, Salesforce, local, file, system, scoping, rules, procedure, components, PATCH]
 ---
 
 # Retrieve and Update Information
 
-> Use the GET, PATCH, and DELETE methods to retrieve, update, and delete scoping
-  rules.
+> Use the deploy() and retrieve() calls to move metadata (XML files) between Salesforce and a local file
+  system. You can delete scoping rules by using the same procedure used to deploy components and
+  including a delete manifest file.
 
 # Retrieve and Update Information
 
-Use the GET, PATCH, and DELETE methods to retrieve, update, and delete scoping rules.
+Use the deploy() and retrieve() calls to move metadata (XML files) between Salesforce and a local file system. You can delete scoping rules by using the same procedure used to deploy components and including a delete manifest file.
 
-| Available in: Lightning Experience in Performance and Unlimited Editions |
+| Available in: Lightning Experience in Performance,Unlimited, and Developer editions. |
 | --- |
 
 
-## Retrieve
+For more information, see [Deploying and Retrieving Metadata](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/file_based.htm) in the Metadata API Developer Guide.
 
-To retrieve information about a scoping rule, use the GET method.
-
-Example HTTP Method and URI:
-
-GET /services/data/v66.0/tooling/query/?q=SELECT+id,+targetEntity,+enforcementType,+recordFilter,+userCriteria+FROM+RestrictionRule+WHERE+enforcementtype='Scoping'
-
-## Update
-
-To update a scoping rule, use the PATCH method.
-
-We recommend that you don’t update the value of targetEntity after a scoping rule is created. Instead, delete the scoping rule and create another one with the correct values.
-
-Example HTTP Method and URI:
-
-PATCH /services/data/v66.0/tooling/sobjects/RestrictionRule/0eYxxxxxxxxxxxx2AY
-
-Replace 0eYxxxxxxxxxxxx2AY with the ID returned when the scoping rule was created.
-
-Example Request Body:
-
-Include all Metadata fields, even if you aren’t updating them. Specify the FullName value only if you’re changing this field.
-
-This example deactivates the scoping rule by setting active to false.
-
-```
-
-```
-
-## Delete
-
-To delete a scoping rule, use the DELETE method.
-
-Example HTTP Method and URI:
-
-DELETE /services/data/v66.0/tooling/sobjects/RestrictionRule/0eYxxxxxxxxxxxx2AY
-
-Replace 0eYxxxxxxxxxxxx2AY with the ID returned when creating the scoping rule.
+If the userCriteria or recordCriteria field contains a Salesforce org ID and you’re deploying to a different org than the org you retrieved them from, modify the Salesforce ID first.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=scoping_rules)
 
 #### Note
 
-If the userCriteria or recordCriteria field contains a Salesforce org ID and you’re deploying to a different org than the org you retrieved them from, modify the Salesforce ID first.
+We recommend that you don’t update the value of targetEntity after a scoping rule is created. Instead, delete the scoping rule and create another one with the correct values.
+
+To delete components, use the same procedure as with deploying components, but include a delete manifest file that’s named destructiveChanges.xml and lists the components to delete. To learn more, see Deleting Components from an Organization.
+
+#### See Also
+
+-   [*Metadata API Guide*: Deleting Components from an Organization](https://developer.salesforce.com/docs/atlas.en-us.260.0.api_meta.meta/api_meta/meta_deploy_deleting_files.htm "Metadata API Guide: Deleting Components from an Organization - HTML (New Window)")
 
 ## Code Examples
+
+```
+GET /services/data/v66.0/tooling/query/?q=SELECT+id,+targetEntity,+enforcementType,+recordFilter,+userCriteria+FROM+RestrictionRule+WHERE+enforcementtype='Scoping'
+```
+
+```
+PATCH /services/data/v66.0/tooling/sobjects/RestrictionRule/0eYxxxxxxxxxxxx2AY
+```
 
 ```
 {

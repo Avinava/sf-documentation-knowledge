@@ -5,7 +5,7 @@ topic: federated-search-developer-guide
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.719Z
+lastCollected: 2026-04-07T09:06:19.557Z
 estimatedTokens: 786
 keywords: [Federated, Search, Developer, API, connects, Salesforce, connector, external, provider, data, repositories, searched, providers, partnered, provide]
 ---

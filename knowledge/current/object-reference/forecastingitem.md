@@ -5,7 +5,7 @@ topic: forecastingitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.680Z
+lastCollected: 2026-04-07T09:04:41.956Z
 estimatedTokens: 3154
 keywords: [ForecastingItem, read-only, individual, forecast, amounts, Users, their, perspectives, roles, include, forecasting, revenue, AmountWithoutAdjustments, AmountWithoutManagerAdjustment, ForecastAmount]
 ---

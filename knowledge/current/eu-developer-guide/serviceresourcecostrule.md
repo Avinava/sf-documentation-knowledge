@@ -5,7 +5,7 @@ topic: serviceresourcecostrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.382Z
+lastCollected: 2026-04-07T09:03:45.598Z
 estimatedTokens: 553
 keywords: [ServiceResourceCostRule, rules, calculate, meal, equivalent, gifts, awarded, service, worker, API, version, 62.0, later, Calls]
 ---

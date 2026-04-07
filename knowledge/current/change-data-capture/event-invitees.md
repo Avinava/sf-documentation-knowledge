@@ -5,7 +5,7 @@ topic: event-invitees
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.718Z
+lastCollected: 2026-04-07T09:03:18.795Z
 estimatedTokens: 456
 keywords: [Event, Invitees, Change, events, generated, addition, calendar, record, Salesforce, user, invited, child, created, invitee, IsChild]
 ---

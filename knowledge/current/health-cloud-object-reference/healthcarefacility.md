@@ -5,7 +5,7 @@ topic: healthcarefacility
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:34.413Z
+lastCollected: 2026-04-07T09:03:54.822Z
 estimatedTokens: 4602
 keywords: [HealthcareFacility, healthcare, facility, may, physical, functional, geographic, business, API, version, 51.0, later, Calls, Additional, Objects]
 ---

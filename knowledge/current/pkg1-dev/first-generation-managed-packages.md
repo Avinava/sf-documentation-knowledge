@@ -5,7 +5,7 @@ topic: first-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:25.729Z
+lastCollected: 2026-04-07T09:05:02.086Z
 estimatedTokens: 1646
 keywords: [First-Generation, Managed, Packages, Salesforce, partners, distribute, sell, applications, customers, AppExchange, License, Management, Application, LMA, developers]
 ---

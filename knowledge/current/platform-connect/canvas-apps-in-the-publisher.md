@@ -5,7 +5,7 @@ topic: canvas-apps-in-the-publisher
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.362Z
+lastCollected: 2026-04-07T09:05:04.356Z
 estimatedTokens: 1179
 keywords: [Canvas, Apps, Publisher, expose, quick, actions, users, access, common, organization, expand, include, app, leverage, custom]
 ---

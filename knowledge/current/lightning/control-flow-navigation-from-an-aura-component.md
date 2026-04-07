@@ -5,7 +5,7 @@ topic: control-flow-navigation-from-an-aura-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.190Z
+lastCollected: 2026-04-07T09:04:13.024Z
 estimatedTokens: 500
 keywords: [Control, Flow, Navigation, Aura, Component, users, navigate, clicking, standard, buttons, bottom, screen, lightning, availableForFlowScreens, two]
 ---

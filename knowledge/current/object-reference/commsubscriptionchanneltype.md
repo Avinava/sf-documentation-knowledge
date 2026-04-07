@@ -5,7 +5,7 @@ topic: commsubscriptionchanneltype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.693Z
+lastCollected: 2026-04-07T09:04:37.171Z
 estimatedTokens: 1110
 keywords: [CommSubscriptionChannelType, engagement, channel, reach, customer, communication, subscription, API, version, 48.0, later, Calls, Associated, Objects]
 ---

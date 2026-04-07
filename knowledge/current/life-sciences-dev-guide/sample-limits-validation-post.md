@@ -5,7 +5,7 @@ topic: sample-limits-validation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.565Z
+lastCollected: 2026-04-07T09:04:06.150Z
 estimatedTokens: 205
 keywords: [Sample, Limits, Validation, POST, Validate, samples, requested, visit, against, account, product, limit, template]
 ---

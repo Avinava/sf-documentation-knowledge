@@ -5,7 +5,7 @@ topic: create-a-branch-management-scoping-rule-using-the-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.344Z
+lastCollected: 2026-04-07T09:05:27.893Z
 estimatedTokens: 1108
 keywords: [Branch, Management, Scoping, Rule, Tooling, API, filters, account, records, banker’s, location, uses, data, model, included]
 ---

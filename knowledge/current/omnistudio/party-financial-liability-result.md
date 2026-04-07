@@ -5,7 +5,7 @@ topic: party-financial-liability-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.759Z
+lastCollected: 2026-04-07T09:02:54.378Z
 estimatedTokens: 809
 keywords: [Party, Financial, Liability, Result, Output, representation]
 ---

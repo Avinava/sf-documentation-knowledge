@@ -5,7 +5,7 @@ topic: tokens-bundles
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.896Z
+lastCollected: 2026-04-07T09:04:15.559Z
 estimatedTokens: 540
 keywords: [Tokens, Bundles, bundle, components, events, interfaces]
 ---

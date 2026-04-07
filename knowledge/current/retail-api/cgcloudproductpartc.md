@@ -5,7 +5,7 @@ topic: cgcloudproductpartc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.490Z
+lastCollected: 2026-04-07T09:05:21.029Z
 estimatedTokens: 1497
 keywords: [cgcloud__Product_Part__c, Stores, relationship, two, products, how, ChildPKey, assembled, parent, product, ParentPKey, comparison, assortment, result, real]
 ---

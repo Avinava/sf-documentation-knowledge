@@ -5,7 +5,7 @@ topic: partyphilanthropicmilestone
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:26.603Z
+lastCollected: 2026-04-07T09:03:44.519Z
 estimatedTokens: 1655
 keywords: [PartyPhilanthropicMilestone, philanthropic, activities, financial, status, period, time, API, version, 63.0, later, Calls, Associated, Objects]
 ---

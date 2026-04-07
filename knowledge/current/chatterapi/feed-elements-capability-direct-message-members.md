@@ -5,7 +5,7 @@ topic: feed-elements-capability-direct-message-members
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.187Z
+lastCollected: 2026-04-07T09:03:26.692Z
 estimatedTokens: 282
 keywords: [Feed, Elements, Capability, Direct, Message, Members]
 ---

@@ -5,7 +5,7 @@ topic: loyalty-management-sample-app-for-mobile-sdk
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.737Z
+lastCollected: 2026-04-07T09:04:19.444Z
 estimatedTokens: 517
 keywords: [Loyalty, Management, Sample, App, Mobile, SDK, configurable, native, iOS, Android, delivers, personalized, experience, every, device]
 ---

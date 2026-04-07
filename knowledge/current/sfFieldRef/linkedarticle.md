@@ -5,7 +5,7 @@ topic: linkedarticle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:02.366Z
+lastCollected: 2026-04-07T09:05:51.747Z
 estimatedTokens: 377
 keywords: [LinkedArticle, knowledge, article, attached, work, order, line, item, API, version, 37.0, later]
 ---

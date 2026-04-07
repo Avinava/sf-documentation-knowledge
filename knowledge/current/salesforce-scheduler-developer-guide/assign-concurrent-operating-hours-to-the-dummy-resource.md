@@ -5,7 +5,7 @@ topic: assign-concurrent-operating-hours-to-the-dummy-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:43.959Z
+lastCollected: 2026-04-07T09:05:27.309Z
 estimatedTokens: 192
 keywords: [Assign, Concurrent, Operating, Hours, Dummy, Resource, service, territory, member, respective, record, time, slots, applicable, members]
 ---

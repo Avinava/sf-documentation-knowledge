@@ -5,7 +5,7 @@ topic: salesforce-contracts-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:22.246Z
+lastCollected: 2026-04-07T09:03:37.894Z
 estimatedTokens: 103
 keywords: [Salesforce, Contracts, Resources, Business, APIs, CLM, E-signature, RESTful, sometimes, Apex, classes]
 ---

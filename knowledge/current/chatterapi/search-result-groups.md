@@ -5,7 +5,7 @@ topic: search-result-groups
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.084Z
+lastCollected: 2026-04-07T09:03:35.877Z
 estimatedTokens: 263
 keywords: [Search, Result, Groups, Results, searching, objects, keywords]
 ---

@@ -5,7 +5,7 @@ topic: workaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:19.502Z
+lastCollected: 2026-04-07T09:04:52.721Z
 estimatedTokens: 840
 keywords: [WorkAccess, grant, restrict, user, access, give, badge, definitions, definition, record, Calls, Additional, Considerations, Objects, Associated]
 ---
@@ -49,7 +49,7 @@ Change events are available for the object.
 
 Sharing rules are available for the object.
 
-The original WDC feature is unavailable as of Spring ’22. This object isn’t available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
+The original WDC feature is unavailable as of Spring '22. This object isn't available as of API version 54.0. For more information, see [Phased WDC (legacy Work.com) Feature Retirement](https://help.salesforce.com/s/articleView?id=000356306&type=1&language=en_US).
 
 [WorkAccessShare](atlas.en-us.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm "StandardObjectNameShare is the model for all share objects associated with standard objects. These objects represent a sharing entry on the standard object.")
 

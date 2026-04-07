@@ -5,7 +5,7 @@ topic: sample-commission-calculations-formulas
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.259Z
+lastCollected: 2026-04-07T09:06:17.320Z
 estimatedTokens: 444
 keywords: [Sample, Commission, Calculations, Formulas, calculate, amounts, Opportunities, Deal, Size, Greater, Equal, Maximum]
 ---

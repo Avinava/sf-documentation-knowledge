@@ -5,7 +5,7 @@ topic: subscribe-to-the-channel-and-receive-the-filtered-event-stream
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.825Z
+lastCollected: 2026-04-07T09:05:05.150Z
 estimatedTokens: 911
 keywords: [Subscribe, Channel, Receive, Filtered, Event, Stream, configuring, filter, messages, match, expression, Pub, Sub, API, CometD]
 ---

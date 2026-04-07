@@ -5,7 +5,7 @@ topic: tenantsecuritypackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.023Z
+lastCollected: 2026-04-07T09:04:50.786Z
 estimatedTokens: 1242
 keywords: [TenantSecurityPackage, Stores, managed, unmanaged, packages, added, updated, removed, tenant, Security, Center, identify, whether, new, installed]
 ---

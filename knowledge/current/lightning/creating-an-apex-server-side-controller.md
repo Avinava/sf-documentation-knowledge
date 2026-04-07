@@ -5,7 +5,7 @@ topic: creating-an-apex-server-side-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.614Z
+lastCollected: 2026-04-07T09:04:13.626Z
 estimatedTokens: 489
 keywords: [Creating, Apex, Server-Side, Controller, Developer, Console]
 ---

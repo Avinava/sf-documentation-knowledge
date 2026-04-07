@@ -5,37 +5,68 @@ topic: actionplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.942Z
-estimatedTokens: 732
-keywords: [ActionPlanTemplate, instance, action, plan, template, Calls, actionplantemplate, different, assessment, tasks, visit, API, version, 49.0, later]
+lastCollected: 2026-04-07T09:04:09.346Z
+estimatedTokens: 1339
+keywords: [ActionPlanTemplate, instance, action, plan, template, Life, Sciences, cloud, API, version, 65.0, later, Calls, Associated, Objects]
 ---
 
 # ActionPlanTemplate
 
 > Represents the instance of an action plan template.
+    In Life Sciences cloud, this object is available in API version 65.0 and
+      later.
 
 # ActionPlanTemplate
 
-Represents the instance of an action plan template.
+Represents the instance of an action plan template. In Life Sciences cloud, this object is available in API version 65.0 and later.
 
 ## Supported Calls
 
-create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), undelete(), update(), upsert()
+create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdated(), query(), retrieve(), search(), undelete(), update(), upsert()
 
 ## Fields
 
-| Field | Details |
+| Field Name | Details |
 | --- | --- |
-| ActionPlanType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, SortDescriptionThe action plan template’s type.Possible values are:PrvdEngmtCompliance—Provider Engagement Compliance |
+| ActionPlanType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, SortDescriptionThis action plan template’s type. Possible values are:PrvdEngmtCompliance—Provider Engagement Compliance |
+| Category | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the category that the action plan template belongs to.Available in API version 64.0 and later.Possible values are:OnboardingApplication |
 | Description | TypetextareaPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe description of this action plan template. |
+| EstimatedCompletionDays | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe estimated number of days to complete the action plan.Available in API version 64.0 and later. |
+| FileBasedTemplatePath | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe path of the file based template using which the action plan template is created.Available in API version 64.0 and later. |
 | IsAdHocItemCreationEnabled | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether users can add tasks or other items to generated action plans (true) or not (false). |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last referenced a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| IsLocked | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether this action plan template is locked or not. The default value is false. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe most recent date on which a user referenced this record. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe most recent date on which a user viewed this record. |
+| MayEdit | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether this action plan template can be edited or not. The default value is false. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of this action plan template. |
-| OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this action plan template.This field is a polymorphic relationship field.Relationship NameOwnerRefers ToGroup, User |
+| OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this action plan template. This field is a polymorphic relationship field.Relationship NameOwnerRefers ToGroup, User |
 | ParentTemplateId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the parent template associated with the action plan template.This field is a relationship field.Relationship NameParentTemplateRefers ToActionPlanTemplate |
-| SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionThe identifier of the record in the source system. |
-| SourceSystemName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the system from which data is loaded into this object. |
-| Status | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionView the status of a task.Possible values are:DraftFinal—PublishedObsoleteRead Only |
+| SourceType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the source type to which the action plan template belongs to.Available in API version 64.0 and later.Possible values are:CRMMigratedFromSandbox |
+| Status | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe status of this action plan template.Possible values are:DraftFinal—PublishedObsoleteReadOnly |
+| Subcategory | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe subcategory to which the action plan template belongs.Available in API version 64.0 and later.Possible values are:Product OnboardingCustomer Onboarding |
 | TargetEntityType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, SortDescriptionThe parent object this action plan template relates to.Possible values are:RelatedListValidation__c—RelatedListValidationomnistudio__VlocityScheduledJob__c—Vlocity Scheduled Job |
-| UniqueName | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe unique name for this action plan template.This field is unique within your organization. |
+| UniqueName | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe unique name for this action plan template. This field is unique within your organization. |
+
+## Associated Objects
+
+This object has the following associated objects. Unless noted, they are available in the same API version as this object.
+
+[ActionPlanTemplateChangeEvent](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_change_event.htm)
+
+Change events are available for the object.
+
+[ActionPlanTemplateFeed](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_feed.htm)
+
+Feed tracking is available for the object.
+
+[ActionPlanTemplateHistory](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_history.htm)
+
+History is available for tracked fields of the object.
+
+[ActionPlanTemplateOwnerSharingRule](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_ownersharingrule.htm)
+
+Sharing rules are available for the object.
+
+[ActionPlanTemplateShare](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_associated_objects_share.htm)
+
+Sharing is available for the object.

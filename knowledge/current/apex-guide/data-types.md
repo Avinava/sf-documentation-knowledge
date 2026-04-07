@@ -5,7 +5,7 @@ topic: data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:45.034Z
+lastCollected: 2026-04-07T09:02:34.152Z
 estimatedTokens: 871
 keywords: [Data, Apex, variables, expressions, sObject, primitive]
 ---

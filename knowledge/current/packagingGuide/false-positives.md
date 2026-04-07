@@ -5,7 +5,7 @@ topic: false-positives
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.232Z
+lastCollected: 2026-04-07T09:04:55.586Z
 estimatedTokens: 469
 keywords: [Positives, navigate, AppExchange, security, review, process, you're, likely, encounter, positive, issues, solution, occurs, security-scanning, tool]
 ---

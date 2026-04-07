@@ -5,7 +5,7 @@ topic: configure-unlocked-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:36:18.739Z
+lastCollected: 2026-04-07T09:06:13.748Z
 estimatedTokens: 859
 keywords: [Configure, Unlocked, Packages, include, entry, sfdx-project.json, file, package, specify, alias, version, dependencies, features, org, settings]
 ---

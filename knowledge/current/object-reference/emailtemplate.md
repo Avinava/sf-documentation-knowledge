@@ -5,7 +5,7 @@ topic: emailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.459Z
+lastCollected: 2026-04-07T09:04:39.405Z
 estimatedTokens: 3337
 keywords: [EmailTemplate, template, email, mass, Sales, Engagement, first-generation, managed, packages, Calls, Special, Access, Rules, Usage, Associated]
 ---

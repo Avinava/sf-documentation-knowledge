@@ -5,7 +5,7 @@ topic: financialaccountbalance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.002Z
+lastCollected: 2026-04-07T09:03:48.014Z
 estimatedTokens: 1151
 keywords: [FinancialAccountBalance, different, balances, financial, account, API, version, 61.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

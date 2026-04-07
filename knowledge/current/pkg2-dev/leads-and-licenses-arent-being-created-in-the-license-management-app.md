@@ -6,7 +6,7 @@ topic: leads-and-licenses-arent-being-created-in-the-license-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.230Z
+lastCollected: 2026-04-07T09:05:02.875Z
 estimatedTokens: 990
 keywords: [Leads, Licenses, Aren’t, Created, License, Management, App, customer, installs, package, records, review, configurations, Org, LMO]
 ---

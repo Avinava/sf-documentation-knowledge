@@ -5,7 +5,7 @@ topic: charlengthstr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.256Z
+lastCollected: 2026-04-07T09:03:15.384Z
 estimatedTokens: 78
 keywords: [char_length, str, number, characters, char, _length]
 ---

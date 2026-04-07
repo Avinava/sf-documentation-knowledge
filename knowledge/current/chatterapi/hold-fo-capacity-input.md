@@ -5,7 +5,7 @@ topic: hold-fo-capacity-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:11.849Z
+lastCollected: 2026-04-07T09:03:21.852Z
 estimatedTokens: 118
 keywords: [Hold, Capacity, Input, fulfillment, order, locations, correspond, action, call]
 ---

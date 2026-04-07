@@ -5,7 +5,7 @@ topic: rebate-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:10.079Z
+lastCollected: 2026-04-07T09:03:19.343Z
 estimatedTokens: 876
 keywords: [Rebate, Management, Standard, Invocable, Actions, Add, members, program, calculate, amounts, upsert, payouts, generate, payout, periods]
 ---

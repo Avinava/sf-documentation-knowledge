@@ -5,7 +5,7 @@ topic: territory2objsharingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.160Z
+lastCollected: 2026-04-07T09:04:50.980Z
 estimatedTokens: 315
 keywords: [Territory2ObjSharingConfig, sharing, access, level, objects, assigned, particular, territory, API, version, 56.0, later, Calls, Special, Rules]
 ---

@@ -5,7 +5,7 @@ topic: composite-api-subrequest-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:09.028Z
+lastCollected: 2026-04-07T09:04:40.074Z
 estimatedTokens: 1420
 keywords: [Composite, API, Subrequest, Event, events, contain, subrequests, generated, collated, five, four, two, graph, version, 64.0]
 ---

@@ -5,7 +5,7 @@ topic: visit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:40.988Z
+lastCollected: 2026-04-07T09:05:22.688Z
 estimatedTokens: 2996
 keywords: [Visit, Track, rep’s, retail, store, they, perform, activities, API, version, 47.0, later, Calls, Associated, Objects]
 ---

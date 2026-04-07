@@ -5,7 +5,7 @@ topic: vpl360submitsupplementalorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:53.923Z
+lastCollected: 2026-04-07T09:04:20.878Z
 estimatedTokens: 152
 keywords: [VPL360_SubmitSupplementalOrder, Integration, Procedure, submits, supplemental, order, created, cancelling, VPL360, _SubmitSupplementalOrder, Sample, Input, Output, Calls]
 ---

@@ -5,7 +5,7 @@ topic: queuing-of-server-side-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.597Z
+lastCollected: 2026-04-07T09:04:13.574Z
 estimatedTokens: 677
 keywords: [Queuing, Server-Side, Actions, framework, queues, sending, server, grouped, together, batches, sent, process, reduce, network, traffic]
 ---

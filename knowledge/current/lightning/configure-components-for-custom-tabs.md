@@ -5,7 +5,7 @@ topic: configure-components-for-custom-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.477Z
+lastCollected: 2026-04-07T09:04:13.402Z
 estimatedTokens: 220
 keywords: [Configure, Components, Custom, Tabs, Add, force, appHostable, Aura, component, allow, tab, Lightning, Experience, Salesforce, mobile]
 ---

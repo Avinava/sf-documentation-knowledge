@@ -5,7 +5,7 @@ topic: about-package-conversion-and-package-migration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.466Z
+lastCollected: 2026-04-07T09:05:01.684Z
 estimatedTokens: 502
 keywords: [Package, Conversion, Migration, There, two, main, stages, involved, migrations, starts, ends]
 ---

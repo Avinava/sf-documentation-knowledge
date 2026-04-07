@@ -5,7 +5,7 @@ topic: ocrdocumentscanresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.726Z
+lastCollected: 2026-04-07T09:03:58.940Z
 estimatedTokens: 824
 keywords: [OcrDocumentScanResult, contents, document, optical, character, recognition, OCR, processing, API, version, 50.0, later, Calls, Associated, Objects]
 ---
@@ -31,7 +31,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | DocumentRequestId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionUnique identifier for a document request. |
 | ExtractedValues | TypetextareaPropertiesNillableDescriptionData extracted from the document. Data type StringPlusClob, maximum length 131072.NoteThis field is encryptable with Salesforce Platform Encryption. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionName of the record. |
 | OcrService | TypepicklistPropertiesDefaulted on create, Filter, Group, Nillable, Restricted picklist, SortDescriptionRecords the service that performed the text extraction.Possible values are:AMAZON_TEXTRACT—Amazon TextractE.AI |
 | OcrStatus | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionCurrent phase of OCR processing.Possible values are:ERROR—ErrorOCR_ENQUEUE—OCR EnqueueSUCCESS—Success |

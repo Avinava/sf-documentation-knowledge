@@ -5,7 +5,7 @@ topic: order-of-execution-in-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.307Z
+lastCollected: 2026-04-07T09:04:58.704Z
 estimatedTokens: 455
 keywords: [Order, Execution, Visualforce, user, views, instances, controller, extensions, components, associated, created, server, elements, executed, affect]
 ---

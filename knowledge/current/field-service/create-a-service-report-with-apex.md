@@ -5,7 +5,7 @@ topic: create-a-service-report-with-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.271Z
+lastCollected: 2026-04-07T09:03:00.817Z
 estimatedTokens: 774
 keywords: [Service, Report, Apex, action, work, orders, order, line, items, appointments, code, shown, creates, two, signatures]
 ---

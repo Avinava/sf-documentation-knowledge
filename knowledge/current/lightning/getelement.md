@@ -5,7 +5,7 @@ topic: getelement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.673Z
+lastCollected: 2026-04-07T09:04:15.201Z
 estimatedTokens: 33
 keywords: [getElement, component, renders, element, Otherwise, getElements]
 ---

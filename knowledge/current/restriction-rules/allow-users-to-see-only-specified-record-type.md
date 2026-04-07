@@ -5,7 +5,7 @@ topic: allow-users-to-see-only-specified-record-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.386Z
+lastCollected: 2026-04-07T09:05:16.903Z
 estimatedTokens: 154
 keywords: [Allow, Users, Record, restriction, rule, designated, contracts, Tooling, API, Metadata]
 ---

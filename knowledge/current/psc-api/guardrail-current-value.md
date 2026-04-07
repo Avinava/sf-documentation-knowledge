@@ -5,7 +5,7 @@ topic: guardrail-current-value
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.069Z
+lastCollected: 2026-04-07T09:05:09.644Z
 estimatedTokens: 118
 keywords: [Guardrail, Current, Output, representation, guardrails, along, resource]
 ---

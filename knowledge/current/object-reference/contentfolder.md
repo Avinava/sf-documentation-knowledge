@@ -5,7 +5,7 @@ topic: contentfolder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:07.101Z
+lastCollected: 2026-04-07T09:04:37.657Z
 estimatedTokens: 481
 keywords: [ContentFolder, folder, content, library, adding, files, API, version, 34.0, later, Calls, Special, Access, Rules, Associated]
 ---

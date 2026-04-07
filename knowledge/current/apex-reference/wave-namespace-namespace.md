@@ -5,7 +5,7 @@ topic: wave-namespace-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.787Z
+lastCollected: 2026-04-07T09:02:30.025Z
 estimatedTokens: 347
 namespace: Wave
 keywords: [Wave, classes, part, CRM, Analytics, SDK, designed, facilitate, querying, data, Apex, code]

@@ -5,7 +5,7 @@ topic: create-a-branch-management-scoping-rule-using-the-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.326Z
+lastCollected: 2026-04-07T09:05:27.868Z
 estimatedTokens: 1093
 keywords: [Branch, Management, Scoping, Rule, Metadata, API, filters, account, records, banker’s, location, uses, data, model, included]
 ---

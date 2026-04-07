@@ -5,7 +5,7 @@ topic: crmemoprocesserrdtlevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.808Z
+lastCollected: 2026-04-07T09:05:41.657Z
 estimatedTokens: 325
 keywords: [CrMemoProcessErrDtlEvent, errors, occurred, creating, applying, credit, memo, part, included, CreditInvoiceProcessedEvent, CreditMemoProcessedEvent, NegInvcLineProcessedEvent, VoidInvoiceProcessedEvent, message, can't]
 ---

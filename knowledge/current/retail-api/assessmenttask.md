@@ -5,7 +5,7 @@ topic: assessmenttask
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.539Z
+lastCollected: 2026-04-07T09:05:18.699Z
 estimatedTokens: 1124
 keywords: [AssessmentTask, Perform, activities, planogram, check, inventory, promotion, in-store, survey, custom, task, stores, capture, API, version]
 ---

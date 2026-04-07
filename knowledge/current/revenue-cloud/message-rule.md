@@ -5,7 +5,7 @@ topic: message-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.976Z
+lastCollected: 2026-04-07T09:01:57.600Z
 estimatedTokens: 416
 keywords: [Message, Rule, displays, users, conditions]
 ---

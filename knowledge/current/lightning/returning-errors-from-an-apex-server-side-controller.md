@@ -5,7 +5,7 @@ topic: returning-errors-from-an-apex-server-side-controller
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:48.621Z
+lastCollected: 2026-04-07T09:04:13.640Z
 estimatedTokens: 655
 keywords: [Returning, Errors, Apex, Server-Side, Controller, throw, System.AuraHandledException, custom, error, message, JavaScript]
 ---

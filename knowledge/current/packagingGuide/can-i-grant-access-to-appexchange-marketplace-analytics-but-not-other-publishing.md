@@ -6,7 +6,7 @@ topic: can-i-grant-access-to-appexchange-marketplace-analytics-but-not-other-pub
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.020Z
+lastCollected: 2026-04-07T09:04:55.130Z
 estimatedTokens: 71
 keywords: [Grant, Access, AppExchange, Marketplace, Analytics, Publishing, Features, Manage, Listings, permission, Partner, Console, suggest, assigning, team]
 ---

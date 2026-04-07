@@ -5,7 +5,7 @@ topic: an-example-of-using-remote-method-overrides-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.089Z
+lastCollected: 2026-04-07T09:04:59.886Z
 estimatedTokens: 583
 keywords: [Remote, Overrides, sample, code, illustrates, how, Objects, operations, presents, sorted, contacts, simple, form, enter, new]
 ---

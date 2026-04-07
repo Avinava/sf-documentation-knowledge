@@ -6,7 +6,7 @@ topic: sample-code-without-sharing-give-guest-users-access-to-create-records-and
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.453Z
+lastCollected: 2026-04-07T09:03:39.947Z
 estimatedTokens: 1008
 keywords: [Sample, Code, Sharing, Give, Guest, Users, Access, Records, Later, samples, support, two, separate, interactions, interaction]
 ---

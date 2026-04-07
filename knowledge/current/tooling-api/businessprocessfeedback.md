@@ -5,7 +5,7 @@ topic: businessprocessfeedback
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.014Z
+lastCollected: 2026-04-07T09:02:46.537Z
 estimatedTokens: 260
 keywords: [BusinessProcessFeedback, survey, question, associated, stage, customer, lifecycle, map, API, version, 51.0, later, SOAP, Calls, REST]
 ---

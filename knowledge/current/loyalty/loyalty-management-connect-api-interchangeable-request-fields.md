@@ -5,7 +5,7 @@ topic: loyalty-management-connect-api-interchangeable-request-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.094Z
+lastCollected: 2026-04-07T09:04:18.589Z
 estimatedTokens: 316
 keywords: [Loyalty, Management, Connect, API, Interchangeable, Business, supports, JSON, requests, either, number, don’t, want, store, Salesforce]
 ---

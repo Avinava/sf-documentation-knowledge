@@ -5,7 +5,7 @@ topic: create-and-register-your-namespace-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.018Z
+lastCollected: 2026-04-07T09:05:03.779Z
 estimatedTokens: 497
 keywords: [Register, Second-Generation, Managed, Packages, packaging, 2GP, share, multiple, Since, sharing, code, much, easier, package, shares]
 ---

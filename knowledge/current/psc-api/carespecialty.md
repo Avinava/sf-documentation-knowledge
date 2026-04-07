@@ -5,8 +5,8 @@ topic: carespecialty
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.766Z
-estimatedTokens: 1034
+lastCollected: 2026-04-07T09:05:14.817Z
+estimatedTokens: 1027
 keywords: [CareSpecialty, listing, provider, specialty, codes, descriptions, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
@@ -33,13 +33,13 @@ This object is available if Provider Management is enabled in your org. To acces
 | --- | --- |
 | Description | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionDescription of the specialty. |
 | EffectiveFrom | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date from which this specialty is effective. |
-| EffectiveTo | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date on which this specialty is no longer effective. |
+| EffectiveTo | TypedatePropertiesCreate, Filter, Group, , ,DescriptionThe date on which this specialty is no longer effective. |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the record is active. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup Sort, UpdateDescriptionName of the specialty master record. |
-| OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the user who owns this record.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
-| SpecialtyCode | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionCode for the specialty. |
+| OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort,DescriptionThe ID of the user who owns this record.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |
+| SpecialtyCode | TypestringPropertiesCreate, Filter, , idLookup, Nillable, Sort, UpdateDescriptionCode for the specialty. |
 | SpecialtyType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionType of care specialty.Possible values are:Food and NutritionHousing and MaintenanceGoodsTransitHealthMoneyCareEducationEmploymentLegal |
 | SpecialtyUsage | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIndicates whether this specialty is related to the practitioner, the organization, or both.Possible values are:PractitionerProviderBoth |
 

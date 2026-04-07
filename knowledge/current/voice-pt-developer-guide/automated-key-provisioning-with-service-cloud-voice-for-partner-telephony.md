@@ -5,8 +5,8 @@ topic: automated-key-provisioning-with-service-cloud-voice-for-partner-telephony
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.916Z
-estimatedTokens: 325
+lastCollected: 2026-04-07T09:06:18.334Z
+estimatedTokens: 351
 keywords: [Automated, Key, Provisioning, Service, Cloud, Voice, Partner, Telephony, contact, center, created, connected, system, provisioned, automatically]
 ---
 
@@ -21,6 +21,8 @@ keywords: [Automated, Key, Provisioning, Service, Cloud, Voice, Partner, Telepho
 When a contact center is created and connected with the partner telephony system, the public key for the contact center can be provisioned automatically with an Apex call to the partner system.
 
 The key can also be renewed by clicking the **Update Key** button in the contact center details page, or by using the **Update Key** dropdown action in the contact center list page.
+
+Update the contact center key during scheduled maintenance or off-peak hours to avoid any disruptions.
 
 ![Update key button](/docs/resources/img/en-us/260.0?doc_id=voice_pt%2Fimages%2Fvoice_pt_update_key.png&folder=voice_pt_developer_guide)
 

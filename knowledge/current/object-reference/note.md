@@ -5,7 +5,7 @@ topic: note
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.285Z
+lastCollected: 2026-04-07T09:04:44.963Z
 estimatedTokens: 932
 keywords: [text, associated, custom, standard, Contact, Contract, Opportunity, Calls, Usage]
 ---

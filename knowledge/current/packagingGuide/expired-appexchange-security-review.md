@@ -5,7 +5,7 @@ topic: expired-appexchange-security-review
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.228Z
+lastCollected: 2026-04-07T09:04:55.581Z
 estimatedTokens: 291
 keywords: [Expired, AppExchange, Security, Review, expires, reviewed, solution, longer, meets, criteria, distribution, that’s, linked, listing, remove]
 ---

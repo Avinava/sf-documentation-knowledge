@@ -5,7 +5,7 @@ topic: query-batches-of-archived-field-history-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.774Z
+lastCollected: 2026-04-07T09:05:28.472Z
 estimatedTokens: 200
 keywords: [Query, Batches, Archived, History, Data, Audit, Trail, entries, stored, FieldHistoryArchive]
 ---

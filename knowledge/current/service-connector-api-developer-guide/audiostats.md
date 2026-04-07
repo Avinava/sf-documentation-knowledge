@@ -5,7 +5,7 @@ topic: audiostats
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:45.492Z
+lastCollected: 2026-04-07T09:05:29.606Z
 estimatedTokens: 296
 keywords: [AudioStats, audio, stats, array, AudioStatsElement, objects, Functions]
 ---

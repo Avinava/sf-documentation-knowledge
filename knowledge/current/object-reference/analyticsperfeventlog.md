@@ -5,7 +5,7 @@ topic: analyticsperfeventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:04.314Z
+lastCollected: 2026-04-07T09:04:34.380Z
 estimatedTokens: 973
 keywords: [AnalyticsPerfEventLog, Analytics, Perf, Event, Log, helps, track, trends, performance, API, version, 61.0, later, Calls, Special]
 ---

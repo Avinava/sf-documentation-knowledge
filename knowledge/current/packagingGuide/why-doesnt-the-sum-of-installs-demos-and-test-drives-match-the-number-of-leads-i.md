@@ -6,7 +6,7 @@ topic: why-doesnt-the-sum-of-installs-demos-and-test-drives-match-the-number-of-
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.013Z
+lastCollected: 2026-04-07T09:04:55.117Z
 estimatedTokens: 91
 keywords: [Why, Doesn’t, Sum, Installs, Demos, Test, Drives, Match, Number, Leads, AppExchange, Marketplace, Analytics, Typically, issue]
 ---

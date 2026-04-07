@@ -5,7 +5,7 @@ topic: recipe-configuration-fiscal-offset-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.400Z
+lastCollected: 2026-04-07T09:05:24.863Z
 estimatedTokens: 137
 keywords: [Recipe, Configuration, Fiscal, Offset, Input, data, prep]
 ---

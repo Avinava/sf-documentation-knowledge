@@ -5,7 +5,7 @@ topic: esrs-standards
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:58.143Z
+lastCollected: 2026-04-07T09:04:26.834Z
 estimatedTokens: 44140
 keywords: [ESRS, Standards, European, Sustainability, Reporting, provide, investors, understand, impact, companies, they, invest, includes, environmental, social]
 ---

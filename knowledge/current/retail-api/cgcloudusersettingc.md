@@ -5,7 +5,7 @@ topic: cgcloudusersettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.381Z
+lastCollected: 2026-04-07T09:05:22.014Z
 estimatedTokens: 2461
 keywords: [cgcloud__User_Setting__c, that's, created, store, user, settings, API, version, 54.0, later, cgcloud, _User, _Setting, Calls, Associated]
 ---

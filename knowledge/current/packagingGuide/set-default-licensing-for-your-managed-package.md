@@ -5,7 +5,7 @@ topic: set-default-licensing-for-your-managed-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.529Z
+lastCollected: 2026-04-07T09:04:54.329Z
 estimatedTokens: 892
 keywords: [Licensing, Managed, Package, License, Management, App, LMA, register, receive, record, time, customer, installs, AppExchange, solution]
 ---

@@ -5,7 +5,7 @@ topic: sample-ci-repos-for-org-development-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.147Z
+lastCollected: 2026-04-07T09:06:12.970Z
 estimatedTokens: 275
 keywords: [Sample, Repos, Org, Development, Model, started, quickly, cloning, repository, vendor, choice, repo, configuration, file, comprehensive]
 ---

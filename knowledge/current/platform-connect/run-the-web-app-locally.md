@@ -5,7 +5,7 @@ topic: run-the-web-app-locally
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.594Z
+lastCollected: 2026-04-07T09:05:04.762Z
 estimatedTokens: 782
 keywords: [Run, Web, App, Locally, step, you’ll, package, Maven, Jetty, process, downloads, components, needed, including]
 ---

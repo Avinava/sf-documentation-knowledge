@@ -5,7 +5,7 @@ topic: promotionmarketsegment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.478Z
+lastCollected: 2026-04-07T09:04:20.335Z
 estimatedTokens: 863
 keywords: [PromotionMarketSegment, relationship, promotion, Data, Cloud, segment, segments, targeted, particular, API, version, 51.0, later, Calls, Associated]
 ---

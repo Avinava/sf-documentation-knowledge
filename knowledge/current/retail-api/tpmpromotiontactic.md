@@ -5,7 +5,7 @@ topic: tpmpromotiontactic
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.052Z
+lastCollected: 2026-04-07T09:05:17.887Z
 estimatedTokens: 160
 keywords: [TPM_Promotion.Tactic, promotion, template, products, copied, components, Filter, Criteria, empty, rule, filters, Product, removing, longer, period]
 ---

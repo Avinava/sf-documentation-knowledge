@@ -5,7 +5,7 @@ topic: schedule-appointments-by-using-sharing-availability
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.221Z
+lastCollected: 2026-04-07T09:05:27.736Z
 estimatedTokens: 1251
 keywords: [Schedule, Appointments, Sharing, Availability, case, how, external, website, Salesforce, Scheduler, APIs, users, book, invitation, URL]
 ---

@@ -5,7 +5,7 @@ topic: visualforce-events-for-customizing-the-wizard-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.732Z
+lastCollected: 2026-04-07T09:03:16.175Z
 estimatedTokens: 1400
 keywords: [VisualForce, Events, Customizing, Wizard, explains, user, Event, wizard.ready, wizard.update, wizard.visibility, wizard.values, wizard.next, wizard.resize, wizard.options, wizard.buttons]
 ---

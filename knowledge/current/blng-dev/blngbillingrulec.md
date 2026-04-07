@@ -5,7 +5,7 @@ topic: blngbillingrulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.263Z
+lastCollected: 2026-04-07T09:03:16.979Z
 estimatedTokens: 997
 keywords: [blng__BillingRule__c, how, billing, occur, products, services, blng, _BillingRule, Calls]
 ---

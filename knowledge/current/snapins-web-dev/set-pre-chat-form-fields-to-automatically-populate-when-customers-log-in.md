@@ -5,7 +5,7 @@ topic: set-pre-chat-form-fields-to-automatically-populate-when-customers-log-in
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.415Z
+lastCollected: 2026-04-07T09:06:14.703Z
 estimatedTokens: 522
 keywords: [Pre-Chat, Form, Automatically, Populate, Customers, Log, agents, already, know, basic, their, email, address, array, 4.0]
 ---

@@ -5,7 +5,7 @@ topic: ui-telemetry-resource-timing-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.703Z
+lastCollected: 2026-04-07T09:04:40.827Z
 estimatedTokens: 3068
 keywords: [Telemetry, Resource, Timing, Event, events, capture, network, performance, metrics, loading, application’s, resources, includes, requests, initiated]
 ---

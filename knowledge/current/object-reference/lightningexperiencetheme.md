@@ -5,7 +5,7 @@ topic: lightningexperiencetheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.765Z
+lastCollected: 2026-04-07T09:04:43.147Z
 estimatedTokens: 802
 keywords: [LightningExperienceTheme, theme, Lightning, Experience, API, Version, 42.0, later, Calls]
 ---

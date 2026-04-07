@@ -5,7 +5,7 @@ topic: blngrevenuedistributionmethodc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.657Z
+lastCollected: 2026-04-07T09:03:17.460Z
 estimatedTokens: 1193
 keywords: [blng__RevenueDistributionMethod__c, how, revenue, company, spread, over, specific, period, blng, _RevenueDistributionMethod, Calls]
 ---

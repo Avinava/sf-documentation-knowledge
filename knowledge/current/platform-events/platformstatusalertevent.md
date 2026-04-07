@@ -5,7 +5,7 @@ topic: platformstatusalertevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:29.111Z
+lastCollected: 2026-04-07T09:05:06.724Z
 estimatedTokens: 1074
 keywords: [PlatformStatusAlertEvent, Notifies, subscribers, alerts, occur, processing, user, service, job, execution, API, version, 45.0, later, Calls]
 ---

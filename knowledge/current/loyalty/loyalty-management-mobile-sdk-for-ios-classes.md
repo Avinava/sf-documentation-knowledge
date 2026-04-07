@@ -5,7 +5,7 @@ topic: loyalty-management-mobile-sdk-for-ios-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:52.660Z
+lastCollected: 2026-04-07T09:04:19.327Z
 estimatedTokens: 352
 keywords: [Loyalty, Management, Mobile, SDK, iOS, Classes, organize, functionalities, data, structures, provided, building, applications, provide, components]
 ---

@@ -5,7 +5,7 @@ topic: expense
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:50.074Z
+lastCollected: 2026-04-07T09:03:01.622Z
 estimatedTokens: 1076
 keywords: [Expense, linked, work, order, Service, resource, technicians, log, expenses, tools, travel, costs, API, version, 49.0]
 ---

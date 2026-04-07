@@ -5,7 +5,7 @@ topic: getting-context-in-your-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.246Z
+lastCollected: 2026-04-07T09:05:04.155Z
 estimatedTokens: 565
 keywords: [Getting, Context, Canvas, App, authenticate, signed, CanvasRequest, part, POST, URL, you’re, authenticating, OAuth, want, call]
 ---

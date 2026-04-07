@@ -5,7 +5,7 @@ topic: apexform
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:22.460Z
+lastCollected: 2026-04-07T09:04:57.513Z
 estimatedTokens: 1548
 keywords: [apex, form, Visualforce, users, enter, input, submit, <apex, commandButton>, commandLink>, determines, data, way, it's, processed]
 ---

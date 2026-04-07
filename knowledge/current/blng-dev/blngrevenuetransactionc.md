@@ -5,7 +5,7 @@ topic: blngrevenuetransactionc
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:08.753Z
+lastCollected: 2026-04-07T09:03:17.525Z
 estimatedTokens: 2031
 keywords: [blng__RevenueTransaction__c, revenue, transactions, made, against, order, product, blng, _RevenueTransaction, Calls]
 ---

@@ -5,7 +5,7 @@ topic: create-an-oauth-enabled-external-client-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:31.866Z
+lastCollected: 2026-04-07T09:03:51.343Z
 estimatedTokens: 502
 keywords: [OAuth-Enabled, External, Client, App, headless, identity, add, scopes, enable, Authorization, Code, Credentials, flow, level]
 ---

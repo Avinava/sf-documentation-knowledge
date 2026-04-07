@@ -5,7 +5,7 @@ topic: location
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.370Z
+lastCollected: 2026-04-07T09:06:19.013Z
 estimatedTokens: 833
 keywords: [Location, Work.com, represent, physical, visitor, address, extra, custom, added, search, filtering, levels, enabled, org, abstraction]
 ---

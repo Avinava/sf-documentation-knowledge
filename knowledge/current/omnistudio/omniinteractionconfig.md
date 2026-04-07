@@ -5,7 +5,7 @@ topic: omniinteractionconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:38:54.569Z
+lastCollected: 2026-04-07T09:02:57.204Z
 estimatedTokens: 2210
 namespace: InstalledIndustryPackage
 keywords: [OmniInteractionConfig, configuration, settings, Omnistudio, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, internal]

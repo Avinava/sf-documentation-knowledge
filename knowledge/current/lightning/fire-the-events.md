@@ -5,7 +5,7 @@ topic: fire-the-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.909Z
+lastCollected: 2026-04-07T09:04:14.053Z
 estimatedTokens: 608
 keywords: [Fire, Events, client-side, controller, helper, functions, force, handled, Lightning, Experience, Salesforce, mobile, app, let’s, view]
 ---

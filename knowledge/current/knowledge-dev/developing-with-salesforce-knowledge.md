@@ -5,7 +5,7 @@ topic: developing-with-salesforce-knowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.498Z
+lastCollected: 2026-04-07T09:04:04.658Z
 estimatedTokens: 139
 keywords: [Developing, Salesforce, Knowledge, gives, website, visitors, clients, partners, service, agents, ultimate, support, manage, company, securely]
 ---

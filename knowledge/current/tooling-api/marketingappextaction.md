@@ -5,7 +5,7 @@ topic: marketingappextaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:45.466Z
+lastCollected: 2026-04-07T09:02:48.033Z
 estimatedTokens: 626
 keywords: [MarketingAppExtAction, Action, add, Engagement, Studio, programs, Account, execute, third-party, app, API, version, 56.0, later, SOAP]
 ---

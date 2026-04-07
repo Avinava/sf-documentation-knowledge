@@ -5,7 +5,7 @@ topic: deliver-test-event-messages
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:28.156Z
+lastCollected: 2026-04-07T09:05:05.586Z
 estimatedTokens: 1910
 keywords: [Deliver, Test, Event, Messages, Test.stopTest, statement, Alternatively, any, time, Test.getEventBus, Fail, Demand, Published, Asynchronous, Apex]
 ---

@@ -5,7 +5,7 @@ topic: servicechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.388Z
+lastCollected: 2026-04-07T09:06:06.598Z
 estimatedTokens: 548
 keywords: [ServiceChannel, channel, work, items, received, organization—for, cases, chats, leads, API, version, 32.0, later]
 ---

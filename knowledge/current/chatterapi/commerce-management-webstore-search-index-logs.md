@@ -5,7 +5,7 @@ topic: commerce-management-webstore-search-index-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.569Z
+lastCollected: 2026-04-07T09:03:25.810Z
 estimatedTokens: 169
 keywords: [Commerce, Management, Webstore, Search, Index, Logs]
 ---

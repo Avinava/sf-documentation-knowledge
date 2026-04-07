@@ -5,7 +5,7 @@ topic: handle-the-render-event-event
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.180Z
+lastCollected: 2026-04-07T09:04:14.419Z
 estimatedTokens: 484
 keywords: [Handle, render, Event, component, rendered, rerendered, aura, valueRender, known, fired, perform, post-processing, DOM, react, rendering]
 ---

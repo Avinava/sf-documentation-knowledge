@@ -5,7 +5,7 @@ topic: userconfigtransferbutton
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.001Z
+lastCollected: 2026-04-07T09:06:10.196Z
 estimatedTokens: 317
 keywords: [UserConfigTransferButton, association, Chat, configuration, live, button, users, associated, specific, transfer, chats, queue]
 ---

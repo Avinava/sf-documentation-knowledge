@@ -5,7 +5,7 @@ topic: loyaltyprogrampartnerledger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.297Z
+lastCollected: 2026-04-07T09:04:20.165Z
 estimatedTokens: 791
 keywords: [LoyaltyProgramPartnerLedger, ledger, loyalty, program, credit, points, debit, prepaid, partner's, pack, postpaid, partner’s, point, balance, add]
 ---

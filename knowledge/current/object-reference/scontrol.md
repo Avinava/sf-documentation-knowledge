@@ -5,7 +5,7 @@ topic: scontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.633Z
+lastCollected: 2026-04-07T09:04:48.958Z
 estimatedTokens: 1352
 keywords: [Scontrol, custom, s-control, content, hosted, system, executed, client, application, Calls, Special, Access, Rules, Usage]
 ---

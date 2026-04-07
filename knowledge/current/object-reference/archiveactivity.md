@@ -5,7 +5,7 @@ topic: archiveactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.883Z
+lastCollected: 2026-04-07T09:04:35.031Z
 estimatedTokens: 1163
 keywords: [ArchiveActivity, metadata, retrieved, Archive, process, initiated, action, include, status, tracking, start, end, times, record, counts]
 ---

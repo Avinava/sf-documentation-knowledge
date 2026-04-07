@@ -5,7 +5,7 @@ topic: vehicle-asset-energy-use
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.709Z
+lastCollected: 2026-04-07T09:04:26.241Z
 estimatedTokens: 12661
 keywords: [Vehicle, Asset, Energy, fuel, consumption, vehicles, selected, emissions, factors, record, control, calculation, scope, depending, whether]
 ---

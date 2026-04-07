@@ -5,7 +5,7 @@ topic: predict-values-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:42.903Z
+lastCollected: 2026-04-07T09:05:25.742Z
 estimatedTokens: 102
 keywords: [Predict, Setup, node]
 ---

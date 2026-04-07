@@ -5,7 +5,7 @@ topic: priceprotectionexecution
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:10.508Z
+lastCollected: 2026-04-07T09:03:19.866Z
 estimatedTokens: 607
 keywords: [PriceProtectionExecution, instance, running, price, protection, process, capturing, execution, time, status, effective, date, changes, API, version]
 ---

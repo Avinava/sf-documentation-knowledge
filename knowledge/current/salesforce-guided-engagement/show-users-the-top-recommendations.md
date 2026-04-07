@@ -5,7 +5,7 @@ topic: show-users-the-top-recommendations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.895Z
+lastCollected: 2026-04-07T09:05:24.025Z
 estimatedTokens: 426
 keywords: [Show, Users, Top, Recommendations, Einstein, Best, Action, strategies, Actions, component, display, configure, deployment, Setup, programmatically]
 ---

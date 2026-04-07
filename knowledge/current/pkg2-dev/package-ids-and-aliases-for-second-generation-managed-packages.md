@@ -6,7 +6,7 @@ topic: package-ids-and-aliases-for-second-generation-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.123Z
+lastCollected: 2026-04-07T09:05:03.946Z
 estimatedTokens: 520
 keywords: [Package, IDs, Aliases, Second-Generation, Managed, Packages, lifecycle, versions, identified, alias, version, Salesforce, CLI, creates, stores]
 ---

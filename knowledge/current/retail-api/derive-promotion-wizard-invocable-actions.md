@@ -5,7 +5,7 @@ topic: derive-promotion-wizard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.171Z
+lastCollected: 2026-04-07T09:05:18.045Z
 estimatedTokens: 225
 keywords: [Derive, Promotion, Wizard, Invocable, Actions, support, Data, Source, providers, DerivePromotion]
 ---

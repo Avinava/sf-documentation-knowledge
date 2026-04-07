@@ -5,7 +5,7 @@ topic: return-headers-of-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.769Z
+lastCollected: 2026-04-07T09:02:35.841Z
 estimatedTokens: 291
 keywords: [Quick, Actions, sending, resource, gives, chance, retrieving, content, REST, API, version, 28.0, later]
 ---

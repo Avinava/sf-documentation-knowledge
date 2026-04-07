@@ -5,8 +5,8 @@ topic: inventorycountplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.776Z
-estimatedTokens: 580
+lastCollected: 2026-04-07T09:04:23.539Z
+estimatedTokens: 634
 keywords: [InventoryCountPlanItem, product, inventory, plan, Count, Item, child, API, version, 63.0, later, Calls, Special, Access, Rules]
 ---
 
@@ -38,5 +38,6 @@ Inventory Count must be enabled.
 | IsBlindCount | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the expected inventory quantity is hidden from the assignee when they count the inventory (true) or not (false).The default value is false. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last accessed this record indirectly, for example, through a list view or related record. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, and LastReferenceDate is not null, the user accessed this record or list view indirectly. |
+| LocationId | TypereferencePropertiesFilter, Group, Nillable, SortDescriptionThe location associated with the inventory count plan item.This field is a relationship field.Relationship NameLocationRefers ToLocation |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionName of the inventory count plan item. |
 | ProductReferenceRecordId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe product associated with the inventory count plan item.This field is a polymorphic relationship field.Relationship NameProductReferenceRecordRefers ToProduct2 |

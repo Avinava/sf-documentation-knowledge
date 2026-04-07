@@ -5,7 +5,7 @@ topic: fiscalmonthlastdaydate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.032Z
+lastCollected: 2026-04-07T09:03:15.026Z
 estimatedTokens: 174
 keywords: [fiscal_month_last_day, date, Accepts, DateTime, DateOnly, legacy, input, corresponds, day, month, fiscal, _month, _last, _day]
 ---

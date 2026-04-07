@@ -5,7 +5,7 @@ topic: get-settings-from-the-embedded-service-code-snippet
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.398Z
+lastCollected: 2026-04-07T09:06:14.681Z
 estimatedTokens: 711
 keywords: [Settings, Embedded, Service, Code, Snippet, Aura, components, Chat, button, deployment, assigned, agent, chatbot, avatar, image]
 ---

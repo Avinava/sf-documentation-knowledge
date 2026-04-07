@@ -5,7 +5,7 @@ topic: debug-lightning-web-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:56.478Z
+lastCollected: 2026-04-07T09:04:24.552Z
 estimatedTokens: 586
 keywords: [Debug, Lightning, Web, Components, best, way, develop, anything, built, HTML, CSS, JavaScript, built-in, debugging, tools]
 ---

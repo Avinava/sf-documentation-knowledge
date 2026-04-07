@@ -5,7 +5,7 @@ topic: dynamic-references-to-global-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.475Z
+lastCollected: 2026-04-07T09:04:58.962Z
 estimatedTokens: 247
 keywords: [Dynamic, References, Variables, Visualforce, pages, bindings, their, markup, allow, access, current, user, organization, schema, data]
 ---

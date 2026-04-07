@@ -5,7 +5,7 @@ topic: conversation-application-definition-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.792Z
+lastCollected: 2026-04-07T09:03:26.130Z
 estimatedTokens: 172
 keywords: [Conversation, Application, Definition, Resource, integration’s, associated, bot]
 ---

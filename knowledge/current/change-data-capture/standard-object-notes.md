@@ -5,7 +5,7 @@ topic: standard-object-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.691Z
+lastCollected: 2026-04-07T09:03:18.742Z
 estimatedTokens: 525
 keywords: [Standard, Notes, characteristics, change, events, objects, included, event, messages]
 ---

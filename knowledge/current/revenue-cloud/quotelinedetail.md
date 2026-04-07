@@ -5,7 +5,7 @@ topic: quotelinedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.496Z
+lastCollected: 2026-04-07T09:02:05.355Z
 estimatedTokens: 722
 keywords: [QuoteLineDetail, breakdown, quote, line, item, Revenue, Cloud, generates, records, capture, pricing, quantity, changes, negative, reductions]
 ---

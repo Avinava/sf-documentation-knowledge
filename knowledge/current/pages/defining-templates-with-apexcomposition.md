@@ -5,7 +5,7 @@ topic: defining-templates-with-apexcomposition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.238Z
+lastCollected: 2026-04-07T09:05:00.143Z
 estimatedTokens: 753
 keywords: [Defining, Templates, <apex, composition>, defined, child, insert>, tags, tag, pages, import, template, needs, definition, Any]
 ---

@@ -5,7 +5,7 @@ topic: recordactionhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:16.049Z
+lastCollected: 2026-04-07T09:04:48.177Z
 estimatedTokens: 1170
 keywords: [RecordActionHistory, lifecycle, RecordAction, goes, different, states, API, version, 44.0, later, Calls, Special, Access, Rules, Usage]
 ---

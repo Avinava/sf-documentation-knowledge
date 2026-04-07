@@ -5,7 +5,7 @@ topic: emailmessagerelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.395Z
+lastCollected: 2026-04-07T09:04:39.332Z
 estimatedTokens: 542
 keywords: [EmailMessageRelation, relationship, email, contacts, leads, users, API, version, 37.0, later, Special, Access, Rules, Calls, Usage]
 ---

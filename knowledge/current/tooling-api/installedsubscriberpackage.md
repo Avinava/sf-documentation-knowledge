@@ -5,7 +5,7 @@ topic: installedsubscriberpackage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:45.311Z
+lastCollected: 2026-04-07T09:02:47.888Z
 estimatedTokens: 236
 keywords: [InstalledSubscriberPackage, package, first-, second-generation, installed, subscriber’s, org, API, version, 41.0, later, SOAP, Calls, REST, HTTP]
 ---

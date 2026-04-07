@@ -6,7 +6,7 @@ topic: specify-unpackaged-metadata-or-apex-access-for-package-version-creation-t
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.153Z
+lastCollected: 2026-04-07T09:05:03.996Z
 estimatedTokens: 399
 keywords: [Specify, Unpackaged, Metadata, Apex, Access, Package, Version, Creation, Tests, Second-Generation, Managed, Packages, scenarios, require, isn’t]
 ---

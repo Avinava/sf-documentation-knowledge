@@ -5,7 +5,7 @@ topic: objectmetadatatag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.346Z
+lastCollected: 2026-04-07T09:04:45.047Z
 estimatedTokens: 470
 keywords: [ObjectMetadataTag, meta, tag, store, tags, HTML, documents, provide, structured, data, search, engines, ranking, show, content]
 ---

@@ -5,7 +5,7 @@ topic: participatingcustomersparticipatingcustomer-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.532Z
+lastCollected: 2026-04-07T09:05:17.123Z
 estimatedTokens: 536
 keywords: [APEX, programmatic, access, Participating, Customer, associated, instance, TPM_ParticipatingCustomers, TPM, isIncluded, API, Version, ParticipatingCustomer, setIncluded, setAccountExternalId]
 ---
@@ -34,9 +34,9 @@ The following are methods for TPM\_ParticipatingCustomers.ParticipatingCustomer.
     Returns true if the Participating customer is included, false otherwise.
 -   **[global ParticipatingCustomer setIncluded](atlas.en-us.retail_api.meta/retail_api/TPM_ParticipatingCustomer_2.htm#global_partcipating_customer)**
     Sets the Participating customer as included or excluded.
--   **[global ParticipatingCustomer setAccountExternalId](atlas.en-us.retail_api.meta/retail_api/TPM_ParticipatingCustomer_2.htm#unique_1504483453)**
+-   **[global ParticipatingCustomer setAccountExternalId](atlas.en-us.retail_api.meta/retail_api/TPM_ParticipatingCustomer_2.htm#unique_1607088696)**
     Sets the Participating Customer Account External Id value
--   **[global String getAccountExternalId](atlas.en-us.retail_api.meta/retail_api/TPM_ParticipatingCustomer_2.htm#unique_675167697)**
+-   **[global String getAccountExternalId](atlas.en-us.retail_api.meta/retail_api/TPM_ParticipatingCustomer_2.htm#unique_230090926)**
     Returns the Account External ID of the Participating Customer.
 
 ### global Boolean isIncluded

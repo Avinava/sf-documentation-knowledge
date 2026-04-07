@@ -6,7 +6,7 @@ topic: customize-the-minimized-embedded-service-ui-with-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.366Z
+lastCollected: 2026-04-07T09:06:14.626Z
 estimatedTokens: 806
 keywords: [Customize, Minimized, Embedded, Service, Aura, Components, user, component, it’s, web, custom]
 ---

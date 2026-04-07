@@ -5,7 +5,7 @@ topic: clone-sales-transaction-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.753Z
+lastCollected: 2026-04-07T09:01:58.066Z
 estimatedTokens: 208
 keywords: [Clone, Sales, Transaction, Input, representation, records]
 ---

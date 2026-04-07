@@ -5,7 +5,7 @@ topic: step-4-deploy-the-wavetemplate-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.488Z
+lastCollected: 2026-04-07T09:03:15.783Z
 estimatedTokens: 193
 keywords: [Step, Deploy, WaveTemplate, editing, JSON, files, template, back, development, org, results, work, testing]
 ---

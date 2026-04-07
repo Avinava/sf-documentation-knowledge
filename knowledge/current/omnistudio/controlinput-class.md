@@ -5,7 +5,7 @@ topic: controlinput-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:47.395Z
+lastCollected: 2026-04-07T09:02:49.967Z
 estimatedTokens: 425
 namespace: ComplianceMgmt
 keywords: [ControlInput, control, input, that's, evaluation, compliance, includes, two, main, parameterName, parameterType]

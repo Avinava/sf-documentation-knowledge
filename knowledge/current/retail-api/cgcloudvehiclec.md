@@ -5,7 +5,7 @@ topic: cgcloudvehiclec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.402Z
+lastCollected: 2026-04-07T09:05:22.042Z
 estimatedTokens: 1314
 keywords: [cgcloud__Vehicle__c, Stores, vehicle, API, version, 54.0, later, cgcloud, _Vehicle, Calls, Associated, Objects]
 ---

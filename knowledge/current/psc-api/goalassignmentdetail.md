@@ -5,7 +5,7 @@ topic: goalassignmentdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.871Z
+lastCollected: 2026-04-07T09:05:14.938Z
 estimatedTokens: 884
 keywords: [GoalAssignmentDetail, additional, associated, goal, assignment, API, version, 61.0, later, Calls, Special, Access, Rules, Objects]
 ---

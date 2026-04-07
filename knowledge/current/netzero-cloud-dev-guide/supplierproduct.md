@@ -5,7 +5,7 @@ topic: supplierproduct
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:00.171Z
+lastCollected: 2026-04-07T09:04:29.114Z
 estimatedTokens: 1062
 keywords: [SupplierProduct, that's, track, products, purchased, supplier, API, version, 56.0, later, Calls, Associated, Objects]
 ---

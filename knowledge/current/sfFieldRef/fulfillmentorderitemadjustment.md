@@ -5,7 +5,7 @@ topic: fulfillmentorderitemadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:58.769Z
+lastCollected: 2026-04-07T09:05:46.967Z
 estimatedTokens: 452
 keywords: [FulfillmentOrderItemAdjustment, price, adjustment, FulfillmentOrderLineItem, Corresponds, OrderItemAdjustmentLineSummary, associated, corresponding, OrderItemSummary, API, version, 48.0, later]
 ---

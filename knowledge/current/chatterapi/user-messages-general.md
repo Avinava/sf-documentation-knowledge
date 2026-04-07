@@ -5,7 +5,7 @@ topic: user-messages-general
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.967Z
+lastCollected: 2026-04-07T09:03:29.334Z
 estimatedTokens: 905
 keywords: [User, Messages, General, context, Search, across, post, message]
 ---

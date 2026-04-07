@@ -5,7 +5,7 @@ topic: orderpaymentsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.005Z
+lastCollected: 2026-04-07T09:04:45.821Z
 estimatedTokens: 2297
 keywords: [OrderPaymentSummary, current, state, payments, payment, applied, OrderSummary, API, version, 48.0, later, Calls, Special, Access, Rules]
 ---

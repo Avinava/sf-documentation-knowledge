@@ -5,7 +5,7 @@ topic: calculatetaxresponse-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:44.562Z
+lastCollected: 2026-04-07T09:02:17.005Z
 estimatedTokens: 3462
 namespace: CommerceTax
 keywords: [CalculateTaxResponse, tax, transaction, external, engine, Extends, AbstractTransactionResponse, top-level, setAddresses, addresses, setAmountDetails, amountDetails, setCurrencyIsoCode, currencyIsoCode, setDescription]

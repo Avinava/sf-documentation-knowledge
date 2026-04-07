@@ -5,7 +5,7 @@ topic: userrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.396Z
+lastCollected: 2026-04-07T09:04:48.633Z
 estimatedTokens: 1343
 keywords: [UserRole, user, role, organization, Calls, Special, Access, Rules, Usage]
 ---
@@ -38,7 +38,7 @@ As of Summer ’20 and later, only users with the View Roles and Role Hierarchy 
 | --- | --- |
 | CaseAccessForAccountOwner | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe case access level for the account owner. |
 | ContactAccessForAccountOwner | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe contact access level for the account owner.NoteWhen DefaultContactAccess is set to Controlled by Parent, you can’t create or update this field. |
-| DeveloperName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object’s name in a managed package and the changes are reflected in a subscriber’s organization. Corresponds to Role Name in the user interface.This field is available in API version 24.0 and later.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
+| DeveloperName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique name of the object in the API. This name can contain only underscores and alphanumeric characters, and must be unique in your org. It must begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. In managed packages, this field prevents naming conflicts on package installations. With this field, a developer can change the object's name in a managed package and the changes are reflected in a subscriber's organization. Corresponds to Role Name in the user interface.This field is available in API version 24.0 and later.NoteWhen creating large sets of data, always specify a unique DeveloperName for each record. If no DeveloperName is specified, performance slows down while Salesforce generates one for each record. |
 | ForecastUserId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the forecast manager associated with this role. Label is User ID. |
 | IsPartner | TypebooleanPropertiesDefaulted on create, FilterDescriptionIndicates whether the user role is a partner who has access to the partner portal (true) or not (false). This field is not available for release 9.0 and later. Instead, use PortalType with the value Partner. |
 | MayForecastManagerShare | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the forecast manager can manually share their own forecast. |

@@ -5,7 +5,7 @@ topic: coaserviceorderrecallinput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.209Z
+lastCollected: 2026-04-07T09:04:53.769Z
 estimatedTokens: 77
 keywords: [COA_ServiceOrderRecallInput, COA, _ServiceOrderRecallInput]
 ---

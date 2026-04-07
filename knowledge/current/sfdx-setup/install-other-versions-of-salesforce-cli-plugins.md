@@ -5,7 +5,7 @@ topic: install-other-versions-of-salesforce-cli-plugins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.183Z
+lastCollected: 2026-04-07T09:06:14.351Z
 estimatedTokens: 473
 keywords: [Install, Versions, Salesforce, CLI, Plugins, Sometimes, want, specific, version, plugin, let’s, say, fixed, bug, apex]
 ---

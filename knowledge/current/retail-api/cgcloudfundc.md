@@ -5,7 +5,7 @@ topic: cgcloudfundc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.647Z
+lastCollected: 2026-04-07T09:05:20.099Z
 estimatedTokens: 4040
 keywords: [cgcloud__Fund__c, fund, amount, money, that's, employee, special, reason, specific, business, period, pay, activities, promotion, campaigns]
 ---

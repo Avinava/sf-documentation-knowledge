@@ -5,7 +5,7 @@ topic: externalaimodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:06.477Z
+lastCollected: 2026-04-07T09:02:40.242Z
 estimatedTokens: 672
 keywords: [ExternalAIModel, state, model, Einstein, Service, feature, Reply, Recommendations, Parent, File, Suffix, Directory, Location, Version, Special]
 ---

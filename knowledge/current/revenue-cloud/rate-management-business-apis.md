@@ -5,7 +5,7 @@ topic: rate-management-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:23.769Z
+lastCollected: 2026-04-07T09:02:03.070Z
 estimatedTokens: 214
 keywords: [Rate, Management, Business, APIs, plan, persisted, rating, waterfall]
 ---

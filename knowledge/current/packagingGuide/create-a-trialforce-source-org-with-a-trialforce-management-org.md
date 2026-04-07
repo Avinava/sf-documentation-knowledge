@@ -5,7 +5,7 @@ topic: create-a-trialforce-source-org-with-a-trialforce-management-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.406Z
+lastCollected: 2026-04-07T09:04:55.839Z
 estimatedTokens: 364
 keywords: [Trialforce, Source, Org, Management, TMO, TSO, install, package, there, configure, want, customers, experience]
 ---

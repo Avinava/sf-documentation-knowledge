@@ -5,7 +5,7 @@ topic: expression-set-advanced-condition-step
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.962Z
+lastCollected: 2026-04-07T09:05:09.473Z
 estimatedTokens: 167
 keywords: [Expression, Advanced, Condition, Step, Output, representation]
 ---

@@ -5,7 +5,7 @@ topic: comparing-javascript-remoting-and-apexactionfunction
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.741Z
+lastCollected: 2026-04-07T09:04:59.358Z
 estimatedTokens: 158
 keywords: [Comparing, JavaScript, Remoting, <apex, actionFunction>, component, lets, call, controller, action]
 ---

@@ -5,7 +5,7 @@ topic: biodiversitysummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:58.546Z
+lastCollected: 2026-04-07T09:04:27.337Z
 estimatedTokens: 1397
 keywords: [BiodiversitySummary, biodiversity, company, discloses, part, ESRS, ecosystems, API, version, 65.0, later, Calls, Associated, Objects]
 ---

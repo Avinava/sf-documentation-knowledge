@@ -5,7 +5,7 @@ topic: eventstagedinviteeemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.805Z
+lastCollected: 2026-04-07T09:04:40.949Z
 estimatedTokens: 563
 keywords: [EventStagedInviteeEmail, relationship, event, email, address, invited, doesn’t, match, user, contact, lead, record, Data, unmatched, represented]
 ---

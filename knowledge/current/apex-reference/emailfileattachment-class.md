@@ -5,10 +5,10 @@ topic: emailfileattachment-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.819Z
-estimatedTokens: 910
+lastCollected: 2026-04-07T09:02:18.367Z
+estimatedTokens: 1042
 namespace: Messaging
-keywords: [EmailFileAttachment, attachment, itself, contenttype, filename, inline]
+keywords: [EmailFileAttachment, attachment, itself, Usage, contenttype, filename, inline]
 ---
 
 # EmailFileAttachment Class
@@ -23,7 +23,15 @@ EmailFileAttachment is used in SingleEmailMessage to specify attachments passed 
 
 ## Namespace
 
-[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.")
+[Messaging](atlas.en-us.apexref.meta/apexref/apex_namespace_Messaging.htm "The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.")
+
+## Usage
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexref)
+
+#### Important
+
+Sending an email by using Apex requires domain-level and user-level email verification. System-generated emails also require verification of the From email address. Email delivery fails if any of these verifications is incomplete. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 -   **[EmailFileAttachment Constructors](atlas.en-us.apexref.meta/apexref/apex_classes_email_outbound_attachment.htm#apex_Messaging_EmailFileAttachment_constructors)**
 

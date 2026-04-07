@@ -5,7 +5,7 @@ topic: regrintercept
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.340Z
+lastCollected: 2026-04-07T09:03:13.942Z
 estimatedTokens: 414
 keywords: [regr_intercept, Uses, two, numerical, calculate, trend, line, y-intercept, function, likely, field_y, field_x, zero, regr, _intercept]
 ---

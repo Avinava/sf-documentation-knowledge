@@ -5,7 +5,7 @@ topic: disclosuretype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.421Z
+lastCollected: 2026-04-07T09:04:25.894Z
 estimatedTokens: 603
 keywords: [DisclosureType, disclosures, individual, organization, associated, metadata, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, API, version, 57.0, later, Calls]
 ---

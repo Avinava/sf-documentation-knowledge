@@ -5,7 +5,7 @@ topic: ordersummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.068Z
+lastCollected: 2026-04-07T09:04:45.883Z
 estimatedTokens: 6636
 keywords: [OrderSummary, current, state, order, Corresponds, objects, consisting, original, any, change, applicable, API, version, 48.0, later]
 ---

@@ -5,7 +5,7 @@ topic: actionplanitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.792Z
+lastCollected: 2026-04-07T09:05:12.425Z
 estimatedTokens: 830
 keywords: [ActionPlanItem, instance, action, plan, item.This, API, version, 44.0, later, Calls, Associated, Objects]
 ---

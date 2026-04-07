@@ -5,7 +5,7 @@ topic: stnryassetwateractvty
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:14.566Z
+lastCollected: 2026-04-07T09:06:08.256Z
 estimatedTokens: 638
 keywords: [StnryAssetWaterActvty, water, activities, withdrawal, consumption, discharge, stationary, assets]
 ---

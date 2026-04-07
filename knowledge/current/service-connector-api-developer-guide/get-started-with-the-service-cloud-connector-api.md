@@ -5,7 +5,7 @@ topic: get-started-with-the-service-cloud-connector-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:45.333Z
+lastCollected: 2026-04-07T09:05:29.322Z
 estimatedTokens: 926
 keywords: [Started, Service, Cloud, Connector, API, Contact, Center, CCaaS, telephony, system, Salesforce, org, pass, receive, events]
 ---

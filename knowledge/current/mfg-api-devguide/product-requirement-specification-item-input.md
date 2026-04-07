@@ -5,7 +5,7 @@ topic: product-requirement-specification-item-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.937Z
+lastCollected: 2026-04-07T09:04:22.325Z
 estimatedTokens: 178
 keywords: [Product, Requirement, Specification, Item, Input, representation, items, associated, version, PropertiesListWrapperInput]
 ---

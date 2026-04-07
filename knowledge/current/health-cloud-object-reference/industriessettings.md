@@ -5,23 +5,23 @@ topic: industriessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:35.816Z
+lastCollected: 2026-04-07T09:03:56.643Z
 estimatedTokens: 1458
 keywords: [IndustriesSettings, settings, Health, Cloud.This, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, Access]
 ---
 
 # IndustriesSettings
 
-> Represents settings for Health Cloud.This type extends the Metadata metadata type and inherits its
-                        fullName field.
+> Represents settings for Health Cloud.This type extends
+    the Metadata metadata type and inherits its fullName field.
 
 # IndustriesSettings
 
 Represents settings for Health Cloud.This type extends the Metadata metadata type and inherits its fullName field.
 
-## File Suffix and Directory Location
-
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See Settings for details.
+
+## File Suffix and Directory Location
 
 IndustriesSettings are stored in a single file named Industries.settings in the settings directory.
 

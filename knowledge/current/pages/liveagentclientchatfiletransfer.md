@@ -5,7 +5,7 @@ topic: liveagentclientchatfiletransfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.699Z
+lastCollected: 2026-04-07T09:04:57.827Z
 estimatedTokens: 618
 keywords: [liveAgent, clientChatFileTransfer, file, upload, area, chat, window, visitor, send, agent, Attributes]
 ---

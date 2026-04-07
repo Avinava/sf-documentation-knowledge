@@ -5,7 +5,7 @@ topic: quicktextusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.821Z
+lastCollected: 2026-04-07T09:04:47.921Z
 estimatedTokens: 940
 keywords: [QuickTextUsage, usage, quick, text, record, including, how, they, snippet, users, send, customer, API, version, 47.0]
 ---

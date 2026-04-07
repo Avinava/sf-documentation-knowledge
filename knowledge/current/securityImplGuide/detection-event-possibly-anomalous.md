@@ -5,7 +5,7 @@ topic: detection-event-possibly-anomalous
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:44.985Z
+lastCollected: 2026-04-07T09:05:28.813Z
 estimatedTokens: 579
 keywords: [Detection, Event, Possibly, Anomalous, Rob, recently, joined, company, customer, success, representative, Jan, Rob’s, account, generate]
 ---

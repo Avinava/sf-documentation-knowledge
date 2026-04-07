@@ -5,7 +5,7 @@ topic: health-cloud-associated-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.891Z
+lastCollected: 2026-04-07T09:03:56.831Z
 estimatedTokens: 158
 keywords: [Health, Cloud, Associated, Objects, standard, their]
 ---

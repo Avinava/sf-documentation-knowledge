@@ -5,7 +5,7 @@ topic: create-the-action-manually
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.375Z
+lastCollected: 2026-04-07T09:05:04.379Z
 estimatedTokens: 475
 keywords: [Action, Manually, didn’t, select, Actions, Automatically, created, canvas, app, you’ll]
 ---

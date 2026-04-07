@@ -5,7 +5,7 @@ topic: feedpollchoice
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.896Z
+lastCollected: 2026-04-07T09:05:45.728Z
 estimatedTokens: 240
 keywords: [FeedPollChoice, choices, poll, posted, feed, API, version, 29.0, later]
 ---

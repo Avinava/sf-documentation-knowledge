@@ -5,7 +5,7 @@ topic: carefeescheduleitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.210Z
+lastCollected: 2026-04-07T09:03:57.203Z
 estimatedTokens: 962
 keywords: [CareFeeScheduleItem, Stores, procedure, level, fees, fee, schedule, definition, API, version, 54.0, later, Provider, Network, Management]
 ---

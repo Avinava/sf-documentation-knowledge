@@ -5,7 +5,7 @@ topic: manage-user-passwords
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.801Z
+lastCollected: 2026-04-07T09:05:28.515Z
 estimatedTokens: 196
 keywords: [Manage, User, Passwords, Salesforce, users, unique, username, password, they, enter, login, admin, configure, several, settings]
 ---

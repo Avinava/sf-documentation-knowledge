@@ -5,7 +5,7 @@ topic: cgcloudroutec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.790Z
+lastCollected: 2026-04-07T09:05:21.363Z
 estimatedTokens: 1790
 keywords: [cgcloud__Route__c, Stores, route, API, version, 54.0, later, cgcloud, _Route, Calls, Associated, Objects]
 ---

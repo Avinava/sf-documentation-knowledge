@@ -5,7 +5,7 @@ topic: producttransfer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:50.420Z
+lastCollected: 2026-04-07T09:03:01.963Z
 estimatedTokens: 1635
 keywords: [ProductTransfer, transfer, inventory, locations, service, Calls, Special, Access, Rules, Associated, Objects]
 ---

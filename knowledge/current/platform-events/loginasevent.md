@@ -5,7 +5,7 @@ topic: loginasevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.863Z
+lastCollected: 2026-04-07T09:05:06.461Z
 estimatedTokens: 2229
 keywords: [LoginAsEvent, tracks, admin, logs, another, user, org, Real-Time, Event, Monitoring, captures, events, admins, Experience, Cloud]
 ---
@@ -48,7 +48,7 @@ A Transaction Security policy for the LoginAs event type only monitors and respo
 | EventIdentifier | TypestringPropertiesFilter, SortDescriptionThe unique identifier for each record in LoginAsEvent. Use this field as the primary key in your queries. |
 | LoginAsCategory | TypepicklistPropertiesNillable, Restricted picklistDescriptionRepresents how the user logs in as another user. Possible values are:OrgAdmin—An administrator logs in to Salesforce as an individual user. Depending on your org settings, the individual user grants login access to the administrator.Community—A user who has been granted access to a Salesforce Experience Cloud site logs in. |
 | LoginHistoryId | TypereferencePropertiesNillableDescriptionThe ID from the LoginHistory entity associated with this login event. Tracks a user session so you can correlate user activity with a particular login instance. For example, 0Yaxx0000000019. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, 8gHOMQu+xvjCmRUt. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, 8gHOMQu+xvjCmRUt. |
 | LoginType | TypepicklistPropertiesNillable, Restricted picklistDescriptionThe event’s type of login. For example, “Application.” |
 | Platform | TypestringPropertiesNillableDescriptionThe platform name and version that are used during the login event. If no platform name is available, “Unknown” is returned. Platform names are in English. For example, “Mac OSX”. |
 | SessionKey | TypestringPropertiesNillableDescriptionThe user’s unique session ID. Use this value to identify all user events within a session. When a user logs out and logs in again, a new session is started. For LoginAsEvent, this field is usually null because the event is captured before a session is created. |

@@ -5,7 +5,7 @@ topic: test-harness-prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.498Z
+lastCollected: 2026-04-07T09:04:24.591Z
 estimatedTokens: 422
 keywords: [Test, Harness, Prerequisites, full, working, mobile, development, environment, haven’t, tools, yet, resources, guidance]
 ---

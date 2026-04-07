@@ -5,7 +5,7 @@ topic: posted-invoice-write-off
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:22.185Z
+lastCollected: 2026-04-07T09:02:01.996Z
 estimatedTokens: 191
 keywords: [Posted, Invoice, Write-Off, Output, representation, that's, written, off]
 ---

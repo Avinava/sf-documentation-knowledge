@@ -5,7 +5,7 @@ topic: encodingutil-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:24.154Z
+lastCollected: 2026-04-07T09:02:18.663Z
 estimatedTokens: 1935
 namespace: System
 keywords: [EncodingUtil, encode, decode, URL, strings, convert, hexadecimal, Usage, base64Decode, inputString, base64Encode, inputBlob, convertFromHex, convertToHex, urlDecode]

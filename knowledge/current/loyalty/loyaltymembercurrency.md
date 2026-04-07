@@ -5,7 +5,7 @@ topic: loyaltymembercurrency
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.081Z
+lastCollected: 2026-04-07T09:04:19.831Z
 estimatedTokens: 1588
 keywords: [LoyaltyMemberCurrency, point, balance, member, particular, currency, API, version, 51.0, later, Calls, Associated, Objects]
 ---

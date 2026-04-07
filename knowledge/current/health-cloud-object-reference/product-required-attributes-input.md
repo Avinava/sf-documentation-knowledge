@@ -5,7 +5,7 @@ topic: product-required-attributes-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.128Z
+lastCollected: 2026-04-07T09:03:52.972Z
 estimatedTokens: 87
 keywords: [Product, Attributes, Input, representation, products, visit]
 ---

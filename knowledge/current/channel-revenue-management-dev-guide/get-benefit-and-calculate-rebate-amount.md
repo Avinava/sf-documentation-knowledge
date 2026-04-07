@@ -5,7 +5,7 @@ topic: get-benefit-and-calculate-rebate-amount
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:10.076Z
+lastCollected: 2026-04-07T09:03:19.338Z
 estimatedTokens: 462
 keywords: [Benefit, Calculate, Rebate, Amount, benefits, optionally, aggregate, record, REST, HTTP, Inputs, Outputs, Usage]
 ---

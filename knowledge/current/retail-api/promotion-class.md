@@ -5,8 +5,8 @@ topic: promotion-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.573Z
-estimatedTokens: 4632
+lastCollected: 2026-04-07T09:05:17.174Z
+estimatedTokens: 4631
 keywords: [Promotion, APEX, programmatic, access, TPM, SObject, it’s, SObjects, Implementation, _Promotion, List<TPM, _Promotion.Record>, getAttachmentLinks, API, Version]
 ---
 
@@ -40,69 +40,69 @@ The following are methods for TPM\_Promotion.
 
 -   **[global List<TPM\_Promotion.Record> getAttachmentLinks](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#method_promotion.do.work)**
     Returns the List<TPM\_Promotion.Record> instances with the Promotion Attachment Links contents.
--   **[global TPM\_Promotion](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1928493045)**
+-   **[global TPM\_Promotion](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_237902752)**
     This method creates an empty Promotion record.
--   **[global List<TPM\_Promotion.Record> getAttachments](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_881540763)**
+-   **[global List<TPM\_Promotion.Record> getAttachments](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_759752831)**
     Returns the List<TPM\_Promotion.Record> instances with the Promotion Attachments contents.
--   **[global List<TPM\_Promotion.Record> getProductShares](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_595852373)**
+-   **[global List<TPM\_Promotion.Record> getProductShares](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_2014278574)**
     Returns a filtered List<TPM\_Promotion.Record> instances with the Promotion Product Share contents.
--   **[global List<TPM\_Promotion.Record> getAttachments](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_692218907)**
+-   **[global List<TPM\_Promotion.Record> getAttachments](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_140488422)**
     Returns a filtered List<TPM\_Promotion.Record> instances with the Promotion Attachments contents.
--   **[global List<TPM\_Promotion.Record> getAttachmentLinks](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_268874394)**
+-   **[global List<TPM\_Promotion.Record> getAttachmentLinks](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_287332667)**
     Returns a filtered List<TPM\_Promotion.Record> instances with the Promotion Attachment Links contents.
--   **[global List<TPM\_Promotion.Record> getTacticFunds](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_304991974)**
+-   **[global List<TPM\_Promotion.Record> getTacticFunds](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_881189870)**
     Returns a filtered List<TPM\_Promotion.Record> instances with the Tactic Fund contents.
--   **[global List<TPM\_Promotion.Record> getTacticFunds](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1264427164)**
+-   **[global List<TPM\_Promotion.Record> getTacticFunds](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1764849971)**
     Returns the List<TPM\_Promotion.Record> instances with the Tactic Fund contents.
--   **[global List<TPM\_Promotion.TacticRecord> getTactics](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_516384378)**
+-   **[global List<TPM\_Promotion.TacticRecord> getTactics](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_681548517)**
     Returns the List<TPM\_Promotion.Record> instances with the Tactic contents.
--   **[global List<TPM\_Promotion.TacticRecord> getTactics](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1540952839)**
+-   **[global List<TPM\_Promotion.TacticRecord> getTactics](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_451579629)**
     Returns a filtered List<TPM\_Promotion.Record> instances with the Tactic contents..
--   **[global List<TPM\_Promotion.Record> getTacticConditionCreationDefinitions](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_430899091)**
+-   **[global List<TPM\_Promotion.Record> getTacticConditionCreationDefinitions](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_7177649)**
     Returns a filtered List<TPM\_Promotion.Record> instances with the Tactic Condition Creation Definitions contents.
--   **[global List<TPM\_Promotion.Record> getTacticConditionCreationDefinitions](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1040212927)**
+-   **[global List<TPM\_Promotion.Record> getTacticConditionCreationDefinitions](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_771635150)**
     Returns the List<TPM\_Promotion.Record> instances with the Tactic Condition Creation Definitions contents.
--   **[global List<TPM\_Promotion.Record> getProductShares](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_2147208403)**
+-   **[global List<TPM\_Promotion.Record> getProductShares](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1620178931)**
     Returns the List<TPM\_Promotion.Record> instances with the Promotion Product Share contents.
--   **[global Set<Id> getEffectiveCategories](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_467820080)**
+-   **[global Set<Id> getEffectiveCategories](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1518735407)**
     Returns the read only list of effective categories of the promotion.
--   **[global Set<Id> getEffectiveBrands](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_492864693)**
+-   **[global Set<Id> getEffectiveBrands](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_517790346)**
     Returns the read only list of effective brands of the promotion.
--   **[global TPM\_ManualInputs getManualInputs](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_829903693)**
+-   **[global TPM\_ManualInputs getManualInputs](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1941009793)**
     Returns a TPM\_ManualInputs instance with the Manual Inputs Information.
--   **[global TPM\_ParticipatingCustomers getParticipatingCustomers](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_969741320)**
+-   **[global TPM\_ParticipatingCustomers getParticipatingCustomers](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1766020366)**
     Returns a TPM\_ParticipatingCustomers instance with the Participating Customers information.
--   **[global TPM\_ProductFilter getProductFilter](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_2102490435)**
+-   **[global TPM\_ProductFilter getProductFilter](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_977195881)**
     Returns the TPM\_ProductFilter instance with the Product Filter information
--   **[global TPM\_Promotion](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1120915427)**
+-   **[global TPM\_Promotion](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_34688041)**
     If promotionId is null, throw an exception. This method loads the Promotion record referenced by the input Promotion Id along with its related SObjects.
--   **[global TPM\_Promotion.Record append](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1994741226)**
+-   **[global TPM\_Promotion.Record append](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_610604033)**
     Appends a Custom SObject Record to the TPM\_Promotion instance. This record will be inserted/updated/deleted (depending on the TPM\_Promotion.Record instance state) during the same transaction the Promotion object is committed to the database.
--   **[global TPM\_Promotion.Record addTacticConditionCreationDefinition](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_2121033361)**
+-   **[global TPM\_Promotion.Record addTacticConditionCreationDefinition](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_2119410106)**
     Adds a Tactic Condition Creation Definition Record to the promotion. The returned wrapper can be used for further operations.
--   **[global TPM\_Promotion.Record addAttachment](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1673800490)**
+-   **[global TPM\_Promotion.Record addAttachment](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_361451308)**
     Adds a Promotion Attachment Record to the promotion. The returned wrapper can be used for further operations.
--   **[global TPM\_Promotion.Record addAttachmentLink](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_656655500)**
+-   **[global TPM\_Promotion.Record addAttachmentLink](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_466349787)**
     Adds a Promotion Attachment Link Record to the promotion. The returned wrapper can be used for further operations.
--   **[global TPM\_Promotion.Record addProductShare](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1970000295)**
+-   **[global TPM\_Promotion.Record addProductShare](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_687804806)**
     Adds a Promotion Product Share Record to the promotion. The returned wrapper can be used for further operations.
--   **[global TPM\_Promotion.Record addTacticFund](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1116283241)**
+-   **[global TPM\_Promotion.Record addTacticFund](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_725221372)**
     Adds a Tactic Fund Record to the promotion. The returned wrapper can be used for further operations.
--   **[global TPM\_Promotion.Record getRecordById](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1528868909)**
+-   **[global TPM\_Promotion.Record getRecordById](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1668460809)**
     Returns the wrapper object for the record identified by the parameter id. It will search among all the records associated to the promotion.
--   **[global TPM\_Promotion.TacticRecord addTactic](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1689982962)**
+-   **[global TPM\_Promotion.TacticRecord addTactic](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1561770081)**
     Adds a Tactic Record to the promotion. The returned wrapper can be used for further operations.
--   **[global TPM\_Scenarios getScenarios](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_525084012)**
+-   **[global TPM\_Scenarios getScenarios](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_620923954)**
     Returns a TPM\_Scenarios instance with the Promotion Scenarios information.
--   **[global TPM\_SubAccounts getSubAccounts](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_12973464)**
+-   **[global TPM\_SubAccounts getSubAccounts](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_504132738)**
     Returns a TPM\_SubAccounts instance with the Sub Accounts information.
--   **[global void addRelationship](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_600757685)**
+-   **[global void addRelationship](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_959014924)**
     Notifies the TPM\_Promotion instance about a relationship between 2 records. Avoid using direct DML manipulations for Records that are part of the transactional state of a Promotion. During the Promotion Save process, the records provided by the TPM\_Promotion instances use temporary Id’s for records that are not still in the database. Using the methods provided by TPM\_Promotion object ensures all relationships and Id’s are properly resolved before committing.
--   **[global void registerWork](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1833334469)**
+-   **[global void registerWork](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1808601563)**
     Adds work to be executed after the promotion is committed to the database. Use this method to perform additional operations after all the Promotion related records are correctly committed to the database. See TPM\_Promotion.DoWork reference for details about the Interface methods.
--   **[global void reload](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_46794642)**
+-   **[global void reload](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1542279707)**
     Removes all the current values and reloads all the promotion data from the Database. This operation is disabled in the TPM\_Promotion instance during the Save Promotion Customization Hook.
--   **[global void save](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_363485278)**
+-   **[global void save](atlas.en-us.retail_api.meta/retail_api/TPM_Promotion.htm#unique_1425487584)**
     Saves the all the changes contained in promotion SObject record and it’s related SObject records. This operation is disabled in the TPM\_Promotion instance during the Save Promotion Customization Hook, as this method will be automatically called when the Core business logic finish processing. The method will need to check the status of the TPM\_Promotion.Record wrapper (isDeleted(), isNew()) to determine the DB operation to perform.
 
 ### global List<TPM\_Promotion.Record> getAttachmentLinks

@@ -5,7 +5,7 @@ topic: preview-components-in-the-salesforce-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.577Z
+lastCollected: 2026-04-07T09:04:24.703Z
 estimatedTokens: 1549
 keywords: [Preview, Components, Salesforce, Mobile, App, verify, Lightning, web, devices, virtual, device, builds, possible, run, iOS]
 ---

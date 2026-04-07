@@ -5,7 +5,7 @@ topic: net-zero-cloud-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.921Z
+lastCollected: 2026-04-07T09:04:26.573Z
 estimatedTokens: 10344
 keywords: [Net, Zero, Cloud, Standard, Objects, data, model, calculate, manage, carbon, footprints, organization]
 ---

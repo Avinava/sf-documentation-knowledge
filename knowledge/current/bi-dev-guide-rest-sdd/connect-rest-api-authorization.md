@@ -5,7 +5,7 @@ topic: connect-rest-api-authorization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:05.070Z
+lastCollected: 2026-04-07T09:03:11.942Z
 estimatedTokens: 290
 keywords: [Connect, REST, API, Authorization, uses, OAuth, securely, identify, application, connecting, Salesforce, Resources]
 ---

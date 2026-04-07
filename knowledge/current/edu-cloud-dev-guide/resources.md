@@ -5,8 +5,8 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:25.143Z
-estimatedTokens: 517
+lastCollected: 2026-04-07T09:03:42.668Z
+estimatedTokens: 625
 keywords: [Resources, Education, Cloud, Business, API, Fundraising]
 ---
 
@@ -45,9 +45,9 @@ Learn more about the available Fundraising API resources.
 - Course Offering (POST) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_course_offering.htm)
 - Course Offering Schedules (POST) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_course_schedule_modify.htm)
 - Hold Definition (POST) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_hold_definitions.htm)
+- Learning Equivalency (GET) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_learning-equivalency.htm)
+- Learning Equivalency ID (GET) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_learning_equivalency_id.htm)
 - Learner Restriction Violation (GET, POST) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_restriction_violation.htm)
 - Learnings Graph (POST, PATCH) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_learning_graph.htm)
 - Learnings Graph (GET) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_getlearnings.htm)
 - Commitments (POST) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_commitments_post.htm)
-- Commitments (PATCH) (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_commitments_patch.htm)
-- Gift Transactions (atlas.en-us.edu_cloud_dev_guide.meta/edu_cloud_dev_guide/connect_resources_gift_transactions.htm)

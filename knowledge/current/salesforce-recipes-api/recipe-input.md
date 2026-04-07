@@ -5,7 +5,7 @@ topic: recipe-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.419Z
+lastCollected: 2026-04-07T09:05:24.888Z
 estimatedTokens: 526
 keywords: [Recipe, Input, data, prep]
 ---

@@ -5,7 +5,7 @@ topic: dynamic-output-in-expressions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.958Z
+lastCollected: 2026-04-07T09:04:14.117Z
 estimatedTokens: 329
 keywords: [Dynamic, Output, Expressions, simplest, way]
 ---

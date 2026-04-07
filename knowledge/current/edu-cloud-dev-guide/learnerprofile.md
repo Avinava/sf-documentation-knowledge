@@ -5,7 +5,7 @@ topic: learnerprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.360Z
+lastCollected: 2026-04-07T09:03:44.212Z
 estimatedTokens: 2471
 keywords: [LearnerProfile, learner's, profile, API, version, 63.0, later, Calls, Associated, Objects]
 ---

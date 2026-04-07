@@ -5,7 +5,7 @@ topic: modifying-dom-elements-managed-by
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.145Z
+lastCollected: 2026-04-07T09:04:14.368Z
 estimatedTokens: 735
 keywords: [Modifying, DOM, Elements, Managed, framework, creates, manages, owned, component, want, modify, created, handler, component’s, render]
 ---

@@ -5,7 +5,7 @@ topic: diseasedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.884Z
+lastCollected: 2026-04-07T09:03:55.448Z
 estimatedTokens: 1440
 keywords: [DiseaseDefinition, disease, definition, health, organizations, regularly, monitor, identify, prevent, outbreaks, API, version, 64.0, later, Calls]
 ---

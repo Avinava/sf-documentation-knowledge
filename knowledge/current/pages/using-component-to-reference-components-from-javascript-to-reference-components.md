@@ -6,7 +6,7 @@ topic: using-component-to-reference-components-from-javascript-to-reference-comp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.817Z
+lastCollected: 2026-04-07T09:04:56.578Z
 estimatedTokens: 532
 keywords: [$Component, Components, JavaScript, variable, simplify, referencing, DOM, generated, Visualforce, component, reduce, dependency, overall, structure, Access]
 ---

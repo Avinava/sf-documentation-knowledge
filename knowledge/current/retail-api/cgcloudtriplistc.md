@@ -5,7 +5,7 @@ topic: cgcloudtriplistc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:40.272Z
+lastCollected: 2026-04-07T09:05:21.901Z
 estimatedTokens: 1343
 keywords: [cgcloud__Trip_List__c, Trip, plan, visits, predefined, sequence, customers, API, version, 54.0, later, cgcloud, _Trip, _List, Calls]
 ---

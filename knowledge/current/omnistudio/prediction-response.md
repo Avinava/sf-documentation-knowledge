@@ -5,7 +5,7 @@ topic: prediction-response
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.872Z
+lastCollected: 2026-04-07T09:02:54.501Z
 estimatedTokens: 211
 keywords: [Prediction, Predictions]
 ---

@@ -5,7 +5,7 @@ topic: tenantsecurityalertruleselectedtenant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.839Z
+lastCollected: 2026-04-07T09:04:50.515Z
 estimatedTokens: 832
 keywords: [TenantSecurityAlertRuleSelectedTenant, Stores, Security, Center, alert, rule, tenants, subscribers, API, version, 55.0, later, Calls, Special, Access]
 ---

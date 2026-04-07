@@ -5,7 +5,7 @@ topic: secure-coding-postmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.514Z
+lastCollected: 2026-04-07T09:05:28.111Z
 estimatedTokens: 835
 keywords: [Secure, Coding, PostMessage, Browser’s, Origin, Policy, SOP, prevents, different, origins, accessing, other’s, data, window.postMessage, API]
 ---

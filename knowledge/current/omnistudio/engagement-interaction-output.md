@@ -5,7 +5,7 @@ topic: engagement-interaction-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.213Z
+lastCollected: 2026-04-07T09:02:53.766Z
 estimatedTokens: 571
 keywords: [Engagement, Interaction, Output, representation, fetch, record]
 ---

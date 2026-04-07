@@ -5,7 +5,7 @@ topic: apexremoteobjectmodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.029Z
+lastCollected: 2026-04-07T09:04:58.298Z
 estimatedTokens: 646
 keywords: [apex, remoteObjectModel, sObject, accessible, Visualforce, Remote, Objects, definition, include, shorthand, JavaScript, instead, full, API, especially]
 ---

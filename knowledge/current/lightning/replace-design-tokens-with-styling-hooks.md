@@ -5,7 +5,7 @@ topic: replace-design-tokens-with-styling-hooks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:49.887Z
+lastCollected: 2026-04-07T09:04:15.550Z
 estimatedTokens: 533
 keywords: [Replace, Design, Tokens, Styling, Hooks, customize, Aura, components, SLDS, instead, Custom, work, they, longer, receive]
 ---

@@ -5,7 +5,7 @@ topic: test-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:42.593Z
+lastCollected: 2026-04-07T09:02:14.092Z
 estimatedTokens: 181
 keywords: [Test, creating, contexts, invoking, CanvasLifecycleHandler, mock, data]
 ---

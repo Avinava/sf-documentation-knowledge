@@ -5,7 +5,7 @@ topic: deleting-aura-components-from-managed-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:48.009Z
+lastCollected: 2026-04-07T09:04:12.739Z
 estimatedTokens: 853
 keywords: [Deleting, Aura, Components, Managed, Packages, you’ve, released, package, may, decide, refactor, component, It’s, responsibility, educate]
 ---

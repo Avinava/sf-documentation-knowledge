@@ -5,9 +5,9 @@ topic: redeem-voucher
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.192Z
+lastCollected: 2026-04-07T09:04:17.426Z
 estimatedTokens: 1101
-keywords: [Redeem, Voucher, loyalty, program, member, status, updated, redeemed, date, current]
+keywords: [Redeem, Voucher, loyalty, program, member, status, updated, redeemed, date, current, POST]
 ---
 
 # Redeem Voucher

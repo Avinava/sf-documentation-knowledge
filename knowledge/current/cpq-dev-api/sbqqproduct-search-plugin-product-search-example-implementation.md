@@ -5,7 +5,7 @@ topic: sbqqproduct-search-plugin---product-search-example-implementation
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T09:34:23.562Z
+lastCollected: 2026-04-07T09:03:40.132Z
 estimatedTokens: 39
 keywords: [SBQQ.Product, Search, Plugin, Product, Implementation, SBQQ.ProductSearchPlugin]
 ---

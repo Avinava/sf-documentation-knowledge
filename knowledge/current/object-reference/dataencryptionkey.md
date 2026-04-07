@@ -5,7 +5,7 @@ topic: dataencryptionkey
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:08.028Z
+lastCollected: 2026-04-07T09:04:38.823Z
 estimatedTokens: 2513
 keywords: [DataEncryptionKey, part, Bring, Own, Key, BYOK, feature, users, upload, data, encryption, DEK, generated, Salesforce, Shield]
 ---

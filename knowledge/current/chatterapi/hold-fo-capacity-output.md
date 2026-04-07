@@ -5,7 +5,7 @@ topic: hold-fo-capacity-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.164Z
+lastCollected: 2026-04-07T09:03:32.652Z
 estimatedTokens: 155
 keywords: [Hold, Capacity, Output, fulfillment, order, locations, correspond, action, call]
 ---

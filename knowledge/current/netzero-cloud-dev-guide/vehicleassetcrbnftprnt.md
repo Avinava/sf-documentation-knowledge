@@ -5,7 +5,7 @@ topic: vehicleassetcrbnftprnt
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:00.303Z
+lastCollected: 2026-04-07T09:04:29.266Z
 estimatedTokens: 2697
 keywords: [VehicleAssetCrbnFtprnt, total, carbon, emissions, vehicles, footprint, quantifies, effect, atmospheric, warming, represented, metric, tonnes, dioxide, equivalent]
 ---

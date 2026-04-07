@@ -5,7 +5,7 @@ topic: clinicalservicerequestdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:33.885Z
+lastCollected: 2026-04-07T09:03:54.150Z
 estimatedTokens: 1162
 keywords: [ClinicalServiceRequestDetail, Associates, records, different, objects, clinical, service, record, add, multi-object, junction, API, version, 51.0, later]
 ---

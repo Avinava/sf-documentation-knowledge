@@ -6,7 +6,7 @@ topic: global-variables-functions-and-expression-operators
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.272Z
+lastCollected: 2026-04-07T09:05:00.196Z
 estimatedTokens: 235
 keywords: [Variables, Functions, Expression, Operators, Visualforce, pages, language, formulas—that, anything, inside, evaluated, access, records, currently, context]
 ---

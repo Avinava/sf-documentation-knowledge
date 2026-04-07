@@ -5,7 +5,7 @@ topic: salesforce-scheduler-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.546Z
+lastCollected: 2026-04-07T09:05:26.761Z
 estimatedTokens: 354
 keywords: [Salesforce, Scheduler, Business, APIs, gives, various, developer, resources, simplify, appointment, scheduling]
 ---

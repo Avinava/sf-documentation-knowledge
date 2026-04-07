@@ -5,7 +5,7 @@ topic: learningitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:11.684Z
+lastCollected: 2026-04-07T09:04:43.053Z
 estimatedTokens: 1189
 keywords: [LearningItem, item, requires, users, take, action, including, Learning, Paths, entry, Enablement, program, exercise, linked, content]
 ---

@@ -5,7 +5,7 @@ topic: analytics-asset-collection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:03.947Z
+lastCollected: 2026-04-07T09:03:10.061Z
 estimatedTokens: 162
 keywords: [Analytics, Asset, Collection, assets]
 ---

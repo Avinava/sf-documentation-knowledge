@@ -5,7 +5,7 @@ topic: worktypegroupmemberfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.752Z
+lastCollected: 2026-04-07T09:06:12.454Z
 estimatedTokens: 362
 keywords: [WorkTypeGroupMemberFeed, Feed, tracking, WorkTypeGroupMember]
 ---

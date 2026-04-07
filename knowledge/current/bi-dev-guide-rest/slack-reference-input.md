@@ -5,7 +5,7 @@ topic: slack-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:02.859Z
+lastCollected: 2026-04-07T09:03:08.580Z
 estimatedTokens: 64
 keywords: [Slack, Input, entity]
 ---

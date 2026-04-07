@@ -5,7 +5,7 @@ topic: cgcloudjobdefinitionlistaccountsetc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.812Z
+lastCollected: 2026-04-07T09:05:20.282Z
 estimatedTokens: 1189
 keywords: [Junction, Job, Definition, Customer, API, version, 54.0, later, cgcloud, _Job, _Definition, _List, _Account, _Set, Calls]
 ---

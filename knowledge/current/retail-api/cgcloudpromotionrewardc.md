@@ -5,7 +5,7 @@ topic: cgcloudpromotionrewardc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:39.628Z
+lastCollected: 2026-04-07T09:05:21.180Z
 estimatedTokens: 2244
 keywords: [cgcloud__Promotion_Reward__c, stores, rewards, assigned, reward, group, API, version, 54.0, later, cgcloud, _Promotion, _Reward, Calls, Associated]
 ---

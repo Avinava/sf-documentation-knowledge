@@ -5,7 +5,7 @@ topic: permissionsetassignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.770Z
+lastCollected: 2026-04-07T09:04:46.622Z
 estimatedTokens: 1285
 keywords: [PermissionSetAssignment, user’s, assignment, permission, group, API, version, 22.0, later, Calls, Special, Access, Rules, Usage]
 ---

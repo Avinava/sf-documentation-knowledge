@@ -5,7 +5,7 @@ topic: survey-invitation-settings-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:12.906Z
+lastCollected: 2026-04-07T09:03:23.638Z
 estimatedTokens: 320
 keywords: [Survey, Invitation, Settings, Input, representation, define, participants, respond, expiration, configurations]
 ---

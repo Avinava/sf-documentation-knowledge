@@ -5,7 +5,7 @@ topic: use-built-in-mobile-tools-and-features
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:57.203Z
+lastCollected: 2026-04-07T09:04:25.561Z
 estimatedTokens: 1056
 keywords: [Built-In, Mobile, Tools, Features, write, code, users, devices, configure, environment, mobile-ready]
 ---

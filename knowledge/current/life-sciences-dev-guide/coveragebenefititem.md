@@ -5,7 +5,7 @@ topic: coveragebenefititem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.679Z
+lastCollected: 2026-04-07T09:04:10.146Z
 estimatedTokens: 1483
 keywords: [CoverageBenefitItem, Specific, service, covered, insurance, plan, API, version, 53.0, later, Calls, Associated, Objects]
 ---
@@ -37,7 +37,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | IsInPlanNetwork | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionIndicates whether the benefit is available only in-network (true) or both in-network and out-of-network (false).The default value is 'false'. |
 | IsPreauthorizationRequired | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionSpecifies whether the service must be approved before use.The default value is 'false'. |
 | LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed a record related to this record. |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it’s possible that this record was referenced (LastReferencedDate) and not viewed. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp for when the current user last viewed this record. If this value is null, it's possible that this record was referenced (LastReferencedDate) and not viewed. |
 | MemberId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the member receiving this benefit item.This is a relationship field.Relationship NameMemberRelationship TypeLookupRefers ToAccount |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionName of this coverage benefit item. |
 | Notes | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionAdditional information about this coverage benefit item. |

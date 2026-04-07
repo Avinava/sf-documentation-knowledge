@@ -5,7 +5,7 @@ topic: groupclass
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:59.939Z
+lastCollected: 2026-04-07T09:05:48.622Z
 estimatedTokens: 394
 keywords: [GroupClass, classification, group, members, receive, similar, benefits, classes, include, executives, union, office, workers, Child, employer]
 ---

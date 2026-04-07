@@ -5,7 +5,7 @@ topic: create-an-iam-user
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.267Z
+lastCollected: 2026-04-07T09:04:18.884Z
 estimatedTokens: 264
 keywords: [IAM, User, Identity, Access, Management, manages, permissions, users, applications, AWS, account, assign, independently, maintain, security]
 ---

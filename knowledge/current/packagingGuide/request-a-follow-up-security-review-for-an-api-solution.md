@@ -5,7 +5,7 @@ topic: request-a-follow-up-security-review-for-an-api-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.245Z
+lastCollected: 2026-04-07T09:04:55.617Z
 estimatedTokens: 393
 keywords: [Follow-Up, Security, Review, API, Solution, remediated, vulnerabilities, code, runs, externally, Salesforce, API-only, changed, fix, vulnerabilites]
 ---

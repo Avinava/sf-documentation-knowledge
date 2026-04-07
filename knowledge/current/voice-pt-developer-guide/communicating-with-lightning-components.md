@@ -5,7 +5,7 @@ topic: communicating-with-lightning-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.903Z
+lastCollected: 2026-04-07T09:06:18.316Z
 estimatedTokens: 402
 keywords: [Communicating, Lightning, Components, Service, Cloud, Voice, Partner, Telephony, enable, communication, system, creating, Message, LMS, bridge]
 ---

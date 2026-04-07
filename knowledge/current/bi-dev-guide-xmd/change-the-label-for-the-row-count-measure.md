@@ -5,7 +5,7 @@ topic: change-the-label-for-the-row-count-measure
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.750Z
+lastCollected: 2026-04-07T09:03:16.206Z
 estimatedTokens: 270
 keywords: [Change, Label, Row, Count, Measure, add, appears, “Count, Rows”, whatever, want]
 ---

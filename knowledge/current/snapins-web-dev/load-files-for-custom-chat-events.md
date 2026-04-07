@@ -5,7 +5,7 @@ topic: load-files-for-custom-chat-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.458Z
+lastCollected: 2026-04-07T09:06:14.760Z
 estimatedTokens: 422
 keywords: [Load, Files, Custom, Chat, Events, own, JavaScript, CSS, Embedded, handle, style, scripts, styles, loaded, agent]
 ---

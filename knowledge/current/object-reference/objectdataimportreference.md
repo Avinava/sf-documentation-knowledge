@@ -5,7 +5,7 @@ topic: objectdataimportreference
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.340Z
+lastCollected: 2026-04-07T09:04:45.040Z
 estimatedTokens: 219
 keywords: [ObjectDataImportReference, relationships, associated, objects, showing, source, data, imported, API, version, 57.0, later, Calls, Special, Access]
 ---

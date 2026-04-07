@@ -5,7 +5,7 @@ topic: blngglrulec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.292Z
+lastCollected: 2026-04-07T09:03:17.020Z
 estimatedTokens: 483
 keywords: [blng__GLRule__c, how, transactions, recorded, categorized, General, Ledger, blng, _GLRule, Calls]
 ---

@@ -5,7 +5,7 @@ topic: request-an-extension-for-a-test-drive-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.910Z
+lastCollected: 2026-04-07T09:04:54.961Z
 estimatedTokens: 244
 keywords: [Extension, Test, Drive, Org, orgs, expire, year, prevent, expiring, log, support, case]
 ---

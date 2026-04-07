@@ -5,7 +5,7 @@ topic: display-flow-stages-by-wrapping-a-progress-indicator
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.434Z
+lastCollected: 2026-04-07T09:04:13.339Z
 estimatedTokens: 712
 keywords: [Display, Flow, Stages, Wrapping, Progress, Indicator, you’re, tracking, runtime, creating, custom, component, wraps, lightning, flow’s]
 ---

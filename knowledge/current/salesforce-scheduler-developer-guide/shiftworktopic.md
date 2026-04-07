@@ -5,7 +5,7 @@ topic: shiftworktopic
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.839Z
+lastCollected: 2026-04-07T09:05:27.147Z
 estimatedTokens: 1065
 keywords: [ShiftWorkTopic, relationship, Shift, Work, Group, Salesforce, Scheduler, API, version, 56.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: implement-quote-creation-functionality-for-insurance-representatives
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.066Z
+lastCollected: 2026-04-07T09:04:04.095Z
 estimatedTokens: 405
 keywords: [Implement, Quote, Creation, Functionality, Insurance, Representatives, user, journey, policyholder, contacts, company, representative, guides, identifying, coverage]
 ---

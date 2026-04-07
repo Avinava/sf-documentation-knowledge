@@ -5,7 +5,7 @@ topic: analyticsworkspace
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:47.055Z
+lastCollected: 2026-04-07T09:05:31.737Z
 estimatedTokens: 319
 namespace: NamespacePrefix
 keywords: [AnalyticsWorkspace, Tableau, workspace, API, version, 54.0, later]

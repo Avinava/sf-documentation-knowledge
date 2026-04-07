@@ -5,7 +5,7 @@ topic: sql-filter-parameters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.007Z
+lastCollected: 2026-04-07T09:05:25.924Z
 estimatedTokens: 74
 keywords: [SQL, Filter, node, recipe]
 ---

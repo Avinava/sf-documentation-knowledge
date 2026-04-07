@@ -5,7 +5,7 @@ topic: ceiln
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.437Z
+lastCollected: 2026-04-07T09:03:14.108Z
 estimatedTokens: 55
 keywords: [ceil, nearest, equal, greater, any, real, numeric, range, -1e308, 1e308, function, foreach, statement]
 ---

@@ -5,7 +5,7 @@ topic: component-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.699Z
+lastCollected: 2026-04-07T09:03:46.067Z
 estimatedTokens: 563
 keywords: [Component, Let’s, look, sample, code, Lightning, web, includes, four, editable, lightningCommunity__Page, tells, Experience, Builder, drag-and-drop]
 ---

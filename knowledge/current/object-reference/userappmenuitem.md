@@ -5,7 +5,7 @@ topic: userappmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:18.702Z
+lastCollected: 2026-04-07T09:04:51.699Z
 estimatedTokens: 819
 keywords: [UserAppMenuItem, organization-wide, settings, items, app, menu, Launcher, requesting, user, access, Setup, API, version, 35.0, later]
 ---

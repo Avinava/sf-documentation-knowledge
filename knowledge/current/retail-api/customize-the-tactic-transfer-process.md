@@ -5,7 +5,7 @@ topic: customize-the-tactic-transfer-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:41.007Z
+lastCollected: 2026-04-07T09:05:22.713Z
 estimatedTokens: 608
 keywords: [Customize, Tactic, Transfer, Process, modify, promotion, transferred, callable, Apex, customization, hook]
 ---

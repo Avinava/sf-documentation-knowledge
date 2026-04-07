@@ -5,7 +5,7 @@ topic: transaction-journals-simulation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.119Z
+lastCollected: 2026-04-07T09:04:17.328Z
 estimatedTokens: 639
 keywords: [Transaction, Journals, Simulation, Runs, determine, how, processed, against, their, corresponding, loyalty, program, processes]
 ---

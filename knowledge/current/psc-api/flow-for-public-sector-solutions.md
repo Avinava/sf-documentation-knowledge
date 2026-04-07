@@ -5,7 +5,7 @@ topic: flow-for-public-sector-solutions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:32.541Z
+lastCollected: 2026-04-07T09:05:12.036Z
 estimatedTokens: 331
 keywords: [Flow, Sector, Solutions, metadata, associated, application, navigates, users, series, screens, query, records, database, execute, logic]
 ---

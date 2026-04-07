@@ -5,7 +5,7 @@ topic: soapapieventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:17.311Z
+lastCollected: 2026-04-07T09:04:49.826Z
 estimatedTokens: 1772
 keywords: [SoapApiEventLog, SOAP, API, events, contain, org's, activity, version, 61.0, later, Calls, Special, Access, Rules]
 ---

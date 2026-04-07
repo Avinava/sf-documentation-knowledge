@@ -5,7 +5,7 @@ topic: crm-analytics-rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:02.595Z
+lastCollected: 2026-04-07T09:03:08.139Z
 estimatedTokens: 1851
 keywords: [CRM, Analytics, REST, Resources, API, sometimes, endpoints]
 ---

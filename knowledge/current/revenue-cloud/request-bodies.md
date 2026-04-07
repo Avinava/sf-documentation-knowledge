@@ -5,7 +5,7 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:15.182Z
+lastCollected: 2026-04-07T09:01:57.117Z
 estimatedTokens: 4416
 keywords: [Bodies, Billing, APIs, Salesforce, Pricing, API, Product, Catalog, Management, Configurator, Discovery, Usage]
 ---

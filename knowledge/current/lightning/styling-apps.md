@@ -5,7 +5,7 @@ topic: styling-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.967Z
+lastCollected: 2026-04-07T09:04:12.672Z
 estimatedTokens: 726
 keywords: [Styling, Apps, app, special, top-level, component, whose, markup, resource, any, put, CSS, bundle, <appName>.css]
 ---

@@ -5,7 +5,7 @@ topic: schedulingadherencesummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.600Z
+lastCollected: 2026-04-07T09:04:48.912Z
 estimatedTokens: 1171
 keywords: [SchedulingAdherenceSummary, daily, shift, adherence, data, service, resource, territory, job, profile, specific, date, API, version, 54.0]
 ---

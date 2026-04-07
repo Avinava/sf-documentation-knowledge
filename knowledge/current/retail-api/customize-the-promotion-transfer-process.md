@@ -5,7 +5,7 @@ topic: customize-the-promotion-transfer-process
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:37.167Z
+lastCollected: 2026-04-07T09:05:18.037Z
 estimatedTokens: 655
 keywords: [Customize, Promotion, Transfer, Process, modify, transferred, callable, Apex, customization, hook]
 ---

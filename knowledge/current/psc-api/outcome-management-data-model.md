@@ -5,8 +5,8 @@ topic: outcome-management-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:32.489Z
-estimatedTokens: 196
+lastCollected: 2026-04-07T09:05:11.931Z
+estimatedTokens: 193
 keywords: [Outcome, Management, Data, Model, objects, relationships]
 ---
 
@@ -23,7 +23,7 @@ Learn about the objects and relationships in the Outcome Management data model.
 | --- |
 
 
-![Diagram showing objects included in Outcome Management and their relationships to each other.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Foutcome_management%2Fimages%2Foutcome_management_data_model.png&folder=psc_api)
+![Diagram showing objects included in Outcome Management and their relationships to each other.](/docs/resources/img/en-us/260.0?doc_id=industries%2Foutcome_management%2Fimages%2Foutcome_management_data_model.png&folder=psc_api)
 
 To view a larger version, right-click or Ctrl+click the image and select **Open Image in New Tab**.
 

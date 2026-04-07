@@ -5,7 +5,7 @@ topic: decision-matrix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:49.778Z
+lastCollected: 2026-04-07T09:02:52.414Z
 estimatedTokens: 108
 keywords: [Decision, Matrix, Retrieve, record, known, calculation, looks, multiple, input, dimensions, corresponding, output]
 ---

@@ -5,7 +5,7 @@ topic: return-http-headers-for-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.635Z
+lastCollected: 2026-04-07T09:02:35.720Z
 estimatedTokens: 141
 keywords: [HTTP, Process, Approvals, sending, resource, gives, chance, retrieving, content, REST, API, version, 30.0, later]
 ---

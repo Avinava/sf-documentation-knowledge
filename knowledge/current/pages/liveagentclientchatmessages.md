@@ -5,7 +5,7 @@ topic: liveagentclientchatmessages
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:22.715Z
+lastCollected: 2026-04-07T09:04:57.856Z
 estimatedTokens: 196
 keywords: [liveAgent, clientChatMessages, area, chat, window, displays, system, status, messages, session, disconnected, Attributes]
 ---

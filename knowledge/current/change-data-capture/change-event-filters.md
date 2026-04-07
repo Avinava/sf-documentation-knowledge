@@ -5,7 +5,7 @@ topic: change-event-filters
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.609Z
+lastCollected: 2026-04-07T09:03:18.585Z
 estimatedTokens: 861
 keywords: [Change, Event, Filters, Filter, stream, events, adding, expression, channel, member, contain, Salesforce, entity, part, ChangeEventHeader]
 ---

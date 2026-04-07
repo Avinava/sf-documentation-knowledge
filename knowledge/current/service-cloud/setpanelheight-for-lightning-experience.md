@@ -5,7 +5,7 @@ topic: setpanelheight-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:54.031Z
+lastCollected: 2026-04-07T09:03:03.910Z
 estimatedTokens: 249
 keywords: [setPanelHeight, Lightning, Experience, utility, panel’s, height, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
 ---

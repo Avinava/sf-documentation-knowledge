@@ -5,8 +5,8 @@ topic: platform-event-processing-at-scale-with-parallel-subscriptions-for-apex-t
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.925Z
-estimatedTokens: 1418
+lastCollected: 2026-04-07T09:05:05.300Z
+estimatedTokens: 1411
 keywords: [Platform, Event, Processing, Scale, Parallel, Subscriptions, Apex, Triggers, speed, trigger, process, events, simultaneously, instead, stream]
 ---
 
@@ -36,7 +36,7 @@ Parallel Subscriptions require a custom platform event with a recent event schem
 
 This diagram shows the flow of events from the event bus to the parallel subscriptions. For simplicity, the event bus in the diagram contains events for only the custom platform event that the Apex trigger is subscribed to.
 
-![Parallel subscriptions for an Apex trigger with three partitions](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform_events_parallel_subs.png&folder=platform_events)
+![Parallel subscriptions for an Apex trigger with three partitions](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform_events_parallel_subs.png&folder=platform_events)
 
 ## Parallel Subscriptions in Setup
 
@@ -44,7 +44,7 @@ When one or more Apex triggers are configured for parallel subscriptions, the Pa
 
 This image shows a trigger configured with three partitions in the Parallel Subscriptions related list. The partition key for the trigger is the Order\_Number\_\_c custom field.
 
-![Parallel subscriptions related list in Setup](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fplatform_events%2Fimages%2Fplatform_events_ps_related_list.png&folder=platform_events)
+![Parallel subscriptions related list in Setup](/docs/resources/img/en-us/260.0?doc_id=platform_events%2Fimages%2Fplatform_events_ps_related_list.png&folder=platform_events)
 
 -   **[Order of Events in Parallel Subscriptions](atlas.en-us.platform_events.meta/platform_events/platform_events_ps_order_events.htm)**
     The order of events that get distributed to the parallel subscriptions doesn't always match the order of events in the event bus.

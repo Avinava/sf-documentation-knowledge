@@ -5,7 +5,7 @@ topic: flow-for-process-compliance-navigator
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.150Z
+lastCollected: 2026-04-07T09:02:57.723Z
 estimatedTokens: 252
 keywords: [Flow, Process, Compliance, Navigator, metadata, associated, application, users, series, pages, query, records, database, execute, logic]
 ---

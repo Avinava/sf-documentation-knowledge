@@ -5,7 +5,7 @@ topic: promotion-details-get-put
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.220Z
+lastCollected: 2026-04-07T09:04:17.460Z
 estimatedTokens: 764
 keywords: [Promotion, PUT, Retrieve, record]
 ---

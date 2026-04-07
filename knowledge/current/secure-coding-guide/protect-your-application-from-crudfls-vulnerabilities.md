@@ -5,7 +5,7 @@ topic: protect-your-application-from-crudfls-vulnerabilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.382Z
+lastCollected: 2026-04-07T09:05:27.952Z
 estimatedTokens: 3003
 keywords: [Protect, Application, CRUD, FLS, Vulnerabilities, Implement, secure, coding, practices, Apex, Visualforce, enforcing, object-level, field-level, record-level]
 ---

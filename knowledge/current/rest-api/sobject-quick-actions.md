@@ -5,7 +5,7 @@ topic: sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:41.135Z
+lastCollected: 2026-04-07T09:02:36.100Z
 estimatedTokens: 386
 keywords: [sObject, Quick, Actions, Access, object’s, action, resource, REST, API, version, 28.0, later]
 ---

@@ -5,7 +5,7 @@ topic: blngusagec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.819Z
+lastCollected: 2026-04-07T09:03:17.602Z
 estimatedTokens: 1866
 keywords: [blng__Usage__c, amount, service, consumed, over, period, time, blng, _Usage, Calls]
 ---

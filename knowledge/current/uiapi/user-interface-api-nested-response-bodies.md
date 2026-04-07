@@ -5,8 +5,8 @@ topic: user-interface-api-nested-response-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.986Z
-estimatedTokens: 3208
+lastCollected: 2026-04-07T09:06:16.933Z
+estimatedTokens: 3519
 keywords: [User, API, Nested, Bodies, top-level]
 ---
 
@@ -20,6 +20,12 @@ These response bodies are nested in top-level response bodies.
 
 A request to a resource always returns an [HTTP status code](atlas.en-us.uiapi.meta/uiapi/ui_api_errors.htm#ui_api_errors "The response header contains an HTTP status code. If the response isn’t successful, the response body contains an error message, and if appropriate, information about the field or object where the error occurred."), whether the request was successful or not.
 
+-   **[Advanced Lookup Display Info](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_advanced_lookup_display_info.htm)**
+    Search lookups advanced display information.
+-   **[Advanced Lookup Display Info Field](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_advanced_lookup_display_info_field.htm)**
+    Search lookups advanced display field information.
+-   **[Advanced Lookup Info](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_advanced_lookup_info.htm)**
+    Advanced search lookup information.
 -   **[Batch Result Item](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_batch_result.htm)**
     The results of one subrequest in a batch request.
 -   **[Canvas Layout Component](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_canvas_layout_component.htm)**
@@ -30,6 +36,10 @@ A request to a resource always returns an [HTTP status code](atlas.en-us.uiapi.m
     The child relationship on a parent object. Relationships are connections between records. Use relationships to display data about related object records on a record's detail page.
 -   **[Custom Link Layout Component](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_custom_link_layout_component.htm)**
     A custom link component on a record page layout.
+-   **[Display Layout](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_display_layout.htm)**
+    Search lookups target display layout metadata.
+-   **[Display Layout and Matching Info](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_display_layout_and_matching_info.htm)**
+    Search lookups target display layout and matching information.
 -   **[Duplicate Record Error](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_duplicate_record_error.htm)**
     Information about duplicate record errors. Duplicate rules are used to control whether and when you can save duplicate records within Salesforce. Duplicate rules tell Salesforce what action to take when you attempt to create a duplicate record.
 -   **[Duplicate Result Info](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_duplicate_result_info.htm)**
@@ -92,6 +102,10 @@ A request to a resource always returns an [HTTP status code](atlas.en-us.uiapi.m
     User preferences for the list view.
 -   **[Location Field](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_location_field.htm)**
     A complex location value for a record field.
+-   **[Lookup Metadata](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_metadata.htm)**
+    Search lookups metadata.
+-   **[Lookup Metadata Target Info](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_lookup_metadata_target_info.htm)**
+    Search lookups target metadata.
 -   **[Match](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_match.htm)**
     A group of records that match the duplicate rules.
 -   **[Match Result](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_match_result.htm)**
@@ -100,6 +114,8 @@ A request to a resource always returns an [HTTP status code](atlas.en-us.uiapi.m
     Information about the results of a match.
 -   **[Match Rule](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_match_rule.htm)**
     A match rule defines how duplicate records are identified in duplicate rules and duplicate jobs. Learn about one of the match rules for the specified object, including the match rule's name and the fields that the match rule checks.
+-   **[Matching Info](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_matching_info.htm)**
+    Search lookups target matching information.
 -   **[Navigation Item](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_nav_item.htm)**
     The metadata for a single navigation item (tab).
 -   **[Object Action](atlas.en-us.uiapi.meta/uiapi/ui_api_responses_object_action.htm)**
@@ -166,12 +182,12 @@ A request to a resource always returns an [HTTP status code](atlas.en-us.uiapi.m
 ## Related Topics
 
 - HTTP status code (atlas.en-us.uiapi.meta/uiapi/ui_api_errors.htm)
+- Advanced Lookup Display Info (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_advanced_lookup_display_info.htm)
+- Advanced Lookup Display Info Field (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_advanced_lookup_display_info_field.htm)
+- Advanced Lookup Info (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_advanced_lookup_info.htm)
 - Batch Result Item (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_batch_result.htm)
 - Canvas Layout Component (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_canvas_layout_component.htm)
 - Case Status Picklist Value Attributes (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_case_status_picklist_values.htm)
 - Child Relationship (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_child_relationship.htm)
 - Custom Link Layout Component (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_custom_link_layout_component.htm)
-- Duplicate Record Error (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_duplicate_record_error.htm)
-- Duplicate Result Info (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_duplicate_result_info.htm)
-- Duplicate Rule (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_duplicate_rule.htm)
-- Duplicate Rule Filter (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_duplicate_rule_filter.htm)
+- Display Layout (atlas.en-us.uiapi.meta/uiapi/ui_api_responses_display_layout.htm)

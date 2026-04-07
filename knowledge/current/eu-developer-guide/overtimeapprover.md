@@ -5,7 +5,7 @@ topic: overtimeapprover
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.282Z
+lastCollected: 2026-04-07T09:03:45.478Z
 estimatedTokens: 275
 keywords: [OvertimeApprover, person, approves, overtime, hours, API, version, 62.0, later, Calls]
 ---

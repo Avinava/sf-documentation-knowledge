@@ -5,7 +5,7 @@ topic: providersamplelimit
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.969Z
+lastCollected: 2026-04-07T09:04:11.561Z
 estimatedTokens: 837
 keywords: [ProviderSampleLimit, sample, limits, remaining, quantity, applied, account, product, API, version, 65.0, later, Calls, Associated, Objects]
 ---

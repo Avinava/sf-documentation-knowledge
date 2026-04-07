@@ -5,7 +5,7 @@ topic: uninstall-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:18.800Z
+lastCollected: 2026-04-07T09:06:13.856Z
 estimatedTokens: 799
 keywords: [Uninstall, Unlocked, Package, org, Salesforce, CLI, Setup, packages, components, well, any, deprecated, previously, associated, deleted]
 ---

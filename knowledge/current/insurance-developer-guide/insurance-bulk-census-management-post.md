@@ -5,7 +5,7 @@ topic: insurance-bulk-census-management-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.163Z
+lastCollected: 2026-04-07T09:04:02.613Z
 estimatedTokens: 542
 keywords: [Insurance, Bulk, Census, Management, POST, Process, group, data]
 ---
@@ -76,7 +76,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/census-management/group-censuses/0rlxx000000001aEAA/group-census-members/bulk-process
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/census-management/group-censuses/0rlxx000000001aEAA/group-census-members/bulk-process
 ```
 
 ```

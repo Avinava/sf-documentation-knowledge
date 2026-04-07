@@ -5,7 +5,7 @@ topic: contentversionrating
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.236Z
+lastCollected: 2026-04-07T09:05:40.991Z
 estimatedTokens: 234
 keywords: [ContentVersionRating, rating, version, file, API, 42.0, later]
 ---

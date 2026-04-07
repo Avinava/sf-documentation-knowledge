@@ -5,7 +5,7 @@ topic: timeslothistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.394Z
+lastCollected: 2026-04-07T09:06:09.378Z
 estimatedTokens: 273
 keywords: [TimeSlotHistory, history, changes, made, tracked, time, slot, API, version, 38.0, later]
 ---

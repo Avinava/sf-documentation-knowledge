@@ -5,7 +5,7 @@ topic: log-in-with-hardware-2fa
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.286Z
+lastCollected: 2026-04-07T09:03:41.277Z
 estimatedTokens: 223
 keywords: [Log, Hardware, 2FA, how, Data, Loader, OAuth]
 ---

@@ -5,7 +5,7 @@ topic: webstoreinventorysource
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:17.169Z
+lastCollected: 2026-04-07T09:06:11.684Z
 estimatedTokens: 499
 keywords: [WebStoreInventorySource, configure, inventory, source, webstore, API, version, 57.0, later]
 ---

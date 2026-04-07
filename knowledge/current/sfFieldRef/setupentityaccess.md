@@ -5,7 +5,7 @@ topic: setupentityaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:13.760Z
+lastCollected: 2026-04-07T09:06:07.088Z
 estimatedTokens: 239
 keywords: [SetupEntityAccess, enabled, setup, entity, access, settings, Apex, classes, parent, PermissionSet, API, version, 25.0, later]
 ---

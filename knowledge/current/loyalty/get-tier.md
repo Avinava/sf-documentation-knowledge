@@ -5,7 +5,7 @@ topic: get-tier
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.989Z
+lastCollected: 2026-04-07T09:04:18.456Z
 estimatedTokens: 289
 keywords: [Tier, Retrieve, current, loyalty, program, member, REST, HTTP, Inputs, Outputs]
 ---

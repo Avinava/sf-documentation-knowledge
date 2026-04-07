@@ -5,7 +5,7 @@ topic: objecttype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:24.393Z
+lastCollected: 2026-04-07T09:05:00.340Z
 estimatedTokens: 417
 keywords: [$ObjectType, merge, referencing, standard, custom, objects, Accounts, Cases, Opportunities, their, Usage]
 ---

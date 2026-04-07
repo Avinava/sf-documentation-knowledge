@@ -5,7 +5,7 @@ topic: learnerpathway
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.326Z
+lastCollected: 2026-04-07T09:03:44.176Z
 estimatedTokens: 889
 keywords: [LearnerPathway, learner's, planned, path, completion, their, enrolled, learning, programs, API, version, 61.0, later, Calls, Associated]
 ---

@@ -5,7 +5,7 @@ topic: networkreferencedobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.381Z
+lastCollected: 2026-04-07T09:04:20.254Z
 estimatedTokens: 332
 keywords: [NetworkReferencedObject, junction, associates, loyalty, program, Experience, Cloud, site, API, version, 51.0, later, Calls]
 ---

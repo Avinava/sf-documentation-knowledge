@@ -5,7 +5,7 @@ topic: activityhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:04.029Z
+lastCollected: 2026-04-07T09:04:34.017Z
 estimatedTokens: 4088
 keywords: [ActivityHistory, read-only, closed, activities—past, events, tasks—related, includes, activities, contacts, phone, calls, organization, uses, Salesforce, CRM]
 ---

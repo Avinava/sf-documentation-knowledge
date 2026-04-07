@@ -5,7 +5,7 @@ topic: core-concept-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-04-05T00:23:15.885Z
+lastCollected: 2026-04-07T09:01:57.538Z
 estimatedTokens: 1624
 keywords: [Core, Concept, Examples, illustrate, Constraint, Modeling, Language, CML, concepts, including, relationships, constraints, Regex, Variable, Key]
 ---

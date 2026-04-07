@@ -5,7 +5,7 @@ topic: field-and-type-differences-in-salesforce-apps-and-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.138Z
+lastCollected: 2026-04-07T09:04:32.950Z
 estimatedTokens: 630
 keywords: [Differences, Salesforce, Apps, APIs, possible, changed, noninclusive, terms, align, company, Equality, maintained, certain, avoid, any]
 ---

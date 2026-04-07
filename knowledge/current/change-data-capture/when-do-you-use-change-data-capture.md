@@ -5,7 +5,7 @@ topic: when-do-you-use-change-data-capture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:09.783Z
+lastCollected: 2026-04-07T09:03:18.907Z
 estimatedTokens: 989
 keywords: [Change, Data, Capture, think, part, real-time, replication, process, cloud, Reliability]
 ---

@@ -5,7 +5,7 @@ topic: guidedselectionrepresentation-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:13.881Z
+lastCollected: 2026-04-07T09:01:56.237Z
 estimatedTokens: 5575
 keywords: [GuidedSelectionRepresentation, represent, product, guided, selection, flow, Discovery, provide, structured, processes, additionalFields, attributeCategories, availabilityDate, catalogs, categories]
 ---

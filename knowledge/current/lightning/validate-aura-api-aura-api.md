@@ -5,7 +5,7 @@ topic: validate-aura-api-aura-api-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:48.028Z
+lastCollected: 2026-04-07T09:04:12.767Z
 estimatedTokens: 538
 keywords: [Validate, Aura, API, aura-api, rule, verifies, framework, APIs, according, published, documentation, undocumented, features, disallowed, Further]
 ---

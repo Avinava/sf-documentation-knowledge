@@ -5,7 +5,7 @@ topic: stagecondition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:31.797Z
+lastCollected: 2026-04-07T09:03:51.231Z
 estimatedTokens: 470
 keywords: [StageCondition, collection, rules, transition, criteria, stage, change, including, state, logic, API, version, 62.0, later, SOAP]
 ---

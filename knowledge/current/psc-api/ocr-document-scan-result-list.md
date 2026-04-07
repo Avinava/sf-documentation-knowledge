@@ -5,7 +5,7 @@ topic: ocr-document-scan-result-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.721Z
+lastCollected: 2026-04-07T09:05:10.807Z
 estimatedTokens: 89
 keywords: [OCR, Document, Scan, Result, Output, representation, results, IDs]
 ---

@@ -5,7 +5,7 @@ topic: quick-start-control-which-tasks-the-sales-team-can-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.401Z
+lastCollected: 2026-04-07T09:05:16.928Z
 estimatedTokens: 277
 keywords: [Quick, Start, Control, Tasks, Sales, Team, Access, restriction, rule, members]
 ---

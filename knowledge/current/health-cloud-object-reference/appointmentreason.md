@@ -5,7 +5,7 @@ topic: appointmentreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:34.820Z
+lastCollected: 2026-04-07T09:03:55.358Z
 estimatedTokens: 1242
 keywords: [AppointmentReason, patient’s, reason, making, appointment, self-scheduling, Intelligent, Management, API, version, 53.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: use-the-immediate-attribute-carefully
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.886Z
+lastCollected: 2026-04-07T09:04:56.679Z
 estimatedTokens: 239
 keywords: [immediate, Attribute, Carefully, Visualforce, components, execute, action, processing, any, validation, rules, associated, component, executes, navigates]
 ---

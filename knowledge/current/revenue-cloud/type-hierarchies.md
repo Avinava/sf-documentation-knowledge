@@ -5,7 +5,7 @@ topic: type-hierarchies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:16.112Z
+lastCollected: 2026-04-07T09:01:57.680Z
 estimatedTokens: 770
 keywords: [Hierarchies, Constraint, Modeling, Language, CML, supports, inheritance, overriding, allow, establishing, models, become, modular, efficient, How]
 ---

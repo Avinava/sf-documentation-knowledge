@@ -5,7 +5,7 @@ topic: form-verification-display-record-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:31.032Z
+lastCollected: 2026-04-07T09:05:09.583Z
 estimatedTokens: 135
 keywords: [Form, Verification, Display, Record, Output, representation]
 ---

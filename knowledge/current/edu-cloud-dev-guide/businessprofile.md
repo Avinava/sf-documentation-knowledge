@@ -5,7 +5,7 @@ topic: businessprofile
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.979Z
+lastCollected: 2026-04-07T09:03:43.723Z
 estimatedTokens: 472
 keywords: [BusinessProfile, business, license, permit, application, API, version, 64.0, later, Calls]
 ---

@@ -5,7 +5,7 @@ topic: create-a-private-key-and-self-signed-digital-certificate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.062Z
+lastCollected: 2026-04-07T09:06:12.845Z
 estimatedTokens: 949
 keywords: [Key, Self-Signed, Digital, Certificate, Authorizing, org, login, jwt, command, requires, sign, highly, recommend, own, issued]
 ---

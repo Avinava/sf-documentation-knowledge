@@ -5,7 +5,7 @@ topic: email-template-dmo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:32.508Z
+lastCollected: 2026-04-07T09:02:08.570Z
 estimatedTokens: 1226
 keywords: [Email, Template, DMO, Data, Cloud, model, standard, form, message, personalized, customized, campaign, API, Category, Primary]
 ---

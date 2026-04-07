@@ -5,7 +5,7 @@ topic: provideractivitygoalmeasure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:46.900Z
+lastCollected: 2026-04-07T09:04:11.492Z
 estimatedTokens: 2115
 keywords: [ProviderActivityGoalMeasure, goal, measurement, activity, API, version, 65.0, later, Calls, Associated, Objects]
 ---

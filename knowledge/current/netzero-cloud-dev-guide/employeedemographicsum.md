@@ -5,7 +5,7 @@ topic: employeedemographicsum
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:59.026Z
+lastCollected: 2026-04-07T09:04:27.864Z
 estimatedTokens: 2457
 keywords: [EmployeeDemographicSum, statistics, employees, their, demographic, employee, count, age, group, gender, region, API, version, 57.0, later]
 ---

@@ -5,7 +5,7 @@ topic: listviewevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.808Z
+lastCollected: 2026-04-07T09:05:06.402Z
 estimatedTokens: 3433
 keywords: [ListViewEvent, Tracks, users, access, data, views, Lightning, Experience, Salesforce, Classic, API, doesn’t, track, Setup, entities]
 ---
@@ -57,7 +57,7 @@ Generate real-time events and create Transaction Security Policies when users ac
 | FilterCriteria | TypejsonPropertiesNillableDescriptionA JSON string that represents the list view’s filter criteria at the time the event was captured.ExampleHere’s a JSON string that represents filter criteria for an accounts list view. The list view shows only accounts of type “Prospect”.{"whereCondition":      {"type":"soqlCondition","field":"Type",       "operator":"equals","values":["'Prospect'"]} } |
 | ListViewId | TypereferencePropertiesNillableDescriptionThe ID of the list view associated with this event. If blank, the list view is a default list view (such as the list view that displays when a user clicks the Groups tab in Salesforce Classic) and not explicitly created by a user. For example, 00BB0000001c73kMAA. |
 | LoginHistoryId | TypereferencePropertiesNillableDescriptionTracks a user session so you can correlate user activity with a particular series of list view events. This field is also available in the LoginEvent, AuthSession, and LoginHistory objects, making it easier to trace events back to a user’s original authentication. For example, 0YaB000002knVQLKA2. |
-| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user’s login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
+| LoginKey | TypestringPropertiesNillableDescriptionThe string that ties together all events in a given user's login session. The session starts with a login event and ends with either a logout event or the user session expiring. For example, lUqjLPQTWRdvRG4. |
 | Name | TypestringPropertiesNillableDescriptionThe display name of the list view. If blank, the list view is a default list view (such as the list view that displays when a user clicks the Groups tab in Salesforce Classic) and not explicitly created by a user. For example, All Accounts and All Open Leads. |
 | NumberOfColumns | TypeintPropertiesNillableDescriptionThe number of columns in the list view. |
 | OrderBy | TypestringPropertiesNillableDescriptionThe column that the list view is sorted by. For example, if a list view of accounts is sorted alphabetically by name, the OrderBy value is [Name ASC NULLS FIRST, Id ASC NULLS FIRST]. If the list is sorted alphabetically by type, the OrderBy value is [Type ASC NULLS FIRST, Id ASC NULLS FIRST]. |

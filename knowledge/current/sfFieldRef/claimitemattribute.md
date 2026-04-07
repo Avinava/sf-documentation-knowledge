@@ -5,7 +5,7 @@ topic: claimitemattribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.060Z
+lastCollected: 2026-04-07T09:05:39.468Z
 estimatedTokens: 279
 keywords: [ClaimItemAttribute, attributes, claim, item, API, version, 65.0, later]
 ---

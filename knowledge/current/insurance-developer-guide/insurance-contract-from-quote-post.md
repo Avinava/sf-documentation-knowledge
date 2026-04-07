@@ -5,7 +5,7 @@ topic: insurance-contract-from-quote-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:40.090Z
+lastCollected: 2026-04-07T09:04:02.506Z
 estimatedTokens: 315
 keywords: [Insurance, Contract, Quote, POST, group, benefits, API, supports, asynchronous, operation, long-running, conversions]
 ---
@@ -70,7 +70,7 @@ Response body for POST
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/insurance/contracts
+https://yourInstance.salesforce.com/services/data/v/connect/insurance/contracts
 ```
 
 ```

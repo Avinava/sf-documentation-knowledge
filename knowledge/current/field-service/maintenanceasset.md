@@ -5,7 +5,7 @@ topic: maintenanceasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:50.201Z
+lastCollected: 2026-04-07T09:03:01.747Z
 estimatedTokens: 730
 keywords: [MaintenanceAsset, asset, covered, maintenance, plan, service, Assets, associated, multiple, plans, Calls, Special, Access, Rules, Objects]
 ---

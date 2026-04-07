@@ -5,7 +5,7 @@ topic: dml-statements-vs-database-class-methods
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:45.054Z
+lastCollected: 2026-04-07T09:02:34.171Z
 estimatedTokens: 720
 keywords: [DML, Statements, Database, Apex, offers, two, ways, perform, operations, flexibility, how, data, straightforward, result, exceptions]
 ---

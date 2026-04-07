@@ -6,7 +6,7 @@ topic: are-the-orgs-that-i-create-in-the-environment-hub-the-same-as-the-ones-i-
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.839Z
+lastCollected: 2026-04-07T09:04:54.822Z
 estimatedTokens: 131
 keywords: [orgs, Environment, Hub, ones, created, Partner, Portal, Yes, identical]
 ---

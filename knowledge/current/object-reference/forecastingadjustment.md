@@ -5,7 +5,7 @@ topic: forecastingadjustment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:10.578Z
+lastCollected: 2026-04-07T09:04:41.830Z
 estimatedTokens: 2326
 keywords: [ForecastingAdjustment, individual, forecast, manager’s, adjustment, subordinate’s, child, territory’s, via, ForecastingItem, API, versions, 26.0, later, different]
 ---

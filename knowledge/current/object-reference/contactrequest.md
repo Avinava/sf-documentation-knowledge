@@ -5,7 +5,7 @@ topic: contactrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:06.964Z
+lastCollected: 2026-04-07T09:04:37.488Z
 estimatedTokens: 1659
 keywords: [ContactRequest, customer’s, support, back, issue, API, version, 45.0, later, Calls, Usage, Associated, Objects]
 ---

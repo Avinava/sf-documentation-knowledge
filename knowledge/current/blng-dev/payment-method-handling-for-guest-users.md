@@ -5,7 +5,7 @@ topic: payment-method-handling-for-guest-users
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:07.941Z
+lastCollected: 2026-04-07T09:03:16.527Z
 estimatedTokens: 381
 keywords: [Payment, Handling, Guest, Users, Billing, package, automatically, creates, PaymentMethod, objects, processing, payments, Lightning, Platform, site]
 ---

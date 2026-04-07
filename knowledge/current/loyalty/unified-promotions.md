@@ -5,8 +5,8 @@ topic: unified-promotions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.715Z
-estimatedTokens: 546
+lastCollected: 2026-04-07T09:04:18.094Z
+estimatedTokens: 547
 keywords: [Unified, Promotions, Output, representation, promotion]
 ---
 
@@ -26,7 +26,7 @@ JSON example
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| additionalFieldValues | Additional Attributes Output | Additional details of the promotion. | Small, 60.0 | 60.0 |
+| additional​FieldValues | Additional Attributes Output | Additional details of the promotion. | Small, 60.0 | 60.0 |
 | businessUnit | Name And Id Output [] | ID or name of the Marketing Cloud business unit associated with the promotion. | Small, 60.0 | 60.0 |
 | currencyIsoCode | String | ISO code of the active currency associated with the promotion. | Small, 60.0 | 60.0 |
 | description | String | Description of the promotion. | Small, 60.0 | 60.0 |
@@ -34,17 +34,17 @@ JSON example
 | endDateTime | String | Date and time until which the promotion can be applied for customers. | Small, 60.0 | 60.0 |
 | id | String | ID of the promotion. | Small, 60.0 | 60.0 |
 | isAutomatic | Boolean | Indicates whether the promotion is automatically applied for eligible carts (true) or not (false). | Small, 63.0 | 63.0 |
-| isEmailActivated | Boolean | Indicates whether the promotion's email has been activated (true) or not (false). | Small, 60.0 | Small, 60.0 |
+| isEmail​Activated | Boolean | Indicates whether the promotion's email has been activated (true) or not (false). | Small, 60.0 | Small, 60.0 |
 | loyaltyProgram | String | Loyalty program associated with the promotion. | Small, 60.0 | 60.0 |
 | name | String | Unique name of the promotion. | Small, 60.0 | 60.0 |
 | objective | String | Objective of the promotion. | Small, 60.0 | 60.0 |
 | priorityNumber | Integer | Number that determines the priority of the promotion in a list of eligible promotions. | Small, 60.0 | 60.0 |
 | promotionCode | String | Promotion code of the promotion. | Small, 60.0 | 60.0 |
-| promotionEligibility | Promotion Eligibility Output | Eligibility criteria of the promotion. | Small, 60.0 | 60.0 |
+| promotion​Eligibility | Promotion Eligibility Output | Eligibility criteria of the promotion. | Small, 60.0 | 60.0 |
 | promotionLimits | Promotion Limit Output | Limits for the promotion. | Small, 60.0 | 60.0 |
 | ruleLibrary | String | Rule library associated with the promotion. | Small, 62.0 | 62.0 |
 | startDateTime | String | Start date and time of the promotion | Small, 60.0 | 60.0 |
-| termsAndConditions | String | Terms and conditions which are applied to the promotion. | Small, 63.0 | 63.0 |
+| termsAnd​Conditions | String | Terms and conditions which are applied to the promotion. | Small, 63.0 | 63.0 |
 
 ## Code Examples
 

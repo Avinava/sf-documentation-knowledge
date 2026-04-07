@@ -5,7 +5,7 @@ topic: cursorfetchresult-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.612Z
+lastCollected: 2026-04-07T09:02:14.722Z
 estimatedTokens: 1111
 namespace: Database
 keywords: [CursorFetchResult, encapsulates, result, PaginationCursor.fetchPage, call, rows, current, start, index, number, deleted, skipped, fetch, operation, whether]

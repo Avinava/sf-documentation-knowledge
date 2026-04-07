@@ -5,7 +5,7 @@ topic: actvpfrmdataconnectors3
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:03.096Z
+lastCollected: 2026-04-07T09:02:36.941Z
 estimatedTokens: 528
 keywords: [ActvPfrmDataConnectorS3, Amazon, bucket, export, directory, Parent, File, Suffix, Location, Version, Special, Access, Rules, Declarative, Metadata]
 ---

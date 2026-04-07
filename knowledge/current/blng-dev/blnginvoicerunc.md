@@ -5,7 +5,7 @@ topic: blnginvoicerunc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.391Z
+lastCollected: 2026-04-07T09:03:17.147Z
 estimatedTokens: 1013
 keywords: [blng__InvoiceRun__c, invoice, batch, run, billing, schedules, meet, criteria, processed, resulting, generation, invoices, blng, _InvoiceRun, Calls]
 ---

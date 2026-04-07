@@ -5,7 +5,7 @@ topic: salesforce-crm-survey-subject-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:30.945Z
+lastCollected: 2026-04-07T09:02:07.569Z
 estimatedTokens: 314
 keywords: [Salesforce, CRM, Survey, Subject, Mapping, data, mappings, SurveySubject, DLO, found, Services, bundle, Connector, Cloud, Usage]
 ---

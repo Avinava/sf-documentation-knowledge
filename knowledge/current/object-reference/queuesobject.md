@@ -5,7 +5,7 @@ topic: queuesobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.804Z
+lastCollected: 2026-04-07T09:04:47.900Z
 estimatedTokens: 418
 keywords: [QueueSobject, mapping, queue, Group, associated, including, custom, objects, Calls, Special, Access, Rules, Usage]
 ---

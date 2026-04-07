@@ -5,7 +5,7 @@ topic: networkfeedresponsemetric
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.842Z
+lastCollected: 2026-04-07T09:05:55.127Z
 estimatedTokens: 475
 keywords: [NetworkFeedResponseMetric, stores, date, time, question, posts, captures, creation, answer, marked, best, API, version, 51.0, later]
 ---

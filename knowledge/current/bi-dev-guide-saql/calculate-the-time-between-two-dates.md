@@ -5,7 +5,7 @@ topic: calculate-the-time-between-two-dates
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.535Z
+lastCollected: 2026-04-07T09:03:14.286Z
 estimatedTokens: 216
 keywords: [Calculate, Time, Two, Dates, date_diff, daysBetween]
 ---

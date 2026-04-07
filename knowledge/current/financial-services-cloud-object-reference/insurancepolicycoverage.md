@@ -5,8 +5,8 @@ topic: insurancepolicycoverage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:30.721Z
-estimatedTokens: 2345
+lastCollected: 2026-04-07T09:03:50.050Z
+estimatedTokens: 3124
 keywords: [InsurancePolicyCoverage, junction, associates, InsurancePolicy, ProductCoverage, Calls, Associated, Objects]
 ---
 
@@ -28,10 +28,12 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Field | Details |
 | --- | --- |
 | BenefitPaymentFrequency | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe frequency of the payment if the benefit or coverage entails a recurring payout to the insured. For example, monthly, semi-monthly, quarterly, semi-annually, or annually. |
+| BillingTreatmentId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionSpecifies how the Subscription Management bills an insurance policy coverage.This field is a relationship field.Relationship NameBillingTreatmentRefers ToBillingTreatment |
 | Category | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe category that the coverage belongs to. For example, benefit, clause, deductible, rider. |
 | CategoryCode | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionA carrier-specific code that identifies the coverage. For example, benefit, clause, or deductible. |
 | CategoryGroup | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe specific category group. For example, for a liability coverage record, benefit is the category and liability is the category group. |
 | CategoryGroupType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of the category group. |
+| CommissionPercent | TypepercentPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe percentage of Insurance Policy Coverage premium to be earned as commission by the brokerage firm. |
 | ContractGroupPlanId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe contract group plan associated with the insurance policy coverage. |
 | CoverageCode | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe unique code of the insurance policy coverage across all the policy versions. |
 | CoverageName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the coverage. |
@@ -40,6 +42,11 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe description of the coverage. |
 | Discount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe discount that was given on the coverage or the benefit. |
 | EffectiveDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date from which the coverage is in effect. |
+| EffectiveFromDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date from when the coverage becomes active on the policy. |
+| EffectiveToDate | TypedatePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe date after when the coverage becomes inactive on the policy. |
+| EmployeeContribution | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe employee contribution towards the insurance premium value for the participant. |
+| EmployerContribution | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe employer contribution towards the insurance premium value for the participant. |
+| ExpectedRevenueAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe revenue amount that the brokerage is expected to earn from the Insurance Policy Coverage. |
 | ExpirationDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date on which the coverage expires. |
 | IncomeOptionType | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe type of the income option given to the policy participant. For example, periodic payment is an income option type, and annuity is an income option. |
 | InsurancePolicyAssetId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe asset covered by this coverage. |
@@ -52,16 +59,23 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | LimitPercentage | TypepercentPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe percentage of the actuals covered by this coverage. |
 | LimitRange | TypepicklistPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe range of the coverage limit. For example, bodily injury coverage with limits as USD 100,000 per person and USD 300,000 per accident. |
 | Name | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescriptionAn auto-generated number assigned to this record. |
+| OriginalCoverageId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of the first instance of a specific coverage that's used to track it across policy versions created through lifecycle events.This field is a relationship field.Relationship NameOriginalCoverageRefers ToInsurancePolicyCoverage |
 | PremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe premium paid by the customer for this coverage. |
+| PriorCoverageId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe reference coverage record before the policy was endorsed or renewed.This field is a relationship field.Relationship NamePriorCoverageRefers ToInsurancePolicyCoverage |
+| ProductId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe product associated with the coverage.This field is a relationship field.Relationship NameProductRefers ToProduct2 |
+| ProductSellingModelId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionIndicates whether the insurance policy is sold as a one-time or an installment-based sale.This field is a relationship field.Relationship NameProductSellingModelRefers ToProductSellingModel |
 | SourceSystem | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the source system this record was obtained from. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe ID of this coverage record in the source system. |
+| StandardCommissionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe total commission expected for the policy coverage across the full policy term. |
 | StandardFeeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected fee for the policy over the policy period. This field is available from API version 51.0 and later. |
 | StandardPremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected premium for the policy over the policy period. This field is available from API version 51.0 and later. |
 | StandardTaxAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected tax on the policy over the policy period. This field is available from API version 51.0 and later. |
+| TermCommissionAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe commission amount for the policy coverage, prorated based on the coverage effective dates within the policy. |
 | TermFeeAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected fee for the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |
 | TermPremiumAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected premium for the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |
 | TermTaxAmount | TypecurrencyPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe expected tax on the policy over the policy period, prorated based on the policy's effective dates. This field is available from API version 51.0 and later. |
 | TotalStandardAmount | TypecurrencyPropertiesFilter, Nillable, SortDescriptionThe sum of the expected premium, fee, and tax for the policy over the policy period. This field is available from API version 51.0 and later.This is a calculated field. |
+| TotalTermAmount | TypecurrencyPropertiesFilter, Nillable, SortDescriptionThe sum of expected premium, tax, and fee amount for the insurance policy over the policy period, prorated based on the policy's effective dates.This field is a calculated field. |
 
 ## Associated Objects
 

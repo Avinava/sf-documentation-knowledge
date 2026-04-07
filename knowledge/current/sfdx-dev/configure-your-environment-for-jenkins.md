@@ -5,7 +5,7 @@ topic: configure-your-environment-for-jenkins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.131Z
+lastCollected: 2026-04-07T09:06:12.948Z
 estimatedTokens: 1144
 keywords: [Configure, Environment, Jenkins, integrating, Dev, Hub, scratch, orgs, framework, assumes, you’re, working, package, development, model]
 ---

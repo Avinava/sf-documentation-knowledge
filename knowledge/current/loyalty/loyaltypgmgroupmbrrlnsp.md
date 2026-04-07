@@ -5,7 +5,7 @@ topic: loyaltypgmgroupmbrrlnsp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.138Z
+lastCollected: 2026-04-07T09:04:19.942Z
 estimatedTokens: 1191
 keywords: [LoyaltyPgmGroupMbrRlnsp, junction, Corporate, Individual, loyalty, program, member, part, group, API, version, 53.0, later, Calls, Associated]
 ---

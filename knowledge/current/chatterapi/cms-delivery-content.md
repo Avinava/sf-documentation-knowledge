@@ -5,7 +5,7 @@ topic: cms-delivery-content
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.822Z
+lastCollected: 2026-04-07T09:03:24.804Z
 estimatedTokens: 497
 keywords: [CMS, Delivery, Content, piece, published, channel, Experience, Cloud, site]
 ---

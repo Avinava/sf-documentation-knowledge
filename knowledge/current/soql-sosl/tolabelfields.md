@@ -5,7 +5,7 @@ topic: tolabelfields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.915Z
+lastCollected: 2026-04-07T09:06:15.374Z
 estimatedTokens: 412
 keywords: [toLabel, translate, SOSL, query, results, user’s, language]
 ---

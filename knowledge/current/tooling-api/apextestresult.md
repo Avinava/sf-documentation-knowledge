@@ -5,7 +5,7 @@ topic: apextestresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:43.848Z
+lastCollected: 2026-04-07T09:02:46.385Z
 estimatedTokens: 763
 keywords: [ApexTestResult, result, Apex, test, execution, API, version, 30.0, later, SOAP, Calls, REST, HTTP, Usage]
 ---

@@ -5,7 +5,7 @@ topic: lightning-flow-for-service-implementation-checklist
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.866Z
+lastCollected: 2026-04-07T09:05:23.978Z
 estimatedTokens: 1102
 keywords: [Lightning, Flow, Service, Implementation, Checklist, Review, roll]
 ---

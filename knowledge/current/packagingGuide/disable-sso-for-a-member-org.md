@@ -5,7 +5,7 @@ topic: disable-sso-for-a-member-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.886Z
+lastCollected: 2026-04-07T09:04:54.918Z
 estimatedTokens: 151
 keywords: [Disable, SSO, Member, Org, want, Environment, Hub, users, reauthenticate, they, log, Disabling, doesn’t, remove, user]
 ---

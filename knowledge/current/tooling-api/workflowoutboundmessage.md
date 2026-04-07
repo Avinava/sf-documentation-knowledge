@@ -5,7 +5,7 @@ topic: workflowoutboundmessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.809Z
+lastCollected: 2026-04-07T09:02:49.466Z
 estimatedTokens: 605
 keywords: [WorkflowOutboundMessage, outbound, message, designated, endpoint, external, service, messages, configured, Setup, configure, listener, SOAP, API, Calls]
 ---

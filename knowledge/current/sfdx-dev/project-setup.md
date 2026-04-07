@@ -5,7 +5,7 @@ topic: project-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.920Z
+lastCollected: 2026-04-07T09:06:13.974Z
 estimatedTokens: 1482
 keywords: [Project, Setup, Salesforce, structure, org’s, metadata, code, configuration, org, templates, sample, data, team’s, tests, bring]
 ---

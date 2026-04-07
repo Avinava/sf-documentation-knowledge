@@ -5,7 +5,7 @@ topic: compound-field-considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:03.178Z
+lastCollected: 2026-04-07T09:04:33.009Z
 estimatedTokens: 1404
 keywords: [Compound, Considerations, Limitations, Address, geolocation, convenient, result, concise, clear, code, things, consider, apps]
 ---

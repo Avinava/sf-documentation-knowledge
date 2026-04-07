@@ -5,7 +5,7 @@ topic: add-components-to-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.962Z
+lastCollected: 2026-04-07T09:04:12.667Z
 estimatedTokens: 933
 keywords: [Add, Components, Apps, you’re, ready, app, look, built-in, base, Salesforce, framework, extending, composition, custom, building]
 ---

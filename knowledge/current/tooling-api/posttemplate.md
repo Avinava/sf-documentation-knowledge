@@ -5,7 +5,7 @@ topic: posttemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:46.018Z
+lastCollected: 2026-04-07T09:02:48.638Z
 estimatedTokens: 234
 keywords: [PostTemplate, approval, post, template, Approvals, Chatter, SOAP, Calls, REST, HTTP]
 ---

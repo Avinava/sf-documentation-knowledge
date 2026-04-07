@@ -5,8 +5,8 @@ topic: how-devops-center-keeps-track-of-user-changes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:24.405Z
-estimatedTokens: 1776
+lastCollected: 2026-04-07T09:03:41.471Z
+estimatedTokens: 1772
 keywords: [How, DevOps, Center, Keeps, Track, User, Changes, connected, development, environment, tracks, tracking, later, commit, source]
 ---
 
@@ -20,7 +20,7 @@ When a DevOps Center user is connected to a development environment, it tracks t
 
 This graphic shows the DevOps Center custom objects involved in tracking user changes. In the graphic, a single development environment has two work items. The org associated with the development environment has three metadata changes that DevOps Center is tracking.
 
-![Relationship diagram for the objects involved in tracking user changes, such as Work Item, Environment, Remote Change and more.](/docs/resources/img/en-us/260.0?doc_id=devops_center%2Fimages%2Fdevops_center_dev_user_changes.png&folder=devops_center_dev)
+![Relationship diagram for the objects involved in tracking user changes, such as Work Item, Environment, Remote Change and more.](/docs/resources/img/en-us/260.0?doc_id=images%2Fdevops_center_dev_user_changes.png&folder=devops_center_dev)
 
 Let’s break this process down a bit more.
 

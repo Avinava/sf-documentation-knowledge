@@ -5,7 +5,7 @@ topic: importing-data-into-order-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.136Z
+lastCollected: 2026-04-07T09:04:53.621Z
 estimatedTokens: 1415
 keywords: [Importing, Data, Order, Management, represented, OrderSummary, record, supporting, records, OrderItemSummaries, OrderDeliveryGroupSummaries, import, including, OrderItems, OrderDeliveryGroups]
 ---

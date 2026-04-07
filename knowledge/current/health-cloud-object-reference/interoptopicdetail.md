@@ -5,7 +5,7 @@ topic: interoptopicdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.571Z
+lastCollected: 2026-04-07T09:03:58.740Z
 estimatedTokens: 837
 keywords: [InteropTopicDetail, interoperability, topic, API, version, 64.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: shift
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.809Z
+lastCollected: 2026-04-07T09:06:07.199Z
 estimatedTokens: 694
 keywords: [Shift, service, resource, scheduling, API, versions, 46.0, later]
 ---

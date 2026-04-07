@@ -5,7 +5,7 @@ topic: taxplatform-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:42.085Z
+lastCollected: 2026-04-07T09:02:13.588Z
 estimatedTokens: 367
 namespace: ConnectApi
 keywords: [TaxPlatform, Apply, tax, cancel, calculateTax, API, Version, Requires, Chatter]

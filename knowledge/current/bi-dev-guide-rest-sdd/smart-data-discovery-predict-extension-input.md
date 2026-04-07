@@ -5,7 +5,7 @@ topic: smart-data-discovery-predict-extension-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.246Z
+lastCollected: 2026-04-07T09:03:12.277Z
 estimatedTokens: 92
 keywords: [Smart, Data, Discovery, Predict, Extension, Input, record, Einstein]
 ---

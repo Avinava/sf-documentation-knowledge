@@ -5,7 +5,7 @@ topic: functioninvocationerror-interface
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.153Z
+lastCollected: 2026-04-07T09:02:28.158Z
 estimatedTokens: 545
 keywords: [FunctionInvocationError, detailed, error, failed, Function, invocation, Usage, getMessage, getType, Implementation]
 ---

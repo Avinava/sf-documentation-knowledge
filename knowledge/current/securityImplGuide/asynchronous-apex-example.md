@@ -5,7 +5,7 @@ topic: asynchronous-apex-example
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:44.700Z
+lastCollected: 2026-04-07T09:05:28.369Z
 estimatedTokens: 606
 keywords: [Asynchronous, Apex, executing, transaction, security, policy, process, offload, time-consuming, operations, sending, notification, email, external, recipient]
 ---

@@ -5,7 +5,7 @@ topic: analyticsvizviewdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.346Z
+lastCollected: 2026-04-07T09:04:34.421Z
 estimatedTokens: 510
 keywords: [AnalyticsVizViewDef, Tableau, viusalization, view, definition, API, version, 64.0, later, Calls, Special, Access, Rules]
 ---

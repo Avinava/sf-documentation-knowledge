@@ -5,7 +5,7 @@ topic: assetcancelinitiatedevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:28.320Z
+lastCollected: 2026-04-07T09:05:05.834Z
 estimatedTokens: 686
 keywords: [AssetCancelInitiatedEvent, Notifies, subscribers, process, started, asset-management, assets, collection, actions, initiate-cancellation, successful, event, cancellation, order, created]
 ---

@@ -5,7 +5,7 @@ topic: tenantsecurityaigtwyusage
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.834Z
+lastCollected: 2026-04-07T09:04:50.506Z
 estimatedTokens: 664
 keywords: [TenantSecurityAIGtwyUsage, Stores, Einstein, generative, gateway, usage, data, API, version, 65.0, later, Calls, Special, Access, Rules]
 ---

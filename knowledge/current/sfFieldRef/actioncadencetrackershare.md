@@ -5,7 +5,7 @@ topic: actioncadencetrackershare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.193Z
+lastCollected: 2026-04-07T09:05:30.528Z
 estimatedTokens: 253
 keywords: [ActionCadenceTrackerShare, Sharing, ActionCadenceTracker]
 ---

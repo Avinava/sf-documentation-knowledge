@@ -5,7 +5,7 @@ topic: introducing-aura-components
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:49.035Z
+lastCollected: 2026-04-07T09:04:14.212Z
 estimatedTokens: 989
 keywords: [Introducing, Aura, Components, Lightning, umbrella, term, web, Spring, ’19, API, version, 45.0, build, two, programming]
 ---

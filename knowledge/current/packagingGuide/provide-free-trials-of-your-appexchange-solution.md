@@ -5,7 +5,7 @@ topic: provide-free-trials-of-your-appexchange-solution
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.385Z
+lastCollected: 2026-04-07T09:04:55.807Z
 estimatedTokens: 583
 keywords: [Provide, Free, Trials, AppExchange, Solution, Increase, customer, conversion, offering, Explore, trial, options, determine, best]
 ---

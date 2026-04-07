@@ -5,7 +5,7 @@ topic: create-custom-chat-events
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.329Z
+lastCollected: 2026-04-07T09:06:14.570Z
 estimatedTokens: 1814
 keywords: [Custom, Chat, Events, let, own, communication, channel, customers, agent, console, send, receive, JavaScript, CSS, files]
 ---

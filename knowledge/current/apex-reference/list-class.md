@@ -5,7 +5,7 @@ topic: list-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.863Z
+lastCollected: 2026-04-07T09:02:28.880Z
 estimatedTokens: 5210
 namespace: System
 keywords: [collection, Usage, List<T>, listToCopy, setToCopy, add, listElement, index, addAll, fromList, fromSet, clear, clone, deepClone, preserveId]

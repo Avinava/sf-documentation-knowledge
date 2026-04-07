@@ -5,7 +5,7 @@ topic: promotionsegmentsalesstore
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.623Z
+lastCollected: 2026-04-07T09:04:47.665Z
 estimatedTokens: 1251
 keywords: [PromotionSegmentSalesStore, promotion, segment, associated, store, B2B, Commerce, API, version, 52.0, later, Calls, Special, Access, Rules]
 ---

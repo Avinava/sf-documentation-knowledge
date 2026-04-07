@@ -5,7 +5,7 @@ topic: productpricehistorylog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.227Z
+lastCollected: 2026-04-07T09:02:05.169Z
 estimatedTokens: 816
 keywords: [ProductPriceHistoryLog, Stores, historical, pricing, data, product's, price, range, API, version, 62.0, later, Calls, Associated, Objects]
 ---

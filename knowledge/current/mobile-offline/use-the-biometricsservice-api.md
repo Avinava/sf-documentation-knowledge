@@ -5,7 +5,7 @@ topic: use-the-biometricsservice-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:56.879Z
+lastCollected: 2026-04-07T09:04:25.161Z
 estimatedTokens: 658
 keywords: [BiometricsService, API, develop, Lightning, web, component, biometrics-checking, features, accessing, device’s, native, biometrics, functionality, Add, Test]
 ---

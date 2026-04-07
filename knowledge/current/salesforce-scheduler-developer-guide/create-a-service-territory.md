@@ -5,7 +5,7 @@ topic: create-a-service-territory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.177Z
+lastCollected: 2026-04-07T09:05:27.674Z
 estimatedTokens: 191
 keywords: [Service, Territory, large, virtual, Salesforce, Scheduler, add, resources, new, secondary, assign, relatively, number, exclusively, appointments]
 ---

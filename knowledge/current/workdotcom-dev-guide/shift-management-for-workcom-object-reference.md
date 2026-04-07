@@ -5,8 +5,8 @@ topic: shift-management-for-workcom-object-reference
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.603Z
-estimatedTokens: 3708
+lastCollected: 2026-04-07T09:06:19.383Z
+estimatedTokens: 3705
 keywords: [Shift, Management, Work.com, package, includes, several, custom, objects, described, requires, Workplace, Command, Center, builds, Service]
 ---
 
@@ -23,7 +23,7 @@ The Shift Management package includes several custom objects and fields that are
 
 To get started with Shift Management, see [Shift Management in Salesforce Help](https://help.salesforce.com/articleView?id=workdotcom_shifts.htm&type=0&language=en_US). The relationships between objects used by Shift Management are described in the following diagram:
 
-![Shift management object model](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fworkdotcom%2Fimages%2Fwkfsl_shift_management_erd.png&folder=workdotcom_dev_guide)
+![Shift management object model](/docs/resources/img/en-us/260.0?doc_id=workdotcom%2Fimages%2Fwkfsl_shift_management_erd.png&folder=workdotcom_dev_guide)
 
 ## Standard Objects Used by Shift Management
 

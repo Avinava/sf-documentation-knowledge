@@ -5,7 +5,7 @@ topic: custompermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:55.290Z
+lastCollected: 2026-04-07T09:05:42.242Z
 estimatedTokens: 384
 namespace: NamespacePrefix
 keywords: [CustomPermission, permission, created, control, access, custom, process, app, sending, email, API, version, 31.0, later]

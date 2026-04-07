@@ -5,7 +5,7 @@ topic: personalization-recommender-calculated-insight-rule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:20.313Z
+lastCollected: 2026-04-07T09:03:34.621Z
 estimatedTokens: 257
 keywords: [Personalization, Recommender, Calculated, Insight, Rule]
 ---

@@ -5,7 +5,7 @@ topic: searchutils-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:20.551Z
+lastCollected: 2026-04-07T09:02:14.648Z
 estimatedTokens: 618
 namespace: DataSource
 keywords: [SearchUtils, Helper, implementing, search, custom, adapter, Salesforce, Connect, Usage, searchByName, searchDetails, connection]

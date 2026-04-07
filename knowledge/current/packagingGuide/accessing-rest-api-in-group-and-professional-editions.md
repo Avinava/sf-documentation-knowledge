@@ -5,7 +5,7 @@ topic: accessing-rest-api-in-group-and-professional-editions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.802Z
+lastCollected: 2026-04-07T09:04:54.769Z
 estimatedTokens: 635
 keywords: [Accessing, REST, API, Group, Professional, Editions, Lightning, Platform, powerful, convenient, simple, interacting, qualified, partner, enable]
 ---

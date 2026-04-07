@@ -5,7 +5,7 @@ topic: event
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.797Z
+lastCollected: 2026-04-07T09:04:39.795Z
 estimatedTokens: 10468
 keywords: [Event, calendar, user, task, records, collectively, referred, activities, Calls, Usage, Associated, Objects]
 ---

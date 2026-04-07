@@ -5,7 +5,7 @@ topic: create-an-app-project-in-xcode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:52.719Z
+lastCollected: 2026-04-07T09:04:19.417Z
 estimatedTokens: 132
 keywords: [App, Project, Xcode, don’t, import, Loyalty, Management, Mobile, SDK, iOS]
 ---

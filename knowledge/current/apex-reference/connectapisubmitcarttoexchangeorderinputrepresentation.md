@@ -5,7 +5,7 @@ topic: connectapisubmitcarttoexchangeorderinputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:48.087Z
+lastCollected: 2026-04-07T09:02:21.108Z
 estimatedTokens: 284
 keywords: [submit, cart, exchange, order, action]
 ---

@@ -5,7 +5,7 @@ topic: messagingsessionmetrics
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.259Z
+lastCollected: 2026-04-07T09:05:54.412Z
 estimatedTokens: 359
 keywords: [MessagingSessionMetrics, metric, gathered, specific, enhanced, messaging, session, average, agent, time, starting, October, API, version, 62.0]
 ---

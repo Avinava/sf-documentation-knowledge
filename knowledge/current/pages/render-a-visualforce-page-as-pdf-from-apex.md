@@ -5,7 +5,7 @@ topic: render-a-visualforce-page-as-pdf-from-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.871Z
+lastCollected: 2026-04-07T09:04:59.556Z
 estimatedTokens: 1208
 keywords: [Render, Visualforce, PDF, Apex, PageReference.getContentAsPDF, data, code, convert, email, attachment, document, Chatter, post]
 ---

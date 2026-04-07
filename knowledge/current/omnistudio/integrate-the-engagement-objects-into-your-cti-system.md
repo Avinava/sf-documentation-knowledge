@@ -5,7 +5,7 @@ topic: integrate-the-engagement-objects-into-your-cti-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:53.222Z
+lastCollected: 2026-04-07T09:02:55.854Z
 estimatedTokens: 911
 keywords: [Integrate, Engagement, Objects, CTI, System, Modify, adapter, customer, service, representative, CSR, accepts, incoming, call, softphone]
 ---

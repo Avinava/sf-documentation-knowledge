@@ -5,7 +5,7 @@ topic: reports-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.639Z
+lastCollected: 2026-04-07T09:02:29.761Z
 estimatedTokens: 3464
 namespace: Reports
 keywords: [Reports, classes, accessing, data, Salesforce, Dashboards, REST, API]

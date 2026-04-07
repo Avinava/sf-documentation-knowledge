@@ -5,7 +5,7 @@ topic: documentation-templates-and-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.043Z
+lastCollected: 2026-04-07T09:03:54.364Z
 estimatedTokens: 450
 keywords: [Documentation, Templates, Rules, Vinci, DTR, framework, under, HL7, FHIR, standards, facilitates, exchange, requirements, healthcare, industry]
 ---

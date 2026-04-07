@@ -5,7 +5,7 @@ topic: call-scenario-diagrams
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:21.900Z
+lastCollected: 2026-04-07T09:06:18.312Z
 estimatedTokens: 404
 keywords: [Call, Scenario, Diagrams, Understand, different, scenarios, rep, receiving, declining, inbound, multiparty, consult, calls, Accepts, Declines]
 ---

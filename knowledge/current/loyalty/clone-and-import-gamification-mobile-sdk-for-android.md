@@ -5,7 +5,7 @@ topic: clone-and-import-gamification-mobile-sdk-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.784Z
+lastCollected: 2026-04-07T09:04:18.181Z
 estimatedTokens: 431
 keywords: [Clone, Import, Gamification, Mobile, SDK, Android, GitHub, repository, copy, code, base, revision, history, local, computer]
 ---

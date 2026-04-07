@@ -5,7 +5,7 @@ topic: connectapicomplianceloggingresponse
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:47.766Z
+lastCollected: 2026-04-07T09:02:50.319Z
 estimatedTokens: 66
 keywords: [ConnectApi.ComplianceLoggingResponse, Compliance, bulk, logging, result]
 ---

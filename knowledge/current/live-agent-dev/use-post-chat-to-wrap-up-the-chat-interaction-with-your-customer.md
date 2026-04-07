@@ -5,7 +5,7 @@ topic: use-post-chat-to-wrap-up-the-chat-interaction-with-your-customer
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:50.225Z
+lastCollected: 2026-04-07T09:04:16.038Z
 estimatedTokens: 417
 keywords: [Post-Chat, Wrap, Chat, Interaction, Customer, pages, let, share, customers, end, session, direct, another, Web, they]
 ---

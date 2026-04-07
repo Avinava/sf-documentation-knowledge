@@ -5,7 +5,7 @@ topic: connectedapp
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:04.644Z
+lastCollected: 2026-04-07T09:02:38.411Z
 estimatedTokens: 9428
 keywords: [ConnectedApp, connected, app, configuration, external, application, integrate, Salesforce, APIs, standard, protocols, SAML, OAuth, OpenID, Connect]
 ---

@@ -5,7 +5,7 @@ topic: setting-query-string-parameters-in-links
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:24.032Z
+lastCollected: 2026-04-07T09:04:59.814Z
 estimatedTokens: 166
 keywords: [Setting, Query, Links, pages, constructing, link, URL, manually, <apex, param>, tags, outputLink>, tag, examples, identical]
 ---

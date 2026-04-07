@@ -5,7 +5,7 @@ topic: considerations-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:56.766Z
+lastCollected: 2026-04-07T09:04:25.003Z
 estimatedTokens: 768
 keywords: [Considerations, Limitations, Consider, guidelines, developing, features, AppReviewService, API, Keep, mind, BarcodeScanner, BiometricsService, CalendarService, ContactsService, DocumentScanner, GeofencingService, LocationService, NFCService, PaymentsService]
 ---

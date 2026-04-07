@@ -5,7 +5,7 @@ topic: configuration-validator-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.623Z
+lastCollected: 2026-04-07T09:03:40.229Z
 estimatedTokens: 497
 keywords: [Configuration, Validator, API, runs, selection, validation, alert, product, rules, configurator-scoped, price, against, input, model, updated]
 ---

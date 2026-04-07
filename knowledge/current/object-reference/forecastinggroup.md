@@ -5,7 +5,7 @@ topic: forecastinggroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.659Z
+lastCollected: 2026-04-07T09:04:41.929Z
 estimatedTokens: 609
 keywords: [ForecastingGroup, groups, roll, forecast, totals, forecasts, group, industry, sales, API, version, 60.0, later, Calls, Special]
 ---

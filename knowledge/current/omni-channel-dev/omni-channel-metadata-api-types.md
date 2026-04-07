@@ -5,7 +5,7 @@ topic: omni-channel-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.981Z
+lastCollected: 2026-04-07T09:04:53.376Z
 estimatedTokens: 453
 keywords: [Omni-Channel, Metadata, API, lets, access, feature, settings]
 ---

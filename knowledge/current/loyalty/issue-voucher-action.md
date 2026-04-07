@@ -4,10 +4,10 @@ domain: loyalty
 topic: issue-voucher-action
 apiVersion: 67.0
 release: summer-26-v67
-docType: api-reference
-lastCollected: 2026-03-12T09:34:51.998Z
-estimatedTokens: 719
-keywords: [Issue, Voucher, Action, member, contact, REST, HTTP, Inputs, Outputs]
+docType: developer-guide
+lastCollected: 2026-04-07T09:04:17.707Z
+estimatedTokens: 303
+keywords: [Issue, Voucher, Action, Output, representation, member, contact, REST, HTTP, Inputs, Outputs]
 ---
 
 # Issue Voucher Action

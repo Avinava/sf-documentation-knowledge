@@ -5,7 +5,7 @@ topic: standardcontroller-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.772Z
+lastCollected: 2026-04-07T09:04:56.512Z
 estimatedTokens: 289
 namespace: ApexPages
 keywords: [StandardController, defining, extension, standard, controller, Usage, Instantiation]

@@ -5,7 +5,7 @@ topic: solutionstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:14.280Z
+lastCollected: 2026-04-07T09:06:07.873Z
 estimatedTokens: 294
 keywords: [SolutionStatus, status, Solution, Draft, Reviewed]
 ---

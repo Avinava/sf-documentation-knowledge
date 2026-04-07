@@ -5,7 +5,7 @@ topic: create-a-managed-package-version-of-your-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:25.689Z
+lastCollected: 2026-04-07T09:05:02.020Z
 estimatedTokens: 462
 keywords: [Managed, Package, Version, App, testing, almost, ready, published, enterprise, AppExchange, Generate, new, Dev, Hub, org]
 ---

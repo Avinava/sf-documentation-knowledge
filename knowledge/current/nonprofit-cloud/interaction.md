@@ -5,7 +5,7 @@ topic: interaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.604Z
+lastCollected: 2026-04-07T09:04:32.249Z
 estimatedTokens: 836
 keywords: [Interaction, phone, call, in-person, meeting, video, conference, two, people, attendees, typically, including, least, representative, customer]
 ---

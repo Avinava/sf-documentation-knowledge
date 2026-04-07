@@ -5,7 +5,7 @@ topic: coaserviceorderclone-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.242Z
+lastCollected: 2026-04-07T09:04:53.841Z
 estimatedTokens: 531
 keywords: [COA_ServiceOrderClone, Clone, order, org, Channel, App, COA, installed, _ServiceOrderClone, Usage]
 ---

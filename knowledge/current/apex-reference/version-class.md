@@ -5,7 +5,7 @@ topic: version-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.559Z
+lastCollected: 2026-04-07T09:02:29.641Z
 estimatedTokens: 1816
 namespace: System
 keywords: [Version, first-generation, managed, package, 1GP, migrated, second-generation, 2GP, compare, versions, Usage, major, minor, patch, compareTo]

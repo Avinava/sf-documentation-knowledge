@@ -5,7 +5,7 @@ topic: addbuttoneventhandler
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.028Z
+lastCollected: 2026-04-07T09:04:15.737Z
 estimatedTokens: 731
 keywords: [addButtonEventHandler, define, automated, invitation’s, behavior, certain, events, occur, Usage, Event, chat, button’s, API, versions, 28.0, later]
 ---

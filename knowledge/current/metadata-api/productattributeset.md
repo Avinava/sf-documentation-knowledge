@@ -5,7 +5,7 @@ topic: productattributeset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:09.058Z
+lastCollected: 2026-04-07T09:02:43.065Z
 estimatedTokens: 150
 keywords: [ProductAttributeSet, ProductAttribute, attribute, color_c, size_c, Version, Special, Access, Rules]
 ---

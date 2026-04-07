@@ -5,7 +5,7 @@ topic: life-sciences-cloud-business-apis
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:43.623Z
+lastCollected: 2026-04-07T09:04:07.604Z
 estimatedTokens: 358
 keywords: [Life, Sciences, Cloud, Business, APIs, access, REST, endpoints, follow, similar, conventions, Connect]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudfundproductc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.653Z
+lastCollected: 2026-04-07T09:05:20.107Z
 estimatedTokens: 923
 keywords: [cgcloud__Fund_Product__c, Fund, linked, multiple, brands, categories, template, settings, API, version, 54.0, later, cgcloud, _Fund, _Product]
 ---

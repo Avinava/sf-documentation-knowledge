@@ -5,7 +5,7 @@ topic: recruitmentcontentsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.368Z
+lastCollected: 2026-04-07T09:05:14.334Z
 estimatedTokens: 1207
 keywords: [RecruitmentContentSection, content, want, include, recruitment, posting, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
 ---

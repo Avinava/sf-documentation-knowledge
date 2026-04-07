@@ -6,7 +6,7 @@ topic: configure-who-can-access-the-installed-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:27.545Z
+lastCollected: 2026-04-07T09:05:04.683Z
 estimatedTokens: 395
 keywords: [Configure, Access, Installed, Canvas, App, appears, you’ll, message, Hello, User.FullName]
 ---

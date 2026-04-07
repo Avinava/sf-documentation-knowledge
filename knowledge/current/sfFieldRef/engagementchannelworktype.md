@@ -5,7 +5,7 @@ topic: engagementchannelworktype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.282Z
+lastCollected: 2026-04-07T09:05:44.836Z
 estimatedTokens: 342
 keywords: [EngagementChannelWorkType, relationship, Engagement, Channel, Work, Salesforce, Scheduler, API, version, 56.0, later]
 ---

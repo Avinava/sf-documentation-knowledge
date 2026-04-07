@@ -5,7 +5,7 @@ topic: create-a-user-role
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:44.583Z
+lastCollected: 2026-04-07T09:05:28.201Z
 estimatedTokens: 989
 keywords: [User, Role, hierarchy, users, access, records, owned, shared, roles, below, affect, components, reports]
 ---

@@ -5,7 +5,7 @@ topic: set-the-language
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:19.465Z
+lastCollected: 2026-04-07T09:06:14.770Z
 estimatedTokens: 496
 keywords: [Language, customize, deployment, including, custom, labels, Salesforce, empty, Embedded, Service, code, snippet, chat]
 ---

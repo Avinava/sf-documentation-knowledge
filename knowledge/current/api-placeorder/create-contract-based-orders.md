@@ -5,7 +5,7 @@ topic: create-contract-based-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.100Z
+lastCollected: 2026-04-07T09:03:04.761Z
 estimatedTokens: 803
 keywords: [Contract-based, Orders, resource, new, contract, order, products, well, custom, records, level, Usage]
 ---

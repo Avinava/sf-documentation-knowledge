@@ -5,7 +5,7 @@ topic: education-cloud-fields-on-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:25.162Z
+lastCollected: 2026-04-07T09:03:42.698Z
 estimatedTokens: 2343
 keywords: [Education, Cloud, Standard, Objects, Salesforce, orgs, enabled]
 ---

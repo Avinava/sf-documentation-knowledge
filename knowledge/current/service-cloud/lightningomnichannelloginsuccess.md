@@ -5,7 +5,7 @@ topic: lightningomnichannelloginsuccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:53.050Z
+lastCollected: 2026-04-07T09:03:02.952Z
 estimatedTokens: 109
 keywords: [lightning, omniChannelLoginSuccess, agent, logged, Omni-Channel, successfully]
 ---

@@ -5,7 +5,7 @@ topic: blnginvoiceplanlinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.382Z
+lastCollected: 2026-04-07T09:03:17.135Z
 estimatedTokens: 816
 keywords: [blng__InvoicePlanLine__c, custom, behavior, invoice, transaction, plan, lines, blng, _InvoicePlanLine, Calls]
 ---

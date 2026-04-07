@@ -5,7 +5,7 @@ topic: build-and-release-your-app-with-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:36:18.090Z
+lastCollected: 2026-04-07T09:06:12.883Z
 estimatedTokens: 1498
 keywords: [Build, Release, App, Metadata, API, Develop, test, sandboxes, Salesforce, CLI, Extensions, Code, retrieve, deploy, source]
 ---

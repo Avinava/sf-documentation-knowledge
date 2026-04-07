@@ -5,7 +5,7 @@ topic: blngfinancebookc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.270Z
+lastCollected: 2026-04-07T09:03:16.988Z
 estimatedTokens: 610
 keywords: [blng__FinanceBook__c, storage, financial, transactions, reporting, recordkeeping, blng, _FinanceBook, Calls]
 ---

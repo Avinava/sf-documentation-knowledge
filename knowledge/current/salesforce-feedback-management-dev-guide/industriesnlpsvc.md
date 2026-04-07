@@ -5,7 +5,7 @@ topic: industriesnlpsvc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.396Z
+lastCollected: 2026-04-07T09:05:23.275Z
 estimatedTokens: 331
 keywords: [industriesNlpSvc, Stores, objects, Industries, Einstein, Natural, Language, Processing, NLP, services]
 ---

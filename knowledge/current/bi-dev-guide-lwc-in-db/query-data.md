@@ -5,7 +5,7 @@ topic: query-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:02.460Z
+lastCollected: 2026-04-07T09:03:07.960Z
 estimatedTokens: 593
 keywords: [Query, Data, Let’s, how, inject, results, running, Lightning, Web, Component, code]
 ---

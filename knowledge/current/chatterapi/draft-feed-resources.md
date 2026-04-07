@@ -5,7 +5,7 @@ topic: draft-feed-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:13.153Z
+lastCollected: 2026-04-07T09:03:23.996Z
 estimatedTokens: 984
 keywords: [Draft, Feed, Resources, context, user’s, posts, URL, Elements]
 ---

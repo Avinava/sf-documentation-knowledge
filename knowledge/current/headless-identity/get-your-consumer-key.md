@@ -5,7 +5,7 @@ topic: get-your-consumer-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:31.894Z
+lastCollected: 2026-04-07T09:03:51.385Z
 estimatedTokens: 251
 keywords: [Consumer, Key, external, client, app, generates, known, Salesforce, identify, third-party, headless, identity, flows, how, configuring]
 ---

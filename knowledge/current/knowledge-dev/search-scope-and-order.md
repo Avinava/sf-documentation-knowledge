@@ -5,7 +5,7 @@ topic: search-scope-and-order
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:41.703Z
+lastCollected: 2026-04-07T09:04:04.943Z
 estimatedTokens: 200
 keywords: [Search, Scope, Order, ordered, objects, logged-in, user, keeps, track, interacts, how, often, arranges, results, accordingly]
 ---

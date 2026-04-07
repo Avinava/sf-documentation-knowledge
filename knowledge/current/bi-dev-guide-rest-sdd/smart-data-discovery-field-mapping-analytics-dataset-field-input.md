@@ -5,7 +5,7 @@ topic: smart-data-discovery-field-mapping-analytics-dataset-field-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:05.186Z
+lastCollected: 2026-04-07T09:03:12.170Z
 estimatedTokens: 216
 keywords: [Smart, Data, Discovery, Mapping, Analytics, Dataset, Input, Einstein, mapped, source]
 ---

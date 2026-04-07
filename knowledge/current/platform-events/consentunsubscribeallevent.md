@@ -5,7 +5,7 @@ topic: consentunsubscribeallevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.439Z
+lastCollected: 2026-04-07T09:05:05.983Z
 estimatedTokens: 353
 keywords: [ConsentUnsubscribeAllEvent, Notifies, subscribers, user, unsubscribes, communications, preference, form, created, Manager, API, version, 60.0, later, Calls]
 ---

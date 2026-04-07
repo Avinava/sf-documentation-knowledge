@@ -5,7 +5,7 @@ topic: testing-your-external-client-app-push-configuration
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:35.728Z
+lastCollected: 2026-04-07T09:05:16.020Z
 estimatedTokens: 732
 keywords: [Testing, External, Client, App, Push, Configuration, run, quick, test, notification, setup, Send, Troubleshoot, round-trip, notifications]
 ---

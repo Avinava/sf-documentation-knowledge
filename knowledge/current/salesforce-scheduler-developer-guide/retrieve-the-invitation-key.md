@@ -5,7 +5,7 @@ topic: retrieve-the-invitation-key
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.945Z
+lastCollected: 2026-04-07T09:05:27.292Z
 estimatedTokens: 241
 keywords: [Retrieve, Invitation, Key, unique, URL, user, clicks, two, components, prefix, auto-generated, identifier]
 ---

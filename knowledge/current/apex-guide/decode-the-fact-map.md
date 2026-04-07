@@ -5,7 +5,7 @@ topic: decode-the-fact-map
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:41.150Z
+lastCollected: 2026-04-07T09:02:30.637Z
 estimatedTokens: 794
 keywords: [Decode, Fact, Map, summary, record-level, data, report, Tabular, Matrix]
 ---

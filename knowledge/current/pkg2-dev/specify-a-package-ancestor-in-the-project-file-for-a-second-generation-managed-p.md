@@ -6,7 +6,7 @@ topic: specify-a-package-ancestor-in-the-project-file-for-a-second-generation-ma
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:26.995Z
+lastCollected: 2026-04-07T09:05:03.743Z
 estimatedTokens: 883
 keywords: [Specify, Package, Ancestor, Project, File, Second-Generation, Managed, version, sfdx-project.json, require, highest, promoted, number, either, time]
 ---

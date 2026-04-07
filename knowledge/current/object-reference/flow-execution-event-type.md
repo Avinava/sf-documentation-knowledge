@@ -5,7 +5,7 @@ topic: flow-execution-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:09.191Z
+lastCollected: 2026-04-07T09:04:40.257Z
 estimatedTokens: 2049
 keywords: [Flow, Execution, Event, events, contain, flows, were, executed, including, total, time, number, interviews, errors]
 ---

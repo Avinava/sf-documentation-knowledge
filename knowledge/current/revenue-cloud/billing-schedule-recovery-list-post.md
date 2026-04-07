@@ -5,7 +5,7 @@ topic: billing-schedule-recovery-list-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:19.447Z
+lastCollected: 2026-04-07T09:01:59.894Z
 estimatedTokens: 383
 keywords: [Billing, Schedule, Recovery, POST, Recover, latest, generated, invoice, associated, schedules, Error, Processing, status]
 ---

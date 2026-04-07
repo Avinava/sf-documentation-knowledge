@@ -5,7 +5,7 @@ topic: provider-search
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.549Z
+lastCollected: 2026-04-07T09:04:06.126Z
 estimatedTokens: 289
 keywords: [Provider, Search, Healthcare, providers, accounts, free-text, input, either, internal, Salesforce, data, external, system, API, account]
 ---

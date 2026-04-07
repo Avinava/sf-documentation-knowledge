@@ -5,7 +5,7 @@ topic: coaserviceordereditoutput-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.199Z
+lastCollected: 2026-04-07T09:04:53.744Z
 estimatedTokens: 172
 keywords: [COA_ServiceOrderEditOutput, COA, _ServiceOrderEditOutput]
 ---

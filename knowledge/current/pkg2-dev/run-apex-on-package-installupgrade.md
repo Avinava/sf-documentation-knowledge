@@ -5,7 +5,7 @@ topic: run-apex-on-package-installupgrade
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.770Z
+lastCollected: 2026-04-07T09:05:02.140Z
 estimatedTokens: 712
 keywords: [Run, Apex, Package, Install, Upgrade, App, developers, specify, script, automatically, subscriber, installs, upgrades, managed, possible]
 ---

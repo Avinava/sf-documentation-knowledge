@@ -5,7 +5,7 @@ topic: with
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.779Z
+lastCollected: 2026-04-07T09:04:05.048Z
 estimatedTokens: 904
 keywords: [filter, records, according, category, query, retrieve, changes, tracked, user’s, profile, feed, filteringExpression, clause, added, SELECT]
 ---

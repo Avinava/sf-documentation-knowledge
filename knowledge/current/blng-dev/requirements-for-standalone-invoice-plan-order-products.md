@@ -5,7 +5,7 @@ topic: requirements-for-standalone-invoice-plan-order-products
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.913Z
+lastCollected: 2026-04-07T09:03:17.718Z
 estimatedTokens: 438
 keywords: [Requirements, Standalone, Invoice, Plan, Order, Products, product, API, Salesforce, Lightning, Classic]
 ---

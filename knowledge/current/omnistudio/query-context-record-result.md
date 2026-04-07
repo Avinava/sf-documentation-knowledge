@@ -5,7 +5,7 @@ topic: query-context-record-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.882Z
+lastCollected: 2026-04-07T09:02:54.512Z
 estimatedTokens: 167
 keywords: [Query, Context, Record, Result, Output, representation]
 ---

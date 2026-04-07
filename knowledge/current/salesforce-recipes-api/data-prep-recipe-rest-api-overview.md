@@ -5,7 +5,7 @@ topic: data-prep-recipe-rest-api-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:42.089Z
+lastCollected: 2026-04-07T09:05:24.346Z
 estimatedTokens: 562
 keywords: [Data, Prep, Recipe, REST, API, access, recipes, CDP, Salesforce, Pipelines, CRM, Analytics, programmatically]
 ---

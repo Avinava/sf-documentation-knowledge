@@ -5,7 +5,7 @@ topic: vehiclesearchablefield
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.705Z
+lastCollected: 2026-04-07T09:03:07.010Z
 estimatedTokens: 3822
 keywords: [VehicleSearchableField, common, dataset, including, multiple, objects, basis, inventory, search, vehicles, API, version, 58.0, later, Calls]
 ---

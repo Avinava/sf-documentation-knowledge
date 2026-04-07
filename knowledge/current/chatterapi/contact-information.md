@@ -5,7 +5,7 @@ topic: contact-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:17.958Z
+lastCollected: 2026-04-07T09:03:30.795Z
 estimatedTokens: 120
 keywords: [Contact, Commerce, store, guest, checkout]
 ---

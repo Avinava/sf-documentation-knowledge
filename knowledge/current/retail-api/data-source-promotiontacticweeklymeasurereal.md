@@ -5,7 +5,7 @@ topic: data-source-promotiontacticweeklymeasurereal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:37.309Z
+lastCollected: 2026-04-07T09:05:18.351Z
 estimatedTokens: 83
 keywords: [Data, Source, PromotionTacticWeeklyMeasureReal, integration, metadata, JSON, datasources, configuration, payload]
 ---

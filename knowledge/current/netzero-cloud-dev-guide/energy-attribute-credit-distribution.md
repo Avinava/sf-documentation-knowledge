@@ -5,7 +5,7 @@ topic: energy-attribute-credit-distribution
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:57.951Z
+lastCollected: 2026-04-07T09:04:26.629Z
 estimatedTokens: 173
 keywords: [Energy, Attribute, Credit, Distribution, junction, credits, stationary, asset, indicating, quantity, distributed, specific]
 ---

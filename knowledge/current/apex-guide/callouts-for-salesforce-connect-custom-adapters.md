@@ -5,7 +5,7 @@ topic: callouts-for-salesforce-connect-custom-adapters
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:42.373Z
+lastCollected: 2026-04-07T09:02:31.765Z
 estimatedTokens: 501
 keywords: [Callouts, Salesforce, Connect, Custom, Adapters, any, Apex, code, adapter, connection, external, system, requires, authentication, incorporate]
 ---

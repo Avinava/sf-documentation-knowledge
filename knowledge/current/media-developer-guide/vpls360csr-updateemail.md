@@ -5,7 +5,7 @@ topic: vpls360csr-updateemail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.316Z
+lastCollected: 2026-04-07T09:04:21.506Z
 estimatedTokens: 127
 keywords: [vpls360Csr-UpdateEmail, Omnistudio, Data, Mapper, loads, updates, email, address, user, IDs, updated, records, Sample, Input, Output]
 ---

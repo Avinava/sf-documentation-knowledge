@@ -5,7 +5,7 @@ topic: custom-address-fields-requirements-and-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:09.266Z
+lastCollected: 2026-04-07T09:03:18.080Z
 estimatedTokens: 1638
 keywords: [Custom, Address, Requirements, Limitations, enable, configure, State, Country, Territory, picklists, review, feature, Requirement, Package, Deployment]
 ---

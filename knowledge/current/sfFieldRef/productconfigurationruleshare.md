@@ -5,7 +5,7 @@ topic: productconfigurationruleshare
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:09.400Z
+lastCollected: 2026-04-07T09:06:01.074Z
 estimatedTokens: 255
 keywords: [ProductConfigurationRuleShare, Sharing, ProductConfigurationRule]
 ---

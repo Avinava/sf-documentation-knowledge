@@ -5,7 +5,7 @@ topic: carttax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:52.594Z
+lastCollected: 2026-04-07T09:05:38.876Z
 estimatedTokens: 406
 keywords: [CartTax, taxes, line, item, WebCart, that’s, active, store, built, B2B, Commerce, D2C, API, version, 49.0]
 ---

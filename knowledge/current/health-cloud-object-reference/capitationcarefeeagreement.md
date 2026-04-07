@@ -5,7 +5,7 @@ topic: capitationcarefeeagreement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:36.105Z
+lastCollected: 2026-04-07T09:03:57.080Z
 estimatedTokens: 962
 keywords: [CapitationCareFeeAgreement, payment, terms, contracts, Capitation, Care, Fee, Agreement, API, version, 54.0, later, Provider, Network, Management]
 ---

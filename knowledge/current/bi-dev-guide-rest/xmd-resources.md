@@ -5,7 +5,7 @@ topic: xmd-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.903Z
+lastCollected: 2026-04-07T09:03:09.991Z
 estimatedTokens: 398
 keywords: [Xmd, Resources, Manages, Xmds, Analytics, datasets, assets]
 ---

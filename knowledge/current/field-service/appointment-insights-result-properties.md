@@ -5,7 +5,7 @@ topic: appointment-insights-result-properties
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:48.873Z
+lastCollected: 2026-04-07T09:03:00.475Z
 estimatedTokens: 528
 keywords: [Appointment, Insights, Result, AppointmentInsightsResult]
 ---

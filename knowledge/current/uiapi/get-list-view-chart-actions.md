@@ -5,7 +5,7 @@ topic: get-list-view-chart-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:20.385Z
+lastCollected: 2026-04-07T09:06:16.034Z
 estimatedTokens: 518
 keywords: [View, Chart, Actions, views]
 ---

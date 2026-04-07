@@ -5,7 +5,7 @@ topic: salesaiscorecycle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.425Z
+lastCollected: 2026-04-07T09:04:48.699Z
 estimatedTokens: 324
 keywords: [SalesAIScoreCycle, cycle, score, records, API, version, 47.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: contract-based-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:00.090Z
+lastCollected: 2026-04-07T09:03:04.750Z
 estimatedTokens: 1158
 keywords: [Contract-based, Orders, resource, add, new, contract, well, order, products, custom, records, retrieve, data, specific, Examples]
 ---

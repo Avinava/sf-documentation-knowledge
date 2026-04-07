@@ -5,7 +5,7 @@ topic: ceiln-ceilingn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.166Z
+lastCollected: 2026-04-07T09:03:15.234Z
 estimatedTokens: 79
 keywords: [ceil, ceiling, nearest, equal, greater, any, real, numeric, range, -1.797e308, 1.797e308]
 ---

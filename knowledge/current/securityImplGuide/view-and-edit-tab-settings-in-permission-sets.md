@@ -5,7 +5,7 @@ topic: view-and-edit-tab-settings-in-permission-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.318Z
+lastCollected: 2026-04-07T09:05:29.300Z
 estimatedTokens: 349
 keywords: [View, Edit, Tab, Settings, Permission, specify, whether, appears, Tabs, visible]
 ---

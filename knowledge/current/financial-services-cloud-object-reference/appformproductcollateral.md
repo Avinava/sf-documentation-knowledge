@@ -5,7 +5,7 @@ topic: appformproductcollateral
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.351Z
+lastCollected: 2026-04-07T09:03:48.426Z
 estimatedTokens: 1357
 keywords: [AppFormProductCollateral, physical, financial, asset, pledged, collateral, application, form, product, API, version, 65.0, later, Digital, Lending]
 ---

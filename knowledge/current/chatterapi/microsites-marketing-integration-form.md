@@ -5,7 +5,7 @@ topic: microsites-marketing-integration-form
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:15.749Z
+lastCollected: 2026-04-07T09:03:27.525Z
 estimatedTokens: 74
 keywords: [Microsites, Marketing, Integration, Form, Experience, Cloud, site]
 ---

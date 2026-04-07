@@ -5,7 +5,7 @@ topic: configure-components-for-flow-screens
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.185Z
+lastCollected: 2026-04-07T09:04:13.006Z
 estimatedTokens: 624
 keywords: [Configure, Components, Flow, Screens, custom, Aura, Builder, implementing, lightning, availableForFlowScreens]
 ---

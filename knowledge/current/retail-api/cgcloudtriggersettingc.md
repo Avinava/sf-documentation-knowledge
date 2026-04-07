@@ -5,7 +5,7 @@ topic: cgcloudtriggersettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:40.263Z
+lastCollected: 2026-04-07T09:05:21.890Z
 estimatedTokens: 844
 keywords: [cgcloud__Trigger_Setting__c, Custom, Setting, helper, clients, disable, certain, triggers, part, managed, package, API, version, 54.0, later]
 ---

@@ -5,7 +5,7 @@ topic: move-from-sfdx-v7-to-sf-v2
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.200Z
+lastCollected: 2026-04-07T09:06:14.374Z
 estimatedTokens: 2411
 keywords: [Move, sfdx, you’re, currently, highly, recommend, easy, uninstall, install, CLI, commands, you’ve, running, terminal, continuous]
 ---

@@ -6,7 +6,7 @@ topic: improve-amazon-transcribes-transcription-accuracy-with-custom-vocabulary-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.585Z
+lastCollected: 2026-04-07T09:06:17.822Z
 estimatedTokens: 1024
 keywords: [Improve, Amazon, Transcribe's, Transcription, Accuracy, Custom, Vocabulary, Filters, ensure, transcript, displays, terms, correct, spelling, capitalization]
 ---

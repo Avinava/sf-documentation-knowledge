@@ -5,7 +5,7 @@ topic: vpl360csrbasepackposttocart
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.147Z
+lastCollected: 2026-04-07T09:04:21.200Z
 estimatedTokens: 197
 keywords: [VPL360_CsrBasePackPosttocart, Integration, Procedure, base, packages, cart, items, display, agent, console, changing, package, subscriber, VPL360, _CsrBasePackPosttocart]
 ---

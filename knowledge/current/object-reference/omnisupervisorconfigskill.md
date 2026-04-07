@@ -5,7 +5,7 @@ topic: omnisupervisorconfigskill
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:13.410Z
+lastCollected: 2026-04-07T09:04:45.143Z
 estimatedTokens: 315
 keywords: [OmniSupervisorConfigSkill, skills, visible, supervisors, Command, Center, Service, configuration, appear, Backlog, tab, API, version, 53.0, later]
 ---

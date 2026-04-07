@@ -5,7 +5,7 @@ topic: getting-the-size-of-a-canvas-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.289Z
+lastCollected: 2026-04-07T09:05:04.229Z
 estimatedTokens: 125
 keywords: [Getting, Size, Canvas, App, code, how, call, console.log, function, outputs, frame, sizes, change, resize]
 ---

@@ -5,7 +5,7 @@ topic: clinicaldetectedissuedetailfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.222Z
+lastCollected: 2026-04-07T09:05:39.678Z
 estimatedTokens: 366
 keywords: [ClinicalDetectedIssueDetailFeed, Feed, tracking, ClinicalDetectedIssueDetail]
 ---

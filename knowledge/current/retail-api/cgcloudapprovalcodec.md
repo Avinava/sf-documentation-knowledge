@@ -5,7 +5,7 @@ topic: cgcloudapprovalcodec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.129Z
+lastCollected: 2026-04-07T09:05:19.474Z
 estimatedTokens: 928
 keywords: [cgcloud__Approval_Code__c, attributes, approval, code, users, API, version, 54.0, later, cgcloud, _Approval, _Code, Calls, Associated, Objects]
 ---

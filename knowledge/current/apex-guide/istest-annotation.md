@@ -6,7 +6,7 @@ topic: istest-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:41.696Z
+lastCollected: 2026-04-07T09:02:31.106Z
 estimatedTokens: 2469
 keywords: [IsTest, Annotation, @IsTest, IsParallel=true, indicate, test, classes, run, parallel, SeeAllData=true, OnInstall=true, critical=true, Beta, testFor=]
 ---

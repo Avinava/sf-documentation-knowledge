@@ -5,7 +5,7 @@ topic: service-appointments-create-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.314Z
+lastCollected: 2026-04-07T09:05:26.393Z
 estimatedTokens: 391
 keywords: [Service, Appointments, Input, representation, creating, appointment, assign, resources, generate, leads, either, parentRecordId, lead]
 ---

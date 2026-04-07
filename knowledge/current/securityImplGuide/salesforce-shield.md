@@ -5,7 +5,7 @@ topic: salesforce-shield
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:45.072Z
+lastCollected: 2026-04-07T09:05:28.940Z
 estimatedTokens: 925
 keywords: [Salesforce, Shield, trio, security, tools, helps, build, extra, levels, trust, compliance, governance, right, business-critical, apps]
 ---

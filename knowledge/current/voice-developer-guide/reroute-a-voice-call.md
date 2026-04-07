@@ -5,7 +5,7 @@ topic: reroute-a-voice-call
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:21.828Z
+lastCollected: 2026-04-07T09:06:18.198Z
 estimatedTokens: 336
 keywords: [Reroute, Voice, Call, Reroutes, Omni-Channel, Unified, Routing, enabled, URI, HTTP]
 ---

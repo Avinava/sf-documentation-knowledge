@@ -5,7 +5,7 @@ topic: pass-nonstandard-pre-chat-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:19.447Z
+lastCollected: 2026-04-07T09:06:14.740Z
 estimatedTokens: 1113
 keywords: [Pass, Nonstandard, Pre-Chat, Further, control, experience, Embedded, Service, code, snippet, Two, relate, extraPrechatFormDetails, extraPrechatInfo, send]
 ---

@@ -5,27 +5,39 @@ topic: messaging-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.618Z
-estimatedTokens: 1247
+lastCollected: 2026-04-07T09:02:29.736Z
+estimatedTokens: 1622
 namespace: Messaging
-keywords: [Messaging, classes, Salesforce, outbound, inbound, email, functionality]
+keywords: [Messaging, classes, Salesforce, notifications, email, functionality]
 ---
 
 # Messaging Namespace
 
-> The Messaging namespace
-provides classes and methods for Salesforce outbound and inbound email functionality.
+> The Messaging namespace provides classes and
+    methods for Salesforce notifications and email functionality.
 
 **Namespace:** `Messaging`
 
 # Messaging Namespace
 
-The Messaging namespace provides classes and methods for Salesforce outbound and inbound email functionality.
+The Messaging namespace provides classes and methods for Salesforce notifications and email functionality.
 
-The following are the classes in the Messaging namespace.
+The Messaging namespace includes these classes, enums, and interfaces.
 
 -   **[AttachmentRetrievalOption Enum](atlas.en-us.apexref.meta/apexref/apex_enum_Messaging_AttachmentRetrievalOptionEnum.htm)**
     Provides options for including attachment metadata only, attachment metadata and content, or excluding attachments.
+-   **[ActionableNotification Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionableNotification.htm#apex_class_Messaging_ActionableNotification)**
+    Contains information about an actionable custom notification.
+-   **[ActionableNotification.Builder Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionableNotification_Builder.htm#apex_class_Messaging_ActionableNotification_Builder)**
+    Contains methods to build an instance of the Messaging.ActionableNotification class, which is used to configure actionable notifications for mobile devices.
+-   **[ActionError Enum](atlas.en-us.apexref.meta/apexref/apex_enum_Messaging_ActionError.htm)**
+    Specifies the error that occurred during the execution of an actionable notification.
+-   **[ActionResult Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionResult.htm#apex_class_Messaging_ActionResult)**
+    Contains information about the execution of an actionable notification.
+-   **[ActionResult.Builder Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionResult_Builder.htm#apex_class_Messaging_ActionResult_Builder)**
+    Contains methods to build and validate an instance of the Messaging.ActionResult class.
+-   **[CustomNotification Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_CustomNotification.htm#apex_class_Messaging_CustomNotification)**
+    CustomNotification is used to create, configure, and send custom notifications from Apex code.
 -   **[Email Class (Base Email Methods)](atlas.en-us.apexref.meta/apexref/apex_classes_email_outbound_base.htm#apex_classes_email_outbound_base)**
     Contains base email methods common to both single and mass email.
 -   **[EmailFileAttachment Class](atlas.en-us.apexref.meta/apexref/apex_classes_email_outbound_attachment.htm#apex_classes_email_outbound_attachment)**
@@ -52,8 +64,8 @@ The following are the classes in the Messaging namespace.
     PushNotification is used to configure push notifications and send them from an Apex trigger.
 -   **[PushNotificationPayload Class](atlas.en-us.apexref.meta/apexref/apex_classes_push_notification_payload.htm)**
     Contains methods to create the notification message payload for an Apple device.
--   **[CustomNotification Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_CustomNotification.htm#apex_class_Messaging_CustomNotification)**
-    CustomNotification is used to create, configure, and send custom notifications from Apex code.
+-   **[NotificationActionHandler Interface](atlas.en-us.apexref.meta/apexref/apex_interface_Messaging_NotificationActionHandler.htm#apex_interface_Messaging_NotificationActionHandler)**
+    Implement this interface to execute an action on a custom notification.
 -   **[RenderEmailTemplateBodyResult Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_RenderEmailTemplateBodyResult.htm#apex_class_Messaging_RenderEmailTemplateBodyResult)**
     Contains the results for rendering email templates.
 -   **[RenderEmailTemplateError Class](atlas.en-us.apexref.meta/apexref/apex_class_Messaging_RenderEmailTemplateError.htm#apex_class_Messaging_RenderEmailTemplateError)**
@@ -68,12 +80,12 @@ The following are the classes in the Messaging namespace.
 ## Related Topics
 
 - AttachmentRetrievalOption Enum (atlas.en-us.apexref.meta/apexref/apex_enum_Messaging_AttachmentRetrievalOptionEnum.htm)
+- ActionableNotification Class (atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionableNotification.htm)
+- ActionableNotification.Builder Class (atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionableNotification_Builder.htm)
+- ActionError Enum (atlas.en-us.apexref.meta/apexref/apex_enum_Messaging_ActionError.htm)
+- ActionResult Class (atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionResult.htm)
+- ActionResult.Builder Class (atlas.en-us.apexref.meta/apexref/apex_class_Messaging_ActionResult_Builder.htm)
+- CustomNotification Class (atlas.en-us.apexref.meta/apexref/apex_class_Messaging_CustomNotification.htm)
 - Email Class (Base Email Methods) (atlas.en-us.apexref.meta/apexref/apex_classes_email_outbound_base.htm)
 - EmailFileAttachment Class (atlas.en-us.apexref.meta/apexref/apex_classes_email_outbound_attachment.htm)
 - InboundEmail Class (atlas.en-us.apexref.meta/apexref/apex_classes_email_inbound_inbound.htm)
-- InboundEmail.AuthenticationResult Class (atlas.en-us.apexref.meta/apexref/apex_class_Messaging_InboundEmail_AuthenticationResult.htm)
-- InboundEmail.AuthenticationResultField Class (atlas.en-us.apexref.meta/apexref/apex_class_Messaging_InboundEmail_AuthenticationResultField.htm)
-- InboundEmail.BinaryAttachment Class (atlas.en-us.apexref.meta/apexref/apex_classes_email_inbound_binary.htm)
-- InboundEmail.TextAttachment Class (atlas.en-us.apexref.meta/apexref/apex_classes_email_inbound_text.htm)
-- InboundEmailResult Class (atlas.en-us.apexref.meta/apexref/apex_classes_email_inbound_result.htm)
-- InboundEnvelope Class (atlas.en-us.apexref.meta/apexref/apex_classes_email_inbound_envelope.htm)

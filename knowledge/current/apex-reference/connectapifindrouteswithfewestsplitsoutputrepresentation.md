@@ -5,7 +5,7 @@ topic: connectapifindrouteswithfewestsplitsoutputrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:51.735Z
+lastCollected: 2026-04-07T09:02:23.960Z
 estimatedTokens: 265
 keywords: [inventory, location, combinations, fulfill, order, exceeding, maximum, number, shipments]
 ---

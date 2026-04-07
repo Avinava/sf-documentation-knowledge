@@ -5,21 +5,21 @@ topic: actionplantemplateitemvalue
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:43.955Z
-estimatedTokens: 582
-keywords: [ActionPlanTemplateItemValue, Life, Sciences, Cloud, extend, standard, represent, associated, action, plan, template, item, Calls, Objects]
+lastCollected: 2026-04-07T09:04:08.094Z
+estimatedTokens: 642
+keywords: [ActionPlanTemplateItemValue, Standard, custom, extend, represent, associated, action, plan, template, item, Calls, Life, Sciences, Cloud, standard, Objects]
 ---
 
 # ActionPlanTemplateItemValue
 
-> Life Sciences Cloud fields extend the standard ActionPlanTemplateItemValue
+> Standard and custom fields extend the standard ActionPlanTemplateItemValue
          object to represent the value associated with an action plan template item.
 
 # ActionPlanTemplateItemValue
 
-Life Sciences Cloud fields extend the standard ActionPlanTemplateItemValue object to represent the value associated with an action plan template item.
+Standard and custom fields extend the standard ActionPlanTemplateItemValue object to represent the value associated with an action plan template item.
 
-The ActionPlanTemplateItemValue object and its fields are used by the Key Account Management and the Provider Engagement Compliance feature areas. This topic only lists the fields used in Key Account Management. To learn about the fields that are used in Provider Engagement Compliance, see the ActionPlanTemplateItemValue object documentation in the Provider Engagement Compliance section.
+The ActionPlanTemplateItemValue object and its fields are used by the Key Account Management and the Provider Engagement Compliance feature areas. This topic only lists the fields used in Provider Engagement Compliance. To learn about the fields that are used in Key Account Management, see the ActionPlanTemplateItemValue object documentation in the Key Account Management section.
 
 ## Supported Calls
 
@@ -29,21 +29,19 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 
 | Field | Details |
 | --- | --- |
+| ActionPlanTemplateItemId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the compliance program cycle.This field is a relationship field.Relationship NameActionPlanTemplateItemRelationship TypeMaster-detailRefers ToActionPlanTemplateItem (the master object) |
+| ItemEntityFieldName | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe name of the field on the action plan template item that this value is for. Specifies the combination of Item Entity Type and Name field values.Possible values are:PrvdEngmtComplianceCycle.DurationInDays—Duration In Days |
+| ItemEntityType | TypepicklistPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionThe type of action plan template item.Possible values are:PrvdEngmtComplianceCycle—Provider Engagement Compliance Cycle |
+| Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe name of this record. |
 | SourceSystemIdentifier | TypestringPropertiesCreate, Filter, Group, idLookup, Nillable, Sort, UpdateDescriptionThe identifier of the record in the source system. |
 | SourceSystemName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the system from which data is loaded into this object. |
-
-## Associated Objects
-
-This object has the following associated objects. If the API version isn’t specified, they’re available in the same API versions as this object. Otherwise, they’re available in the specified API version and later.
-
-[ActionPlanTemplateItemValueChangeEvent](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm "A ChangeEvent object is available for each object that supports Change Data Capture. You can subscribe to a stream of change events using Change Data Capture to receive data tied to record changes in Salesforce. Changes include record creation, updates to an existing record, deletion of a record, and undeletion of a record. A change event isn’t a Salesforce object—it doesn’t support CRUD operations or queries. It’s included in the object reference so you can discover which Salesforce objects support change events.")
-
-Change events are available for the object.
+| ValueLiteral | TypetextareaPropertiesCreate, Filter, Nillable, UpdateDescriptionThe duration of the compliance program cycle in days. |
 
 #### See Also
 
--   [*Object Reference for the Salesforce Platform*: ActionPlanTemplateItemValue](https://developer.salesforce.com/docs/atlas.en-us.260.0.object_reference.meta/object_reference/sforce_api_objects_actionplantemplateitemvalue.htm)
+-   [*Key Account Management*: ActionPlanTemplateItemValue](atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_actionplantemplateitemvalue_kam.htm "Life Sciences Cloud fields extend the standard ActionPlanTemplateItemValue object to represent the value associated with an action plan template item.")
 
 ## Related Topics
 
+- Key Account Management: ActionPlanTemplateItemValue (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/lsc_sforce_api_objects_actionplantemplateitemvalue_kam.htm)
 - ActionPlanTemplateItemValueChangeEvent (atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/sforce_api_associated_objects_change_event.htm)

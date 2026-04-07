@@ -5,7 +5,7 @@ topic: course-offering-schedules-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:24.908Z
+lastCollected: 2026-04-07T09:03:42.177Z
 estimatedTokens: 229
 keywords: [Course, Offering, Schedules, POST, Add, modify, resource, adding, new, updating]
 ---

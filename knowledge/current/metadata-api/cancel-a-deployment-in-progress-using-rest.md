@@ -5,7 +5,7 @@ topic: cancel-a-deployment-in-progress-using-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:46:09.711Z
+lastCollected: 2026-04-07T09:02:43.777Z
 estimatedTokens: 307
 keywords: [Cancel, Deployment, Progress, REST, cancellation, that's, already, patching, status, ongoing, deployRequest, processed, asynchronously, API, versions]
 ---

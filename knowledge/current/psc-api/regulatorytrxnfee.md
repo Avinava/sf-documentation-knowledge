@@ -5,7 +5,7 @@ topic: regulatorytrxnfee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.493Z
+lastCollected: 2026-04-07T09:05:14.487Z
 estimatedTokens: 868
 keywords: [RegulatoryTrxnFee, association, regulatory, transaction, fees, applications, inspections, violations, API, version, 51.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: apexvariable
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.234Z
+lastCollected: 2026-04-07T09:04:58.605Z
 estimatedTokens: 352
 keywords: [apex, variable, local, replacement, expression, component, <apex, variable>, reduce, repetitive, verbose, expressions, Attributes]
 ---

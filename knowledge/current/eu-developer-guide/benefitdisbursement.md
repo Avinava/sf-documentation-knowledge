@@ -5,7 +5,7 @@ topic: benefitdisbursement
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:27.054Z
+lastCollected: 2026-04-07T09:03:45.181Z
 estimatedTokens: 1127
 keywords: [BenefitDisbursement, allocation, enrollee's, benefit, made, monetary, non-monetary, different, frequencies, Program, Management, API, version, 57.0, later]
 ---

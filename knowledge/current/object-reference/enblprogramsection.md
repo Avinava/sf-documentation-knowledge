@@ -5,7 +5,7 @@ topic: enblprogramsection
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:08.613Z
+lastCollected: 2026-04-07T09:04:39.584Z
 estimatedTokens: 635
 keywords: [EnblProgramSection, Enablement, program, include, items, milestones, exercises, API, version, 60.0, later, Calls, Special, Access, Rules]
 ---

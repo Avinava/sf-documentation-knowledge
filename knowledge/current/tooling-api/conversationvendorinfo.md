@@ -5,7 +5,7 @@ topic: conversationvendorinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.202Z
+lastCollected: 2026-04-07T09:02:46.715Z
 estimatedTokens: 3595
 keywords: [ConversationVendorInfo, setup, connects, partner, vendor, system, Service, Cloud, feature, Voice, telephony, Contact, Center, CCaaS, Bring]
 ---

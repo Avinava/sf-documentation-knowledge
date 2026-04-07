@@ -5,7 +5,7 @@ topic: migrate-your-subscribers-from-1gp-to-2gp
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:25.474Z
+lastCollected: 2026-04-07T09:05:01.700Z
 estimatedTokens: 824
 keywords: [Migrate, Subscribers, 1GP, 2GP, ready, converted, package, install, subscriber, org, already, managed, version, installed, migration]
 ---
@@ -64,5 +64,5 @@ From time to time, Salesforce migrates production orgs from one instance to anot
 ## Code Examples
 
 ```
-sf package push-upgrade schedule --migrate-to-2gp --package-version 04txyz --scheduled-start-time "2024-12-06T21:00:00" --org-file upgrade-orgs.csv
+sf package push-upgrade schedule --migrate-to-2gp --package 04txyz --start-time "2024-12-06T21:00:00" --org-file upgrade-orgs.csv
 ```

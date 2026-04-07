@@ -5,7 +5,7 @@ topic: commerce-webstore-promotions-coupon-code-redemption-decrease
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.808Z
+lastCollected: 2026-04-07T09:03:26.160Z
 estimatedTokens: 257
 keywords: [Commerce, Webstore, Promotions, Coupon, Code, Redemption, Decrease, usage, revert, previously, redeemed]
 ---

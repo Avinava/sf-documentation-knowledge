@@ -5,8 +5,8 @@ topic: create-out-of-sequence-policy-endorsement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.028Z
-estimatedTokens: 1349
+lastCollected: 2026-04-07T09:04:04.042Z
+estimatedTokens: 1352
 keywords: [Sequence, Policy, Endorsement, Perform, backdated, change, past, current, future, term, another, version, effective, date, later]
 ---
 
@@ -39,7 +39,7 @@ When you retrieve the policy context and run a product-rating call, it uses the 
 
 This diagram outlines the sequence for creating an out-of-sequence policy endorsement using a quote.
 
-![oose_with_quote](/docs/resources/img/en-us/260.0?doc_id=insurance%2Fimages%2Foutofseq_endorse_with_quote.png&folder=insurance_developer_guide)
+![oose_with_quote](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Finsurance%2Fimages%2Foutofseq_endorse_with_quote.png&folder=insurance_developer_guide)
 
 1.  **Get Policy Context**—Use the policy ID to get the context either by:
     -   Making a GET request on the [Insurance Policy Details](https://developer.salesforce.com/docs/atlas.en-us.260.0.insurance_developer_guide.meta/insurance_developer_guide/connect_resources_get_policy.htm "HTML (New Window)") Connect API, or

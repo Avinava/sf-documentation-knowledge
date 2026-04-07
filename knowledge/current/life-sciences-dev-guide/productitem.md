@@ -5,7 +5,7 @@ topic: productitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.946Z
+lastCollected: 2026-04-07T09:04:10.426Z
 estimatedTokens: 1017
 keywords: [ProductItem, stock, particular, product, location, service, bolts, stored, main, warehouse, Calls, Special, Access, Rules, Usage]
 ---

@@ -5,7 +5,7 @@ topic: configure-the-xmd-for-a-dataset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.758Z
+lastCollected: 2026-04-07T09:03:16.219Z
 estimatedTokens: 782
 keywords: [Configure, XMD, Dataset, file, override, appearance, add, actions, dimensions, charts, tables, separate]
 ---

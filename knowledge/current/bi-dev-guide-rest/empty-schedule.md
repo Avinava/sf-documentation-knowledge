@@ -5,7 +5,7 @@ topic: empty-schedule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:04.308Z
+lastCollected: 2026-04-07T09:03:10.723Z
 estimatedTokens: 70
 keywords: [Empty, Schedule, Specify, Analytics, asset]
 ---

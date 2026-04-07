@@ -5,7 +5,7 @@ topic: setgatewaymessagegatewaymessage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:45.138Z
+lastCollected: 2026-04-07T09:02:18.993Z
 estimatedTokens: 110
 keywords: [setGatewayMessage, gatewayMessage, error, messages, gateway, tokenization, Maximum, length, characters]
 ---

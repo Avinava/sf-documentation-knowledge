@@ -5,7 +5,7 @@ topic: set-up-service-cloud-voice-for-partner-telephony-in-your-org
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:22.155Z
+lastCollected: 2026-04-07T09:06:18.708Z
 estimatedTokens: 2576
 keywords: [Service, Cloud, Voice, Partner, Telephony, Org, licenses, added, Salesforce, admins, open, Setup, follow, steps, their]
 ---

@@ -5,7 +5,7 @@ topic: request-bodies
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.029Z
+lastCollected: 2026-04-07T09:04:22.468Z
 estimatedTokens: 490
 keywords: [Bodies, Here’s, Manufacturing, Cloud, Business, API]
 ---

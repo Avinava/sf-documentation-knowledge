@@ -5,7 +5,7 @@ topic: insurancerateplanlineitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.800Z
+lastCollected: 2026-04-07T09:03:50.149Z
 estimatedTokens: 1131
 keywords: [InsuranceRatePlanLineItem, insurance, rates, that's, provided, carriers, specific, employees, certain, tiers, under, policy, coverage, API, version]
 ---

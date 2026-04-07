@@ -5,7 +5,7 @@ topic: action-launcher-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.367Z
+lastCollected: 2026-04-07T09:05:07.022Z
 estimatedTokens: 181
 keywords: [Action, Launcher, Metadata, deployment]
 ---

@@ -5,7 +5,7 @@ topic: connectapimentionvalidation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.977Z
+lastCollected: 2026-04-07T09:02:24.813Z
 estimatedTokens: 262
 keywords: [ConnectApi.MentionValidation, whether, proposed, mention, context, user]
 ---

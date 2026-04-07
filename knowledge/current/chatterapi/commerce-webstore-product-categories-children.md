@@ -5,7 +5,7 @@ topic: commerce-webstore-product-categories-children
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.471Z
+lastCollected: 2026-04-07T09:03:25.674Z
 estimatedTokens: 494
 keywords: [Commerce, Webstore, Product, Categories, Children, specific, parent, category, top-level, store]
 ---

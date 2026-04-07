@@ -5,27 +5,27 @@ topic: develop-and-package-agent-templates-using-scratch-orgs
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.084Z
-estimatedTokens: 1866
+lastCollected: 2026-04-07T09:05:02.640Z
+estimatedTokens: 1926
 keywords: [Develop, Package, Agent, Templates, Scratch, Orgs, high-level, agents, distributed, ISVs, template, test, namespaced, org, retrieve]
 ---
 
 # Develop and Package Agent Templates Using Scratch Orgs
 
 > At a high-level, agents are distributed by ISVs as agent templates. To package an agent
-  template you first create and test an agent in a namespaced scratch org, retrieve the agent to
-  your Salesforce DX project, generate an agent template from the agent using Salesforce CLI, and
-  finally package the agent template.
+    template, you first create and test an agent in a namespaced scratch org. Then retrieve the
+    agent to your Salesforce DX project, generate an agent template from the agent using Salesforce
+    CLI, and finally package the agent template.
 
 # Develop and Package Agent Templates Using Scratch Orgs
 
-At a high-level, agents are distributed by ISVs as agent templates. To package an agent template you first create and test an agent in a namespaced scratch org, retrieve the agent to your Salesforce DX project, generate an agent template from the agent using Salesforce CLI, and finally package the agent template.
+At a high-level, agents are distributed by ISVs as agent templates. To package an agent template, you first create and test an agent in a namespaced scratch org. Then retrieve the agent to your Salesforce DX project, generate an agent template from the agent using Salesforce CLI, and finally package the agent template.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=pkg2_dev)
 
 #### Important
 
-If you’re packaging an agent template in October 2025 or later, follow the [workaround instructions for packaging agent templates](https://help.salesforce.com/s/issue?id=a02Ka00000ji2nu). Due to a known issue with packaging local actions and topics, you must package agent templates using the workaround instructions at this time.
+You can't create packageable agent templates from agents that use Agent Script as their blueprint.
 
 Workflow for Agent Template Development
 
@@ -33,7 +33,7 @@ Workflow for Agent Template Development
 
 ## Agent and Agent Template Metadata
 
-To package an agent template it helps to first understand the metadata types that make up an agent and an agent template.
+To package an agent template, it helps to first understand the metadata types that make up an agent and an agent template.
 
 Agents are defined by these major metadata types.
 
@@ -41,7 +41,9 @@ Agents are defined by these major metadata types.
 -   BotVersion
 -   GenAiPlannerBundle
 
-The GenAiPlannerBundle type in turn defines the agent's topics and actions. The agent generate template Salesforce CLI command brings together the metadata files for these three types and generates a BotTemplate file for a specific agent (Bot and BotVersion). You then use the BotTemplate file, and the GenAiPlannerBundle file, to package the agent template in a managed package.
+The GenAiPlannerBundle type in turn defines the agent's actions and subagents. The agent generate template Salesforce CLI command brings together the metadata files for these three types and generates a BotTemplate file for a specific agent (Bot and BotVersion). The command also generates a new GenAiPlannerBundle file, which is different from the original file. Specifically, the new packageable GenAiPlannerBundle file replaces references to the local version of assets (which can't be packaged) with references to their global equivalents.
+
+You then use the BotTemplate file, and the new GenAiPlannerBundle file, to package the agent template in a managed package.
 
 ![Compare the MD types for agent MD with the agent template MD types](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Fmanaged_packaging%2Fimages%2Fpkg_agent_metadata.png&folder=pkg2_dev)
 
@@ -85,7 +87,7 @@ To package BotTemplate metadata, you must first [enable Einstein Chatbot](https:
 
 ## Develop Your Agentforce Package
 
-After you have built and tested your agent, you are ready to start packaging it.
+After you have built and tested your agent, you're ready to start packaging it.
 
 1.  Retrieve the relevant metadata into your Salesforce DX project.
 
@@ -95,7 +97,7 @@ After you have built and tested your agent, you are ready to start packaging it.
 
 2.  Create an agent template metadata source file.
 
-    In this example, we are generating an agent template from a Bot metadata file in your DX project that corresponds to the My\_Awesome\_Agent agent. A single Bot can have multiple BotVersions. Use the \--agent-version flag to specify the version.
+    In this example, we're generating an agent template from a Bot metadata file in your DX project that corresponds to the My\_Awesome\_Agent agent. A single Bot can have multiple BotVersions. Use the \--agent-version flag to specify the version. Set the required \--source-org flag to your scratch org.
 
     ```
 
@@ -109,7 +111,8 @@ After you have built and tested your agent, you are ready to start packaging it.
 
     ```
 
-4.  When you're satisfied with your agent template, remove the following metadata from your package directory.
+4.  Test your agent template in your scratch org by creating an agent using the template you just deployed. Ensure that the new agent works as you expect.
+5.  When you're satisfied with your agent template, remove the following metadata from your package directory.
 
     1.  The GenAiPlannerBundle file that was part of your original agent. This file was used to create a new, separate GenAiPlannerBundle file for your agent template and is not necessary to package. Remove the GenAiPlannerBundle file that does not have “Template” in the name.
     2.  The Bot and BotVersion. Removing these metadata types prevents errors during packaging, since agents aren’t packageable.
@@ -120,7 +123,7 @@ After you have built and tested your agent, you are ready to start packaging it.
 
     To package prompt templates, you must assign permissions in the sfdx-project.json file. See [Packaging Considerations for Prompt Templates](https://help.salesforce.com/s/articleView?id=ai.prompt_builder_considerations_packaging.htm&type=5&language=en_US).
 
-5.  After you’ve tested your agent, [create a new package version](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev_dev2gp_create_pkg_ver.htm) that contains the template and all dependencies. Possible dependencies include: topics, actions, Apex classes, flows, and prompt templates.
+6.  [Create a new package version](https://developer.salesforce.com/docs/atlas.en-us.pkg2_dev.meta/pkg2_dev/sfdx_dev_dev2gp_create_pkg_ver.htm) that contains the template and all dependencies. Possible dependencies include: topics, actions, Apex classes, flows, and prompt templates.
 
     ```
 
@@ -158,7 +161,7 @@ sf project retrieve start --metadata Agent:My_Awesome_Agent –-target-org MyNam
 ```
 
 ```
-sf agent generate template --agent-file force-app/main/default/bots/My_Awesome_Agent/My_Awesome_Agent.bot-meta.xml --agent-version 1
+sf agent generate template --agent-file force-app/main/default/bots/My_Awesome_Agent/My_Awesome_Agent.bot-meta.xml --agent-version 1 --source-org MyNamespacedScratchOrg
 ```
 
 ```

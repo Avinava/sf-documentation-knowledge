@@ -5,7 +5,7 @@ topic: changetierinputbuilder-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.505Z
+lastCollected: 2026-04-07T09:04:16.524Z
 estimatedTokens: 1283
 namespace: LoyaltyManagement
 keywords: [ChangeTierInputBuilder, build, instance, LoyaltyManagement.ChangeTierInput, setChangeReason, changeReason, setLoyaltyProgramMemberId, loyaltyProgramMemberId, setProgramName, programName, setTargetTierName, targetTierName, setTierGroupName, tierGroupName]

@@ -5,7 +5,7 @@ topic: benefitassignmentasset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:33.143Z
+lastCollected: 2026-04-07T09:05:12.854Z
 estimatedTokens: 767
 keywords: [BenefitAssignmentAsset, junction, asset, benefit, assignment, API, version, 65.0, later, Calls, Associated, Objects]
 ---

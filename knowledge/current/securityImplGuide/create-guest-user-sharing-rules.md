@@ -5,7 +5,7 @@ topic: create-guest-user-sharing-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.204Z
+lastCollected: 2026-04-07T09:05:29.127Z
 estimatedTokens: 809
 keywords: [Guest, User, Sharing, Rules, rule, special, criteria-based, way, grant, record, access, unauthenticated, users]
 ---

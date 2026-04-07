@@ -5,7 +5,7 @@ topic: commerce-webstore-promotions-evaluate-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.537Z
+lastCollected: 2026-04-07T09:03:25.748Z
 estimatedTokens: 730
 keywords: [Commerce, Webstore, Promotions, Evaluate, Action, Determine, customer, eligible, store, buyer, group, compute, applicable, price, adjustments]
 ---

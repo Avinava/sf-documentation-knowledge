@@ -5,7 +5,7 @@ topic: search
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:42.033Z
+lastCollected: 2026-04-07T09:05:24.268Z
 estimatedTokens: 90
 keywords: [Search, large, volumes, data, added, changed, system, index, becomes, users, process, take, long, time]
 ---

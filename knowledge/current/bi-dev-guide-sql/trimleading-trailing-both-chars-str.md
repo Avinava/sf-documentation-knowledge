@@ -6,7 +6,7 @@ topic: trimleading-trailing-both-chars-str
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.295Z
+lastCollected: 2026-04-07T09:03:15.446Z
 estimatedTokens: 373
 keywords: [trim, LEADING, TRAILING, chars, str, Removes, characters, function, blank, spaces]
 ---

@@ -5,7 +5,7 @@ topic: esmlinkproducts-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:26.943Z
+lastCollected: 2026-04-07T09:03:44.990Z
 estimatedTokens: 36
 keywords: [ESM_LinkProducts, API, Saves, QLI, product, relationship, ESM, _LinkProducts, URI, HTTP]
 ---

@@ -5,8 +5,8 @@ topic: flow-for-insurance-product-administration
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.987Z
-estimatedTokens: 214
+lastCollected: 2026-04-07T09:04:03.971Z
+estimatedTokens: 198
 keywords: [Flow, Insurance, Product, Administration, metadata, associated, application, users, series, pages, query, records, database, execute, logic]
 ---
 
@@ -27,4 +27,4 @@ Insurance Product Administration exposes additional actionType values for the Fl
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
-| actionType | InvocableActionType (enumeration of type string) | Required.The action type. Additional valid values only for Insurance Product Administration include:invokeUnderwritingRules—Calculate the adjusted amount for a loss item and generate data for Insurance Policy Limit Tracking and Claim Coverage Payment Adjustment records. |
+| actionType | InvocableActionType (enumeration of type string) | Required.The action type. Additional valid values only for Insurance Product Administration include:invokeUnderwritingRules—Invoke the underwriting rules for different insurance records during the run time. |

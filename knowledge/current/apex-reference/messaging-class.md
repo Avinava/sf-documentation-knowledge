@@ -5,8 +5,8 @@ topic: messaging-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.861Z
-estimatedTokens: 5968
+lastCollected: 2026-04-07T09:02:18.411Z
+estimatedTokens: 6099
 namespace: System
 keywords: [Messaging, email, service, code, control, how, parse, process, forwarded, attached, emails, instance, Messaging.InboundEmail, stream, data]
 ---
@@ -27,6 +27,14 @@ Contains messaging methods used when sending a single or mass email.
 ## Namespace
 
 [System](atlas.en-us.apexref.meta/apexref/apex_namespace_System.htm "The System namespace provides classes and methods for core Apex functionality.")
+
+## Usage
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexref)
+
+#### Important
+
+Sending email by using Apex requires domain-level and user-level email verification. System-generated emails also require verification of the From email address. Email delivery fails if any of these verifications is incomplete. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 ## Messaging Methods
 

@@ -5,7 +5,7 @@ topic: retrieval-summary-result-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.702Z
+lastCollected: 2026-04-07T09:03:47.642Z
 estimatedTokens: 80
 keywords: [Retrieval, Summary, Result, Record, Output, representation, definition, call]
 ---

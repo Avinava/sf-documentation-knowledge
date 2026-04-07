@@ -5,7 +5,7 @@ topic: claimpaymentsummary
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:29.797Z
+lastCollected: 2026-04-07T09:03:48.979Z
 estimatedTokens: 696
 keywords: [ClaimPaymentSummary, amount, money, that's, paid, claimant, claim, participant, cover, API, version, 51.0, later, Calls, Associated]
 ---

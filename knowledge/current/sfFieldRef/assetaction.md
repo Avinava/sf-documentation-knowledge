@@ -5,7 +5,7 @@ topic: assetaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:48.636Z
+lastCollected: 2026-04-07T09:05:33.723Z
 estimatedTokens: 777
 keywords: [AssetAction, change, made, lifecycle-managed, asset, can’t, edited, API, version, 50.0, later]
 ---

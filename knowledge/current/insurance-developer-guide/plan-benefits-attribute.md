@@ -5,7 +5,7 @@ topic: plan-benefits-attribute
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:39.942Z
+lastCollected: 2026-04-07T09:04:02.281Z
 estimatedTokens: 179
 keywords: [Plan, Benefits, Attribute, attributes, Insurance, Policy, Coverage]
 ---

@@ -5,7 +5,7 @@ topic: loyaltypgmmbrpromeligview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:53.169Z
+lastCollected: 2026-04-07T09:04:19.986Z
 estimatedTokens: 1680
 keywords: [LoyaltyPgmMbrPromEligView, virtual, consolidated, view, loyalty, program, member’s, eligibility, promotion, their, enrollment, status, eligible, promotions, API]
 ---

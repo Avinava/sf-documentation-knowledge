@@ -5,7 +5,7 @@ topic: managedcontent-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:41.033Z
+lastCollected: 2026-04-07T09:02:13.014Z
 estimatedTokens: 19548
 namespace: ConnectApi
 keywords: [ManagedContent, Clone, managed, content, digital, asset, management, DAM, provider, instance, replace, variants, channels, space, providers]
@@ -1700,7 +1700,7 @@ Type: [ConnectApi.ManagedContentProviderInstance](atlas.en-us.apexref.meta/apexr
 
 These methods for ManagedContent are retired.
 
--   **[getAllDeliveryChannels(pageParam, pageSize)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#unique_2070512392)**
+-   **[getAllDeliveryChannels(pageParam, pageSize)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#unique_879860787)**
     Get managed content delivery channels for the context user.
 -   **[getManagedContentSpace(contentSpaceId)](atlas.en-us.apexref.meta/apexref/apex_ConnectAPI_ManagedContent_static_methods.htm#apex_ConnectAPI_ManagedContent_getManagedContentSpace_1)**
     Get a managed content space.

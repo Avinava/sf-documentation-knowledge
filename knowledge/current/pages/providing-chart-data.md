@@ -5,7 +5,7 @@ topic: providing-chart-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:21.968Z
+lastCollected: 2026-04-07T09:04:56.817Z
 estimatedTokens: 716
 keywords: [Providing, Chart, Data, Visualforce, binds, source, attribute, <apex, chart>, component]
 ---

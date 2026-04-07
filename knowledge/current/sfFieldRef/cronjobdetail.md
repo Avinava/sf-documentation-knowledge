@@ -5,7 +5,7 @@ topic: cronjobdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:55.133Z
+lastCollected: 2026-04-07T09:05:42.044Z
 estimatedTokens: 190
 keywords: [CronJobDetail, associated, scheduled, job, job’s, API, version, 29.0, later]
 ---

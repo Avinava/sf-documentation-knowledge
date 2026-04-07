@@ -5,7 +5,7 @@ topic: academictermgpacalcevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:28.177Z
+lastCollected: 2026-04-07T09:05:05.621Z
 estimatedTokens: 278
 keywords: [AcademicTermGpaCalcEvent, resources, execution, academic, term, GPA, calculation, policy, rule, API, version, 63.0, later, Calls]
 ---

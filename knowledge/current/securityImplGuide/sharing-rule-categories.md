@@ -5,7 +5,7 @@ topic: sharing-rule-categories
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.160Z
+lastCollected: 2026-04-07T09:05:29.062Z
 estimatedTokens: 930
 keywords: [Sharing, Rule, Categories, define, choose, owned, members, Share, dropdown, Depending, features, enabled, organization, may, appear]
 ---

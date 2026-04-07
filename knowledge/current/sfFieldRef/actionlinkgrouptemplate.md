@@ -5,7 +5,7 @@ topic: actionlinkgrouptemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.217Z
+lastCollected: 2026-04-07T09:05:30.558Z
 estimatedTokens: 484
 namespace: NamespacePrefix
 keywords: [ActionLinkGroupTemplate, Action, link, templates, let, reuse, definitions, package, distribute, links, button, feed, element, Clicking, take]

@@ -5,7 +5,7 @@ topic: ios-simulator-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:53:51.117Z
+lastCollected: 2026-04-07T09:03:02.618Z
 estimatedTokens: 1085
 keywords: [iOS, Simulator, Setup, development, it’s, convenient, test, code, virtual, device, Xcode, install, build, mobile, app]
 ---

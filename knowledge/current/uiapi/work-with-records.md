@@ -5,7 +5,7 @@ topic: work-with-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:20.047Z
+lastCollected: 2026-04-07T09:06:15.547Z
 estimatedTokens: 502
 keywords: [Work, Records, User, API, build, lets, users, Salesforce, Let’s, look, two, trickier, aspects, how, child]
 ---

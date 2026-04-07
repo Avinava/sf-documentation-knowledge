@@ -5,7 +5,7 @@ topic: knowledgefeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.842Z
+lastCollected: 2026-04-07T09:04:05.128Z
 estimatedTokens: 1781
 keywords: [Knowledge__Feed, feed, knowledge, article, API, version, 39.0, later, _Feed, Calls, Special, Access, Rules]
 ---

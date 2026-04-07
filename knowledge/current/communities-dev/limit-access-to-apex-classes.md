@@ -5,7 +5,7 @@ topic: limit-access-to-apex-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.482Z
+lastCollected: 2026-04-07T09:03:39.999Z
 estimatedTokens: 180
 keywords: [Limit, Access, Apex, Classes, Allow, guest, external, users, they, call]
 ---

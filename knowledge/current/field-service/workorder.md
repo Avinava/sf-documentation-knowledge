@@ -5,7 +5,7 @@ topic: workorder
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:50.950Z
+lastCollected: 2026-04-07T09:03:02.460Z
 estimatedTokens: 4506
 keywords: [WorkOrder, service, work, performed, customer, API, version, 36.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---

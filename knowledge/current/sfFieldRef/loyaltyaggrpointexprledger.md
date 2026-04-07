@@ -5,7 +5,7 @@ topic: loyaltyaggrpointexprledger
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:03.082Z
+lastCollected: 2026-04-07T09:05:52.731Z
 estimatedTokens: 295
 keywords: [LoyaltyAggrPointExprLedger, non-qualifying, currency, points, expire, fixed, model, tier, group]
 ---

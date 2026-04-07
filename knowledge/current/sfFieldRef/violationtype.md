@@ -5,7 +5,7 @@ topic: violationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:16.654Z
+lastCollected: 2026-04-07T09:06:10.992Z
 estimatedTokens: 330
 keywords: [ViolationType, violations, licenses, permits, API, version, 49.0, later]
 ---

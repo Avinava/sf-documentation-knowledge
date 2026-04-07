@@ -6,7 +6,7 @@ topic: positionsearchstr-in-sourcestr
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:07.282Z
+lastCollected: 2026-04-07T09:03:15.421Z
 estimatedTokens: 104
 keywords: [position, search_str, source_str, occurrence, substring, found, function, search, _str, source]
 ---

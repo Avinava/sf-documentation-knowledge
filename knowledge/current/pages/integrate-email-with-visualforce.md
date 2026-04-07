@@ -5,7 +5,7 @@ topic: integrate-email-with-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.535Z
+lastCollected: 2026-04-07T09:04:59.048Z
 estimatedTokens: 186
 keywords: [Integrate, Email, Visualforce, send, any, contacts, leads, recipients, possible, reusable, templates, take, advantage, Visualforce's, ability]
 ---

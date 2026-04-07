@@ -5,7 +5,7 @@ topic: promotionstageevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:35.956Z
+lastCollected: 2026-04-07T09:05:16.336Z
 estimatedTokens: 554
 keywords: [PromotionStageEvent, event, associated, creating, updating, promotion, stage, including, code, target, audience, API, version, 65.0, later]
 ---

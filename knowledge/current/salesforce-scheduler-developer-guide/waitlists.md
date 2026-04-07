@@ -5,8 +5,8 @@ topic: waitlists
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:43.370Z
-estimatedTokens: 485
+lastCollected: 2026-04-07T09:05:26.472Z
+estimatedTokens: 431
 keywords: [Waitlists, waitlist, participants, queue, includes, scheduled, appointment]
 ---
 
@@ -66,10 +66,6 @@ Request parameters for GET
 Response body for GET
 
 [Waitlist Output](atlas.en-us.salesforce_scheduler_developer_guide.meta/salesforce_scheduler_developer_guide/connect_responses_waitlist_output.htm "Output representation of the waitlist result.")
-
-#### See Also
-
--   [*Salesforce Help*: Manage Waitlists](https://help.salesforce.com/s/articleView?id=platform.ls_manage_waitlists.htm&type=5&language=en_US "Salesforce Help: Manage Waitlists - HTML (New Window)")
 
 ## Code Examples
 

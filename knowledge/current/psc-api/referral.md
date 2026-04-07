@@ -5,7 +5,7 @@ topic: referral
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:34.439Z
+lastCollected: 2026-04-07T09:05:14.419Z
 estimatedTokens: 2322
 keywords: [Referral, client, referrals, organization, API, version, 56.0, later, Calls, Associated, Objects]
 ---

@@ -5,7 +5,7 @@ topic: call-salesforce-urls-within-a-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.566Z
+lastCollected: 2026-04-07T09:05:01.840Z
 estimatedTokens: 1257
 keywords: [Call, Salesforce, URLs, Package, serves, target, org, vary, configuration, build, packages, support, possible, URL, formats]
 ---

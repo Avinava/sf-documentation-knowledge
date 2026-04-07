@@ -5,7 +5,7 @@ topic: salesforce-scheduler-data-model-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:35:43.556Z
+lastCollected: 2026-04-07T09:05:26.784Z
 estimatedTokens: 186
 keywords: [Salesforce, Scheduler, Data, Model, objects, relationships, represent, appointments, employees, scheduled, attend]
 ---

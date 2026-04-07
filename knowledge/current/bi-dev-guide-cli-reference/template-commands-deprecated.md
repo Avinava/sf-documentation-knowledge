@@ -5,7 +5,7 @@ topic: template-commands-deprecated
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:34:02.098Z
+lastCollected: 2026-04-07T09:03:07.459Z
 estimatedTokens: 5747
 keywords: [template, Commands, Deprecated, manage, Analytics, templates, Examples, Command, display, lint, validate]
 ---

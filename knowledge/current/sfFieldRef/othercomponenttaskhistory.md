@@ -5,7 +5,7 @@ topic: othercomponenttaskhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:06.206Z
+lastCollected: 2026-04-07T09:05:57.016Z
 estimatedTokens: 268
 keywords: [OtherComponentTaskHistory, History, tracked, OtherComponentTask]
 ---

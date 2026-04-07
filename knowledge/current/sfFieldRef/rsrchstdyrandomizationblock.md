@@ -5,7 +5,7 @@ topic: rsrchstdyrandomizationblock
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:12.727Z
+lastCollected: 2026-04-07T09:06:05.705Z
 estimatedTokens: 376
 keywords: [RsrchStdyRandomizationBlock, block, that’s, generated, research, study, randomization, API, version, 61.0, later]
 ---

@@ -5,7 +5,7 @@ topic: sample-script-for-installing-second-generation-managed-packages-with-depe
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:27.067Z
+lastCollected: 2026-04-07T09:05:03.851Z
 estimatedTokens: 137
 keywords: [Sample, Script, Installing, Second-Generation, Managed, Packages, Dependencies, basis, own, install, query, finds, dependent, installs, correct]
 ---

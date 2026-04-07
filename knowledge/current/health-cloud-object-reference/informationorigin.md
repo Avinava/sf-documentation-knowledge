@@ -5,7 +5,7 @@ topic: informationorigin
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:35.512Z
+lastCollected: 2026-04-07T09:03:56.255Z
 estimatedTokens: 204
 keywords: [InformationOrigin, CRDMetricData, FHIR, resource, maps, AssessmentQuestionResponse, V4.0, Discovery, Framework, Data, Model, Mapping]
 ---

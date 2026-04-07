@@ -5,7 +5,7 @@ topic: promotionsegmentbuyergroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:10.630Z
+lastCollected: 2026-04-07T09:06:02.673Z
 estimatedTokens: 356
 keywords: [PromotionSegmentBuyerGroup, promotion, segment, associated, buyer, group, B2B, Commerce, API, version, 52.0, later]
 ---

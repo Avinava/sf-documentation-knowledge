@@ -5,7 +5,7 @@ topic: crm-analytics-dashboard-json-overview
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:02.252Z
+lastCollected: 2026-04-07T09:03:07.679Z
 estimatedTokens: 160
 keywords: [CRM, Analytics, Dashboard, JSON, easiest, way, build, designer, However, needed, further, customize, dashboards, editing, their]
 ---

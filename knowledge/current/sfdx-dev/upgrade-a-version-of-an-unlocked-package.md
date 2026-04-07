@@ -5,7 +5,7 @@ topic: upgrade-a-version-of-an-unlocked-package
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.797Z
+lastCollected: 2026-04-07T09:06:13.850Z
 estimatedTokens: 935
 keywords: [Upgrade, Version, Unlocked, Package, occurs, install, new, org, previous, installed]
 ---

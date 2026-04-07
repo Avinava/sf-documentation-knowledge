@@ -5,7 +5,7 @@ topic: connectapiserviceprocessrecordrepresentation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:47.911Z
+lastCollected: 2026-04-07T09:02:50.460Z
 estimatedTokens: 184
 keywords: [Service, process, record, output]
 ---

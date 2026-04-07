@@ -5,7 +5,7 @@ topic: changerequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:06.418Z
+lastCollected: 2026-04-07T09:04:36.825Z
 estimatedTokens: 1865
 keywords: [ChangeRequest, decision, implement, formal, change, RFC, API, version, 53.0, later, Calls, Associated, Objects]
 ---

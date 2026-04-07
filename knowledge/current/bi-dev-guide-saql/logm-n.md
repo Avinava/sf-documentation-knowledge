@@ -5,7 +5,7 @@ topic: logm-n
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.448Z
+lastCollected: 2026-04-07T09:03:14.134Z
 estimatedTokens: 81
 keywords: [log, natural, logarithm, base, number, any, positive, non-zero, numeric, range, 1e308, smallest, produce, 0.3e-323, function]
 ---

@@ -5,7 +5,7 @@ topic: fieldmapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:44.997Z
+lastCollected: 2026-04-07T09:02:47.508Z
 estimatedTokens: 606
 keywords: [FieldMapping, mapping, org, data, service, uses, two, separate, maps, how, matches, records, adds, updates, record]
 ---

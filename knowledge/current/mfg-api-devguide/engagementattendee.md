@@ -5,18 +5,18 @@ topic: engagementattendee
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:55.690Z
+lastCollected: 2026-04-07T09:04:23.402Z
 estimatedTokens: 1321
 keywords: [EngagementAttendee, attendee, engagement, customer, initiates, interaction, calling, service, representative, inquire, insurance, claim, stores, API, version]
 ---
 
 # EngagementAttendee
 
-> Represents information about an
-         attendee of an engagement. For example, when a customer initiates an engagement interaction
-         by calling a service representative to inquire about an insurance claim, this object stores
-         information about the customer and the service representative. This object is
-      available in API version 55.0 and later
+> Represents information about an attendee of an
+      engagement. For example, when a customer initiates an engagement interaction by calling a
+      service representative to inquire about an insurance claim, this object stores information
+      about the customer and the service representative. This object is available in API version
+      55.0 and later
 
 # EngagementAttendee
 

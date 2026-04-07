@@ -5,7 +5,7 @@ topic: asset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:49.863Z
+lastCollected: 2026-04-07T09:03:01.381Z
 estimatedTokens: 5020
 keywords: [Asset, item, commercial, product, sold, company, competitor, customer, purchased, Calls, Usage, Associated, Objects]
 ---

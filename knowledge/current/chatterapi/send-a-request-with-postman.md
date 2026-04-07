@@ -5,7 +5,7 @@ topic: send-a-request-with-postman
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.953Z
+lastCollected: 2026-04-07T09:03:37.429Z
 estimatedTokens: 763
 keywords: [Send, Postman, explore, test, API, calls, across, multiple, orgs, full, control, content]
 ---

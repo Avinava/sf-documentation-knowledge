@@ -5,7 +5,7 @@ topic: messagingtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:04.268Z
+lastCollected: 2026-04-07T09:05:54.431Z
 estimatedTokens: 327
 keywords: [MessagingTemplate, Messaging, template, send, pre-formatted, messages, API, version, 47.0, later]
 ---

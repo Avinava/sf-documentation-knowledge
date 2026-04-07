@@ -5,7 +5,7 @@ topic: work-with-services-outside-of-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:26.238Z
+lastCollected: 2026-04-07T09:05:02.894Z
 estimatedTokens: 767
 keywords: [Work, Services, Outside, Salesforce, want, data, changes, occur, another, service, Likewise, send, mass, email, contacts]
 ---

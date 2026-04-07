@@ -5,7 +5,7 @@ topic: record-rollup-definitions-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:02.096Z
+lastCollected: 2026-04-07T09:04:31.549Z
 estimatedTokens: 117
 keywords: [Record, Rollup, Definitions, Standard, Objects, manage, data, aggregation, among, records]
 ---

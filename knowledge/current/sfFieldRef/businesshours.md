@@ -5,7 +5,7 @@ topic: businesshours
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:50.641Z
+lastCollected: 2026-04-07T09:05:36.382Z
 estimatedTokens: 498
 keywords: [BusinessHours, business, hours, support, organization, Escalation, rules, run]
 ---

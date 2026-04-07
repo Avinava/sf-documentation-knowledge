@@ -5,7 +5,7 @@ topic: multiple-streaming-api-notifications-for-the-same-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.537Z
+lastCollected: 2026-04-07T09:03:05.352Z
 estimatedTokens: 608
 keywords: [Multiple, Streaming, API, Notifications, Record, version, 37.0, later, change, triggers, changes, sent, they, aren't, tracked]
 ---

@@ -5,7 +5,7 @@ topic: authorize-an-org-using-its-sfdx-authorization-url
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.071Z
+lastCollected: 2026-04-07T09:06:12.859Z
 estimatedTokens: 265
 keywords: [Authorize, Org, SFDX, Authorization, URL, org's, Salesforce, continuous, integration, environments, fully, automated, don’t, support, human]
 ---

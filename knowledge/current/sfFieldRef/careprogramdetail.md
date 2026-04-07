@@ -5,7 +5,7 @@ topic: careprogramdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.841Z
+lastCollected: 2026-04-07T09:05:37.950Z
 estimatedTokens: 320
 keywords: [CareProgramDetail, detail, records, care, program, API, version, 61.0, later]
 ---

@@ -5,8 +5,8 @@ topic: coupon-usage-decrease-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:51.047Z
-estimatedTokens: 306
+lastCollected: 2026-04-07T09:04:17.232Z
+estimatedTokens: 307
 keywords: [Coupon, Usage, Decrease, POST, count, coupons]
 ---
 
@@ -51,8 +51,8 @@ Properties
 | Name | Type | Description | Required or Optional | Available Version |
 | --- | --- | --- | --- | --- |
 | couponCodeList | List<String> | The codes of the list of coupons for which the usage must be increased or decreased. | Required | 62.0 |
-| activityDateTime | DateTime | The date and time at which the customer redeemed the coupon. | Required | 62.0 |
-| externalTransactionNumber | String | The externally generated unique identifier of cart for which the customer redeemed the coupon. This ID must be the same in both the decrease and increase usage APIs so that the API can correctly track coupon usage for the originating transaction. | Required | 62.0 |
+| activity​DateTime | DateTime | The date and time at which the customer redeemed the coupon. | Required | 62.0 |
+| external​Transaction​Number | String | The externally generated unique identifier of cart for which the customer redeemed the coupon. This ID must be the same in both the decrease and increase usage APIs so that the API can correctly track coupon usage for the originating transaction. | Required | 62.0 |
 | customerId | String | The ID of either the contact, the account, or the loyalty program member who redeemed the coupon. | Required | 62.0 |
 
 Response body for POST

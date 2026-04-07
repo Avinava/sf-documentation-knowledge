@@ -5,7 +5,7 @@ topic: recentfieldchange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:11.696Z
+lastCollected: 2026-04-07T09:06:04.213Z
 estimatedTokens: 322
 keywords: [RecentFieldChange, virtual, how, opportunity, changed, past, seven, days, previous, made, change, API, version, 52.0, later]
 ---

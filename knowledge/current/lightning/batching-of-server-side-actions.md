@@ -5,7 +5,7 @@ topic: batching-of-server-side-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:48.573Z
+lastCollected: 2026-04-07T09:04:13.535Z
 estimatedTokens: 956
 keywords: [Batching, Server-side, Actions, Multiple, queued, batched, together, group, sent, server, XHR, minimize, network, round, trips]
 ---

@@ -5,7 +5,7 @@ topic: quick-start-metadata-api-context-mcp-tool
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:09.823Z
+lastCollected: 2026-04-07T09:02:43.896Z
 estimatedTokens: 768
 keywords: [Quick, Start, Metadata, API, Context, MCP, Tool, contextual, Salesforce, help, generate, accurate, files, working]
 ---

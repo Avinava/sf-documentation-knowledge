@@ -5,7 +5,7 @@ topic: streaming-api-calls-blocked-by-security-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.469Z
+lastCollected: 2026-04-07T09:03:05.242Z
 estimatedTokens: 197
 keywords: [Streaming, API, Calls, Blocked, Security, Settings, session, setting, locking, sessions, enabled]
 ---

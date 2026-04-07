@@ -5,15 +5,15 @@ topic: workprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.624Z
+lastCollected: 2026-04-07T09:04:12.227Z
 estimatedTokens: 799
 keywords: [WorkProcedure, procedure, process, that's, part, program, care, Health, Cloud, Life, Sciences, Special, Access, Rules, Calls]
 ---
 
 # WorkProcedure
 
-> Represents information about a procedure or process that's part of a
-         program, such as a care program in Health Cloud or Life Sciences Cloud.
+> Represents information about a procedure or process that's part of a program, such as
+      a care program in Health Cloud or Life Sciences Cloud.
 
 # WorkProcedure
 

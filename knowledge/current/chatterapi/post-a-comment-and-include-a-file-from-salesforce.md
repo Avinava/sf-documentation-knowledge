@@ -5,7 +5,7 @@ topic: post-a-comment-and-include-a-file-from-salesforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.919Z
+lastCollected: 2026-04-07T09:03:37.269Z
 estimatedTokens: 539
 keywords: [Post, Comment, Include, File, Salesforce, Chatter]
 ---

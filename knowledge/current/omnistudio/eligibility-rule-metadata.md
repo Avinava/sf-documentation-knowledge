@@ -5,7 +5,7 @@ topic: eligibility-rule-metadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:51.168Z
+lastCollected: 2026-04-07T09:02:53.727Z
 estimatedTokens: 167
 keywords: [Eligibility, Rule, Metadata, Output, representation]
 ---

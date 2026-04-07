@@ -5,7 +5,7 @@ topic: create-your-dailyaggregation-crm-analytics-recipe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:25.848Z
+lastCollected: 2026-04-07T09:05:02.304Z
 estimatedTokens: 1230
 keywords: [DailyAggregation, CRM, Analytics, Recipe, join, raw, package, log, file, data, License, Management, App, LMA, produces]
 ---

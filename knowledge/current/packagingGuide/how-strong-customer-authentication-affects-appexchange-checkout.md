@@ -5,7 +5,7 @@ topic: how-strong-customer-authentication-affects-appexchange-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:20.362Z
+lastCollected: 2026-04-07T09:04:54.070Z
 estimatedTokens: 593
 keywords: [How, Strong, Customer, Authentication, Affects, AppExchange, Checkout, SCA, automatically, integrated, payment, experience, European, customers, initial]
 ---

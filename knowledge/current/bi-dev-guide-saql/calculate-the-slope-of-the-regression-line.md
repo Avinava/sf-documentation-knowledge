@@ -5,7 +5,7 @@ topic: calculate-the-slope-of-the-regression-line
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.294Z
+lastCollected: 2026-04-07T09:03:13.856Z
 estimatedTokens: 324
 keywords: [Calculate, Slope, Regression, Line, SAQL, perform, linear, analysis, data, best, fits, regr_slope, Relationship, Number, Activities]
 ---

@@ -5,7 +5,7 @@ topic: follow-accessible-mobile-design-guidelines
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:57.177Z
+lastCollected: 2026-04-07T09:04:25.531Z
 estimatedTokens: 2651
 keywords: [Follow, Accessible, Mobile, Design, Guidelines, build, test, components, screen, best, practices, making, designs, Base, Salesforce]
 ---

@@ -5,7 +5,7 @@ topic: searchactivity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:13.156Z
+lastCollected: 2026-04-07T09:06:06.299Z
 estimatedTokens: 445
 keywords: [SearchActivity, search, activity, Knowledge, article, known, KnowledgeSearchActivity, API, version, 38.0, later]
 ---

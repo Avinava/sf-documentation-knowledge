@@ -5,7 +5,7 @@ topic: sitegoogleanalyticstracking
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.129Z
+lastCollected: 2026-04-07T09:04:58.449Z
 estimatedTokens: 270
 keywords: [site, googleAnalyticsTracking, standard, component, integrate, Google, Analytics, Force.com, sites, track, analyze, usage, Add, once, either]
 ---

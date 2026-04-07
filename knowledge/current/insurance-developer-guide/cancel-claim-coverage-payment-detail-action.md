@@ -5,8 +5,8 @@ topic: cancel-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.494Z
-estimatedTokens: 241
+lastCollected: 2026-04-07T09:03:59.916Z
+estimatedTokens: 240
 keywords: [Cancel, Claim, Coverage, Payment, Detail, Action, record, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -24,7 +24,7 @@ When the coveragePaymentType is Loss, this action reverses the insurance policy 
 
 URI
 
-/services/data/v66.0/actions/standard/cancelClaimCvrPaymentDetail
+/services/data/v/actions/standard/cancelClaimCvrPaymentDetail
 
 Formats
 

@@ -5,7 +5,7 @@ topic: troubleshooting-external-routing-for-omni-channel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.978Z
+lastCollected: 2026-04-07T09:04:53.370Z
 estimatedTokens: 364
 keywords: [Troubleshooting, External, Routing, Omni-Channel, encounter, issues, implementation, try, steps, Recover, Adaptor, Restart, Salesforce, Data, Recovery]
 ---

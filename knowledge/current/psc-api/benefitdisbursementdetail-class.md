@@ -5,7 +5,7 @@ topic: benefitdisbursementdetail-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.568Z
+lastCollected: 2026-04-07T09:05:07.328Z
 estimatedTokens: 1351
 namespace: PublicSectrSltn
 keywords: [BenefitDisbursementDetail, benefit, disbursement, eligible, assignment, adjustmentAmount, approvalStatus, benefitDisbursementAdjs, category, endDate, entitlementAmount, payoutAmount, recipientId, startDate]

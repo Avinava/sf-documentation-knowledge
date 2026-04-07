@@ -5,7 +5,7 @@ topic: connect-rest-api-architecture
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:21.766Z
+lastCollected: 2026-04-07T09:03:36.931Z
 estimatedTokens: 915
 keywords: [Connect, REST, API, Architecture, understand, few, characteristics, how, authenticate, data, formats, supports]
 ---

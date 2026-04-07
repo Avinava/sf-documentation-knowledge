@@ -5,7 +5,7 @@ topic: login-as-event-type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:09.422Z
+lastCollected: 2026-04-07T09:04:40.496Z
 estimatedTokens: 1290
 keywords: [Login, Event, events, contain, Salesforce, admin, did, logged, another, user]
 ---

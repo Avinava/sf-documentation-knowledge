@@ -5,7 +5,7 @@ topic: updatepresentationcontentpresentationcontentinput
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:42.019Z
+lastCollected: 2026-04-07T09:04:05.353Z
 estimatedTokens: 621
 keywords: [updatePresentationContent, presentationContentInput, presentation, content, provided, metadata, API, Version, Requires, Chatter]
 ---

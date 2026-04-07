@@ -5,7 +5,7 @@ topic: selectoption-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.848Z
+lastCollected: 2026-04-07T09:02:30.112Z
 estimatedTokens: 2434
 namespace: System
 keywords: [SelectOption, possible, Visualforce, selectCheckboxes, selectList, selectRadio, component, Instantiation, label, isDisabled, getDisabled, Usage, getEscapeItem, getLabel, getValue]

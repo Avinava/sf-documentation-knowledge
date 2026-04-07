@@ -5,7 +5,7 @@ topic: approvalsubmission
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:23.959Z
+lastCollected: 2026-04-07T09:02:03.192Z
 estimatedTokens: 1797
 keywords: [ApprovalSubmission, instance, approval, that's, submitted, record, API, version, 62.0, later, Calls, Special, Access, Rules, Associated]
 ---

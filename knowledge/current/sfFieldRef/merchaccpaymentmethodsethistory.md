@@ -5,7 +5,7 @@ topic: merchaccpaymentmethodsethistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:36:04.130Z
+lastCollected: 2026-04-07T09:05:54.238Z
 estimatedTokens: 280
 keywords: [MerchAccPaymentMethodSetHistory, History, tracked, MerchAccPaymentMethodSet]
 ---

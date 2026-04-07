@@ -5,7 +5,7 @@ topic: fldsvcobjchg
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:10.218Z
+lastCollected: 2026-04-07T09:04:41.457Z
 estimatedTokens: 991
 keywords: [FldSvcObjChg, change, made, service, appointment’s, tracked, API, version, 63.0, later, Calls, Special, Access, Rules]
 ---

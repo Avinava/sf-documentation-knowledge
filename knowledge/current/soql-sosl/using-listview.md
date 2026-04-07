@@ -5,7 +5,7 @@ topic: using-listview
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.925Z
+lastCollected: 2026-04-07T09:06:15.392Z
 estimatedTokens: 163
 keywords: [Listview=, clause, search, object’s, view, records, searched, according, sort, order, user, API, version, later, APIs]
 ---

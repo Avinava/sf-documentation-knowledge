@@ -5,7 +5,7 @@ topic: datasetexportpart
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:08.079Z
+lastCollected: 2026-04-07T09:04:38.882Z
 estimatedTokens: 554
 keywords: [DatasetExportPart, dataset, exported, CRM, Analytics, data, converted, csv, file, schema, stored, separate, JSON, files, two]
 ---

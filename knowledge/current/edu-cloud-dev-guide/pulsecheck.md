@@ -5,7 +5,7 @@ topic: pulsecheck
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:26.776Z
+lastCollected: 2026-04-07T09:03:44.728Z
 estimatedTokens: 1406
 keywords: [PulseCheck, wellbeing, learner, primary, metric, criteria, specific, date, time, API, version, 62.0, later, Calls, Associated]
 ---

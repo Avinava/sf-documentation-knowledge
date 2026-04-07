@@ -5,7 +5,7 @@ topic: apex-type-provider
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-05T00:23:22.658Z
+lastCollected: 2026-04-07T09:02:02.313Z
 estimatedTokens: 1170
 keywords: [Apex, Provider, Implement, custom, integration, logic, via, requires, Developer, adapter, Implementation, Error, Handling, Advanced, Definition]
 ---

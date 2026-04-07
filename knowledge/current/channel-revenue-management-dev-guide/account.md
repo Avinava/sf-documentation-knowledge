@@ -5,7 +5,7 @@ topic: account
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:10.239Z
+lastCollected: 2026-04-07T09:03:19.548Z
 estimatedTokens: 8339
 keywords: [Account, individual, organization, person, involved, business, customers, competitors, partners, Calls, Special, Access, Rules, IsPersonAccount, Usage]
 ---

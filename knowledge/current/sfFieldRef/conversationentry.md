@@ -5,7 +5,7 @@ topic: conversationentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:54.587Z
+lastCollected: 2026-04-07T09:05:41.396Z
 estimatedTokens: 577
 keywords: [ConversationEntry, message, event, voice, call, standard, enhanced, messaging, session, API, version, 43.0, later]
 ---

@@ -5,7 +5,7 @@ topic: expensereport
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:53:50.081Z
+lastCollected: 2026-04-07T09:03:01.630Z
 estimatedTokens: 521
 keywords: [ExpenseReport, report, summarizes, expenses, API, version, 50.0, later, Calls, Associated, Objects]
 ---

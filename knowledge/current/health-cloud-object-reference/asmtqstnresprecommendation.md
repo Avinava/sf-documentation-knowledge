@@ -5,7 +5,7 @@ topic: asmtqstnresprecommendation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:37.352Z
+lastCollected: 2026-04-07T09:03:58.444Z
 estimatedTokens: 806
 keywords: [AsmtQstnRespRecommendation, Maps, assessment, question’s, recommendation, provide, care, plan, Recommendations, problems, goals, interventions, assessments, API, version]
 ---

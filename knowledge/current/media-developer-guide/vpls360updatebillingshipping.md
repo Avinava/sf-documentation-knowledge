@@ -5,7 +5,7 @@ topic: vpls360updatebillingshipping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:54.258Z
+lastCollected: 2026-04-07T09:04:21.375Z
 estimatedTokens: 192
 keywords: [VPLS360_updateBillingShipping, Integration, Procedure, processes, Google, API, Address, record, updates, Account, Contact, VPLS360, _updateBillingShipping, Sample, Input, VPLS360_UpdateBillingShipping, user, click, Ship, address]
 ---

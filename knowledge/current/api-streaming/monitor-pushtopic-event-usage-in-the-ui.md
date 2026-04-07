@@ -5,7 +5,7 @@ topic: monitor-pushtopic-event-usage-in-the-ui
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:00.527Z
+lastCollected: 2026-04-07T09:03:05.334Z
 estimatedTokens: 195
 keywords: [Monitor, PushTopic, Event, Usage, API, version, 36.0, earlier, Streaming, daily, events, Company, Setup]
 ---

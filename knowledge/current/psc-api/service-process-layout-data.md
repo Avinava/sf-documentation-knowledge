@@ -5,7 +5,7 @@ topic: service-process-layout-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:30.617Z
+lastCollected: 2026-04-07T09:05:08.920Z
 estimatedTokens: 87
 keywords: [Service, Process, Layout, Data, Retrieve]
 ---

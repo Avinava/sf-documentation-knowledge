@@ -5,7 +5,7 @@ topic: aurarequesteventlog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:05.290Z
+lastCollected: 2026-04-07T09:04:35.509Z
 estimatedTokens: 1425
 keywords: [AuraRequestEventLog, Aura, Event, Log, requests, Apex, Lightning, web, components, API, version, 61.0, later, Calls, Special]
 ---

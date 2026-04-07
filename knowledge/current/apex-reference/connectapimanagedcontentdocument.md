@@ -5,7 +5,7 @@ topic: connectapimanagedcontentdocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:27.840Z
+lastCollected: 2026-04-07T09:02:24.547Z
 estimatedTokens: 564
 keywords: [ConnectApi.ManagedContentDocument, piece, managed, content, authoring, space]
 ---

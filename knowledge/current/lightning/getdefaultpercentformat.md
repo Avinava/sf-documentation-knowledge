@@ -5,7 +5,7 @@ topic: getdefaultpercentformat
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.530Z
+lastCollected: 2026-04-07T09:04:14.967Z
 estimatedTokens: 106
 keywords: [getDefaultPercentFormat, percentage, Sample, Code]
 ---

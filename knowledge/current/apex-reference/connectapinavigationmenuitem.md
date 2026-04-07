@@ -5,7 +5,7 @@ topic: connectapinavigationmenuitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:28.085Z
+lastCollected: 2026-04-07T09:02:25.012Z
 estimatedTokens: 417
 keywords: [ConnectApi.NavigationMenuItem, Navigation, menu, item]
 ---

@@ -5,7 +5,7 @@ topic: salesforce-payments-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.148Z
+lastCollected: 2026-04-07T09:03:28.068Z
 estimatedTokens: 939
 keywords: [Salesforce, Payments, Resources, including, content, rendered, version, sharing]
 ---

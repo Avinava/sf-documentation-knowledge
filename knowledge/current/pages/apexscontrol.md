@@ -5,7 +5,7 @@ topic: apexscontrol
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.055Z
+lastCollected: 2026-04-07T09:04:58.343Z
 estimatedTokens: 466
 keywords: [apex, scontrol, inline, frame, displays, s-control, Attributes]
 ---

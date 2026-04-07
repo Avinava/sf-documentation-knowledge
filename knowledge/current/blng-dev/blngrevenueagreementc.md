@@ -5,7 +5,7 @@ topic: blngrevenueagreementc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.647Z
+lastCollected: 2026-04-07T09:03:17.448Z
 estimatedTokens: 1418
 keywords: [blng__RevenueAgreement__c, objects, revenue, schedule, agreement, useful, grouping, schedules, transaction, quickly, evaluate, amounts, blng, _RevenueAgreement, Calls]
 ---

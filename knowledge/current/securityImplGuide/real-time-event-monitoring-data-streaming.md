@@ -5,7 +5,7 @@ topic: real-time-event-monitoring-data-streaming
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:45.051Z
+lastCollected: 2026-04-07T09:05:28.911Z
 estimatedTokens: 1552
 keywords: [Real-Time, Event, Monitoring, Data, Streaming, subscribe, standard, events, published, Salesforce, monitor, activity, org, external, system]
 ---

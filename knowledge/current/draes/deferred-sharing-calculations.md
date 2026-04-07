@@ -5,7 +5,7 @@ topic: deferred-sharing-calculations
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:24.652Z
+lastCollected: 2026-04-07T09:03:41.794Z
 estimatedTokens: 1207
 keywords: [Deferred, Sharing, Calculations, Performing, large, number, configuration, changes, lead, long, rule, evaluations, timeouts, avoid, issues]
 ---

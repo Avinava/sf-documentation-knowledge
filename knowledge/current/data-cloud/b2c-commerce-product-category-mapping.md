@@ -5,7 +5,7 @@ topic: b2c-commerce-product-category-mapping
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:30.581Z
+lastCollected: 2026-04-07T09:02:07.309Z
 estimatedTokens: 265
 keywords: [B2C, Commerce, Product, Category, Mapping, data, stream, deployed, Salesforce, Order, starter, bundle, automatically, maps, source]
 ---

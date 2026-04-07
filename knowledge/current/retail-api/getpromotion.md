@@ -5,7 +5,7 @@ topic: getpromotion
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:36.967Z
+lastCollected: 2026-04-07T09:05:17.756Z
 estimatedTokens: 111
 keywords: [getPromotion, requested, promotion, Input, Sample]
 ---

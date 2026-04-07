@@ -5,7 +5,7 @@ topic: override-an-existing-page-with-a-visualforce-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:24.041Z
+lastCollected: 2026-04-07T09:04:59.827Z
 estimatedTokens: 609
 keywords: [Override, Visualforce, Replace, standard, record, detail, uses, custom, tabs, organize, sections]
 ---

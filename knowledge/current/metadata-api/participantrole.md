@@ -5,7 +5,7 @@ topic: participantrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:02.814Z
+lastCollected: 2026-04-07T09:02:36.653Z
 estimatedTokens: 601
 keywords: [ParticipantRole, associated, access, level, role, participant, context, parent, record, File, Suffix, Directory, Location, Version, Declarative]
 ---

@@ -5,7 +5,7 @@ topic: record-rollup-definitions-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:38:55.254Z
+lastCollected: 2026-04-07T09:02:57.805Z
 estimatedTokens: 170
 keywords: [Record, Rollup, Definitions, Metadata, API, access, feature, settings, customize, user]
 ---

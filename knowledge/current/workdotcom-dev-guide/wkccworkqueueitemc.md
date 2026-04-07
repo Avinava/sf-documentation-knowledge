@@ -5,7 +5,7 @@ topic: wkccworkqueueitemc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:22.387Z
+lastCollected: 2026-04-07T09:06:19.038Z
 estimatedTokens: 1046
 keywords: [wkcc__WorkQueueItem__c, Coordinates, Workplace, Command, Center, background, processing, jobs, sending, surveys, aggregating, location’s, status, orgs, installed]
 ---

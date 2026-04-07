@@ -5,7 +5,7 @@ topic: large-sized-partners
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.025Z
+lastCollected: 2026-04-07T09:05:02.573Z
 estimatedTokens: 985
 keywords: [Large-Sized, Partners, Large, subscriber, bases, managed, packages, partner’s, total, daily, data, usage, Sometimes, package, larger]
 ---

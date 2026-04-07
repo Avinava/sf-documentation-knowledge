@@ -5,7 +5,7 @@ topic: isinconsole
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:53.486Z
+lastCollected: 2026-04-07T09:03:03.378Z
 estimatedTokens: 171
 keywords: [isInConsole, Determines, Salesforce, console, API, version, 22.0, later, Arguments, Sample, Code–Visualforce]
 ---

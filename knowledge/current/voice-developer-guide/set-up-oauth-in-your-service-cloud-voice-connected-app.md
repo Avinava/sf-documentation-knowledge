@@ -5,7 +5,7 @@ topic: set-up-oauth-in-your-service-cloud-voice-connected-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:21.625Z
+lastCollected: 2026-04-07T09:06:17.888Z
 estimatedTokens: 825
 keywords: [OAuth, Service, Cloud, Voice, Connected, App, instructions, describe, how, Salesforce]
 ---

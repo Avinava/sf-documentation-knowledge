@@ -5,7 +5,7 @@ topic: unifiedvoicecall
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:15.610Z
+lastCollected: 2026-04-07T09:06:09.682Z
 estimatedTokens: 314
 keywords: [UnifiedVoiceCall, voice, call, captured, synced, VoiceCall, Task, record, reports, dashboards, Winter, ’24, release, later]
 ---

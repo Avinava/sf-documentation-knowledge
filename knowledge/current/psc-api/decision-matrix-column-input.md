@@ -6,7 +6,7 @@ topic: decision-matrix-column-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:29.932Z
+lastCollected: 2026-04-07T09:05:07.890Z
 estimatedTokens: 303
 keywords: [Decision, Matrix, Column, Input, representation, add, columns]
 ---

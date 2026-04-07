@@ -5,7 +5,7 @@ topic: set-up-android-studio
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:56.659Z
+lastCollected: 2026-04-07T09:04:24.841Z
 estimatedTokens: 1943
 keywords: [Android, Studio, run, previews, emulators, sure, properly, installed, configured, install, test, environment, setup, command, you’re]
 ---

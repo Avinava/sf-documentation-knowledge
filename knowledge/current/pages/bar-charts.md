@@ -5,7 +5,7 @@ topic: bar-charts
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.916Z
+lastCollected: 2026-04-07T09:04:56.733Z
 estimatedTokens: 679
 keywords: [Bar, Charts, several, linear, data, series, Visualforce, plotted, against, standard, rectangular, grid]
 ---

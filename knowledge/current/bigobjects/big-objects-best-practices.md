@@ -5,7 +5,7 @@ topic: big-objects-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:07.826Z
+lastCollected: 2026-04-07T09:03:16.339Z
 estimatedTokens: 855
 keywords: [Big, Objects, Best, Practices, unique, because, ability, scale, massive, amounts, data, Considerations, Design, Resiliency, Mind]
 ---

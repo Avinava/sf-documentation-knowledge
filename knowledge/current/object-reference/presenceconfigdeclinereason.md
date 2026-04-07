@@ -5,7 +5,7 @@ topic: presenceconfigdeclinereason
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:14.948Z
+lastCollected: 2026-04-07T09:04:46.838Z
 estimatedTokens: 225
 keywords: [PresenceConfigDeclineReason, settings, decline, reason, presence, user, declining, work, API, version, 37.0, later, Calls, Special, Access]
 ---

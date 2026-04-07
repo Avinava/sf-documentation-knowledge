@@ -5,7 +5,7 @@ topic: accountproductperiodforecast
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:46.027Z
+lastCollected: 2026-04-07T09:05:30.315Z
 estimatedTokens: 644
 keywords: [AccountProductPeriodForecast, quantity, revenue, opportunities, sales, agreements, orders, resultant, forecasted, quantities, product, particular, time, period, forecast]
 ---

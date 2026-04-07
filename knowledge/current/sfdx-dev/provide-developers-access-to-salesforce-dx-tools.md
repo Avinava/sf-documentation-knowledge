@@ -5,7 +5,7 @@ topic: provide-developers-access-to-salesforce-dx-tools
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.992Z
+lastCollected: 2026-04-07T09:06:14.093Z
 estimatedTokens: 381
 keywords: [Provide, Developers, Access, Salesforce, Tools, Prepare, development, team, license, user, permissions, they, Determine, org, Dev]
 ---

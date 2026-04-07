@@ -5,7 +5,7 @@ topic: transactionjournal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.317Z
+lastCollected: 2026-04-07T09:05:16.812Z
 estimatedTokens: 1389
 keywords: [TransactionJournal, advocate, their, referred, party's, activity, API, version, 49.0, later, Calls]
 ---

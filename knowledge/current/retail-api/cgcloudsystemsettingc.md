@@ -5,7 +5,7 @@ topic: cgcloudsystemsettingc
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:40.030Z
+lastCollected: 2026-04-07T09:05:21.647Z
 estimatedTokens: 864
 keywords: [cgcloud__System_Setting__c, Custom, setting, stores, system, attributes, key-value, pair, API, version, 54.0, later, cgcloud, _System, _Setting]
 ---

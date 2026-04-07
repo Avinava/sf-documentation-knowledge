@@ -5,7 +5,7 @@ topic: create-a-chat-visitor-session
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:50.334Z
+lastCollected: 2026-04-07T09:04:16.263Z
 estimatedTokens: 216
 keywords: [Chat, Visitor, Session, reestablish, REST, API, certain, requests]
 ---

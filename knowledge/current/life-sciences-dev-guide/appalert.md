@@ -5,8 +5,8 @@ topic: appalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:45.072Z
-estimatedTokens: 1324
+lastCollected: 2026-04-07T09:04:09.494Z
+estimatedTokens: 1327
 keywords: [AppAlert, alert, message, tab, level, API, version, 65.0, later, Calls, Associated, Objects]
 ---
 
@@ -43,7 +43,7 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | SourceSystemIdentifier | TypestringPropertiesFilter, Group, idLookup, Nillable, SortDescriptionThe identifier of the record in the source system. |
 | SourceSystemName | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe name of the system from which data is loaded into this object. |
 | Subject | TypetextareaPropertiesCreate, UpdateDescriptionThe subject of the app alert. |
-| Type | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the type of app alert.Possible values are:GuidedActionNotificationRecommendation |
+| Type | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionSpecifies the type of app alert.Possible values are:GuidedActionNotificationRecommendationAnnouncement |
 | ValidUntilDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time when the alert becomes invalid. |
 
 ## Associated Objects

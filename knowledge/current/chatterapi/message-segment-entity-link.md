@@ -5,7 +5,7 @@ topic: message-segment-entity-link
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.787Z
+lastCollected: 2026-04-07T09:03:33.680Z
 estimatedTokens: 218
 keywords: [Message, Segment, Entity, Link, user, group]
 ---

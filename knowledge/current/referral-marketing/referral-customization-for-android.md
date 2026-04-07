@@ -5,7 +5,7 @@ topic: referral-customization-for-android
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.004Z
+lastCollected: 2026-04-07T09:05:16.419Z
 estimatedTokens: 534
 keywords: [Referral, Customization, Android, build, Mobile, SDK, customize, components, modify, referral-related, configuration, MyNTORewards, sample, app, Settings]
 ---

@@ -5,7 +5,7 @@ topic: drtransformfromstripe
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:54.050Z
+lastCollected: 2026-04-07T09:04:21.057Z
 estimatedTokens: 512
 keywords: [DRTransformFromStripe, Omnistudio, Data, Mapper, transform, trim, Stripe, Sample, Input, Output]
 ---

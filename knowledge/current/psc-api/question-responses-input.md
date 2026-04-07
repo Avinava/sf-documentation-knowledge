@@ -5,7 +5,7 @@ topic: question-responses-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:30.209Z
+lastCollected: 2026-04-07T09:05:08.317Z
 estimatedTokens: 102
 keywords: [Question, Responses, Input, assessment]
 ---

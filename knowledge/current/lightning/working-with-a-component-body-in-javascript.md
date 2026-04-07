@@ -5,7 +5,7 @@ topic: working-with-a-component-body-in-javascript
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:49.113Z
+lastCollected: 2026-04-07T09:04:14.318Z
 estimatedTokens: 396
 keywords: [Working, Component, JavaScript, useful, common, patterns, component’s, Replace, Component's, Clear, Append, Prepend, Remove]
 ---

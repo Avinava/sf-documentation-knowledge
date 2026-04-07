@@ -5,7 +5,7 @@ topic: health-cloud-referral-management-fields-on-contact-lead-and-opportunity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:34.771Z
+lastCollected: 2026-04-07T09:03:55.281Z
 estimatedTokens: 547
 keywords: [Health, Cloud, Referral, Management, Contact, Lead, Opportunity, Standard, custom, extend, objects, represent]
 ---

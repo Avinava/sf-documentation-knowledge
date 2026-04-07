@@ -5,7 +5,7 @@ topic: skill
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:01.542Z
+lastCollected: 2026-04-07T09:03:06.795Z
 estimatedTokens: 461
 keywords: [Skill, service, resources, technician, their, area, expertise, asset, Test, Drive, API, version, 59.0, later, Calls]
 ---

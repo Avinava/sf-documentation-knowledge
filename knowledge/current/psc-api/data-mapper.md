@@ -5,7 +5,7 @@ topic: data-mapper
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:32.395Z
+lastCollected: 2026-04-07T09:05:11.801Z
 estimatedTokens: 389
 keywords: [Data, Mapper, mapping, tool, transform, write, Salesforce, Omnistudio, time-efficient, easier, maintain, processing, Mappers, typically, supply]
 ---

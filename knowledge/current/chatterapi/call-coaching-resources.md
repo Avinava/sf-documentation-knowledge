@@ -5,7 +5,7 @@ topic: call-coaching-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:13.669Z
+lastCollected: 2026-04-07T09:03:24.600Z
 estimatedTokens: 160
 keywords: [Call, Coaching, Resources, Einstein, Conversation, Insights, provide, customer, calls, offer, sales, service, users, current, status]
 ---

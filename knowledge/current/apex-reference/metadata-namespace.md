@@ -5,7 +5,7 @@ topic: metadata-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:31.626Z
+lastCollected: 2026-04-07T09:02:29.745Z
 estimatedTokens: 2991
 namespace: Metadata
 keywords: [Metadata, classes, working, custom, Salesforce]

@@ -5,7 +5,7 @@ topic: quoteadjustmentgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:15.873Z
+lastCollected: 2026-04-07T09:04:47.976Z
 estimatedTokens: 1283
 keywords: [QuoteAdjustmentGroup, Group, containing, adjustments, applied, quote, API, version, 58.0, later, Calls, Special, Access, Rules, Associated]
 ---

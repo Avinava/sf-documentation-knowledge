@@ -5,8 +5,8 @@ topic: resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:40.818Z
-estimatedTokens: 698
+lastCollected: 2026-04-07T09:04:03.679Z
+estimatedTokens: 690
 keywords: [Resources, Insurance, Brokerage, API, Claims, insurance, group, benefits, Policy, Product, Administration, Quoting]
 ---
 
@@ -49,8 +49,7 @@ Learn more about the available insurance group benefits API resources.
 
 #### See Also
 
--   [*Insurance*: Explore Group Benefits in Digital Insurance](https://help.salesforce.com/s/articleView?id=ind.insurance_group_benefits_core_explore_group_benefits_in_digital_insurance.htm&language=en_US "Insurance: Explore Group Benefits in Digital
-    Insurance - HTML (New Window)")
+-   [*Salesforce Help*: Explore Group Benefits in Digital Insurance](https://help.salesforce.com/s/articleView?id=ind.insurance_group_benefits_core_explore_group_benefits_in_digital_insurance.htm&language=en_US "Salesforce Help: Explore Group Benefits in Digital Insurance - HTML (New Window)")
 
 ## Related Topics
 

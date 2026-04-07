@@ -5,7 +5,7 @@ topic: add-objects-to-change-data-capture-for-external-routing
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:19.951Z
+lastCollected: 2026-04-07T09:04:53.311Z
 estimatedTokens: 862
 keywords: [Add, Objects, Change, Data, Capture, External, Routing, enable, Omni-Channel, configure, CDC, publish, event, notifications, core]
 ---

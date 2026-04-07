@@ -5,7 +5,7 @@ topic: apex-examples
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.237Z
+lastCollected: 2026-04-07T09:03:18.038Z
 estimatedTokens: 1105
 keywords: [Apex, Examples, code, Custom, Address, record, data, Insert]
 ---

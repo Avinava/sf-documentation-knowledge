@@ -5,7 +5,7 @@ topic: compound-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:03.160Z
+lastCollected: 2026-04-07T09:04:32.986Z
 estimatedTokens: 643
 keywords: [Compound, group, together, multiple, elements, primitive, data, numbers, strings, represent, complex, location, address, abstraction, simplify]
 ---

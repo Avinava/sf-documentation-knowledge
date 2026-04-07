@@ -5,7 +5,7 @@ topic: enable-a-package-subscriber-to-restrict-push-upgrades
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:26.920Z
+lastCollected: 2026-04-07T09:05:03.591Z
 estimatedTokens: 913
 keywords: [Enable, Package, Subscriber, Restrict, Push, Upgrades, certain, scenarios, Salesforce, customer, may, require, ability, block, managed]
 ---

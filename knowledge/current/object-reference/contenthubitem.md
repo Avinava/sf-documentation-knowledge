@@ -5,7 +5,7 @@ topic: contenthubitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:07.125Z
+lastCollected: 2026-04-07T09:04:37.688Z
 estimatedTokens: 1118
 keywords: [ContentHubItem, file, folder, Files, Connect, external, data, source, Microsoft, SharePoint, OneDrive, Business, API, version, 33.0]
 ---

@@ -5,7 +5,7 @@ topic: restrequest-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:30.984Z
+lastCollected: 2026-04-07T09:02:29.002Z
 estimatedTokens: 2310
 namespace: System
 keywords: [RestRequest, System.RestRequest, access, pass, data, RESTful, Apex, Usage, REST, Annotated, httpMethod, params, remoteAddress, requestBody, requestURI]

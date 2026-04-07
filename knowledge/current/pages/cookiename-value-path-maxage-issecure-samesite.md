@@ -5,7 +5,7 @@ topic: cookiename-value-path-maxage-issecure-samesite
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:35:21.633Z
+lastCollected: 2026-04-07T09:04:56.246Z
 estimatedTokens: 540
 keywords: [Cookie, path, maxAge, isSecure, SameSite, Creates, new, instance, age, settings, security, cross-domain, behavior]
 ---
@@ -20,13 +20,13 @@ keywords: [Cookie, path, maxAge, isSecure, SameSite, Creates, new, instance, age
 
 Creates a new instance of the Cookie class using the specified name, value, path, and age, and settings for security and cross-domain behavior.
 
-## Signature
-
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=pages)
 
 #### Note
 
 Google Chrome 80 introduces a new default cookie attribute setting of SameSite, which is set to Lax. Previously, the SameSite cookie attribute defaulted to the value of None. When SameSite is set to None, cookies must be tagged with the isSecure attribute indicating that they require an encrypted HTTPS connection.
+
+## Signature
 
 public Cookie(String name, String value, String path, Integer maxAge, Boolean isSecure, String SameSite)
 

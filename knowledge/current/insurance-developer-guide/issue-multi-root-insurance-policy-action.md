@@ -5,8 +5,8 @@ topic: issue-multi-root-insurance-policy-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.662Z
-estimatedTokens: 289
+lastCollected: 2026-04-07T09:04:00.140Z
+estimatedTokens: 288
 keywords: [Issue, Multi-Root, Insurance, Policy, Action, new, along, associated, child, policies, asynchronously, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 66.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/issueMultiRootInsurancePolicy
+/services/data/v/actions/standard/issueMultiRootInsurancePolicy
 
 Formats
 

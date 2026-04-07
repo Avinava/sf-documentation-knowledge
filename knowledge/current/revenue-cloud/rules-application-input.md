@@ -5,7 +5,7 @@ topic: rules-application-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:17.875Z
+lastCollected: 2026-04-07T09:01:58.865Z
 estimatedTokens: 150
 keywords: [Rules, Application, Input, representation, applying, payments, credits, invoices]
 ---

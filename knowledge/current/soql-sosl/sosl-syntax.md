@@ -5,7 +5,7 @@ topic: sosl-syntax
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:19.911Z
+lastCollected: 2026-04-07T09:06:15.363Z
 estimatedTokens: 1609
 keywords: [SOSL, query, begins, clause, add, clauses, filter, data, categories, determine, what’s, specify, order, results, how]
 ---

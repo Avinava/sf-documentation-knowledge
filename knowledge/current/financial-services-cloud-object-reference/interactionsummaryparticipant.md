@@ -5,7 +5,7 @@ topic: interactionsummaryparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.887Z
+lastCollected: 2026-04-07T09:03:50.259Z
 estimatedTokens: 858
 keywords: [InteractionSummaryParticipant, user, whom, interaction, summary, shared, API, version, 51.0, later, Calls, Associated, Objects]
 ---

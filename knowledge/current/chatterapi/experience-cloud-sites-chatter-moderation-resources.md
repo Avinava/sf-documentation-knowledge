@@ -5,7 +5,7 @@ topic: experience-cloud-sites-chatter-moderation-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:14.677Z
+lastCollected: 2026-04-07T09:03:25.956Z
 estimatedTokens: 1098
 keywords: [Experience, Cloud, Sites, Chatter, Moderation, Resources, whether, user, flagged, feed, element, comment, inappropriate, flags, Comments]
 ---

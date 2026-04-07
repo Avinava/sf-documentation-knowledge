@@ -4,9 +4,9 @@ domain: salesforce-scheduler-developer-guide
 topic: service-appointment-input
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-12T09:35:43.309Z
-estimatedTokens: 808
+docType: developer-guide
+lastCollected: 2026-04-07T09:05:26.386Z
+estimatedTokens: 730
 keywords: [Service, Appointment, Input, representation]
 ---
 
@@ -53,11 +53,6 @@ Properties
 | street | String | Street number and name where the service appointment is completed. | Optional | 48.0 |
 | subject | String | Short phrase describing the appointment. | Optional | 48.0 |
 | workType​Id | String | Work type associated with the service appointment. If specified, it is added to the service appointment record. | Optional | 48.0 |
-
-#### See Also
-
--   [*Salesforce Help*: How Salesforce Scheduler Determines Available Time Slots](https://help.salesforce.com/s/articleView?id=platform.ls_how_are_time_slots_determined.htm&type=5&language=en_US "Salesforce Help: How Salesforce Scheduler Determines Available Time
-    Slots - HTML (New Window)")
 
 ## Code Examples
 

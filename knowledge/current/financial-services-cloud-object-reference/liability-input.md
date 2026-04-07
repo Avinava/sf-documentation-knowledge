@@ -5,7 +5,7 @@ topic: liability-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:28.407Z
+lastCollected: 2026-04-07T09:03:47.208Z
 estimatedTokens: 549
 keywords: [Liability, Input, borrower, co-borrower, current, liabilities]
 ---

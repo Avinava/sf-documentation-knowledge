@@ -5,7 +5,7 @@ topic: sustainabilityscorecard
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.221Z
+lastCollected: 2026-04-07T09:04:29.171Z
 estimatedTokens: 3340
 keywords: [SustainabilityScorecard, annual, sustainability, scorecard, third-party, organizations, whose, data, calculate, scope, emissions, API, version, 54.0, later]
 ---

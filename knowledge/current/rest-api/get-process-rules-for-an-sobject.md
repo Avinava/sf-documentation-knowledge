@@ -5,7 +5,7 @@ topic: get-process-rules-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:53:40.697Z
+lastCollected: 2026-04-07T09:02:35.772Z
 estimatedTokens: 107
 keywords: [Process, Rules, sObject, active, workflow, resource, REST, API, version, 30.0, later]
 ---

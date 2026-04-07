@@ -5,7 +5,7 @@ topic: salesstorecatalog
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:16.486Z
+lastCollected: 2026-04-07T09:04:48.778Z
 estimatedTokens: 231
 keywords: [SalesStoreCatalog, catalog, associated, store, API, version, 49.0, later, Calls, Special, Access, Rules]
 ---

@@ -5,7 +5,7 @@ topic: quoteaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:27.478Z
+lastCollected: 2026-04-07T09:02:05.344Z
 estimatedTokens: 839
 keywords: [QuoteAction, sales, transaction, that’s, quoted, renewal, sale, API, version, 59.0, later, Calls, Special, Access, Rules]
 ---

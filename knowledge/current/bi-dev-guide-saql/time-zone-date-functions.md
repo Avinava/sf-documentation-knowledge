@@ -5,7 +5,7 @@ topic: time-zone-date-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.527Z
+lastCollected: 2026-04-07T09:03:14.269Z
 estimatedTokens: 665
 keywords: [Time, Zone, Date, Functions, enable, feature, DateTime, DateOnly, access, user, New, York, runs, SAQL, query]
 ---

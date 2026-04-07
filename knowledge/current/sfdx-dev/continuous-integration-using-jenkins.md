@@ -5,7 +5,7 @@ topic: continuous-integration-using-jenkins
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:36:18.124Z
+lastCollected: 2026-04-07T09:06:12.937Z
 estimatedTokens: 528
 keywords: [Continuous, Integration, Jenkins, open-source, extensible, automation, server, implementing, delivery, easily, integrate, Salesforce, framework, automate, testing]
 ---

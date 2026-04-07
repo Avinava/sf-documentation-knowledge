@@ -5,7 +5,7 @@ topic: patient-program-outcome-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:34.117Z
+lastCollected: 2026-04-07T09:03:54.490Z
 estimatedTokens: 1152
 keywords: [Patient, Program, Outcome, Management, data, model, helps, improve, outcomes, defining, measuring, linking, progress, Leads, define]
 ---

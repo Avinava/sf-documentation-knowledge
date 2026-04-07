@@ -5,7 +5,7 @@ topic: gift-campaign-default-designations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:00.817Z
+lastCollected: 2026-04-07T09:04:29.943Z
 estimatedTokens: 117
 keywords: [Gift, Campaign, Designations, associated]
 ---

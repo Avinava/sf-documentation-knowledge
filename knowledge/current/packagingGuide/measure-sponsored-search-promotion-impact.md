@@ -5,7 +5,7 @@ topic: measure-sponsored-search-promotion-impact
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.061Z
+lastCollected: 2026-04-07T09:04:55.199Z
 estimatedTokens: 1113
 keywords: [Measure, Sponsored, Search, Promotion, Impact, co-marketing, formula, provided, Salesforce, data, AppExchange, Marketplace, Analytics, compares, listing]
 ---

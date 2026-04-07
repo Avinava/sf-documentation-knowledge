@@ -5,7 +5,7 @@ topic: appexchange-leads-and-license-activities
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.456Z
+lastCollected: 2026-04-07T09:04:54.212Z
 estimatedTokens: 221
 keywords: [AppExchange, Leads, License, Activities, enable, lead, collection, listing, customer, interacts, records, generated, installs, solution]
 ---

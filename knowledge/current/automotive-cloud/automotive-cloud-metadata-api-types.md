@@ -5,7 +5,7 @@ topic: automotive-cloud-metadata-api-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.785Z
+lastCollected: 2026-04-07T09:03:05.722Z
 estimatedTokens: 852
 keywords: [Automotive, Cloud, Metadata, API, access, feature, settings, customize, user, Developer]
 ---

@@ -5,7 +5,7 @@ topic: careprogrameligibilityrulehistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:51.873Z
+lastCollected: 2026-04-07T09:05:37.991Z
 estimatedTokens: 278
 keywords: [CareProgramEligibilityRuleHistory, History, tracked, CareProgramEligibilityRule]
 ---

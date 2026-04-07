@@ -5,7 +5,7 @@ topic: floorn
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.444Z
+lastCollected: 2026-04-07T09:03:14.130Z
 estimatedTokens: 55
 keywords: [floor, nearest, equal, lesser, any, real, numeric, range, -1e308, 1e308, function, foreach, statement]
 ---

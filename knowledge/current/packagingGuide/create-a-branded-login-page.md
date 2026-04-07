@@ -5,7 +5,7 @@ topic: create-a-branded-login-page
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:21.414Z
+lastCollected: 2026-04-07T09:04:55.851Z
 estimatedTokens: 414
 keywords: [Branded, Login, Customers, typically, log, app, traditional, login.salesforce.com, site, customize, domain, parts, provide, experience]
 ---

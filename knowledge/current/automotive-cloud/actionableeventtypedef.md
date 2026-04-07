@@ -5,7 +5,7 @@ topic: actionableeventtypedef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.704Z
+lastCollected: 2026-04-07T09:03:05.617Z
 estimatedTokens: 441
 keywords: [ActionableEventTypeDef, definition, actionable, event, records, migrated, org, another, Parent, File, Suffix, Directory, Location, Version, EventSubtype, API, version, 62.0, later, Calls]
 ---

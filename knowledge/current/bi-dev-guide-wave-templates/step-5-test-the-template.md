@@ -5,7 +5,7 @@ topic: step-5-test-the-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:07.693Z
+lastCollected: 2026-04-07T09:03:16.118Z
 estimatedTokens: 1277
 keywords: [Step, Test, Template, throughout, development, process, creating, exporting, files, edit, deploy, testing, results, reexport, again]
 ---

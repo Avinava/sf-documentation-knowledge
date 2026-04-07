@@ -5,7 +5,7 @@ topic: use-time-zone-enabled-dates-in-saql-projections
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.588Z
+lastCollected: 2026-04-07T09:03:14.385Z
 estimatedTokens: 90
 keywords: [Time, Zone-Enabled, Dates, SAQL, Projections, project, exact, date, 2017-3-31, part, year, month, day]
 ---

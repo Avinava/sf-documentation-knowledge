@@ -5,7 +5,7 @@ topic: standalone-credit-memo-tax-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:18.072Z
+lastCollected: 2026-04-07T09:01:59.035Z
 estimatedTokens: 136
 keywords: [Standalone, Credit, Memo, Tax, Input, representation]
 ---

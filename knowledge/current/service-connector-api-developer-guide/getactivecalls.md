@@ -5,7 +5,7 @@ topic: getactivecalls
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:45.394Z
+lastCollected: 2026-04-07T09:05:29.426Z
 estimatedTokens: 78
 keywords: [getActiveCalls, active, call]
 ---

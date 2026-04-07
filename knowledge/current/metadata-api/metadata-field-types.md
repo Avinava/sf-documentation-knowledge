@@ -5,7 +5,7 @@ topic: metadata-field-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-04-07T07:46:06.763Z
+lastCollected: 2026-04-07T09:02:40.527Z
 estimatedTokens: 1375
 keywords: [Metadata, extend, described, Salesforce, ValueSet, ValueSetValuesDefinition, ValueSettings]
 ---

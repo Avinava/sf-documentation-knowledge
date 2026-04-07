@@ -5,7 +5,7 @@ topic: discoveryaimodel
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-07T07:46:05.810Z
+lastCollected: 2026-04-07T09:02:39.583Z
 estimatedTokens: 1821
 keywords: [DiscoveryAIModel, metadata, associated, model, Einstein, Discovery, Declarative, File, Suffix, Directory, Location, Version, DiscoveryAlgorithmType, DiscoveryModelField, DiscoveryModelTransform]
 ---

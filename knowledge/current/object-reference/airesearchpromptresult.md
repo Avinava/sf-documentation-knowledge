@@ -5,7 +5,7 @@ topic: airesearchpromptresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:04.210Z
+lastCollected: 2026-04-07T09:04:34.254Z
 estimatedTokens: 1198
 keywords: [AIResearchPromptResult, research, result, generated, Agentforce, Einstein, standard, custom, prompt, template, API, version, 64.0, later, Calls]
 ---

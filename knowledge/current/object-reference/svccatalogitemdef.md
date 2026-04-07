@@ -5,7 +5,7 @@ topic: svccatalogitemdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:17.644Z
+lastCollected: 2026-04-07T09:04:50.225Z
 estimatedTokens: 1124
 keywords: [SvcCatalogItemDef, service, catalog, item, requested, user, API, version, 53.0, later, Calls, Special, Access, Rules]
 ---

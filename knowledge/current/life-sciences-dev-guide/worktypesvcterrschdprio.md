@@ -5,7 +5,7 @@ topic: worktypesvcterrschdprio
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:47.665Z
+lastCollected: 2026-04-07T09:04:12.277Z
 estimatedTokens: 1292
 keywords: [WorkTypeSvcTerrSchdPrio, priority, combination, service, territory, work, procedure, fetching, appointment, slots, API, version, 59.0, later, Calls]
 ---

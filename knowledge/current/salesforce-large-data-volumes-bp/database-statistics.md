@@ -5,7 +5,7 @@ topic: database-statistics
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.997Z
+lastCollected: 2026-04-07T09:05:24.203Z
 estimatedTokens: 155
 keywords: [Database, Statistics, Modern, databases, gather, amount, data, stored, inside, they, execute, queries, efficiently, Because, Salesforce’s]
 ---

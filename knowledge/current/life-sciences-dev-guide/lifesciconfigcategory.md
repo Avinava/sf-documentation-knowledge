@@ -5,7 +5,7 @@ topic: lifesciconfigcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:44.751Z
+lastCollected: 2026-04-07T09:04:09.139Z
 estimatedTokens: 697
 keywords: [LifeSciConfigCategory, category, Life, Sciences, configuration, records, organized, Parent, File, Suffix, Directory, Location, Version, Declarative, Metadata, API, version, 65.0, later, SOAP]
 ---

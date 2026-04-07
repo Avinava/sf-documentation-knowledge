@@ -5,7 +5,7 @@ topic: change-the-stripe-account-associated-with-the-checkout-management-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:20.564Z
+lastCollected: 2026-04-07T09:04:54.393Z
 estimatedTokens: 220
 keywords: [Change, Stripe, Account, Associated, Checkout, Management, App, start, managing, subscriptions, another, settings, CMA, keep, data]
 ---

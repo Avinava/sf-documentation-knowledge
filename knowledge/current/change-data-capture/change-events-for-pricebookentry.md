@@ -5,7 +5,7 @@ topic: change-events-for-pricebookentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:09.711Z
+lastCollected: 2026-04-07T09:03:18.781Z
 estimatedTokens: 85
 keywords: [Change, Events, PricebookEntry, payload, include, system, sCreatedById, CreatedDate, LastModifiedById, LastModifiedDate, due, highly, customized, nature, prevents]
 ---

@@ -5,7 +5,7 @@ topic: cgcloudboapiworkflowc
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:38.243Z
+lastCollected: 2026-04-07T09:05:19.616Z
 estimatedTokens: 926
 keywords: [cgcloud__BO_API_Workflow__c, stores, workflows, defined, Business, API, version, 54.0, later, cgcloud, _BO, _API, _Workflow, Calls, Associated]
 ---

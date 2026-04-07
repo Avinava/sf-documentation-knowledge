@@ -5,7 +5,7 @@ topic: lightning-extension-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:19.251Z
+lastCollected: 2026-04-07T09:03:32.799Z
 estimatedTokens: 198
 keywords: [Lightning, Extension]
 ---

@@ -5,7 +5,7 @@ topic: implement-a-custom-chat-window-using-visualforce
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:50.136Z
+lastCollected: 2026-04-07T09:04:15.908Z
 estimatedTokens: 696
 keywords: [Implement, Custom, Chat, Window, Visualforce, windows, visitors, exchange, messages, support, agents, deployments, includes, customized, add]
 ---

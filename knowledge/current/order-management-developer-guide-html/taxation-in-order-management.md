@@ -5,7 +5,7 @@ topic: taxation-in-order-management
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.169Z
+lastCollected: 2026-04-07T09:04:53.682Z
 estimatedTokens: 308
 keywords: [Taxation, Order, Management, Tax, calculations, complex, especially, supporting, multiple, currencies, Orders, different, taxes, affected, price]
 ---

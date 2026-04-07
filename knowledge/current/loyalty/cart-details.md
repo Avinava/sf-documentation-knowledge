@@ -5,8 +5,8 @@ topic: cart-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:51.305Z
-estimatedTokens: 391
+lastCollected: 2026-04-07T09:04:17.557Z
+estimatedTokens: 393
 keywords: [Cart, line, items, including, initial, amount, adjusted, price, applied, discounts, promotions]
 ---
 
@@ -28,14 +28,14 @@ This example shows a sample response.
 
 | Property Name | Type | Description | Filter Group and Version | Available Version |
 | --- | --- | --- | --- | --- |
-| adjustedCartAmount | Double | The final total amount of the cart after all promotions are applied. | Big, 65.0 | 65.0 |
-| appliedCartPromotionDetails | Applied Cart Promotion Details[] | Details of the cart-level promotions and non-pricing rewards of the line and cross line level promotions applied to the cart. | Big, 65.0 | 65.0 |
+| adjusted​CartAmount | Double | The final total amount of the cart after all promotions are applied. | Big, 65.0 | 65.0 |
+| appliedCart​PromotionDetails | Applied Cart Promotion Details[] | Details of the cart-level promotions and non-pricing rewards of the line and cross line level promotions applied to the cart. | Big, 65.0 | 65.0 |
 | cartHeaderId | String | The ID of the cart on which promotions are applied. | Big, 65.0 | 65.0 |
-| cartLineDetails | Cart Line Details[] | Details of the initial amount, adjusted price, and details of all applied discounts and promotions to cart line items within the cart. | Big, 65.0 | 65.0 |
+| cartLine​Details | Cart Line Details[] | Details of the initial amount, adjusted price, and details of all applied discounts and promotions to cart line items within the cart. | Big, 65.0 | 65.0 |
 | initialCartAmount | Double | Sum of the prices of all items in the cart before any promotions are applied. | Big, 65.0 | 65.0 |
-| totalCartLevelDiscountAmount | Double | Total amount of discounts applied to the the cart from cart-level promotions. | Big, 65.0 | 65.0 |
-| totalDiscountAmount | Double | Sum of all discounts applied to the the cart, including line-level, crossline-level and cart-level discounts. | Big, 65.0 | 65.0 |
-| totalLineLevelDiscountAmount | Double | Total amount of discounts applied to line items from line-level and crossline-level promotions. | Big, 65.0 | 65.0 |
+| total​CartLevel​DiscountAmount | Double | Total amount of discounts applied to the the cart from cart-level promotions. | Big, 65.0 | 65.0 |
+| total​DiscountAmount | Double | Sum of all discounts applied to the the cart, including line-level, crossline-level and cart-level discounts. | Big, 65.0 | 65.0 |
+| total​LineLevel​DiscountAmount | Double | Total amount of discounts applied to line items from line-level and crossline-level promotions. | Big, 65.0 | 65.0 |
 
 ## Code Examples
 

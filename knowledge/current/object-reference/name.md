@@ -5,8 +5,8 @@ topic: name
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.058Z
-estimatedTokens: 1166
+lastCollected: 2026-04-07T09:04:44.708Z
+estimatedTokens: 1160
 keywords: [Non-queryable, foreign, key, traversals, parent, Calls, Usage]
 ---
 
@@ -34,8 +34,8 @@ describeSObjects()
 | FirstName | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe first name of the user, contact, or lead. |
 | IsActive | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the related record is an active user (true) or not (false). This field contains a value only if the related record is a user. |
 | LastName | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe last name of the user, contact, or lead. |
-| LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedatetimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | MiddleName | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe middle name of the user contact, or lead. |
 | Name | TypestringPropertiesFilter, Group, Nillable, SortDescriptionThe name of the parent of the object queried. If the parent is a user, contact, or lead, the value is a concatenation of the FirstName, MiddleName, LastName, and Suffix fields of the related record. |
 | Phone | TypephonePropertiesFilter, Group, Nillable, SortDescriptionThe phone number of the user. This field contains a value only if the related record is a user. |

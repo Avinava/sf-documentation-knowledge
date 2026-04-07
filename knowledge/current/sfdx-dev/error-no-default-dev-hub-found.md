@@ -5,7 +5,7 @@ topic: error-no-default-dev-hub-found
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:18.712Z
+lastCollected: 2026-04-07T09:06:13.707Z
 estimatedTokens: 497
 keywords: [Error, dev, hub, found, try, scratch, org, due, authorization, issue]
 ---

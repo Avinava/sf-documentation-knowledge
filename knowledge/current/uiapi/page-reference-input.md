@@ -5,7 +5,7 @@ topic: page-reference-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.241Z
+lastCollected: 2026-04-07T09:06:15.817Z
 estimatedTokens: 299
 keywords: [Input, add, navigation, item, include, pageReference, JSON, item’s, attributes, state]
 ---

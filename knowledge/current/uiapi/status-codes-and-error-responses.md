@@ -5,7 +5,7 @@ topic: status-codes-and-error-responses
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:20.026Z
+lastCollected: 2026-04-07T09:06:15.513Z
 estimatedTokens: 493
 keywords: [Status, Codes, Error, Responses, HTTP, code, isn’t, successful, message, appropriate, occurred]
 ---

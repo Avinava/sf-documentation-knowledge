@@ -5,7 +5,7 @@ topic: evaluatedcondition-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:23.320Z
+lastCollected: 2026-04-07T09:02:17.756Z
 estimatedTokens: 1984
 namespace: Reports
 keywords: [EvaluatedCondition, individual, components, evaluated, condition, report, notification, aggregate, label, operator, compared, aggregateName, aggregateLabel, compareToValue, aggregateValue]

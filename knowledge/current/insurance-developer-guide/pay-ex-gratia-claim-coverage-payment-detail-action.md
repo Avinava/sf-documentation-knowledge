@@ -5,8 +5,8 @@ topic: pay-ex-gratia-claim-coverage-payment-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:38.675Z
-estimatedTokens: 280
+lastCollected: 2026-04-07T09:04:00.162Z
+estimatedTokens: 279
 keywords: [Pay, Gratia, Claim, Coverage, Payment, Detail, Action, Process, payments, record, adjusted, amount, greater, policy, limit]
 ---
 
@@ -25,7 +25,7 @@ This action is available in API version 66.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/payExGratiaClaimCvrPymtDetail
+/services/data/v/actions/standard/payExGratiaClaimCvrPymtDetail
 
 Formats
 

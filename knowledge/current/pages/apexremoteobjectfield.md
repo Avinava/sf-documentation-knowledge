@@ -5,7 +5,7 @@ topic: apexremoteobjectfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.025Z
+lastCollected: 2026-04-07T09:04:58.287Z
 estimatedTokens: 448
 keywords: [apex, remoteObjectField, load, sObject, defined, component, instead, attribute, <apex, remoteObjectModel>, shorthand, nickname, client-side, JavaScript, code]
 ---

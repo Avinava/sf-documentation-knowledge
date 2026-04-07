@@ -5,7 +5,7 @@ topic: decision-table-definition-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-04-07T07:38:48.677Z
+lastCollected: 2026-04-07T09:02:51.255Z
 estimatedTokens: 1128
 keywords: [Decision, Definition, Input, representation]
 ---

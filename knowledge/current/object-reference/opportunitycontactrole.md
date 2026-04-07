@@ -5,7 +5,7 @@ topic: opportunitycontactrole
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.505Z
+lastCollected: 2026-04-07T09:04:45.258Z
 estimatedTokens: 1182
 keywords: [OpportunityContactRole, role, Contact, plays, Opportunity, Calls, Usage, Associated, Objects]
 ---

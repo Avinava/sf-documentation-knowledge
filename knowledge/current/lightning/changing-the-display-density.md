@@ -5,7 +5,7 @@ topic: changing-the-display-density
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:48.701Z
+lastCollected: 2026-04-07T09:04:13.744Z
 estimatedTokens: 1096
 keywords: [Changing, Display, Density, Lightning, Experience, setting, determines, how, densely, content, labels, located, controlled, org, Setup]
 ---

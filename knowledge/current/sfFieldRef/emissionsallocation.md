@@ -5,7 +5,7 @@ topic: emissionsallocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:56.905Z
+lastCollected: 2026-04-07T09:05:44.343Z
 estimatedTokens: 348
 keywords: [EmissionsAllocation, emissions, child, partner, account, allocated]
 ---

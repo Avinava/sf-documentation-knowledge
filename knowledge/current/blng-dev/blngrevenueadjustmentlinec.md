@@ -5,7 +5,7 @@ topic: blngrevenueadjustmentlinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:08.636Z
+lastCollected: 2026-04-07T09:03:17.437Z
 estimatedTokens: 1208
 keywords: [blng__RevenueAdjustmentLine__c, revenue, schedule, balance, change, multiple, adjustment, lines, target, different, blng, _RevenueAdjustmentLine, Calls]
 ---

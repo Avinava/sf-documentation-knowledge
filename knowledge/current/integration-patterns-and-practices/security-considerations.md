@@ -5,7 +5,7 @@ topic: security-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:34:41.296Z
+lastCollected: 2026-04-07T09:04:04.377Z
 estimatedTokens: 1266
 keywords: [Security, Considerations, effective, members, enterprise, portfolio, applications, created, integrated, relevant, mechanisms, Modern, strategies, employ, combination]
 ---

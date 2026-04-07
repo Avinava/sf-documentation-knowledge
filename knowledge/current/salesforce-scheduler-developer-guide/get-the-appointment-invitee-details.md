@@ -5,7 +5,7 @@ topic: get-the-appointment-invitee-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:43.943Z
+lastCollected: 2026-04-07T09:05:27.288Z
 estimatedTokens: 474
 keywords: [Appointment, Invitee, participant, resources, creating, invitation, URL, Query, run, Salesforce, Language, SOQL, AppointmentInvitee, retrieve, service]
 ---

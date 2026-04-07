@@ -5,7 +5,7 @@ topic: product-details-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:23.076Z
+lastCollected: 2026-04-07T09:03:39.241Z
 estimatedTokens: 1000
 keywords: [Product, POST, attributes, hierarchy, cardinality, API, composite, Discovery]
 ---
@@ -34,7 +34,7 @@ Resource example
 
 Available version
 
-60.0
+66.0
 
 HTTP methods
 
@@ -74,15 +74,15 @@ CPQ Base Details
 ## Code Examples
 
 ```
-/connect/cpq/products/productId
+/connect/consumer/products/productId
 ```
 
 ```
-https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/01txx0000006j08AAA
+https://yourInstance.salesforce.com/services/data/v66.0/connect/consumer/products/01txx0000006j08AAA
 ```
 
 ```
-{
+"productDetailsRequest": {
   "correlationId": "9cbb9650-48c5-11ed-96d1-0afcf185843b",
   "catalogId": "0ZSxx0000000001GAA",
   "priceBookId": "01s26000002ZT71AAG",
@@ -139,3 +139,11 @@ https://yourInstance.salesforce.com/services/data/v66.0/connect/cpq/products/01t
   ]
 }
 ```
+
+## Related Topics
+
+- Context Data
+                        Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_context_data_input.htm)
+- Additional Fields Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_additional_fields_input.htm)
+- User Context
+                        Input (atlas.en-us.comms_developer_guide.meta/comms_developer_guide/connect_requests_user_context_input.htm)

@@ -5,7 +5,7 @@ topic: api-performance
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:41.974Z
+lastCollected: 2026-04-07T09:05:24.163Z
 estimatedTokens: 416
 keywords: [API, Performance, customer, designed, custom, integration, synchronize, Salesforce, data, external, applications, Situation, Solution]
 ---

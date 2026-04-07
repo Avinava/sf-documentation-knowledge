@@ -5,7 +5,7 @@ topic: addcustomdetaildoknowledgesearch
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:50.191Z
+lastCollected: 2026-04-07T09:04:15.992Z
 estimatedTokens: 168
 keywords: [addCustomDetail.doKnowledgeSearch, knowledgeSearch, automatically, search, Knowledge, articles, criteria, pre-chat, form, Usage]
 ---

@@ -5,7 +5,7 @@ topic: permissionsetlicensedefinition-developer-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:14.806Z
+lastCollected: 2026-04-07T09:04:46.669Z
 estimatedTokens: 1384
 namespace: BlockNamespaceAccess
 keywords: [PermissionSetLicenseDefinition, Developer, Preview, definition, custom, permission, license, entitles, features, package, API, version, 54.0, later, Calls]

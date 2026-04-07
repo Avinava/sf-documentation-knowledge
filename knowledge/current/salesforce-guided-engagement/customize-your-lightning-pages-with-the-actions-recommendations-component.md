@@ -5,7 +5,7 @@ topic: customize-your-lightning-pages-with-the-actions-recommendations-component
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:41.916Z
+lastCollected: 2026-04-07T09:05:24.062Z
 estimatedTokens: 677
 keywords: [Customize, Lightning, Pages, Actions, Recommendations, Component, displays, RecordActions, associated, parent, record, Add, users, they, take]
 ---

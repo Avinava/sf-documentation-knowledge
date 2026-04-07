@@ -5,7 +5,7 @@ topic: clients-and-cookies-for-streaming-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:00.386Z
+lastCollected: 2026-04-07T09:03:05.112Z
 estimatedTokens: 309
 keywords: [Clients, Cookies, Streaming, API, ensure, continuity, instance, refreshes, org, migrations, recommend, Domain, login, URL]
 ---

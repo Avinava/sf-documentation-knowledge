@@ -5,7 +5,7 @@ topic: undecidedeventrelation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:18.415Z
+lastCollected: 2026-04-07T09:04:51.318Z
 estimatedTokens: 432
 keywords: [UndecidedEventRelation, event, participants, invitees, attendees, status, Responded, API, versions, 29.0, later, Calls, Usage]
 ---

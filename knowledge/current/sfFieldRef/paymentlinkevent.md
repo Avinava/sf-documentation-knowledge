@@ -5,7 +5,7 @@ topic: paymentlinkevent
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:36:07.319Z
+lastCollected: 2026-04-07T09:05:58.493Z
 estimatedTokens: 269
 keywords: [PaymentLinkEvent, payment, link, platform, event, Subscribe, events, listen, respond, they’re, published, Salesforce, Flow, triggered]
 ---

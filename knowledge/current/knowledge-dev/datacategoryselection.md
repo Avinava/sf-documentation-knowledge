@@ -5,7 +5,7 @@ topic: datacategoryselection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:41.791Z
+lastCollected: 2026-04-07T09:04:05.063Z
 estimatedTokens: 1044
 keywords: [dataCategorySelection, data, category, selection, clause, SOQL, query, includes, group, filter, selector, filtering, Selectors]
 ---

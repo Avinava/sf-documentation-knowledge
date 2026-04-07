@@ -5,7 +5,7 @@ topic: cart-interactions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:27.640Z
+lastCollected: 2026-04-07T09:03:45.962Z
 estimatedTokens: 679
 keywords: [Cart, Interactions, interaction, occurs, customer, interacts, their, checkout, Add, Event, Remove]
 ---

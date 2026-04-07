@@ -5,7 +5,7 @@ topic: connectapisurveyinvitationemailoutput
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:29.141Z
+lastCollected: 2026-04-07T09:02:26.657Z
 estimatedTokens: 126
 keywords: [ConnectApi.SurveyInvitationEmailOutput, Survey, invitation, email]
 ---

@@ -5,7 +5,7 @@ topic: voicecalllistitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:19.227Z
+lastCollected: 2026-04-07T09:04:52.360Z
 estimatedTokens: 229
 keywords: [VoiceCallListItem, phone, number, prioritized, call, Calls, Special, Access, Rules]
 ---

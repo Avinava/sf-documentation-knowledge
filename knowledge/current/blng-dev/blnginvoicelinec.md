@@ -5,7 +5,7 @@ topic: blnginvoicelinec
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:34:08.366Z
+lastCollected: 2026-04-07T09:03:17.101Z
 estimatedTokens: 5137
 keywords: [blng__InvoiceLine__c, amount, buyer, pay, product, service, fee, Invoice, lines, created, order, line, blng, _InvoiceLine, Calls]
 ---

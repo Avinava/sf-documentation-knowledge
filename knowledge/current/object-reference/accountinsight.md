@@ -5,7 +5,7 @@ topic: accountinsight
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:03.607Z
+lastCollected: 2026-04-07T09:04:33.525Z
 estimatedTokens: 785
 keywords: [AccountInsight, individual, insight, key, business, development, account, record, Calls, Special, Access, Rules, Usage]
 ---

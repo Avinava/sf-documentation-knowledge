@@ -5,7 +5,7 @@ topic: canvas-personal-apps
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:27.467Z
+lastCollected: 2026-04-07T09:05:04.554Z
 estimatedTokens: 916
 keywords: [Canvas, Personal, Apps, let, connected, designed, specifically, end, users, across, orgs, app, own, installation, relying]
 ---

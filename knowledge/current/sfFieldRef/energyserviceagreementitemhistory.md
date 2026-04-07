@@ -5,7 +5,7 @@ topic: energyserviceagreementitemhistory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:57.229Z
+lastCollected: 2026-04-07T09:05:44.763Z
 estimatedTokens: 278
 keywords: [EnergyServiceAgreementItemHistory, History, tracked, EnergyServiceAgreementItem]
 ---

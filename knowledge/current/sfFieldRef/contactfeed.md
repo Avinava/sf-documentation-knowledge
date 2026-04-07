@@ -5,7 +5,7 @@ topic: contactfeed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:53.884Z
+lastCollected: 2026-04-07T09:05:40.550Z
 estimatedTokens: 356
 keywords: [ContactFeed, Feed, tracking, Contact]
 ---

@@ -5,7 +5,7 @@ topic: collections-bulk-items-resource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:03.142Z
+lastCollected: 2026-04-07T09:03:09.033Z
 estimatedTokens: 215
 keywords: [Collections, Bulk, Items, Resource, Add, collection, URL, Formats, Version, HTTP, POST]
 ---

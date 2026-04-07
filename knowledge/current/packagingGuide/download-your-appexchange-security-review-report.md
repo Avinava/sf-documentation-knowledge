@@ -5,7 +5,7 @@ topic: download-your-appexchange-security-review-report
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:21.216Z
+lastCollected: 2026-04-07T09:04:55.559Z
 estimatedTokens: 191
 keywords: [Download, AppExchange, Security, Review, Report, solution, doesn’t, pass, vulnerabilities, found, documented, wizard]
 ---

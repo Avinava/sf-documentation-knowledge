@@ -5,7 +5,7 @@ topic: windowing-functions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:06.624Z
+lastCollected: 2026-04-07T09:03:14.430Z
 estimatedTokens: 2284
 keywords: [Windowing, Functions, SAQL, functionality, calculate, common, business, cases, percent, grand, total, moving, average, year, quarter]
 ---

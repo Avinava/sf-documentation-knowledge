@@ -5,7 +5,7 @@ topic: promotionstageemailtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:36.264Z
+lastCollected: 2026-04-07T09:05:16.749Z
 estimatedTokens: 433
 keywords: [PromotionStageEmailTemplate, junction, promotion, stage, email, template, referral, created, associated, customize, company’s, branding, API, version, 59.0]
 ---

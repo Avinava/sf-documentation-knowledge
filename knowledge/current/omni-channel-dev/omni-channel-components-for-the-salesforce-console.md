@@ -5,7 +5,7 @@ topic: omni-channel-components-for-the-salesforce-console
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:19.988Z
+lastCollected: 2026-04-07T09:04:53.390Z
 estimatedTokens: 273
 keywords: [Omni-Channel, Components, Salesforce, Console, lets, call, center, route, any, incoming, work, item, qualified, agents]
 ---

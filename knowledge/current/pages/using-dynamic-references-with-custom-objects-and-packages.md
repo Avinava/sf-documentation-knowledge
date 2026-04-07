@@ -6,7 +6,7 @@ topic: using-dynamic-references-with-custom-objects-and-packages
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:35:23.512Z
+lastCollected: 2026-04-07T09:04:59.021Z
 estimatedTokens: 823
 keywords: [Dynamic, References, Custom, Objects, Packages, Package, developers, Visualforce, binding, user, access, situation, occur, you’re, developing]
 ---

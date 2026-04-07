@@ -5,7 +5,7 @@ topic: order-summaries-create-multiple-invoices-from-change-orders
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:34:16.524Z
+lastCollected: 2026-04-07T09:03:28.606Z
 estimatedTokens: 575
 keywords: [Order, Summaries, Multiple, Invoices, Change, Orders, represent, charges, increase, amounts, fees, ensure, refund, include, any]
 ---

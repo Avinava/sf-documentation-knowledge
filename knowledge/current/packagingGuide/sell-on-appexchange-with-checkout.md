@@ -5,7 +5,7 @@ topic: sell-on-appexchange-with-checkout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:20.381Z
+lastCollected: 2026-04-07T09:04:54.093Z
 estimatedTokens: 313
 keywords: [Sell, AppExchange, Checkout, Accept, credit, card, payments, bank, transfers, directly, listing, Transform, sales, revenue, data]
 ---

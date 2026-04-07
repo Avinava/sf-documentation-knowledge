@@ -5,7 +5,7 @@ topic: transaction-management-standard-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-04-05T00:23:23.517Z
+lastCollected: 2026-04-07T09:02:02.916Z
 estimatedTokens: 947
 keywords: [Transaction, Management, Standard, Invocable, Actions]
 ---

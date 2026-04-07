@@ -5,7 +5,7 @@ topic: controller-class-security
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:35:23.350Z
+lastCollected: 2026-04-07T09:04:58.771Z
 estimatedTokens: 431
 keywords: [Controller, Security, Apex, classes, specify, whether, user, execute, custom, extension, user's, profile]
 ---

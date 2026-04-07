@@ -5,7 +5,7 @@ topic: financialdeal
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:34:30.195Z
+lastCollected: 2026-04-07T09:03:49.437Z
 estimatedTokens: 1731
 keywords: [FinancialDeal, deal, financial, institution, working, API, version, 52.0, later, Calls, Associated, Objects]
 ---

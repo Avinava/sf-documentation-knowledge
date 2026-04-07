@@ -5,7 +5,7 @@ topic: using-custom-marker-icons
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:23.820Z
+lastCollected: 2026-04-07T09:04:59.491Z
 estimatedTokens: 562
 keywords: [Custom, Marker, Icons, Visualforce, map, icon, functional, plain, differentiate, markers, add, detail, style, maps]
 ---

@@ -5,8 +5,8 @@ topic: orderitemsummarychange
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:35:13.948Z
-estimatedTokens: 929
+lastCollected: 2026-04-07T09:04:45.755Z
+estimatedTokens: 939
 keywords: [OrderItemSummaryChange, change, OrderItemSummary, usually, reduction, quantity, due, cancel, Corresponds, order, item, API, version, 48.0, later]
 ---
 
@@ -35,7 +35,7 @@ This object is only available in Salesforce Order Management orgs.
 | Field | Details |
 | --- | --- |
 | ChangeOrderItemId | TypereferencePropertiesFilter, Group, SortDescriptionID of the associated change order item. |
-| ChangeType | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionType of change represented by the OrderItemSummaryChange.Possible values are:Add (available in API version 54.0 and later)CancelDeliveryChargeAdjustmentProductAdjustmentReturn |
+| ChangeType | TypepicklistPropertiesFilter, Group, Restricted picklist, SortDescriptionType of change represented by the OrderItemSummaryChange.Possible values are:AddAddTaxCancelCancelFeeDeliveryChargeAdjustmentFeeAdjustmentModifyOrderAdjustmentGroupOrderDeliveryGroupProductAdjustmentReturnReturnFee |
 | CurrencyIsoCode | TypepicklistPropertiesDefaulted on create, Filter, Group, Restricted picklist, SortDescriptionISO code for the currency of the OrderSummary associated with the OrderItemSummaryChange. The default value is USD.Possible values are:DKK—Danish KroneEUR—EuroGBP—British PoundUSD—U.S. DollarThis field is available in API version 49.0 and later. |
 | IsPreFulfillment | TypebooleanPropertiesDefaulted on create, Filter, Group, SortDescriptionIndicates whether the change occurs before the OrderItemSummary has been fulfilled. |
 | OrderItemSummary​ChangeNumber | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionID of the OrderItemSummaryChange. |
