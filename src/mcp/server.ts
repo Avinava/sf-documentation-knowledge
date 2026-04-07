@@ -1011,7 +1011,7 @@ server.tool(
     });
 
     // Also search with original if expanded is different
-    let allResults = [...results];
+    const allResults = [...results];
     if (parsed.expanded !== parsed.original) {
       const origResults = gq.searchNodes(parsed.original, {
         type: "document",

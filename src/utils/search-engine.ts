@@ -112,7 +112,6 @@ export class SearchEngine {
 
     // Orama search() returns Results | Promise<Results> in its type signature,
     // but it is synchronous when no async components are configured.
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const results = search(this.db, {
       term,
       limit,

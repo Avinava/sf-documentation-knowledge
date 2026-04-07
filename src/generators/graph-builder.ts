@@ -2,7 +2,6 @@ import path from "node:path";
 import fs from "fs-extra";
 import pkg from "graphology";
 const { DirectedGraph } = pkg;
-// eslint-disable-next-line @typescript-eslint/no-require-imports, @typescript-eslint/no-var-requires
 import pagerankModule from "graphology-metrics/centrality/pagerank.js";
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const pagerank = (pagerankModule as any).default || pagerankModule;

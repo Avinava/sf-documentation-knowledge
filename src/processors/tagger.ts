@@ -146,8 +146,8 @@ function extractKeywords(
   // Pass 1: Add whole heading names as keywords (preserves PascalCase names)
   for (const heading of headings) {
     const cleaned = heading
-      .replace(/[.,:;!?'"()\[\]{}]+$/g, "")
-      .replace(/^[.,:;!?'"()\[\]{}]+/g, "")
+      .replace(/[.,:;!?'"()[\]{}]+$/g, "")
+      .replace(/^[.,:;!?'"()[\]{}]+/g, "")
       .trim();
     // Preserve multi-word headings that look like identifiers (e.g. FlowLoop, FlowActionCall)
     if (/^[A-Z][a-zA-Z0-9]+$/.test(cleaned) && cleaned.length >= 4) {

@@ -1,6 +1,5 @@
 import fs from "fs-extra";
 import path from "node:path";
-// eslint-disable-next-line @typescript-eslint/no-require-imports, @typescript-eslint/no-var-requires
 import pkg from "graphology";
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const DirectedGraph = (pkg as any).DirectedGraph || pkg;

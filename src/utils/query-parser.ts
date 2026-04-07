@@ -12,9 +12,7 @@
  *   "creating REST API callouts" →
  *     { nouns: ["rest", "api", "callout"], verbs: ["create"], original: "..." }
  */
-// eslint-disable-next-line @typescript-eslint/no-require-imports
 import winkNLP from "wink-nlp";
-// eslint-disable-next-line @typescript-eslint/no-require-imports
 import model from "wink-eng-lite-web-model";
 
 // Initialize NLP engine (singleton)
