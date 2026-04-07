@@ -1,9 +1,18 @@
-# @sfdxy/sf-documentation-knowledge
+<p align="center">
+  <img src="assets/logo.svg" alt="SF-Documentation-Knowledge" width="800" />
+</p>
 
-[![npm version](https://img.shields.io/npm/v/@sfdxy/sf-documentation-knowledge)](https://www.npmjs.com/package/@sfdxy/sf-documentation-knowledge)
-[![CI](https://github.com/Avinava/sf-documentation-knowledge/actions/workflows/ci.yml/badge.svg)](https://github.com/Avinava/sf-documentation-knowledge/actions/workflows/ci.yml)
+<p align="center">
+  <a href="https://www.npmjs.com/package/@sfdxy/sf-documentation-knowledge"><img src="https://img.shields.io/npm/v/@sfdxy/sf-documentation-knowledge?style=flat-square&color=34d399" alt="npm version" /></a>
+  <a href="https://github.com/Avinava/sf-documentation-knowledge/actions"><img src="https://img.shields.io/github/actions/workflow/status/Avinava/sf-documentation-knowledge/ci.yml?style=flat-square&color=38bdf8" alt="CI" /></a>
+  <a href="https://www.npmjs.com/package/@sfdxy/sf-documentation-knowledge"><img src="https://img.shields.io/npm/dm/@sfdxy/sf-documentation-knowledge?style=flat-square&color=fbbf24" alt="Downloads" /></a>
+</p>
 
-**Collect, process, and serve Salesforce documentation for LLM agents — using Context Engineering + MCP, not RAG.**
+<p align="center">
+  <strong>Collect, process, and serve Salesforce documentation for LLM agents — using Context Engineering + MCP, not RAG.</strong>
+</p>
+
+---
 
 ## Overview
 
