@@ -5,7 +5,7 @@ topic: declineagentwork
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.302Z
+lastCollected: 2026-04-07T07:53:52.923Z
 estimatedTokens: 213
 keywords: [declineAgentWork, Declines, work, item, that’s, assigned, agent, API, versions, 32.0, later, Arguments, Sample, Code–Visualforce]
 ---

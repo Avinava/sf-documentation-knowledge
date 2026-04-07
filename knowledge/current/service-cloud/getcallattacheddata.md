@@ -5,7 +5,7 @@ topic: getcallattacheddata
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.552Z
+lastCollected: 2026-04-07T07:53:53.324Z
 estimatedTokens: 316
 keywords: [getCallAttachedData, attached, data, call, represented, there, isn’t, active, JSON, computer-telephony, integration, CTI, it’s, API, version]
 ---

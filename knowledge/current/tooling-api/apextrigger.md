@@ -5,7 +5,7 @@ topic: apextrigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:43.872Z
+lastCollected: 2026-04-07T07:53:43.899Z
 estimatedTokens: 1310
 keywords: [ApexTrigger, saved, copy, Apex, trigger, uses, cached, version, unless, unavailable, API, 28.0, later, SOAP, Calls]
 ---

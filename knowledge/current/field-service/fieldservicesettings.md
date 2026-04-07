@@ -5,8 +5,8 @@ topic: fieldservicesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:54.011Z
-estimatedTokens: 2743
+lastCollected: 2026-04-07T07:53:49.698Z
+estimatedTokens: 2906
 keywords: [FieldServiceSettings, organization’s, Service, settings, Version, ObjectMappingItem, ObjectMapping, ObjectMappingField, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---
 
@@ -48,7 +48,9 @@ FieldServiceSettings is available in API version 40.0 and later.
 | doesShareSaWithAr | boolean | Shares dispatched service appointments with their assigned resources.This setting applies only if sharing access for service appointments is set to Private or Public Read Only. Technician assigned resources get Read-Write access to their service appointments. For assigned resources of type Crew, the crew leader gets Read-Write access and crew members get Read access. |
 | enableDocumentBuilder | boolean | Enables access to Document Builder feature. |
 | enableFloatingWorkOrder | boolean | Enables floating work orders for the org.Allows users to create work orders with a floating recurrence cadence based on the previous work order's completion. |
-| enablePopulateWorkOrderAddress | boolean | Enables address to be populated when work orders are generated from Maintenance Plan. |
+| enableLsdkMode | boolean | Enables Lightning SDK in the Field Service mobile app. |
+| enablePopulateWorkOrderAddress | boolean | Allows the address to be populated when work orders are generated from a maintenance plan. |
+| enableStandbyMode | boolean | Turns on standby mode in the Field Service mobile app. When enabled, it helps mobile workers conserve battery and reduce distractions by pausing notifications and disabling data syncs when not actively working. |
 | enableWorkOrders | boolean | Enables Work Orders for the org.This setting allows users to use the Work Order object, whether or not Field Service is enabled. When Field Service is enabled, you can’t turn off Work Orders. |
 | enableWorkPlansAutoGeneration | boolean | Allows work plans and their work steps to be generated automatically when a work order or a work order line item is newly created. The specific work plans and work steps to be generated depends on matching criteria specified in Work Plan Selection Rules. Available in API version 52.0 and later. |
 | enableWorkStepManualStatusUpdate | boolean | Allows a work step status to be updated manually. A prompt suggests a status update that users can accept or defer. |
@@ -62,6 +64,7 @@ FieldServiceSettings is available in API version 40.0 and later.
 | o2EngineEnabled | boolean | Enables Field Service Enhanced Scheduling and Optimization. The default value is false. Available in API version 55.0 and later. |
 | objectMappingItem | ObjectMappingItem | Represents an organization's custom field mapping for Work Plan or Work Step generation. Custom Fields can be mapped from WorkPlanTemplate to WorkPlan, WorkStepTemplate to WorkStep, or WorkPlanTemplateEntry to WorkStep. Available in API version 52.0 and later. |
 | optimizationServiceAccess | boolean | Allows the optimization service to access data in your Salesforce org. |
+| overrideDefaultLwcStyling | boolean | Allows the Field Service mobile app to override the default Lightning Web Component (LWC) styling with custom or branded styles. When enabled, it applies custom styling configurations (such as brand colors, themes, and visual elements) to LWCs within the mobile application. |
 | scheduledDefaultStatus | string | The default status value when a service appointment is scheduled. Available in API version 65.0 and later. |
 | serviceAppointmentsDueDateOffsetOrgValue | int | Indicates the number of days past the Created Date that the Due Date on auto-created service appointments should fall. Work types include an option to automatically add a service appointment to new work orders or work order line items using the work type. |
 | workOrderDurationSource | WorkOrderDurationSource (enumeration of type string) | The source for the work order duration value. Possible values are:WorkTypeTotalFromWorkPlanCustomAvailable in API version 55.0 and later. |

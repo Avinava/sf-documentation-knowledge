@@ -5,7 +5,7 @@ topic: composite-subrequest-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.336Z
+lastCollected: 2026-04-07T07:53:40.202Z
 estimatedTokens: 1627
 keywords: [Composite, Subrequest, Result, Behavior, Responses, There, Illegal, Characters, IDs, References, Aren’t, Parent]
 ---

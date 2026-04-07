@@ -5,8 +5,8 @@ topic: android-emulator-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:55.146Z
-estimatedTokens: 1417
+lastCollected: 2026-04-07T07:53:51.104Z
+estimatedTokens: 1398
 keywords: [Android, Emulator, Setup, development, it’s, convenient, test, code, virtual, device, Studio, install, build, mobile, app]
 ---
 
@@ -39,27 +39,27 @@ Review the minimum requirements for your mobile app.
     If you already have Android Studio installed, there’s no need to reinstall it.
 
 2.  Launch Android Studio.
-3.  Click **More Actions** or ![More Actions button with three vertical dots](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fqs_studio_icon_more_actions.png&folder=field_service_dev) in the top left, depending on your version of Android Studio, and then select **Virtual Device Manager** from the dropdown.
-4.  Click the ![Edit button with pencil icon](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fqs_studio_icon_edit.png&folder=field_service_dev) in the Actions column of the device you’d like to edit.
+3.  Click **More Actions** or ![More Actions button with three vertical dots](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fqs_studio_icon_more_actions.png&folder=field_service_dev) in the top left, depending on your version of Android Studio, and then select **Virtual Device Manager** from the dropdown.
+4.  Click the ![Edit button with pencil icon](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fqs_studio_icon_edit.png&folder=field_service_dev) in the Actions column of the device you’d like to edit.
 
     Or, if you want to create an emulator, click **Create Device** and follow the prompts.
 
 5.  Click **Change** in the line that displays the version number.
 
-    ![Android Studio virtual device configuration panel, API version setting](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fqs_studio_avd_api_version.png&folder=field_service_dev)
+    ![Android Studio virtual device configuration panel, API version setting](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fqs_studio_avd_api_version.png&folder=field_service_dev)
 
 6.  In the pop-up window, select API 30 version or later.
 7.  Click **OK**.
 8.  Scroll down in the window to the Memory and Storage section.
 
-    ![Android Studio virtual device configuration panel, memory and storage settings](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fqs_studio_avd_ram.png&folder=field_service_dev)
+    ![Android Studio virtual device configuration panel, memory and storage settings](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fqs_studio_avd_ram.png&folder=field_service_dev)
 
 9.  Click in the **RAM** field and enter 4096.
 
     If you can’t change the RAM value, use a newer device for the emulator.
 
 10.  Click **Finish**.
-11.  Click ![Start Emulator button with play icon](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fqs_studio_icon_start_emulator.png&folder=field_service_dev) in the Actions column of the device to launch the Android Emulator.
+11.  Click ![Start Emulator button with play icon](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fqs_studio_icon_start_emulator.png&folder=field_service_dev) in the Actions column of the device to launch the Android Emulator.
 
 After the device emulator launches you can close Android Studio, but keep the Android Emulator app window open to install the Field Service app in the next section.
 
@@ -77,7 +77,7 @@ To run the Field Service mobile app in an Android emulator, download and install
 5.  Click **I Agree** to accept the Order Form Supplement agreement.
 6.  Click the vertical dots button on the top right and select **Change Server**.
 
-    ![Field Service mobile app login. Select Change Connection in the top-right menu.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fqs_app_login_change_connection.png&folder=field_service_dev)
+    ![Field Service mobile app login. Select Change Connection in the top-right menu.](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fqs_app_login_change_connection.png&folder=field_service_dev)
 
 7.  Select a connection.
 

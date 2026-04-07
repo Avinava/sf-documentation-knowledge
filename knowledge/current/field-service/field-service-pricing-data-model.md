@@ -5,8 +5,8 @@ topic: field-service-pricing-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:53.895Z
-estimatedTokens: 605
+lastCollected: 2026-04-07T07:53:49.546Z
+estimatedTokens: 602
 keywords: [Service, Pricing, Data, Model, Link, work, orders, products, assets, org, track, product, performed, customers’, installed]
 ---
 
@@ -25,7 +25,7 @@ Link work orders to products or assets in your org to track product pricing and 
 
 Asterisks in the following diagram signify required fields.
 
-![Pricing diagram](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Ffsl_dev_pricing.png&folder=field_service_dev)
+![Pricing diagram](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Ffsl_dev_pricing.png&folder=field_service_dev)
 
 If you’ve set up a product catalog in Salesforce to track the goods and services your business offers, you can associate items in your price books with work orders and their line items, similar to the way you can associate products with opportunities or orders. If you specify a price book on a work order, this allows you to link each work order line item to a price book entry (product) from the price book. List price, discount, and quantity are defined at the line-item level.
 

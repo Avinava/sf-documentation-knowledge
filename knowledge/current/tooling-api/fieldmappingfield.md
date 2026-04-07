@@ -5,7 +5,7 @@ topic: fieldmappingfield
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:44.772Z
+lastCollected: 2026-04-07T07:53:45.003Z
 estimatedTokens: 323
 keywords: [FieldMappingField, org, maps, data, service, SOAP, Calls, REST, HTTP]
 ---

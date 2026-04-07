@@ -5,7 +5,7 @@ topic: build-custom-tables-for-service-documents-with-lwcs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:53.811Z
+lastCollected: 2026-04-07T07:53:49.408Z
 estimatedTokens: 192
 keywords: [Build, Custom, Tables, Service, Documents, LWCs, Document, Builder, Lightning, web, components, Design, Show, Data, Properly]
 ---

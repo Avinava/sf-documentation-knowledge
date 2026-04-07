@@ -6,7 +6,7 @@ topic: enclosingutilityid-context-wire-adapter-for-lightning-experience-context-
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.126Z
+lastCollected: 2026-04-07T07:53:54.199Z
 estimatedTokens: 320
 keywords: [EnclosingUtilityId, Context, Wire, Adapter, Lightning, Experience, Determines, component, utility, Web, Components, LWC, Sample, Code]
 ---

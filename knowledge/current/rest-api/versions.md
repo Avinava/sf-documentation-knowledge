@@ -5,7 +5,7 @@ topic: versions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:36.025Z
+lastCollected: 2026-04-07T07:53:41.437Z
 estimatedTokens: 152
 keywords: [Versions, summary, Salesforce, version, currently, including, label, link, version's, root]
 ---

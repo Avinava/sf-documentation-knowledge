@@ -5,7 +5,7 @@ topic: setagentinput-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.069Z
+lastCollected: 2026-04-07T07:53:54.107Z
 estimatedTokens: 205
 keywords: [setAgentInput, LWC, Lightning, Experience, text, agent's, box, works, console, apps, Arguments, message]
 ---

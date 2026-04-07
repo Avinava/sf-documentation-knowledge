@@ -5,7 +5,7 @@ topic: embeddedserviceresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:44.458Z
+lastCollected: 2026-04-07T07:53:44.651Z
 estimatedTokens: 293
 keywords: [EmbeddedServiceResource, mapping, EmbeddedServiceCustomization, record, parent, resources, resource, customizations, applied, via, uploaded, Embedded, Chat, API, version]
 ---

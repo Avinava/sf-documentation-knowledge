@@ -5,7 +5,7 @@ topic: create-records-using-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.700Z
+lastCollected: 2026-04-07T07:53:40.774Z
 estimatedTokens: 263
 keywords: [Records, Quick, Actions, Creates, record, via, action, resource, REST, API, version, 28.0, later]
 ---

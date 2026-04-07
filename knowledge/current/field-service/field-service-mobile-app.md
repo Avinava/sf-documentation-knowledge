@@ -5,7 +5,7 @@ topic: field-service-mobile-app
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:53.813Z
+lastCollected: 2026-04-07T07:53:49.413Z
 estimatedTokens: 369
 keywords: [Service, Mobile, App, Configure, mobile-specific, features, deep, linking]
 ---

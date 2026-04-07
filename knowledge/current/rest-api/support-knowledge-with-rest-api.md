@@ -5,7 +5,7 @@ topic: support-knowledge-with-rest-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.413Z
+lastCollected: 2026-04-07T07:53:40.344Z
 estimatedTokens: 545
 keywords: [Support, Knowledge, REST, API, APIs, allow, authorized, guest, users, retrieve, user’s, visible, data, categories, their]
 ---

@@ -5,7 +5,7 @@ topic: allowfieldtruncationheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:43.622Z
+lastCollected: 2026-04-07T07:53:43.525Z
 estimatedTokens: 493
 keywords: [AllowFieldTruncationHeader, too, large, operation, fails, strings, truncated, API, Calls, Sample, Code—Java]
 ---

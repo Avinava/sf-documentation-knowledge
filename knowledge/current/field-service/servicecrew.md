@@ -5,7 +5,7 @@ topic: servicecrew
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:54.770Z
+lastCollected: 2026-04-07T07:53:50.642Z
 estimatedTokens: 575
 keywords: [ServiceCrew, group, service, resources, assigned, appointments, unit, Calls, Special, Access, Rules, Associated, Objects]
 ---

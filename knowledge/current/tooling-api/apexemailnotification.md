@@ -5,8 +5,8 @@ topic: apexemailnotification
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:43.767Z
-estimatedTokens: 373
+lastCollected: 2026-04-07T07:53:43.743Z
+estimatedTokens: 478
 keywords: [ApexEmailNotification, Stores, Salesforce, user, external, email, address, notified, unhandled, Apex, exceptions, occur, API, version, 35.0]
 ---
 
@@ -19,6 +19,12 @@ keywords: [ApexEmailNotification, Stores, Salesforce, user, external, email, add
 # ApexEmailNotification
 
 Stores a Salesforce user ID or external email address to be notified when unhandled Apex exceptions occur. This object is available in API version 35.0 and later.
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_tooling)
+
+#### Important
+
+System-generated emails from an unverified email-sending domain aren’t delivered, even if the From email address is verified. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_tooling)
 

@@ -5,7 +5,7 @@ topic: return-headers-of-app-menu-item-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.222Z
+lastCollected: 2026-04-07T07:53:40.010Z
 estimatedTokens: 134
 keywords: [App, Menu, Item, Requests, Salesforce, dropdown, items, URI, retrieve, content, resource, REST, API, version, 29.0]
 ---

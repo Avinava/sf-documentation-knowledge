@@ -5,7 +5,7 @@ topic: brandingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:43.921Z
+lastCollected: 2026-04-07T07:53:43.965Z
 estimatedTokens: 1070
 keywords: [BrandingSet, branding, Experience, Builder, site, defined, Theme, panel, API, version, 40.0, later, SOAP, Calls, REST]
 ---

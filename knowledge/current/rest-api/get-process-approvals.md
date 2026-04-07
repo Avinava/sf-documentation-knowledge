@@ -5,7 +5,7 @@ topic: get-process-approvals
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.627Z
+lastCollected: 2026-04-07T07:53:40.630Z
 estimatedTokens: 120
 keywords: [Process, Approvals, approval, processes, resource, REST, API, version, 30.0, later]
 ---

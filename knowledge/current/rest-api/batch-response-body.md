@@ -5,8 +5,8 @@ topic: batch-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.032Z
-estimatedTokens: 202
+lastCollected: 2026-04-07T07:53:41.454Z
+estimatedTokens: 200
 keywords: [Batch, result, Composite, Results, Subrequest]
 ---
 
@@ -40,7 +40,7 @@ Properties
 
 | Name | Type | Description |
 | --- | --- | --- |
-| result | The type depends on the response type of the subrequest.ImportantIf the result is an error, the type is a collection containing the error message and error code. | The response body of this subrequest. |
+| result | The type depends on the response type of the subrequest.If the result is an error, the type is a collection containing the error message and error code. | The response body of this subrequest. |
 | statusCode | Integer | An HTTP status code indicating the status of this subrequest. |
 
 JSON example

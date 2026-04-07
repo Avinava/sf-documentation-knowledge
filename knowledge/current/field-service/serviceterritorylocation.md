@@ -5,7 +5,7 @@ topic: serviceterritorylocation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:54.834Z
+lastCollected: 2026-04-07T07:53:50.719Z
 estimatedTokens: 313
 keywords: [ServiceTerritoryLocation, location, associated, particular, service, territory, Calls, Special, Access, Rules, Objects]
 ---

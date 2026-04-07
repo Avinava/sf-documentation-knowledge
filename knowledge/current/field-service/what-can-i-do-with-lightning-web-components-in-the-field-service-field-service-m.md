@@ -6,7 +6,7 @@ topic: what-can-i-do-with-lightning-web-components-in-the-field-service-field-se
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:55.181Z
+lastCollected: 2026-04-07T07:53:51.165Z
 estimatedTokens: 190
 keywords: [Lightning, Web, Components, Service, Mobile, App, custom, accessed, Actions, menu, built, LWCs, simple, complex, depending]
 ---

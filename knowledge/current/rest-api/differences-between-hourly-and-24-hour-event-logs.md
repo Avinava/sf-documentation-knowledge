@@ -5,7 +5,7 @@ topic: differences-between-hourly-and-24-hour-event-logs
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:35.004Z
+lastCollected: 2026-04-07T07:53:39.603Z
 estimatedTokens: 523
 keywords: [Differences, Hourly, 24-Hour, Event, Logs, receive, log, files, approximately, every, hour, addition, Review, two, filter]
 ---

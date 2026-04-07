@@ -5,7 +5,7 @@ topic: refreshsubtabbyid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.379Z
+lastCollected: 2026-04-07T07:53:54.598Z
 estimatedTokens: 346
 keywords: [refreshSubtabById, Refreshes, subtab, known, URL, can't, refresh, external, Visualforce, API, version, 22.0, later, Arguments, Sample]
 ---

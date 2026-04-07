@@ -5,8 +5,8 @@ topic: workplantemplateentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:55.094Z
-estimatedTokens: 487
+lastCollected: 2026-04-07T07:53:51.031Z
+estimatedTokens: 480
 keywords: [WorkPlanTemplateEntry, associates, work, step, template, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated]
 ---
 
@@ -32,8 +32,8 @@ Field Service must be enabled.
 | Field | Details |
 | --- | --- |
 | ExecutionOrder | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe sequence number of when this entry is executed. Only positive values are supported. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | WorkPlanTemplateEntryNumber | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescriptionThe auto-generated number of the work plan template entry, for example, WPTE-0001. |
 | WorkPlanTemplateId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionRequired. The ID of the work plan template. |
 | WorkStepTemplateId | TypereferencePropertiesCreate, Filter, Group, Sort, UpdateDescriptionRequired. The ID of the work step template. |

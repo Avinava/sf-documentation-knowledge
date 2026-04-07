@@ -5,7 +5,7 @@ topic: query-event-monitoring-data-with-rest
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.866Z
+lastCollected: 2026-04-07T07:53:39.316Z
 estimatedTokens: 123
 keywords: [Query, Event, Monitoring, Data, REST, resource, retrieve, record, Specify, want]
 ---

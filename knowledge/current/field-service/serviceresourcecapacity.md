@@ -5,7 +5,7 @@ topic: serviceresourcecapacity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:54.811Z
+lastCollected: 2026-04-07T07:53:50.688Z
 estimatedTokens: 964
 keywords: [ServiceResourceCapacity, maximum, number, scheduled, hours, service, appointments, capacity-based, resource, specific, time, period, API, version, 38.0]
 ---

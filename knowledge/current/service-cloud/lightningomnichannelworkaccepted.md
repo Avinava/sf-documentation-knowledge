@@ -5,7 +5,7 @@ topic: lightningomnichannelworkaccepted
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:55.386Z
+lastCollected: 2026-04-07T07:53:53.070Z
 estimatedTokens: 176
 keywords: [lightning, omniChannelWorkAccepted, agent, accepted, work, assignment, automatically]
 ---

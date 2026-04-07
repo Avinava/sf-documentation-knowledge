@@ -5,7 +5,7 @@ topic: add-or-change-the-translation-of-a-survey-field
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.114Z
+lastCollected: 2026-04-07T07:53:39.812Z
 estimatedTokens: 329
 keywords: [Add, Change, Translation, Survey, translated, already, particular, language, resource, REST, API, version, 48.0, later]
 ---

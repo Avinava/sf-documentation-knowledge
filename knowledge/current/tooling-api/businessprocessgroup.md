@@ -5,7 +5,7 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:43.974Z
+lastCollected: 2026-04-07T07:53:44.029Z
 estimatedTokens: 1129
 keywords: [BusinessProcessGroup, customer, lifecycle, maps, track, scores, provided, customers, across, their, Salesforce, Surveys, stages, Insurance, business]
 ---

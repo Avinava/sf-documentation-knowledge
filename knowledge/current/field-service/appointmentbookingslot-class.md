@@ -5,7 +5,7 @@ topic: appointmentbookingslot-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.531Z
+lastCollected: 2026-04-07T07:53:48.970Z
 estimatedTokens: 615
 namespace: FSL
 keywords: [AppointmentBookingSlot, booking, slot, service, appointment, instance, part, results, AppointmentBookingService, GradeSlotsService, classes, grade, interval]

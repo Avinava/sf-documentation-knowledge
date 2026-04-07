@@ -5,7 +5,7 @@ topic: sosl-operation-limitations
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:43.609Z
+lastCollected: 2026-04-07T07:53:43.504Z
 estimatedTokens: 443
 keywords: [SOSL, Operation, Limitations, Two, Tooling, API, objects, EntityDefinition, FieldDefinition, ExternalString, MetadataComponentDependency, Beta, don’t, support, searches]
 ---

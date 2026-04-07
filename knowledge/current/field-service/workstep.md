@@ -5,8 +5,8 @@ topic: workstep
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:55.105Z
-estimatedTokens: 1084
+lastCollected: 2026-04-07T07:53:51.043Z
+estimatedTokens: 1078
 keywords: [WorkStep, work, step, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
@@ -36,8 +36,8 @@ Field Service must be enabled.
 | Description | TypetextareaPropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe description of the work step. |
 | EndTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time the work step ends. The value must be greater than or equal to StartTime. |
 | ExecutionOrder | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe order in which the work step is executed. Only positive integer values or null are supported. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionRequired. The user-defined name of the work step. |
 | PausedFlowInterviewId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe auto-populated ID of the flow interview paused by a user. |
 | ProcessType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionThe flow process type launched from the work step.Possible values are:DataCaptureFlow—Data Capture FlowDiscoveryFrameworkFlow—Discovery Framework Data Capture Flow (Beta)FieldServiceMobileFlow—Field Service Mobile FlowThe default value is DataCaptureFlow. |

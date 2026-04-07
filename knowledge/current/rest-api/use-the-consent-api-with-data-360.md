@@ -5,7 +5,7 @@ topic: use-the-consent-api-with-data-360
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.363Z
+lastCollected: 2026-04-07T07:53:40.247Z
 estimatedTokens: 1624
 keywords: [Consent, API, Data, supports, write, profile, Contact, Salesforce, Representative, consumer, rights, guidance, Permissions, Actions]
 ---

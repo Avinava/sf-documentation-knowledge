@@ -1,0 +1,77 @@
+---
+title: "setUtilityIcon() for Lightning Experience"
+domain: service-cloud
+topic: setutilityicon-for-lightning-experience
+apiVersion: 67.0
+release: summer-26-v67
+docType: api-reference
+lastCollected: 2026-04-07T07:53:54.088Z
+estimatedTokens: 339
+keywords: [setUtilityIcon, Lightning, Experience, icon, utility, bar, isn’t, Web, Components, LWC, Arguments, Aura, Sample, Code]
+---
+
+# setUtilityIcon() for Lightning Experience
+
+> Sets the icon of a utility. This icon is displayed in the utility bar. This method isn’t
+  supported for Lightning Web Components (LWC).
+
+# setUtilityIcon() for Lightning Experience
+
+Sets the icon of a utility. This icon is displayed in the utility bar. This method isn’t supported for Lightning Web Components (LWC).
+
+For LWC usage, see [updateUtility() for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updateUtility.htm "Specifies a label and icon on the utility bar, and sets a utility as highlighted. This method is available for Lightning Web Components (LWC) only.").
+
+## Arguments
+
+| Name | Type | Description |
+| --- | --- | --- |
+| utilityId | string | The ID of the utility on which to set the icon. Optional when called within a utility. |
+| icon | string | An SLDS utility icon key that is displayed in the utility bar. See a full list of utility icon keys on the SLDS reference site. |
+| options | object | Optional. Additional options that modify the appearance of the utility icon.iconVariant—Changes the utility icon color. Available types are success (), warning (), and error (). |
+
+## Aura Components Sample Code
+
+This component, when added to a single-column Lightning page used in a utility bar, sets the icon of the utility to a green SLDS “insert\_tag\_field” icon when the button is pressed.
+
+Component code:
+
+```
+
+```
+
+Controller code:
+
+```
+
+```
+
+## Response
+
+This method returns a promise that, upon success, resolves to true.
+
+## Code Examples
+
+```apex
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    <lightning:utilityBarAPI aura:id="utilitybar" />
+    <lightning:button label="Set Utility Icon" onclick="{! c.handleSetUtilityIcon }" />
+</aura:component>
+```
+
+```
+({
+    handleSetUtilityIcon : function(component, event, helper) {
+        var utilityAPI = component.find("utilitybar");
+        utilityAPI.setUtilityIcon({
+            icon: "insert_tag_field",
+            options:{
+                iconVariant:"success"
+            }
+        });
+    }
+})
+```
+
+## Related Topics
+
+- updateUtility() for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lwc_updateUtility.htm)

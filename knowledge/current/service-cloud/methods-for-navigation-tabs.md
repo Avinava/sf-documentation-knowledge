@@ -5,7 +5,7 @@ topic: methods-for-navigation-tabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.222Z
+lastCollected: 2026-04-07T07:53:54.356Z
 estimatedTokens: 343
 keywords: [Navigation, Tabs, Salesforce, console, displays, tab, users, select, objects, view, home, pages, Administrators, choose, access]
 ---

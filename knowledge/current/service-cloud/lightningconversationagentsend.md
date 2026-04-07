@@ -5,7 +5,7 @@ topic: lightningconversationagentsend
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.324Z
+lastCollected: 2026-04-07T07:53:52.965Z
 estimatedTokens: 218
 keywords: [lightning, conversationAgentSend, Event, triggered, agent, chat, message, Salesforce, console, intercept, it’s, sent, visitor, Enhanced, Messaging, event, intercepts, lightning__conversationAgentSend, channels]
 ---

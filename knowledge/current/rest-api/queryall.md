@@ -5,7 +5,7 @@ topic: queryall
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.685Z
+lastCollected: 2026-04-07T07:53:40.745Z
 estimatedTokens: 730
 keywords: [QueryAll, Executes, SOQL, query, Unlike, resource, records, soft, deleted, due, merge, permanently, removed, recycle, bin]
 ---

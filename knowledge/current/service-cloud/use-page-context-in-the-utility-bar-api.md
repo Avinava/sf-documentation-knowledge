@@ -5,7 +5,7 @@ topic: use-page-context-in-the-utility-bar-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:55.714Z
+lastCollected: 2026-04-07T07:53:53.573Z
 estimatedTokens: 369
 keywords: [Context, Utility, Bar, API, Lightning, console, apps, standard, navigation, utilities, respond, current, web, component, CurrentPageReference]
 ---

@@ -5,7 +5,7 @@ topic: install-local-development-server-plugin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:55.171Z
+lastCollected: 2026-04-07T07:53:51.148Z
 estimatedTokens: 212
 keywords: [Install, Local, Development, Server, Plugin, Whether, you’re, debugging, component, iOS, Android, LWC, mobile]
 ---

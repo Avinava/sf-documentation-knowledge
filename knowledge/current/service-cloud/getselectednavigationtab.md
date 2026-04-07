@@ -5,7 +5,7 @@ topic: getselectednavigationtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.604Z
+lastCollected: 2026-04-07T07:53:53.418Z
 estimatedTokens: 238
 keywords: [getSelectedNavigationTab, selected, navigation, tab, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
 ---

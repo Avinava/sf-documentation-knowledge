@@ -5,7 +5,7 @@ topic: setcustomconsolecomponentbuttontext
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.475Z
+lastCollected: 2026-04-07T07:53:54.745Z
 estimatedTokens: 176
 keywords: [setCustomConsoleComponentButtonText, text, button, launch, application-level, custom, console, component, that’s, API, version, 25.0, later, Arguments, Sample]
 ---

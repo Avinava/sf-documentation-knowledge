@@ -1,9 +1,9 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-04-07T07:47:10.451Z*
+*Last Updated: 2026-04-07T07:54:01.872Z*
 
-**129 Domains** | **33,323 Knowledge Files**
+**129 Domains** | **33,386 Knowledge Files**
 
 ## Available Domains
 
@@ -29,13 +29,13 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [lightning](../../knowledge/current/lightning/_index.md) | **Lightning Aura Components Developer Guide** | 491 | Create Aura components for Salesforce for Android, iOS, and mobile web and Light |
 | [data-cloud](../../knowledge/current/data-cloud/_index.md) | **Data Cloud** | 400 | Data Cloud developer guide — data models, connectors, identity resolution |
 | [packagingGuide](../../knowledge/current/packagingGuide/_index.md) | **ISVforce Guide** | 347 | Plan, build, and sell AppExchange solutions and consulting services. |
+| [service-cloud](../../knowledge/current/service-cloud/_index.md) | **Service Cloud** | 344 | Service Cloud — cases, knowledge, omni-channel, entitlements |
 | [tooling-api](../../knowledge/current/tooling-api/_index.md) | **Tooling API** | 338 | Tooling API — code coverage, debug logs, custom fields |
 | [bi-dev-guide-rest-sdd](../../knowledge/current/bi-dev-guide-rest-sdd/_index.md) | **Einstein Discovery REST API Developer Guide** | 312 | Describes how to create and access Einstein Discovery predictions, discovery mod |
-| [rest-api](../../knowledge/current/rest-api/_index.md) | **REST API** | 307 | Salesforce REST API — resources, methods, composite, batch |
+| [rest-api](../../knowledge/current/rest-api/_index.md) | **REST API** | 308 | Salesforce REST API — resources, methods, composite, batch |
 | [nonprofit-cloud](../../knowledge/current/nonprofit-cloud/_index.md) | **Nonprofit Cloud Developer Guide** | 304 | Use APIs and developer resources to configure, customize, and extend the capabil |
 | [edu-cloud-dev-guide](../../knowledge/current/edu-cloud-dev-guide/_index.md) | **Education Cloud Developer Guide** | 301 | Education Cloud gives you the tools and developer resources you need to support  |
 | [salesforce-recipes-api](../../knowledge/current/salesforce-recipes-api/_index.md) | **Data Prep Recipe REST API Developer Guide** | 296 | Describes how to retrieve, update, and schedule Data Prep recipes. |
-| [service-cloud](../../knowledge/current/service-cloud/_index.md) | **Service Cloud** | 282 | Service Cloud — cases, knowledge, omni-channel, entitlements |
 | [netzero-cloud-dev-guide](../../knowledge/current/netzero-cloud-dev-guide/_index.md) | **Net Zero Cloud Developer Guide** | 265 | Use Net Zero API and developer resources to integrate a complete sustainability  |
 | [uiapi](../../knowledge/current/uiapi/_index.md) | **User Interface API Developer Guide** | 257 | User Interface API enables you to create native mobile apps and custom web apps  |
 | [field-service](../../knowledge/current/field-service/_index.md) | **Field Service** | 247 | Field Service — work orders, scheduling, mobile, territories |

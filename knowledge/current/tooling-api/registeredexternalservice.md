@@ -5,7 +5,7 @@ topic: registeredexternalservice
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:45.733Z
+lastCollected: 2026-04-07T07:53:46.212Z
 estimatedTokens: 1685
 keywords: [RegisteredExternalService, registered, external, service, provide, extension, integration, API, version, 49.0, later, SOAP, Calls, REST, Special]
 ---

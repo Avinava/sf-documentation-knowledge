@@ -5,7 +5,7 @@ topic: customhttpheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:44.155Z
+lastCollected: 2026-04-07T07:53:44.273Z
 estimatedTokens: 383
 keywords: [CustomHttpHeader, custom, HTTP, OData, 2.0, 4.0, external, data, sources, provide, context, Salesforce, region, org, role]
 ---

@@ -5,7 +5,7 @@ topic: sendtextmessage-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.007Z
+lastCollected: 2026-04-07T07:53:54.008Z
 estimatedTokens: 162
 keywords: [sendTextMessage, LWC, Lightning, Experience, new, text, message, agent, end, user, works, console, apps, Arguments]
 ---

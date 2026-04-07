@@ -5,7 +5,7 @@ topic: sitedetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:45.911Z
+lastCollected: 2026-04-07T07:53:46.433Z
 estimatedTokens: 265
 keywords: [SiteDetail, Salesforce, site, Experience, Cloud, API, version, 38.0, later, Calls, REST, HTTP]
 ---

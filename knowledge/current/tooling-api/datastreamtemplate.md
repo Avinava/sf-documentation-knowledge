@@ -5,7 +5,7 @@ topic: datastreamtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:44.266Z
+lastCollected: 2026-04-07T07:53:44.397Z
 estimatedTokens: 2278
 keywords: [DataStreamTemplate, metadata, data, stream, user, adds, kit, API, version, 52.0, later, SOAP, Calls, REST, Special]
 ---

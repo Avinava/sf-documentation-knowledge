@@ -5,8 +5,8 @@ topic: ios-simulator-setup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:55.153Z
-estimatedTokens: 1091
+lastCollected: 2026-04-07T07:53:51.117Z
+estimatedTokens: 1085
 keywords: [iOS, Simulator, Setup, development, it’s, convenient, test, code, virtual, device, Xcode, install, build, mobile, app]
 ---
 
@@ -65,13 +65,13 @@ To run the Field Service mobile app in an iOS simulator, download and install a 
 6.  Click the screen to run through the tutorial or click **Skip**.
 7.  Click **Log In**.
 8.  Click **I Agree** to agree to the Order Form Supplement agreement.
-9.  Click ![Gear icon](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Ficon_gear.png&folder=field_service_dev) and select a connection.
+9.  Click ![Gear icon](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Ficon_gear.png&folder=field_service_dev) and select a connection.
 
     ![Warning](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_warning.png&folder=field_service_dev)
 
     #### Warning
 
-    If you’re logging in as a community user for the first time, click ![Plus icon](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Ficon_plus.png&folder=field_service_dev) to add a new connection.
+    If you’re logging in as a community user for the first time, click ![Plus icon](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Ficon_plus.png&folder=field_service_dev) to add a new connection.
 
     -   For **Host**, enter your org’s URL in the following format: https://\[yourURL\].my.salesforce.com.
     -   For **Label**, enter a nickname for your connection.

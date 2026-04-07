@@ -5,7 +5,7 @@ topic: when-to-use-the-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:56.552Z
+lastCollected: 2026-04-07T07:53:54.874Z
 estimatedTokens: 641
 keywords: [Salesforce, Console, Integration, Toolkit, helps, advanced, administrators, developers, implement, custom, functionality, display, Visualforce, pages, third-party]
 ---

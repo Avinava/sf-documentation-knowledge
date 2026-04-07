@@ -5,7 +5,7 @@ topic: lightning-web-components-for-document-builder-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:53.794Z
+lastCollected: 2026-04-07T07:53:49.378Z
 estimatedTokens: 1707
 keywords: [Lightning, Web, Components, Document, Builder, Considerations, limitations, building, LWCs, feature, including, unsupported, utilities, HTML, APIs]
 ---

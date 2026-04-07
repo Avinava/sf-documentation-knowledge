@@ -5,7 +5,7 @@ topic: get-a-list-of-objects-if-metadata-has-changed
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:34.824Z
+lastCollected: 2026-04-07T07:53:39.221Z
 estimatedTokens: 380
 keywords: [Objects, Metadata, Changed, Describe, resource, If-Modified-Since, HTTP, determine, object’s]
 ---

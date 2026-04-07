@@ -5,7 +5,7 @@ topic: lightning-usage-by-flexipage
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.460Z
+lastCollected: 2026-04-07T07:53:40.419Z
 estimatedTokens: 248
 namespace: FlexiPage
 keywords: [Lightning, Usage, FlexiPage, custom, pages, viewed, frequently, Experience, resource, REST, API, version, 44.0, later]

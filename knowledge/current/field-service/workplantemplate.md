@@ -5,8 +5,8 @@ topic: workplantemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:55.089Z
-estimatedTokens: 567
+lastCollected: 2026-04-07T07:53:51.024Z
+estimatedTokens: 560
 keywords: [WorkPlanTemplate, template, work, plan, API, version, 52.0, later, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
@@ -33,8 +33,8 @@ Field Service must be enabled.
 | --- | --- |
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionThe description of the work plan template. |
 | IsActive | TypebooleanPropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionControls whether the specific template is available for application (true) or not (false). Default is false. Label is Active. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | Name | TypestringPropertiesCreate, Filter, Group, idLookup, Sort, UpdateDescriptionThe user-defined name of the work plan template. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe ID of the owner who created the work plan template. |
 | RelativeExecutionOrder | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe relative execution order for sorting the work plan when it’s applied to the work order or work order line item. Only positive integers are supported. |

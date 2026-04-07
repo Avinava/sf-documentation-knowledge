@@ -5,7 +5,7 @@ topic: error-handling-with-promises
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.804Z
+lastCollected: 2026-04-07T07:53:53.694Z
 estimatedTokens: 151
 keywords: [Error, Handling, Promises, simplify, code, handles, success, failure, asynchronous, calls, catch, promise, calling, API]
 ---

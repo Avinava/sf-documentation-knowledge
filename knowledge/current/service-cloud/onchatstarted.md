@@ -5,7 +5,7 @@ topic: onchatstarted
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.273Z
+lastCollected: 2026-04-07T07:53:54.436Z
 estimatedTokens: 197
 keywords: [onChatStarted, Registers, function, call, agent, starts, new, chat, customer, API, version, 29.0, later, Usage, Arguments]
 ---

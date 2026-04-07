@@ -5,8 +5,8 @@ topic: timesheetentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:54.931Z
-estimatedTokens: 1004
+lastCollected: 2026-04-07T07:53:50.838Z
+estimatedTokens: 997
 keywords: [TimeSheetEntry, span, time, service, resource, spends, task, API, version, 47.0, later, Calls, Special, Access, Rules]
 ---
 
@@ -37,8 +37,8 @@ Field Service must be enabled.
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionNotes on how the time was spent. For example, “This service took longer than normal because the machine was jammed.” |
 | DurationInMinutes | TypeintPropertiesFilter, Group, Nillable, SortDescriptionMinutes recorded on the time sheet entry. |
 | EndTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time the activity finished. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | LocationTimeZone | TypepicklistPropertiesCreate, Filter, Group, Nillable, Restricted picklist, Sort, UpdateDescriptionTime zone of the location where the activity occurred.This field is available in API version 50.0 and later. |
 | StartTime | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionThe date and time the activity began. |
 | Status | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Nillable, Sort, UpdateDescriptionThe status of the time sheet entry. The picklist includes the following values, which can be customized:NewSubmittedApproved |

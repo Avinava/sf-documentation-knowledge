@@ -5,8 +5,8 @@ topic: hide-deep-linking-security-dialog
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.778Z
-estimatedTokens: 843
+lastCollected: 2026-04-07T07:53:49.355Z
+estimatedTokens: 837
 keywords: [Hide, Deep, Linking, Security, Dialog, time, user, opens, link, action, Service, mobile, app, prompts, confirm]
 ---
 
@@ -20,7 +20,7 @@ keywords: [Hide, Deep, Linking, Security, Dialog, time, user, opens, link, actio
 
 Each time a user opens a deep link to an action from the Field Service mobile app, a security dialog prompts the user to confirm the action. You can hide this Launch action? dialog by configuring the deep link URL with a security key.
 
-![Launch Action dialog](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Ffsl_dev_deep_linking.png&folder=field_service_dev)
+![Launch Action dialog](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Ffsl_dev_deep_linking.png&folder=field_service_dev)
 
 Complete these steps to configure the security key.
 
@@ -47,7 +47,7 @@ Complete these steps to configure the security key.
 
 4.  Copy the public key into the Advanced Permissions section of the Field Service Settings UI. This step is required to turn on this feature.
 
-    ![Advanced Permissions in the Field Service Settings UI](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Ffsl_dev_advancedpermissions.png&folder=field_service_dev)
+    ![Advanced Permissions in the Field Service Settings UI](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Ffsl_dev_advancedpermissions.png&folder=field_service_dev)
 
 
 **Step 2: Sign the deep link URL**

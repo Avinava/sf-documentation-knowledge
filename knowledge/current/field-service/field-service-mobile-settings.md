@@ -5,7 +5,7 @@ topic: field-service-mobile-settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.765Z
+lastCollected: 2026-04-07T07:53:49.329Z
 estimatedTokens: 1020
 keywords: [Service, Mobile, Settings, app, assigned, profile, context, user, resource, REST, API, version, 42.0, later]
 ---

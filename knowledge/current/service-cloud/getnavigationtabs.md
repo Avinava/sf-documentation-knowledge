@@ -5,7 +5,7 @@ topic: getnavigationtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.590Z
+lastCollected: 2026-04-07T07:53:53.396Z
 estimatedTokens: 184
 keywords: [getNavigationTabs, objects, navigation, tab, API, version, 31.0, later, Arguments, Sample, Code–Visualforce]
 ---

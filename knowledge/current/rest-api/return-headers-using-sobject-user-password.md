@@ -5,7 +5,7 @@ topic: return-headers-using-sobject-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:36.002Z
+lastCollected: 2026-04-07T07:53:41.397Z
 estimatedTokens: 309
 keywords: [sObject, User, Password, sending, resource, operation, retrieving, content, itself, REST, API, version, 24.0, later]
 ---

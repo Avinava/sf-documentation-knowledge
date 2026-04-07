@@ -5,7 +5,7 @@ topic: tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:43.582Z
+lastCollected: 2026-04-07T07:53:43.455Z
 estimatedTokens: 20153
 keywords: [Tooling, API, Objects, includes]
 ---

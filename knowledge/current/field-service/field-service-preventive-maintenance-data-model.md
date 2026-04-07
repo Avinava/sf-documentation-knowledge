@@ -5,8 +5,8 @@ topic: field-service-preventive-maintenance-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:53.876Z
-estimatedTokens: 740
+lastCollected: 2026-04-07T07:53:49.524Z
+estimatedTokens: 736
 keywords: [Service, Preventive, Maintenance, Data, Model, Manage, periodic, help, plans, define, schedule, specific, assets, typically, reflect]
 ---
 
@@ -38,7 +38,7 @@ Maintenance plans, maintenance assets, and maintenance work rules can be associa
 -   If you specify a work type on a maintenance asset, generated work orders that are associated with the maintenance asset use the maintenance asset’s work type.
 -   If you specify a work type on a maintenance work rule, generated work orders that are associated with the maintenance work rule use the maintenance work rule’s work type.
 
-![Maintenance diagram](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Ffsl_dev_maint.png&folder=field_service_dev)
+![Maintenance diagram](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Ffsl_dev_maint.png&folder=field_service_dev)
 
 #### See Also
 

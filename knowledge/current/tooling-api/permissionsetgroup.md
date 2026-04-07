@@ -5,7 +5,7 @@ topic: permissionsetgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:45.521Z
+lastCollected: 2026-04-07T07:53:45.945Z
 estimatedTokens: 793
 keywords: [PermissionSetGroup, group, permission, permissions, groups, organize, job, functions, tasks, package, needed, Tooling, API, version, 45.0]
 ---

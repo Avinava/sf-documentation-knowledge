@@ -5,7 +5,7 @@ topic: code-examples-dispatcher-console-custom-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T09:33:53.715Z
+lastCollected: 2026-04-07T07:53:49.258Z
 estimatedTokens: 1368
 keywords: [Code, Examples, Dispatcher, Console, Custom, Actions, how, configure, Apex, classes, Visualforce, pages, want, link, action]
 ---

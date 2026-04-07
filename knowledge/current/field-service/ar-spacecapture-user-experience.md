@@ -5,8 +5,8 @@ topic: ar-spacecapture-user-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:53.841Z
-estimatedTokens: 163
+lastCollected: 2026-04-07T07:53:49.457Z
+estimatedTokens: 159
 keywords: [SpaceCapture, User, Experience, component, deliver, any, desire, follow, common, flow, calls, scan]
 ---
 
@@ -21,4 +21,4 @@ Your component can deliver any user experience you desire, but you must follow a
 
 The user performs an action that triggers a space capture scan. The operating system provides messages for the user to aim the camera in the right direction and instructs the user to move the camera to the floors or ceilings. If the room scan isn’t successful, the operating system provides an error message.
 
-![Space Capture user interface](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fspace_capture.png&folder=field_service_dev)
+![Space Capture user interface](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fspace_capture.png&folder=field_service_dev)

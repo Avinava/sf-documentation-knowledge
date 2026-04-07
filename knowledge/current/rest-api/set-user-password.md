@@ -5,7 +5,7 @@ topic: set-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:36.006Z
+lastCollected: 2026-04-07T07:53:41.402Z
 estimatedTokens: 326
 keywords: [User, Password, user’s, provided, replaces, resource, REST, API, version, 24.0, later]
 ---

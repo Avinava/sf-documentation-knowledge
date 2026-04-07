@@ -5,7 +5,7 @@ topic: endconversation-for-lwc-for-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.799Z
+lastCollected: 2026-04-07T07:53:53.685Z
 estimatedTokens: 93
 keywords: [endConversation, LWC, Lightning, Experience, Ends, Messaging, session, works, console, apps, Arguments]
 ---

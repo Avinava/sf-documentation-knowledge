@@ -5,7 +5,7 @@ topic: entitlement
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:54.281Z
+lastCollected: 2026-04-07T07:53:50.041Z
 estimatedTokens: 1217
 keywords: [Entitlement, customer, support, account, contact, eligible, receive, API, version, 18.0, later, Entitlements, may, asset, product]
 ---

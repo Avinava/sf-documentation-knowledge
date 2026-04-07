@@ -330,19 +330,19 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Lightning Aura Components Developer Guide** | Create Aura components for Salesforce for Android, iOS, and mobile web and Light | ✅ Available | 491 |
 | **Data Cloud** | Data Cloud developer guide — data models, connectors, identity resolution | ✅ Available | 400 |
 | **ISVforce Guide** | Plan, build, and sell AppExchange solutions and consulting services. | ✅ Available | 347 |
+| **Service Cloud** | Service Cloud — cases, knowledge, omni-channel, entitlements | ✅ Available | 344 |
 | **Tooling API** | Tooling API — code coverage, debug logs, custom fields | ✅ Available | 338 |
 | **Einstein Discovery REST API Developer Guide** | Describes how to create and access Einstein Discovery predictions, discovery mod | ✅ Available | 312 |
-| **REST API** | Salesforce REST API — resources, methods, composite, batch | ✅ Available | 307 |
+| **REST API** | Salesforce REST API — resources, methods, composite, batch | ✅ Available | 308 |
 | **Nonprofit Cloud Developer Guide** | Use APIs and developer resources to configure, customize, and extend the capabil | ✅ Available | 304 |
 | **Education Cloud Developer Guide** | Education Cloud gives you the tools and developer resources you need to support  | ✅ Available | 301 |
 | **Data Prep Recipe REST API Developer Guide** | Describes how to retrieve, update, and schedule Data Prep recipes. | ✅ Available | 296 |
-| **Service Cloud** | Service Cloud — cases, knowledge, omni-channel, entitlements | ✅ Available | 282 |
 | **Net Zero Cloud Developer Guide** | Use Net Zero API and developer resources to integrate a complete sustainability  | ✅ Available | 265 |
 | **User Interface API Developer Guide** | User Interface API enables you to create native mobile apps and custom web apps  | ✅ Available | 257 |
 | **Field Service** | Field Service — work orders, scheduling, mobile, territories | ✅ Available | 247 |
 | *+ 91 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *5,866* |
 
-*121 domains | 33,323 knowledge files*
+*121 domains | 33,386 knowledge files*
 <!-- INVENTORY:END -->
 
 ---

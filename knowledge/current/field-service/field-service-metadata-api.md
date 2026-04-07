@@ -5,7 +5,7 @@ topic: field-service-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:53.771Z
+lastCollected: 2026-04-07T07:53:49.344Z
 estimatedTokens: 194
 keywords: [Service, Metadata, API]
 ---

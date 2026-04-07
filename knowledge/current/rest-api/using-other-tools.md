@@ -5,7 +5,7 @@ topic: using-other-tools
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:35.101Z
+lastCollected: 2026-04-07T07:53:39.791Z
 estimatedTokens: 178
 keywords: [Tools, obtain, data, Salesforce, org]
 ---

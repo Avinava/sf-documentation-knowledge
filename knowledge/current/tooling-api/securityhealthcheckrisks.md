@@ -5,7 +5,7 @@ topic: securityhealthcheckrisks
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:45.881Z
+lastCollected: 2026-04-07T07:53:46.392Z
 estimatedTokens: 792
 keywords: [SecurityHealthCheckRisks, org’s, security, setting, risks, Salesforce-recommended, users, View, Setup, Configuration, user, permission, retrieve, data, Tooling]
 ---

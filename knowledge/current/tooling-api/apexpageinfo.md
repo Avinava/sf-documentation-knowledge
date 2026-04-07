@@ -5,7 +5,7 @@ topic: apexpageinfo
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:43.810Z
+lastCollected: 2026-04-07T07:53:43.804Z
 estimatedTokens: 852
 namespace: NameSpacePrefix
 keywords: [ApexPageInfo, metadata, Visualforce, API, version, 37.0, later, SOAP, Calls, REST, HTTP, Special, Access, Rules, Usage]

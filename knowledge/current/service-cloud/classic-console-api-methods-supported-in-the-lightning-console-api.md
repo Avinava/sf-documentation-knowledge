@@ -5,7 +5,7 @@ topic: classic-console-api-methods-supported-in-the-lightning-console-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.767Z
+lastCollected: 2026-04-07T07:53:53.638Z
 estimatedTokens: 2289
 keywords: [Classic, Console, API, Lightning, Visualforce, pages, third-party, web, tabs, Salesforce, Integration, Toolkit, work, Experience, as-is]
 ---

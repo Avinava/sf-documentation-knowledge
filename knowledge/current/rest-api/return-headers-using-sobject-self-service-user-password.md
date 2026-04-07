@@ -5,7 +5,7 @@ topic: return-headers-using-sobject-self-service-user-password
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.957Z
+lastCollected: 2026-04-07T07:53:41.312Z
 estimatedTokens: 321
 keywords: [sObject, Self-Service, User, Password, sending, resource, operation, retrieving, content, itself, REST, API, version, 24.0, later]
 ---

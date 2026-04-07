@@ -5,7 +5,7 @@ topic: working-with-searches-and-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.085Z
+lastCollected: 2026-04-07T07:53:41.558Z
 estimatedTokens: 766
 keywords: [Working, Searches, Queries, examples, REST, API, resources, search, query, records, Salesforce, Language, SOSL, SOQL, APIs]
 ---

@@ -5,7 +5,7 @@ topic: travelmode
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:54.946Z
+lastCollected: 2026-04-07T07:53:50.857Z
 estimatedTokens: 645
 keywords: [TravelMode, travel, mode, time, calculations, records, include, transportation, Car, Walking, whether, vehicle, take, toll, roads]
 ---

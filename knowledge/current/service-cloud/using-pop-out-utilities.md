@@ -5,8 +5,8 @@ topic: using-pop-out-utilities
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.083Z
-estimatedTokens: 720
+lastCollected: 2026-04-07T07:53:54.133Z
+estimatedTokens: 714
 keywords: [Pop-Out, Utilities, support, “popped, out”, utility, bar, their, own, separate, child, windows, Standard, Custom, Disabling]
 ---
 
@@ -74,7 +74,7 @@ Disabling pop-out with the Lightning Console JavaScript API allows you to enable
 
 #### See Also
 
--   [disableUtilityPopOut() for Lightning Experience for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_disableUtilityPopOut.htm "Disables pop-out for a utility. This method isn’t supported for Lightning Web Components (LWC).")
+-   [disableUtilityPopOut() for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_disableUtilityPopOut.htm "Disables pop-out for a utility. This method isn’t supported for Lightning Web Components (LWC).")
 
 ## Code Examples
 
@@ -87,4 +87,4 @@ Disabling pop-out with the Lightning Console JavaScript API allows you to enable
 ## Related Topics
 
 - Supported APIs (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_utility_popout_supported_apis.htm)
-- disableUtilityPopOut() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_disableUtilityPopOut.htm)
+- disableUtilityPopOut() for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_disableUtilityPopOut.htm)

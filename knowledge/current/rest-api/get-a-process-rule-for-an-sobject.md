@@ -5,7 +5,7 @@ topic: get-a-process-rule-for-an-sobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.641Z
+lastCollected: 2026-04-07T07:53:40.660Z
 estimatedTokens: 121
 keywords: [Process, Rule, sObject, specific, workflow]
 ---

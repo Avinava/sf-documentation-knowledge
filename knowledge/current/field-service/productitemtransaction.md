@@ -5,8 +5,8 @@ topic: productitemtransaction
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:54.516Z
-estimatedTokens: 835
+lastCollected: 2026-04-07T07:53:50.334Z
+estimatedTokens: 828
 keywords: [ProductItemTransaction, action, taken, product, item, service, transactions, auto-generated, records, help, track, replenished, consumed, adjusted, Calls]
 ---
 
@@ -34,8 +34,8 @@ create(), delete(), describeLayout(), describeSObjects(), getDeleted(), getUpdat
 | Field Name | Details |
 | --- | --- |
 | Description | TypetextareaPropertiesCreate, Nillable, UpdateDescriptionA description of the transaction. The description is blank when the transaction record is created, but can be updated. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | ProductItemId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe associated product item.This is a relationship field.Relationship NameProductItemRelationship TypeLookupRefers ToProductItem |
 | ProductItemTransactionNumber | TypestringPropertiesAutonumber, Defaulted on create, Filter, idLookup, SortDescription(Read Only) Auto-generated number identifying the product item transaction. |
 | Quantity | TypedoublePropertiesCreate, Filter, SortDescriptionThe quantity of the product item involved in the transaction. If inventory was consumed, the quantity is negative. |

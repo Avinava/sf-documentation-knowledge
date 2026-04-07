@@ -5,7 +5,7 @@ topic: workflowtask
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.222Z
+lastCollected: 2026-04-07T07:53:46.824Z
 estimatedTokens: 584
 keywords: [WorkflowTask, workflow, task, fire, off, specific, action, criteria, met, Includes, access, associated, WorkflowRule, Salesforce, Metadata]
 ---

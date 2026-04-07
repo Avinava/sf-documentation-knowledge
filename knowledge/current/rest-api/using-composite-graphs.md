@@ -5,7 +5,7 @@ topic: using-composite-graphs
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:35.286Z
+lastCollected: 2026-04-07T07:53:40.113Z
 estimatedTokens: 1717
 keywords: [Composite, Graphs, provide, enhanced, way, perform, requests, execute, series, REST, API, call, Defining, JSON, Accounts]
 ---

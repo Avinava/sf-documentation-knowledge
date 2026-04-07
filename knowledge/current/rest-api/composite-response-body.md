@@ -5,7 +5,7 @@ topic: composite-response-body
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.028Z
+lastCollected: 2026-04-07T07:53:41.447Z
 estimatedTokens: 68
 keywords: [Composite, result, Results]
 ---

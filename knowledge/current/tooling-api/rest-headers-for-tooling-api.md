@@ -5,7 +5,7 @@ topic: rest-headers-for-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:43.442Z
+lastCollected: 2026-04-07T07:53:43.219Z
 estimatedTokens: 334
 keywords: [REST, Tooling, API, subset]
 ---

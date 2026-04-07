@@ -5,8 +5,8 @@ topic: field-service-product-service-campaign-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:53.896Z
-estimatedTokens: 193
+lastCollected: 2026-04-07T07:53:49.551Z
+estimatedTokens: 190
 keywords: [Service, Product, Campaign, Data, Model, record, actions, address, situations, recalls, manual, firmware, upgrades, safety, compliance]
 ---
 
@@ -28,4 +28,4 @@ Use product service campaign to record the actions to address situations such as
 
 Asterisks mean these fields are required.
 
-![Product service campaign data model](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Ffsl_dev_product_service_campaign.png&folder=field_service_dev)
+![Product service campaign data model](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Ffsl_dev_product_service_campaign.png&folder=field_service_dev)

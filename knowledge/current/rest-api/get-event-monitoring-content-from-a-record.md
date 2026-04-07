@@ -5,7 +5,7 @@ topic: get-event-monitoring-content-from-a-record
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:34.858Z
+lastCollected: 2026-04-07T07:53:39.298Z
 estimatedTokens: 187
 keywords: [Event, Monitoring, Content, Record, sObject, Blob, Retrieve, resource, data]
 ---

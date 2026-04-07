@@ -5,8 +5,8 @@ topic: shipment
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:54.900Z
-estimatedTokens: 2373
+lastCollected: 2026-04-07T07:53:50.795Z
+estimatedTokens: 2366
 keywords: [Shipment, transport, inventory, service, order, items, Management, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
@@ -44,7 +44,7 @@ At least one of these features must be enabled:
 | DestinationLocationId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe place the product is to be delivered.This is a relationship field.Relationship NameDestinationLocationRelationship TypeLookupRefers ToLocation |
 | ExpectedDeliveryDate | TypedateTimePropertiesCreate, Filter, Nillable, Sort, UpdateDescriptionDate the product is expected to be delivered. |
 | FulfillmentOrderId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe fulfillment order that the shipment belongs to.This field is available in API version 51.0 and later. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
 | LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | OrderSummaryId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionThe order summary associated with the shipment.This field is available in API version 51.0 and later. |
 | OwnerId | TypereferencePropertiesCreate, Defaulted on create, Filter, Group, Sort, UpdateDescriptionThe owner of the shipment.This is a polymorphic relationship field.Relationship NameOwnerRelationship TypeLookupRefers ToGroup, User |

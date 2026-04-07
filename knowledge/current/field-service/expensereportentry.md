@@ -5,7 +5,7 @@ topic: expensereportentry
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:54.328Z
+lastCollected: 2026-04-07T07:53:50.089Z
 estimatedTokens: 584
 keywords: [ExpenseReportEntry, entry, expense, report, API, version, 50.0, later, Calls, Associated, Objects]
 ---

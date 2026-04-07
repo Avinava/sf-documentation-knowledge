@@ -5,7 +5,7 @@ topic: getfocusedprimarytabid
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.573Z
+lastCollected: 2026-04-07T07:53:53.359Z
 estimatedTokens: 223
 keywords: [getFocusedPrimaryTabId, primary, tab, browser, focused, API, version, 25.0, later, Arguments, Sample, Code–Visualforce]
 ---

@@ -5,7 +5,7 @@ topic: limit-info-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:43.428Z
+lastCollected: 2026-04-07T07:53:43.181Z
 estimatedTokens: 195
 keywords: [Limit, Info, REST, API, except, calls, Versions, URI, count, towards, org’s, monitor, limits]
 ---

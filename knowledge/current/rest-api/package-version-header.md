@@ -5,7 +5,7 @@ topic: package-version-header
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:35.031Z
+lastCollected: 2026-04-07T07:53:39.659Z
 estimatedTokens: 192
 keywords: [Package, Version, referenced, client, number, identifies, components, behavior, contained, specify, making, calls, Apex, REST, web]
 ---

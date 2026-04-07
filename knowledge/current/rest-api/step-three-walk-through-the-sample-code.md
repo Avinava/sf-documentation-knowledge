@@ -5,7 +5,7 @@ topic: step-three-walk-through-the-sample-code
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.087Z
+lastCollected: 2026-04-07T07:53:39.761Z
 estimatedTokens: 1316
 keywords: [Step, Three, Walk, Sample, Code, access, different, resources, Salesforce, series, REST, requests, try, examples, sure]
 ---

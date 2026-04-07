@@ -5,7 +5,7 @@ topic: queryall-more-results
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.691Z
+lastCollected: 2026-04-07T07:53:40.753Z
 estimatedTokens: 729
 keywords: [QueryAll, Results, batch, query, locator, API, resource, executes, REST, version, 29.0, later, Resources, Executing, SOQL]
 ---

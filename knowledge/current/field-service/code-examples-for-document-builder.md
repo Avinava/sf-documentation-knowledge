@@ -5,7 +5,7 @@ topic: code-examples-for-document-builder
 apiVersion: 67.0
 release: summer-26-v67
 docType: example
-lastCollected: 2026-03-12T09:33:53.805Z
+lastCollected: 2026-04-07T07:53:49.395Z
 estimatedTokens: 385
 keywords: [Code, Examples, Document, Builder, Build, custom, components, Lightning, web, LWCs, Text, Images]
 ---

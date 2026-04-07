@@ -5,7 +5,7 @@ topic: login
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.109Z
+lastCollected: 2026-04-07T07:53:54.169Z
 estimatedTokens: 230
 keywords: [login, Logs, agent, Omni-Channel, specific, presence, status, reconnect, connection, error, API, versions, 32.0, later, Arguments]
 ---

@@ -5,7 +5,7 @@ topic: workorderstatus
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:55.067Z
+lastCollected: 2026-04-07T07:53:50.997Z
 estimatedTokens: 570
 keywords: [WorkOrderStatus, possible, status, work, order, service, Calls, Special, Access, Rules, Usage]
 ---

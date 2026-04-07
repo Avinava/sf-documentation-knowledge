@@ -5,8 +5,8 @@ topic: debug-in-ios
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:55.168Z
-estimatedTokens: 333
+lastCollected: 2026-04-07T07:53:51.143Z
+estimatedTokens: 329
 keywords: [Debug, iOS, Connect, Safari, Web, Inspector, desktop, WebView, Service, mobile, app, LWC, running]
 ---
 
@@ -33,6 +33,6 @@ Debugging in iOS currently only works with Big Sur or later, and requires using 
 
 A window appears that shows the Safari Web Inspector developer tools connected to your simulator. You can use these tools and standard web development techniques to refine and improve your component.
 
-![Safari Web Inspector connected to the Field Service mobile app on iOS, running our sample LWC](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Ffield_service%2Fimages%2Fqs_debugging_safari_web_inspector.png&folder=field_service_dev)
+![Safari Web Inspector connected to the Field Service mobile app on iOS, running our sample LWC](/docs/resources/img/en-us/260.0?doc_id=field_service%2Fimages%2Fqs_debugging_safari_web_inspector.png&folder=field_service_dev)
 
 See [Apple Web Development Tools](https://developer.apple.com/safari/tools/ "HTML (New Window)") for additional information about the Web Inspector and how to use it.

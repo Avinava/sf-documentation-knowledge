@@ -5,7 +5,7 @@ topic: get-field-and-other-metadata-for-an-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:34.953Z
+lastCollected: 2026-04-07T07:53:39.506Z
 estimatedTokens: 205
 keywords: [Metadata, sObject, Describe, resource, retrieve, including, URLs, child, relationships]
 ---

@@ -5,7 +5,7 @@ topic: customnotificationtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:44.179Z
+lastCollected: 2026-04-07T07:53:44.308Z
 estimatedTokens: 714
 keywords: [CustomNotificationType, Stores, custom, notification, API, version, 46.0, later, Calls]
 ---

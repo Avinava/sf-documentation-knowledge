@@ -6,7 +6,7 @@ topic: using-page-references-to-open-console-workspace-tabs-and-subtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.966Z
+lastCollected: 2026-04-07T07:53:53.941Z
 estimatedTokens: 1306
 keywords: [References, Open, Console, Workspace, Tabs, Subtabs, navigate, different, including, URL, addressable, custom, component, LWC, lightning__UrlAddressable]
 ---

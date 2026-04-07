@@ -5,7 +5,7 @@ topic: return-headers-using-specific-sobject-quick-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.906Z
+lastCollected: 2026-04-07T07:53:41.215Z
 estimatedTokens: 223
 keywords: [Specific, sObject, Quick, Actions, sending, resource, gives, chance, retrieving, content, REST, API, version, 28.0, later]
 ---

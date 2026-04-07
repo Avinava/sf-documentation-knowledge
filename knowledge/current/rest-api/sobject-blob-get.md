@@ -5,7 +5,7 @@ topic: sobject-blob-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.820Z
+lastCollected: 2026-04-07T07:53:41.029Z
 estimatedTokens: 299
 keywords: [sObject, Blob, individual, record, binary, data, certain, standard, objects, Attachment, ContentNote, ContentVersion, Document, Folder]
 ---

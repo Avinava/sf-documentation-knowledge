@@ -6,7 +6,7 @@ topic: get-layouts-and-descriptions-for-an-object-with-multiple-record-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.860Z
+lastCollected: 2026-04-07T07:53:41.115Z
 estimatedTokens: 177
 keywords: [Layouts, Descriptions, Multiple, Record, Retrieves, their]
 ---

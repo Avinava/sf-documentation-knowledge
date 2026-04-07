@@ -5,7 +5,7 @@ topic: settabunsavedchanges
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.516Z
+lastCollected: 2026-04-07T07:53:54.810Z
 estimatedTokens: 546
 keywords: [setTabUnsavedChanges, unsaved, changes, icon, subtabs, indicate, data, API, version, 23.0, later, Arguments, Sample, Code, Later–Visualforce]
 ---

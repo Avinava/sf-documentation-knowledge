@@ -5,7 +5,7 @@ topic: methods-for-primary-tabs-and-subtabs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.233Z
+lastCollected: 2026-04-07T07:53:54.371Z
 estimatedTokens: 3549
 keywords: [Primary, Tabs, Subtabs, Salesforce, console, displays, pages, tab, main, item, work, account, subtab, items, account’s]
 ---

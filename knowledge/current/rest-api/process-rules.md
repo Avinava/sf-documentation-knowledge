@@ -5,7 +5,7 @@ topic: process-rules
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.650Z
+lastCollected: 2026-04-07T07:53:40.676Z
 estimatedTokens: 558
 keywords: [Process, Rules, Accesses, active, workflow, retrieve, records, HEAD, HTTP, POST, trigger]
 ---

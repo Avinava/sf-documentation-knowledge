@@ -5,7 +5,7 @@ topic: userfieldaccess
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:46.127Z
+lastCollected: 2026-04-07T07:53:46.710Z
 estimatedTokens: 687
 keywords: [UserFieldAccess, access, current, user, Tooling, API, version, 34.0, later, SOQL, Limitations]
 ---

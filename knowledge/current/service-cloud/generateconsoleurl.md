@@ -5,7 +5,7 @@ topic: generateconsoleurl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.480Z
+lastCollected: 2026-04-07T07:53:53.220Z
 estimatedTokens: 303
 keywords: [generateConsoleUrl, Generates, URL, tab, group, tabs, Salesforce, console, any, include, external, URLs, add, console’s, allowlist]
 ---

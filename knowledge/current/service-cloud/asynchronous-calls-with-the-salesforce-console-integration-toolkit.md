@@ -5,7 +5,7 @@ topic: asynchronous-calls-with-the-salesforce-console-integration-toolkit
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.245Z
+lastCollected: 2026-04-07T07:53:52.818Z
 estimatedTokens: 134
 keywords: [Asynchronous, Calls, Salesforce, Console, Integration, Toolkit, lets, issue, allow, client-side, process, continue, instead, waiting, callback]
 ---

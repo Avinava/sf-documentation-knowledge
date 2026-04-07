@@ -5,7 +5,7 @@ topic: onfocusedsubtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.326Z
+lastCollected: 2026-04-07T07:53:54.523Z
 estimatedTokens: 204
 keywords: [onFocusedSubtab, Registers, function, call, focus, browser, changes, different, subtab, API, version, 24.0, later, Arguments, Sample]
 ---

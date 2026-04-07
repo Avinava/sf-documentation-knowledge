@@ -5,8 +5,8 @@ topic: aura-methods-for-enhanced-messaging-in-lightning-experience
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.187Z
-estimatedTokens: 433
+lastCollected: 2026-04-07T07:53:54.300Z
+estimatedTokens: 408
 keywords: [Aura, Enhanced, Messaging, Lightning, Experience, Enable, developers, customize, agent, allowing, custom, components, interact, Conversation, Component]
 ---
 
@@ -28,18 +28,18 @@ Use Enhanced Messaging methods when:
 
 These methods apply to Aura components in Lightning Experience only.
 
--   **[endChat() for Lightning Experience for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_endChat.htm)**
+-   **[endChat() for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_endChat.htm)**
     Ends a chat in which an agent is currently engaged. This method works only in Lightning console apps.
--   **[getChatLog() for Lightning Experience for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_messaging_getChatLog.htm)**
+-   **[getChatLog() for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_messaging_getChatLog.htm)**
     Returns the chat log of an Enhanced Messaging chat associated with a specific recordId. This method works only in Lightning console apps.
--   **[sendMessage() for Lightning Experience for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_sendMessage.htm)**
+-   **[sendMessage() for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_sendMessage.htm)**
     Sends a new chat message from the agent to a chat with a specific chat key. This method works only in Lightning console apps.
--   **[setAgentInput() for Lightning Experience for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_setAgentInput.htm)**
+-   **[setAgentInput() for Lightning Experience](atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_setAgentInput.htm)**
     Sets the text in the agent's text box while showing typing indicators. This method works only in Lightning console apps.
 
 ## Related Topics
 
-- endChat() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_endChat.htm)
-- getChatLog() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_messaging_getChatLog.htm)
-- sendMessage() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_sendMessage.htm)
-- setAgentInput() for Lightning Experience for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_setAgentInput.htm)
+- endChat() for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_endChat.htm)
+- getChatLog() for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_messaging_getChatLog.htm)
+- sendMessage() for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_sendMessage.htm)
+- setAgentInput() for Lightning Experience (atlas.en-us.api_console.meta/api_console/sforce_api_console_lightning_setAgentInput.htm)

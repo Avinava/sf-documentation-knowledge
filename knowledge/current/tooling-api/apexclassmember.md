@@ -5,7 +5,7 @@ topic: apexclassmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:43.740Z
+lastCollected: 2026-04-07T07:53:43.706Z
 estimatedTokens: 1177
 keywords: [ApexClassMember, working, copy, Apex, editing, saving, compiling, MetadataContainer, SOAP, API, Calls, REST, HTTP, Special, Access]
 ---

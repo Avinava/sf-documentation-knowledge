@@ -5,7 +5,7 @@ topic: system-fields
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:46.258Z
+lastCollected: 2026-04-07T07:53:46.878Z
 estimatedTokens: 475
 keywords: [System, system-generated, They, Tooling, API, objects, read-only]
 ---

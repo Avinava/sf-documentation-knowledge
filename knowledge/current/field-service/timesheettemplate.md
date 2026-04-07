@@ -5,7 +5,7 @@ topic: timesheettemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:54.025Z
+lastCollected: 2026-04-07T07:53:49.721Z
 estimatedTokens: 704
 keywords: [TimeSheetTemplate, template, creating, time, sheets, Service, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, API, version, 46.0, later, SOAP]
 ---

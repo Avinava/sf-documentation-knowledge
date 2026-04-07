@@ -5,8 +5,8 @@ topic: maintenanceplan
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:54.434Z
-estimatedTokens: 2686
+lastCollected: 2026-04-07T07:53:50.217Z
+estimatedTokens: 2679
 keywords: [MaintenancePlan, preventive, maintenance, schedule, assets, service, Calls, Special, Access, Rules, Associated, Objects]
 ---
 
@@ -42,8 +42,8 @@ Field Service must be enabled.
 | GenerationHorizon | TypeintPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionMoves up the timing of batch generation if DoesAutoGenerateWorkOrders is set to true. A generation horizon of 5 means the new batch of work orders is generated 5 days before the maintenance asset’s (or maintenance plan’s, if there are no assets) NextSuggestedMaintenanceDate. The generation horizon must be a whole number. |
 | GenerationTimeframe | TypeintPropertiesCreate, Filter, Group, Sort, UpdateDescription(Required) How far in advance work orders are generated in each batch. The unit is specified in the GenerationTimeframeType field. |
 | GenerationTimeframeType | TypepicklistPropertiesCreate, Defaulted on create, Filter, Group, Restricted picklist, Sort, UpdateDescription(Required) The generation timeframe unit:DaysWeeksMonthsYearsFor example, if you need work orders for six months, enter 6 and select Months. |
-| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. Some sample scenarios are: |
-| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it’s possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
+| LastReferencedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last interacted with this record, directly or indirectly. |
+| LastViewedDate | TypedateTimePropertiesFilter, Nillable, SortDescriptionThe timestamp when the current user last viewed this record or list view. If this value is null, it's possible that the user only accessed this record or list view (LastReferencedDate), but not viewed it. |
 | LocationId | TypereferencePropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionWhere the service takes place. |
 | MaintenancePlanNumber | TypestringPropertiesAutonumber, Defaulted on create, Filter, SortDescription(Read Only) An auto-assigned number that identifies the maintenance plan. |
 | MaintenancePlanTitle | TypestringPropertiesCreate, Filter, Group, Nillable, Sort, UpdateDescriptionA name for the maintenance plan. |

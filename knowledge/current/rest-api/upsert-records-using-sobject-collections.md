@@ -5,7 +5,7 @@ topic: upsert-records-using-sobject-collections
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.328Z
+lastCollected: 2026-04-07T07:53:40.186Z
 estimatedTokens: 740
 keywords: [Upsert, Records, sObject, Collections, PATCH, either, external, UpsertResult, objects, choose, whether, roll, back, entire, error]
 ---

@@ -5,7 +5,7 @@ topic: return-layout-headers-for-a-specified-object
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.855Z
+lastCollected: 2026-04-07T07:53:41.105Z
 estimatedTokens: 117
 keywords: [Layout, sObject, Layouts, resources, gives, chance, ahead, time, retrieving, content, resource]
 ---

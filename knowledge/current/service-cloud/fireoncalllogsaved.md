@@ -5,7 +5,7 @@ topic: fireoncalllogsaved
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:55.439Z
+lastCollected: 2026-04-07T07:53:53.163Z
 estimatedTokens: 281
 keywords: [fireOnCallLogSaved, Calls, eventHandler, function, registered, onCallLogSaved, send, interaction, log, custom, console, component, API, version, 31.0]
 ---

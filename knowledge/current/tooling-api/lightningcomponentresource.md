@@ -5,8 +5,8 @@ topic: lightningcomponentresource
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:45.088Z
-estimatedTokens: 422
+lastCollected: 2026-04-07T07:53:45.405Z
+estimatedTokens: 423
 keywords: [LightningComponentResource, Lightning, web, component, resource, HTML, markup, JavaScript, code, CSS, file, SVG, XML, configuration, API]
 ---
 
@@ -36,8 +36,8 @@ As of Summer ’20 and later, only your Salesforce org's internal users can acce
 
 | Field Name | Details |
 | --- | --- |
-| FilePath | TypestringPropertiesCreate,Filter, Group, Sort,UpdateDescriptionThe path to the resource. |
-| Format | TypepicklistPropertiesCreate, Filter Group, Restricted picklist, Sort, UpdateDescriptionThe format of the resource. The possible values are:csshtmljsjsonsvgxml |
+| FilePath | TypestringPropertiesCreate, Filter, Group, Sort, UpdateDescriptionThe path to the resource. |
+| Format | TypepicklistPropertiesCreate, Filter, Group, Restricted picklist, Sort, UpdateDescriptionThe format of the resource. The possible values are:csshtmljsjsonsvgxml |
 | LightningComponentBundleId | TypereferencePropertiesCreate, Filter, Group, SortDescriptionThe ID of the bundle containing the resource. |
 | ManageableState | TypeManageableState enumerated listPropertiesFilter, Group, Nillable, Restricted picklist, SortDescriptionIndicates the manageable state of the specified component that is contained in a package:betadeleteddeprecateddeprecatedEditableinstalledinstalledEditablereleasedunmanagedThis field is available in API version 38.0 and later. |
 | Source | TypetextareaPropertiesCreate, UpdateDescriptionThe contents of the definition. This is all the markup or code for the definition. |

@@ -5,7 +5,7 @@ topic: reopenlastclosedtab
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:56.406Z
+lastCollected: 2026-04-07T07:53:54.641Z
 estimatedTokens: 167
 keywords: [reopenLastClosedTab, Reopens, closed, primary, tab, any, subtabs, were, open, moment, API, version, 35.0, later, Arguments]
 ---

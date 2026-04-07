@@ -5,7 +5,7 @@ topic: group
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:44.968Z
+lastCollected: 2026-04-07T07:53:45.221Z
 estimatedTokens: 1166
 keywords: [Group, User, records, Groups, contain, individual, users, particular, role, territory, addition, below, hierarchy, Tooling, API]
 ---

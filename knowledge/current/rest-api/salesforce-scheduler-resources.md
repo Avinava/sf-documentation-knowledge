@@ -5,7 +5,7 @@ topic: salesforce-scheduler-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:35.567Z
+lastCollected: 2026-04-07T07:53:40.527Z
 estimatedTokens: 399
 keywords: [Salesforce, Scheduler, Resources, REST, APIs, appointment, time, slots, service, work, groups, territories]
 ---

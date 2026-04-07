@@ -5,7 +5,7 @@ topic: return-headers-of-appmenu-mobile-item-requests
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:35.229Z
+lastCollected: 2026-04-07T07:53:40.025Z
 estimatedTokens: 146
 keywords: [AppMenu, Mobile, Item, Requests, Salesforce, app, Android, iOS, web, navigation, menu, URI, retrieve, content, resource]
 ---

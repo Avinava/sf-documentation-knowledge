@@ -5,7 +5,7 @@ topic: relatedlistdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:45.748Z
+lastCollected: 2026-04-07T07:53:46.230Z
 estimatedTokens: 612
 keywords: [RelatedListDefinition, records, specific, criteria, API, version, 55.0, later, SOAP, Calls, REST, Special, Access, Rules, Usage]
 ---

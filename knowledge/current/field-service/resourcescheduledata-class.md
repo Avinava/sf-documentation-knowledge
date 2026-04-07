@@ -5,7 +5,7 @@ topic: resourcescheduledata-class
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.601Z
+lastCollected: 2026-04-07T07:53:49.085Z
 estimatedTokens: 780
 namespace: FSL
 keywords: [ResourceScheduleData, service, resource’s, slots, appointment, instance, context, results, AdvancedGapMatrix, Usage, currentSlotsIndexInAB, resource, schedulingOptions]
