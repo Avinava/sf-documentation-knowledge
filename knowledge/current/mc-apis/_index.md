@@ -2,7 +2,7 @@
 domain: mc-apis
 name: Marketing Cloud API
 documentCount: 809
-lastGenerated: 2026-04-07T18:40:44.641Z
+lastGenerated: 2026-04-07T19:05:23.942Z
 ---
 
 # Marketing Cloud API — Knowledge Index

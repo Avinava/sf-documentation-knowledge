@@ -2,7 +2,7 @@
 domain: metadata-api
 name: Metadata API
 documentCount: 682
-lastGenerated: 2026-04-07T18:40:40.659Z
+lastGenerated: 2026-04-07T19:05:19.935Z
 ---
 
 # Metadata API — Knowledge Index

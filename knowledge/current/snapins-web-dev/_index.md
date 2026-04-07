@@ -2,7 +2,7 @@
 domain: snapins-web-dev
 name: Embedded Service Chat for Web Developer Guide
 documentCount: 45
-lastGenerated: 2026-04-07T18:40:44.337Z
+lastGenerated: 2026-04-07T19:05:23.717Z
 ---
 
 # Embedded Service Chat for Web Developer Guide — Knowledge Index

@@ -2,7 +2,7 @@
 domain: omnistudio
 name: OmniStudio
 documentCount: 1210
-lastGenerated: 2026-04-07T18:40:40.908Z
+lastGenerated: 2026-04-07T19:05:20.200Z
 ---
 
 # OmniStudio — Knowledge Index

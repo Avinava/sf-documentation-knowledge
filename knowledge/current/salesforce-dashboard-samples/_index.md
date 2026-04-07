@@ -2,7 +2,7 @@
 domain: salesforce-dashboard-samples
 name: Sample CRM Dashboards
 documentCount: 10
-lastGenerated: 2026-04-07T18:40:43.446Z
+lastGenerated: 2026-04-07T19:05:22.880Z
 ---
 
 # Sample CRM Dashboards — Knowledge Index

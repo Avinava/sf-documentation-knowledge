@@ -2,7 +2,7 @@
 domain: voice-developer-guide
 name: Service Cloud Voice Implementation Guide
 documentCount: 95
-lastGenerated: 2026-04-07T18:40:44.475Z
+lastGenerated: 2026-04-07T19:05:23.797Z
 ---
 
 # Service Cloud Voice Implementation Guide — Knowledge Index

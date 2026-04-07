@@ -2,7 +2,7 @@
 domain: scoping-rules
 name: Scoping Rules Developer Guide
 documentCount: 19
-lastGenerated: 2026-04-07T18:40:43.546Z
+lastGenerated: 2026-04-07T19:05:22.991Z
 ---
 
 # Scoping Rules Developer Guide — Knowledge Index

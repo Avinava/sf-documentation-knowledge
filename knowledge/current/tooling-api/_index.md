@@ -2,7 +2,7 @@
 domain: tooling-api
 name: Tooling API
 documentCount: 338
-lastGenerated: 2026-04-07T18:40:40.731Z
+lastGenerated: 2026-04-07T19:05:19.991Z
 ---
 
 # Tooling API — Knowledge Index

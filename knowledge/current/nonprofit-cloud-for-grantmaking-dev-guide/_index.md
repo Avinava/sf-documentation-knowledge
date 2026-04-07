@@ -2,7 +2,7 @@
 domain: nonprofit-cloud-for-grantmaking-dev-guide
 name: Grantmaking Developer Guide
 documentCount: 40
-lastGenerated: 2026-04-07T18:40:42.630Z
+lastGenerated: 2026-04-07T19:05:21.965Z
 ---
 
 # Grantmaking Developer Guide — Knowledge Index

@@ -2,7 +2,7 @@
 domain: pages
 name: Visualforce Developer Guide
 documentCount: 609
-lastGenerated: 2026-04-07T18:40:43.092Z
+lastGenerated: 2026-04-07T19:05:22.442Z
 ---
 
 # Visualforce Developer Guide — Knowledge Index

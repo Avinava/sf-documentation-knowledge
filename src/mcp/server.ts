@@ -15,6 +15,7 @@ import fs from "fs-extra";
 import path from "node:path";
 import { GraphQuery } from "../utils/graph-query.js";
 import { CodeIndex } from "./code-index.js";
+import { parseQuery } from "../utils/query-parser.js";
 
 import { fileURLToPath } from "node:url";
 
@@ -32,7 +33,7 @@ const codeIndex = new CodeIndex(KNOWLEDGE_DIR);
 
 const server = new McpServer({
   name: "sf-documentation-knowledge",
-  version: "1.1.0",
+  version: "2.0.0",
 });
 
 // ─── Helper: build next-action suggestions ──────────────────────
@@ -978,6 +979,93 @@ Then write the code that:
   }),
 );
 
+// ─── Tool 10: sf_semantic_search ─────────────────────────────────
+server.tool(
+  "sf_semantic_search",
+  "AI-powered semantic search with NLP query understanding. Analyzes your query to extract entities, intent, and synonyms for better results. Returns section-level matches with header paths. Use this for natural language questions like 'how to process records in bulk' or 'debug authentication errors'.",
+  {
+    query: z.string().describe("Natural language search query (e.g. 'how to process records in bulk', 'debug batch apex errors')"),
+    domain: z.string().optional().describe("Optional domain filter (e.g. 'apex-guide', 'rest-api')"),
+    limit: z.number().optional().default(10).describe("Max results to return (default 10)"),
+  },
+  async ({ query, domain, limit }) => {
+    // Parse query with NLP
+    const parsed = parseQuery(query);
+
+    // Use the expanded (synonym-replaced) query for search
+    const searchQuery = parsed.expanded;
+    const results = gq.searchNodes(searchQuery, {
+      type: "document",
+      limit: (limit || 10) * 2, // Over-fetch for dedup
+      domain: domain || undefined,
+    });
+
+    // Also search with original if expanded is different
+    let allResults = [...results];
+    if (parsed.expanded !== parsed.original) {
+      const origResults = gq.searchNodes(parsed.original, {
+        type: "document",
+        limit: (limit || 10),
+        domain: domain || undefined,
+      });
+      // Merge, keeping highest score per nodeId
+      const seen = new Set(allResults.map(r => r.nodeId.split('#')[0]));
+      for (const r of origResults) {
+        const key = r.nodeId.split('#')[0];
+        if (!seen.has(key)) {
+          allResults.push(r);
+          seen.add(key);
+        }
+      }
+    }
+
+    // Boost results whose docType matches inferred intent
+    if (parsed.preferredDocTypes.length > 0) {
+      for (const r of allResults) {
+        if (r.docType && parsed.preferredDocTypes.includes(r.docType)) {
+          r.score = (r.score || 0) * 1.2;
+        }
+      }
+    }
+
+    // Sort by final score and limit
+    allResults.sort((a, b) => (b.score || 0) - (a.score || 0));
+    const trimmed = allResults.slice(0, limit || 10);
+
+    // Format output with NLP analysis
+    const analysis = [
+      `🔍 **Query Analysis:**`,
+      `   Entities: ${parsed.nouns.length > 0 ? parsed.nouns.join(', ') : '(none)'}`,
+      `   Intent: ${parsed.verbs.length > 0 ? parsed.verbs.join(', ') : 'lookup'}`,
+      parsed.isHowTo ? `   Type: How-to question` : '',
+      parsed.preferredDocTypes.length > 0 ? `   Preferred doc types: ${parsed.preferredDocTypes.join(', ')}` : '',
+      parsed.expanded !== parsed.original ? `   Expanded: "${parsed.expanded}"` : '',
+    ].filter(Boolean).join('\n');
+
+    const resultText = trimmed
+      .map((r, i) => {
+        const parts = r.nodeId.split(":");
+        const d = parts[1];
+        const topicWithSection = parts.slice(2).join(":");
+        const isSection = r.nodeId.includes('#');
+        const badge = isSection ? ' 📑' : '';
+        return `${i + 1}. **${r.label}** (${d}/${topicWithSection}) [${r.docType || 'doc'}]${badge} — score: ${(r.score || 0).toFixed(2)}`;
+      })
+      .join('\n');
+
+    return {
+      content: [
+        {
+          type: "text" as const,
+          text: trimmed.length > 0
+            ? `${analysis}\n\n**Results** (${trimmed.length} of ${allResults.length}):\n\n${resultText}\n\n${suggestNext('sf_search', { query, domain: domain || '' })}`
+            : `${analysis}\n\nNo results found for "${query}". Try broadening your query or removing filters.`,
+        },
+      ],
+    };
+  },
+);
+
 // ─── Start the server ───────────────────────────────────────────
 async function main() {
   // Pre-load graph and code index in parallel
@@ -990,7 +1078,7 @@ async function main() {
   const { nodes, edges } = gq.getStats();
   const { totalSnippets } = codeIndex.getStats();
   console.error(
-    `@sfdxy/sf-documentation-knowledge MCP Server v1.2.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 9 tools + 4 prompts + 4 resources)`,
+    `@sfdxy/sf-documentation-knowledge MCP Server v2.0.0 (${nodes.toLocaleString()} nodes, ${edges.toLocaleString()} edges, ${totalSnippets.toLocaleString()} code snippets, 10 tools + 4 prompts + 4 resources)`,
   );
 }
 

@@ -1,7 +1,7 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-04-07T18:41:49.061Z*
+*Last Updated: 2026-04-07T19:06:27.389Z*
 
 **129 Domains** | **35,354 Knowledge Files**
 

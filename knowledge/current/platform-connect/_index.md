@@ -2,7 +2,7 @@
 domain: platform-connect
 name: Canvas Developer Guide
 documentCount: 124
-lastGenerated: 2026-04-07T18:40:43.168Z
+lastGenerated: 2026-04-07T19:05:22.520Z
 ---
 
 # Canvas Developer Guide — Knowledge Index

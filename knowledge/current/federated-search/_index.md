@@ -2,7 +2,7 @@
 domain: federated-search
 name: Federated Search Developer Guide
 documentCount: 7
-lastGenerated: 2026-04-07T18:40:44.510Z
+lastGenerated: 2026-04-07T19:05:23.828Z
 ---
 
 # Federated Search Developer Guide — Knowledge Index

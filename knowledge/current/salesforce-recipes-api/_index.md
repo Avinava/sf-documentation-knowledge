@@ -2,7 +2,7 @@
 domain: salesforce-recipes-api
 name: Data Prep Recipe REST API Developer Guide
 documentCount: 296
-lastGenerated: 2026-04-07T18:40:43.507Z
+lastGenerated: 2026-04-07T19:05:22.944Z
 ---
 
 # Data Prep Recipe REST API Developer Guide — Knowledge Index

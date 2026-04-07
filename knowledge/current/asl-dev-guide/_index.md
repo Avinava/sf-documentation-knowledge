@@ -2,7 +2,7 @@
 domain: asl-dev-guide
 name: Accounting Subledger Developer Guide
 documentCount: 12
-lastGenerated: 2026-04-07T18:40:41.078Z
+lastGenerated: 2026-04-07T19:05:20.301Z
 ---
 
 # Accounting Subledger Developer Guide — Knowledge Index

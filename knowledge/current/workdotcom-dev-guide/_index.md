@@ -2,7 +2,7 @@
 domain: workdotcom-dev-guide
 name: Work.com Developer Guide
 documentCount: 79
-lastGenerated: 2026-04-07T18:40:44.505Z
+lastGenerated: 2026-04-07T19:05:23.824Z
 ---
 
 # Work.com Developer Guide — Knowledge Index

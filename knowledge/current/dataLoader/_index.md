@@ -2,7 +2,7 @@
 domain: dataLoader
 name: Data Loader Guide
 documentCount: 49
-lastGenerated: 2026-04-07T18:40:41.768Z
+lastGenerated: 2026-04-07T19:05:21.024Z
 ---
 
 # Data Loader Guide — Knowledge Index

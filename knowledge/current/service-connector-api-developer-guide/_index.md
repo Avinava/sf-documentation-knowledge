@@ -2,7 +2,7 @@
 domain: service-connector-api-developer-guide
 name: Service Cloud Connector API Reference
 documentCount: 91
-lastGenerated: 2026-04-07T18:40:43.589Z
+lastGenerated: 2026-04-07T19:05:23.039Z
 ---
 
 # Service Cloud Connector API Reference — Knowledge Index

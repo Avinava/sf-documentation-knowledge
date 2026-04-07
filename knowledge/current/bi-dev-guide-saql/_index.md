@@ -2,7 +2,7 @@
 domain: bi-dev-guide-saql
 name: Analytics SAQL Developer Guide
 documentCount: 171
-lastGenerated: 2026-04-07T18:40:41.243Z
+lastGenerated: 2026-04-07T19:05:20.471Z
 ---
 
 # Analytics SAQL Developer Guide — Knowledge Index

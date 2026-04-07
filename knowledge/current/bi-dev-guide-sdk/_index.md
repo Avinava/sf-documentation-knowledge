@@ -2,7 +2,7 @@
 domain: bi-dev-guide-sdk
 name: Analytics SDK Developer Guide
 documentCount: 17
-lastGenerated: 2026-04-07T18:40:41.247Z
+lastGenerated: 2026-04-07T19:05:20.475Z
 ---
 
 # Analytics SDK Developer Guide — Knowledge Index

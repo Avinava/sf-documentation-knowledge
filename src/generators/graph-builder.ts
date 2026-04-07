@@ -2,6 +2,10 @@ import path from "node:path";
 import fs from "fs-extra";
 import pkg from "graphology";
 const { DirectedGraph } = pkg;
+// eslint-disable-next-line @typescript-eslint/no-require-imports, @typescript-eslint/no-var-requires
+import pagerankModule from "graphology-metrics/centrality/pagerank.js";
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const pagerank = (pagerankModule as any).default || pagerankModule;
 import { createChildLogger } from "../utils/logger.js";
 import type { TaggedDocument } from "../processors/tagger.js";
 
@@ -91,7 +95,25 @@ export class GraphBuilder {
       }
     }
 
-    // 4. Export graph to JSON
+    // 4. Compute PageRank — ranks docs by cross-reference authority
+    let pagerankDocs = 0;
+    try {
+      const scores = pagerank(this.graph, { alpha: 0.85, maxIterations: 100 });
+      for (const [nodeId, score] of Object.entries(scores)) {
+        // Only store on document nodes
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const attrs = this.graph.getNodeAttributes(nodeId) as any;
+        if (attrs.type === "document") {
+          this.graph.setNodeAttribute(nodeId, "pagerank", score);
+          pagerankDocs++;
+        }
+      }
+      log.info({ docs: pagerankDocs }, "PageRank scores computed");
+    } catch (err) {
+      log.warn({ err }, "PageRank computation failed — skipping");
+    }
+
+    // 5. Export graph to JSON
     await fs.ensureDir(this.knowledgeDir);
     const outputPath = path.join(this.knowledgeDir, "graph.json");
     const exportedGraph = this.graph.export();

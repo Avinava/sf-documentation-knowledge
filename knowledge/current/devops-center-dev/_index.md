@@ -2,7 +2,7 @@
 domain: devops-center-dev
 name: Salesforce DevOps Center Developer Guide
 documentCount: 39
-lastGenerated: 2026-04-07T18:40:41.775Z
+lastGenerated: 2026-04-07T19:05:21.030Z
 ---
 
 # Salesforce DevOps Center Developer Guide — Knowledge Index

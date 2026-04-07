@@ -2,7 +2,7 @@
 domain: case-feed-dev
 name: Publisher and Quick Action Developer Guide
 documentCount: 24
-lastGenerated: 2026-04-07T18:40:41.311Z
+lastGenerated: 2026-04-07T19:05:20.539Z
 ---
 
 # Publisher and Quick Action Developer Guide — Knowledge Index

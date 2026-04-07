@@ -2,7 +2,7 @@
 domain: bi-dev-guide-json
 name: Analytics Dashboard JSON Developer Guide
 documentCount: 30
-lastGenerated: 2026-04-07T18:40:41.115Z
+lastGenerated: 2026-04-07T19:05:20.336Z
 ---
 
 # Analytics Dashboard JSON Developer Guide — Knowledge Index

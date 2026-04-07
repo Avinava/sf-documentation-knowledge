@@ -2,7 +2,7 @@
 domain: lightning
 name: Lightning Aura Components Developer Guide
 documentCount: 491
-lastGenerated: 2026-04-07T18:40:42.352Z
+lastGenerated: 2026-04-07T19:05:21.687Z
 ---
 
 # Lightning Aura Components Developer Guide — Knowledge Index

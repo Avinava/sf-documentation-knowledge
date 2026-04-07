@@ -2,7 +2,7 @@
 domain: usefulValidationRules
 name: Examples of Validation Rules
 documentCount: 13
-lastGenerated: 2026-04-07T18:40:44.404Z
+lastGenerated: 2026-04-07T19:05:23.781Z
 ---
 
 # Examples of Validation Rules — Knowledge Index

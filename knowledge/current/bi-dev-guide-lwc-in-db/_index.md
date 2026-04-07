@@ -2,7 +2,7 @@
 domain: bi-dev-guide-lwc-in-db
 name: Lightning Web Components in CRM Analytics Dashboards
 documentCount: 13
-lastGenerated: 2026-04-07T18:40:41.117Z
+lastGenerated: 2026-04-07T19:05:20.338Z
 ---
 
 # Lightning Web Components in CRM Analytics Dashboards — Knowledge Index

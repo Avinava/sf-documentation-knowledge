@@ -2,7 +2,7 @@
 domain: uiapi
 name: User Interface API Developer Guide
 documentCount: 265
-lastGenerated: 2026-04-07T18:40:44.397Z
+lastGenerated: 2026-04-07T19:05:23.770Z
 ---
 
 # User Interface API Developer Guide — Knowledge Index

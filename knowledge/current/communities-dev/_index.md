@@ -2,7 +2,7 @@
 domain: communities-dev
 name: Experience Cloud Developer Guide
 documentCount: 66
-lastGenerated: 2026-04-07T18:40:41.712Z
+lastGenerated: 2026-04-07T19:05:20.993Z
 ---
 
 # Experience Cloud Developer Guide — Knowledge Index
