@@ -5,7 +5,7 @@ topic: rules-of-conversion
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:34.760Z
+lastCollected: 2026-04-07T07:38:45.415Z
 estimatedTokens: 1174
 keywords: [Rules, Conversion, general, Apex, requires, explicitly, convert, data, another, variable, cannot, implicitly, converted, string.format, However]
 ---

@@ -5,20 +5,19 @@ topic: leadconfigsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.278Z
-estimatedTokens: 878
+lastCollected: 2026-04-07T07:46:07.763Z
+estimatedTokens: 837
 keywords: [LeadConfigSettings, configuration, settings, Leads, control, how, they, converted, actions, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
 # LeadConfigSettings
 
 > Represents configuration settings for Leads that control how they are converted and
-		displayed, and what actions are available. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+		displayed, and what actions are available. This type extends the Metadata metadata type and inherits its fullName field.
 
 # LeadConfigSettings
 
-Represents configuration settings for Leads that control how they are converted and displayed, and what actions are available. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents configuration settings for Leads that control how they are converted and displayed, and what actions are available. This type extends the Metadata metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -92,5 +91,4 @@ The following is an example package manifest used to deploy or retrieve the Lead
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

@@ -5,7 +5,7 @@ topic: sobjects-that-dont-support-dml-operations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.246Z
+lastCollected: 2026-04-07T07:38:42.925Z
 estimatedTokens: 521
 keywords: [sObjects, Don’t, Support, DML, Operations, organization, standard, objects, provided, Salesforce, custom, created, accessed, Apex, instances]
 ---

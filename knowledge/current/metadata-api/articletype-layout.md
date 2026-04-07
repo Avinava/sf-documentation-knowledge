@@ -5,7 +5,7 @@ topic: articletype-layout
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.826Z
+lastCollected: 2026-04-07T07:46:03.616Z
 estimatedTokens: 787
 keywords: [ArticleType, Layout, metadata, associated, article, layouts, determine, users, view, edit, entering, data, sections, appear, articles]
 ---

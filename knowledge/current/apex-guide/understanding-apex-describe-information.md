@@ -5,7 +5,7 @@ topic: understanding-apex-describe-information
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:33.345Z
+lastCollected: 2026-04-07T07:38:43.040Z
 estimatedTokens: 1237
 keywords: [Understanding, Apex, Describe, sObjects, either, tokens, describeSObjects, Schema, Describing, sObject, Obtaining, Results]
 ---

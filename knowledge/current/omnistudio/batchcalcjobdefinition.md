@@ -5,8 +5,8 @@ topic: batchcalcjobdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:50.662Z
-estimatedTokens: 7572
+lastCollected: 2026-04-07T07:38:54.062Z
+estimatedTokens: 7576
 keywords: [BatchCalcJobDefinition, Data, Processing, Engine, definition, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, BatchCalcJob​​​Aggregate, DPE, API, version, 51.0, later]
 ---
 
@@ -48,7 +48,7 @@ To use this metadata type, one of these licenses is required:
 | appends | BatchCalcJobUnion[] | Collection of append nodes in a data processing engine. |
 | atomicWritebacks | BatchCalcJobAtomicWriteBack[] | Collection of composite writeback nodes in a data processing engine definition. Available in API version 62.0 and later. |
 | customNodes | BatchCalcJobCustomNode[] | Collection of custom nodes in a data processing engine. Available in API version 57.0 and later. |
-| dataSpaceApiName | string | Stores the Data Space API Name from . Available in API version 60.0 and later. |
+| dataSpaceApiName | string | Stores the Data Space API Name from Data 360. Available in API version 60.0 and later. |
 | datasources | BatchCalcJob​Datasource[] | Collection of data source nodes in a data processing engine. |
 | definitionRunMode | BatchCalcJobDefRunMode(enumeration of type string) | Specifies the execution mode in a data processing engine. Valid values are:BatchOnDemand |
 | description | string | Description of a data processing engine definition. |
@@ -406,7 +406,7 @@ Represents a collection of fields relating to the object in which the results of
 | folderName | string | The folder where the writeback dataset is saved. Available in API version 57.0 and later. |
 | groupBy | string | Reserved for future use. |
 | isChangedRow | boolean | Indicates whether a row in the write back object is changed. Set to True to write back the changed rows. |
-| isExistingDataset | boolean | Indicates whether a CRM Application (CRMA) dataset or a Data Lake object is present (true) or will be created (false). Available in API version 62.0 and later. |
+| isExistingDataset | boolean | Indicates whether a CRM Application (CRMA) dataset or a Data 360 Data Lake object is present (true) or will be created (false). Available in API version 62.0 and later. |
 | label | string | Required. Name of the write back object. |
 | name | string | Required. Name of the batch calculation job write back object. |
 | operationType | BatchCalcJobWriteback​Opn (enumeration of type string) | Type of operation specified.Valid values are:Delete—This value is available in API version 56.0 and later.InsertOverwrite—Available only when storageType is DataLakeObject. This value is available in API version 60.0 and later.UpdateUpsert |

@@ -5,8 +5,8 @@ topic: field
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:53.419Z
-estimatedTokens: 1587
+lastCollected: 2026-04-07T07:38:57.793Z
+estimatedTokens: 1597
 keywords: [field's, metadata]
 ---
 
@@ -37,7 +37,7 @@ Where possible, we changed noninclusive terms to align with our company value of
 | custom | Boolean | Indicates whether the field is custom. | Small, 41.0 | 41.0 |
 | dataType | String | Field type. One of these values:AddressAnytypeBase64BooleanComboBoxComplexValue—Complex Value Type (CVT).CurrencyDateDateTimeDoubleEmailEncryptedStringIntJunctionIdListLocationLongMultiPicklist—To populate the multi-select picklist, Get Values for a Picklist Field or Get Values for All Picklist Fields of a Record Type.PercentPhonePicklist—To populate the picklist, Get Values for a Picklist Field or Get Values for All Picklist Fields of a Record Type.ReferenceStringTextAreaTimeUrl | Small, 41.0 | 41.0 |
 | defaultValue | String | Default value for the field. | Small, 66.0 | 66.0 |
-| defaultedOnCreate | Boolean | Indicates whether the field is defaulted when created. | Small, 66.0 | 66.0 |
+| defaultedOnCreate | Boolean | Indicates whether the field is automatically assigned a default value when a record is created. | Small, 66.0 | 66.0 |
 | digits | Integer | For integer fields, the maximum number of digits that an integer can have. | Small, 65.0 | 65.0 |
 | externalId | String | External ID of the field. | Small, 60.0 | 60.0 |
 | extraTypeInfo | String | More data type information. One of these values:ExternalLookup—External lookupImageUrl—Image urlIndirectLookup—Indirect lookupPersonName—Person namePlainTextArea—Plain text areaRichTextArea—Rich text areaSwitchablePersonName—Switchable person name | Small, 41.0 | 41.0 |

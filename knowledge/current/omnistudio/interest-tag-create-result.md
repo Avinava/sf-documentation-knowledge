@@ -5,7 +5,7 @@ topic: interest-tag-create-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.028Z
+lastCollected: 2026-04-07T07:38:51.530Z
 estimatedTokens: 163
 keywords: [Interest, Tag, Result, Tags]
 ---

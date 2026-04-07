@@ -5,7 +5,7 @@ topic: actionable-list-member-search-by-using-filter-criteria
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:48.101Z
+lastCollected: 2026-04-07T07:38:49.943Z
 estimatedTokens: 426
 keywords: [Actionable, Member, Search, Filter, Criteria, members]
 ---

@@ -5,8 +5,8 @@ topic: embeddedservicebranding
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.832Z
-estimatedTokens: 890
+lastCollected: 2026-04-07T07:46:06.053Z
+estimatedTokens: 848
 keywords: [EmbeddedServiceBranding, branding, Embedded, Service, deployment, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative]
 ---
 
@@ -14,12 +14,11 @@ keywords: [EmbeddedServiceBranding, branding, Embedded, Service, deployment, ext
 
 > Represents the branding for each Embedded
       Service deployment.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # EmbeddedServiceBranding
 
-Represents the branding for each Embedded Service deployment. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the branding for each Embedded Service deployment. This type extends the Metadata metadata type and inherits its fullName field.
 
 This object works only with the legacy chat products. For Messaging for In-app and Web, use the [BrandingSet](atlas.en-us.api_meta.meta/api_meta/meta_brandingset.htm "Represents the definition of a set of branding properties for an Experience Builder site or for your org's Lightning Experience theme.") object.
 
@@ -86,6 +85,5 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - BrandingSet (atlas.en-us.api_meta.meta/api_meta/meta_brandingset.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,7 +5,7 @@ topic: using-the-schema-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.744Z
+lastCollected: 2026-04-07T07:38:42.068Z
 estimatedTokens: 328
 namespace: Schema
 keywords: [Schema, classes, working, metadata, implicitly, import, Schema.*, fully, qualify, uses, elements, they, naming, conflicts, items]

@@ -5,8 +5,8 @@ topic: featureparameterinteger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:39.417Z
-estimatedTokens: 844
+lastCollected: 2026-04-07T07:46:06.750Z
+estimatedTokens: 797
 keywords: [FeatureParameterInteger, feature, Management, App, FMA, let, drive, behavior, track, activation, metrics, subscriber, orgs, install, package]
 ---
 
@@ -15,12 +15,11 @@ keywords: [FeatureParameterInteger, feature, Management, App, FMA, let, drive, b
 > Represents an integer feature parameter in  the Feature Management App (FMA).
       Feature parameters let you drive app behavior and track activation metrics in subscriber orgs
       that install your package.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # FeatureParameterInteger
 
-Represents an integer feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents an integer feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -54,7 +53,7 @@ Represents the direction of the data flow between your License Management Org (L
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
-| FeatureParameterDataFlowDirection | string | After a package containing the components is installed, indicates whether the feature parameter’s value is editable in your License Management Org (LMO) and read-only in your customer’s org or the other way around. Valid values are:LmoToSubscriberSubscriberToLmo |
+| FeatureParameterDataFlowDirection | string | After a package containing the components is installed, indicates whether the feature parameter’s value is editable in your License Management Org (LMO) and read-only in your customer’s org or the other way around.LmoToSubscriberSubscriberToLmo |
 
 ## Declarative Metadata Sample Definition
 
@@ -106,5 +105,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

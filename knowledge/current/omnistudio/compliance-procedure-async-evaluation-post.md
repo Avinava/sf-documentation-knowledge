@@ -5,7 +5,7 @@ topic: compliance-procedure-async-evaluation-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:47.855Z
+lastCollected: 2026-04-07T07:38:49.556Z
 estimatedTokens: 468
 keywords: [Compliance, Procedure, Async, Evaluation, POST, Asynchronously, evaluate, business, context, asynchronous, results, stored, maximum, months]
 ---

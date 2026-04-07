@@ -5,7 +5,7 @@ topic: get-a-file-preview
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.329Z
+lastCollected: 2026-04-07T07:38:44.629Z
 estimatedTokens: 126
 keywords: [File, Preview, Call]
 ---

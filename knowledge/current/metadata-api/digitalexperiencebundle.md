@@ -5,7 +5,7 @@ topic: digitalexperiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.534Z
+lastCollected: 2026-04-07T07:46:05.691Z
 estimatedTokens: 2955
 keywords: [DigitalExperienceBundle, text-based, code, structure, organization’s, workspaces, organized, workspace, workspace’s, content, items, Parent, File, Suffix, Directory]
 ---

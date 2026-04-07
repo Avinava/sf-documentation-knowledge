@@ -5,7 +5,7 @@ topic: disclosuredefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.609Z
+lastCollected: 2026-04-07T07:46:05.770Z
 estimatedTokens: 493
 keywords: [DisclosureDefinition, disclosure, publisher, vendor, created, implemented, report, Parent, File, Suffix, Directory, Location, Version, Special, Access]
 ---

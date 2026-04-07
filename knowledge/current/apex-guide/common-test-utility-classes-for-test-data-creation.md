@@ -6,7 +6,7 @@ topic: common-test-utility-classes-for-test-data-creation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.113Z
+lastCollected: 2026-04-07T07:38:44.252Z
 estimatedTokens: 339
 keywords: [Common, Test, Utility, Classes, Data, Creation, contain, reusable, code]
 ---

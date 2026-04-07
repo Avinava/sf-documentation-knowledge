@@ -5,7 +5,7 @@ topic: future-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:32.503Z
+lastCollected: 2026-04-07T07:38:41.661Z
 estimatedTokens: 673
 keywords: [Future, Annotation, identify, run, asynchronously, runs, Salesforce, resources, Considerations]
 ---

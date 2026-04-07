@@ -5,7 +5,7 @@ topic: records-for-tag-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.666Z
+lastCollected: 2026-04-07T07:38:49.253Z
 estimatedTokens: 91
 keywords: [Records, Tag, Input, representation, Interest]
 ---

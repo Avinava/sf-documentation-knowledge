@@ -5,7 +5,7 @@ topic: perform-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.373Z
+lastCollected: 2026-04-07T07:38:47.084Z
 estimatedTokens: 249
 keywords: [Perform, Contract, Action, actions, status, REST, HTTP, Inputs, Output, Usage]
 ---
@@ -24,7 +24,7 @@ This action is available in API version 61.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/performContractAction
+/services/data/v59.0/actions/standard/performContractAction
 
 Formats
 

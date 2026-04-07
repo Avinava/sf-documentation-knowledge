@@ -5,8 +5,8 @@ topic: describevaluetyperesult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.490Z
-estimatedTokens: 922
+lastCollected: 2026-04-07T07:46:05.633Z
+estimatedTokens: 917
 keywords: [DescribeValueTypeResult, that’s, useful, developers, working, declarative, metadata, ValueTypeField, PicklistEntry]
 ---
 
@@ -34,7 +34,7 @@ Each DescribeValueTypeResult object has these properties.
 
 ## ValueTypeField
 
-This object is returned as part of the DescribeValueTypeResult and represents the metadata for one field. Each ValueTypeField has these properties.
+This object is returned as part of the DescribeValueTypeResult and represents the metadata for one field. Each ValueTypeField
 
 | Name | Type | Description |
 | --- | --- | --- |

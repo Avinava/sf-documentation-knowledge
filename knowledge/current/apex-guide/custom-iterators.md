@@ -5,7 +5,7 @@ topic: custom-iterators
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.623Z
+lastCollected: 2026-04-07T07:38:41.865Z
 estimatedTokens: 500
 keywords: [Custom, Iterators, Iterator, instructions, traversing, loop, useful, data, exists, sources, outside, Salesforce, normally, define, scope]
 ---

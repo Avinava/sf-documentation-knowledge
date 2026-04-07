@@ -5,7 +5,7 @@ topic: testvisible-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.536Z
+lastCollected: 2026-04-07T07:38:41.718Z
 estimatedTokens: 287
 keywords: [TestVisible, Annotation, allow, test, access, protected, members, another, outside, include, member, variables, inner, classes, permissive]
 ---

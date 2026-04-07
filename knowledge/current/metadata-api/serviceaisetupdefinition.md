@@ -5,7 +5,7 @@ topic: serviceaisetupdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.108Z
+lastCollected: 2026-04-07T07:46:09.999Z
 estimatedTokens: 592
 keywords: [ServiceAISetupDefinition, settings, Einstein, Service, feature, Article, Recommendations, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location]
 ---

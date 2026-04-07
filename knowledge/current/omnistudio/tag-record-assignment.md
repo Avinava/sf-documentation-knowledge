@@ -5,7 +5,7 @@ topic: tag-record-assignment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.444Z
+lastCollected: 2026-04-07T07:38:52.197Z
 estimatedTokens: 154
 keywords: [Tag, Record, Assignment, Output, representation]
 ---

@@ -5,7 +5,7 @@ topic: appframeworktemplatebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.743Z
+lastCollected: 2026-04-07T07:46:03.518Z
 estimatedTokens: 733
 keywords: [AppFrameworkTemplateBundle, app, framework, template, bundle, templates, Data, Tableau, assets, Parent, File, Suffix, Directory, Location, Version]
 ---

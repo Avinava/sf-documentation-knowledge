@@ -5,7 +5,7 @@ topic: engagement-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:49.796Z
+lastCollected: 2026-04-07T07:38:52.814Z
 estimatedTokens: 665
 keywords: [Engagement, Data, Model, stores, start, date, end, time, topic, attendees, interaction, customer, customer-authorized, representative, service]
 ---

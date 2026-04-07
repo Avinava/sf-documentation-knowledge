@@ -5,7 +5,7 @@ topic: batch-management-metadata-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:46.958Z
+lastCollected: 2026-04-07T07:38:48.129Z
 estimatedTokens: 137
 keywords: [Batch, Management, Metadata, API, activate, jobs]
 ---

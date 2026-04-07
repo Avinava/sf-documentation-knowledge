@@ -5,8 +5,8 @@ topic: roleorterritory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:41.946Z
-estimatedTokens: 662
+lastCollected: 2026-04-07T07:46:09.813Z
+estimatedTokens: 637
 keywords: [RoleOrTerritory, common, base, role, territory, Version, Declarative, Metadata, Sample, Definition]
 ---
 
@@ -22,10 +22,6 @@ Represents the common base type and valid values for role or territory.
 ## Version
 
 RoleOrTerritory components are available in API version 24.0 and later.
-
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
-
-#### Note
 
 You can’t create a RoleOrTerritory component directly. Use the Role or Territory metadata types instead.
 

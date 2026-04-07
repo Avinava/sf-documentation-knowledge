@@ -5,20 +5,19 @@ topic: paymentgatewayprovider
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.126Z
-estimatedTokens: 614
+lastCollected: 2026-04-07T07:46:08.802Z
+estimatedTokens: 605
 keywords: [PaymentGatewayProvider, metadata, associated, payment, gateway, provider, extends, inherits, fullName, File, Suffix, Directory, Location, Version, Special]
 ---
 
 # PaymentGatewayProvider
 
 > Represents the metadata associated with a payment
-      gateway provider. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      gateway provider. This type extends the Metadata metadata type and inherits its fullName field.
 
 # PaymentGatewayProvider
 
-Represents the metadata associated with a payment gateway provider. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the metadata associated with a payment gateway provider. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -44,6 +43,7 @@ To access PaymentGatewayProvider, you must have a Salesforce Order Management li
 | --- | --- | --- |
 | apexAdapter | string | The Apex adapter class name for your payment gateway. This field is unique within your organization. |
 | comments | string | Users can add comments to provide additional details about a record. Maximum of 1000 characters. |
+| gatewayType | GatewayType (enumeration of type String) | Defines the payment gateway type.AdyenBraintreeCyberSourcePaypalStripe |
 | idempotencySupported | IdempotencySupportStatus (enumeration of type String) | Required. Defines whether the payment gateway ignores duplicate payment gateway calls (Yes) or whether it processes duplicate gateway calls (No).YesNo |
 | masterLabel | string | Required. The label of this payment gateway provider record. |
 
@@ -70,9 +70,10 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 ```
 <PaymentGatewayProvider xmlns="http://soap.sforce.com/2006/04/metadata">
     <apexAdapter>SalesforceAdapter</apexAdapter>
+    <comments>Comments</comments>
+    <gatewayType>Stripe</gatewayType>
     <idempotencySupported>Yes</idempotencySupported>
     <masterLabel>SalesforceAdapter</masterLabel>
-    <comments>Comments</comments>
 </PaymentGatewayProvider>
 ```
 
@@ -88,5 +89,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

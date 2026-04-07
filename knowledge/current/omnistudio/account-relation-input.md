@@ -5,7 +5,7 @@ topic: account-relation-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.000Z
+lastCollected: 2026-04-07T07:38:48.209Z
 estimatedTokens: 421
 keywords: [Account, Relation, Input, representation, relationship]
 ---

@@ -5,7 +5,7 @@ topic: digital-lending-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.715Z
+lastCollected: 2026-04-07T07:38:52.671Z
 estimatedTokens: 231
 keywords: [Digital, Lending, Invocable, Actions, manage, contract, documents]
 ---

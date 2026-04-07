@@ -5,7 +5,7 @@ topic: parameterized-typing
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:34.745Z
+lastCollected: 2026-04-07T07:38:45.395Z
 estimatedTokens: 171
 keywords: [Parameterized, Typing, Apex, general, statically-typed, programming, language, means, users, specify, data, variable, Subtyping]
 ---

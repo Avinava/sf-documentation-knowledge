@@ -5,7 +5,7 @@ topic: trigger-exceptions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.175Z
+lastCollected: 2026-04-07T07:38:44.356Z
 estimatedTokens: 443
 keywords: [Trigger, Exceptions, Triggers, prevent, DML, operations, occurring, calling, addError, record, Trigger.new, records, insert, Trigger.old, custom]
 ---

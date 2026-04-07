@@ -5,8 +5,8 @@ topic: integration-procedure-execution-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:48.207Z
-estimatedTokens: 286
+lastCollected: 2026-04-07T07:38:50.085Z
+estimatedTokens: 403
 keywords: [Integration, Procedure, Execution, POST, Execute]
 ---
 
@@ -18,6 +18,12 @@ keywords: [Integration, Procedure, Execution, POST, Execute]
 # Integration Procedure Execution (POST)
 
 Execute an integration procedure by using the name or ID of the integration procedure.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
+
+#### Note
+
+When using the Integration Procedure (IP) Connect API, HTTP callouts cannot be executed in the same transaction. This is because these APIs perform an implicit DML operation through the underlying Connect API framework. If a callout is required, it must be executed in a separate transaction, for example by using an asynchronous mechanism such as @future.
 
 Resource
 

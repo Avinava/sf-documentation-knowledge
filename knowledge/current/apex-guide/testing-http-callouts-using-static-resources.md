@@ -5,7 +5,7 @@ topic: testing-http-callouts-using-static-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.740Z
+lastCollected: 2026-04-07T07:38:42.056Z
 estimatedTokens: 1223
 keywords: [Testing, HTTP, Callouts, Resources, test, specifying, you’d, receive, resource, two, built-in, classes—StaticResourceCalloutMock, MultiStaticResourceCalloutMock, StaticResourceCalloutMock]
 ---

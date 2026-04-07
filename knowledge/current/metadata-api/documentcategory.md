@@ -5,7 +5,7 @@ topic: documentcategory
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.691Z
+lastCollected: 2026-04-07T07:46:05.868Z
 estimatedTokens: 441
 keywords: [DocumentCategory, document, category, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample]
 ---

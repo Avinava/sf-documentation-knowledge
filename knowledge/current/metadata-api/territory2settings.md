@@ -5,7 +5,7 @@ topic: territory2settings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.492Z
+lastCollected: 2026-04-07T07:46:10.490Z
 estimatedTokens: 1739
 keywords: [Territory2Settings, org’s, Territory2, settings, access, level, Sales, Territories, users, records, associated, enable, features, standard, record]
 ---
@@ -115,5 +115,5 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 - Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - CRUD
-            calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+          calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

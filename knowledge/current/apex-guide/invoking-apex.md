@@ -5,7 +5,7 @@ topic: invoking-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.582Z
+lastCollected: 2026-04-07T07:38:43.389Z
 estimatedTokens: 765
 keywords: [Invoking, Apex, run, code, triggers, asynchronously, SOAP, REST, web, services]
 ---

@@ -5,7 +5,7 @@ topic: sitesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.276Z
+lastCollected: 2026-04-07T07:46:10.213Z
 estimatedTokens: 1282
 keywords: [SiteSettings, settings, Experience, Cloud, sites, Salesforce, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
 ---

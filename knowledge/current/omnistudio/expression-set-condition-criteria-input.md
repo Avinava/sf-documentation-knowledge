@@ -5,7 +5,7 @@ topic: expression-set-condition-criteria-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.378Z
+lastCollected: 2026-04-07T07:38:48.818Z
 estimatedTokens: 247
 keywords: [Expression, Condition, Criteria, Input, representation]
 ---

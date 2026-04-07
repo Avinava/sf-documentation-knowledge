@@ -5,16 +5,18 @@ topic: setting-dml-options
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.586Z
-estimatedTokens: 1971
-keywords: [Setting, DML, Options, specify, insert, operations, desired, Database.DMLOptions, operation, calling, setOptions, sObject, passing, Database.insert, Dat]
+lastCollected: 2026-04-07T07:38:45.076Z
+estimatedTokens: 2070
+keywords: [Setting, DML, Options, specify, insert, operations, desired, Database.DMLOptions, operation, calling, setOptions, sObject, passing, Database.insert, Database.update]
 ---
 
 # Setting DML Options
 
-> You can specify DML options for insert and update operations by setting the desired options
-      in the Database.DMLOptions object. You can set Database.DMLOptions for the operation by calling the setOptions method on the sObject, or by passing it as a
-      parameter to the Database.insert and Dat
+> You can specify DML options for insert and update operations by setting the desired
+    options in the Database.DMLOptions object. You can set
+      Database.DMLOptions for the operation by calling the
+      setOptions method on the sObject, or by passing it as
+    a parameter to the Database.insert and Database.update methods.
 
 # Setting DML Options
 
@@ -99,6 +101,12 @@ The following example shows how to save an account record that’s been identifi
 
 ## emailHeader Property
 
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexcode)
+
+#### Important
+
+System-generated emails from an unverified email-sending domain aren’t delivered, even if the From email address is verified. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
+
 The Salesforce user interface allows you to specify whether or not to send an email when the following events occur:
 
 -   Creation of a new case or task
@@ -107,7 +115,7 @@ The Salesforce user interface allows you to specify whether or not to send an em
 -   Lead queue email notification
 -   Password reset
 
-In Apex saved against API version 15.0 or later, the Database.DMLOptions emailHeader property enables you to specify additional information regarding the email that gets sent when one of the events occurs because of Apex DML code execution.
+In API version 15.0 and later, the Database.DMLOptions emailHeader property enables you to specify additional information regarding the email that gets sent when one of the events occurs because of Apex DML code execution.
 
 Using the emailHeader property, you can set these options.
 

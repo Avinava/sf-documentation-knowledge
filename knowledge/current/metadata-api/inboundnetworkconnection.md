@@ -5,8 +5,8 @@ topic: inboundnetworkconnection
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.959Z
-estimatedTokens: 934
+lastCollected: 2026-04-07T07:46:07.437Z
+estimatedTokens: 892
 keywords: [InboundNetworkConnection, connection, third-party, data, service, Salesforce, org, inbound, because, callouts, coming, Salesforce.This, extends, Metadata, inherits]
 ---
 
@@ -14,12 +14,11 @@ keywords: [InboundNetworkConnection, connection, third-party, data, service, Sal
 
 > Represents a private connection between a
       third-party data service and a Salesforce org. The connection is inbound because the callouts
-      are coming into Salesforce.This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      are coming into Salesforce.This type extends the Metadata metadata type and inherits its fullName field.
 
 # InboundNetworkConnection
 
-Represents a private connection between a third-party data service and a Salesforce org. The connection is inbound because the callouts are coming *into* Salesforce.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents a private connection between a third-party data service and a Salesforce org. The connection is inbound because the callouts are coming *into* Salesforce.This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -119,5 +118,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

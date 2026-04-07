@@ -5,7 +5,7 @@ topic: custom-field-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:48.670Z
+lastCollected: 2026-04-07T07:38:50.923Z
 estimatedTokens: 110
 keywords: [Custom, Output, representation, creating, engagement, interaction, topic, attendee, record]
 ---

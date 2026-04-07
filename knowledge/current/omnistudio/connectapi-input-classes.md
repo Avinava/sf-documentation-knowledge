@@ -5,7 +5,7 @@ topic: connectapi-input-classes
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:51.476Z
+lastCollected: 2026-04-07T07:38:55.107Z
 estimatedTokens: 441
 keywords: [ConnectApi, Input, Classes, Process, Compliance, Navigator, includes, Apex]
 ---

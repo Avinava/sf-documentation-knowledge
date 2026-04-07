@@ -5,7 +5,7 @@ topic: ctxattrhydrationctx
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.069Z
+lastCollected: 2026-04-07T07:38:57.358Z
 estimatedTokens: 280
 keywords: [CtxAttrHydrationCtx, queries, fetch, data, chosen, attribute, input, schema, context-to-context, mapping, API, version, 61.0, later, Calls]
 ---

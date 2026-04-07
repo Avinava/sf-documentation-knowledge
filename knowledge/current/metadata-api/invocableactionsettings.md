@@ -5,20 +5,19 @@ topic: invocableactionsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.158Z
-estimatedTokens: 650
+lastCollected: 2026-04-07T07:46:07.622Z
+estimatedTokens: 608
 keywords: [InvocableActionSettings, org’s, invocable, action, settings, whether, partial, save, allowed.This, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
 # InvocableActionSettings
 
 > Represents the org’s invocable action
-      settings, such as whether partial save is allowed.This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      settings, such as whether partial save is allowed.This type extends the Metadata metadata type and inherits its fullName field.
 
 # InvocableActionSettings
 
-Represents the org’s invocable action settings, such as whether partial save is allowed.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the org’s invocable action settings, such as whether partial save is allowed.This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -76,6 +75,5 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

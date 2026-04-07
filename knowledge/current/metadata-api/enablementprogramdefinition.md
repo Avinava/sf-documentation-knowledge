@@ -5,7 +5,7 @@ topic: enablementprogramdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:38.946Z
+lastCollected: 2026-04-07T07:46:06.188Z
 estimatedTokens: 3394
 keywords: [EnablementProgramDefinition, Enablement, program, includes, exercises, measurable, milestones, help, users, sales, reps, achieve, specific, outcomes, company’s]
 ---

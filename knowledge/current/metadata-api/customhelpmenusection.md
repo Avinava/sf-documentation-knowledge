@@ -5,8 +5,8 @@ topic: customhelpmenusection
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.959Z
-estimatedTokens: 500
+lastCollected: 2026-04-07T07:46:05.012Z
+estimatedTokens: 459
 keywords: [CustomHelpMenuSection, Lightning, Experience, help, menu, admin, added, display, custom, org-specific, resources, org, extends, Metadata, inherits]
 ---
 
@@ -15,12 +15,11 @@ keywords: [CustomHelpMenuSection, Lightning, Experience, help, menu, admin, adde
 > Represents the section of the Lightning Experience
       help menu that the admin added to display custom, org-specific help resources for the org. The
       custom section contains help resources added by the admin.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # CustomHelpMenuSection
 
-Represents the section of the Lightning Experience help menu that the admin added to display custom, org-specific help resources for the org. The custom section contains help resources added by the admin. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the section of the Lightning Experience help menu that the admin added to display custom, org-specific help resources for the org. The custom section contains help resources added by the admin. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -101,7 +100,3 @@ The following is an example package.xml that references the previous definition.
     <version>45.0</version>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

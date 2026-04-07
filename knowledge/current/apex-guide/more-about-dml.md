@@ -4,9 +4,9 @@ domain: apex-guide
 topic: more-about-dml
 apiVersion: 67.0
 release: summer-26-v67
-docType: help-article
-lastCollected: 2026-03-12T09:33:34.592Z
-estimatedTokens: 345
+docType: api-reference
+lastCollected: 2026-04-07T07:38:45.096Z
+estimatedTokens: 423
 keywords: [DML, things, may, want, know, Data, Manipulation, Language]
 ---
 
@@ -19,7 +19,7 @@ keywords: [DML, things, may, want, know, Data, Manipulation, Language]
 Here are some things you may want to know about using Data Manipulation Language.
 
 -   **[Setting DML Options](atlas.en-us.apexcode.meta/apexcode/langCon_apex_dml_database_dmloptions.htm)**
-
+    You can specify DML options for insert and update operations by setting the desired options in the Database.DMLOptions object. You can set Database.DMLOptions for the operation by calling the setOptions method on the sObject, or by passing it as a parameter to the Database.insert and Database.update methods.
 -   **[Transaction Control](atlas.en-us.apexcode.meta/apexcode/langCon_apex_transaction_control.htm)**
     Read about transaction requests, generating and releasing savepoints, rolling back transactions, and more.
 -   **[sObjects That Can’t Be Used Together in DML Operations](atlas.en-us.apexcode.meta/apexcode/apex_dml_non_mix_sobjects.htm)**

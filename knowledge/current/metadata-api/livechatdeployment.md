@@ -5,7 +5,7 @@ topic: livechatdeployment
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.435Z
+lastCollected: 2026-04-07T07:46:07.962Z
 estimatedTokens: 848
 keywords: [LiveChatDeployment, configuration, settings, specific, Chat, deployment, branding, image, whether, transcripts, automatically, saved, File, Suffix, Directory]
 ---
@@ -43,7 +43,7 @@ LiveChatDeployment is available in API version 28.0 and later.
 | enableTranscriptSave | boolean | Indicates whether chat transcripts are automatically saved after a chat ends (true) or not (false). |
 | label | string | Specifies the name of the deployment. |
 | mobileBrandingImage | string | Specifies the branding image for the deployment that appears when customers access the deployment on a mobile device. |
-| site | string | Specifies the site that hosts the images for the deployment.NoteYou must have the CustomDomain permission enabled in your organization before you can use a Salesforce site with Chat. |
+| site | string | Specifies the site that hosts the images for the deployment. You must have the CustomDomain permission enabled in your organization before you can use a Salesforce site with Chat. |
 | windowTitle | string | Specifies the title of the window associated with the deployment. |
 
 ## LiveChatDeploymentDomainWhiteList

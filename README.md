@@ -315,11 +315,11 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Connect REST API Developer Guide** | Integrate mobile apps, intranet sites, and third-party web applications with Sal | ✅ Available | 2431 |
 | **Object Reference for the Salesforce Platform** | Get details on standard objects so that you can interface with your Salesforce d | ✅ Available | 1774 |
 | **Revenue Cloud / Agentforce Revenue Management** | Product catalog, pricing, billing, Dynamic Revenue Orchestrator | ✅ Available | 1323 |
-| **OmniStudio** | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures | ✅ Available | 1295 |
+| **OmniStudio** | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures | ✅ Available | 1296 |
 | **Public Sector Solutions Developer Guide** | Use Public Sector Solutions API and developer resources to unify public service  | ✅ Available | 1003 |
 | **Salesforce Health Cloud Developer Guide** | Use the Health Cloud API to configure the Health Cloud console, which helps care | ✅ Available | 832 |
 | **Life Sciences Cloud Developer Guide** | Use the developer resources of Life Sciences Cloud to automate the operations av | ✅ Available | 699 |
-| **Metadata API** | Metadata API — deployment, retrieval, metadata types | ✅ Available | 683 |
+| **Metadata API** | Metadata API — deployment, retrieval, metadata types | ✅ Available | 688 |
 | **Insurance Developer Guide** | Learn more about the developer sources of Insurance to automate the backend work | ✅ Available | 616 |
 | **Visualforce Developer Guide** | Learn how to develop custom user interfaces and apps with Visualforce, a framewo | ✅ Available | 609 |
 | **Apex Developer Guide** | Apex language guide — syntax, triggers, testing, best practices | ✅ Available | 542 |
@@ -342,7 +342,7 @@ MIT © [Avinava](https://github.com/Avinava)
 | **Field Service** | Field Service — work orders, scheduling, mobile, territories | ✅ Available | 247 |
 | *+ 91 more domains* | *See [full inventory](docs/inventory.md)* | ✅ Available | *5,866* |
 
-*121 domains | 33,317 knowledge files*
+*121 domains | 33,323 knowledge files*
 <!-- INVENTORY:END -->
 
 ---

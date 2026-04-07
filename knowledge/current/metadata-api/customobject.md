@@ -5,7 +5,7 @@ topic: customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:36.182Z
+lastCollected: 2026-04-07T07:46:02.716Z
 estimatedTokens: 8068
 keywords: [CustomObject, custom, stores, data, unique, org, external, maps, stored, outside, Declarative, Metadata, File, Suffix, Directory]
 ---

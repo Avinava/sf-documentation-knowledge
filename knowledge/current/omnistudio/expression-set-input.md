@@ -5,7 +5,7 @@ topic: expression-set-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.399Z
+lastCollected: 2026-04-07T07:38:48.852Z
 estimatedTokens: 256
 keywords: [Expression, Input, representation]
 ---

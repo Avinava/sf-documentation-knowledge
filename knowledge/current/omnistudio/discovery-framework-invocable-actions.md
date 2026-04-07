@@ -5,7 +5,7 @@ topic: discovery-framework-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.728Z
+lastCollected: 2026-04-07T07:38:52.693Z
 estimatedTokens: 97
 keywords: [Discovery, Framework, Invocable, Actions, invoke, flow]
 ---

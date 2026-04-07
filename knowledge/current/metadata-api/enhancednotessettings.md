@@ -5,20 +5,19 @@ topic: enhancednotessettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.964Z
-estimatedTokens: 512
+lastCollected: 2026-04-07T07:46:06.211Z
+estimatedTokens: 470
 keywords: [EnhancedNotesSettings, org’s, enhanced, settings, enabling, notes, tasks, notes.This, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
 # EnhancedNotesSettings
 
 > Represents an org’s enhanced note settings, such as
-      enabling enhanced notes and enabling tasks in enhanced notes.This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      enabling enhanced notes and enabling tasks in enhanced notes.This type extends the Metadata metadata type and inherits its fullName field.
 
 # EnhancedNotesSettings
 
-Represents an org’s enhanced note settings, such as enabling enhanced notes and enabling tasks in enhanced notes.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents an org’s enhanced note settings, such as enabling enhanced notes and enabling tasks in enhanced notes.This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -76,5 +75,4 @@ The following is an example package manifest used to deploy or retrieve the Enha
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

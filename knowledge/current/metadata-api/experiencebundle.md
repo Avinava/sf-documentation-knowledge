@@ -5,8 +5,8 @@ topic: experiencebundle
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:39.097Z
-estimatedTokens: 8369
+lastCollected: 2026-04-07T07:46:06.369Z
+estimatedTokens: 8326
 keywords: [ExperienceBundle, text-based, code, structure, settings, site, components, pages, branding, themes, Experience, Builder, Developers, quickly, deploy]
 ---
 
@@ -20,7 +20,7 @@ keywords: [ExperienceBundle, text-based, code, structure, settings, site, compon
 
 # ExperienceBundle
 
-Represents a text-based code structure of the settings and site components, such as pages, branding sets, and themes that make up an Experience Builder site. Developers can quickly update and deploy Experience Builder sites *programmatically* using their preferred development tools. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents a text-based code structure of the settings and site components, such as pages, branding sets, and themes that make up an Experience Builder site. Developers can quickly update and deploy Experience Builder sites *programmatically* using their preferred development tools. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -117,11 +117,11 @@ The config folder contains several JSON files.
 | isFilteredComponentsView | boolean | Indicates whether the list of components is filtered based on the current page type (true) or not (false). Some components require specific parameters from the page and don't work unless you manually configure them. The default value is false. |
 | isLockerServiceEnabled | boolean | Indicates whether Lightning Locker is enabled (true) or disabled (false). The default value is true.Available in API version 55.0 and later. |
 | isProgressiveRenderingEnabled | boolean | Indicates whether the display order of page components is prioritized (true) or not (false). The default value is false. |
-| loginAppPageId | UUID | Represents the ID of the login page.NoteUnsupported if the active Experience Builder template for the site doesn't support login (such as Help Center). |
+| loginAppPageId | UUID | Represents the ID of the login page. Unsupported if the active Experience Builder template for the site doesn't support login (such as Help Center). |
 | mainAppPageId | UUID | Required. Represents the ID of the main page. |
 | preferredDomain | string | Represents the name of the domain to use for indexing a site’s pages. Improves search engine results.Available in API version 48.0 and later. |
 | preferredDomainId | string | Represents the domain to use for indexing a site’s pages. Improves search engine results.Removed in API version 48.0. Use preferredDomain instead. |
-| selfRegistrationRouteId | UUID | Represents the ID of the login route to use for self-registration.NoteUnsupported if the active Experience Builder template for the site doesn't support login (such as Help Center). |
+| selfRegistrationRouteId | UUID | Represents the ID of the login route to use for self-registration. Unsupported if the active Experience Builder template for the site doesn't support login (such as Help Center). |
 | type | string | Represents the component type. The only supported value is site. |
 
 **trustedSitesForScript container**
@@ -604,7 +604,6 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Audience (atlas.en-us.api_meta.meta/api_meta/meta_audience.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
 - ExperienceBundleSettings (atlas.en-us.api_meta.meta/api_meta/meta_experiencebundlesettings.htm)

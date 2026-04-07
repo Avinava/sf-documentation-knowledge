@@ -5,7 +5,7 @@ topic: svccatalogfulfillmentflow
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.408Z
+lastCollected: 2026-04-07T07:46:10.388Z
 estimatedTokens: 986
 keywords: [SvcCatalogFulfillmentFlow, flow, associated, specific, catalog, item, Service, File, Suffix, Directory, Location, Version, SvcCatalogFulfillFlowItem, Declarative, Metadata]
 ---

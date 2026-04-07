@@ -5,7 +5,7 @@ topic: data-mapper-execute-input-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.214Z
+lastCollected: 2026-04-07T07:38:48.566Z
 estimatedTokens: 92
 keywords: [Data, Mapper, Execute, Input, representation, custom, execution]
 ---

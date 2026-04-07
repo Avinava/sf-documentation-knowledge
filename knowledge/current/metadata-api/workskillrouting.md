@@ -5,8 +5,8 @@ topic: workskillrouting
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:43.254Z
-estimatedTokens: 899
+lastCollected: 2026-04-07T07:46:11.383Z
+estimatedTokens: 857
 keywords: [WorkSkillRouting, setup, stores, WorkSkillRoutingAttribute, objects, route, work, item, agent, skills, necessary, take, extends, Metadata, inherits]
 ---
 
@@ -15,12 +15,12 @@ keywords: [WorkSkillRouting, setup, stores, WorkSkillRoutingAttribute, objects, 
 > Represents a setup object that stores a set of
       WorkSkillRoutingAttribute objects. These objects are used to route a work item to an agent who
       has the skills necessary to take the work.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName
+      field.
 
 # WorkSkillRouting
 
-Represents a setup object that stores a set of WorkSkillRoutingAttribute objects. These objects are used to route a work item to an agent who has the skills necessary to take the work. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents a setup object that stores a set of WorkSkillRoutingAttribute objects. These objects are used to route a work item to an agent who has the skills necessary to take the work. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -94,5 +94,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,7 +5,7 @@ topic: omniscript-element-discovery-framework-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.126Z
+lastCollected: 2026-04-07T07:38:51.690Z
 estimatedTokens: 389
 namespace: String
 keywords: [Omniscript, Element, Discovery, Framework, Output, representation, custom, elements]

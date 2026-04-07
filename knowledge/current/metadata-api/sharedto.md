@@ -5,8 +5,8 @@ topic: sharedto
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.192Z
-estimatedTokens: 1806
+lastCollected: 2026-04-07T07:46:10.097Z
+estimatedTokens: 1805
 keywords: [SharedTo, sharing, access, view, folder, specify, target, source, owner-based, rules, Declarative, Metadata, File, Suffix, Directory]
 ---
 
@@ -44,22 +44,22 @@ See [Sharing Considerations](https://help.salesforce.com/s/articleView?id=platfo
 | allPartnerUsers | string | A group containing all partner users.This field is available in API version 24.0 and later. |
 | channelProgramGroup | string | A system-managed group with sharing access containing all partner members of the corresponding channel program or level.This field is available in API version 41.0 and later. |
 | channelProgramGroups | string[] | A list of system-managed groups with sharing access containing all partner members of the corresponding channel programs or levels.This field is available in API version 41.0 and later. |
-| group | string[] | A list of groups with sharing access. Use this field instead of the groups field.This field is available in API version 22.0 and later. |
+| group | string[] | A list of groups with sharing access. Use this field instead of the groupsfield.This field is available in API version 22.0 and later. |
 | guestUser | string[] | A list of guest user nicknames with sharing access. This field can be used only with SharingGuestRule.This field is available in API version 47.0 and later. |
 | groups | string[] | A list of groups with sharing access.Use the group field instead for API version 22.0 and later. |
 | managerSubordinates | string[] | A list of users whose direct and indirect subordinates receive sharing access. This field is available in API version 24.0 and later. |
 | managers | string[] | A list of users whose direct and indirect managers receive sharing access. This field is available in API version 24.0 and later. |
 | portalRole | string[] | A list of groups with sharing access containing all users in a portal role.This field is available in API version 24.0 and later. |
 | portalRoleandSubordinates | string[] | A list of groups with sharing access containing all users in a portal role or any users under that role.This field is available in API version 24.0 and later. |
-| role | string[] | A list of roles with sharing access. Use this field instead of the roles field.This field is available in API version 22.0 and later. |
-| roleAndSubordinates | string[] | A list of roles with sharing access. All roles below each of these roles in the role hierarchy also have sharing access. If portal accounts are enabled, then all roles and portal accounts below each of these roles in the role hierarchy also have sharing access. Use this field instead of the rolesAndSubordinates field.This field is available in API version 22.0 and later and is only available when digital experiences is enabled for your org and Experience Cloud site users are created with external account roles other than a shared person account role. |
+| role | string[] | A list of roles with sharing access. Use this field instead of the rolesfield.This field is available in API version 22.0 and later. |
+| roleAndSubordinates | string[] | A list of roles with sharing access. All roles below each of these roles in the role hierarchy also have sharing access. If portal accounts are enabled, then all roles and portal accounts below each of these roles in the role hierarchy also have sharing access. Use this field instead of the rolesAndSubordinatesfield.This field is available in API version 22.0 and later and is only available when digital experiences is enabled for your org and Experience Cloud site users are created with external account roles other than a shared person account role. |
 | roleAndSubordinatesInternal | string[] | A list of roles with sharing access. All roles below each of these roles in the role hierarchy also have sharing access.This field is available in API version 22.0 and later. |
 | roles | string[] | A list of roles with sharing access.Use the role field instead for API version 22.0 and later. |
 | rolesAndSubordinates | string[] | A list of roles with sharing access. All roles below each of these roles in the role hierarchy also have sharing access. If portal accounts are enabled, then all roles and portal accounts below each of these roles in the role hierarchy also have sharing access.Use the roleAndSubordinates field instead for API version 22.0 and later. |
 | territories | string[] | A list of territories with sharing access.Use the territory field instead for API version 22.0 and later. |
 | territoriesAndSubordinates | string[] | A list of territories with sharing access. All territories below each of these territories in the territory hierarchy also have sharing access.Use the territoryAndSubordinates field instead for API version 22.0 and later. |
-| territory | string[] | A list of territories with sharing access. Use this field instead of the territories field.If you’re using Sales Territories, use modelName.territoryName for the shared-to and shared-from territory values, where:modelName equals the name of the active territory model in the API.territoryName equals the territory’s name in the API.This field is available in API version 22.0 and later. |
-| territoryAndSubordinates | string[] | A list of territories with sharing access. All territories below each of these territories in the territory hierarchy also have sharing access. Use this field instead of the territoriesAndSubordinates field.If you’re using Sales Territories, use modelName.territoryName for the shared-to and shared-from territoryAndSubordinates values, where:modelName equals the name of the active territory model in the API.territoryName equals the territory’s name in the API.This field is available in API version 22.0 and later. |
+| territory | string[] | A list of territories with sharing access. Use this field instead of the territoriesfield. If you’re using Sales Territories, use modelName.territoryName for the shared-to and shared-from territory values, where:modelName equals the name of the active territory model in the API.territoryName equals the territory’s name in the API.This field is available in API version 22.0 and later. |
+| territoryAndSubordinates | string[] | A list of territories with sharing access. All territories below each of these territories in the territory hierarchy also have sharing access. Use this field instead of the territoriesAndSubordinatesfield. If you’re using Sales Territories, use modelName.territoryName for the shared-to and shared-from territoryAndSubordinates values, where:modelName equals the name of the active territory model in the API.territoryName equals the territory’s name in the API.This field is available in API version 22.0 and later. |
 | queue | string[] | A list of queues with sharing access. Applies only to lead, case, and CustomObject sharing rules.This field is available in API version 24.0 and later. |
 
 ## Related Topics

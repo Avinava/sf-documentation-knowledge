@@ -5,7 +5,7 @@ topic: create-contract-document-generation-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.325Z
+lastCollected: 2026-04-07T07:38:46.995Z
 estimatedTokens: 303
 keywords: [Contract, Document, Generation, Action, record, REST, HTTP, Inputs, Output, Usage]
 ---
@@ -24,7 +24,7 @@ This action is available in API version 61.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/createClmContract
+/services/data/v59.0/actions/standard/createClmContract
 
 Formats
 

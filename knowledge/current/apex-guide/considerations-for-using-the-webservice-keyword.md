@@ -5,7 +5,7 @@ topic: considerations-for-using-the-webservice-keyword
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:34.221Z
+lastCollected: 2026-04-07T07:38:44.439Z
 estimatedTokens: 682
 keywords: [Considerations, webservice, Keyword, invoke, Web, service, AJAX, Apex]
 ---

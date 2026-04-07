@@ -5,8 +5,8 @@ topic: package
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:41.083Z
-estimatedTokens: 1117
+lastCollected: 2026-04-07T07:46:08.745Z
+estimatedTokens: 1095
 keywords: [Package, metadata, components, retrieve, part, call, PackageTypeMembers, Wildcard, Support, Manifest, File]
 ---
 
@@ -21,7 +21,7 @@ Specifies which metadata components to retrieve as part of a retrieve() call or 
 
 | Name | Type | Description |
 | --- | --- | --- |
-| apiAccessLevel | APIAccessLevel (enumeration of type string) | Package components have access via dynamic Apex and the API to standard and custom objects in the organization where they’re installed. Administrators who install packages can restrict this access after installation for improved security. The valid values are:Unrestricted—Package components have the same API access to standard objects as the user who is logged in when the component sends a request to the API.Restricted—The administrator can select which standard objects the components can access. Further, the components in restricted packages can only access custom objects in the current package if the user's permissions allow access to them.For more information, see “API and Dynamic Apex Access in Packages” in Salesforce Help. |
+| apiAccessLevel | APIAccessLevel (enumeration of type string) | Package components have access via dynamic Apex and the API to standard and custom objects in the organization where they’re installed. Administrators who install packages can restrict this access after installation for improved security. The valid values are:Unrestricted—Package components have the same API access to standard objects as the user who is logged in when the component sends a request to the API.Restricted—The administrator can select which standard objects the components can access. Further, the components in restricted packages can only access custom objects in the current package if the user's permissions allow access to them. |
 | description | string | A short description of the package. |
 | fullName | string | The package name used as a unique identifier for API access. The fullName can contain only underscores and alphanumeric characters. It must be unique, begin with a letter, not include spaces, not end with an underscore, and not contain two consecutive underscores. This field is inherited from the Metadata component. |
 | namespacePrefix | string | The namespace of the developer organization where the package was created. |

@@ -5,7 +5,7 @@ topic: workforceengagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:43.247Z
+lastCollected: 2026-04-07T07:46:11.375Z
 estimatedTokens: 611
 keywords: [WorkforceEngagementSettings, settings, Workforce, Engagement, Management, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata]
 ---

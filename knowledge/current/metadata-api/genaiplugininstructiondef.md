@@ -5,7 +5,7 @@ topic: genaiplugininstructiondef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.795Z
+lastCollected: 2026-04-07T07:46:07.216Z
 estimatedTokens: 419
 keywords: [GenAiPluginInstructionDef, topic, instruction, Parent, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Metadata, Sample]
 ---

@@ -5,8 +5,8 @@ topic: usermanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:42.819Z
-estimatedTokens: 2364
+lastCollected: 2026-04-07T07:46:10.875Z
+estimatedTokens: 2320
 keywords: [UserManagementSettings, selection, user, management, options, appear, Settings, Setup, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---
 
@@ -14,12 +14,11 @@ keywords: [UserManagementSettings, selection, user, management, options, appear,
 
 > Represents a selection of user management
             options that appear on the User Management Settings Setup page.
-        This type extends the Metadata metadata type and inherits its
-                        fullName field.
+        This type extends the Metadata metadata type and inherits its fullName field.
 
 # UserManagementSettings
 
-Represents a selection of user management options that appear on the User Management Settings Setup page. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents a selection of user management options that appear on the User Management Settings Setup page. This type extends the Metadata metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -42,7 +41,7 @@ Manage org-wide settings for certain options. User Management Settings are avail
 | enableEnhancedProfileMgmt | boolean | If you enable Enhanced Profile Lists Views (true), you can quickly view, customize, and edit list data. |
 | enableEnhcUiUserAccessPolicies | boolean | Indicates whether you create and manage user access policies through an improved user interface (true) or not (false). The default value is false. If user access policies aren’t enabled, this field has no effect. If user access policies are enabled, this field is automatically set to true, but you can change it to false. Available in API version 60.0 and later. |
 | enableNewProfileUI | boolean | If you enable Enhanced Profile User Interface (true), you can use the streamlined, enhanced profile user interface to browse, search, and modify settings. You can use only one user interface at a time. |
-| enableProfileFiltering | boolean | With profile filtering enabled (true), you can restrict who sees profile names to the users who require the access for their job roles. If profile filtering is disabled (false), users can see all profiles in a Salesforce org, regardless of which permissions they have.ImportantProfile names are also exposed when users with permissions to perform the following tasks take these actions:Create a tab or record type with a wizard step that includes the assignment of tabs and record types to profiles.Configure a login flow where viewing profile lists is required to make flow associations.Set up delegated admins where looking up profiles is needed to identify assignable profiles.Administer an org as a delegated customer admin.Administer an org as a delegated admin to view and assign profiles of the delegated group.This field is available in API version 50.0 and later. |
+| enableProfileFiltering | boolean | With profile filtering enabled (true), you can restrict who sees profile names to the users who require the access for their job roles. If profile filtering is disabled (false), users can see all profiles in a Salesforce org, regardless of which permissions they have.Profile names are also exposed when users with permissions to perform the following tasks take these actions:Create a tab or record type with a wizard step that includes the assignment of tabs and record types to profiles.Configure a login flow where viewing profile lists is required to make flow associations.Set up delegated admins where looking up profiles is needed to identify assignable profiles.Administer an org as a delegated customer admin.Administer an org as a delegated admin to view and assign profiles of the delegated group.This field is available in API version 50.0 and later. |
 | enableRestrictEmailDomains | boolean | Indicates whether the Email Domain Allowlist is visible (true) or hidden (false) in Setup. The default value is false.This field is available in API version 53.0 and later. |
 | enableScrambleUserData | boolean | If you enable Let Users Scramble Their User Data (true), users can request that Salesforce remove all their personal data. Because Salesforce can’t delete information, it scrambles their data. Scrambling a user’s data is unrecoverable. So this org-wide setting serves as an extra precaution. If a user requests it, you scramble the data programmatically with the obfuscateUser Apex method. You can use the method, for example, in a custom Apex trigger, workflow, or the Developer Console.This field is available in API version 47.0 and later. |
 | enableUserSelfDeactivate | boolean | If you enable User Self Deactivate (true), users can deactivate their Experience Cloud site or Chatter accounts. |
@@ -112,6 +111,5 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

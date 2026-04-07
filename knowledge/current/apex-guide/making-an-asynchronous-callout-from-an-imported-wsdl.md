@@ -5,7 +5,7 @@ topic: making-an-asynchronous-callout-from-an-imported-wsdl
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.075Z
+lastCollected: 2026-04-07T07:38:42.598Z
 estimatedTokens: 943
 keywords: [Making, Asynchronous, Callout, Imported, WSDL, addition, HttpRequest-based, callouts, Web, service, calls, made, WSDL-generated, classes, process]
 ---

@@ -5,7 +5,7 @@ topic: mailmergesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.495Z
+lastCollected: 2026-04-07T07:46:08.030Z
 estimatedTokens: 599
 keywords: [MailMergeSettings, settings, Extended, Mail, Merge, functionality, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
 ---
@@ -65,12 +65,13 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 ```
 
 ```
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <name>MailMergeSettings</name>
+       <members>MailMerge</members>
+       <name>Settings</name>
     </types>
-    <version>51.0</version>
+    <version>62.0</version> 
 </Package>
 ```
 

@@ -5,7 +5,7 @@ topic: primitive-data-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.756Z
+lastCollected: 2026-04-07T07:38:45.408Z
 estimatedTokens: 2316
 keywords: [Primitive, Data, Apex, uses, SOAP, API, except, higher-precision, Decimal, certain, cases, Versioned, Behavior, Changes]
 ---

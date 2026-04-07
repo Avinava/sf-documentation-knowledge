@@ -5,7 +5,7 @@ topic: code-coverage-best-practices
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:32.789Z
+lastCollected: 2026-04-07T07:38:42.168Z
 estimatedTokens: 1465
 keywords: [Code, Coverage, Best, Practices, Consider, tips, General, Why, Numbers, Differ, Sandbox, Production, Recommended, Process, Matching]
 ---

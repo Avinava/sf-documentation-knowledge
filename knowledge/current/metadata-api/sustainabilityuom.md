@@ -5,8 +5,8 @@ topic: sustainabilityuom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.381Z
-estimatedTokens: 696
+lastCollected: 2026-04-07T07:46:10.353Z
+estimatedTokens: 755
 keywords: [SustainabilityUom, unit, measure, UOM, custom, fuel, org, Track, consumption, emission, results, flexibility, add, Parent, File]
 ---
 
@@ -45,6 +45,7 @@ The Net Zero Cloud permission set license is required to access this object alon
 | isProtected | Field TypebooleanDescriptionAn auto-generated value that doesn’t impact the behavior of the metadata type.The default value is false. |
 | isStationaryAssetUom | Field TypebooleanDescriptionIndicates whether the unit of measure is used in the stationary asset calculations (true) or (false).The default value is false. |
 | isVehicleAssetUom | Field TypebooleanDescriptionIndicates whether the unit of measure is used in the vehicle asset calculations (true) or (false).The default value is false. |
+| isWasteUom | Field TypebooleanDescriptionIndicates whether the unit of measure is used in the generated material waste calculations (true) or (false).The default value is false.This field is available in API version 65.0 and later. |
 | masterLabel | Field TypestringDescriptionRequired.The label assigned to this object. |
 | unitType | Field TypeUnitType (enumeration of type string)DescriptionRequired.The type of unit used for conversions or calculations.Values are:EnergyOtherVolumeWeight |
 
@@ -76,6 +77,7 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
    <isProtected>false</isProtected>
    <isStationaryAssetUom>false</isStationaryAssetUom>
    <isVehicleAssetUom>false</isVehicleAssetUom>
+   <isWasteUom>true</isWasteUom>
    <masterLabel>Grams</masterLabel>
    <unitType>Weight</unitType>
 </SustainabilityUom>

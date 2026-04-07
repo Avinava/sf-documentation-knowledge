@@ -5,7 +5,7 @@ topic: record-rollup-result-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.724Z
+lastCollected: 2026-04-07T07:38:49.350Z
 estimatedTokens: 128
 keywords: [Record, Rollup, Result, Input, representation, sort, fetch, results]
 ---

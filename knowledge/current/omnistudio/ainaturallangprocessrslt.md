@@ -5,7 +5,7 @@ topic: ainaturallangprocessrslt
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:52.844Z
+lastCollected: 2026-04-07T07:38:57.057Z
 estimatedTokens: 653
 keywords: [AINaturalLangProcessRslt, stores, result, natural, language, processing, NLP, operation, API, version, 57.0, later, SOAP, Calls, REST]
 ---

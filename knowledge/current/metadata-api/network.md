@@ -5,7 +5,7 @@ topic: network
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:40.878Z
+lastCollected: 2026-04-07T07:46:08.481Z
 estimatedTokens: 9799
 keywords: [Network, Experience, Cloud, site, Salesforce, lets, branded, spaces, employees, customers, partners, customize, experiences, whether, they’re]
 ---

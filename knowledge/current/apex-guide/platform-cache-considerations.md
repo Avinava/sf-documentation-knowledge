@@ -5,7 +5,7 @@ topic: platform-cache-considerations
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:33.775Z
+lastCollected: 2026-04-07T07:38:43.707Z
 estimatedTokens: 630
 keywords: [Platform, Cache, Considerations, Review, working]
 ---

@@ -5,7 +5,7 @@ topic: httpput-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.514Z
+lastCollected: 2026-04-07T07:38:41.681Z
 estimatedTokens: 81
 keywords: [HttpPut, Annotation, @HttpPut, level, expose, Apex, REST, resource, HTTP, PUT, sent, creates, updates]
 ---

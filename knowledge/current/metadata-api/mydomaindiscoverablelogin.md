@@ -5,8 +5,8 @@ topic: mydomaindiscoverablelogin
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.761Z
-estimatedTokens: 612
+lastCollected: 2026-04-07T07:46:08.353Z
+estimatedTokens: 570
 keywords: [MyDomainDiscoverableLogin, configuration, settings, Domain, login, Discovery, identity-first, experience, identifier, entered, handler, determines, how, authenticate, user]
 ---
 
@@ -16,12 +16,11 @@ keywords: [MyDomainDiscoverableLogin, configuration, settings, Domain, login, Di
       login page type is Discovery. Login Discovery provides an identity-first login experience,
       where the login page contains the identifier field only. Based on the identifier entered, a
       handler determines how to authenticate the user.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # MyDomainDiscoverableLogin
 
-Represents the configuration settings when the My Domain login page type is Discovery. Login Discovery provides an identity-first login experience, where the login page contains the identifier field only. Based on the identifier entered, a handler determines how to authenticate the user. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the configuration settings when the My Domain login page type is Discovery. Login Discovery provides an identity-first login experience, where the login page contains the identifier field only. Based on the identifier entered, a handler determines how to authenticate the user. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -85,5 +84,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

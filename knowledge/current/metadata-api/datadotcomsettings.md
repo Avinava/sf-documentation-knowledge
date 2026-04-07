@@ -5,20 +5,19 @@ topic: datadotcomsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.168Z
-estimatedTokens: 463
+lastCollected: 2026-04-07T07:46:05.255Z
+estimatedTokens: 421
 keywords: [DataDotComSettings, org's, Data.com, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # DataDotComSettings
 
 > Represents the org's Data.com settings.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # DataDotComSettings
 
-Represents the org's Data.com settings. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the org's Data.com settings. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -78,7 +77,3 @@ The following is an example package.xml that references the previous definition.
 	<version>29.0</version>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

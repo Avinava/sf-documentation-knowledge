@@ -5,7 +5,7 @@ topic: share-a-feed-element-in-version-390-and-later
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.398Z
+lastCollected: 2026-04-07T07:38:44.757Z
 estimatedTokens: 87
 keywords: [Share, Feed, Element, Version, 39.0, Later, Call]
 ---

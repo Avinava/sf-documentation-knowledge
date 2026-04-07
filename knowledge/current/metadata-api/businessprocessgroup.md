@@ -5,7 +5,7 @@ topic: businessprocessgroup
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.246Z
+lastCollected: 2026-04-07T07:46:04.112Z
 estimatedTokens: 853
 keywords: [BusinessProcessGroup, surveys, track, customers’, experiences, across, different, stages, their, lifecycle, extends, Metadata, inherits, fullName, File]
 ---

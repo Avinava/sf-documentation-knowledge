@@ -5,7 +5,7 @@ topic: metadata-api-edit-access
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.623Z
+lastCollected: 2026-04-07T07:46:08.186Z
 estimatedTokens: 430
 keywords: [Metadata, API, Edit, Access, user, things]
 ---

@@ -5,7 +5,7 @@ topic: define-an-action-link-in-a-template-and-post-with-a-feed-element
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.305Z
+lastCollected: 2026-04-07T07:38:44.577Z
 estimatedTokens: 613
 keywords: [Define, Action, Link, Template, Post, Feed, Element, group, instantiate, Step, Templates, Associate, Item]
 ---

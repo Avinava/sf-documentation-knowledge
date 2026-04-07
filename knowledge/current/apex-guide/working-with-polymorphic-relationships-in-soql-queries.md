@@ -5,7 +5,7 @@ topic: working-with-polymorphic-relationships-in-soql-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.481Z
+lastCollected: 2026-04-07T07:38:44.887Z
 estimatedTokens: 842
 keywords: [Working, Polymorphic, Relationships, SOQL, Queries, relationship, objects, referenced, several, different, Task, Contact, Lead]
 ---

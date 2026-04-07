@@ -5,8 +5,8 @@ topic: upserting-records
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.629Z
-estimatedTokens: 801
+lastCollected: 2026-04-07T07:38:45.150Z
+estimatedTokens: 767
 keywords: [Upserting, Records, Custom, matching, case-insensitive, Unique, Treat, ABC, duplicate, case, insensitive, attributes, selected, part, definition]
 ---
 
@@ -15,8 +15,7 @@ keywords: [Upserting, Records, Custom, matching, case-insensitive, Unique, Treat
 > Custom field matching is case-insensitive only if the custom field has the
                Unique and Treat "ABC" and "abc" as duplicate
                values (case insensitive) attributes selected as part of the field
-            definition. If this is the case, “ABC123” is matched with
-            
+            definition. If this is the case, “ABC123” is matched with “abc123.”
 
 # Upserting Records
 
@@ -30,7 +29,7 @@ Using the upsert operation, you can either insert or update an existing record i
 
 #### Note
 
-Custom field matching is case-insensitive only if the custom field has the **Unique** and **Treat "ABC" and "abc" as duplicate values (case insensitive)** attributes selected as part of the field definition. If this is the case, “ABC123” is matched with “abc123.” For more information, see [Create Custom Fields](https://help.salesforce.com/apex/HTViewHelpDoc?id=adding_fields.htm&language=en_US).
+Custom field matching is case-insensitive only if the custom field has the **Unique** and **Treat "ABC" and "abc" as duplicate values (case insensitive)** attributes selected as part of the field definition. If this is the case, “ABC123” is matched with “abc123.”
 
 ## Examples
 

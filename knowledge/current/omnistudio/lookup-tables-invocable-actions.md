@@ -5,7 +5,7 @@ topic: lookup-tables-invocable-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:50.490Z
+lastCollected: 2026-04-07T07:38:53.834Z
 estimatedTokens: 290
 keywords: [Lookup, Tables, Invocable, Actions, invoke, flow]
 ---

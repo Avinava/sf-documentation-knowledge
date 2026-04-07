@@ -5,7 +5,7 @@ topic: clause-versions-bulk-update-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:47.846Z
+lastCollected: 2026-04-07T07:38:49.537Z
 estimatedTokens: 336
 keywords: [Clause, Versions, Bulk, POST, Asynchronously, status, regulation, version, policy, API, supports, updating, maximum, clauses, time]
 ---

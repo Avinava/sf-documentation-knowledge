@@ -5,7 +5,7 @@ topic: communitytemplatedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.561Z
+lastCollected: 2026-04-07T07:46:04.556Z
 estimatedTokens: 1340
 keywords: [CommunityTemplateDefinition, definition, Experience, Builder, site, template, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---

@@ -5,7 +5,7 @@ topic: flowdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.545Z
+lastCollected: 2026-04-07T07:46:06.909Z
 estimatedTokens: 671
 keywords: [FlowDefinition, flow, definition’s, active, version, number, Declarative, Metadata, File, Suffix, Directory, Location, Wildcard, Support, Manifest]
 ---

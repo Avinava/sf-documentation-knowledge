@@ -5,7 +5,7 @@ topic: extlclntappsamlconfigurablepolicies
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:39.397Z
+lastCollected: 2026-04-07T07:46:06.723Z
 estimatedTokens: 2545
 keywords: [ExtlClntAppSamlConfigurablePolicies, SAML, configuration, policies, external, client, app, configure, Salesforce, identity, provider, sign-on, SSO, users, log]
 ---

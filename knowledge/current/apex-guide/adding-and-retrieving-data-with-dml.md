@@ -5,7 +5,7 @@ topic: adding-and-retrieving-data-with-dml
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:34.653Z
+lastCollected: 2026-04-07T07:38:45.190Z
 estimatedTokens: 524
 keywords: [Adding, Retrieving, Data, DML, Apex, tightly, integrated, Lightning, Platform, persistence, layer, Records, database, inserted, manipulated]
 ---

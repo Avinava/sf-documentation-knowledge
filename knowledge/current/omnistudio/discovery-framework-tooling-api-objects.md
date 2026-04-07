@@ -5,7 +5,7 @@ topic: discovery-framework-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.745Z
+lastCollected: 2026-04-07T07:38:52.719Z
 estimatedTokens: 321
 keywords: [Discovery, Framework, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---

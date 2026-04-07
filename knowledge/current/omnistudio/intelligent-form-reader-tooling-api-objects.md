@@ -5,7 +5,7 @@ topic: intelligent-form-reader-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:51.313Z
+lastCollected: 2026-04-07T07:38:54.842Z
 estimatedTokens: 720
 keywords: [Intelligent, Form, Reader, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow]
 ---

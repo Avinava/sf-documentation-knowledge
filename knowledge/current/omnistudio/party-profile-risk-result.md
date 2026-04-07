@@ -5,7 +5,7 @@ topic: party-profile-risk-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.223Z
+lastCollected: 2026-04-07T07:38:51.818Z
 estimatedTokens: 470
 keywords: [Party, Profile, Risk, Result, Output, representation]
 ---

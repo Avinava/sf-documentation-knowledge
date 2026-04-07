@@ -5,7 +5,7 @@ topic: audience
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.891Z
+lastCollected: 2026-04-07T07:46:03.696Z
 estimatedTokens: 2860
 keywords: [Audience, Experience, Builder, site, consists, different, criteria, assigned, targeting, extends, Metadata, inherits, fullName, File, Suffix]
 ---
@@ -65,7 +65,7 @@ Represents a criterion for an audience.
 | --- | --- | --- |
 | criteriaNumber | int | The number associated with the criterion in a formula, for example (1 AND 2) OR 3. This field is available in API version 45.0 and later. |
 | criterionValue | AudienceCriteriaValue | The value of the criterion. |
-| operator | AudienceCriterion​Operator(enumeration of type string) | The operator associated with this criterion. Valid values are:EqualNotEqualGreaterThanGreaterThanOrEqualLessThanLessThanOrEqualContainsStartsWithIncludes (available in API version 45.0 and later)NotIncludes (available in API version 45.0 and later) |
+| operator | AudienceCriterionOperator(enumeration of type string) | The operator associated with this criterion. Valid values are:EqualNotEqualGreaterThanGreaterThanOrEqualLessThanLessThanOrEqualContainsStartsWithIncludes (available in API version 45.0 and later)NotIncludes (available in API version 45.0 and later) |
 | type | AudienceCriterion​Type(enumeration of type string) | Required. Valid values are:GeoLocationDomainProfileFieldBasedPermission (available in API version 45.0 and later)Default (available in API version 47.0 and later)Audience (available in API version 53.0 and later)For a list of AudienceCriteriaValue fields that you can use with each AudienceCriterion type field value, see this table. |
 
 ## AudienceCriteriaValue

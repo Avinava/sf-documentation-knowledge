@@ -5,7 +5,7 @@ topic: actionable-list-metadata-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:48.112Z
+lastCollected: 2026-04-07T07:38:49.958Z
 estimatedTokens: 322
 keywords: [Actionable, Metadata, Retrieve, member, statuses, count, members, status, quick, action]
 ---

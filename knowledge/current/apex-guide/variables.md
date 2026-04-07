@@ -5,7 +5,7 @@ topic: variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.779Z
+lastCollected: 2026-04-07T07:38:45.447Z
 estimatedTokens: 1056
 keywords: [Variables, Local, declared, Java-style, Variable, Naming, Rules, Initial, Scope, Case, Sensitivity]
 ---

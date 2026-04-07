@@ -5,7 +5,7 @@ topic: add-an-apex-trigger
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.880Z
+lastCollected: 2026-04-07T07:38:43.871Z
 estimatedTokens: 676
 keywords: [Add, Apex, Trigger, step, Book__c, custom, calls, applyDiscount, MyHelloWorld, created, previous]
 ---

@@ -5,7 +5,7 @@ topic: compliance-procedure-evaluation-info-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:47.140Z
+lastCollected: 2026-04-07T07:38:48.436Z
 estimatedTokens: 203
 keywords: [Compliance, Procedure, Evaluation, Info, Input, representation, evaluating]
 ---

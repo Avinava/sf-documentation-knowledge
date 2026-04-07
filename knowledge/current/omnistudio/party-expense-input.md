@@ -5,7 +5,7 @@ topic: party-expense-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.540Z
+lastCollected: 2026-04-07T07:38:49.075Z
 estimatedTokens: 345
 keywords: [Party, Expense, Input, representation]
 ---

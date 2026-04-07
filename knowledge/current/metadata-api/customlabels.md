@@ -5,7 +5,7 @@ topic: customlabels
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.970Z
+lastCollected: 2026-04-07T07:46:05.028Z
 estimatedTokens: 1228
 keywords: [CustomLabels, metadata, custom, labels, localized, different, languages, countries, currencies, Declarative, File, Suffix, Directory, Location, Version]
 ---

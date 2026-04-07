@@ -5,7 +5,7 @@ topic: trigger-context-variables
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:34.158Z
+lastCollected: 2026-04-07T07:38:44.329Z
 estimatedTokens: 987
 keywords: [Trigger, Context, Variables, triggers, define, implicit, allow, developers, access, run-time, contained, System.Trigger]
 ---

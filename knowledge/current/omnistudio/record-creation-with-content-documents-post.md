@@ -1,20 +1,16 @@
 ---
-title: "Record Creation with Content
-    Documents
-    (POST)"
+title: "Record Creation with Content Documents (POST)"
 domain: omnistudio
 topic: record-creation-with-content-documents-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:47.937Z
+lastCollected: 2026-04-07T07:38:49.692Z
 estimatedTokens: 555
 keywords: [Record, Creation, Content, Documents, POST, records, Salesforce, objects, document]
 ---
 
-# Record Creation with Content
-    Documents
-    (POST)
+# Record Creation with Content Documents (POST)
 
 > Create records in Salesforce objects using a document based on a
       content document record.

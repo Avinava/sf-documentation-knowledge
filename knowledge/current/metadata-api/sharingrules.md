@@ -5,7 +5,7 @@ topic: sharingrules
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.219Z
+lastCollected: 2026-04-07T07:46:10.140Z
 estimatedTokens: 3379
 keywords: [SharingRules, base, container, sharing, rules, criteria-based, ownership-based, territory-based, guest, user, access, share, records, users, specify]
 ---

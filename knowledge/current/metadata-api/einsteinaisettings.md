@@ -5,8 +5,8 @@ topic: einsteinaisettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.764Z
-estimatedTokens: 815
+lastCollected: 2026-04-07T07:46:05.975Z
+estimatedTokens: 800
 keywords: [EinsteinAISettings, Einstein, settings, including, feedback, integration, Data, PII, masking, trust, features, Parent, Manifest, Access, File]
 ---
 
@@ -44,8 +44,7 @@ There are no additional access requirements that are specific to this type.
 | enableAIFeedbackWithDC | Field TypebooleanDescriptionIndicates whether AI feedback integration with Data 360 is enabled (true) or not (false). Available in API version 60.0 and later. |
 | enableAITrustInputToxicityDetection | Reserved for internal use. |
 | enableAITrustPromptInjectionDetection | Reserved for internal use. |
-| enablePBHideScopedNotif | Reserved for internal use. |
-| enablePBPromptPerformanceMetrics | Reserved for internal use. |
+| enableAgentHealthMonitoringGA | Reserved for internal use. |
 | enableTrustPIIMasking | Field TypebooleanDescriptionIndicates whether PII (Personally Identifiable Information) masking for AI trust features is enabled (true) or not (false). Available in API version 60.0 and later. |
 
 ## Declarative Metadata Sample Definition

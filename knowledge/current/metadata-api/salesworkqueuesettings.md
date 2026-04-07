@@ -5,8 +5,8 @@ topic: salesworkqueuesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.958Z
-estimatedTokens: 690
+lastCollected: 2026-04-07T07:46:09.830Z
+estimatedTokens: 648
 keywords: [SalesWorkQueueSettings, settings, customize, work, queue, options, third-party, scoring, Sales, Engagement, add, custom, number, person, accounts]
 ---
 
@@ -15,12 +15,11 @@ keywords: [SalesWorkQueueSettings, settings, customize, work, queue, options, th
 > Represents settings used to customize work queue options for third-party
       scoring. In Sales Engagement, you can add a custom number field on person accounts,
       contacts, or leads. Then, use the custom number field to sort the work queue.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # SalesWorkQueueSettings
 
-Represents settings used to customize work queue options for third-party scoring. In Sales Engagement, you can add a custom number field on person accounts, contacts, or leads. Then, use the custom number field to sort the work queue. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents settings used to customize work queue options for third-party scoring. In Sales Engagement, you can add a custom number field on person accounts, contacts, or leads. Then, use the custom number field to sort the work queue. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -88,5 +87,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

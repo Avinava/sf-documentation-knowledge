@@ -5,7 +5,7 @@ topic: impactstrategy
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:51.387Z
+lastCollected: 2026-04-07T07:38:54.970Z
 estimatedTokens: 838
 keywords: [ImpactStrategy, high-level, strategy, affect, change, individual, population, stakeholder, environment, API, version, 59.0, later, Calls, Special]
 ---

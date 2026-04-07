@@ -5,7 +5,7 @@ topic: get-repository-folder-items
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.344Z
+lastCollected: 2026-04-07T07:38:44.659Z
 estimatedTokens: 137
 keywords: [Repository, Folder, Items, Call, collection]
 ---

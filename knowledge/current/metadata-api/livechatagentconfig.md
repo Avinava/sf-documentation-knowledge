@@ -5,7 +5,7 @@ topic: livechatagentconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.412Z
+lastCollected: 2026-04-07T07:46:07.935Z
 estimatedTokens: 2018
 keywords: [LiveChatAgentConfig, configuration, organization’s, Chat, deployment, how, chats, assigned, agent, whether, sounds, enabled, File, Suffix, Directory]
 ---

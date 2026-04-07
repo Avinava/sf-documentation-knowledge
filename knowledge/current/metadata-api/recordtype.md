@@ -5,7 +5,7 @@ topic: recordtype
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:41.705Z
+lastCollected: 2026-04-07T07:46:09.521Z
 estimatedTokens: 1409
 keywords: [RecordType, metadata, associated, record, let, offer, different, business, processes, picklist, layouts, users, definitions, custom, Version]
 ---

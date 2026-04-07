@@ -5,7 +5,7 @@ topic: cmplvalidationprocedure
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:52.222Z
+lastCollected: 2026-04-07T07:38:56.220Z
 estimatedTokens: 672
 keywords: [CmplValidationProcedure, Group, Compliance, test, business, process, actions, API, version, 65.0, later, Calls, Associated, Objects]
 ---

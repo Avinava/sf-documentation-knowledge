@@ -5,8 +5,8 @@ topic: experiencebundlesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.102Z
-estimatedTokens: 762
+lastCollected: 2026-04-07T07:46:06.376Z
+estimatedTokens: 720
 keywords: [ExperienceBundleSettings, org, setting, ExperienceBundle, metadata, Aura, sites, Experience, Cloud, doesn’t, affect, LWR, extends, inherits, fullName]
 ---
 
@@ -14,12 +14,11 @@ keywords: [ExperienceBundleSettings, org, setting, ExperienceBundle, metadata, A
 
 > Represents the org setting that enables the ExperienceBundle
       metadata type for Aura sites in Experience Cloud. The setting doesn’t affect LWR sites, which
-      use ExperienceBundle by default. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      use ExperienceBundle by default. This type extends the Metadata metadata type and inherits its fullName field.
 
 # ExperienceBundleSettings
 
-Represents the org setting that enables the ExperienceBundle metadata type for Aura sites in Experience Cloud. The setting doesn’t affect LWR sites, which use ExperienceBundle by default. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the org setting that enables the ExperienceBundle metadata type for Aura sites in Experience Cloud. The setting doesn’t affect LWR sites, which use ExperienceBundle by default. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
 
@@ -67,7 +66,6 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
 - ExperienceBundle (atlas.en-us.api_meta.meta/api_meta/meta_experiencebundle.htm)

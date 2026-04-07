@@ -5,7 +5,7 @@ topic: salesforce-knowledge
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:33.478Z
+lastCollected: 2026-04-07T07:38:43.230Z
 estimatedTokens: 327
 keywords: [Salesforce, Knowledge, base, users, easily, manage, content, known, articles, quickly, view, they]
 ---

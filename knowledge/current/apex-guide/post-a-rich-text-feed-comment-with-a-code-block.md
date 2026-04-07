@@ -5,7 +5,7 @@ topic: post-a-rich-text-feed-comment-with-a-code-block
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.360Z
+lastCollected: 2026-04-07T07:38:44.690Z
 estimatedTokens: 110
 keywords: [Post, Rich-Text, Feed, Comment, Code, Block, Call]
 ---

@@ -5,7 +5,7 @@ topic: documentreader-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.915Z
+lastCollected: 2026-04-07T07:38:48.050Z
 estimatedTokens: 1069
 namespace: DocumentReader
 keywords: [DocumentReader, classes, storing, output, Intelligent, Document, Reader, flow, actions, Apex, store, text, extracted, uploaded, documents]

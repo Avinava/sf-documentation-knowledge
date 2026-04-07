@@ -5,7 +5,7 @@ topic: custom-metadata-types-customobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.993Z
+lastCollected: 2026-04-07T07:46:05.058Z
 estimatedTokens: 1336
 namespace: CustomMetadata
 keywords: [Custom, Metadata, CustomObject, associated, File, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative, Sample, Definition]

@@ -5,7 +5,7 @@ topic: actionable-lists-assigned-to-an-agent-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:48.114Z
+lastCollected: 2026-04-07T07:38:49.962Z
 estimatedTokens: 115
 keywords: [Actionable, Assigned, Agent, Retrieve, querying]
 ---

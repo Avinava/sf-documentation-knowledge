@@ -5,7 +5,7 @@ topic: metadata-api-release-notes
 apiVersion: 67.0
 release: summer-26-v67
 docType: release-note
-lastCollected: 2026-03-12T09:33:41.937Z
+lastCollected: 2026-04-07T07:46:09.800Z
 estimatedTokens: 142
 keywords: [Metadata, API, Release, Notes, Salesforce, recent, updates, changes]
 ---

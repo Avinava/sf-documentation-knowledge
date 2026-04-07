@@ -5,7 +5,7 @@ topic: deploy-apex-using-tooling-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:33.233Z
+lastCollected: 2026-04-07T07:38:42.903Z
 estimatedTokens: 230
 keywords: [Deploy, Apex, Tooling, API, classes, triggers, Because, change, element, complex, easy]
 ---

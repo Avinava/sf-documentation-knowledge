@@ -5,7 +5,7 @@ topic: busoperprocparticipant
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:52.101Z
+lastCollected: 2026-04-07T07:38:56.053Z
 estimatedTokens: 779
 keywords: [BusOperProcParticipant, Compliant, Data, Sharing, participant, user, group, whom, business, operations, process, shared, API, version, 66.0]
 ---

@@ -5,8 +5,8 @@ topic: eacsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:38.744Z
-estimatedTokens: 1803
+lastCollected: 2026-04-07T07:46:05.943Z
+estimatedTokens: 1761
 keywords: [EACSettings, Einstein, Activity, Capture, metadata, add, emails, events, Microsoft, Google, account, timeline, Salesforce, records, Automatically]
 ---
 
@@ -15,12 +15,11 @@ keywords: [EACSettings, Einstein, Activity, Capture, metadata, add, emails, even
 > Represents the Einstein Activity Capture metadata type.
     Use Einstein Activity Capture to add emails and events from your Microsoft or Google account to
     the activity timeline of related Salesforce records. Automatically sync contact and event data
-    between your Microsoft or Google account and Salesforce. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    between your Microsoft or Google account and Salesforce. This type extends the Metadata metadata type and inherits its fullName field.
 
 # EACSettings
 
-Represents the Einstein Activity Capture metadata type. Use Einstein Activity Capture to add emails and events from your Microsoft or Google account to the activity timeline of related Salesforce records. Automatically sync contact and event data between your Microsoft or Google account and Salesforce. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the Einstein Activity Capture metadata type. Use Einstein Activity Capture to add emails and events from your Microsoft or Google account to the activity timeline of related Salesforce records. Automatically sync contact and event data between your Microsoft or Google account and Salesforce. This type extends the Metadata metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -106,6 +105,5 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

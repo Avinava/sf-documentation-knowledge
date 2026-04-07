@@ -5,8 +5,8 @@ topic: set-up-governor-limit-email-warnings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.534Z
-estimatedTokens: 472
+lastCollected: 2026-04-07T07:38:43.302Z
+estimatedTokens: 576
 keywords: [Governor, Limit, Email, Warnings, specify, users, organization, receive, notification, they, invoke, Apex, code, surpasses, 50%]
 ---
 
@@ -21,6 +21,12 @@ keywords: [Governor, Limit, Email, Warnings, specify, users, organization, recei
 # Set Up Governor Limit Email Warnings
 
 You can specify users in your organization to receive an email notification when they invoke Apex code that surpasses 50% of allocated governor limits. Only per-request limits are checked for sending email warnings; per-org limits like concurrent long-running requests are not checked. These email notifications do not count against the daily single email limit.
+
+![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=apexcode)
+
+#### Important
+
+System-generated emails from an unverified email-sending domain aren’t delivered, even if the From email address is verified. See [Requirements to Send Email from Salesforce](https://help.salesforce.com/s/articleView?id=xcloud.security_email_verification_requirements.htm&language=en_US&type=5).
 
 1.  Log in to Salesforce as an administrator user.
 2.  From Setup, enter Users in the Quick Find box, then select **Users**.

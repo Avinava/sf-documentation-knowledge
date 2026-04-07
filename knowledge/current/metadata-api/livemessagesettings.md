@@ -5,7 +5,7 @@ topic: livemessagesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.446Z
+lastCollected: 2026-04-07T07:46:07.980Z
 estimatedTokens: 526
 keywords: [LiveMessageSettings, org’s, LiveMessage, settings, Version, File, Suffix, Directory, Location, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

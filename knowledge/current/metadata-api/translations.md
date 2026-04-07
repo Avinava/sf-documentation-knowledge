@@ -5,7 +5,7 @@ topic: translations
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:42.606Z
+lastCollected: 2026-04-07T07:46:10.618Z
 estimatedTokens: 13121
 keywords: [Translations, Metadata, work, various, languages, ability, translate, component, labels, part, Translation, Workbench, Language, Declarative, File]
 ---
@@ -754,13 +754,13 @@ ReportTypeColumnTranslation contains details for a report type column translatio
 
 ## ScontrolTranslation
 
+ScontrolTranslation contains details for a translation of an s-control. For more information, see “About S-Controls” in Salesforce Help.
+
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
 #### Important
 
 Visualforce pages supersede s-controls. Organizations that haven't previously used s-controls can’t create them. Existing s-controls are unaffected and can still be edited.
-
-ScontrolTranslation contains details for a translation of an s-control. For more information, see “About S-Controls” in Salesforce Help.
 
 | Field | Field Type | Description |
 | --- | --- | --- |

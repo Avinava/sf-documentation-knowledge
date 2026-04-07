@@ -5,7 +5,7 @@ topic: externalclientapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:39.207Z
+lastCollected: 2026-04-07T07:46:06.502Z
 estimatedTokens: 753
 keywords: [ExternalClientApplication, file, external, client, application, configuration, Parent, Suffix, Directory, Location, Version, Special, Access, Rules, Declarative]
 ---

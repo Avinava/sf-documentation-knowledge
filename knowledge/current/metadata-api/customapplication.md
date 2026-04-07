@@ -5,8 +5,8 @@ topic: customapplication
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:37.930Z
-estimatedTokens: 7883
+lastCollected: 2026-04-07T07:46:04.971Z
+estimatedTokens: 7760
 namespace: PackageApp
 keywords: [CustomApplication, custom, standard, application, API, version, 29.0, earlier, tab, references, logo, extends, Metadata, inherits, fullName]
 ---
@@ -62,7 +62,7 @@ Custom applications are available in API version 10.0 and later. Standard applic
 | tabs | string[] | The list of tabs included in this application. In API version 12.0, the fullName for built-in tabs like Home, Account, and Reports, is the name of the tab (Home, for example). In API version 13.0 and later, built-in tabs are prefixed with standard-. For example, to reference the Account tab you would use standard-Account.In API version 42.0, this field was renamed from tab to tabs. |
 | uiType | UiType (enumeration of type string) | Not updateable. Identifies the type of custom app. The value is:Aloha for Salesforce ClassicLightning for Lightning ExperienceThis field is available in API version 38.0 and later. |
 | utilityBar | string | The developer name of the utility bar associated with this app.We recommend assigning a utility bar to only one Lightning App, because utility bars are shared. Sharing means that if you change the utility bar in one app, it automatically changes in all apps associated with it.This field is available in API version 38.0 and later. |
-| workspaceConfig | AppWorkspaceConfig | Represents how records open in a Salesforce console app. Required if isServiceCloudConsole is true. In API version 42.0, this field was renamed to workspaceConfig from workspaceMappings. |
+| workspaceConfig | AppWorkspaceConfig | isServiceCloudConsole is true.Represents how records open in a Salesforce console app. Required if workspaceConfig from workspaceMappings. |
 
 ## AppActionOverride
 
@@ -84,8 +84,8 @@ The color scheme and logo used for the app. Available for Lightning apps in API 
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
-| footerColor | string | Optional. Determines the footer color in the app. Specify the color with a hexadecimal code, such as #0000FF for blue. |
-| headerColor | string | Optional. Determines the header color in the app. Specify the color with a hexadecimal code, such as #0000FF for blue. |
+| footerColor | string | Optional. Specify the color with a hexadecimal code, such as #0000FF for blue.Determines the footer color in the app. |
+| headerColor | string | Optional. Specify the color with a hexadecimal code, such as #0000FF for blue.Determines the header color in the app. |
 | logo | string | The optional reference to the image document for the application. |
 | logoVersion | int | An optional version number for the logo. |
 | shouldOverrideOrgTheme | boolean | Indicates whether to override the global theme for the org. When true, the color scheme and logo that the user has set are used. When false, the global theme for the org is used, even if the user has set a color scheme and logo. |
@@ -135,7 +135,7 @@ Represents how records open in a Salesforce console app. Required if isServiceCl
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
-| mappings | WorkspaceMappingSingle[] | Represents how records for a specific tab open in a Salesforce console app. Required for each tab specified in the CustomApplication. In API version 42.0, this field was renamed from workspaceMapping to mappings. |
+| mappings | WorkspaceMappingSingle[] | Represents how records for a specific tab open in a Salesforce console app. Required for each tab specified in the CustomApplication.workspaceMapping to mappings. |
 
 ## WorkspaceMapping
 
@@ -166,7 +166,7 @@ Represents default keyboard shortcuts assigned to a Salesforce console app. Afte
 | --- | --- | --- |
 | action | string | Required. The action performed in the console when a user presses the keyboard shortcut. Valid values are:FOCUS_CONSOLEFOCUS_NAVIGATOR_TABFOCUS_DETAIL_VIEWFOCUS_PRIMARY_TAB_PANELFOCUS_SUBTAB_PANELFOCUS_LIST_VIEWFOCUS_FIRST_LIST_VIEWFOCUS_SEARCH_INPUTMOVE_LEFTMOVE_RIGHTUP_ARROWDOWN_ARROWOPEN_TAB_SCROLLER_MENUOPEN_TABCLOSE_TABENTEREDITSAVE |
 | active | boolean | Required. Indicates whether the keyboard shortcut is active (true) or not (false). |
-| keyCommand | string | Required. The combination of keys a user presses to trigger the keyboard shortcut. Keyboard shortcuts aren’t case-sensitive, but they display as uppercase on setup pages in the Salesforce user interface so that they’re easier to read.Each key command can include up to four modifier keys followed by one non-modifier key. Modifier and non-modifier keys are separated by the + key. Modifier keys can occur in any order, but you must place non-modifier keys at the end of the key command sequence. For example, SHIFT+CTRL+ALT+META +A.Valid modifier keys are:Valid non-modifier keys are letters A through Z and numbers 0 through 9. Other valid keys are: |
+| keyCommand | string | Each key command can include up to four modifier keys followed by one non-modifier key. Modifier and non-modifier keys are separated by the + key. Modifier keys can occur in any order, but you must place non-modifier keys at the end of the key command sequence. For example, SHIFT+CTRL+ALT+META +A. |
 
 ## KeyboardShortcuts
 
@@ -174,7 +174,7 @@ Represents keyboard shortcuts assigned to a Salesforce console app. Required if 
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
-| customShortcuts | CustomShortcut[] | Represents custom keyboard shortcuts assigned to a Salesforce console app in Salesforce Classic. Before you can create custom shortcuts, a developer must define the shortcut’s action with the addEventListener() method in the Salesforce Console Integration Toolkit. You can’t create keyboard shortcuts for actions performed outside of the console.In API version 42.0, this field was renamed from customShortcut to customShortcuts. |
+| customShortcuts | CustomShortcut[] | addEventListener() method in the Salesforce Console Integration Toolkit. You can’t create keyboard shortcuts for actions performed outside of the console.Represents custom keyboard shortcuts assigned to a Salesforce console app in Salesforce Classic. Before you can create custom shortcuts, a developer must define the shortcut’s action with the In API version 42.0, this field was renamed from customShortcut to customShortcuts. |
 | defaultShortcuts | DefaultShortcut[] | Represents default keyboard shortcuts assigned to a Salesforce console app. After you enable keyboard shortcuts for a console, several default shortcuts are available for customization. These include opening and closing tabs, moving between tabs, and saving records.In API version 42.0, this field was renamed from defaultShortcut to defaultShortcuts. |
 
 ## ListPlacement
@@ -221,7 +221,7 @@ Represents configuration settings for a Salesforce console app. Available in API
 | componentList | AppComponentList | Represents custom console components (Visualforce pages) assigned to a Salesforce console app. |
 | detailPageRefreshMethod | string | Determines how detail pages refresh in a Salesforce console app. Required if isServiceCloudConsole is true. The valid values are:noneautoRefreshflag |
 | footerColor | string | Determines the footer color in a Salesforce console app. Specify the color with a hexadecimal code, such as #0000FF for blue. |
-| headerColor | string | Determines the header color in a Salesforce console app. Specify the color with a hexadecimal code, such as #0000FF for blue. |
+| headerColor | string | Specify the color with a hexadecimal code, such as #0000FF for blue.Determines the header color in a Salesforce console app. |
 | keyboardShortcuts | KeyboardShortcuts | Represents the keyboard shortcuts for a Salesforce console app. Keyboard shortcuts let users perform actions by pressing a combination of keys instead of having to use a mouse. |
 | listPlacement | ListPlacement | Represents how lists display in a Salesforce console app. Required if isServiceCloudConsole is true. |
 | listRefreshMethod | string | Determines how lists refresh in a Salesforce console app. Required if isServiceCloudConsole is true. The valid values are:nonerefreshListrefreshListRows |
@@ -233,7 +233,7 @@ Represents configuration settings for a Salesforce console app. Available in API
 
 ## TabLimitConfig
 
-Represents the maximum number of primary tabs and subtabs allowed in one Salesforce console session. Required if enableTabLimits is true. Available in API version 36.0 and later.
+Represents the maximum number of primary tabs and subtabs allowed in one Salesforce console session. Required if enableTabLimits is true.
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |

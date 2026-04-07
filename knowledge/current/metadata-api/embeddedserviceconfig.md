@@ -5,7 +5,7 @@ topic: embeddedserviceconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:38.859Z
+lastCollected: 2026-04-07T07:46:06.083Z
 estimatedTokens: 3851
 keywords: [EmbeddedServiceConfig, setup, node, creating, Embedded, Service, Web, deployment, extends, Metadata, inherits, fullName, Parent, File, Suffix]
 ---

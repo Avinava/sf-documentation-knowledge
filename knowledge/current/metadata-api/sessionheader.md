@@ -5,7 +5,7 @@ topic: sessionheader
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.160Z
+lastCollected: 2026-04-07T07:46:10.063Z
 estimatedTokens: 127
 keywords: [SessionHeader, session, login, call, authenticate, subsequent, Metadata, API, calls, Version, Sample, Code—Java]
 ---

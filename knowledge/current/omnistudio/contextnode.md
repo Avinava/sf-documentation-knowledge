@@ -5,7 +5,7 @@ topic: contextnode
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.049Z
+lastCollected: 2026-04-07T07:38:57.330Z
 estimatedTokens: 621
 keywords: [ContextNode, structure, nodes, context, node, attributes, describe, hierarchy, defined, API, version, 59.0, later, SOAP, Calls]
 ---

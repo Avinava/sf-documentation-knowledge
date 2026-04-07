@@ -5,7 +5,7 @@ topic: digitalexperiencebundle-marketing-workspace-bundle-and-folders
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.541Z
+lastCollected: 2026-04-07T07:46:05.700Z
 estimatedTokens: 1251
 keywords: [DigitalExperienceBundle, Marketing, Workspace, Bundle, Folders, uses, organize, content, items, campaigns, content-focused, text-based, code, structure, sfdc]
 ---

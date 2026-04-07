@@ -5,8 +5,8 @@ topic: restrictionrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.896Z
-estimatedTokens: 730
+lastCollected: 2026-04-07T07:46:09.747Z
+estimatedTokens: 690
 keywords: [RestrictionRule, restriction, rule, scoping, enforcementType, Restrict, access, users, designated, records, restricting, extends, Metadata, inherits, fullName]
 ---
 
@@ -15,12 +15,11 @@ keywords: [RestrictionRule, restriction, rule, scoping, enforcementType, Restric
 > Represents a restriction rule or a scoping rule. A
       restriction rule has enforcementType set to Restrict and controls the access that specified users have to designated records.
       A scoping rule has enforcementType set to Scoping and controls the default records that your users see without restricting
-      access. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      access. This type extends the Metadata metadata type and inherits its fullName field.
 
 # RestrictionRule
 
-Represents a restriction rule or a scoping rule. A restriction rule has enforcementType set to Restrict and controls the access that specified users have to designated records. A scoping rule has enforcementType set to Scoping and controls the default records that your users see without restricting access. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents a restriction rule or a scoping rule. A restriction rule has enforcementType set to Restrict and controls the access that specified users have to designated records. A scoping rule has enforcementType set to Scoping and controls the default records that your users see without restricting access. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -49,7 +48,7 @@ Only users with the View Restriction and Scoping Rules permission can view restr
 | enforcementType | EnforcementType (enumeration of type string) | Required. The type of rule. Valid values are:FieldRestrict—Don’t use.Restrict—Restriction rule.Scoping—Scoping rule. |
 | masterLabel | string | Required. The name of the rule. |
 | recordFilter | string | Required. The criteria that determine which records are accessible via the rule. |
-| targetEntity | string | Required. The object for which you're creating the rule. We recommend that you don’t edit this field after the rule is created.If enforcementType is set to Restrict, custom objects, external objects, and these objects are supported:ContractEventTaskTimeSheetTimeSheetEntryIf enforcementType is set to Scoping, custom objects and these objects are supported:AccountCaseContactEventLeadOpportunityTask |
+| targetEntity | string | Required. The object for which you're creating the rule. We recommend that you don’t edit this field after the rule is created.If enforcementType is set to Restrict, custom objects, external objects, and these objects are supported:ContractEventQuoteTaskTimeSheetTimeSheetEntryIf enforcementType is set to Scoping, custom objects and these objects are supported:AccountCaseContactEventLeadOpportunityTask |
 | userCriteria | string | Required. The users that this rule applies to, such as all active users or users with a specified role or profile. |
 | version | int | Required. The rule's version number. |
 
@@ -113,7 +112,3 @@ The following is an example package.xml that references the previous definition.
     <version>55.0</version>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

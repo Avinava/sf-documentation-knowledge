@@ -5,8 +5,8 @@ topic: update
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.720Z
-estimatedTokens: 1834
+lastCollected: 2026-04-07T07:46:10.745Z
+estimatedTokens: 1832
 keywords: [Deprecated, Updates, components, organization, asynchronously, call, removed, API, version, 31.0, earlier, versions, updateMetadata, renameMetadata, instead]
 ---
 
@@ -79,7 +79,7 @@ Use this process to update metadata components:
 
 ## UpdateMetadata
 
-One or more UpdateMetadata objects are defined in the metadata argument. This object can be used to update any of the objects that extend [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type."). For more details, see [Metadata Components and Types](atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm "Metadata components are not based on sObjects, like objects in the API. Instead, they are based on metadata types, such as ApexClass and CustomObject, which extend Metadata, the base class for all metadata types. A component is an instance of a metadata type."). Each UpdateMetadata object has the following fields:
+One or more UpdateMetadata objects are defined in the metadata [argument. This object can be used to update any of the objects that extend](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") . For more details, see [Metadata Components and Types](atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm "Metadata components are not based on sObjects, like objects in the API. Instead, they are based on metadata types, such as ApexClass and CustomObject, which extend Metadata, the base class for all metadata types. A component is an instance of a metadata type."). Each UpdateMetadata object has the following fields:
 
 | Field | Field Type | Description |
 | --- | --- | --- |
@@ -165,6 +165,7 @@ public void updateCustomObject() {
 - Modify
                     Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
 - checkStatus() (atlas.en-us.api_meta.meta/api_meta/meta_checkstatus.htm)
+- argument. This
+        object can be used to update any of the objects that extend (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - CustomObject (atlas.en-us.api_meta.meta/api_meta/customobject.htm)
 - create() (atlas.en-us.api_meta.meta/api_meta/meta_create.htm)
-- delete() (atlas.en-us.api_meta.meta/api_meta/meta_delete.htm)

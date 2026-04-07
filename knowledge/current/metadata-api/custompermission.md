@@ -5,8 +5,8 @@ topic: custompermission
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:38.037Z
-estimatedTokens: 717
+lastCollected: 2026-04-07T07:46:05.108Z
+estimatedTokens: 675
 keywords: [CustomPermission, permission, grants, access, custom, feature, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
@@ -14,12 +14,11 @@ keywords: [CustomPermission, permission, grants, access, custom, feature, extend
 
 > Represents a permission that grants access to a custom
          feature.
-      This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      This type extends the Metadata metadata type and inherits its fullName field.
 
 # CustomPermission
 
-Represents a permission that grants access to a custom feature. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents a permission that grants access to a custom feature. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -116,5 +115,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

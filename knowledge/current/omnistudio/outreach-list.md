@@ -5,7 +5,7 @@ topic: outreach-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:51.464Z
+lastCollected: 2026-04-07T07:38:55.087Z
 estimatedTokens: 165
 keywords: [Outreach, Help, sales, service, agents, their, prospect, engagements, split, view, effortlessly, efficiently, cross-sell, products, collect]
 ---

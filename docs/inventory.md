@@ -1,9 +1,9 @@
 # Salesforce Knowledge Inventory
 
 This document is auto-generated and tracks all domains available in the knowledge system.
-*Last Updated: 2026-04-05T00:23:56.952Z*
+*Last Updated: 2026-04-07T07:47:10.451Z*
 
-**129 Domains** | **33,317 Knowledge Files**
+**129 Domains** | **33,323 Knowledge Files**
 
 ## Available Domains
 
@@ -14,11 +14,11 @@ This document is auto-generated and tracks all domains available in the knowledg
 | [chatterapi](../../knowledge/current/chatterapi/_index.md) | **Connect REST API Developer Guide** | 2431 | Integrate mobile apps, intranet sites, and third-party web applications with Sal |
 | [object-reference](../../knowledge/current/object-reference/_index.md) | **Object Reference for the Salesforce Platform** | 1774 | Get details on standard objects so that you can interface with your Salesforce d |
 | [revenue-cloud](../../knowledge/current/revenue-cloud/_index.md) | **Revenue Cloud / Agentforce Revenue Management** | 1323 | Product catalog, pricing, billing, Dynamic Revenue Orchestrator |
-| [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1295 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
+| [omnistudio](../../knowledge/current/omnistudio/_index.md) | **OmniStudio** | 1296 | OmniStudio — OmniScripts, FlexCards, DataRaptors, Integration Procedures |
 | [psc-api](../../knowledge/current/psc-api/_index.md) | **Public Sector Solutions Developer Guide** | 1003 | Use Public Sector Solutions API and developer resources to unify public service  |
 | [health-cloud-object-reference](../../knowledge/current/health-cloud-object-reference/_index.md) | **Salesforce Health Cloud Developer Guide** | 832 | Use the Health Cloud API to configure the Health Cloud console, which helps care |
 | [life-sciences-dev-guide](../../knowledge/current/life-sciences-dev-guide/_index.md) | **Life Sciences Cloud Developer Guide** | 699 | Use the developer resources of Life Sciences Cloud to automate the operations av |
-| [metadata-api](../../knowledge/current/metadata-api/_index.md) | **Metadata API** | 683 | Metadata API — deployment, retrieval, metadata types |
+| [metadata-api](../../knowledge/current/metadata-api/_index.md) | **Metadata API** | 688 | Metadata API — deployment, retrieval, metadata types |
 | [insurance-developer-guide](../../knowledge/current/insurance-developer-guide/_index.md) | **Insurance Developer Guide** | 616 | Learn more about the developer sources of Insurance to automate the backend work |
 | [pages](../../knowledge/current/pages/_index.md) | **Visualforce Developer Guide** | 609 | Learn how to develop custom user interfaces and apps with Visualforce, a framewo |
 | [apex-guide](../../knowledge/current/apex-guide/_index.md) | **Apex Developer Guide** | 542 | Apex language guide — syntax, triggers, testing, best practices |

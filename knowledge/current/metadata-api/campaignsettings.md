@@ -5,7 +5,7 @@ topic: campaignsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.296Z
+lastCollected: 2026-04-07T07:46:04.183Z
 estimatedTokens: 1174
 keywords: [CampaignSettings, org’s, Campaign, Influence, Einstein, Attribution, Key, Accounts, member, settings, features, help, understand, how, campaigns]
 ---

@@ -5,7 +5,7 @@ topic: agentforcefordeveloperssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.491Z
+lastCollected: 2026-04-07T07:46:03.172Z
 estimatedTokens: 671
 keywords: [AgentforceForDevelopersSettings, Agentforce, Developers, settings, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---

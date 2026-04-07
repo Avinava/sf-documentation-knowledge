@@ -5,7 +5,7 @@ topic: uipreviewmessagetabdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.710Z
+lastCollected: 2026-04-07T07:46:10.726Z
 estimatedTokens: 561
 keywords: [UiPreviewMessageTabDef, registration, custom, Marketing, Cloud, Preview, Test, modal, tab, created, Lightning, web, components, register, show]
 ---

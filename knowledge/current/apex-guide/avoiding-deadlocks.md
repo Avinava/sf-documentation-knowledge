@@ -5,7 +5,7 @@ topic: avoiding-deadlocks
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:34.569Z
+lastCollected: 2026-04-07T07:38:45.043Z
 estimatedTokens: 152
 keywords: [Avoiding, Deadlocks, developer, care, locking, rows, ensure, introducing, Verify, standard, deadlock, avoidance, techniques, accessing, tables]
 ---

@@ -5,7 +5,7 @@ topic: bulkupdateclauseversionsbulkupdateinputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.459Z
+lastCollected: 2026-04-07T07:38:47.295Z
 estimatedTokens: 281
 keywords: [bulkUpdateClauseVersions, bulkUpdateInputs, Asynchronously, bulk, status, clause, versions, regulation, version, policy, API, Requires, Chatter, Usage]
 ---

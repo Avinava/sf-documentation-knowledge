@@ -5,7 +5,7 @@ topic: integration-procedure-clear-cache-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.471Z
+lastCollected: 2026-04-07T07:38:48.961Z
 estimatedTokens: 310
 keywords: [Integration, Procedure, Clear, Cache, Input, representation, execution, procedures]
 ---

@@ -5,7 +5,7 @@ topic: maintaining-user-references
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.755Z
+lastCollected: 2026-04-07T07:46:10.802Z
 estimatedTokens: 321
 keywords: [Maintaining, User, References, preserved, metadata, deployment]
 ---

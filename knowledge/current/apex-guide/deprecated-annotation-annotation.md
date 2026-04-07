@@ -5,7 +5,7 @@ topic: deprecated-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.499Z
+lastCollected: 2026-04-07T07:38:41.655Z
 estimatedTokens: 647
 keywords: [Deprecated, Annotation, identify, classes, exceptions, enums, interfaces, variables, longer, referenced, subsequent, releases, managed, package, they]
 ---

@@ -5,7 +5,7 @@ topic: using-custom-types-in-map-keys-and-sets
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.553Z
+lastCollected: 2026-04-07T07:38:45.013Z
 estimatedTokens: 678
 keywords: [Custom, Map, Keys, add, instances, own, Apex, classes, maps, Adding, equals, hashCode, Sample]
 ---

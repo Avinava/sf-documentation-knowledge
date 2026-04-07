@@ -5,8 +5,8 @@ topic: decision-table-data-model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.686Z
-estimatedTokens: 123
+lastCollected: 2026-04-07T07:38:52.614Z
+estimatedTokens: 120
 keywords: [Decision, Data, Model, start, Tooling, API, objects, here's, representation]
 ---
 
@@ -24,4 +24,4 @@ Before you start using the Decision Table Tooling API objects, here's a represen
 | Available in: Decision Table is available with Enterprise, Unlimited, and Performance Editions with Loyalty Management or Rebate Management |
 
 
-![Decision Table data model.](/docs/resources/img/en-us/260.0?doc_id=dev_guides%2Findustries%2Fimages%2Fdecision_table_data_model.png&folder=industries_reference)
+![Decision Table data model.](/docs/resources/img/en-us/260.0?doc_id=industries%2Fimages%2Fdecision_table_data_model.png&folder=industries_reference)

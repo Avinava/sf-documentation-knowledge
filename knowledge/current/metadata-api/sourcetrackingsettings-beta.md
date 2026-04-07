@@ -5,8 +5,8 @@ topic: sourcetrackingsettings-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.297Z
-estimatedTokens: 718
+lastCollected: 2026-04-07T07:46:10.242Z
+estimatedTokens: 676
 keywords: [SourceTrackingSettings, Beta, settings, source, tracking, changes, Developer, Pro, sandboxes, local, workspace, tracked, extends, Metadata, inherits]
 ---
 
@@ -14,12 +14,11 @@ keywords: [SourceTrackingSettings, Beta, settings, source, tracking, changes, De
 
 > Represents settings for source tracking, so that changes you
       make in your Developer and Developer Pro sandboxes or local workspace can be tracked.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # SourceTrackingSettings (Beta)
 
-Represents settings for source tracking, so that changes you make in your Developer and Developer Pro sandboxes or local workspace can be tracked. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents settings for source tracking, so that changes you make in your Developer and Developer Pro sandboxes or local workspace can be tracked. This type extends the Metadata metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -60,6 +59,5 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

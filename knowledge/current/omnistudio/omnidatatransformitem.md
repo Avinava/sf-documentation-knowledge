@@ -5,7 +5,7 @@ topic: omnidatatransformitem
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:52.498Z
+lastCollected: 2026-04-07T07:38:56.568Z
 estimatedTokens: 68
 keywords: [OmniDataTransformItem, internal]
 ---

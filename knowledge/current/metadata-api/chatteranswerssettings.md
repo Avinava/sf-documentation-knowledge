@@ -5,8 +5,8 @@ topic: chatteranswerssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.408Z
-estimatedTokens: 1148
+lastCollected: 2026-04-07T07:46:04.358Z
+estimatedTokens: 1137
 keywords: [ChatterAnswersSettings, metadata, manage, settings, Chatter, Answers, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition, Wildcard]
 ---
 
@@ -27,7 +27,7 @@ Chatter Answers settings are stored in a single file named ChatterAnswers.settin
 
 ## Version
 
-ChatterAnswersSettings is available in API version 27.0 and later.
+ChatterAnswersSettings
 
 ## Fields
 

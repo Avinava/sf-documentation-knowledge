@@ -5,7 +5,7 @@ topic: commercesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.523Z
+lastCollected: 2026-04-07T07:46:04.511Z
 estimatedTokens: 1099
 keywords: [CommerceSettings, settings, various, Commerce, features, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Special, Rules]
 ---

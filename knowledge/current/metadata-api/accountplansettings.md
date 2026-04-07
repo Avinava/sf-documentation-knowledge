@@ -5,7 +5,7 @@ topic: accountplansettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.335Z
+lastCollected: 2026-04-07T07:46:02.961Z
 estimatedTokens: 653
 keywords: [AccountPlanSettings, org’s, account, plan, settings, control, features, easy, sales, reps, objectives, actionable, metrics, store, research]
 ---

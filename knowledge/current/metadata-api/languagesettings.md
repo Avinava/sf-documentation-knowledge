@@ -5,8 +5,8 @@ topic: languagesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.207Z
-estimatedTokens: 1285
+lastCollected: 2026-04-07T07:46:07.690Z
+estimatedTokens: 1242
 keywords: [LanguageSettings, organization’s, language, settings, control, end-user, selection, locale, formats, translation, options, extends, Metadata, inherits, fullName]
 ---
 
@@ -19,7 +19,7 @@ keywords: [LanguageSettings, organization’s, language, settings, control, end-
 
 # LanguageSettings
 
-Represents an organization’s language settings. Language settings control end-user language selection, locale formats, and translation options. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents an organization’s language settings. Language settings control end-user language selection, locale formats, and translation options. This type extends the Metadata metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -42,7 +42,7 @@ LanguageSettings is available in API version 47.0 and later.
 | enableLanguageExtensionPackage (beta) | boolean | Indicates whether the org has enabled language extension packages (true) or not (false). Language extension packages contain translations of components in other packages. This field has a default value of false. This field is available in API version 58.0 and later.NoteenableLanguageExtensionPackage (beta) is a pilot or beta service that is subject to the Beta Services Terms at Agreements - Salesforce.com or a written Unified Pilot Agreement if executed by Customer, and applicable terms in the Product Terms Directory. Use of this pilot or beta service is at the Customer's sole discretion. |
 | enableLocaleInsensitiveFiltering | boolean | Indicates whether users can filter query results, regardless of the locale or language associated with the user (true) or if they can’t filter results (false). This field has a default value of false. This field is available in API version 56.0 and later. |
 | enableLocalNamesForStdObjects | boolean | Indicates whether local name fields can be defined for standard objects (true) or not (false). This field has a default value of false. This field is available in API version 48.0 and later. |
-| enablePlatformLanguages | boolean | Indicates whether platform-only languages are enabled (true) or not (false). This field has a default value of false. Setting this field to true also sets enableEndUserLanguages to true. |
+| enablePlatformLanguages | boolean | Indicates whether platform-only languages are enabled (true) or not (false). This field has a default value of false. Setting this field to true also sets enableEndUserLanguagestrue. |
 | enableTranslationWorkbench | boolean | Indicates whether the Translation Workbench is enabled (true) or not (false). This field has a default value of false. |
 | useLanguageFallback | boolean | Indicates whether translation follows the language fallback rule (true) or returns the primary label (false). This field has a default value of true. |
 
@@ -93,6 +93,5 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

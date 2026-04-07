@@ -5,7 +5,7 @@ topic: asyncresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.868Z
+lastCollected: 2026-04-07T07:46:03.672Z
 estimatedTokens: 2688
 keywords: [AsyncResult, deployment, retrieval, API, version, 28.0, earlier, status, any, asynchronous, metadata, call, 31.0, Later, Versions]
 ---
@@ -73,20 +73,20 @@ AsyncResult has the following fields.
 
 | Name | Type | Description |
 | --- | --- | --- |
-| checkOnly | boolean | Indicates whether this deployment is used to check the validity of the deployed files without changing the organization (true) or not (false). A check-only deployment doesn’t deploy any components or change the organization in any way. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
+| checkOnly | boolean | This field is available in API version 16.0 and later and is relevant only for the Indicates whether this deployment is used to check the validity of the deployed files without changing the organization (true) or not (false). A check-only deployment doesn’t deploy any components or change the organization in any way. deploy() call. |
 | done | boolean | Required. Indicates whether the call has been completed (true) or not (false). |
 | id | ID | Required. The ID of the component that's being created, updated, deleted, deployed, or retrieved. |
 | message | string | The message that corresponds to the returned statusCode field, if any. |
-| numberComponentErrors | int | The number of components that generated errors during this deployment. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
-| numberComponentsDeployed | int | The number of components that have been deployed for this deployment. This field in conjunction with the numberComponentsTotal field gives you an indication of the progress of the deployment. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
-| numberComponentsTotal | int | The total number of components in the deployment. This field in conjunction with the numberComponentsDeployed field gives you an indication of the progress of the deployment. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
-| numberTestErrors | int | The number of Apex tests that generated errors during this deployment. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
-| numberTestsCompleted | int | The number of Apex tests that have been completed for this deployment. This field in conjunction with the numberTestsTotal field gives you an indication of the progress of tests for the deployment. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
-| numberTestsTotal | int | The total number of Apex tests in the deployment. This field in conjunction with the numberTestsCompleted field gives you an indication of the progress of tests for the deployment. The value in this field isn’t accurate until the deployment has started running tests for the components that are being deployed. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
+| numberComponentErrors | int | This field is available in API version 16.0 and later and is relevant only for the The number of components that generated errors during this deployment. deploy() call. |
+| numberComponentsDeployed | int | This field is available in API version 16.0 and later and is relevant only for the The number of components that have been deployed for this deployment. This field in conjunction with the numberComponentsTotal field gives you an indication of the progress of the deployment. deploy() call. |
+| numberComponentsTotal | int | This field is available in API version 16.0 and later and is relevant only for the The total number of components in the deployment. This field in conjunction with the numberComponentsDeployed field gives you an indication of the progress of the deployment. deploy() call. |
+| numberTestErrors | int | This field is available in API version 16.0 and later and is relevant only for the The number of Apex tests that generated errors during this deployment. deploy() call. |
+| numberTestsCompleted | int | This field is available in API version 16.0 and later and is relevant only for the The number of Apex tests that have been completed for this deployment. This field in conjunction with the numberTestsTotal field gives you an indication of the progress of tests for the deployment. deploy() call. |
+| numberTestsTotal | int | This field is available in API version 16.0 and later and is relevant only for the The total number of Apex tests in the deployment. This field in conjunction with the numberTestsCompleted field gives you an indication of the progress of tests for the deployment. The value in this field isn’t accurate until the deployment has started running tests for the components that are being deployed. deploy() call. |
 | secondsToWait | int | This field is no longer supported for API version 13.0 and later and is provided only for backward compatibility. The field was removed in API version 17.0.Indicates the number of seconds before the call is likely to be completed. This number is an estimate only. A reasonable approach is to wait one second before calling to see if the operation is complete. Double your wait time for each successive iteration of calls until the operation is complete. |
 | state | AsyncRequestState (enumeration of type string) | Required. The AsyncRequestState object has one of four possible values.Queued: This call hasn’t started. It’s waiting in a queue.InProgress: This call has started but hasn’t been completed.Completed: This call has been completed.Error: An error occurred. See the statusCode for more information. |
 | stateDetail | string | Indicates which component is being deployed or which Apex test class is running. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
-| stateDetailLastModifiedDate | dateTime | The date and time when the stateDetail field was last modified. This field is available in API version 16.0 and later and is relevant only for the deploy() call. |
+| stateDetailLastModifiedDate | dateTime | The date and time when the This field is available in API version 16.0 and later and is relevant only for the stateDetail field was last modified. deploy() call. |
 | statusCode | StatusCode (enumeration of type string) | If an error occurred during the create(), update(), delete(), or deploy() call, a status code is returned, and the message that corresponds to the status code is returned in the message field.For a description of each StatusCode value, see StatusCode in the SOAP API Developer Guide. |
 
 ## Related Topics

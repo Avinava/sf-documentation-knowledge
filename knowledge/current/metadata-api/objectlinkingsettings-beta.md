@@ -5,8 +5,8 @@ topic: objectlinkingsettings-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.931Z
-estimatedTokens: 637
+lastCollected: 2026-04-07T07:46:08.552Z
+estimatedTokens: 596
 keywords: [ObjectLinkingSettings, Beta, channel-object, linking, settings, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
@@ -14,12 +14,11 @@ keywords: [ObjectLinkingSettings, Beta, channel-object, linking, settings, org, 
 
 > Represents the channel-object linking settings for an
       org.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # ObjectLinkingSettings (Beta)
 
-Represents the channel-object linking settings for an org. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the channel-object linking settings for an org. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
 
@@ -79,5 +78,4 @@ The following is an example package.xml that references the previous definition.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

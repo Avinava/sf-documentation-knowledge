@@ -5,8 +5,8 @@ topic: globalvaluesettranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.848Z
-estimatedTokens: 754
+lastCollected: 2026-04-07T07:46:07.285Z
+estimatedTokens: 712
 keywords: [GlobalValueSetTranslation, translation, shared, multiple, custom, picklist, optionally, across, objects, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
@@ -14,12 +14,11 @@ keywords: [GlobalValueSetTranslation, translation, shared, multiple, custom, pic
 
 > Contains details for a global value set
       translation. Global value sets are lists of values that can be shared by multiple custom
-      picklist fields, optionally across objects. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      picklist fields, optionally across objects. This type extends the Metadata metadata type and inherits its fullName field.
 
 # GlobalValueSetTranslation
 
-Contains details for a global value set translation. Global value sets are lists of values that can be shared by multiple custom picklist fields, optionally across objects. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Contains details for a global value set translation. Global value sets are lists of values that can be shared by multiple custom picklist fields, optionally across objects. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -107,6 +106,5 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)
 - Translations (atlas.en-us.api_meta.meta/api_meta/meta_translations.htm)

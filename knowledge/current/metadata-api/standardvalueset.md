@@ -5,20 +5,19 @@ topic: standardvalueset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.343Z
-estimatedTokens: 731
+lastCollected: 2026-04-07T07:46:10.300Z
+estimatedTokens: 689
 keywords: [StandardValueSet, standard, picklist, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
 ---
 
 # StandardValueSet
 
 > Represents the set of values in a standard picklist
-      field. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      field. This type extends the Metadata metadata type and inherits its fullName field.
 
 # StandardValueSet
 
-Represents the set of values in a standard picklist field. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the set of values in a standard picklist field. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -82,7 +81,6 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - StandardValue[] (atlas.en-us.api_meta.meta/api_meta/meta_customvalue.htm)
 - StandardValueSet Names and Standard Picklist Fields (atlas.en-us.api_meta.meta/api_meta/standardvalueset_names.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

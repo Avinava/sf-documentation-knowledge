@@ -5,7 +5,7 @@ topic: forecastingsourcedefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.662Z
+lastCollected: 2026-04-07T07:46:07.054Z
 estimatedTokens: 1109
 keywords: [ForecastingSourceDefinition, measure, date, hierarchy, forecast, uses, project, sales, Parent, File, Suffix, Directory, Location, Version, Declarative]
 ---

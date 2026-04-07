@@ -5,7 +5,7 @@ topic: process-for-using-asynchronous-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.104Z
+lastCollected: 2026-04-07T07:38:42.668Z
 estimatedTokens: 1079
 keywords: [Process, Asynchronous, Callouts, Continuation, action, controller, implement, callback, Invoking, Callout, Defining]
 ---

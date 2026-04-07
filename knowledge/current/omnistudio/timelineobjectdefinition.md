@@ -5,7 +5,7 @@ topic: timelineobjectdefinition
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.405Z
+lastCollected: 2026-04-07T07:38:57.778Z
 estimatedTokens: 1036
 keywords: [TimelineObjectDefinition, timeline, configurations, API, version, 55.0, later, SOAP, Calls, REST, Associated, Objects]
 ---

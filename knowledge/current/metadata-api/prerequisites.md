@@ -5,16 +5,17 @@ topic: prerequisites
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.525Z
+lastCollected: 2026-04-07T07:46:09.306Z
 estimatedTokens: 629
 keywords: [Prerequisites, strongly, recommend, sandbox, exact, replica, production, organization, Enterprise, Unlimited, Performance, Editions, come, free, developer, start, developing, Metadata, API]
 ---
 
 # Prerequisites
 
-> We strongly recommend that you use a sandbox, which is an exact replica of your
-      production organization. Enterprise, Unlimited, and Performance Editions come with
-      free developer sandboxes. For more information, see http://www.salesforce.com/platform/cloud-infrastructure/sandbox.jsp.
+> We strongly recommend that you use a sandbox, which
+            is an exact replica of your production organization. Enterprise, Unlimited, and
+              Performance Editions come with free developer sandboxes. For more
+            information, see http://www.salesforce.com/platform/cloud-infras
 
 # Prerequisites
 
@@ -46,6 +47,6 @@ Make sure that you complete these prerequisites before you start using Metadata 
 
 ## Related Topics
 
-- Modify
-                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- Modify Metadata Through Metadata
+              API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
 - Next → (atlas.en-us.api_meta.meta/api_meta/meta_quickstart_retrieve_add_components.htm)

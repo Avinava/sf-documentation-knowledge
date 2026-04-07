@@ -5,7 +5,7 @@ topic: extlclntappglobaloauthsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:39.316Z
+lastCollected: 2026-04-07T07:46:06.636Z
 estimatedTokens: 1952
 keywords: [ExtlClntAppGlobalOauthSettings, settings, OAuth, plugin, external, client, app, include, sensitive, consumer, can’t, packaged, added, source, control]
 ---

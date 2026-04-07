@@ -5,7 +5,7 @@ topic: externaldatatranobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.269Z
+lastCollected: 2026-04-07T07:46:06.573Z
 estimatedTokens: 1741
 keywords: [ExternalDataTranObject, definition, Data, schema, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Special, Access]
 ---

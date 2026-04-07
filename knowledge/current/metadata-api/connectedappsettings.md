@@ -5,20 +5,19 @@ topic: connectedappsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.641Z
-estimatedTokens: 529
+lastCollected: 2026-04-07T07:46:04.651Z
+estimatedTokens: 487
 keywords: [ConnectedAppSettings, settings, connected, apps, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample]
 ---
 
 # ConnectedAppSettings
 
 > Represents settings for connected apps.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # ConnectedAppSettings
 
-Represents settings for connected apps. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents settings for connected apps. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -71,7 +70,3 @@ The following is an example package.xml manifest that references the previous de
     <version>47.0</version>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

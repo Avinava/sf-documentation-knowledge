@@ -5,8 +5,8 @@ topic: lightningonboardingconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.363Z
-estimatedTokens: 828
+lastCollected: 2026-04-07T07:46:07.868Z
+estimatedTokens: 786
 keywords: [LightningOnboardingConfig, feedback, provided, users, switch, Lightning, Experience, Salesforce, Classic, Admins, customize, question, how, frequently, form]
 ---
 
@@ -15,12 +15,11 @@ keywords: [LightningOnboardingConfig, feedback, provided, users, switch, Lightni
 > Represents the feedback provided when users switch from
       Lightning Experience to Salesforce Classic. Admins can customize the question, how frequently
       the form appears, and where the feedback is stored in Chatter from the Adoption Assistance
-      page in Lightning Experience Setup. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      page in Lightning Experience Setup. This type extends the Metadata metadata type and inherits its fullName field.
 
 # LightningOnboardingConfig
 
-Represents the feedback provided when users switch from Lightning Experience to Salesforce Classic. Admins can customize the question, how frequently the form appears, and where the feedback is stored in Chatter from the Adoption Assistance page in Lightning Experience Setup. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the feedback provided when users switch from Lightning Experience to Salesforce Classic. Admins can customize the question, how frequently the form appears, and where the feedback is stored in Chatter from the Adoption Assistance page in Lightning Experience Setup. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -81,5 +80,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

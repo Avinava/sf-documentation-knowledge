@@ -5,7 +5,7 @@ topic: move-metadata-from-production-to-your-local-file-system
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.751Z
+lastCollected: 2026-04-07T07:46:10.790Z
 estimatedTokens: 364
 keywords: [Move, Metadata, Production, Local, File, System, development, changes, affecting, configurations, API, push, shareable, repository]
 ---

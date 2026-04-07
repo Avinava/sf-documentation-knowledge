@@ -5,7 +5,7 @@ topic: sharingrecalculation
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.720Z
+lastCollected: 2026-04-07T07:46:03.483Z
 estimatedTokens: 325
 keywords: [SharingRecalculation, Apex, classes, recalculate, managed, sharing, specific, custom, Version, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

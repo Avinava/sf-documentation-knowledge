@@ -5,7 +5,7 @@ topic: eligibility-rule-details
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:48.810Z
+lastCollected: 2026-04-07T07:38:51.161Z
 estimatedTokens: 707
 keywords: [Eligibility, Rule, Output, representation, qualification, disqualification, decision, tables]
 ---

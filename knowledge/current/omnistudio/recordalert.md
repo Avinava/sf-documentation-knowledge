@@ -5,7 +5,7 @@ topic: recordalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:52.617Z
+lastCollected: 2026-04-07T07:38:56.735Z
 estimatedTokens: 1988
 keywords: [RecordAlert, alert, message, specific, record, tracks, status, active, period, API, version, 54.0, later, Calls, Associated]
 ---

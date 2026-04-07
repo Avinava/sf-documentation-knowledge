@@ -5,7 +5,7 @@ topic: activationplatform
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:36.409Z
+lastCollected: 2026-04-07T07:46:03.061Z
 estimatedTokens: 1090
 keywords: [ActivationPlatform, configuration, platform, delivery, schedule, output, destination, folder, Parent, File, Suffix, Directory, Location, Version, Special]
 ---

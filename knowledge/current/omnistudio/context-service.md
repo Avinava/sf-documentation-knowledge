@@ -5,8 +5,8 @@ topic: context-service
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:49.540Z
-estimatedTokens: 473
+lastCollected: 2026-04-07T07:38:52.431Z
+estimatedTokens: 522
 keywords: [Context, Service, Simplify, sharing, consumption, business, application, data, Acting, generic, module, forms, layer, applications, procedures]
 ---
 
@@ -33,6 +33,8 @@ Simplify the sharing and consumption of business application data using Context 
     Context Service Business APIs are RESTful APIs that are sometimes available as Apex classes and methods.
 -   **[Context Service Apex Reference](atlas.en-us.industries_reference.meta/industries_reference/context_service_apex_reference.htm)**
     Use the built-in Apex class to manage the processes of a context service.
+-   **[Context Attribute Input](atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_attribute_input.htm)**
+    Input representation for updating context attribute.
 
 ## Related Topics
 
@@ -42,3 +44,4 @@ Simplify the sharing and consumption of business application data using Context 
 - Context Service Standard Invocable Actions (atlas.en-us.industries_reference.meta/industries_reference/context_service_invocable_actions_parent.htm)
 - Context Service Business APIs (atlas.en-us.industries_reference.meta/industries_reference/context_service_apis.htm)
 - Context Service Apex Reference (atlas.en-us.industries_reference.meta/industries_reference/context_service_apex_reference.htm)
+- Context Attribute Input (atlas.en-us.industries_reference.meta/industries_reference/connect_requests_context_attribute_input.htm)

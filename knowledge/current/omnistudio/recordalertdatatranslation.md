@@ -5,7 +5,7 @@ topic: recordalertdatatranslation
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:52.646Z
+lastCollected: 2026-04-07T07:38:56.777Z
 estimatedTokens: 469
 keywords: [RecordAlertDataTranslation, translated, data, stored, RecordAlert, record’s, API, version, 54.0, later, Calls, Special, Access, Rules, Usage]
 ---

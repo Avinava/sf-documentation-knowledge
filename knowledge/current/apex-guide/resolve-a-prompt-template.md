@@ -5,7 +5,7 @@ topic: resolve-a-prompt-template
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.392Z
+lastCollected: 2026-04-07T07:38:44.749Z
 estimatedTokens: 415
 keywords: [Resolve, Prompt, Template, Call, Flex, Apex, Flow, Resources, Sales, Email, Generation, Summary]
 ---

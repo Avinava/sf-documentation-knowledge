@@ -5,8 +5,8 @@ topic: einsteingptsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.770Z
-estimatedTokens: 668
+lastCollected: 2026-04-07T07:46:05.982Z
+estimatedTokens: 626
 keywords: [EinsteinGptSettings, settings, Einstein, Generative, features, org, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
@@ -19,7 +19,7 @@ keywords: [EinsteinGptSettings, settings, Einstein, Generative, features, org, e
 
 # EinsteinGptSettings
 
-Represents settings for Einstein Generative AI features in an org. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field
+Represents settings for Einstein Generative AI features in an org. This type extends the Metadata metadata type and inherits its fullName field
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -82,5 +82,4 @@ The following is an example package.xml that references the previous definition.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

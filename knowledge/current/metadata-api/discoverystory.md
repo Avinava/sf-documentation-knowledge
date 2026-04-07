@@ -5,7 +5,7 @@ topic: discoverystory
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:38.679Z
+lastCollected: 2026-04-07T07:46:05.850Z
 estimatedTokens: 833
 keywords: [DiscoveryStory, metadata, associated, story, Einstein, Discovery, Declarative, File, Suffix, Directory, Location, Version, DiscoveryStoryOutcome, Sample, Definitions]
 ---

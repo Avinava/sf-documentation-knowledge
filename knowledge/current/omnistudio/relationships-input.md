@@ -5,7 +5,7 @@ topic: relationships-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.670Z
+lastCollected: 2026-04-07T07:38:49.260Z
 estimatedTokens: 279
 keywords: [Relationships, Input, representation, relationship, among, members, party, group]
 ---

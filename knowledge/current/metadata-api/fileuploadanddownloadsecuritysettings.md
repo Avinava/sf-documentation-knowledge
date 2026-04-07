@@ -5,20 +5,19 @@ topic: fileuploadanddownloadsecuritysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.482Z
-estimatedTokens: 760
+lastCollected: 2026-04-07T07:46:06.829Z
+estimatedTokens: 718
 keywords: [FileUploadAndDownloadSecuritySettings, security, settings, uploading, downloading, files, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # FileUploadAndDownloadSecuritySettings
 
 > Represents the security
-            settings for uploading and downloading files. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+            settings for uploading and downloading files. This type extends the Metadata metadata type and inherits its fullName field.
 
 # FileUploadAndDownloadSecuritySettings
 
-Represents the security settings for uploading and downloading files. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the security settings for uploading and downloading files. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -42,7 +41,7 @@ Represents the metadata used to manage filetype behavior.
 | Field Name | Field Type | Description |
 | --- | --- | --- |
 | behavior | FileDownloadBehavior (enumeration of type string) | One of the following values:DOWNLOADEXECUTEHYBRIDThe following filetypes are a security risk and can not have EXECUTE behavior:EXEFLASHHTMLRFC822SVGTXMLUNKNOWNWEBVIEWXHTMLXML |
-| filetype | FileType (enumeration of type string) | Although more filetypes exist, these are the only ones supported by FileTypeDispositionAssignmentBean:AVIEXCELEXCEL_XEXEFLASHHTMLINSIGHTMOVMP3MP4MPEGPDFPOWER_POINTPOWER_POINT_XRFC822SVGTXMLUNKNOWNWAVWEBVIEWWMAWMVWORDWORD_XXHTMLXML |
+| filetype | FileType (enumeration of type string) | Although more filetypes exist, these are the only ones supported by FileTypeDispositionAssignmentBeanAVIEXCELEXCEL_XEXEFLASHHTMLINSIGHTMOVMP3MP4MPEGPDFPOWER_POINTPOWER_POINT_XRFC822SVGTXMLUNKNOWNWAVWEBVIEWWMAWMVWORDWORD_XXHTMLXML |
 | securityRiskFileType | boolean | Indicates filetypes that cannot have behavior set to EXECUTE, due to security risks. This field is read-only. |
 
 ## Declarative Metadata Sample Definition
@@ -209,7 +208,6 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

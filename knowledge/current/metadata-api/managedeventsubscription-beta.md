@@ -5,7 +5,7 @@ topic: managedeventsubscription-beta
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.521Z
+lastCollected: 2026-04-07T07:46:08.054Z
 estimatedTokens: 1306
 keywords: [ManagedEventSubscription, Beta, managed, event, subscription, Pub, Sub, API, track, events, subscriber, client, consumed, resume, left]
 ---

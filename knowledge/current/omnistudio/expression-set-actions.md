@@ -5,8 +5,8 @@ topic: expression-set-actions
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.346Z
-estimatedTokens: 439
+lastCollected: 2026-04-07T07:38:47.041Z
+estimatedTokens: 945
 keywords: [Expression, Actions, Invoke, active, user-defined, rule, accepts, input, output, configured, function, REST, HTTP, Inputs, Outputs]
 ---
 
@@ -52,13 +52,24 @@ Authorization: Bearer token
 
 ## Inputs
 
-Vary depending on the selected expression set.
+Inputs vary depending on the selected expression set. For expression sets tied to a context definition, you can build and persist context data using additional inputs.
+
+| Input | Details |
+| --- | --- |
+| __<ContextNode>​RecordIds | TypeList<String>DescriptionOptional. A collection of context node record IDs to be built. |
+| __mappingName | TypeStringDescriptionOptional. The default context mapping available in the context definition. |
+| __persist​ContextData | TypeBooleanDescriptionOptional. Indicates whether to save context data to the database (true) or not (false). |
+| __buildContext | TypeStringDescriptionOptional. Indicates whether to build the context using the IDs of context definition records in the database. |
+
+For context-based expression sets, provide either the context ID or the build context parameters. If both are provided and \_\_buildContext is true, the context ID is ignored and the context is built from the input record IDs.
 
 ## Outputs
 
 Vary depending on the inputs of the selected expression set.
 
 ## Usage
+
+When the expression set is not linked with a context
 
 This section has the sample request and response for invoking an expression set with these steps.
 
@@ -68,7 +79,7 @@ This section has the sample request and response for invoking an expression set 
 
 Sample request
 
-Here’s an example POST request that has the inputs, such as, age and salary:
+Here’s an example POST request that has the inputs, such as, age and salary.
 
 ```
 
@@ -76,7 +87,45 @@ Here’s an example POST request that has the inputs, such as, age and salary:
 
 Sample response
 
-Here’s an example response that has the premium and tax values based on the inputs provided in the example request:
+Here’s an example response that has the premium and tax values based on the inputs provided in the example request.
+
+```
+
+```
+
+When the expression set is linked with a context
+
+An expression set can be configured with a context definition. In this case, the expression set runs using context data that is either provided directly or built at runtime.
+
+Sample request when context ID is available
+
+Here's an example request that runs a context-based expression set using an existing context ID.
+
+```
+
+```
+
+Sample response
+
+Here's an example response for a context-based expression set execution.
+
+```
+
+```
+
+Sample request when context ID is not available
+
+When an expression set is tied to a context definition and a context ID isn't available, use the \_\_buildContext parameter to build the context before the expression set runs. You can also persist the context data to the database after execution by setting \_\_persistContextData to true.
+
+Here's an example POST request that builds the context, runs the expression set, and persists the context data.
+
+```
+
+```
+
+Sample response
+
+Here's an example response that includes the context ID that was built during execution.
 
 ```
 
@@ -142,4 +191,43 @@ Here’s an example response that has the premium and tax values based on the in
     }
   }
 ]
+```
+
+```
+{
+  "inputs": [
+    {
+      "Claim2Id": "55304396580d20ffbae5111a641ab0a747ffbe47dfab2b16df35df9ac87184fc",
+      "inputVar1": 10
+    }
+  ]
+}
+```
+
+```
+[
+  {
+    "actionName": "ClaimProcessingES",
+    "errors": null,
+    "isSuccess": true,
+    "outputValues": {
+      "Claim2Id": "55304396580d20ffbae5111a641ab0a747ffbe47dfab2b16df35df9ac87184fc",
+      "inputVar1": 10
+    }
+  }
+]
+```
+
+```
+{
+  "inputs": [
+    {
+      "inputVar1": 10,
+      "__buildContext": true,
+      "__StudentRecordIds": ["a02xx000001nf9nAAA"],
+      "__mappingName": "Default Mapping",
+      "__persistContextData": true
+    }
+  ]
+}
 ```

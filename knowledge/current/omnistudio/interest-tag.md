@@ -5,7 +5,7 @@ topic: interest-tag
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.013Z
+lastCollected: 2026-04-07T07:38:51.500Z
 estimatedTokens: 142
 keywords: [Interest, Tag, Output, representation]
 ---

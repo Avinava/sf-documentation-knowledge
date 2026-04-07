@@ -6,7 +6,7 @@ topic: step-1-generate-or-obtain-the-web-service-wsdls-for-your-organization
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:41.500Z
+lastCollected: 2026-04-07T07:46:09.269Z
 estimatedTokens: 513
 keywords: [Step, Generate, Obtain, Web, Service, WSDLs, Organization, access, Metadata, API, calls, Language, WSDL, file, development]
 ---
@@ -44,6 +44,5 @@ To generate the metadata and enterprise WSDL files for your organization:
 
 ## Related Topics
 
-- Modify
-                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- Modify Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
 - Step 3: Walk Through the Java Sample Code (atlas.en-us.api_meta.meta/api_meta/meta_quickstart_java_sample.htm)

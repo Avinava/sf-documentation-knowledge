@@ -5,8 +5,8 @@ topic: metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:42.678Z
-estimatedTokens: 27787
+lastCollected: 2026-04-07T07:46:10.691Z
+estimatedTokens: 26013
 keywords: [Metadata, API, access, entities, feature, settings, customize, user]
 ---
 
@@ -58,7 +58,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[AIApplication](atlas.en-us.api_meta.meta/api_meta/meta_aiapplication.htm)**
     Represents an instance of an AI application. For example, Einstein Prediction Builder.
 -   **[AIApplicationConfig](atlas.en-us.api_meta.meta/api_meta/meta_aiapplicationconfig.htm)**
-    Additional prediction information related to an AI application. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Additional prediction information related to an AI application. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[AiAuthoringBundle](atlas.en-us.api_meta.meta/api_meta/meta_aiauthoringbundle.htm)**
     Represents an AI authoring bundle, which is a container for AI-related authoring content. For example, an AI authoring bundle for an Agentforce agent contains an Agent Script file and the associated metadata content.
 -   **[AiEvaluationDefinition](atlas.en-us.api_meta.meta/api_meta/meta_aievaluationdefinition.htm)**
@@ -76,7 +76,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[AnalyticsWorkspace](atlas.en-us.api_meta.meta/api_meta/meta_analyticsworkspace.htm)**
     Represents a Tableau Next workspace.
 -   **[AnimationRule](atlas.en-us.api_meta.meta/api_meta/meta_animationrule.htm)**
-    Represents criteria for determining when an animation is displayed to Path users.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents criteria for determining when an animation is displayed to Path users.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[AppFrameworkTemplateBundle](atlas.en-us.api_meta.meta/api_meta/meta_appframeworktemplatebundle.htm)**
     Represents the app framework template bundle. Use these templates for Data 360 and Tableau Next assets.
 -   **[ArticleType](atlas.en-us.api_meta.meta/api_meta/meta_articletype.htm)**
@@ -96,9 +96,9 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[AppMenu](atlas.en-us.api_meta.meta/api_meta/meta_appmenu.htm)**
     Represents the app menu or the Salesforce mobile navigation menu. Reserved for future use.
 -   **[AppointmentAssignmentPolicy](atlas.en-us.api_meta.meta/api_meta/meta_appointmentassignmentpolicy.htm)**
-    Represents the information about a resource assignment rule. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the information about a resource assignment rule. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[AppointmentSchedulingPolicy](atlas.en-us.api_meta.meta/api_meta/meta_appointmentschedulingpolicy.htm)**
-    Represents a set of rules for scheduling appointments using Lightning Scheduler. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a set of rules for scheduling appointments using Lightning Scheduler. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ApprovalProcess](atlas.en-us.api_meta.meta/api_meta/meta_approvalprocess.htm)**
     Represents the metadata associated with an approval process. An approval process automates how records are approved in Salesforce. An approval process specifies each step of approval, including who to request approval from and what to do at each point of the process.
 -   **[AssignmentRules](atlas.en-us.api_meta.meta/api_meta/meta_assignmentrule.htm)**
@@ -122,7 +122,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[BillingSettings](atlas.en-us.api_meta.meta/api_meta/meta_billingsettings.htm)**
     Represents the settings for Salesforce Billing.
 -   **[BlacklistedConsumer](atlas.en-us.api_meta.meta/api_meta/meta_blacklistedconsumer.htm)**
-    Represents a connected app that is inaccessible to your Salesforce org’s users. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a connected app that is inaccessible to your Salesforce org’s users. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[Bot](atlas.en-us.api_meta.meta/api_meta/meta_bot.htm)**
     Represents a definition of an Einstein Bot configuration that can have one or more versions. Only one version can be active.
 -   **[BotBlock](atlas.en-us.api_meta.meta/api_meta/meta_botblock.htm)**
@@ -142,7 +142,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[CallCenterRoutingMap](atlas.en-us.api_meta.meta/api_meta/meta_callcenterroutingmap.htm)**
     Represents the mapping between a user or queue in a Salesforce org to a user or queue in an external system’s call center.
 -   **[CallCoachingMediaProvider](atlas.en-us.api_meta.meta/api_meta/meta_callcoachingmediaprovider.htm)**
-    Represents the CallCoachingMediaProvider configuration. Use CallCoachingMediaProvider to configure which providers of voice recordings that Einstein Conversation Insights can use. For example, Sales Dialer can provide voice recordings. Einstein Conversation Insights then stores and analyzes call recordings to surface insights and trends in customer conversations.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the CallCoachingMediaProvider configuration. Use CallCoachingMediaProvider to configure which providers of voice recordings that Einstein Conversation Insights can use. For example, Sales Dialer can provide voice recordings. Einstein Conversation Insights then stores and analyzes call recordings to surface insights and trends in customer conversations.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[CampaignInfluenceModel](atlas.en-us.api_meta.meta/api_meta/meta_campaigninfluencemodel.htm)**
     Represents a campaign influence model used by Customizable Campaign Influence. You can’t configure Customizable Campaign Influence via the Metadata API, but you can add a campaign influence model.
 -   **[CaseSubjectParticle](atlas.en-us.api_meta.meta/api_meta/meta_casesubjectparticle.htm)**
@@ -157,6 +157,12 @@ Metadata API enables you to access some entities and feature settings that you c
     Represents the information about the fields that appear in care provider search results. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[CareRequestConfiguration](atlas.en-us.api_meta.meta/api_meta/meta_carerequestconfiguration.htm)**
     Represents the details for a record type such as service request, drug request, or admission request. One or more record types can be associated with a care request.
+-   **[CatalogedApi](atlas.en-us.api_meta.meta/api_meta/meta_catalogedapi.htm)**
+    Represents an API brought into API Catalog for Salesforce from an external source.
+-   **[CatalogedApiArtifactVersionInfo](atlas.en-us.api_meta.meta/api_meta/meta_catalogedapiartifactversioninfo.htm)**
+    Represents API version information in API Catalog that’s referenced by other entities.
+-   **[CatalogedApiVersion](atlas.en-us.api_meta.meta/api_meta/meta_catalogedapiversion.htm)**
+    Represents a version of an API that is consumable in Salesforce using API Catalog.
 -   **[Certificate](atlas.en-us.api_meta.meta/api_meta/meta_certificate.htm)**
     Represents a certificate used for digital signatures that verify that requests are coming from your org. Certificates are used for either authenticated single sign-on with an external website, or when using your org as an identity provider. This type extends the Metadata With Content metadata type and inherits its content and fullName fields.
 -   **[ChatterExtension](atlas.en-us.api_meta.meta/api_meta/meta_chatterextensions.htm)**
@@ -172,7 +178,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[CMSConnectSource](atlas.en-us.api_meta.meta/api_meta/meta_cmsconnectsource.htm)**
     Represents the connection information for external content management systems that feed content to Experience Builder sites. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[Community (Zone)](atlas.en-us.api_meta.meta/api_meta/meta_community.htm)**
-    Represents a zone that contains Ideas or Chatter Answers objects. Zones are shared by the Ideas, Answers, and Chatter Answers features, allowing you to view and create zones from those locations.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a zone that contains Ideas or Chatter Answers objects. Zones are shared by the Ideas, Answers, and Chatter Answers features, allowing you to view and create zones from those locations.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[CommerceSettings](atlas.en-us.api_meta.meta/api_meta/meta_commercesettings.htm)**
     Represents settings for various Commerce features.
 -   **[CommunityTemplateDefinition](atlas.en-us.api_meta.meta/api_meta/meta_communitytemplatedefinition.htm)**
@@ -208,9 +214,9 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[CustomFieldDisplay](atlas.en-us.api_meta.meta/api_meta/meta_customfielddisplay.htm)**
     Represents the view type assigned to product attribute custom fields. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[CustomHelpMenuSection](atlas.en-us.api_meta.meta/api_meta/meta_customhelpmenusection.htm)**
-    Represents the section of the Lightning Experience help menu that the admin added to display custom, org-specific help resources for the org. The custom section contains help resources added by the admin. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the section of the Lightning Experience help menu that the admin added to display custom, org-specific help resources for the org. The custom section contains help resources added by the admin. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[CustomIndex](atlas.en-us.api_meta.meta/api_meta/meta_customindex.htm)**
-    Represents an index used to increase the speed of queries.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents an index used to increase the speed of queries.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[CustomLabels](atlas.en-us.api_meta.meta/api_meta/meta_customlabels.htm)**
     The CustomLabels metadata type allows you to create custom labels that can be localized for use in different languages, countries, and currencies.
 -   **[Custom Metadata Types (CustomObject)](atlas.en-us.api_meta.meta/api_meta/meta_custommetadatatypes.htm)**
@@ -224,7 +230,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[CustomPageWebLink](atlas.en-us.api_meta.meta/api_meta/custompageweblink.htm)**
     Represents a custom link defined in a home page component.
 -   **[CustomPermission](atlas.en-us.api_meta.meta/api_meta/meta_custompermission.htm)**
-    Represents a permission that grants access to a custom feature. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a permission that grants access to a custom feature. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[CustomSite](atlas.en-us.api_meta.meta/api_meta/meta_sites.htm)**
     Represents a Salesforce site. Create public websites and applications that are directly integrated with your Salesforce organization, but don't require users to log in with a username and password.
 -   **[CustomTab](atlas.en-us.api_meta.meta/api_meta/meta_tab.htm)**
@@ -282,17 +288,17 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[EclairGeoData](atlas.en-us.api_meta.meta/api_meta/meta_eclairgeodata.htm)**
     Represents an Analytics custom map chart. Custom maps are user-defined maps that are uploaded to Analytics and are used just as standard maps are. Custom maps are accessed in Analytics from the list of maps available with the map chart type.
 -   **[EmailServicesFunction](atlas.en-us.api_meta.meta/api_meta/meta_emailservicesfunction.htm)**
-    Represents an email service. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents an email service. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[EmailTemplate](atlas.en-us.api_meta.meta/api_meta/meta_emailtemplate.htm)**
     Represents a template for an email, mass email, list email, or Sales Engagement email. Supported in first-generation managed packages only.
 -   **[EmbeddedServiceBranding](atlas.en-us.api_meta.meta/api_meta/meta_embeddedservicebranding.htm)**
-    Represents the branding for each Embedded Service deployment. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the branding for each Embedded Service deployment. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[EmbeddedServiceConfig](atlas.en-us.api_meta.meta/api_meta/meta_embeddedserviceconfig.htm)**
     Represents a setup node for creating an Embedded Service for Web deployment. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[EmbeddedServiceFieldService](atlas.en-us.api_meta.meta/api_meta/meta_embeddedservicefieldservice.htm)**
-    Represents a setup node for creating an embedded Appointment Management deployment. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a setup node for creating an embedded Appointment Management deployment. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[EmbeddedServiceFlowConfig](atlas.en-us.api_meta.meta/api_meta/meta_embeddedserviceflowconfig.htm)**
-    Represents a setup node for creating an embedded flow. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a setup node for creating an embedded flow. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[EmbeddedServiceLiveAgent](atlas.en-us.api_meta.meta/api_meta/meta_embeddedserviceliveagent.htm)**
     Represents a setup node for creating an embedded chat deployment. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[EmbeddedServiceMenuSettings](atlas.en-us.api_meta.meta/api_meta/meta_embeddedservicemenusettings.htm)**
@@ -314,9 +320,9 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[EventRelayConfig](atlas.en-us.api_meta.meta/api_meta/meta_eventrelayconfig.htm)**
     Represents the configuration of an event relay, which relays platform events and change data capture events from Salesforce to Amazon EventBridge.
 -   **[EventSubscription](atlas.en-us.api_meta.meta/api_meta/meta_eventsubscription.htm)**
-    Represents a subscription to an event type. Removed in API version 46.0. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a subscription to an event type. Removed in API version 46.0. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ExperienceBundle](atlas.en-us.api_meta.meta/api_meta/meta_experiencebundle.htm)**
-    Represents a text-based code structure of the settings and site components, such as pages, branding sets, and themes that make up an Experience Builder site. Developers can quickly update and deploy Experience Builder sites *programmatically* using their preferred development tools. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a text-based code structure of the settings and site components, such as pages, branding sets, and themes that make up an Experience Builder site. Developers can quickly update and deploy Experience Builder sites *programmatically* using their preferred development tools. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ExperiencePropertyTypeBundle (Beta)](atlas.en-us.api_meta.meta/api_meta/meta_experiencepropertytypebundle.htm)**
     Represents a property type. Replaced in Spring ’26 by the updated LightningPropertyType. When you create a custom property type for a Lightning web component, use LightningPropertyType instead, and deploy that bundle to your org.
 -   **[ExplainabilityMsgTemplate](atlas.en-us.api_meta.meta/api_meta/meta_explainabilitymsgtemplate.htm)**
@@ -360,21 +366,21 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[ExtlClntAppSamlConfigurablePolicies](atlas.en-us.api_meta.meta/api_meta/meta_extlclntappsamlconfigurablepolicies.htm)**
     Represents SAML configuration policies for an external client app. Use this type to configure Salesforce as an identity provider for SAML single sign-on (SSO). In this type of SSO configuration, users log in to a third-party service provider, such as Google, using their Salesforce credentials.
 -   **[FeatureParameterBoolean](atlas.en-us.api_meta.meta/api_meta/meta_featureparameterboolean.htm)**
-    Represents a boolean feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a boolean feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[FeatureParameterDate](atlas.en-us.api_meta.meta/api_meta/meta_featureparameterdate.htm)**
-    Represents a date feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a date feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[FeatureParameterInteger](atlas.en-us.api_meta.meta/api_meta/meta_featureparameterinteger.htm)**
-    Represents an integer feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents an integer feature parameter in the Feature Management App (FMA). Feature parameters let you drive app behavior and track activation metrics in subscriber orgs that install your package. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[FieldMappingConfig](atlas.en-us.api_meta.meta/api_meta/npc_fundraising_api_objects_fieldmappingconfig.htm)**
     Represents the configuration for fields mapped between a source object and one or more destination objects and fields. This object is available in API version 63.0 and later.
 -   **[FieldRestrictionRule](atlas.en-us.api_meta.meta/api_meta/meta_fieldrestrictionrule.htm)**
-    Represents a field visibility rule that controls whether a field is visible to a user, based on the field’s inclusion in a field set. If Enhanced Personal Information Management setting was enabled before Spring ’22, field visibility is based on the field’s compliance categorization. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a field visibility rule that controls whether a field is visible to a user, based on the field’s inclusion in a field set. If Enhanced Personal Information Management setting was enabled before Spring ’22, field visibility is based on the field’s compliance categorization. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[FlexiPage](atlas.en-us.api_meta.meta/api_meta/meta_flexipage.htm)**
     Represents the metadata associated with a Lightning page. A Lightning page represents a customizable screen made up of regions containing Lightning components.
 -   **[Flow](atlas.en-us.api_meta.meta/api_meta/meta_visual_workflow.htm)**
     Represents the metadata associated with a flow that encompasses the flow's structure, logic, and run-time behavior. It allows you to build dynamic applications that guide users through interactive screens, automate processes, and connect with various Salesforce and external services. This includes managing data operations like creating, updating, or deleting records, handling complex decisions, looping through collections, and invoking actions like Apex or external services to extend functionality. A flow contains options for API versioning, various execution environments, and detailed configuration of elements to design powerful automation solutions.
 -   **[FlowCategory](atlas.en-us.api_meta.meta/api_meta/meta_flowcategory.htm)**
-    Represents a list of flows that are grouped by category. Flows aren’t added directly to a Lightning Bolt Solution. Instead, add the category the flows are in to the Lightning Bolt Solution. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a list of flows that are grouped by category. Flows aren’t added directly to a Lightning Bolt Solution. Instead, add the category the flows are in to the Lightning Bolt Solution. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[FlowDefinition](atlas.en-us.api_meta.meta/api_meta/meta_flowdefinition.htm)**
     Represents the flow definition’s description and active flow version number.
 -   **[FlowTest](atlas.en-us.api_meta.meta/api_meta/meta_flowtest.htm)**
@@ -398,7 +404,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[FuelTypeSustnUom](atlas.en-us.api_meta.meta/api_meta/meta_fueltypesustnuom.htm)**
     Represents a mapping between the custom fuel types and their corresponding unit of measure (UOM) values defined by a customer in an org.
 -   **[FunctionReference](atlas.en-us.api_meta.meta/api_meta/meta_functionreference.htm)**
-    Represents information about a deployed Salesforce Function that can be invoked from the org. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents information about a deployed Salesforce Function that can be invoked from the org. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[FundraisingConfig](atlas.en-us.api_meta.meta/api_meta/meta_fundraisingconfig.htm)**
     Represents a collection of settings to configure the fundraising product.
 -   **[GatewayProviderPaymentMethodType](atlas.en-us.api_meta.meta/api_meta/meta_gatewayproviderpaymentmethodtype.htm)**
@@ -426,7 +432,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[GlobalValueSet](atlas.en-us.api_meta.meta/api_meta/meta_globalvalueset.htm)**
     Represents the metadata for a global picklist value set, which is the set of shared values that custom picklist fields can use. A global value set isn’t a field itself. In contrast, the custom picklist fields that are based on a global picklist are of type ValueSet. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[GlobalValueSetTranslation](atlas.en-us.api_meta.meta/api_meta/meta_globalvaluesettranslation.htm)**
-    Contains details for a global value set translation. Global value sets are lists of values that can be shared by multiple custom picklist fields, optionally across objects. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Contains details for a global value set translation. Global value sets are lists of values that can be shared by multiple custom picklist fields, optionally across objects. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[GoogleAppsSettings](atlas.en-us.api_meta.meta/api_meta/meta_googleappssettings.htm)**
     Represents the settings for Google Apps in Salesforce.
 -   **[Group](atlas.en-us.api_meta.meta/api_meta/meta_group.htm)**
@@ -444,7 +450,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[InboundCertificate](atlas.en-us.api_meta.meta/api_meta/meta_inboundcertificate.htm)**
     Represents a mutual authentication certificate that is imported to your Salesforce org.
 -   **[InboundNetworkConnection](atlas.en-us.api_meta.meta/api_meta/meta_inboundnetworkconnection.htm)**
-    Represents a private connection between a third-party data service and a Salesforce org. The connection is inbound because the callouts are coming *into* Salesforce.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a private connection between a third-party data service and a Salesforce org. The connection is inbound because the callouts are coming *into* Salesforce.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[IndustriesPricingSettings](atlas.en-us.api_meta.meta/api_meta/meta_industriespricingsettings.htm)**
     Represents the settings for Salesforce Pricing.
 -   **[IndustriesRatingSettings](atlas.en-us.api_meta.meta/api_meta/meta_industriesratingsettings.htm)**
@@ -478,7 +484,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[LightningMessageChannel](atlas.en-us.api_meta.meta/api_meta/meta_lightningmessagechannel.htm)**
     Represents the metadata associated with a Lightning Message Channel. A Lightning Message Channel represents a secure channel to communicate across UI technologies, such as Lightning Web Components, Aura Components, and Visualforce.
 -   **[LightningOnboardingConfig](atlas.en-us.api_meta.meta/api_meta/meta_lightningonboardingconfig.htm)**
-    Represents the feedback provided when users switch from Lightning Experience to Salesforce Classic. Admins can customize the question, how frequently the form appears, and where the feedback is stored in Chatter from the Adoption Assistance page in Lightning Experience Setup. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the feedback provided when users switch from Lightning Experience to Salesforce Classic. Admins can customize the question, how frequently the form appears, and where the feedback is stored in Chatter from the Adoption Assistance page in Lightning Experience Setup. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[LightningTypeBundle](atlas.en-us.api_meta.meta/api_meta/meta_lightningtypebundle.htm)**
     Represents a custom Lightning type. Use this type to override the default user interface to create a customized appearance based on your business requirements. Deploy this bundle to your organization to implement the overrides.
 -   **[LiveChatAgentConfig](atlas.en-us.api_meta.meta/api_meta/meta_livechatagentconfig.htm)**
@@ -518,7 +524,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[MLPredictionDefinition](atlas.en-us.api_meta.meta/api_meta/meta_mlpredictiondefinition.htm)**
     Represents a prediction definition that specifies details about the prediction. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[MobileApplicationDetail](atlas.en-us.api_meta.meta/api_meta/meta_mobileapplicationdetail.htm)**
-    Represents the packaging attributes for a mobile connected app. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the packaging attributes for a mobile connected app. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[MobileSecurityAssignment](atlas.en-us.api_meta.meta/api_meta/meta_mobilesecurityassignment.htm)**
     Represents the assignment of mobile app security policies to a profile. The policies apply to the Salesforce mobile app with Enhanced Mobile App Security enabled.
 -   **[MobileSecurityPolicy](atlas.en-us.api_meta.meta/api_meta/meta_mobilesecuritypolicy.htm)**
@@ -530,25 +536,27 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[MutingPermissionSet](atlas.en-us.api_meta.meta/api_meta/meta_mutingpermissionset.htm)**
     Represents a set of disabled permissions and is used in conjunction with [PermissionSetGroup](atlas.en-us.api_meta.meta/api_meta/meta_permissionsetgroup.htm "Represents a group of permission sets and the permissions within them. Use permission set groups to organize permissions based on job functions or tasks. Then, you can package the groups as needed.").
 -   **[MyDomainDiscoverableLogin](atlas.en-us.api_meta.meta/api_meta/meta_mydomaindiscoverablelogin.htm)**
-    Represents the configuration settings when the My Domain login page type is Discovery. Login Discovery provides an identity-first login experience, where the login page contains the identifier field only. Based on the identifier entered, a handler determines how to authenticate the user. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the configuration settings when the My Domain login page type is Discovery. Login Discovery provides an identity-first login experience, where the login page contains the identifier field only. Based on the identifier entered, a handler determines how to authenticate the user. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[NamedCredential](atlas.en-us.api_meta.meta/api_meta/meta_namedcredential.htm)**
     Represents a named credential, which specifies the URL of a callout endpoint and its required authentication parameters in one definition. A named credential can be specified as an endpoint to simplify the setup of authenticated callouts.
 -   **[NavigationMenu](atlas.en-us.api_meta.meta/api_meta/meta_navigationmenu.htm)**
-    Represents the navigation menu in an Experience Builder site. A navigation menu consists of items that users can click to go to other parts of the site. This type replaces the NavigationLinkSet subtype on Network. NavigationMenu is available in API version 47.0 and later. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the navigation menu in an Experience Builder site. A navigation menu consists of items that users can click to go to other parts of the site. This type replaces the NavigationLinkSet subtype on Network. NavigationMenu is available in API version 47.0 and later. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[Network](atlas.en-us.api_meta.meta/api_meta/meta_network.htm)**
     Represents an Experience Cloud site. Salesforce Experience Cloud lets you create branded spaces for your employees, customers, and partners. You can customize and create experiences, whether they’re communities, sites, or portals, to meet your business needs, then transition seamlessly between them. If you want to create zones that contain Chatter Answers and Ideas, use the Community (Zone) component.
 -   **[NetworkBranding](atlas.en-us.api_meta.meta/api_meta/meta_networkbranding.htm)**
     Represents the branding and color scheme applied to the login pages of an Experience Cloud site. (Experience Cloud sites are represented by the Network component.)
 -   **[NotificationTypeConfig](atlas.en-us.api_meta.meta/api_meta/meta_notificationtypeconfig.htm)**
-    Represents the metadata associated with org-level notification settings for standard and custom notification types. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the metadata associated with org-level notification settings for standard and custom notification types. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[OauthCustomScope](atlas.en-us.api_meta.meta/api_meta/meta_oauthcustomscope.htm)**
-    Represents a permission defining the protected data that a connected app can access from an external entity when Salesforce is the OAuth authorization provider. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a permission defining the protected data that a connected app can access from an external entity when Salesforce is the OAuth authorization provider. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[OauthTokenExchangeHandler](atlas.en-us.api_meta.meta/api_meta/meta_oauthtokenexchangehandler.htm)**
     Represents a token exchange handler. The token exchange handler also consists of an Apex class. During the OAuth 2.0 token exchange flow, the token exchange handler is used to validate tokens from an external identity provider and to map users to Salesforce.
 -   **[OcrSampleDocument](atlas.en-us.api_meta.meta/api_meta/meta_ocrsampledocument.htm)**
     Represents the details of a sample document or a document type that's used as a reference while extracting and mapping information from a customer form. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[OcrTemplate](atlas.en-us.api_meta.meta/api_meta/meta_ocrtemplate.htm)**
     Represents the details of the mapping between a form and a Salesforce object using Intelligent Form Reader. This type extends the Metadata metadata type and inherits its fullName field.
+-   **[OmniSupervisorConfig](atlas.en-us.api_meta.meta/api_meta/meta_omnisupervisorconfig.htm)**
+    Represents the Omni-Channel supervisor configuration for an assigned group of supervisors.
 -   **[OutboundNetworkConnection](atlas.en-us.api_meta.meta/api_meta/meta_outboundnetworkconnection.htm)**
     Represents a private connection between a Salesforce org and a third-party data service. The connection is outbound because the callouts are going *out* of Salesforce. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[OnboardingDataObjectGroup](atlas.en-us.api_meta.meta/api_meta/meta_onboardingdataobjectgroup.htm)**
@@ -558,9 +566,9 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[ParticipantRole](atlas.en-us.api_meta.meta/api_meta/fsc_meta_participantrole.htm)**
     Represents details, such as the name and associated default access level, for a role that a participant can have in the context of a parent record.
 -   **[PathAssistant](atlas.en-us.api_meta.meta/api_meta/meta_pathassistant.htm)**
-    Represents Path records.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents Path records.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[PaymentGatewayProvider](atlas.en-us.api_meta.meta/api_meta/meta_paymentgatewayprovider.htm)**
-    Represents the metadata associated with a payment gateway provider. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the metadata associated with a payment gateway provider. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[PermissionSet](atlas.en-us.api_meta.meta/api_meta/meta_permissionset.htm)**
     Represents a set of permissions that's used to grant more access to one or more users without changing their profile or reassigning profiles. You can use permission sets to grant access but not to deny access.
 -   **[PermissionSetGroup](atlas.en-us.api_meta.meta/api_meta/meta_permissionsetgroup.htm)**
@@ -584,11 +592,11 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[PortalDelegablePermissionSet](atlas.en-us.api_meta.meta/api_meta/meta_portaldelegablepermissionset.htm)**
     Represents the org-level permission sets that can be assigned to a particular profile for external users or shoppers in a store after enabling the Delegable Administration perm.
 -   **[PostTemplate](atlas.en-us.api_meta.meta/api_meta/meta_posttemplate.htm)**
-    Represents the metadata associated with an approval post template for Approvals in Chatter. With approval post templates, you can customize the information included in approval request posts that appear in Chatter feeds. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the metadata associated with an approval post template for Approvals in Chatter. With approval post templates, you can customize the information included in approval request posts that appear in Chatter feeds. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ProductAttributeSet](atlas.en-us.api_meta.meta/api_meta/meta_productattributeset.htm)**
     Represents the ProductAttribute information being used as and attribute such as color\_*c, size*\_c .
 -   **[PresenceDeclineReason](atlas.en-us.api_meta.meta/api_meta/meta_presencedeclinereason.htm)**
-    Represents an Omni-Channel decline reason that agents can select when declining work requests. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents an Omni-Channel decline reason that agents can select when declining work requests. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[PresenceUserConfig](atlas.en-us.api_meta.meta/api_meta/meta_presenceuserconfig.htm)**
     Represents a configuration that determines a presence user’s settings.
 -   **[PricingActionParameters](atlas.en-us.api_meta.meta/api_meta/meta_pricingactionparameters.htm)**
@@ -600,7 +608,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[ProfileActionOverride](atlas.en-us.api_meta.meta/api_meta/meta_profileactionoverride.htm)**
     Represents an override of an ActionOverride by a user profile. You can use it to override an ActionOverride on a standard Home tab or object record page in Lightning Experience. When a user logs in with a profile, a matching ProfileActionOverride assignment takes precedence over existing overrides for the Home tab or record page specified in ActionOverride. In API versions 39.0 to 44.0, you can access ProfileActionOverride by accessing its encompassing [CustomApplication](atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm#meta_customapplication "CustomApplication represents a custom or standard application. In API version 29.0 and earlier, CustomApplication represents only a custom application. An application is a list of tab references, with a description and a logo. This type extends the Metadata metadata type and inherits its fullName field.") or [Profile](atlas.en-us.api_meta.meta/api_meta/meta_profile.htm#meta_profile "Represents a user profile. A profile defines a user’s permission to perform different functions within Salesforce. This type extends the Metadata metadata type and inherits its fullName field.") metadata types. In API version 45.0 and later, you can access ProfileActionOverride only by accessing its encompassing [CustomApplication](atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm#meta_customapplication "CustomApplication represents a custom or standard application. In API version 29.0 and earlier, CustomApplication represents only a custom application. An application is a list of tab references, with a description and a logo. This type extends the Metadata metadata type and inherits its fullName field.").
 -   **[ProfilePasswordPolicy](atlas.en-us.api_meta.meta/api_meta/meta_profilepasswordpolicy.htm)**
-    Represents a profile’s password policies. Profile password policies override org-wide password policies for that profile’s users. Use ProfilePasswordPolicy to retrieve password policies for a given profile. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a profile’s password policies. Profile password policies override org-wide password policies for that profile’s users. Use ProfilePasswordPolicy to retrieve password policies for a given profile. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ProfileSessionSetting](atlas.en-us.api_meta.meta/api_meta/meta_profilesessionsetting.htm)**
     Represents a profile’s session settings. Use ProfileSessionSetting to retrieve the session settings for a given profile. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[Prompt](atlas.en-us.api_meta.meta/api_meta/meta_prompt.htm)**
@@ -640,7 +648,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[ReportType](atlas.en-us.api_meta.meta/api_meta/meta_reporttype.htm)**
     Represents the metadata associated with a custom report type. Custom report types allow you to build a framework from which users can create and customize reports.
 -   **[RestrictionRule](atlas.en-us.api_meta.meta/api_meta/meta_restrictionrule.htm)**
-    Represents a restriction rule or a scoping rule. A restriction rule has enforcementType set to Restrict and controls the access that specified users have to designated records. A scoping rule has enforcementType set to Scoping and controls the default records that your users see without restricting access. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a restriction rule or a scoping rule. A restriction rule has enforcementType set to Restrict and controls the access that specified users have to designated records. A scoping rule has enforcementType set to Scoping and controls the default records that your users see without restricting access. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[RetrievalSummaryDefinition](atlas.en-us.api_meta.meta/api_meta/meta_retrievalsummarydefinition.htm)**
     Represents a metadata type that stores the header information of a retrieval definition. It enables the configuration of data retrieval patterns for summarizing related records across object relationships.
 -   **[Role](atlas.en-us.api_meta.meta/api_meta/meta_role.htm)**
@@ -650,7 +658,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[RpaRobotPoolMetadata](atlas.en-us.api_meta.meta/api_meta/meta_rparobotpoolmetadata.htm)**
     Reserved for future use.
 -   **[SalesWorkQueueSettings](atlas.en-us.api_meta.meta/api_meta/meta_salesworkqueuesettings.htm)**
-    Represents settings used to customize work queue options for third-party scoring. In Sales Engagement, you can add a custom number field on person accounts, contacts, or leads. Then, use the custom number field to sort the work queue. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents settings used to customize work queue options for third-party scoring. In Sales Engagement, you can add a custom number field on person accounts, contacts, or leads. Then, use the custom number field to sort the work queue. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[SamlSsoConfig](atlas.en-us.api_meta.meta/api_meta/meta_samlssoconfig.htm)**
     Represents a SAML Single Sign-On configuration. This type extends the Metadata metadata type and inherits its fullName field. Single sign-on (SSO) is an authentication method that enables users to access multiple applications with one login and one set of credentials. For example, after users log in to your org, they can automatically access all apps from the App Launcher. You can set up your Salesforce org to trust a third-party identity provider to authenticate users. Or you can configure a third-party app to rely on your org for authentication.
 -   **[SchedulingObjective](atlas.en-us.api_meta.meta/api_meta/meta_schedulingobjective.htm)**
@@ -670,7 +678,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[ServiceChannel](atlas.en-us.api_meta.meta/api_meta/meta_servicechannel.htm)**
     Represents a channel of work items that are received from your organization—for example, cases, chats, or leads.
 -   **[ServicePresenceStatus](atlas.en-us.api_meta.meta/api_meta/meta_servicepresencestatus.htm)**
-    Represents a presence status that can be assigned to a service channel. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a presence status that can be assigned to a service channel. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[ServiceProcess](atlas.en-us.api_meta.meta/api_meta/meta_serviceprocess.htm)**
     Represents a process created in Service Process Studio and its associated attributes.
 -   **[Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)**
@@ -688,9 +696,9 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[Skill](atlas.en-us.api_meta.meta/api_meta/meta_skills.htm)**
     Represents the settings for a skill used for field service or to route chats to agents in Chat, such as the name of the skill and which agents the skills are assigned to.
 -   **[StandardValueSet](atlas.en-us.api_meta.meta/api_meta/meta_standardvalueset.htm)**
-    Represents the set of values in a standard picklist field. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the set of values in a standard picklist field. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[StandardValueSetTranslation](atlas.en-us.api_meta.meta/api_meta/meta_standardvaluesettranslation.htm)**
-    Contains details for a standard picklist translation. It returns a translated standard value set.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Contains details for a standard picklist translation. It returns a translated standard value set.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[StaticResource](atlas.en-us.api_meta.meta/api_meta/meta_staticresource.htm)**
     Represents a static resource file, often a code library in a ZIP file. Static resources allow you to upload content that you can reference in a Visualforce page, including archives (such as .zip and .jar files), images, style sheets, JavaScript, and other files. Static resources can be used only within your Salesforce org, so you can’t host content here for other apps or websites.
 -   **[StageAssignment](atlas.en-us.api_meta.meta/api_meta/meta_stageassignment.htm)**
@@ -714,11 +722,11 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[Territory2](atlas.en-us.api_meta.meta/api_meta/meta_territory2.htm)**
     Represents the metadata associated with a sales territory. This type extends the Metadata metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
 -   **[Territory2Model](atlas.en-us.api_meta.meta/api_meta/meta_territory2model.htm)**
-    Represents the metadata associated with a territory model in Sales Territories. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
+    Represents the metadata associated with a territory model in Sales Territories. This type extends the Metadata metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
 -   **[Territory2Rule](atlas.en-us.api_meta.meta/api_meta/meta_territory2rule.htm)**
     Represents the metadata associated with a territory assignment rule associated with an object, such as Account. Available if Sales Territories has been enabled.
 -   **[Territory2Type](atlas.en-us.api_meta.meta/api_meta/meta_territory2type.htm)**
-    Represents the metadata for a category of territories in Sales Territories. Every Territory2 must have a Territory2Type. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
+    Represents the metadata for a category of territories in Sales Territories. Every Territory2 must have a Territory2Type. This type extends the Metadata metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
 -   **[TimelineObjectDefinition](atlas.en-us.api_meta.meta/api_meta/meta_timelineobjectdefinition.htm)**
     Represents the container that stores the details of a timeline configuration. You can use this resource with Salesforce objects to see their records' related events in a linear time-sorted view.
 -   **[TimeSheetTemplate](atlas.en-us.api_meta.meta/api_meta/meta_timesheettemplate.htm)**
@@ -744,7 +752,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[UserProfileSearchScope](atlas.en-us.api_meta.meta/api_meta/meta_userprofilesearchscope.htm)**
     Reserved for internal use.
 -   **[UserProvisioningConfig](atlas.en-us.api_meta.meta/api_meta/meta_userprovisioningconfig.htm)**
-    Represents information to use during a user provisioning request flow, such as the attributes for an update. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents information to use during a user provisioning request flow, such as the attributes for an update. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[VirtualVisitConfig](atlas.en-us.api_meta.meta/api_meta/meta_virtualvisitconfig.htm)**
     Represents an external video provider configuration, which relays events from Salesforce to the provider.
 -   **[WaveAnalyticAssetCollection](atlas.en-us.api_meta.meta/api_meta/meta_waveanalyticassetcollection.htm)**
@@ -758,15 +766,15 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[WaveDashboard](atlas.en-us.api_meta.meta/api_meta/meta_wavedashboard.htm)**
     Represents the WaveDashboard object in the Analytics application. This type extends the MetadataWithContent metadata type and inherits its content and fullName fields.
 -   **[WaveDataset](atlas.en-us.api_meta.meta/api_meta/meta_wavedataset.htm)**
-    Represents the WaveDataset object in the Analytics application. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the WaveDataset object in the Analytics application. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[WaveLens](atlas.en-us.api_meta.meta/api_meta/meta_wavelens.htm)**
     Represents the WaveLens object in the Analytics application.
 -   **[WaveRecipe](atlas.en-us.api_meta.meta/api_meta/meta_waverecipe.htm)**
     Represents the WaveRecipe type in an Analytics application. A recipe is a saved set of steps to perform on a specific source dataset or connected data. This type extends the MetadataWithContent metadata type and inherits its content and fullName fields.
 -   **[WaveTemplateBundle](atlas.en-us.api_meta.meta/api_meta/meta_wavetemplatebundle.htm)**
-    Represents an Analytics template bundle, which can be used to create Analytics apps. A bundle contains an Analytics template definition and all its related resources.This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents an Analytics template bundle, which can be used to create Analytics apps. A bundle contains an Analytics template definition and all its related resources.This type extends the Metadata metadata type and inherits its fullName field.
 -   **[WaveXmd](atlas.en-us.api_meta.meta/api_meta/meta_wavexmd.htm)**
-    Represents the WaveXmd object in the Analytics application. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents the WaveXmd object in the Analytics application. This type extends the Metadata metadata type and inherits its fullName field.
 -   **[WebStoreBundle](atlas.en-us.api_meta.meta/api_meta/meta_webstorebundle.htm)**
     For internal use only.
 -   **[WebStoreTemplate](atlas.en-us.api_meta.meta/api_meta/meta_webstoretemplate.htm)**
@@ -774,7 +782,7 @@ Metadata API enables you to access some entities and feature settings that you c
 -   **[Workflow](atlas.en-us.api_meta.meta/api_meta/meta_workflow.htm)**
     Represents the metadata associated with a workflow rule. A workflow rule sets workflow actions into motion when its designated conditions are met. You can configure workflow actions to execute immediately when a record meets the conditions in your workflow rule, or set time triggers that execute the workflow actions on a specific day. Use this metadata type to create, update, or delete workflow rule definitions.
 -   **[WorkSkillRouting](atlas.en-us.api_meta.meta/api_meta/meta_workskillrouting.htm)**
-    Represents a setup object that stores a set of WorkSkillRoutingAttribute objects. These objects are used to route a work item to an agent who has the skills necessary to take the work. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+    Represents a setup object that stores a set of WorkSkillRoutingAttribute objects. These objects are used to route a work item to an agent who has the skills necessary to take the work. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## Related Topics
 

@@ -5,8 +5,8 @@ topic: mobileapplicationdetail
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.700Z
-estimatedTokens: 655
+lastCollected: 2026-04-07T07:46:08.281Z
+estimatedTokens: 613
 keywords: [MobileApplicationDetail, packaging, attributes, mobile, connected, app, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
@@ -14,12 +14,11 @@ keywords: [MobileApplicationDetail, packaging, attributes, mobile, connected, ap
 
 > Represents the packaging attributes for a mobile
       connected app.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # MobileApplicationDetail
 
-Represents the packaging attributes for a mobile connected app. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the packaging attributes for a mobile connected app. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -80,5 +79,4 @@ This metadata type doesn’t support the wildcard character \* (asterisk) in the
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

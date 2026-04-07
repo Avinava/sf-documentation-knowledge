@@ -5,7 +5,7 @@ topic: profile
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:41.386Z
+lastCollected: 2026-04-07T07:46:09.113Z
 estimatedTokens: 8406
 keywords: [Profile, user, user’s, permission, perform, different, functions, Salesforce, extends, Metadata, inherits, fullName, Declarative, File, Suffix]
 ---
@@ -218,7 +218,7 @@ ProfileCustomSettingAccesses represents the custom setting access for users assi
 
 ## ProfileExternalDataSourceAccess
 
-ProfileExternalDataSourceAccess represents the data source access for users with identity type of Per User. Available in API version 27.0 and later.
+ProfileExternalDataSourceAccess represents the data source access for users with identity type of Available in API version 27.0 and later.Per User.
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
@@ -289,9 +289,9 @@ ProfileObjectPermissions represents a user's access to objects.
 | Field Name | Field Type | Description |
 | --- | --- | --- |
 | allowCreate | boolean | Indicates whether the object referenced by the object field can be created by the users assigned to this profile (true) or not (false).This field is named revokeCreate before version 14.0 and the logic is reversed. The field name change and the update from true to false and the reverse is automatically handled between versions and doesn’t require any manual editing of existing XML component files. |
-| allowDelete | boolean | Indicates whether the object referenced by the object field can be deleted by the users assigned to this profile (true) or not (false).This field is named revokeDelete before version 14.0 and the logic is reversed. The field name change and the update from true to false and the reverse is automatically handled between versions and doesn’t require any manual editing of existing XML component files. |
-| allowEdit | boolean | Indicates whether the object referenced by the object field can be edited by the users assigned to this profile (true) or not (false).This field is named revokeEdit before version 14.0 and the logic is reversed. The field name change and the update from true to false and the reverse is automatically handled between versions and doesn’t require any manual editing of existing XML component files. |
-| allowRead | boolean | Indicates whether the object referenced by the object field can be seen by the users assigned to this profile (true) or not (false).This field is named revokeRead before version 14.0 and the logic is reversed. The field name change and the update from true to false and the reverse is automatically handled between versions and doesn’t require any manual editing of existing XML component files. |
+| allowDelete | boolean | Indicates whether the object referenced by the object field can be deleted by the users assigned to this profile (true) or not (false).This field is named The field name change and the update from revokeDelete before version 14.0 and the logic is reversed. true to false and the reverse is automatically handled between versions and doesn’t require any manual editing of existing XML component files. |
+| allowEdit | boolean | Indicates whether the object referenced by the object field can be edited by the users assigned to this profile (true) or not (false).This field is named The field name change and the update from revokeEdit before version 14.0 and the logic is reversed. true to false and the reverse is automatically handled between versions and doesn’t require any manual editing of existing XML component files. |
+| allowRead | boolean | Indicates whether the object referenced by the object field can be seen by the users assigned to this profile (true) or not (false).This field is named The field name change and the update from revokeRead before version 14.0 and the logic is reversed. true to false and the reverse is automatically handled between versions and doesn’t require any manual editing of existing XML component files. |
 | modifyAllRecords | boolean | Indicates whether all records for the object referenced by the object field can be read, edited, or deleted by the users assigned to this profile (true) or not (false), regardless of the sharing settings for the object. This setting is equivalent to the Modify All Data user permission limited to the individual object level. Available in API version 15.0 and later.This field isn’t available for all objects. Refer to the profile in the user interface to determine which objects currently support these permissions. Profiles with Modify All Data ignore modifyAllRecords entries in Metadata API and don't return an error if Modify All Data is enabled on the profile. |
 | object | string | Required. The name of the object whose permissions are altered by this profile, for example, MyCustomObject__c. |
 | viewAllFields | boolean | Indicates whether all fields and field data for the object referenced by the object field can be read by the users assigned to this profile (true) or not (false). Available in API version 63.0 and later. |

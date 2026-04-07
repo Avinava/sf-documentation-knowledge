@@ -5,7 +5,7 @@ topic: list-sorting
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.541Z
+lastCollected: 2026-04-07T07:38:44.997Z
 estimatedTokens: 518
 keywords: [Sorting, sort, elements, order, depends, data, SelectOption]
 ---

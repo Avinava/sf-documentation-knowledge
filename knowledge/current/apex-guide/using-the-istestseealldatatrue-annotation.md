@@ -5,7 +5,7 @@ topic: using-the-istestseealldatatrue-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.069Z
+lastCollected: 2026-04-07T07:38:44.173Z
 estimatedTokens: 594
 keywords: [isTest, SeeAllData=True, Annotation, Annotate, test, open, data, access, records, organization, queries, doesn't, apply, record, creation]
 ---

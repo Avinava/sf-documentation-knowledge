@@ -5,7 +5,7 @@ topic: iframewhitelisturlsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.946Z
+lastCollected: 2026-04-07T07:46:07.421Z
 estimatedTokens: 772
 keywords: [IframeWhiteListUrlSettings, settings, trusted, external, domains, allow, frame, Visualforce, pages, surveys, extends, Metadata, inherits, fullName, File]
 ---

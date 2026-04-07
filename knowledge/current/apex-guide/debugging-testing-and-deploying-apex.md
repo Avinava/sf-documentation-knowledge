@@ -5,7 +5,7 @@ topic: debugging-testing-and-deploying-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:33.134Z
+lastCollected: 2026-04-07T07:38:42.737Z
 estimatedTokens: 317
 keywords: [Debugging, Testing, Deploying, Apex, Develop, code, sandbox, debug, Developer, Console, logs, Unit-test, distribute, customers, packages]
 ---

@@ -5,19 +5,18 @@ topic: ordermanagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:41.026Z
-estimatedTokens: 959
+lastCollected: 2026-04-07T07:46:08.681Z
+estimatedTokens: 917
 keywords: [OrderManagementSettings, options, Salesforce, Order, Management, product, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version]
 ---
 
 # OrderManagementSettings
 
-> Represents options for the Salesforce Order Management product. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+> Represents options for the Salesforce Order Management product. This type extends the Metadata metadata type and inherits its fullName field.
 
 # OrderManagementSettings
 
-Represents options for the Salesforce Order Management product. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents options for the Salesforce Order Management product. This type extends the Metadata metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -90,6 +89,5 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,7 +5,7 @@ topic: send-e-sign-contract-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.392Z
+lastCollected: 2026-04-07T07:38:47.123Z
 estimatedTokens: 347
 keywords: [Send, e-Sign, Contract, Action, recipients, e-signature, REST, HTTP, Inputs, Output, Usage]
 ---
@@ -25,7 +25,7 @@ This action is available in API version 61.0 and later.
 
 URI
 
-/services/data/v66.0/actions/standard/sendContractForESignature
+/services/data/v59.0/actions/standard/sendContractForESignature
 
 Formats
 

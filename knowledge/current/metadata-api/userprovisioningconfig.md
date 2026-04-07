@@ -5,8 +5,8 @@ topic: userprovisioningconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.828Z
-estimatedTokens: 934
+lastCollected: 2026-04-07T07:46:10.887Z
+estimatedTokens: 892
 keywords: [UserProvisioningConfig, user, provisioning, flow, attributes, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative]
 ---
 
@@ -14,12 +14,11 @@ keywords: [UserProvisioningConfig, user, provisioning, flow, attributes, extends
 
 > Represents information to use during a user
       provisioning request flow, such as the attributes for an update.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # UserProvisioningConfig
 
-Represents information to use during a user provisioning request flow, such as the attributes for an update. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents information to use during a user provisioning request flow, such as the attributes for an update. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -104,5 +103,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

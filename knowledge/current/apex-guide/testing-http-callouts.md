@@ -5,7 +5,7 @@ topic: testing-http-callouts
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.721Z
+lastCollected: 2026-04-07T07:38:42.030Z
 estimatedTokens: 356
 keywords: [Testing, HTTP, Callouts, deploy, package, Apex, 75%, code, test, coverage, don’t, support, tests, perform, fail]
 ---

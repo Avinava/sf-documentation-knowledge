@@ -5,7 +5,7 @@ topic: surveysettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.373Z
+lastCollected: 2026-04-07T07:46:10.344Z
 estimatedTokens: 647
 keywords: [SurveySettings, org’s, survey, settings, component, enable, Salesforce, Surveys, Customer, Lifecycle, Maps, choose, whether, owner, manage]
 ---

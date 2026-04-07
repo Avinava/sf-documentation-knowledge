@@ -5,7 +5,7 @@ topic: userengagementsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.797Z
+lastCollected: 2026-04-07T07:46:10.846Z
 estimatedTokens: 2478
 keywords: [UserEngagementSettings, metadata, associated, various, feature, settings, around, Lightning, Experience, transition, adoption, user, engagement, assistance, apps]
 ---

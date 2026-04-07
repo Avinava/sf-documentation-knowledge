@@ -5,7 +5,7 @@ topic: key-concepts-about-the-apex-connector-framework
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.932Z
+lastCollected: 2026-04-07T07:38:42.378Z
 estimatedTokens: 779
 namespace: DataSource
 keywords: [Key, Concepts, Apex, Connector, Framework, DataSource, classes, develop, custom, adapter, Salesforce, Connect, org, any, data]

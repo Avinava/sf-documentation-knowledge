@@ -5,7 +5,7 @@ topic: businessalert
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:52.071Z
+lastCollected: 2026-04-07T07:38:55.991Z
 estimatedTokens: 809
 keywords: [BusinessAlert, insight, notifications, Einstein, Relationship, Insights, explores, news, mentions, job, updates, relationships, API, version, 57.0]
 ---

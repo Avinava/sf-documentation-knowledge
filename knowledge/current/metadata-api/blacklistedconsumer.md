@@ -5,8 +5,8 @@ topic: blacklistedconsumer
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.041Z
-estimatedTokens: 627
+lastCollected: 2026-04-07T07:46:03.879Z
+estimatedTokens: 585
 keywords: [BlacklistedConsumer, connected, app, inaccessible, Salesforce, org’s, users, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---
 
@@ -17,7 +17,7 @@ keywords: [BlacklistedConsumer, connected, app, inaccessible, Salesforce, org’
 
 # BlacklistedConsumer
 
-Represents a connected app that is inaccessible to your Salesforce org’s users. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents a connected app that is inaccessible to your Salesforce org’s users. This type extends the Metadata metadata type and inherits its fullName field.
 
 ![Important](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note_important.png&folder=api_meta)
 
@@ -83,7 +83,3 @@ Use this type judiciously for connected apps that you want to make inaccessible 
     <version>49.0</version>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

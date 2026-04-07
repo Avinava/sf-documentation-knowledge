@@ -5,8 +5,8 @@ topic: territory2model
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.472Z
-estimatedTokens: 1214
+lastCollected: 2026-04-07T07:46:10.464Z
+estimatedTokens: 1172
 keywords: [Territory2Model, metadata, associated, territory, model, Sales, Territories, extends, inherits, fullName, enabled, File, Suffix, Directory, Location]
 ---
 
@@ -14,13 +14,12 @@ keywords: [Territory2Model, metadata, associated, territory, model, Sales, Terri
 
 > Represents the metadata associated with a territory
       model in Sales Territories.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field. Available if Sales
+    This type extends the Metadata metadata type and inherits its fullName field. Available if Sales
     Territories has been enabled.
 
 # Territory2Model
 
-Represents the metadata associated with a territory model in Sales Territories. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
+Represents the metadata associated with a territory model in Sales Territories. This type extends the Metadata metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
 
 ## File Suffix and Directory Location
 
@@ -92,7 +91,6 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - FieldValue (atlas.en-us.api_meta.meta/api_meta/meta_territory2.htm)
 - CRUD
             calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)

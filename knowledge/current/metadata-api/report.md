@@ -5,7 +5,7 @@ topic: report
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:41.838Z
+lastCollected: 2026-04-07T07:46:09.673Z
 estimatedTokens: 10419
 keywords: [Report, custom, metadata, supports, reports, standard, aren’t, Declarative, File, Suffix, Directory, Location, Retrieving, Version, ReportAggregateFilter]
 ---

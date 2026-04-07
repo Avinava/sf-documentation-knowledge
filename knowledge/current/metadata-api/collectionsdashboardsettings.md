@@ -5,7 +5,7 @@ topic: collectionsdashboardsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.513Z
+lastCollected: 2026-04-07T07:46:04.501Z
 estimatedTokens: 645
 keywords: [CollectionsDashboardSettings, org’s, settings, add, Collections, Dashboard, application, org, Parent, Manifest, Access, File, Suffix, Directory, Location]
 ---

@@ -5,7 +5,7 @@ topic: ocrtargetobject
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.992Z
+lastCollected: 2026-04-07T07:38:53.094Z
 estimatedTokens: 238
 keywords: [OcrTargetObject, document, extracted, mapped, API, version, 50.0, later, Calls, 55.0, SOAP, REST, Special, Access, Rules, 52.0]
 ---

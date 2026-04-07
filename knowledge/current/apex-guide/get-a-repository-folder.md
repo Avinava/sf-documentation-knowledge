@@ -5,7 +5,7 @@ topic: get-a-repository-folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.342Z
+lastCollected: 2026-04-07T07:38:44.655Z
 estimatedTokens: 86
 keywords: [Repository, Folder, Call]
 ---

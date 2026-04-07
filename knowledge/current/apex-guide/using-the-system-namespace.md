@@ -5,7 +5,7 @@ topic: using-the-system-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.680Z
+lastCollected: 2026-04-07T07:38:41.958Z
 estimatedTokens: 690
 namespace: System
 keywords: [System, Apex, means, omit, creating, new, instance, calling, because, built-in, URL, statements, Disambiguation]

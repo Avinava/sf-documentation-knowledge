@@ -5,7 +5,7 @@ topic: testing-http-callouts-by-implementing-the-httpcalloutmock-interface-inter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.732Z
+lastCollected: 2026-04-07T07:38:42.045Z
 estimatedTokens: 622
 keywords: [Testing, HTTP, Callouts, Implementing, HttpCalloutMock, Provide, implementation, specify, sent, respond, Apex, runtime, calls, send, callout]
 ---

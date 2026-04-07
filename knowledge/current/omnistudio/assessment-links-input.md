@@ -5,7 +5,7 @@ topic: assessment-links-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.075Z
+lastCollected: 2026-04-07T07:38:48.322Z
 estimatedTokens: 155
 keywords: [Assessment, Links, Input, Associated, assessments, including, category, reason, sequence]
 ---

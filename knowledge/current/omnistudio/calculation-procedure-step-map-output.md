@@ -5,7 +5,7 @@ topic: calculation-procedure-step-map-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:48.462Z
+lastCollected: 2026-04-07T07:38:50.584Z
 estimatedTokens: 199
 keywords: [Calculation, Procedure, Step, Map, Output, representation, expression, version, record]
 ---

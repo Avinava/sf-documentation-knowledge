@@ -5,8 +5,8 @@ topic: navigationmenu
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.821Z
-estimatedTokens: 1332
+lastCollected: 2026-04-07T07:46:08.424Z
+estimatedTokens: 1291
 keywords: [NavigationMenu, navigation, menu, Experience, Builder, site, consists, items, users, click, parts, replaces, NavigationLinkSet, subtype, Network]
 ---
 
@@ -15,12 +15,11 @@ keywords: [NavigationMenu, navigation, menu, Experience, Builder, site, consists
 > Represents the navigation menu in an Experience Builder site. A navigation menu
     consists of items that users can click to go to other parts of the site. This type replaces the
     NavigationLinkSet subtype on Network. NavigationMenu is available in API version 47.0 and later.
-      This type extends the Metadata metadata type and inherits its
-                        fullName field.
+      This type extends the Metadata metadata type and inherits its fullName field.
 
 # NavigationMenu
 
-Represents the navigation menu in an Experience Builder site. A navigation menu consists of items that users can click to go to other parts of the site. This type replaces the NavigationLinkSet subtype on Network. NavigationMenu is available in API version 47.0 and later. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the navigation menu in an Experience Builder site. A navigation menu consists of items that users can click to go to other parts of the site. This type replaces the NavigationLinkSet subtype on Network. NavigationMenu is available in API version 47.0 and later. This type extends the Metadata metadata type and inherits its fullName field.
 
 The Help Center and LWR templates (Build Your Own and Microsites) don’t include generic record pages. So if you create an object or global action type menu item that links to a Salesforce object, make sure that you also create the corresponding object pages. If you don't create the associated object pages, end users won't see anything if they click on the menu item.
 
@@ -152,6 +151,5 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - NavigationSubMenu (atlas.en-us.api_meta.meta/api_meta/meta_network.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

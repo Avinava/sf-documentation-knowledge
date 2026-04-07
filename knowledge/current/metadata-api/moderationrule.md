@@ -5,7 +5,7 @@ topic: moderationrule
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.749Z
+lastCollected: 2026-04-07T07:46:08.338Z
 estimatedTokens: 1556
 keywords: [ModerationRule, rule, Experience, Cloud, site, moderate, member-generated, content, criteria, enforce, moderation, action, take, rules, help]
 ---

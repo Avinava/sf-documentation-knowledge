@@ -5,7 +5,7 @@ topic: integration-procedure-service-run-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.482Z
+lastCollected: 2026-04-07T07:38:48.997Z
 estimatedTokens: 99
 keywords: [Integration, Procedure, Service, Run, Input, representation, custom, data, execute, Apex]
 ---

@@ -5,8 +5,8 @@ topic: externalserviceregistration
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:39.283Z
-estimatedTokens: 2054
+lastCollected: 2026-04-07T07:46:06.592Z
+estimatedTokens: 1926
 keywords: [ExternalServiceRegistration, external, service, configuration, org, File, Suffix, Directory, Location, Version, ExternalServiceOperation, Declarative, Metadata, Sample, Definition]
 ---
 
@@ -31,14 +31,14 @@ ExternalServiceRegistration components are available in API version 39.0 and lat
 
 | Field Name | Field Type | Description |
 | --- | --- | --- |
-| catalogedApiVersion | string | A version of an API synced from an external source and managed for consumption in Salesforce by using API Catalog. |
+| catalogedApiVersion | string | A version of an API brought into API Catalog from an external source and managed for consumption in Salesforce. Available in API version 65.0 and later. |
 | description | string | The external service description defined when the service is created. |
 | label | string | Required. The service name as it appears on the External Services wizard. |
 | namedCredential | string | The reference by name to be used for the service. |
 | namedCredentialReferenceId | reference | The reference by ID to be used for the named credential. When used, supersedes namedCredential. Available in API version 57.0 and later. |
 | operations | ExternalServiceOperation[] | Items defined for this operation. |
 | registrationProvider | string | A reference to the registration provider.If the registrationProviderType is ExternalConnector, this field contains the external connector name.If the registrationProviderType is Heroku, this field contains the HerokuAppLink ID.For any other registrationProviderType value, this field is blank and reserved for future use. |
-| registrationProviderAsset | string | A polymorphic foreign key field that contains the name of the asset related to the external service registration.For an external service registration created for a named query, this field contains the named query API name.For an external service registration created for an Apex class that has methods exposed as REST resources or methods that are Aura-enabled, this field contains the Apex class name.Available in API version 66.0 and later. |
+| registrationProviderAsset | string | A polymorphic foreign key field that contains the name of the asset related to the external service registration.For an external service registration created for a named query, this field contains the named query API name.For an external service registration created for an Apex class that has methods exposed as REST resources or methods that are Aura-enabled. This field contains the Apex class name.Available in API version 66.0 and later. |
 | registrationProviderType | ExternalServiceRegistrationProviderType (enumeration of type string) | Indicates the source of the API specification registered with the External Services wizard. Valid values include:AgentActionOutputs—Reserved for internal use.AgentToAgent—The API specification represents the external service schemas that enable communication between AI agents. Available in API version 66.0 and later.Anypoint—The API specification is managed in the MuleSoft Anypoint Platform. Available in API version 63.0 and later.ApexRest—The API specification was created from an Apex REST class. Available in API version 63.0 and later.AuraEnabled—The API specification was created from an Apex class that has AuraEnabled methods. Available in API version 65.0 and later.ContextDef—The API specification used to create dynamic Apex classes for the related context definition structure. Available in API version 66.0 and later.Custom—The API specification was manually configured.CustomExternalConnector—The API specification represents a custom partner-created version of an external connection. Available in API version 66.0 and later.DocumentProcessing—Reserved for internal use.ExternalConnector—The API specification represents an external connection.Heroku—The API specification represents a Heroku app.MuleSoft—The API specification was selected from MuleSoft. Use Anypoint for MuleSoft for Agentforce: API Catalog MuleSoft sources.NamedQuery—The API specification represents a named query REST endpoint. Available in API version 64.0 and later.SchemaInferred—The API specification was provided during the HTTP Callout configuration process. Available in API version 57.0 and later.Standard—The API specification was defined when an external service was created. |
 | schema | string | The content of the OpenAPI 2.0.x or OpenAPI 3.0.x schema in JSON or YAML format. Nillable. |
 | schemaAbsoluteUrl | string | The full, absolute URL to the schema. Populated when a user selects Absolute URL during registration. |
@@ -75,10 +75,6 @@ The following JSON-encoded string defines the mapping of a non-supported media t
 ```
 
 The non-supported media type application/x-acme-json is mapped to the supported media type application/json for this External Services registration. The External Services runtime considers the non-supported media type for request and response header processing. It serializes the request and response content by the mapped supported media type.
-
-## Wildcard Support in the Manifest File
-
-This metadata type supports the wildcard character \* (asterisk) in the package.xml manifest file. For information about using the manifest file, see [Deploying and Retrieving Metadata with the Zip File](atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm "The deploy() and retrieve() calls are used to deploy and retrieve a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.").
 
 #### See Also
 
@@ -127,7 +123,3 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
     "application/x-acme-json":"application/json"
 }}
 ```
-
-## Related Topics
-
-- Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

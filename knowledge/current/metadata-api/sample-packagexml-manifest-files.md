@@ -5,8 +5,8 @@ topic: sample-packagexml-manifest-files
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:36.280Z
-estimatedTokens: 2912
+lastCollected: 2026-04-07T07:46:02.875Z
+estimatedTokens: 2875
 keywords: [Sample, package.xml, Manifest, Files, includes, show, how, work, different, subsets, metadata, file, include, multiple, <types>]
 ---
 
@@ -124,7 +124,7 @@ Note the objectName.listViewUniqueName syntax in the <members\> field where obje
 
 ## Packages
 
-To retrieve a package, set the name of the package in the [packageNames](atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm#field_packageNames) field in [RetrieveRequest](atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm "The RetrieveRequest parameter specified on a retrieve() call encapsulates options for determining which packages or files are retrieved.") when you call [retrieve()](atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm "The retrieve() call retrieves XML file representations of components in an organization."). The package.xml manifest file is automatically populated in the retrieved .zip file. The <fullName\> element in package.xml contains the name of the retrieved package.
+To retrieve a package, set the name of the package in the [packageNames](atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm#field_packageNames) field in [RetrieveRequest](atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm "The RetrieveRequest parameter specified on a retrieve() call encapsulates options for determining which packages or files are retrieved.") when you call retrieve(). The package.xml manifest file is automatically populated in the retrieved .zip file. The <fullName\> element in package.xml contains the name of the retrieved package.
 
 If you use an asterisk wildcard in a <members\> element to retrieve all the components of a particular metadata type, the retrieved contents don’t include components in managed packages.
 
@@ -272,4 +272,3 @@ When retrieving permission sets and profiles, make sure that you also retrieve a
 - StandardValueSet Names and Standard Picklist Fields (atlas.en-us.api_meta.meta/api_meta/standardvalueset_names.htm)
 - packageNames (atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm)
 - RetrieveRequest (atlas.en-us.api_meta.meta/api_meta/meta_retrieve_request.htm)
-- retrieve() (atlas.en-us.api_meta.meta/api_meta/meta_retrieve.htm)

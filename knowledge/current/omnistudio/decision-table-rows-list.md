@@ -5,7 +5,7 @@ topic: decision-table-rows-list
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:48.762Z
+lastCollected: 2026-04-07T07:38:51.079Z
 estimatedTokens: 115
 keywords: [Decision, Rows, Output, representation, relation, including, current, state, pagination]
 ---

@@ -5,7 +5,7 @@ topic: compliancemgmt-namespace
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.902Z
+lastCollected: 2026-04-07T07:38:48.021Z
 estimatedTokens: 649
 namespace: ComplianceMgmt
 keywords: [ComplianceMgmt, classes, implement, rule, processors, compliance, control]

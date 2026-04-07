@@ -5,7 +5,7 @@ topic: fieldset
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.457Z
+lastCollected: 2026-04-07T07:46:06.799Z
 estimatedTokens: 609
 keywords: [FieldSet, grouping, describing, user's, middle, business, title, Version, FieldSetItem, Declarative, Metadata, Sample, Definition, Wildcard, Support]
 ---

@@ -5,7 +5,7 @@ topic: analyticssettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:36.665Z
+lastCollected: 2026-04-07T07:46:03.405Z
 estimatedTokens: 6550
 keywords: [AnalyticsSettings, Analytics, settings, Salesforce, CRM, lets, explore, data, quickly, easily, providing, AI-powered, advanced, right, inside]
 ---

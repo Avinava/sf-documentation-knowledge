@@ -5,7 +5,7 @@ topic: delete-context-cache-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.332Z
+lastCollected: 2026-04-07T07:38:47.009Z
 estimatedTokens: 220
 keywords: [Context, Cache, Action, instance, in-memory, provided, removes, cached, data, maintained, service, performing, any, database, write]
 ---
@@ -30,7 +30,7 @@ Available in Developer, Enterprise, Professional, and Unlimited editions for Ind
 
 URI
 
-/services/data/v66.0/actions/standard/deleteContextCache
+/services/data/v59.0/actions/standard/deleteContextCache
 
 Formats
 

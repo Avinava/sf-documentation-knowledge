@@ -5,7 +5,7 @@ topic: decision-table-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:48.729Z
+lastCollected: 2026-04-07T07:38:51.026Z
 estimatedTokens: 108
 keywords: [Decision, Data, Output, representation, status, action, performed]
 ---

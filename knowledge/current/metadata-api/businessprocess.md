@@ -5,7 +5,7 @@ topic: businessprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.236Z
+lastCollected: 2026-04-07T07:46:04.102Z
 estimatedTokens: 1098
 keywords: [BusinessProcess, metadata, display, different, picklist, users, their, profile, Declarative, File, Suffix, Directory, Location, Version, Special]
 ---

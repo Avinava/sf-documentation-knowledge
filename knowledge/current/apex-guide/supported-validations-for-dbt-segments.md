@@ -5,7 +5,7 @@ topic: supported-validations-for-dbt-segments
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.431Z
+lastCollected: 2026-04-07T07:38:44.810Z
 estimatedTokens: 284
 keywords: [Validations, DBT, Segments, creating, updating, segment, ConnectApi.CdpSegmentInput, subject, SQL]
 ---

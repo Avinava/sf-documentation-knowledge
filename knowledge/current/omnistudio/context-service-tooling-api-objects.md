@@ -5,7 +5,7 @@ topic: context-service-tooling-api-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.545Z
+lastCollected: 2026-04-07T07:38:52.444Z
 estimatedTokens: 1204
 keywords: [Context, Service, Tooling, API, Objects, metadata, developer, access, REST, SOAP, API’s, SOQL, capabilities, allow, retrieve]
 ---

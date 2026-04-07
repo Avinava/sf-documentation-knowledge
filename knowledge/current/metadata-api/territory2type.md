@@ -5,21 +5,20 @@ topic: territory2type
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.496Z
-estimatedTokens: 688
+lastCollected: 2026-04-07T07:46:10.496Z
+estimatedTokens: 646
 keywords: [Territory2Type, metadata, category, territories, Sales, Every, Territory2, extends, inherits, fullName, enabled, File, Suffix, Directory, Location]
 ---
 
 # Territory2Type
 
 > Represents the metadata for a category of territories
-      in Sales Territories. Every Territory2 must have a Territory2Type. This type extends the Metadata metadata type and inherits its
-                        fullName field. Available if Sales
+      in Sales Territories. Every Territory2 must have a Territory2Type. This type extends the Metadata metadata type and inherits its fullName field. Available if Sales
     Territories has been enabled.
 
 # Territory2Type
 
-Represents the metadata for a category of territories in Sales Territories. Every Territory2 must have a Territory2Type. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
+Represents the metadata for a category of territories in Sales Territories. Every Territory2 must have a Territory2Type. This type extends the Metadata metadata type and inherits its fullName field. Available if Sales Territories has been enabled.
 
 ## File Suffix and Directory Location
 
@@ -69,7 +68,6 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - CRUD
-            calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
+          calls (atlas.en-us.api_meta.meta/api_meta/meta_crud_based_calls_intro.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,19 +5,18 @@ topic: sandboxsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.973Z
-estimatedTokens: 533
+lastCollected: 2026-04-07T07:46:09.852Z
+estimatedTokens: 491
 keywords: [SandboxSettings, Sandbox, settings, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition]
 ---
 
 # SandboxSettings
 
-> Represents Sandbox settings. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+> Represents Sandbox settings. This type extends the Metadata metadata type and inherits its fullName field.
 
 # SandboxSettings
 
-Represents Sandbox settings. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents Sandbox settings. This type extends the Metadata metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -58,5 +57,4 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)

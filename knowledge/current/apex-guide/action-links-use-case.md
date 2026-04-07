@@ -5,7 +5,7 @@ topic: action-links-use-case
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:34.429Z
+lastCollected: 2026-04-07T07:38:44.805Z
 estimatedTokens: 919
 keywords: [Action, Links, Case, integrate, Salesforce, third-party, services, feed, link, HTTP, API, download, file, open, web]
 ---

@@ -5,7 +5,7 @@ topic: servicechannel
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:42.123Z
+lastCollected: 2026-04-07T07:46:10.020Z
 estimatedTokens: 1785
 keywords: [ServiceChannel, channel, work, items, received, organization—for, cases, chats, leads, File, Suffix, Directory, Location, Version, Special]
 ---
@@ -43,9 +43,9 @@ This type is available only if Omni-Channel is enabled in your org.
 | doesCheckCapOnOwnerChange | boolean | Indicates whether the override for capacity check is on (true) or not (false). If it is on, when work is reassigned to another agent it overrides it and keeps the work assigned to the specific agent. The default value is false.This field is available in API version 65.0 and later. |
 | doesCheckCapOnStatusChange | boolean | Indicates whether the override for capacity check is on (true) or not (false). If it is on, when work is reopened it is re-assigned to a specific agent. The default value is false. This field is available in API version 65.0 and later. |
 | doesMinimizeWidgetOnAccept | boolean | Automatically minimizes the Omni-Channel widget when an agent accepts work. This field is available in API version 48.0 and later. |
-| hasAcwExtensionEnabled | Boolean | If set to true, agents can extend their After Conversation Work (ACW) time. Available only if hasAfterConvoWorkTimer is set to true. If set to true, you must also set the acwExtensionDuration and maxExtensions fields. The default value is false. Available only for service channels of type Messaging or Voice. This field is available in API version 56.0 and later. |
-| hasAfterConvoWorkTimer | Boolean | If set to true, After Conversation Work (ACW) time can be configured for the channel. If set to true, you must also set the afterConvoWorkMaxTime field. The default value is false. Available only for service channels of type Messaging or Voice.For service channels of type Voice, this field is available in API version 52.0 and later. For service channels of type messaging, this field is available in API version 56.0 and later. |
-| hasAutoAcceptEnabled | Boolean | Work items in a service channel open automatically in the agent’s workspace so that the agent doesn’t have to manually accept them. |
+| hasAcwExtensionEnabled | boolean | If set to true, agents can extend their After Conversation Work (ACW) time. Available only if hasAfterConvoWorkTimer is set to true. If set to true, you must also set the acwExtensionDuration and maxExtensions fields. The default value is false. Available only for service channels of type Messaging or Voice. This field is available in API version 56.0 and later. |
+| hasAfterConvoWorkTimer | boolean | If set to true, After Conversation Work (ACW) time can be configured for the channel. If set to true, you must also set the afterConvoWorkMaxTime field. The default value is false. Available only for service channels of type Messaging or Voice.For service channels of type Voice, this field is available in API version 52.0 and later. For service channels of type messaging, this field is available in API version 56.0 and later. |
+| hasAutoAcceptEnabled | boolean | Work items in a service channel open automatically in the agent’s workspace so that the agent doesn’t have to manually accept them. |
 | interactionComponent | string | The custom console component to open in the footer when an agent accepts a work item from this service channel. |
 | isInterruptible | boolean | Indicates whether a work item consumes interruptible or primary capacity. The default value is false. Available in API version 57.0 and later when the Interruptible Capacity feature is enabled. |
 | label | string | Required. The label of the service channel. |

@@ -5,8 +5,8 @@ topic: mydomainsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:40.781Z
-estimatedTokens: 3774
+lastCollected: 2026-04-07T07:46:08.377Z
+estimatedTokens: 3709
 keywords: [MyDomainSettings, org’s, Domain, settings, include, company, URLs, https, yourcompanyname.my.salesforce.com, extends, Metadata, inherits, fullName, File, Suffix]
 ---
 
@@ -20,7 +20,7 @@ keywords: [MyDomainSettings, org’s, Domain, settings, include, company, URLs, 
 
 # MyDomainSettings
 
-Represents your org’s My Domain settings. With My Domain, you can include your company name in your URLs, for example, https://yourcompanyname.my.salesforce.com. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents your org’s My Domain settings. With My Domain, you can include your company name in your URLs, for example, https://yourcompanyname.my.salesforce.com. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -57,10 +57,10 @@ MyDomainSettings components are available in API version 47.0 and later.
 | onboardCustomerSpecificSuffix | boolean | This field is reserved for future use. The default is false.Available in API version 63.0 and later. |
 | redirectForceComSitesUrls | boolean | If true, calls to URLs ending in .force.com that serve your Experience Cloud sites and Salesforce Sites are redirected to the corresponding current My Domain site URL. If false, these calls aren’t redirected and the user gets a file not found (404) error. The default is true.This field is only applicable whenEnhanced domains are enabled.Your org has a previous *.force.com URL associated with an Experience Cloud site or Salesforce Site.Available in API version 55.0 and later. |
 | redirectPriorMyDomain | boolean | If true, calls to URLs associated with your previous My Domain name are redirected to the corresponding URL associated with your current My Domain. If false, these calls aren’t redirected. When you deploy a new My Domain, this setting resets to its default, true.This field is only applicable whenYour org has a previous My Domain. For example, after an admin deploys a change to the My Domain.The previous My Domain hasn’t been removed via the Routing options on the My Domain Setup page. If the previous My Domain is removed, calls to URLs associated with that My Domain aren’t redirected.Available in API version 54.0 and later. |
-| use3rdPartyCookieBlockingCompatibleHostnames | boolean | Indicates whether the org’s instance name is included in Visualforce URLs when third-party cookies are blocked (true) or not (false). This field has a default value of true. Setting this field true prevents potential issues loading Visualforce pages with stabilized URLs.Only applicable when useStabilizedMyDomainHostnames is set to true and myDomainSuffix is set to MySalesforceLimited, CloudforceLimited, or DatabaseLimited.Available in API version 51.0 and later. |
+| use3rdPartyCookieBlockingCompatibleHostnames | boolean | Indicates whether the org’s instance name is included in Visualforce URLs when third-party cookies are blocked (true) or not (false). This field has a default value of true. Setting this field true prevents potential issues loading Visualforce pages with stabilized URLs.Only applicable when DatabaseLimiteduseStabilizedMyDomainHostnames is set to true and myDomainSuffix is set toAvailable in API version 51.0 and later. |
 | useEdge | boolean | Indicates whether this org’s qualifying My Domain URLs are routed through Salesforce Edge Network (true) or not (false). This field has a default value of true.This field is read-only in the API. If your org can use Salesforce Edge Network, you can enable this setting from the My Domain Setup page. After this field is set to true from Setup, it can't be set to false.Available in API version 51.0 and later. |
 | useEnhancedDomainsInSandbox | boolean | This field corresponds to the previous My Domain setting, Use enhanced domains by default in new and refreshed sandboxes, that was removed in Summer ’23.Previously, in API versions 55.0 to 57.0, if enhanced domains weren’t enabled, this field indicated whether new and refreshed sandboxes created from this org used enhanced domains by default (true) or not (false), and the default value was true. As of API version 58.0, this field’s value is always true, regardless of the value that you set. Changing its value has no effect on Salesforce, even if it reads false. |
-| useStabilizedMyDomainHostnames | boolean | Indicates whether the instance name is hidden in My Domain URLs for Visualforce, Experience Builder, Site.com Studio, and content files (true) or not (false). This field has a default value of true. For example, MyDomainName--PackageName.na44.visual.force.com becomes MyDomainName--PackageName.visualforce.com when this field is set to true.Only applicable when myDomainSuffix is set to MySalesforceLimited, CloudforceLimited, or DatabaseLimited. |
+| useStabilizedMyDomainHostnames | boolean | Indicates whether the instance name is hidden in My Domain URLs for Visualforce, Experience Builder, Site.com Studio, and content files (true) or not (false). This field has a default value of true. For example, MyDomainName--PackageName.na44.visual.force.com becomes MyDomainName--PackageName.visualforce.com when this field is set to true.Only applicable when DatabaseLimitedmyDomainSuffix is set to |
 | useStabilizedSandboxMyDomainHostnames | boolean | This field corresponds to the Stabilize the Hostname for My Domain URLs in Sandboxes release update, which was enforced in Summer ’20.When true, the instance name is hidden in My Domain URLs for sandboxes orgs. For example, MyDomainName--test.cs5.my.salesforce.com became MyDomainName--test.my.salesforce.com. As of API version 49.0, this field's value is always true, regardless of the value that you set. Changing its value has no effect on Salesforce, even if it reads false.This change applies retroactively back to API version 47.0, when this field was first introduced. Previously, in API version 47.0 to 49.0, this field indicated whether the instance name was hidden in My Domain URLs for sandboxes orgs (true) or not (false), and the field's default value was false. Now, in all API versions, this field's value is always true, even if it reads false. |
 
 ## Declarative Metadata Sample Definition
@@ -123,7 +123,3 @@ The following is an example package.xml that references the previous definition.
     <version>65.0</version>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

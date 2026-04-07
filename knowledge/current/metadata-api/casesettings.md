@@ -5,8 +5,8 @@ topic: casesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.371Z
-estimatedTokens: 5297
+lastCollected: 2026-04-07T07:46:04.274Z
+estimatedTokens: 5338
 keywords: [CaseSettings, organization’s, case, settings, owner, case-related, features, enabled, Classic, email, templates, various, activities, extends, Metadata]
 ---
 
@@ -14,12 +14,12 @@ keywords: [CaseSettings, organization’s, case, settings, owner, case-related, 
 
 > Represents an organization’s case settings, such
             as the default case owner, which case-related features are enabled, and which Classic
-            email templates are used for various case activities. This type extends the Metadata metadata 
-            type and inherits its fullName field.
+            email templates are used for various case activities. This type extends the Metadata metadata type and inherits
+            its fullName field.
 
 # CaseSettings
 
-Represents an organization’s case settings, such as the default case owner, which case-related features are enabled, and which Classic email templates are used for various case activities. This type extends the Metadata metadata type and inherits its fullName field.
+Represents an organization’s case settings, such as the default case owner, which case-related features are enabled, and which Classic email templates are used for various case activities. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
 
 In the package manifest, all organization settings metadata types are accessed using the Settings name. See [Settings](atlas.en-us.api_meta.meta/api_meta/meta_settings.htm "Represents the organization settings related to a feature. For example, your password policies, session settings and network access controls are all available in the SecuritySettings component type.") for details.
 
@@ -275,6 +275,7 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
 
 ## Related Topics
 
+- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Settings (atlas.en-us.api_meta.meta/api_meta/meta_settings.htm)
 - enumeration (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

@@ -5,8 +5,8 @@ topic: ideassettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:39.890Z
-estimatedTokens: 871
+lastCollected: 2026-04-07T07:46:07.348Z
+estimatedTokens: 853
 keywords: [IdeasSettings, metadata, manage, settings, Ideas, File, Suffix, Directory, Location, Version, Declarative, Sample, Definition, Wildcard, Support]
 ---
 
@@ -22,11 +22,11 @@ In the package manifest, all organization settings metadata types are accessed u
 
 ## File Suffix and Directory Location
 
-IdeasSettings is stored in one file named Ideas.settings in the settings folder of the corresponding package directory. The .settings files are different from other named components because there’s only one settings file for each settings component.
+IdeasSettingsIdeas.settings in the settings folder of the corresponding package directory. The .settings files are different from other named components because there’s only one settings file for each settings component.
 
 ## Version
 
-IdeasSettings is available in API version 27.0 and later.
+IdeasSettings
 
 ## Ideas
 

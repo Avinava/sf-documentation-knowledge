@@ -5,19 +5,18 @@ topic: associationenginesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.855Z
-estimatedTokens: 581
+lastCollected: 2026-04-07T07:46:03.658Z
+estimatedTokens: 539
 keywords: [AssociationEngineSettings, record, association, builder, settings, org, extends, Metadata, inherits, fullName, Parent, Manifest, Access, File, Suffix]
 ---
 
 # AssociationEngineSettings
 
-> Represents the record association builder settings for an org. This type extends the Metadata metadata type and inherits its
-                        fullName field.
+> Represents the record association builder settings for an org. This type extends the Metadata metadata type and inherits its fullName field.
 
 # AssociationEngineSettings
 
-Represents the record association builder settings for an org. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the record association builder settings for an org. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## Parent Type and Manifest Access
 
@@ -79,7 +78,3 @@ The wildcard character \* (asterisk) in the package.xml manifest file doesn’t 
   </types>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

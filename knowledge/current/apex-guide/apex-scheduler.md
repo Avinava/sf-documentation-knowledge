@@ -5,7 +5,7 @@ topic: apex-scheduler
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:33.979Z
+lastCollected: 2026-04-07T07:38:44.023Z
 estimatedTokens: 4298
 keywords: [Apex, Scheduler, delay, execution, run, classes, time, ideal, daily, weekly, maintenance, tasks, Batch, Implementing, Schedulable]
 ---

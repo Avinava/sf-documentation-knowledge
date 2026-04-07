@@ -5,7 +5,7 @@ topic: group-related-entity
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:48.989Z
+lastCollected: 2026-04-07T07:38:51.462Z
 estimatedTokens: 115
 keywords: [Group, Entity, Output, representation, fetch, records, party, relationship]
 ---

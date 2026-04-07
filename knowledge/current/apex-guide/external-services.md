@@ -5,7 +5,7 @@ topic: external-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.426Z
+lastCollected: 2026-04-07T07:38:43.162Z
 estimatedTokens: 217
 namespace: ExternalService
 keywords: [External, Services, connect, Salesforce, org, service, outside, employee, banking, register, call, natively, Apex, code, Objects]

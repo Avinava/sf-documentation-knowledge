@@ -5,8 +5,8 @@ topic: rest-resources
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:41.888Z
-estimatedTokens: 1424
+lastCollected: 2026-04-07T07:46:09.735Z
+estimatedTokens: 1399
 keywords: [REST, Resources, resource, deployRequest, move, metadata, XML, files, Salesforce, organization, local, file, system, Working, Zip]
 ---
 
@@ -29,10 +29,6 @@ Metadata deployment is used primarily for the following development scenarios.
 ## Working with the Zip File
 
 The deployRequest resource is used to deploy a .zip file. Within the .zip file is a project manifest (package.xml) that lists what to retrieve or deploy, and one or more XML components that are organized into folders.
-
-![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=api_meta)
-
-#### Note
 
 A component is an instance of a metadata type. For example, CustomObject is a metadata type for custom objects, and the MyCustomObject\_\_c component is an instance of a custom object.
 

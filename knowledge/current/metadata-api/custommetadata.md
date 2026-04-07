@@ -5,8 +5,8 @@ topic: custommetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.986Z
-estimatedTokens: 2125
+lastCollected: 2026-04-07T07:46:05.043Z
+estimatedTokens: 2115
 keywords: [CustomMetadata, record, custom, metadata, File, Suffix, Directory, Location, Version, Special, Access, Rules, CustomMetadataValue, Declarative, Sample]
 ---
 
@@ -131,7 +131,7 @@ You can also omit the xsi:type attribute. For example, <value\>true</value\>.
 
 Although this attribute must be specified for any CustomMetadataValue, you can use an element with the xsi:nil attribute set to true to explicitly set the field’s value to null. For example, <value xsi:nil="true"/>.
 
-Using null field values differs from leaving out the CustomMetadataValue for a particular field entirely. If you leave out the CustomMetadataValue, the value of the field doesn’t change. The field’s value is null for newly deployed custom metadata records and left at its previous value for updated custom metadata records.
+Using null field values differs from leaving out the for a particular field entirely. If you leave out the , the value of the field doesn’t change. The field’s value is null for newly deployed custom metadata records and left at its previous value for updated custom metadata records.
 
 When you retrieve CustomMetadataValue objects, the value field of the returned object holds a value of the correct type, specified by xsi:type in the case of declarative metadata definitions.
 

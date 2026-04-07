@@ -5,8 +5,8 @@ topic: notificationtypeconfig
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.900Z
-estimatedTokens: 889
+lastCollected: 2026-04-07T07:46:08.513Z
+estimatedTokens: 847
 keywords: [NotificationTypeConfig, metadata, associated, org-level, notification, settings, standard, custom, extends, inherits, fullName, File, Suffix, Directory, Location]
 ---
 
@@ -14,12 +14,11 @@ keywords: [NotificationTypeConfig, metadata, associated, org-level, notification
 
 > Represents the metadata associated with
             org-level notification settings for standard and custom notification types.
-        This type extends the Metadata metadata type and inherits its
-                        fullName field.
+        This type extends the Metadata metadata type and inherits its fullName field.
 
 # NotificationTypeConfig
 
-Represents the metadata associated with org-level notification settings for standard and custom notification types. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the metadata associated with org-level notification settings for standard and custom notification types. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -132,5 +131,4 @@ This metadata type supports the wildcard character \* (asterisk) in the package.
 
 ## Related Topics
 
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Deploying and Retrieving Metadata with the Zip File (atlas.en-us.api_meta.meta/api_meta/file_based_zip_file.htm)

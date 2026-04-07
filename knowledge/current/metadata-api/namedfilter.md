@@ -5,7 +5,7 @@ topic: namedfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:43.303Z
+lastCollected: 2026-04-07T07:46:11.447Z
 estimatedTokens: 1582
 keywords: [NamedFilter, metadata, associated, lookup, filter, definitions, component, removed, API, version, 30.0, previous, versions, now, represented]
 ---
@@ -13,12 +13,10 @@ keywords: [NamedFilter, metadata, associated, lookup, filter, definitions, compo
 # NamedFilter
 
 > Represents the metadata associated with a lookup filter. This metadata
-            type
-            is used to create, update, or delete lookup filter definitions. This
-            component has been removed as of API version 30.0 and is only available in previous API
-            versions. The metadata associated with a lookup
-                filter is now represented by the lookupFilter field in the CustomField
-                component.
+            type is used to create, update, or delete lookup filter definitions. This component has
+            been removed as of API version 30.0 and is only available in previous API versions. The
+            metadata associated with a lookup filter is now represented by the lookupFilter field in
+            the CustomField component.
 
 # NamedFilter
 

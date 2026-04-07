@@ -5,7 +5,7 @@ topic: build-a-mocking-framework-with-the-stub-api
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.077Z
+lastCollected: 2026-04-07T07:38:44.184Z
 estimatedTokens: 1346
 namespace: StubProvider
 keywords: [Build, Mocking, Framework, Stub, API, Apex, implementing, benefits, streamline, improve, testing, help, faster, reliable, tests]

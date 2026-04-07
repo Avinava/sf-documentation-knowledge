@@ -5,7 +5,7 @@ topic: entitlementtemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:38.989Z
+lastCollected: 2026-04-07T07:46:06.245Z
 estimatedTokens: 615
 keywords: [EntitlementTemplate, entitlement, template, templates, predefined, terms, customer, support, quickly, add, products, Web, phone, users, easily]
 ---

@@ -5,7 +5,7 @@ topic: simulation-step-additional-info-output
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.412Z
+lastCollected: 2026-04-07T07:38:52.142Z
 estimatedTokens: 242
 keywords: [Simulation, Step, Additional, Info, Output, decision, matrix, sub, expression]
 ---

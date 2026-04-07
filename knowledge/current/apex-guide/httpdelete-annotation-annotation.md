@@ -5,7 +5,7 @@ topic: httpdelete-annotation-annotation
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.505Z
+lastCollected: 2026-04-07T07:38:41.665Z
 estimatedTokens: 81
 keywords: [HttpDelete, Annotation, @HttpDelete, level, expose, Apex, REST, resource, HTTP, sent, deletes]
 ---

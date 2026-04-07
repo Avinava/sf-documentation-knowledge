@@ -5,7 +5,7 @@ topic: soql-and-sosl-queries
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.462Z
+lastCollected: 2026-04-07T07:38:44.848Z
 estimatedTokens: 1351
 keywords: [SOQL, SOSL, Queries, evaluate, Salesforce, Query, Language, Search, statements, on-the-fly, Apex, surrounding, statement, square, brackets]
 ---

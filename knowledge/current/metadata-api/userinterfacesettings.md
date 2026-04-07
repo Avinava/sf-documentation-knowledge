@@ -5,7 +5,7 @@ topic: userinterfacesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.806Z
+lastCollected: 2026-04-07T07:46:10.862Z
 estimatedTokens: 1813
 keywords: [UserInterfaceSettings, settings, modify, behavior, org’s, user, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative]
 ---

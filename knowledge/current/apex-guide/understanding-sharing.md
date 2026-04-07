@@ -5,7 +5,7 @@ topic: understanding-sharing
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:32.335Z
+lastCollected: 2026-04-07T07:38:41.389Z
 estimatedTokens: 1540
 keywords: [Understanding, Sharing, record-level, access, control, custom, objects, well, standard, Account, Contact, Opportunity, Case, Administrators, object’s]
 ---

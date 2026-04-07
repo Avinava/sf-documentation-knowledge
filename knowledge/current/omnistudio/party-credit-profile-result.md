@@ -5,7 +5,7 @@ topic: party-credit-profile-result
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.137Z
+lastCollected: 2026-04-07T07:38:51.704Z
 estimatedTokens: 379
 keywords: [Party, Credit, Profile, Result, Output, representation]
 ---

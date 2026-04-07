@@ -5,7 +5,7 @@ topic: party-financial-liability-borrower-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.561Z
+lastCollected: 2026-04-07T07:38:49.106Z
 estimatedTokens: 304
 keywords: [Party, Financial, Liability, Borrower, Input, representation]
 ---

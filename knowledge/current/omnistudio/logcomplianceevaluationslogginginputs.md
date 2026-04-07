@@ -5,7 +5,7 @@ topic: logcomplianceevaluationslogginginputs
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.474Z
+lastCollected: 2026-04-07T07:38:47.320Z
 estimatedTokens: 228
 keywords: [logComplianceEvaluations, loggingInputs, Log, compliance, check, events, control, API, supports, maximum, number, logs, per, audit, calls]
 ---

@@ -5,8 +5,8 @@ topic: deployresult
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:38.473Z
-estimatedTokens: 4584
+lastCollected: 2026-04-07T07:46:05.607Z
+estimatedTokens: 4569
 keywords: [DeployResult, success, failure, associated, deploy, call, DeployDetails, DeployMessage, RunTestsResult, CodeCoverageResult, CodeCoverageWarning, RunTestFailure, FlowCoverageResult, FlowCoverageWarning, RunTestSuccess]
 ---
 
@@ -69,8 +69,8 @@ While a deployment is still in-progress, the DeployDetails object only contains 
 | --- | --- | --- |
 | componentFailures | DeployMessage[] | One or more DeployMessage objects containing deployment errors for each component. |
 | componentSuccesses | DeployMessage[] | One or more DeployMessage objects containing successful deployment details for each component. |
-| retrieveResult | RetrieveResult | If the performRetrieve parameter was specified for the deploy() call, a retrieve() call is performed immediately after the deploy() process completes. This field contains the results of that retrieval. |
-| runTestResult | RunTestsResult | If tests were run for the deploy() call, this field contains the test results. While a deployment is still in-progress, this field only contains error data. After the deployment process finishes, this field populates with the data for the entire deployment. |
+| retrieveResult | RetrieveResult | If the performRetrieve parameter was specified for the deploy() call, a retrieve() call is performed immediately after the deploy() process completes. |
+| runTestResult | RunTestsResult | If tests were run for the deploy() call, this field contains the test results. |
 
 For API version 28.0 and earlier, the DeployResult object has the following properties.
 
@@ -105,6 +105,8 @@ As of the Spring '20 release, only authenticated users can access DeployMessage 
 | success | boolean | Indicates whether the component was successfully deployed (true) or not (false). |
 
 ## RunTestsResult
+
+The RunTestsResult object contains this object. It contains information about whether or not the compile of the specified Apex and run of the unit tests was successful.
 
 A RunTestsResult object has the following properties
 

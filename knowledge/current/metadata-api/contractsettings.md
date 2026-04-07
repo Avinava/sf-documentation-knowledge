@@ -5,7 +5,7 @@ topic: contractsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.709Z
+lastCollected: 2026-04-07T07:46:04.726Z
 estimatedTokens: 555
 keywords: [ContractSettings, contract, settings, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition, Wildcard, Support, Manifest]
 ---

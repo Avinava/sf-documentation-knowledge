@@ -5,7 +5,7 @@ topic: approvalprocess
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:36.793Z
+lastCollected: 2026-04-07T07:46:03.571Z
 estimatedTokens: 4084
 keywords: [ApprovalProcess, metadata, associated, approval, process, automates, how, records, approved, Salesforce, step, including, point, File, Suffix]
 ---

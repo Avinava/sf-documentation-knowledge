@@ -5,7 +5,7 @@ topic: integrationproviderdef
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:50.972Z
+lastCollected: 2026-04-07T07:38:54.432Z
 estimatedTokens: 1484
 keywords: [IntegrationProviderDef, integration, definition, associated, service, process, Stores, data, Industries, Send, Apex, Async, External, invocable, actions]
 ---

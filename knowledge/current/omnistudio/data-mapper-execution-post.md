@@ -5,8 +5,8 @@ topic: data-mapper-execution-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:47.977Z
-estimatedTokens: 299
+lastCollected: 2026-04-07T07:38:49.762Z
+estimatedTokens: 414
 keywords: [Data, Mapper, Execution, POST, Execute, Apex, classes, specifying, along, additional, inputs, options]
 ---
 
@@ -18,6 +18,12 @@ keywords: [Data, Mapper, Execution, POST, Execute, Apex, classes, specifying, al
 # Data Mapper Execution (POST)
 
 Execute a data mapper from Apex classes by specifying the name of the data mapper along with additional inputs and options.
+
+![Note](/docs/resources/img/en-us/260.0?doc_id=images%2Ficon_note.png&folder=industries_reference)
+
+#### Note
+
+When using the Data Mapper (DM) Connect API, HTTP callouts cannot be executed in the same transaction. This is because these APIs perform an implicit DML operation through the underlying Connect API framework. If a callout is required, it must be executed in a separate transaction, for example by using an asynchronous mechanism such as @future.
 
 Resource
 

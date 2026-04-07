@@ -5,7 +5,7 @@ topic: folder
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:39.585Z
+lastCollected: 2026-04-07T07:46:06.958Z
 estimatedTokens: 1368
 keywords: [Folder, extends, Metadata, inherits, fullName, File, Suffix, Directory, Location, Deploying, Retrieving, Nested, Folders, Version, Declarative]
 ---

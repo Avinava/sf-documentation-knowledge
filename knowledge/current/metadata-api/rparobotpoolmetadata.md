@@ -5,7 +5,7 @@ topic: rparobotpoolmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.949Z
+lastCollected: 2026-04-07T07:46:09.817Z
 estimatedTokens: 12
 keywords: [RpaRobotPoolMetadata, Reserved, future]
 ---

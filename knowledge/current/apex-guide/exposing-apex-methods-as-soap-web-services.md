@@ -5,7 +5,7 @@ topic: exposing-apex-methods-as-soap-web-services
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.213Z
+lastCollected: 2026-04-07T07:38:44.426Z
 estimatedTokens: 411
 keywords: [Exposing, Apex, SOAP, Web, Services, expose, external, applications, access, code, application]
 ---

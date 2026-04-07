@@ -5,7 +5,7 @@ topic: sharingreason
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.717Z
+lastCollected: 2026-04-07T07:46:03.477Z
 estimatedTokens: 557
 keywords: [SharingReason, Apex, sharing, reason, indicate, why, implemented, custom, managed, developers, programmatically, share, objects, users, “Modify]
 ---

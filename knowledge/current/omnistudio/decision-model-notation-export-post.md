@@ -5,7 +5,7 @@ topic: decision-model-notation-export-post
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:47.809Z
+lastCollected: 2026-04-07T07:38:49.484Z
 estimatedTokens: 272
 keywords: [Decision, Model, Notation, Export, POST, matrix, data, file, DMN, easily, readable, business, rules, designed, Management]
 ---

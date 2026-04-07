@@ -5,7 +5,7 @@ topic: ai-accelerator-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:46.426Z
+lastCollected: 2026-04-07T07:38:47.194Z
 estimatedTokens: 439
 keywords: [Accelerator, Standard, Objects, configure, case, defining, feature, extractor, machine, learning, model, saving, prediction, results]
 ---

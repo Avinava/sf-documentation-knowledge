@@ -5,7 +5,7 @@ topic: record-stage-overview-get
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:48.270Z
+lastCollected: 2026-04-07T07:38:50.186Z
 estimatedTokens: 137
 keywords: [Record, Stage, stages, their, associated, fulfillment, steps, specific]
 ---

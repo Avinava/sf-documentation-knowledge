@@ -5,7 +5,7 @@ topic: ocrsampledocument
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.969Z
+lastCollected: 2026-04-07T07:38:53.056Z
 estimatedTokens: 727
 keywords: [OcrSampleDocument, sample, document, that's, extracting, mapping, customer, API, version, 50.0, later, Calls, form.This, extends, Metadata, inherits, fullName, File, Suffix, Directory]
 ---

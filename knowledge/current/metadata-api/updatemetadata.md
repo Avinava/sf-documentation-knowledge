@@ -5,7 +5,7 @@ topic: updatemetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.726Z
+lastCollected: 2026-04-07T07:46:10.752Z
 estimatedTokens: 984
 keywords: [updateMetadata, Updates, metadata, components, organization, synchronously, Usage, Version, Permissions, Basic, Steps, Updating, Sample, Code—Java, Arguments]
 ---
@@ -137,7 +137,7 @@ public void updateCustomObjectSync() {
 - Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)
 - Metadata Components and Types (atlas.en-us.api_meta.meta/api_meta/meta_objects_intro.htm)
 - AllOrNoneHeader (atlas.en-us.api_meta.meta/api_meta/meta_allornoneheader.htm)
-- Modify
-                    Metadata Through Metadata API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
+- Modify Metadata Through Metadata
+                    API Functions (atlas.en-us.api_meta.meta/api_meta/meta_metadata_perm.htm)
 - CustomMetadata (atlas.en-us.api_meta.meta/api_meta/meta_custommetadata.htm)
 - CustomApplication (atlas.en-us.api_meta.meta/api_meta/meta_customapplication.htm)

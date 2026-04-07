@@ -5,8 +5,8 @@ topic: sharingset
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.230Z
-estimatedTokens: 1173
+lastCollected: 2026-04-07T07:46:10.159Z
+estimatedTokens: 1135
 keywords: [SharingSet, sharing, access, mapping, grants, portal, community, users, objects, associated, their, accounts, contacts, File, Suffix]
 ---
 
@@ -59,7 +59,7 @@ Sharing sets are available with these licenses.
 
 ## AccessMapping
 
-AccessMapping represents an access mapping in the sharing set, which grants access to a target object by looking up to an account or contact associated with the user.
+AccessMapping
 
 You can grant portal users access to a target object, or to both a target object and its associated objects, such as an account and its contacts and cases.
 

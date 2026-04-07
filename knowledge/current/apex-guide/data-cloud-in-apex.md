@@ -5,7 +5,7 @@ topic: data-cloud-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:32.178Z
+lastCollected: 2026-04-07T07:38:41.076Z
 estimatedTokens: 910
 keywords: [Data, Cloud, Apex, objects, constraints, considerations, detailed, topic, Further, mock, SOQL, query, responses, model, DMOs]
 ---

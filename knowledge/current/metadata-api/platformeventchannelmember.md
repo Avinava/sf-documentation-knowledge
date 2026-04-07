@@ -5,7 +5,7 @@ topic: platformeventchannelmember
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.239Z
+lastCollected: 2026-04-07T07:46:08.939Z
 estimatedTokens: 1884
 keywords: [PlatformEventChannelMember, entity, selected, Change, Data, Capture, notifications, standard, custom, channel, platform, event, File, Suffix, Directory]
 ---

@@ -5,7 +5,7 @@ topic: apex-rest-code-sample-using-restrequest
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:33.925Z
+lastCollected: 2026-04-07T07:38:43.938Z
 estimatedTokens: 544
 keywords: [Apex, REST, Code, Sample, RestRequest, how, add, attachment, record]
 ---

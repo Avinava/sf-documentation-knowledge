@@ -5,7 +5,7 @@ topic: lightningexperiencetheme
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.351Z
+lastCollected: 2026-04-07T07:46:07.849Z
 estimatedTokens: 1038
 keywords: [LightningExperienceTheme, custom, theme, including, BrandingSet, Themes, enable, admins, specify, configurable, attributes, three, colors, five, images]
 ---

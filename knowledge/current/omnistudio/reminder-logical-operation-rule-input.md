@@ -5,7 +5,7 @@ topic: reminder-logical-operation-rule-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.700Z
+lastCollected: 2026-04-07T07:38:49.310Z
 estimatedTokens: 172
 keywords: [Reminder, Logical, Operation, Rule, Input, representation, that’s, configure]
 ---

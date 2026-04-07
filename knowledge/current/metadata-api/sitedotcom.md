@@ -5,7 +5,7 @@ topic: sitedotcom
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.246Z
+lastCollected: 2026-04-07T07:46:10.179Z
 estimatedTokens: 683
 keywords: [SiteDotCom, site, deployment, Declarative, Metadata, File, Suffix, Directory, Location, Version, Sample, Definition, Usage, Wildcard, Support]
 ---

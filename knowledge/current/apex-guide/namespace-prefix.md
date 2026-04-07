@@ -5,7 +5,7 @@ topic: namespace-prefix
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:32.673Z
+lastCollected: 2026-04-07T07:38:41.946Z
 estimatedTokens: 831
 namespace: Schema
 keywords: [Prefix, Salesforce, application, supports, prefixes, managed, AppExchange, packages, differentiate, custom, organizations, Namespaces, Invoking, Package, Versioned]

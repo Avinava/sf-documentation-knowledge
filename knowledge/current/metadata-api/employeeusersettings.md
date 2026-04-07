@@ -5,8 +5,8 @@ topic: employeeusersettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:38.900Z
-estimatedTokens: 660
+lastCollected: 2026-04-07T07:46:06.140Z
+estimatedTokens: 619
 keywords: [EmployeeUserSettings, employee-user, settings, automatically, creating, syncing, employee, user, data, work.com, orgs, extends, Metadata, inherits, fullName]
 ---
 
@@ -14,12 +14,11 @@ keywords: [EmployeeUserSettings, employee-user, settings, automatically, creatin
 
 > Represents the employee-user settings used for
       automatically creating or syncing employee and user data in work.com orgs.
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+    This type extends the Metadata metadata type and inherits its fullName field.
 
 # EmployeeUserSettings
 
-Represents the employee-user settings used for automatically creating or syncing employee and user data in work.com orgs. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents the employee-user settings used for automatically creating or syncing employee and user data in work.com orgs. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## File Suffix and Directory Location
 
@@ -81,7 +80,3 @@ The following example of package.xml file retrieves the EmployeeUserSettings met
 <version>50.0</version>
 </Package>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

@@ -5,7 +5,7 @@ topic: trailheadsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:42.520Z
+lastCollected: 2026-04-07T07:46:10.526Z
 estimatedTokens: 716
 keywords: [TrailheadSettings, org’s, integration, Trailhead, Learning, Paths, Enablement, programs, including, access, sites, formerly, myTrailhead, File, Suffix]
 ---

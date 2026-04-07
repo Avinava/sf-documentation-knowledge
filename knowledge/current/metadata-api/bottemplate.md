@@ -5,7 +5,7 @@ topic: bottemplate
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.100Z
+lastCollected: 2026-04-07T07:46:03.950Z
 estimatedTokens: 1079
 keywords: [BotTemplate, configuration, specific, Einstein, Bot, template, including, dialogs, variables, Parent, File, Suffix, Directory, Location, Version]
 ---

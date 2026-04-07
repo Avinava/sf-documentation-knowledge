@@ -5,7 +5,7 @@ topic: deploying-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:33.220Z
+lastCollected: 2026-04-07T07:38:42.874Z
 estimatedTokens: 717
 keywords: [Deploying, Apex, can't, develop, Salesforce, production, org, development, work, sandbox, scratch, Developer, Edition, Compile, Deploy]
 ---

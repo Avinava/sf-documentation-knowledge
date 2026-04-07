@@ -5,7 +5,7 @@ topic: forecastingfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:39.596Z
+lastCollected: 2026-04-07T07:46:06.978Z
 estimatedTokens: 585
 keywords: [ForecastingFilter, custom, filter, including, excluding, data, opportunity, forecasts, Parent, File, Suffix, Directory, Location, Version, Special]
 ---

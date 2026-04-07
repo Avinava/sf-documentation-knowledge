@@ -5,7 +5,7 @@ topic: business-rules-input
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:47.102Z
+lastCollected: 2026-04-07T07:38:48.377Z
 estimatedTokens: 256
 keywords: [Business, Rules, Input, representation, expression]
 ---

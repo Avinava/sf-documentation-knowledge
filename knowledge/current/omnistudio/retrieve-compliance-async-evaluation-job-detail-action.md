@@ -5,7 +5,7 @@ topic: retrieve-compliance-async-evaluation-job-detail-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.387Z
+lastCollected: 2026-04-07T07:38:47.115Z
 estimatedTokens: 348
 keywords: [Retrieve, Compliance, Async, Evaluation, Job, Detail, Action, asynchronous, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
@@ -28,7 +28,7 @@ To use this action, you must have the Compliance User permission set.
 
 URI
 
-/services/data/v66.0/actions/standard/retrieveCmplAsyncEvalJobDtl
+/services/data/v59.0/actions/standard/retrieveCmplAsyncEvalJobDtl
 
 Formats
 

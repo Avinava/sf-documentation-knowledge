@@ -5,7 +5,7 @@ topic: customaddressfieldsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:37.875Z
+lastCollected: 2026-04-07T07:46:04.917Z
 estimatedTokens: 694
 keywords: [CustomAddressFieldSettings, settings, custom, address, Parent, Manifest, Access, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample]
 ---

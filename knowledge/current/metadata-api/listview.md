@@ -5,8 +5,8 @@ topic: listview
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:40.393Z
-estimatedTokens: 2017
+lastCollected: 2026-04-07T07:46:07.906Z
+estimatedTokens: 2008
 keywords: [ListView, filtered, records, contacts, accounts, custom, objects, Declarative, Metadata, File, Suffix, Directory, Location, Version, ListViewFilter]
 ---
 
@@ -73,7 +73,7 @@ The FilterScope is an enumeration of type string that represents the filtering c
 | Queue | Records assigned to a queue. |
 | Delegated | Records delegated to another user for action: for example, a delegated task. This option is available in API version 17.0 and later. |
 | MyTerritory | Records in the territory of the user seeing the list view. This option is available if territory management is enabled for your organization. Opportunities can’t be filtered by MyTerritory. This option is available in API version 17.0 and later. |
-| MyTeamTerritory | Records in the territory of the team of the user seeing the list view. This option is available if territory management is enabled for your organization. Opportunities can’t be filtered by MyTeamTerritory. This option is available in API version 17.0 and later. |
+| MyTeamTerritory | Records in the territory of the team of the user seeing the list view. This option is available if territory management is enabled for your organization.MyTeamTerritory. This option is available in API version 17.0 and later. |
 | Team | Records assigned to a team. In the Lightning Experience UI, the corresponding list view filter is My team’s opportunities. This option is available in API version 17.0 and later. |
 | SalesTeam | Opportunities assigned to an opportunity team. In the Lightning Experience UI, the corresponding list view filter is My opportunity teams. This option is available in API version 49.0 and later. |
 | ScopingRule | Records that meet a scoping rule's record criteria. In Lightning Experience, scoping rules are applied to list views only if the user selects Filter by scope. |

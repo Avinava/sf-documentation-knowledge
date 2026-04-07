@@ -5,7 +5,7 @@ topic: debugging-apex-api-calls
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.142Z
+lastCollected: 2026-04-07T07:38:42.758Z
 estimatedTokens: 683
 keywords: [Debugging, Apex, API, Calls, invoke, support, debug, facility, access, detailed, execution, code, including, any, System.debug]
 ---

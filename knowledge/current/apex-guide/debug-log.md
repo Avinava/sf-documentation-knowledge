@@ -5,7 +5,7 @@ topic: debug-log
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.153Z
+lastCollected: 2026-04-07T07:38:42.777Z
 estimatedTokens: 2569
 namespace: YourClass
 keywords: [Debug, Log, record, database, operations, system, processes, errors, occur, executing, transaction, running, unit, tests, logs]

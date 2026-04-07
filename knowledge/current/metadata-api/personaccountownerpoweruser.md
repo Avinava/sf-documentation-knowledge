@@ -5,19 +5,17 @@ topic: personaccountownerpoweruser
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:41.178Z
+lastCollected: 2026-04-07T07:46:08.868Z
 estimatedTokens: 287
 keywords: [PersonAccountOwnerPowerUser, user, own, customer, partner, portal, accounts, Person, account, owner, power, users, large, number, either]
 ---
 
 # PersonAccountOwnerPowerUser
 
-> Represents a user who can own more than 50,000 customer or
-      partner portal accounts. Person account owner power users can own a large
-        number of either customer or partner users. They can’t change their role, look up to a
-        parent role, or reparent their role. Person account owner power user objects can't be
-        created if deferred sharing is turned on for your org. This object is available in API
-      version 57.0 and later.
+> Represents a user who can own more than 50,000 customer or partner portal accounts. Person account owner power users can own a large number of either customer or
+      partner users. They can’t change their role, look up to a parent role, or reparent their role.
+      Person account owner power user objects can't be created if deferred sharing is turned on for
+      your org. This object is available in API version 57.0 and later.
 
 # PersonAccountOwnerPowerUser
 

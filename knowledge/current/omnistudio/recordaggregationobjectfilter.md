@@ -5,7 +5,7 @@ topic: recordaggregationobjectfilter
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:53.348Z
+lastCollected: 2026-04-07T07:38:57.709Z
 estimatedTokens: 443
 keywords: [RecordAggregationObjectFilter, filter, applied, records, record, aggregation, join, sequence, API, version, 60.0, later, SOAP, Calls, REST]
 ---

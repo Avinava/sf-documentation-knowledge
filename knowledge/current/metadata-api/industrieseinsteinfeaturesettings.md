@@ -5,7 +5,7 @@ topic: industrieseinsteinfeaturesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.253Z
+lastCollected: 2026-04-07T07:46:02.836Z
 estimatedTokens: 668
 keywords: [IndustriesEinsteinFeatureSettings, settings, enabling, Industries, Einstein, feature, File, Suffix, Directory, Location, Version, Declarative, Metadata, Sample, Definition]
 ---

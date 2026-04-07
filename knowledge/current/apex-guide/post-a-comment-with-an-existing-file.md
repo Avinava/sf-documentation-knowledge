@@ -5,7 +5,7 @@ topic: post-a-comment-with-an-existing-file
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.357Z
+lastCollected: 2026-04-07T07:38:44.686Z
 estimatedTokens: 132
 keywords: [Post, Comment, File, call, already, uploaded]
 ---

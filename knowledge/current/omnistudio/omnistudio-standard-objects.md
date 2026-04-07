@@ -5,7 +5,7 @@ topic: omnistudio-standard-objects
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:51.377Z
+lastCollected: 2026-04-07T07:38:54.960Z
 estimatedTokens: 902
 keywords: [Omnistudio, Standard, Objects, data, model, foundational, across, components, consistent, access, management, guided, experiences, process, automation]
 ---

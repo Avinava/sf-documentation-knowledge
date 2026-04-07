@@ -5,7 +5,7 @@ topic: createmetadata
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:37.849Z
+lastCollected: 2026-04-07T07:46:04.883Z
 estimatedTokens: 1080
 keywords: [createMetadata, Adds, new, metadata, components, organization, synchronously, Usage, Version, Permissions, Data, Basic, Steps, Creating, Sample]
 ---

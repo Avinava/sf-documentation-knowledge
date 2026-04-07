@@ -5,7 +5,7 @@ topic: understanding-testing-in-apex
 apiVersion: 67.0
 release: summer-26-v67
 docType: concept
-lastCollected: 2026-03-12T09:33:34.059Z
+lastCollected: 2026-04-07T07:38:44.155Z
 estimatedTokens: 580
 keywords: [Understanding, Testing, Apex, key, successful, long-term, development, critical, component, process, strongly, recommend, test-driven, test, occurs]
 ---

@@ -5,20 +5,19 @@ topic: workdotcomsettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:36.287Z
-estimatedTokens: 648
+lastCollected: 2026-04-07T07:46:02.886Z
+estimatedTokens: 606
 keywords: [WorkDotComSettings, WorkDotCom, settings, extends, Metadata, inherits, fullName, Version, Declarative, Sample, Definition]
 ---
 
 # WorkDotComSettings
 
-> Represents WorkDotCom settings. 
-    This type extends the Metadata metadata type and inherits its
-                        fullName field.
+> Represents WorkDotCom settings.  This type extends
+    the Metadata metadata type and inherits its fullName field.
 
 # WorkDotComSettings
 
-Represents WorkDotCom settings. This type extends the [Metadata](atlas.en-us.api_meta.meta/api_meta/metadata.htm "The base class for all metadata types. You can’t edit this object. A component is an instance of a metadata type.") metadata type and inherits its fullName field.
+Represents WorkDotCom settings. This type extends the Metadata metadata type and inherits its fullName field.
 
 ## Version
 
@@ -70,7 +69,3 @@ The following is an example of a WorkDotComSettings component.
     <enableWorkThanksPref>true</enableWorkThanksPref>
     </WorkDotComSettings>
 ```
-
-## Related Topics
-
-- Metadata (atlas.en-us.api_meta.meta/api_meta/metadata.htm)

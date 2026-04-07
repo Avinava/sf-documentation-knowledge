@@ -5,7 +5,7 @@ topic: batchjobpartfailedrecord
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:52.052Z
+lastCollected: 2026-04-07T07:38:55.966Z
 estimatedTokens: 583
 keywords: [BatchJobPartFailedRecord, records, batch, job, part, couldn't, successfully, process, API, version, 51.0, later, Calls, Associated, Objects]
 ---

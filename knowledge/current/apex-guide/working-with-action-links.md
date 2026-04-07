@@ -5,7 +5,7 @@ topic: working-with-action-links
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:34.415Z
+lastCollected: 2026-04-07T07:38:44.783Z
 estimatedTokens: 1057
 keywords: [Working, Action, Links, link, button, feed, element, Clicking, take, user, Web, initiate, file, download, invoke]
 ---

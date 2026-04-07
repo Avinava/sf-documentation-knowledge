@@ -5,7 +5,7 @@ topic: mobilesettings
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:40.727Z
+lastCollected: 2026-04-07T07:46:08.316Z
 estimatedTokens: 1802
 keywords: [MobileSettings, organization’s, mobile, settings, extends, Metadata, inherits, fullName, Declarative, File, Suffix, Directory, Location, Version, ChatterMobileSettings]
 ---

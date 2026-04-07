@@ -5,7 +5,7 @@ topic: evaluate-compliance-validation-procedure-action
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:46.338Z
+lastCollected: 2026-04-07T07:38:47.018Z
 estimatedTokens: 385
 keywords: [Evaluate, Compliance, Validation, Procedure, Action, evaluation, API, Special, Access, Rules, REST, HTTP, Inputs, Outputs]
 ---
@@ -29,7 +29,7 @@ To use this action, you must have the Compliance User permission set.
 
 URI
 
-/services/data/v66.0/actions/standard/evalCmplValidationProcedure
+/services/data/v59.0/actions/standard/evalCmplValidationProcedure
 
 Formats
 

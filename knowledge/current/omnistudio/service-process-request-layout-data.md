@@ -5,7 +5,7 @@ topic: service-process-request-layout-data
 apiVersion: 67.0
 release: summer-26-v67
 docType: developer-guide
-lastCollected: 2026-03-12T09:33:49.387Z
+lastCollected: 2026-04-07T07:38:52.106Z
 estimatedTokens: 107
 keywords: [Service, Process, Layout, Data, output]
 ---

@@ -5,7 +5,7 @@ topic: unsupported-metadata-types
 apiVersion: 67.0
 release: summer-26-v67
 docType: help-article
-lastCollected: 2026-03-12T09:33:42.713Z
+lastCollected: 2026-04-07T07:46:10.736Z
 estimatedTokens: 393
 keywords: [Unsupported, Metadata, Salesforce, features, aren’t, API, can’t, retrieved, deployed, changes, manually, organizations]
 ---

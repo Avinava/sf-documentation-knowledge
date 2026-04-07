@@ -5,8 +5,8 @@ topic: execution-governors-and-limits
 apiVersion: 67.0
 release: summer-26-v67
 docType: api-reference
-lastCollected: 2026-03-12T09:33:33.530Z
-estimatedTokens: 6658
+lastCollected: 2026-04-07T07:38:43.295Z
+estimatedTokens: 6608
 namespace: ConnectApi
 keywords: [Execution, Governors, Limits, Because, Apex, runs, multitenant, environment, runtime, engine, strictly, enforces, runaway, code, processes]
 ---
@@ -224,9 +224,7 @@ The limits in this table aren't specific to an Apex transaction; Lightning Platf
 
 Connect in Apex
 
-For classes in the ConnectApi namespace, every write operation costs one DML statement against the Apex governor limit. ConnectApi method calls are also subject to rate limits. ConnectApi rate limits match Connect REST API rate limits, and have a per user, per namespace, per hour rate limit. When you exceed the rate limit, a ConnectApi.RateLimitException is thrown. Your Apex code must catch and handle this exception.
-
-For migrated orgs and orgs created in Summer ’24 and later, only ConnectApi method calls that require Chatter are subject to the per user, per namespace, per hour rate limit. The documentation for every ConnectApi method indicates whether Chatter is required. ConnectApi method calls that don’t require Chatter count toward the [Salesforce Platform total API request allocations](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm), which are per org and span a 24-hour period.
+For classes in the ConnectApi namespace, every write operation costs one DML statement against the Apex governor limit. ConnectApi method calls are also subject to rate limits. Most ConnectApi method calls count toward the [Salesforce Platform total API request allocations](https://developer.salesforce.com/docs/atlas.en-us.260.0.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm), which are per org and span a 24-hour period. Only ConnectApi method calls that require Chatter are subject to a per user, per namespace, per hour rate limit. The documentation for every ConnectApi method indicates whether Chatter is required. When you exceed the rate limit, a ConnectApi.RateLimitException is thrown. Your Apex code must catch and handle this exception.
 
 Data.com Clean
 
