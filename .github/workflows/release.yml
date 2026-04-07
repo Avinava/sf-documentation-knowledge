@@ -16,14 +16,14 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0  # Full history for changelog
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '20'
+          node-version: '22'
           registry-url: 'https://registry.npmjs.org'
 
       - name: Install dependencies
@@ -59,37 +59,40 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Create GitHub Release
-        uses: softprops/action-gh-release@v1
-        with:
-          generate_release_notes: true
-          body: |
-            ## Install
-            ```bash
-            npm install @sfdxy/sf-documentation-knowledge@${{ steps.version.outputs.VERSION }}
-            ```
+        run: |
+          cat <<'BODY' > /tmp/release-body.md
+          ## Install
+          ```bash
+          npm install @sfdxy/sf-documentation-knowledge@${{ steps.version.outputs.VERSION }}
+          ```
 
-            ## MCP Server Setup (Claude Desktop)
-            Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
-            ```json
-            {
-              "mcpServers": {
-                "sf-docs": {
-                  "command": "npx",
-                  "args": ["-y", "@sfdxy/sf-documentation-knowledge@${{ steps.version.outputs.VERSION }}"]
-                }
+          ## MCP Server Setup (Claude Desktop)
+          Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
+          ```json
+          {
+            "mcpServers": {
+              "sf-docs": {
+                "command": "npx",
+                "args": ["-y", "@sfdxy/sf-documentation-knowledge@${{ steps.version.outputs.VERSION }}"]
               }
             }
-            ```
+          }
+          ```
 
-            ## Available MCP Tools
-            | Tool | Purpose |
-            |---|---|
-            | `sf_search` | Search across 121 SF documentation domains |
-            | `sf_read_topic` | Read a specific documentation topic |
-            | `sf_graph_query` | Navigate the knowledge graph |
-            | `sf_list_domains` | List all available domains |
-            | `sf_apex_lookup` | Look up Apex classes |
+          ## Available MCP Tools
+          | Tool | Purpose |
+          |---|---|
+          | `sf_search` | Search across 121 SF documentation domains |
+          | `sf_read_topic` | Read a specific documentation topic |
+          | `sf_graph_query` | Navigate the knowledge graph |
+          | `sf_list_domains` | List all available domains |
+          | `sf_apex_lookup` | Look up Apex classes |
 
-            See [README.md](https://github.com/Avinava/sf-documentation-knowledge#readme) for full documentation.
+          See [README.md](https://github.com/Avinava/sf-documentation-knowledge#readme) for full documentation.
+          BODY
+          gh release create "v${{ steps.version.outputs.VERSION }}" \
+            --title "v${{ steps.version.outputs.VERSION }}" \
+            --notes-file /tmp/release-body.md \
+            --generate-notes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
